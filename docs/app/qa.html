@@ -7,6 +7,7 @@
 <link rel="stylesheet" href="css/app.css">
 <script src="js/data-index.js"></script>
 <script src="js/relations-index.js"></script>
+<script src="js/knowledge-base.js"></script>
 <script src="js/app.js"></script>
 <style>
 /* 问答界面专用样式 */
@@ -287,49 +288,19 @@ class ArchaeologyQAEngine {
     this.relations = RELATIONS_DATA.reports;
     this.relationTypeNames = RELATIONS_DATA.relation_types;
     
-    // 嵌入的关键知识（从关系抽取和实体统计中提取）
-    this.knowledgeBase = {
-      '曾侯乙墓': {
-        铜器: 4582, 钟: 1556, 饰: 975, 环: 282, 盘: 277, 豆: 255, 鼎: 243,
-        玉器: 84, 漆器: 56, 金器: 12, 铁器: 1,
-        省份: '湖北', 年代: '战国', 页数: 530, 实体数: 23357
-      },
-      '张家坡西周墓地': {
-        铜器: 1884, 玉器: 68, 陶器: 562,
-        省份: '陕西', 年代: '西周', 页数: 712, 实体数: 13599
-      },
-      '蒙城尉迟寺': {
-        陶器: 1644, 石器: 62, 铜器: 1999,
-        省份: '安徽', 年代: '大汶口', 页数: 489, 实体数: 16630
-      },
-      '蒙城尉迟寺第二部': {
-        省份: '安徽', 年代: '大汶口', 页数: 705, 实体数: 16226
-      },
-      '偃师二里头': {
-        省份: '河南', 年代: '二里头文化', 页数: 615, 实体数: 15509
-      },
-      '汉长安城未央宫': {
-        省份: '陕西', 年代: '西汉', 页数: 368, 实体数: 12988
-      },
-      '滕州前掌大墓地': {
-        省份: '山东', 年代: '西周', 页数: 840, 实体数: 14605
-      },
-      '青龙泉与大寺': {
-        省份: '湖北', 年代: '新石器', 页数: 310, 实体数: 10171
-      },
-      '哈克遗址': {
-        省份: '内蒙古', 年代: '新石器', 页数: 216, 实体数: 6788
-      },
-      '安阳殷墟': { 备注: '系列报告，包括花园庄东地、郭家庄、小屯等' },
-      '花园庄东地': { 省份: '河南', 年代: '商代', 页数: 373, 实体数: 7690 },
-      '郭家庄': { 省份: '河南', 年代: '商代', 页数: 323, 实体数: 4544 },
-      '小屯': { 省份: '河南', 年代: '商代', 页数: 387, 实体数: 4940 },
-      '庙底沟与三里桥': { 省份: '河南', 年代: '仰韶', 页数: 138, 实体数: 1749 },
-      '西安半坡': { 省份: '陕西', 年代: '仰韶', 页数: 295, 实体数: 2107 },
-      '大葆台': { 省份: '北京', 年代: '西汉', 页数: 185, 实体数: 3216 },
-      '定陵': { 省份: '北京', 年代: '明代', 页数: 387, 实体数: 3760 },
-      '长沙马王堆': { 省份: '湖南', 年代: '西汉', 页数: 322, 实体数: 5206 }
+    // 使用KNOWLEDGE_BASE（71本报告的完整实体类型统计）
+    // 叠加硬编码的细分数据（如"钟"的数量）
+    this.knowledgeBase = typeof KNOWLEDGE_BASE !== 'undefined' ? KNOWLEDGE_BASE : {};
+    
+    // 补充硬编码的细分数据（KNOWLEDGE_BASE中"铜器"包含"钟"，这里补充钟的具体数量）
+    const extraData = {
+      '曾侯乙墓': { 钟: 1556, 饰: 975, 环: 282, 盘: 277, 豆: 255, 鼎: 243, 金器: 12 }
     };
+    for (const [site, data] of Object.entries(extraData)) {
+      if (this.knowledgeBase[site]) {
+        Object.assign(this.knowledgeBase[site], data);
+      }
+    }
   }
 
   // 意图识别
@@ -489,18 +460,22 @@ class ArchaeologyQAEngine {
         // 如果有详细知识，加入器物对比
         const k1 = this.knowledgeBase[s1];
         const k2 = this.knowledgeBase[s2];
-        if (k1 && k2 && (k1.铜器 !== undefined || k2.铜器 !== undefined)) {
+        const t1 = k1 ? (k1.types || k1) : null;
+        const t2 = k2 ? (k2.types || k2) : null;
+        if (t1 && t2 && (t1['铜器'] !== undefined || t2['铜器'] !== undefined)) {
           html += '<br><strong>器物对比（从实体标注中提取）：</strong><br><table><tr><th>器物类型</th><th>《' + s1 + '》</th><th>《' + s2 + '》</th></tr>';
-          ['铜器', '陶器', '玉器', '铁器'].forEach(t => {
-            const v1 = k1[t] !== undefined ? k1[t] : '-';
-            const v2 = k2[t] !== undefined ? k2[t] : '-';
+          ['铜器', '陶器', '玉器', '铁器', '石器', '金器', '漆器', '瓷器'].forEach(t => {
+            const v1 = t1[t] !== undefined ? t1[t] : (k1[t] !== undefined ? k1[t] : '-');
+            const v2 = t2[t] !== undefined ? t2[t] : (k2[t] !== undefined ? k2[t] : '-');
             if (v1 !== '-' || v2 !== '-') {
               html += `<tr><td>${t}</td><td>${v1}</td><td>${v2}</td></tr>`;
             }
           });
           html += '</table>';
-          if (k1.铜器 && k2.铜器) {
-            const ratio = (k1.铜器 / k2.铜器).toFixed(1);
+          const 铜器1 = t1['铜器'] !== undefined ? t1['铜器'] : k1['铜器'];
+          const 铜器2 = t2['铜器'] !== undefined ? t2['铜器'] : k2['铜器'];
+          if (铜器1 && 铜器2) {
+            const ratio = (铜器1 / 铜器2).toFixed(1);
             html += `<br>《${s1}》铜器数量是《${s2}》的 <strong>${ratio}倍</strong>。`;
           }
         }
@@ -572,12 +547,10 @@ class ArchaeologyQAEngine {
         
         // 加入知识库中的器物统计
         const kb = this.knowledgeBase[siteName];
-        if (kb) {
+        if (kb && kb.types) {
           html += '<br><strong>器物类型统计（从实体标注中统计）：</strong><br><table><tr><th>类型</th><th>数量</th></tr>';
-          Object.entries(kb).forEach(([k, v]) => {
-            if (typeof v === 'number') {
-              html += `<tr><td>${k}</td><td>${v.toLocaleString()}</td></tr>`;
-            }
+          Object.entries(kb.types).filter(([k, v]) => typeof v === 'number').sort((a,b) => b[1]-a[1]).forEach(([k, v]) => {
+            html += `<tr><td>${k}</td><td>${v.toLocaleString()}</td></tr>`;
           });
           html += '</table>';
         }
@@ -638,7 +611,16 @@ class ArchaeologyQAEngine {
       
       if (kb) {
         let html = `《${siteName}》出土器物统计：<br><table><tr><th>器物类型</th><th>数量</th></tr>`;
-        const items = Object.entries(kb).filter(([k, v]) => typeof v === 'number').sort((a,b) => b[1]-a[1]);
+        // 优先从types中读取，再读直接属性
+        const typeData = kb.types || {};
+        let items = Object.entries(typeData).filter(([k, v]) => typeof v === 'number').sort((a,b) => b[1]-a[1]);
+        // 补充直接属性（如硬编码的"钟"）
+        Object.entries(kb).forEach(([k, v]) => {
+          if (typeof v === 'number' && !typeData[k]) {
+            items.push([k, v]);
+          }
+        });
+        items.sort((a,b) => b[1]-a[1]);
         items.forEach(([k, v]) => {
           html += `<tr><td>${k}</td><td>${v.toLocaleString()}</td></tr>`;
         });
@@ -663,15 +645,17 @@ class ArchaeologyQAEngine {
       // 从知识库中找有该器物统计的遗址
       const sitesWithType = [];
       for (const [site, data] of Object.entries(this.knowledgeBase)) {
-        if (data[type] !== undefined) {
-          sitesWithType.push({ site, count: data[type] });
+        // 优先查types，再查直接属性
+        const count = data.types ? data.types[type] : data[type];
+        if (count !== undefined) {
+          sitesWithType.push({ site, count });
         }
       }
       sitesWithType.sort((a, b) => b.count - a.count);
       
       if (sitesWithType.length > 0) {
-        let html = `出土${type}的遗址统计：<br><table><tr><th>遗址</th><th>${type}数量</th></tr>`;
-        sitesWithType.forEach(s => {
+        let html = `出土${type}的遗址统计（TOP15）：<br><table><tr><th>遗址</th><th>${type}数量</th></tr>`;
+        sitesWithType.slice(0, 15).forEach(s => {
           html += `<tr><td>《${s.site}》</td><td>${s.count.toLocaleString()}</td></tr>`;
         });
         html += '</table>';
