@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>考古知识库 - 仪表盘</title>
+<link rel="stylesheet" href="css/app.css">
+<script src="js/data-index.js"></script>
+<script src="js/app.js"></script>
+</head>
+<body>
+<div class="app-layout">
+  <!-- 侧边导航 -->
+  <nav class="sidebar">
+    <div class="sidebar-header">
+      <h1>🏛️ 考古知识库</h1>
+      <p>《考古学专刊·丁种》智能标注系统</p>
+    </div>
+    <div class="nav-menu">
+      <a href="index.html" class="nav-item active"><span class="icon">📊</span>仪表盘</a>
+      <a href="reports.html" class="nav-item"><span class="icon">📚</span>报告库</a>
+      <a href="entities.html" class="nav-item"><span class="icon">🏷️</span>实体浏览器</a>
+      <a href="relations.html" class="nav-item"><span class="icon">🕸️</span>关系图谱</a>
+      <a href="qa.html" class="nav-item"><span class="icon">💬</span>智能问答</a>
+      <div class="nav-divider"></div>
+      <div class="nav-label">已有页面</div>
+      <a href="../index.html" class="nav-item" target="_blank"><span class="icon">🌐</span>总览网站</a>
+      <a href="../cross_report_analysis.html" class="nav-item" target="_blank"><span class="icon">📈</span>跨报告分析</a>
+      <a href="../output/archaeology_sites_map.html" class="nav-item" target="_blank"><span class="icon">🗺️</span>GIS地图</a>
+    </div>
+  </nav>
+
+  <!-- 主内容 -->
+  <main class="main-content">
+    <div class="topbar">
+      <div class="topbar-title">仪表盘</div>
+      <div class="topbar-search">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="global-search" placeholder="搜索遗址、省份、年代...">
+      </div>
+    </div>
+
+    <div class="page-content">
+      <!-- 统计卡片 -->
+      <div class="stats-grid" id="stats-grid">
+        <div class="stat-card">
+          <div class="stat-value" id="stat-reports">--</div>
+          <div class="stat-label">考古报告</div>
+          <div class="stat-change">本</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value" id="stat-pages">--</div>
+          <div class="stat-label">处理页数</div>
+          <div class="stat-change">页</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value" id="stat-entities">--</div>
+          <div class="stat-label">标注实体</div>
+          <div class="stat-change">个</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value" id="stat-relations">--</div>
+          <div class="stat-label">关系三元组</div>
+          <div class="stat-change">条</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value" id="stat-provinces">--</div>
+          <div class="stat-label">覆盖省份</div>
+          <div class="stat-change">个</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value" id="stat-types">--</div>
+          <div class="stat-label">实体类别</div>
+          <div class="stat-change">类</div>
+        </div>
+      </div>
+
+      <!-- 快捷入口 -->
+      <div class="card">
+        <div class="card-header">
+          <div class="card-title">快捷入口</div>
+        </div>
+        <div class="quick-links" id="quick-links">
+          <a href="reports.html" class="quick-link">
+            <div class="quick-link-icon">📚</div>
+            <div class="quick-link-title">报告库</div>
+            <div class="quick-link-desc">浏览71本考古报告，按省份、年代筛选</div>
+          </a>
+          <a href="entities.html" class="quick-link">
+            <div class="quick-link-icon">🏷️</div>
+            <div class="quick-link-title">实体浏览器</div>
+            <div class="quick-link-desc">按27类实体分类浏览，搜索具体实体</div>
+          </a>
+          <a href="relations.html" class="quick-link">
+            <div class="quick-link-icon">🕸️</div>
+            <div class="quick-link-title">关系图谱</div>
+            <div class="quick-link-desc">可视化遗址-遗迹-器物关系网络</div>
+          </a>
+          <a href="qa.html" class="quick-link">
+            <div class="quick-link-icon">💬</div>
+            <div class="quick-link-title">智能问答</div>
+            <div class="quick-link-desc">基于标注数据的考古领域问答系统</div>
+          </a>
+          <a href="../index.html" class="quick-link" target="_blank">
+            <div class="quick-link-icon">🌐</div>
+            <div class="quick-link-title">总览网站</div>
+            <div class="quick-link-desc">原始可视化网站（统计图表+报告清单）</div>
+          </a>
+          <a href="../output/archaeology_sites_map.html" class="quick-link" target="_blank">
+            <div class="quick-link-icon">🗺️</div>
+            <div class="quick-link-title">GIS地图</div>
+            <div class="quick-link-desc">70处遗址交互式分布地图</div>
+          </a>
+        </div>
+      </div>
+
+      <!-- TOP10报告 + 实体分布 -->
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+        <div class="card">
+          <div class="card-header">
+            <div class="card-title">实体数 TOP10 报告</div>
+          </div>
+          <table class="data-table" id="top-reports-table">
+            <thead><tr><th>排名</th><th>报告名称</th><th>实体数</th><th>页密度</th></tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <div class="card">
+          <div class="card-header">
+            <div class="card-title">实体类型分布 TOP10</div>
+          </div>
+          <div id="entity-types-list" style="max-height: 400px; overflow-y: auto;"></div>
+        </div>
+      </div>
+
+      <!-- 年代分布 -->
+      <div class="card">
+        <div class="card-header">
+          <div class="card-title">年代分布</div>
+        </div>
+        <div id="era-distribution" class="entity-cloud"></div>
+      </div>
+    </div>
+  </main>
+</div>
+
+<script>
+window.onAppDataLoaded = function(data) {
+  const meta = data.meta;
+  
+  // 统计卡片
+  document.getElementById('stat-reports').textContent = meta.total_reports;
+  document.getElementById('stat-pages').textContent = App.formatNumber(meta.total_pages);
+  document.getElementById('stat-entities').textContent = App.formatNumber(meta.total_entities);
+  document.getElementById('stat-relations').textContent = App.formatNumber(meta.total_relations);
+  document.getElementById('stat-provinces').textContent = meta.provinces;
+  document.getElementById('stat-types').textContent = meta.entity_types;
+  
+  // TOP10报告
+  const tbody = document.querySelector('#top-reports-table tbody');
+  data.reports.slice(0, 10).forEach((r, i) => {
+    const tr = document.createElement('tr');
+    tr.innerHTML = `<td>${i+1}</td><td><strong>${r.name}</strong><br><span class="tag tag-province">${r.province}</span> <span class="tag tag-era">${r.era}</span></td><td style="text-align:right;font-weight:600;color:var(--primary)">${r.entities.toLocaleString()}</td><td style="text-align:right">${r.density}</td>`;
+    tbody.appendChild(tr);
+  });
+  
+  // 实体类型TOP10
+  const typesList = document.getElementById('entity-types-list');
+  const maxTypeCount = data.entity_types[0].count;
+  const colors = ['#667eea','#764ba2','#e74c3c','#e67e22','#f1c40f','#2ecc71','#3498db','#9b59b6','#1abc9c','#34495e'];
+  data.entity_types.slice(0, 10).forEach((t, i) => {
+    const pct = (t.count / maxTypeCount * 100).toFixed(1);
+    const div = document.createElement('div');
+    div.style.cssText = 'display:flex;align-items:center;margin-bottom:10px;font-size:0.88em;';
+    div.innerHTML = `
+      <span style="width:80px;font-weight:500">${t.name}</span>
+      <div style="flex:1;height:20px;background:#f0f0f0;border-radius:10px;margin:0 12px;overflow:hidden">
+        <div style="width:${pct}%;height:100%;background:${colors[i]};border-radius:10px;transition:width 1s"></div>
+      </div>
+      <span style="width:60px;text-align:right;font-weight:600;color:${colors[i]}">${App.formatNumber(t.count)}</span>
+    `;
+    typesList.appendChild(div);
+  });
+  
+  // 年代分布
+  const eraDiv = document.getElementById('era-distribution');
+  const eraColors = {
+    '新石器时代': '#e74c3c', '夏商': '#e67e22', '西周': '#f1c40f', '东周': '#2ecc71',
+    '秦汉': '#3498db', '魏晋南北朝': '#9b59b6', '隋唐': '#1abc9c', '宋元明清': '#34495e'
+  };
+  data.eras.forEach(e => {
+    const color = eraColors[e.name] || '#95a5a6';
+    const span = document.createElement('span');
+    span.className = 'entity-tag';
+    span.style.cssText = `background:${color}15;color:${color};border-color:${color}30;font-weight:500;padding:6px 14px;border-radius:16px;margin:4px;display:inline-block;font-size:0.85em;`;
+    span.innerHTML = `${e.name} <strong>${App.formatNumber(e.count)}</strong>`;
+    eraDiv.appendChild(span);
+  });
+};
+</script>
+</body>
+</html>

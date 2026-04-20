@@ -1,0 +1,914 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>中国考古发掘报告知识库 - 总览</title>
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+    <style>
+        :root { --primary: #8B4513; --bg: #FDF5E6; --card-bg: #FFF8DC; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Noto Serif SC', 'SimSun', serif; background: var(--bg); line-height: 1.8; color: #333; }
+        .header { background: linear-gradient(135deg, #8B4513 0%, #D2691E 100%); color: white; padding: 3rem 2rem; text-align: center; }
+        .header h1 { font-size: 2.5rem; margin-bottom: 0.5rem; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); }
+        .header p { font-size: 1.2rem; opacity: 0.9; }
+        .stats-bar { display: flex; justify-content: center; gap: 3rem; margin-top: 2rem; flex-wrap: wrap; }
+        .stat-item { text-align: center; }
+        .stat-number { font-size: 2.5rem; font-weight: bold; color: #FFD700; }
+        .stat-label { font-size: 0.9rem; opacity: 0.9; }
+        
+        .container { max-width: 1400px; margin: 0 auto; padding: 2rem; }
+        .section { margin-bottom: 3rem; }
+        .section-title { font-size: 1.8rem; color: var(--primary); border-left: 4px solid var(--primary); padding-left: 1rem; margin-bottom: 1.5rem; }
+        
+        .charts-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 2rem; margin-bottom: 2rem; }
+        .chart-card { background: white; border-radius: 12px; padding: 1.5rem; box-shadow: 0 4px 15px rgba(0,0,0,0.08); }
+        .chart-card h3 { color: var(--primary); margin-bottom: 1rem; font-size: 1.1rem; }
+        .chart-container { height: 350px; }
+        
+        .reports-table { width: 100%; background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.08); }
+        .reports-table table { width: 100%; border-collapse: collapse; }
+        .reports-table th { background: var(--primary); color: white; padding: 1rem; text-align: left; font-weight: 600; }
+        .reports-table td { padding: 0.8rem 1rem; border-bottom: 1px solid #eee; }
+        .reports-table tr:hover { background: #FFF8DC; }
+        .reports-table .num { text-align: right; font-family: monospace; }
+        .reports-table .highlight { font-weight: bold; color: var(--primary); }
+        
+        .entity-cloud { display: flex; flex-wrap: wrap; gap: 0.5rem; background: white; padding: 1.5rem; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); }
+        .entity-tag { background: #FFF8DC; border: 1px solid #DEB887; padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.85rem; color: var(--primary); }
+        .entity-tag .count { background: var(--primary); color: white; padding: 0.1rem 0.4rem; border-radius: 10px; margin-left: 0.3rem; font-size: 0.75rem; }
+        
+        .footer { text-align: center; padding: 2rem; color: #666; font-size: 0.9rem; margin-top: 3rem; border-top: 1px solid #DEB887; }
+        
+        @media (max-width: 768px) {
+            .charts-grid { grid-template-columns: 1fr; }
+            .header h1 { font-size: 1.8rem; }
+            .stats-bar { gap: 1.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <h1>中国考古发掘报告知识库</h1>
+        <p>基于28类考古学实体的数字化标注工程</p>
+        <div class="stats-bar">
+            <div class="stat-item"><div class="stat-number">71</div><div class="stat-label">发掘报告</div></div>
+            <div class="stat-item"><div class="stat-number">24,851</div><div class="stat-label">处理页数</div></div>
+            <div class="stat-item"><div class="stat-number">324,735</div><div class="stat-label">标注实体</div></div>
+            <div class="stat-item"><div class="stat-number">27</div><div class="stat-label">实体类别</div></div>
+        </div>
+    </header>
+    
+    <div class="container">
+        <section class="section">
+            <h2 class="section-title">📊 统计分析</h2>
+            <div class="charts-grid">
+                <div class="chart-card">
+                    <h3>实体类型分布 TOP15</h3>
+                    <div id="entityChart" class="chart-container"></div>
+                </div>
+                <div class="chart-card">
+                    <h3>年代分布</h3>
+                    <div id="eraChart" class="chart-container"></div>
+                </div>
+                <div class="chart-card">
+                    <h3>实体数 TOP10 报告</h3>
+                    <div id="reportChart" class="chart-container"></div>
+                </div>
+                <div class="chart-card">
+                    <h3>文化类型分布</h3>
+                    <div id="cultureChart" class="chart-container"></div>
+                </div>
+            </div>
+        </section>
+        
+        <section class="section">
+            <h2 class="section-title">🏛️ 发掘报告清单</h2>
+            <div class="reports-table">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>序号</th>
+                            <th>报告名称</th>
+                            <th>年代</th>
+                            <th>文化类型</th>
+                            <th>页数</th>
+                            <th>有效页</th>
+                            <th>实体数</th>
+                            <th>主要实体类型</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="num">1</td>
+                            <td class="highlight">蒙城尉迟寺</td>
+                            <td>新石器时代</td>
+                            <td>龙山文化</td>
+                            <td class="num">489</td>
+                            <td class="num">488</td>
+                            <td class="num highlight">16,630</td>
+                            <td><small>遗迹编号(3624), 测量数据(3145), 铜器(1999)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">2</td>
+                            <td class="highlight">蒙城尉迟寺第二部</td>
+                            <td>新石器时代</td>
+                            <td>大汶口文化</td>
+                            <td class="num">705</td>
+                            <td class="num">696</td>
+                            <td class="num highlight">16,226</td>
+                            <td><small>遗迹编号(3917), 测量数据(2636), 年代(1868)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">3</td>
+                            <td class="highlight">偃师二里头</td>
+                            <td>夏商周</td>
+                            <td>二里头文化</td>
+                            <td class="num">615</td>
+                            <td class="num">607</td>
+                            <td class="num highlight">15,509</td>
+                            <td><small>测量数据(3948), 遗迹编号(3270), 探方编号(1726)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">4</td>
+                            <td class="highlight">滕州前掌大墓地</td>
+                            <td>新石器时代</td>
+                            <td>龙山文化</td>
+                            <td class="num">840</td>
+                            <td class="num">819</td>
+                            <td class="num highlight">14,605</td>
+                            <td><small>遗迹编号(3705), 年代(2571), 铜器(2376)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">5</td>
+                            <td class="highlight">张家坡西周墓地</td>
+                            <td>夏商周</td>
+                            <td>周文化</td>
+                            <td class="num">712</td>
+                            <td class="num">707</td>
+                            <td class="num highlight">13,599</td>
+                            <td><small>遗迹编号(4908), 测量数据(3398), 铜器(1884)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">6</td>
+                            <td class="highlight">鄂城六朝墓</td>
+                            <td>夏商周</td>
+                            <td>多元文化</td>
+                            <td class="num">600</td>
+                            <td class="num">594</td>
+                            <td class="num highlight">13,109</td>
+                            <td><small>测量数据(3583), 铜器(2399), 遗迹编号(2287)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">7</td>
+                            <td class="highlight">汉长安城未央宫</td>
+                            <td>秦汉</td>
+                            <td>汉文化</td>
+                            <td class="num">660</td>
+                            <td class="num">642</td>
+                            <td class="num highlight">12,988</td>
+                            <td><small>测量数据(5429), 遗迹编号(2552), 探方编号(2054)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">8</td>
+                            <td class="highlight">南邠州碾子坡</td>
+                            <td>夏商周</td>
+                            <td>商文化</td>
+                            <td class="num">747</td>
+                            <td class="num">731</td>
+                            <td class="num highlight">11,231</td>
+                            <td><small>测量数据(3557), 遗迹编号(2810), 年代(1021)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">9</td>
+                            <td class="highlight">青龙泉与大寺</td>
+                            <td>新石器时代</td>
+                            <td>仰韶文化</td>
+                            <td class="num">318</td>
+                            <td class="num">312</td>
+                            <td class="num highlight">10,437</td>
+                            <td><small>遗迹编号(2512), 探方编号(2220), 测量数据(1277)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">10</td>
+                            <td class="highlight">曾侯乙墓</td>
+                            <td>夏商周</td>
+                            <td>多元文化</td>
+                            <td class="num">530</td>
+                            <td class="num">530</td>
+                            <td class="num highlight">10,222</td>
+                            <td><small>铜器(4582), 陶器(1557), 年代(1263)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">11</td>
+                            <td class="highlight">哈克遗址</td>
+                            <td>夏商周</td>
+                            <td>多元文化</td>
+                            <td class="num">295</td>
+                            <td class="num">293</td>
+                            <td class="num highlight">9,272</td>
+                            <td><small>探方编号(3386), 测量数据(1605), 遗迹编号(988)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">12</td>
+                            <td class="highlight">枣阳雕龙碑</td>
+                            <td>新石器时代</td>
+                            <td>仰韶文化</td>
+                            <td class="num">615</td>
+                            <td class="num">608</td>
+                            <td class="num highlight">9,133</td>
+                            <td><small>遗迹编号(2361), 探方编号(1669), 测量数据(1496)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">13</td>
+                            <td class="highlight">临猗程村墓地</td>
+                            <td>夏商周</td>
+                            <td>楚文化</td>
+                            <td class="num">486</td>
+                            <td class="num">482</td>
+                            <td class="num highlight">8,969</td>
+                            <td><small>测量数据(3366), 遗迹编号(2768), 铜器(902)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">14</td>
+                            <td class="highlight">师赵村与西山坪</td>
+                            <td>新石器时代</td>
+                            <td>仰韶文化</td>
+                            <td class="num">525</td>
+                            <td class="num">504</td>
+                            <td class="num highlight">8,871</td>
+                            <td><small>测量数据(2590), 探方编号(1926), 遗迹编号(1504)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">15</td>
+                            <td class="highlight">山东王因</td>
+                            <td>新石器时代</td>
+                            <td>大汶口文化</td>
+                            <td class="num">629</td>
+                            <td class="num">535</td>
+                            <td class="num highlight">8,153</td>
+                            <td><small>遗迹编号(2146), 探方编号(1391), 测量数据(1214)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">16</td>
+                            <td class="highlight">安阳殷墟花园庄东地商代墓葬</td>
+                            <td>夏商周</td>
+                            <td>商文化</td>
+                            <td class="num">496</td>
+                            <td class="num">490</td>
+                            <td class="num highlight">7,690</td>
+                            <td><small>遗迹编号(2560), 测量数据(1733), 铜器(959)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">17</td>
+                            <td class="highlight">广州汉墓</td>
+                            <td>夏商周</td>
+                            <td>汉文化</td>
+                            <td class="num">729</td>
+                            <td class="num">718</td>
+                            <td class="num highlight">7,348</td>
+                            <td><small>年代(1622), 铜器(1517), 测量数据(1406)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">18</td>
+                            <td class="highlight">北魏洛阳永宁寺</td>
+                            <td>魏晋南北朝</td>
+                            <td>多元文化</td>
+                            <td class="num">378</td>
+                            <td class="num">360</td>
+                            <td class="num highlight">6,828</td>
+                            <td><small>探方编号(2295), 遗迹编号(1998), 测量数据(618)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">19</td>
+                            <td class="highlight">宁夏灵武窑</td>
+                            <td>隋唐</td>
+                            <td>多元文化</td>
+                            <td class="num">410</td>
+                            <td class="num">403</td>
+                            <td class="num highlight">6,612</td>
+                            <td><small>探方编号(1907), 遗迹编号(1431), 测量数据(976)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">20</td>
+                            <td class="highlight">定陵</td>
+                            <td>魏晋南北朝</td>
+                            <td>多元文化</td>
+                            <td class="num">593</td>
+                            <td class="num">558</td>
+                            <td class="num highlight">5,735</td>
+                            <td><small>年代(1794), 测量数据(1458), 铜器(1232)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">21</td>
+                            <td class="highlight">青海柳湾</td>
+                            <td>魏晋南北朝</td>
+                            <td>多元文化</td>
+                            <td class="num">654</td>
+                            <td class="num">648</td>
+                            <td class="num highlight">5,686</td>
+                            <td><small>纹饰(1213), 铜器(1121), 测量数据(975)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">22</td>
+                            <td class="highlight">西汉礼制建筑遗址</td>
+                            <td>秦汉</td>
+                            <td>汉文化</td>
+                            <td class="num">387</td>
+                            <td class="num">373</td>
+                            <td class="num highlight">5,307</td>
+                            <td><small>测量数据(1445), 遗迹编号(881), 年代(871)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">23</td>
+                            <td class="highlight">夏县东下冯</td>
+                            <td>新石器时代</td>
+                            <td>龙山文化</td>
+                            <td class="num">369</td>
+                            <td class="num">368</td>
+                            <td class="num highlight">5,243</td>
+                            <td><small>遗迹编号(1026), 测量数据(886), 探方编号(832)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">24</td>
+                            <td class="highlight">安阳殷墟小屯建筑遗存</td>
+                            <td>夏商周</td>
+                            <td>商文化</td>
+                            <td class="num">236</td>
+                            <td class="num">229</td>
+                            <td class="num highlight">4,940</td>
+                            <td><small>测量数据(1257), 建筑结构(719), 遗迹编号(697)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">25</td>
+                            <td class="highlight">汉长安城武库</td>
+                            <td>秦汉</td>
+                            <td>汉文化</td>
+                            <td class="num">289</td>
+                            <td class="num">275</td>
+                            <td class="num highlight">4,862</td>
+                            <td><small>测量数据(1426), 探方编号(1050), 遗迹编号(713)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">26</td>
+                            <td class="highlight">陕县东周汉墓</td>
+                            <td>夏商周</td>
+                            <td>汉文化</td>
+                            <td class="num">360</td>
+                            <td class="num">359</td>
+                            <td class="num highlight">4,594</td>
+                            <td><small>铜器(1190), 测量数据(1074), 陶器(660)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">27</td>
+                            <td class="highlight">敖汉赵宝沟</td>
+                            <td>宋元明清</td>
+                            <td>汉文化</td>
+                            <td class="num">362</td>
+                            <td class="num">355</td>
+                            <td class="num highlight">4,571</td>
+                            <td><small>测量数据(1490), 遗迹编号(1115), 铜器(541)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">28</td>
+                            <td class="highlight">安阳殷墟郭家庄商代墓葬</td>
+                            <td>夏商周</td>
+                            <td>商文化</td>
+                            <td class="num">294</td>
+                            <td class="num">285</td>
+                            <td class="num highlight">4,544</td>
+                            <td><small>测量数据(1597), 遗迹编号(1467), 铜器(625)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">29</td>
+                            <td class="highlight">沣西发掘报告</td>
+                            <td>新石器时代</td>
+                            <td>仰韶文化</td>
+                            <td class="num">309</td>
+                            <td class="num">303</td>
+                            <td class="num highlight">4,524</td>
+                            <td><small>遗迹编号(1086), 探方编号(724), 铜器(628)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">30</td>
+                            <td class="highlight">徐家碾寺洼文化墓地</td>
+                            <td>夏商周</td>
+                            <td>周文化</td>
+                            <td class="num">366</td>
+                            <td class="num">354</td>
+                            <td class="num highlight">4,475</td>
+                            <td><small>遗迹编号(1635), 测量数据(969), 铜器(390)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">31</td>
+                            <td class="highlight">双砣子与岗上</td>
+                            <td>宋元明清</td>
+                            <td>多元文化</td>
+                            <td class="num">284</td>
+                            <td class="num">279</td>
+                            <td class="num highlight">4,385</td>
+                            <td><small>遗迹编号(1198), 测量数据(580), 铜器(490)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">32</td>
+                            <td class="highlight">大甸子</td>
+                            <td>夏商周</td>
+                            <td>商文化</td>
+                            <td class="num">517</td>
+                            <td class="num">512</td>
+                            <td class="num highlight">4,196</td>
+                            <td><small>遗迹编号(1617), 年代(507), 测量数据(433)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">33</td>
+                            <td class="highlight">北庭高昌回鹘佛寺遗址</td>
+                            <td>隋唐</td>
+                            <td>多元文化</td>
+                            <td class="num">308</td>
+                            <td class="num">306</td>
+                            <td class="num highlight">3,920</td>
+                            <td><small>测量数据(2326), 遗迹编号(506), 铜器(200)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">34</td>
+                            <td class="highlight">昌都卡若</td>
+                            <td>宋元明清</td>
+                            <td>多元文化</td>
+                            <td class="num">263</td>
+                            <td class="num">261</td>
+                            <td class="num highlight">3,809</td>
+                            <td><small>遗迹编号(756), 探方编号(742), 测量数据(497)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">35</td>
+                            <td class="highlight">新疆考古发掘报告</td>
+                            <td>魏晋南北朝</td>
+                            <td>多元文化</td>
+                            <td class="num">224</td>
+                            <td class="num">220</td>
+                            <td class="num highlight">3,794</td>
+                            <td><small>测量数据(974), 探方编号(455), 年代(420)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">36</td>
+                            <td class="highlight">京山屈家岭</td>
+                            <td>新石器时代</td>
+                            <td>汉文化</td>
+                            <td class="num">153</td>
+                            <td class="num">146</td>
+                            <td class="num highlight">3,232</td>
+                            <td><small>探方编号(1022), 遗迹编号(966), 铜器(288)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">37</td>
+                            <td class="highlight">胶县三里河</td>
+                            <td>新石器时代</td>
+                            <td>龙山文化</td>
+                            <td class="num">302</td>
+                            <td class="num">299</td>
+                            <td class="num highlight">3,200</td>
+                            <td><small>遗迹编号(844), 年代(446), 铜器(395)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">38</td>
+                            <td class="highlight">江陵雨台山楚墓</td>
+                            <td>宋元明清</td>
+                            <td>楚文化</td>
+                            <td class="num">291</td>
+                            <td class="num">289</td>
+                            <td class="num highlight">3,115</td>
+                            <td><small>测量数据(597), 铜器(594), 葬具(558)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">39</td>
+                            <td class="highlight">宝鸡北首岭</td>
+                            <td>新石器时代</td>
+                            <td>仰韶文化</td>
+                            <td class="num">303</td>
+                            <td class="num">295</td>
+                            <td class="num highlight">3,070</td>
+                            <td><small>探方编号(610), 遗迹编号(592), 测量数据(448)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">40</td>
+                            <td class="highlight">武功发掘报告</td>
+                            <td>新石器时代</td>
+                            <td>仰韶文化</td>
+                            <td class="num">284</td>
+                            <td class="num">282</td>
+                            <td class="num highlight">2,510</td>
+                            <td><small>测量数据(424), 探方编号(342), 遗迹编号(302)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">41</td>
+                            <td class="highlight">郑州二里岗</td>
+                            <td>新石器时代</td>
+                            <td>龙山文化</td>
+                            <td class="num">171</td>
+                            <td class="num">166</td>
+                            <td class="num highlight">2,392</td>
+                            <td><small>遗迹编号(616), 测量数据(359), 年代(325)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">42</td>
+                            <td class="highlight">磁县湾张北朝壁画墓</td>
+                            <td>魏晋南北朝</td>
+                            <td>多元文化</td>
+                            <td class="num">425</td>
+                            <td class="num">337</td>
+                            <td class="num highlight">2,356</td>
+                            <td><small>测量数据(630), 遗址名称(599), 铜器(406)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">43</td>
+                            <td class="highlight">北京大葆台汉墓</td>
+                            <td>秦汉</td>
+                            <td>汉文化</td>
+                            <td class="num">267</td>
+                            <td class="num">264</td>
+                            <td class="num highlight">2,143</td>
+                            <td><small>测量数据(595), 铜器(403), 年代(313)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">44</td>
+                            <td class="highlight">西安半坡</td>
+                            <td>新石器时代</td>
+                            <td>多元文化</td>
+                            <td class="num">545</td>
+                            <td class="num">542</td>
+                            <td class="num highlight">2,107</td>
+                            <td><small>遗迹编号(569), 测量数据(424), 探方编号(239)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">45</td>
+                            <td class="highlight">洛阳中州路</td>
+                            <td>夏商周</td>
+                            <td>周文化</td>
+                            <td class="num">268</td>
+                            <td class="num">251</td>
+                            <td class="num highlight">2,100</td>
+                            <td><small>遗迹编号(923), 测量数据(334), 年代(220)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">46</td>
+                            <td class="highlight">元君庙仰韶墓地</td>
+                            <td>新石器时代</td>
+                            <td>仰韶文化</td>
+                            <td class="num">226</td>
+                            <td class="num">217</td>
+                            <td class="num highlight">1,880</td>
+                            <td><small>遗迹编号(726), 年代(396), 铜器(143)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">47</td>
+                            <td class="highlight">庙底沟与三里桥</td>
+                            <td>新石器时代</td>
+                            <td>龙山文化</td>
+                            <td class="num">235</td>
+                            <td class="num">232</td>
+                            <td class="num highlight">1,749</td>
+                            <td><small>遗迹编号(342), 年代(231), 遗址名称(192)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">48</td>
+                            <td class="highlight">殷虚妇好墓</td>
+                            <td>夏商周</td>
+                            <td>多元文化</td>
+                            <td class="num">388</td>
+                            <td class="num">331</td>
+                            <td class="num highlight">1,609</td>
+                            <td><small>测量数据(523), 铜器(465), 遗迹编号(149)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">49</td>
+                            <td class="highlight">洛阳发掘报告</td>
+                            <td>新石器时代</td>
+                            <td>仰韶文化</td>
+                            <td class="num">311</td>
+                            <td class="num">276</td>
+                            <td class="num highlight">1,334</td>
+                            <td><small>遗迹编号(477), 探方编号(230), 年代(170)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">50</td>
+                            <td class="highlight">长沙马王堆一号汉墓</td>
+                            <td>夏商周</td>
+                            <td>汉文化</td>
+                            <td class="num">169</td>
+                            <td class="num">151</td>
+                            <td class="num highlight">1,321</td>
+                            <td><small>测量数据(485), 年代(253), 铜器(193)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">51</td>
+                            <td class="highlight">长沙马王堆一号汉墓上册</td>
+                            <td>夏商周</td>
+                            <td>汉文化</td>
+                            <td class="num">169</td>
+                            <td class="num">151</td>
+                            <td class="num highlight">1,321</td>
+                            <td><small>测量数据(485), 年代(253), 铜器(193)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">52</td>
+                            <td class="highlight">西安郊区隋唐墓</td>
+                            <td>魏晋南北朝</td>
+                            <td>唐文化</td>
+                            <td class="num">113</td>
+                            <td class="num">111</td>
+                            <td class="num highlight">1,302</td>
+                            <td><small>年代(395), 测量数据(324), 铜器(265)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">53</td>
+                            <td class="highlight">南宋官窑</td>
+                            <td>宋元明清</td>
+                            <td>宋文化</td>
+                            <td class="num">156</td>
+                            <td class="num">143</td>
+                            <td class="num highlight">912</td>
+                            <td><small>测量数据(207), 探方编号(203), 遗迹编号(195)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">54</td>
+                            <td class="highlight">唐长安城郊隋唐墓</td>
+                            <td>隋唐</td>
+                            <td>唐文化</td>
+                            <td class="num">216</td>
+                            <td class="num">195</td>
+                            <td class="num highlight">723</td>
+                            <td><small>铜器(198), 测量数据(174), 年代(147)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">55</td>
+                            <td class="highlight">长沙发掘报告</td>
+                            <td>夏商周</td>
+                            <td>汉文化</td>
+                            <td class="num">302</td>
+                            <td class="num">288</td>
+                            <td class="num highlight">617</td>
+                            <td><small>年代(171), 测量数据(125), 遗迹编号(88)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">56</td>
+                            <td class="highlight">唐长安大明宫</td>
+                            <td>隋唐</td>
+                            <td>唐文化</td>
+                            <td class="num">154</td>
+                            <td class="num">151</td>
+                            <td class="num highlight">578</td>
+                            <td><small>年代(227), 测量数据(163), 建筑结构(69)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">57</td>
+                            <td class="highlight">辉县发掘报告</td>
+                            <td>夏商周</td>
+                            <td>楚文化</td>
+                            <td class="num">279</td>
+                            <td class="num">256</td>
+                            <td class="num highlight">522</td>
+                            <td><small>测量数据(178), 遗迹编号(140), 年代(72)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">58</td>
+                            <td class="highlight">三门峡漕运遗迹</td>
+                            <td>魏晋南北朝</td>
+                            <td>多元文化</td>
+                            <td class="num">189</td>
+                            <td class="num">109</td>
+                            <td class="num highlight">515</td>
+                            <td><small>测量数据(192), 年代(178), 探方编号(48)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">59</td>
+                            <td class="highlight">前蜀王建墓</td>
+                            <td>魏晋南北朝</td>
+                            <td>多元文化</td>
+                            <td class="num">201</td>
+                            <td class="num">148</td>
+                            <td class="num highlight">444</td>
+                            <td><small>年代(162), 测量数据(123), 铜器(59)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">60</td>
+                            <td class="highlight">河南信阳楚墓出土文物图录</td>
+                            <td>夏商周</td>
+                            <td>楚文化</td>
+                            <td class="num">189</td>
+                            <td class="num">160</td>
+                            <td class="num highlight">264</td>
+                            <td><small>测量数据(203), 铜器(17), 陶器(15)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">61</td>
+                            <td class="highlight">巩县铁生沟</td>
+                            <td>夏商周</td>
+                            <td>汉文化</td>
+                            <td class="num">67</td>
+                            <td class="num">65</td>
+                            <td class="num highlight">250</td>
+                            <td><small>测量数据(77), 遗迹编号(49), 探方编号(38)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">62</td>
+                            <td class="highlight">满城汉墓</td>
+                            <td>宋元明清</td>
+                            <td>汉文化</td>
+                            <td class="num">314</td>
+                            <td class="num">303</td>
+                            <td class="num highlight">227</td>
+                            <td><small>铜器(83), 年代(43), 陶器(43)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">63</td>
+                            <td class="highlight">满城汉墓下册</td>
+                            <td>宋元明清</td>
+                            <td>汉文化</td>
+                            <td class="num">314</td>
+                            <td class="num">303</td>
+                            <td class="num highlight">227</td>
+                            <td><small>铜器(83), 年代(43), 陶器(43)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">64</td>
+                            <td class="highlight">塔里木盆地考古记</td>
+                            <td>魏晋南北朝</td>
+                            <td>多元文化</td>
+                            <td class="num">329</td>
+                            <td class="num">290</td>
+                            <td class="num highlight">211</td>
+                            <td><small>铜器(57), 年代(38), 遗迹编号(24)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">65</td>
+                            <td class="highlight">华县泉护村</td>
+                            <td>夏商周</td>
+                            <td>周文化</td>
+                            <td class="num">17</td>
+                            <td class="num">17</td>
+                            <td class="num highlight">139</td>
+                            <td><small>遗址名称(37), 遗迹编号(36), 年代(24)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">66</td>
+                            <td class="highlight">上村岭虢国墓地</td>
+                            <td>夏商周</td>
+                            <td>周文化</td>
+                            <td class="num">177</td>
+                            <td class="num">130</td>
+                            <td class="num highlight">125</td>
+                            <td><small>测量数据(64), 遗迹编号(38), 年代(10)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">67</td>
+                            <td class="highlight">西汉南越王墓</td>
+                            <td>秦汉</td>
+                            <td>汉文化</td>
+                            <td class="num">74</td>
+                            <td class="num">74</td>
+                            <td class="num highlight">108</td>
+                            <td><small>遗迹编号(44), 铜器(42), 陶器(9)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">68</td>
+                            <td class="highlight">西汉南越王墓下册</td>
+                            <td>秦汉</td>
+                            <td>汉文化</td>
+                            <td class="num">74</td>
+                            <td class="num">74</td>
+                            <td class="num highlight">108</td>
+                            <td><small>遗迹编号(44), 铜器(42), 陶器(9)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">69</td>
+                            <td class="highlight">吐鲁番考古记</td>
+                            <td>隋唐</td>
+                            <td>多元文化</td>
+                            <td class="num">202</td>
+                            <td class="num">82</td>
+                            <td class="num highlight">7</td>
+                            <td><small>遗迹编号(5), 测量数据(1), 年代(1)</small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">70</td>
+                            <td class="highlight">汉杜陵陵园遗址</td>
+                            <td>待定</td>
+                            <td>汉文化</td>
+                            <td class="num">115</td>
+                            <td class="num">115</td>
+                            <td class="num highlight">0</td>
+                            <td><small></small></td>
+                        </tr>
+                        <tr>
+                            <td class="num">71</td>
+                            <td class="highlight">胶东半岛贝丘遗址</td>
+                            <td>待定</td>
+                            <td>多元文化</td>
+                            <td class="num">268</td>
+                            <td class="num">268</td>
+                            <td class="num highlight">0</td>
+                            <td><small></small></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+        
+        <section class="section">
+            <h2 class="section-title">🏷️ 实体类型总览</h2>
+            <div class="entity-cloud">
+                <span class="entity-tag">测量数据 <span class="count">71,340</span></span>
+                <span class="entity-tag">遗迹编号 <span class="count">66,995</span></span>
+                <span class="entity-tag">铜器 <span class="count">39,439</span></span>
+                <span class="entity-tag">年代 <span class="count">32,325</span></span>
+                <span class="entity-tag">探方编号 <span class="count">29,472</span></span>
+                <span class="entity-tag">陶器 <span class="count">20,611</span></span>
+                <span class="entity-tag">遗址名称 <span class="count">15,857</span></span>
+                <span class="entity-tag">纹饰 <span class="count">11,476</span></span>
+                <span class="entity-tag">建筑结构 <span class="count">7,095</span></span>
+                <span class="entity-tag">遗迹类型 <span class="count">6,089</span></span>
+                <span class="entity-tag">材质 <span class="count">5,122</span></span>
+                <span class="entity-tag">遗存类型 <span class="count">4,645</span></span>
+                <span class="entity-tag">层位关系 <span class="count">4,535</span></span>
+                <span class="entity-tag">葬具 <span class="count">2,863</span></span>
+                <span class="entity-tag">石器 <span class="count">2,035</span></span>
+                <span class="entity-tag">地层 <span class="count">1,150</span></span>
+                <span class="entity-tag">土样特征 <span class="count">836</span></span>
+                <span class="entity-tag">玉器 <span class="count">741</span></span>
+                <span class="entity-tag">骨器 <span class="count">535</span></span>
+                <span class="entity-tag">葬式 <span class="count">415</span></span>
+                <span class="entity-tag">漆器 <span class="count">325</span></span>
+                <span class="entity-tag">铁器 <span class="count">220</span></span>
+                <span class="entity-tag">金器 <span class="count">184</span></span>
+                <span class="entity-tag">蚌器 <span class="count">144</span></span>
+                <span class="entity-tag">木器 <span class="count">127</span></span>
+                <span class="entity-tag">发掘区 <span class="count">92</span></span>
+                <span class="entity-tag">银器 <span class="count">67</span></span>
+            </div>
+        </section>
+    </div>
+    
+    <footer class="footer">
+        <p>中国考古发掘报告数字化标注工程 | 基于 PyMuPDF + Tesseract OCR + 正则模式匹配</p>
+        <p>生成时间：2026年4月14日</p>
+    </footer>
+    
+    <script>
+
+        const entityChart = echarts.init(document.getElementById('entityChart'));
+        entityChart.setOption({
+            tooltip: { trigger: 'axis', axisPointer: { type: 'shadow' } },
+            grid: { left: '3%', right: '4%', bottom: '3%', containLabel: true },
+            xAxis: { type: 'value' },
+            yAxis: { type: 'category', data: ["石器", "葬具", "层位关系", "遗存类型", "材质", "遗迹类型", "建筑结构", "纹饰", "遗址名称", "陶器", "探方编号", "年代", "铜器", "遗迹编号", "测量数据"] },
+            series: [{
+                type: 'bar',
+                data: [2035, 2863, 4535, 4645, 5122, 6089, 7095, 11476, 15857, 20611, 29472, 32325, 39439, 66995, 71340],
+                itemStyle: { color: '#8B4513', borderRadius: [0, 4, 4, 0] }
+            }]
+        });
+        
+        const eraChart = echarts.init(document.getElementById('eraChart'));
+        eraChart.setOption({
+            tooltip: { trigger: 'item' },
+            series: [{
+                type: 'pie',
+                radius: ['40%', '70%'],
+                data: [{"name": "夏商周", "value": 24}, {"name": "新石器时代", "value": 18}, {"name": "魏晋南北朝", "value": 9}, {"name": "宋元明清", "value": 7}, {"name": "秦汉", "value": 6}, {"name": "隋唐", "value": 5}, {"name": "待定", "value": 2}],
+                label: { formatter: '{b}: {c}本' }
+            }]
+        });
+        
+        const reportChart = echarts.init(document.getElementById('reportChart'));
+        reportChart.setOption({
+            tooltip: { trigger: 'axis', axisPointer: { type: 'shadow' } },
+            grid: { left: '3%', right: '4%', bottom: '3%', containLabel: true },
+            xAxis: { type: 'value' },
+            yAxis: { type: 'category', data: ["曾侯乙墓", "青龙泉与大寺", "南邠州碾子坡", "汉长安城未央宫", "鄂城六朝墓", "张家坡西周墓地", "滕州前掌大墓地", "偃师二里头", "蒙城尉迟寺第二部", "蒙城尉迟寺"] },
+            series: [{
+                type: 'bar',
+                data: [10222, 10437, 11231, 12988, 13109, 13599, 14605, 15509, 16226, 16630],
+                itemStyle: { color: '#D2691E', borderRadius: [0, 4, 4, 0] }
+            }]
+        });
+        
+        const cultureChart = echarts.init(document.getElementById('cultureChart'));
+        cultureChart.setOption({
+            tooltip: { trigger: 'item' },
+            series: [{
+                type: 'pie',
+                radius: '60%',
+                data: [{"name": "多元文化", "value": 19}, {"name": "汉文化", "value": 17}, {"name": "仰韶文化", "value": 8}, {"name": "龙山文化", "value": 6}, {"name": "周文化", "value": 5}, {"name": "商文化", "value": 5}, {"name": "楚文化", "value": 4}, {"name": "唐文化", "value": 3}, {"name": "大汶口文化", "value": 2}, {"name": "二里头文化", "value": 1}],
+                label: { formatter: '{b}\n{c}本' }
+            }]
+        });
+        
+        window.addEventListener('resize', () => {
+            entityChart.resize();
+            eraChart.resize();
+            reportChart.resize();
+            cultureChart.resize();
+        });
+    </script>
+</body>
+</html>

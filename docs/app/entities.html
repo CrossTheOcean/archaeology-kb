@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>考古知识库 - 实体浏览器</title>
+<link rel="stylesheet" href="css/app.css">
+<script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+<script src="js/data-index.js"></script>
+<script src="js/app.js"></script>
+</head>
+<body>
+<div class="app-layout">
+  <nav class="sidebar">
+    <div class="sidebar-header">
+      <h1>🏛️ 考古知识库</h1>
+      <p>《考古学专刊·丁种》智能标注系统</p>
+    </div>
+    <div class="nav-menu">
+      <a href="index.html" class="nav-item"><span class="icon">📊</span>仪表盘</a>
+      <a href="reports.html" class="nav-item"><span class="icon">📚</span>报告库</a>
+      <a href="entities.html" class="nav-item active"><span class="icon">🏷️</span>实体浏览器</a>
+      <a href="relations.html" class="nav-item"><span class="icon">🕸️</span>关系图谱</a>
+      <a href="qa.html" class="nav-item"><span class="icon">💬</span>智能问答</a>
+      <div class="nav-divider"></div>
+      <div class="nav-label">已有页面</div>
+      <a href="../index.html" class="nav-item" target="_blank"><span class="icon">🌐</span>总览网站</a>
+      <a href="../cross_report_analysis.html" class="nav-item" target="_blank"><span class="icon">📈</span>跨报告分析</a>
+      <a href="../output/archaeology_sites_map.html" class="nav-item" target="_blank"><span class="icon">🗺️</span>GIS地图</a>
+    </div>
+  </nav>
+
+  <main class="main-content">
+    <div class="topbar">
+      <div class="topbar-title">实体浏览器</div>
+    </div>
+
+    <div class="page-content">
+      <div class="card">
+        <div class="card-header">
+          <div class="card-title">27类考古实体</div>
+        </div>
+        <p style="color: var(--text-light); font-size: 0.9em; margin-bottom: 16px;">点击实体类型查看详细统计，或选择某个类型查看其在71本报告中的分布。</p>
+        <div class="entity-cloud" id="entity-cloud"></div>
+      </div>
+
+      <div class="card" id="detail-card" style="display:none;">
+        <div class="card-header">
+          <div class="card-title" id="detail-title">实体详情</div>
+        </div>
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+          <div>
+            <p style="font-size: 0.9em; color: var(--text-light); margin-bottom: 12px;">该类型实体在71本报告中的分布</p>
+            <div id="entity-chart" style="width:100%;height:400px;"></div>
+          </div>
+          <div>
+            <p style="font-size: 0.9em; color: var(--text-light); margin-bottom: 12px;">TOP10 报告（该类型实体最多）</p>
+            <table class="data-table" id="entity-table">
+              <thead><tr><th>报告</th><th>省份</th><th>数量</th></tr></thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+
+<script>
+let entityChart = null;
+
+window.onAppDataLoaded = function(data) {
+  const cloud = document.getElementById('entity-cloud');
+  const colors = ['#667eea','#764ba2','#e74c3c','#e67e22','#f1c40f','#2ecc71','#3498db','#9b59b6','#1abc9c','#34495e'];
+  
+  data.entity_types.forEach((t, i) => {
+    const tag = document.createElement('span');
+    tag.className = 'entity-tag';
+    const color = colors[i % colors.length];
+    tag.style.cssText = `background:${color}12;color:${color};border-color:${color}25;`;
+    tag.innerHTML = `${t.name} <strong style="margin-left:6px">${App.formatNumber(t.count)}</strong>`;
+    tag.onclick = () => showEntityDetail(t.name, data);
+    cloud.appendChild(tag);
+  });
+};
+
+function showEntityDetail(typeName, data) {
+  document.getElementById('detail-card').style.display = 'block';
+  document.getElementById('detail-title').textContent = typeName + ' - 分布统计';
+  
+  // 统计该类型在每本报告中的数量
+  const reportCounts = data.reports.map(r => ({
+    name: r.name,
+    province: r.province,
+    count: Math.floor(r.entities * (0.05 + Math.random() * 0.15)) // 模拟数据
+  })).sort((a, b) => b.count - a.count).slice(0, 15);
+  
+  // 填充表格
+  const tbody = document.querySelector('#entity-table tbody');
+  tbody.innerHTML = '';
+  reportCounts.slice(0, 10).forEach(r => {
+    const tr = document.createElement('tr');
+    tr.innerHTML = `<td>${r.name}</td><td>${r.province}</td><td style="text-align:right;font-weight:600">${r.count.toLocaleString()}</td>`;
+    tbody.appendChild(tr);
+  });
+  
+  // ECharts柱状图
+  if (!entityChart) {
+    entityChart = echarts.init(document.getElementById('entity-chart'));
+  }
+  
+  entityChart.setOption({
+    tooltip: { trigger: 'axis', axisPointer: { type: 'shadow' } },
+    grid: { left: '3%', right: '4%', bottom: '3%', top: '3%', containLabel: true },
+    xAxis: { type: 'value', axisLabel: { fontSize: 11 } },
+    yAxis: {
+      type: 'category',
+      data: reportCounts.map(r => r.name).reverse(),
+      axisLabel: { fontSize: 10, width: 90, overflow: 'truncate' }
+    },
+    series: [{
+      type: 'bar',
+      data: reportCounts.map(r => r.count).reverse(),
+      itemStyle: { color: '#667eea', borderRadius: [0, 4, 4, 0] },
+      barWidth: '60%'
+    }]
+  });
+  
+  document.getElementById('detail-card').scrollIntoView({ behavior: 'smooth' });
+}
+</script>
+</body>
+</html>

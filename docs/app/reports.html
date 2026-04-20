@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>考古知识库 - 报告库</title>
+<link rel="stylesheet" href="css/app.css">
+<script src="js/data-index.js"></script>
+<script src="js/app.js"></script>
+</head>
+<body>
+<div class="app-layout">
+  <nav class="sidebar">
+    <div class="sidebar-header">
+      <h1>🏛️ 考古知识库</h1>
+      <p>《考古学专刊·丁种》智能标注系统</p>
+    </div>
+    <div class="nav-menu">
+      <a href="index.html" class="nav-item"><span class="icon">📊</span>仪表盘</a>
+      <a href="reports.html" class="nav-item active"><span class="icon">📚</span>报告库</a>
+      <a href="entities.html" class="nav-item"><span class="icon">🏷️</span>实体浏览器</a>
+      <a href="relations.html" class="nav-item"><span class="icon">🕸️</span>关系图谱</a>
+      <a href="qa.html" class="nav-item"><span class="icon">💬</span>智能问答</a>
+      <div class="nav-divider"></div>
+      <div class="nav-label">已有页面</div>
+      <a href="../index.html" class="nav-item" target="_blank"><span class="icon">🌐</span>总览网站</a>
+      <a href="../cross_report_analysis.html" class="nav-item" target="_blank"><span class="icon">📈</span>跨报告分析</a>
+      <a href="../output/archaeology_sites_map.html" class="nav-item" target="_blank"><span class="icon">🗺️</span>GIS地图</a>
+    </div>
+  </nav>
+
+  <main class="main-content">
+    <div class="topbar">
+      <div class="topbar-title">报告库</div>
+      <div class="topbar-search">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="search-input" placeholder="搜索遗址名称...">
+      </div>
+    </div>
+
+    <div class="page-content">
+      <!-- 筛选栏 -->
+      <div class="filter-bar" id="province-filters">
+        <button class="filter-btn active" data-filter="all">全部</button>
+      </div>
+      <div class="filter-bar" id="era-filters">
+        <button class="filter-btn active" data-filter="all">全部年代</button>
+      </div>
+
+      <!-- 排序 -->
+      <div style="margin-bottom: 16px; font-size: 0.88em; color: var(--text-light);">
+        共 <strong id="report-count">0</strong> 本报告 
+        <span style="margin-left: 20px;">排序:</span>
+        <select id="sort-select" style="padding: 4px 10px; border-radius: 6px; border: 1px solid var(--border); margin-left: 8px;">
+          <option value="entities-desc">实体数 ↓</option>
+          <option value="entities-asc">实体数 ↑</option>
+          <option value="pages-desc">页数 ↓</option>
+          <option value="density-desc">页密度 ↓</option>
+          <option value="name">名称</option>
+        </select>
+      </div>
+
+      <!-- 报告网格 -->
+      <div class="reports-grid" id="reports-grid">
+        <div class="loading">正在加载报告数据...</div>
+      </div>
+    </div>
+  </main>
+</div>
+
+<script>
+let allReports = [];
+let currentFilter = { province: 'all', era: 'all' };
+let currentSort = 'entities-desc';
+
+window.onAppDataLoaded = function(data) {
+  allReports = data.reports;
+  
+  // 生成省份筛选
+  const provinces = [...new Set(allReports.map(r => r.province))].sort();
+  const pContainer = document.getElementById('province-filters');
+  provinces.forEach(p => {
+    const btn = document.createElement('button');
+    btn.className = 'filter-btn';
+    btn.textContent = p;
+    btn.dataset.filter = p;
+    btn.onclick = () => setFilter('province', p, btn);
+    pContainer.appendChild(btn);
+  });
+  
+  // 生成年代筛选
+  const eras = [...new Set(allReports.map(r => r.era))].sort();
+  const eContainer = document.getElementById('era-filters');
+  eras.forEach(e => {
+    const btn = document.createElement('button');
+    btn.className = 'filter-btn';
+    btn.textContent = e;
+    btn.dataset.filter = e;
+    btn.onclick = () => setFilter('era', e, btn);
+    eContainer.appendChild(btn);
+  });
+  
+  // 搜索
+  document.getElementById('search-input').addEventListener('input', debounce((e) => {
+    renderReports(e.target.value);
+  }, 200));
+  
+  // 排序
+  document.getElementById('sort-select').addEventListener('change', (e) => {
+    currentSort = e.target.value;
+    renderReports(document.getElementById('search-input').value);
+  });
+  
+  renderReports();
+};
+
+function setFilter(type, value, btn) {
+  currentFilter[type] = value;
+  document.querySelectorAll(`#${type}-filters .filter-btn`).forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  renderReports(document.getElementById('search-input').value);
+}
+
+function renderReports(searchQuery = '') {
+  let filtered = allReports.filter(r => {
+    if (currentFilter.province !== 'all' && r.province !== currentFilter.province) return false;
+    if (currentFilter.era !== 'all' && r.era !== currentFilter.era) return false;
+    if (searchQuery && !r.name.includes(searchQuery) && !r.province.includes(searchQuery)) return false;
+    return true;
+  });
+  
+  // 排序
+  filtered.sort((a, b) => {
+    switch(currentSort) {
+      case 'entities-desc': return b.entities - a.entities;
+      case 'entities-asc': return a.entities - b.entities;
+      case 'pages-desc': return b.pages - a.pages;
+      case 'density-desc': return b.density - a.density;
+      case 'name': return a.name.localeCompare(b.name, 'zh');
+      default: return 0;
+    }
+  });
+  
+  document.getElementById('report-count').textContent = filtered.length;
+  
+  const grid = document.getElementById('reports-grid');
+  grid.innerHTML = '';
+  
+  if (filtered.length === 0) {
+    grid.innerHTML = '<div class="empty-state"><div class="empty-state-icon">📭</div><p>没有找到匹配的报告</p></div>';
+    return;
+  }
+  
+  filtered.forEach(r => {
+    const card = document.createElement('div');
+    card.className = 'report-card';
+    card.innerHTML = `
+      <div class="report-name">${r.name}</div>
+      <div class="report-meta">
+        <span>📍 ${r.province}</span>
+        <span>📅 ${r.era}</span>
+        <span>📄 ${r.pages}页</span>
+      </div>
+      <div style="margin-bottom: 10px;">
+        <span class="tag tag-province">${r.province}</span>
+        <span class="tag tag-era">${r.era}</span>
+      </div>
+      <div class="report-stats">
+        <div class="report-stat">
+          <div class="report-stat-value">${App.formatNumber(r.entities)}</div>
+          <div class="report-stat-label">实体</div>
+        </div>
+        <div class="report-stat">
+          <div class="report-stat-value">${r.density}</div>
+          <div class="report-stat-label">页密度</div>
+        </div>
+        <div class="report-stat">
+          <div class="report-stat-value">${r.pages}</div>
+          <div class="report-stat-label">页数</div>
+        </div>
+      </div>
+    `;
+    card.onclick = () => {
+      window.open(`../reports_md/${r.name}_全本标注报告.md`, '_blank');
+    };
+    grid.appendChild(card);
+  });
+}
+</script>
+</body>
+</html>

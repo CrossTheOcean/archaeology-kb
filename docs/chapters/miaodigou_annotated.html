@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>庙底沟与三里桥 - 考古报告实体标注</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: "Noto Serif SC", "SimSun", "Songti SC", serif; line-height: 1.8; color: #333; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); min-height: 100vh; }
+        .header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 60px 20px 30px; text-align: center; box-shadow: 0 4px 20px rgba(0,0,0,0.2); }
+        .header h1 { font-size: 2.8em; margin-bottom: 15px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); }
+        .header .subtitle { font-size: 1.2em; opacity: 0.9; }
+        .nav-bar {
+            background: rgba(255,255,255,0.15);
+            backdrop-filter: blur(10px);
+            padding: 15px;
+            margin-top: 25px;
+            border-radius: 12px;
+            display: inline-flex;
+            gap: 30px;
+        }
+        .nav-bar a {
+            color: white;
+            text-decoration: none;
+            padding: 8px 20px;
+            border-radius: 20px;
+            transition: all 0.3s;
+            font-size: 0.95em;
+        }
+        .nav-bar a:hover, .nav-bar a.active {
+            background: rgba(255,255,255,0.25);
+        }
+        .stats-bar { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; max-width: 1400px; margin: 40px auto; padding: 0 20px; }
+        .stat-card { background: white; padding: 25px 15px; border-radius: 12px; text-align: center; box-shadow: 0 4px 15px rgba(0,0,0,0.1); transition: transform 0.3s; }
+        .stat-card:hover { transform: translateY(-5px); }
+        .stat-number { font-size: 2.2em; font-weight: bold; margin-bottom: 5px; }
+        .stat-label { color: #666; font-size: 0.95em; }
+        .main-container { display: flex; max-width: 1600px; margin: 0 auto; padding: 20px; gap: 25px; }
+        .content { flex: 1; background: white; padding: 50px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); font-size: 11pt; }
+        .sidebar { width: 320px; position: sticky; top: 20px; height: fit-content; }
+        .legend-panel { background: white; padding: 25px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); margin-bottom: 20px; }
+        .legend-panel h3 { margin-bottom: 20px; color: #2c3e50; font-size: 1.3em; border-bottom: 2px solid #667eea; padding-bottom: 10px; }
+        .legend-item { display: flex; align-items: center; margin: 10px 0; padding: 8px; border-radius: 6px; transition: background 0.2s; }
+        .legend-item:hover { background: #f5f5f5; }
+        .entity-dot { width: 14px; height: 14px; border-radius: 50%; margin-right: 10px; flex-shrink: 0; }
+        .legend-name { flex: 1; font-size: 0.95em; }
+        .legend-count { background: #f0f0f0; padding: 2px 10px; border-radius: 12px; font-size: 0.85em; color: #666; }
+        .content h1 { font-size: 2em; color: #2c3e50; margin: 20px 0 25px; padding-bottom: 15px; border-bottom: 3px solid #667eea; }
+        .content h2 { font-size: 1.5em; color: #34495e; margin: 35px 0 20px; padding-left: 20px; border-left: 5px solid #3498db; }
+        .content h3 { font-size: 1.2em; color: #555; margin: 25px 0 15px; }
+        .content p { margin: 10px 0; text-align: justify; }
+        .entity { padding: 2px 6px; border-radius: 4px; font-weight: 500; cursor: pointer; transition: all 0.2s; }
+        .entity:hover { opacity: 0.8; box-shadow: 0 0 0 3px rgba(0,0,0,0.1); }
+        .context { color: #666; font-size: 0.9em; margin-left: 8px; }
+        .more { color: #999; font-style: italic; }
+        @media (max-width: 1200px) { .main-container { flex-direction: column; } .sidebar { width: 100%; position: static; } .content { padding: 30px; } }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>庙底沟与三里桥</h1>
+        <div class="subtitle">黄河水库考古报告之二 · 实体标注版</div>
+        <div style="margin-top: 20px; font-size: 1em;">
+            共标注 <strong>500</strong> 个考古学实体 · 
+            <strong>15</strong> 个类别 · 
+            <strong>50</strong> 页已处理
+        </div>
+        <nav class="nav-bar">
+            <a href="../index.html">📊 总览首页</a>
+            <a href="../cross_report_analysis.html">🔍 跨报告分析</a>
+            <a href="miaodigou_annotated.html" class="active">📖 单本示例</a>
+        </nav>
+    </div>
+    <div class="stats-bar">
+        
+        <div class="stat-card">
+            <div class="stat-number" style="color: #3498DB">94</div>
+            <div class="stat-label">测量数据</div>
+        </div>
+    
+        <div class="stat-card">
+            <div class="stat-number" style="color: #3498DB">69</div>
+            <div class="stat-label">遗迹编号</div>
+        </div>
+    
+        <div class="stat-card">
+            <div class="stat-number" style="color: #2980B9">68</div>
+            <div class="stat-label">层位关系</div>
+        </div>
+    
+        <div class="stat-card">
+            <div class="stat-number" style="color: #E74C3C">65</div>
+            <div class="stat-label">遗址名称</div>
+        </div>
+    
+        <div class="stat-card">
+            <div class="stat-number" style="color: #9B59B6">43</div>
+            <div class="stat-label">遗迹类型</div>
+        </div>
+    
+        <div class="stat-card">
+            <div class="stat-number" style="color: #8E44AD">40</div>
+            <div class="stat-label">建筑结构</div>
+        </div>
+    
+        <div class="stat-card">
+            <div class="stat-number" style="color: #DEB887">34</div>
+            <div class="stat-label">探方编号</div>
+        </div>
+    
+        <div class="stat-card">
+            <div class="stat-number" style="color: #7F8C8D">30</div>
+            <div class="stat-label">遗存类型</div>
+        </div>
+    
+        <div class="stat-card">
+            <div class="stat-number" style="color: #8B4513">17</div>
+            <div class="stat-label">年代</div>
+        </div>
+    
+        <div class="stat-card">
+            <div class="stat-number" style="color: #E67E22">17</div>
+            <div class="stat-label">陶器</div>
+        </div>
+    
+    </div>
+    <div class="main-container">
+        <div class="content">
+            <h1>庙底沟与三里桥</h1><h2>遗址概述</h2><p>庙底沟遗址位于河南省三门峡市陕州区，是仰韶文化庙底沟类型的命名遗址。该遗址以精美的彩陶著称，尤其是花瓣纹、鸟纹等图案，代表了仰韶文化中期的艺术高峰。三里桥遗址同样位于三门峡市，主要包含仰韶文化和龙山文化遗存。</p><h2>实体标注详情</h2><h3 style="border-left: 4px solid #3498DB; padding-left: 12px;">测量数据 (94个)</h3><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;"> 40 米</span> <span class="context">(第13页) 边濒临着
+青龙澜,因受河水汪钥,形成高狗 40 米的内壁,而障海铁路在润河岸的附近东西穿过...</span></p><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;"> 1400 米</span> <span class="context">(第14页) 址相对，中癌
+隔着一条较宽的河谷,相距罗 1400 米。
+
+ Bil
+er] O 务韶文化 A...</span></p><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;"> 4米</span> <span class="context">(第14页) 2 月6
+日转束,先在遗址东端开了4 X 4米的探方 103 个,三号 TI一100(...</span></p><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;"> 4 米</span> <span class="context">(第15页) 
+得址的发所分为六区进行,探方均为4 X 4 米(附加方例外),方向正南北(T500 区...</span></p><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;">0.3 米</span> <span class="context">(第16页) A: 3 1 BARE PE 0.15—0.3 米。 EH AA eR BB Ar, Ha...</span></p><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;">0.5 米</span> <span class="context">(第16页) , 土呈黄褐色, 质较硬, 厚 0.3一0.5 米。包含物除了战国陶片、
+外,还出有仰副陶...</span></p><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;">深4.2 米</span> <span class="context">(第16页)  CW 4.75一7,底寅 3.5一5,深4.2 米。沟内堆积可分为五大层,包括有灰褐-
+士...</span></p><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;">3.4 米</span> <span class="context">(第16页) 3一4.6,底袖2.4一2.9,深 2一3.4 米。沟内路土多层,间杂有黄褐土.红褐土、
+...</span></p><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;">0.2 米</span> <span class="context">(第16页)  第1 BL, Ph, FE 0.08一0.2 米,出有近代陶片少许。第 2
+BRUCE,...</span></p><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;">0.35 米</span> <span class="context">(第16页)  ALR E, Rw, ME 0.24一0.35 米,， 包含物除了龙山陶片外, 也出有
+仰...</span></p><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;"> 0.15
+米</span> <span class="context">(第16页) : 1A 层, 士呈黄灰色, Bi, 厚 0.15
+米;1B 层,土星黑灰色,质较上层更松,夯...</span></p><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;"> 0.51
+米</span> <span class="context">(第18页) CE R571), 1 BE RS AE 0.51
+米; 2B, bABRRE, BK, 厚 ...</span></p><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;">0.53 米</span> <span class="context">(第18页) EIS
+的上部堆积,在距地表 0.36一0.53 米左右开始圳出;其范围东西约6,南北狗 7...</span></p><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;"> 7.86 米</span> <span class="context">(第18页)  米左右开始圳出;其范围东西约6,南北狗 7.86 米; ME
+面揭露后,始现出整个房子的输贸...</span></p><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;">0.72 米</span> <span class="context">(第18页) E, PAI 2.84, WH 0.5一0.72 米,作 11 度的斜坡, BREE REA...</span></p><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;">0.76
+米</span> <span class="context">(第18页) 度的斜坡, BREE REA 0.43—0.76
+米,与料坡的路面均数有一层厚7一14厘米的...</span></p><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;">14厘米</span> <span class="context">(第18页) .76
+米,与料坡的路面均数有一层厚7一14厘米的草泥土。进门便是居住面 ,略旦长方形,...</span></p><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;">8 厘米</span> <span class="context">(第18页) S St 5) BOAT — BL 6一8 厘米的草泥土,殉存坑璧最高为 0.68 ,最...</span></p><p class="more">... 还有 74 个实体</p><h3 style="border-left: 4px solid #3498DB; padding-left: 12px;">遗迹编号 (69个)</h3><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;">T300</span> <span class="context">(第15页) (包括附号 11 个, 大小不等,简称 T300 Ko
+ARR)” 至于和遗址的较西部分...</span></p><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;">T400</span> <span class="context">(第15页) LE, BS
+T401一T403(简称 T400 区)。另外在此龙沟东岸的三角地带,发现...</span></p><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;">T500</span> <span class="context">(第15页)  X 4 米(附加方例外),方向正南北(T500 区因
+地形关系不作正方向),态号由北到...</span></p><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;">H27</span> <span class="context">(第16页) 化.
+层外,在东边还发现有两个龙山奕坑(H27、35)打破了仰副亦坊的现象
+
+3.T2...</span></p><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;">T200</span> <span class="context">(第16页) 27、35)打破了仰副亦坊的现象
+
+3.T200 区 RR AMEZHARE 5 个,轩...</span></p><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;">H202</span> <span class="context">(第16页) 事.
+文化层外,在南边还发现有龙山灰坑(H202)打破了仰部路沟的现象
+
+4 T300 ...</span></p><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;">H567</span> <span class="context">(第16页) 个灰坊相压着， 上一个系龙山文化灰坑 (H567)，分
+ASB: 1B, RLE LRM...</span></p><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;">M4</span> <span class="context">(第17页) MNS Z95"095"855 M4 005L +z MULAN ge‘ez...</span></p><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;">F301</span> <span class="context">(第23页) ，我们不妨根据这些线索来加以复原。关于 F301 Fil F302 的共同特点,是近方形...</span></p><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;">F302</span> <span class="context">(第23页) 线索来加以复原。关于 F301 Fil F302 的共同特点,是近方形的浅如
+究,屋基中...</span></p><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;">T227</span> <span class="context">(第25页) 能是它们的遗存。
+
+除了两座房子外,在 T227 探方内,祭发现有转形硬面一处(F207...</span></p><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;">F207</span> <span class="context">(第25页) T227 探方内,祭发现有转形硬面一处(F207)。距地表 2.2, 直径
+1.5一1....</span></p><p><span class="entity" style="background-color: #3498DB22; color: #3498DB; border-bottom: 2px solid #3498DB;">T128</span> <span class="context">(第27页) 两网说明如下:
+
+22 SRS ALF T128、133 两个探方内 ,坑口距地表 1,...</span></p><p class="more">... 还有 49 个实体</p><h3 style="border-left: 4px solid #2980B9; padding-left: 12px;">层位关系 (68个)</h3><p><span class="entity" style="background-color: #2980B922; color: #2980B9; border-bottom: 2px solid #2980B9;">堆积</span> <span class="context">(第15页) 作的还有张振邦、丁六龙同志。
+
+二 文化堆积
+
+(—) 地层情驶
+得址的发所分为六区...</span></p><p><span class="entity" style="background-color: #2980B922; color: #2980B9; border-bottom: 2px solid #2980B9;">打破</span> <span class="context">(第16页) 附近,有一
+部分属于龙山化层。龙山墓葬都打破了仰吕文化层和灰坑,或者压在仰副灰坑的上...</span></p><p class="more">... 还有 48 个实体</p><h3 style="border-left: 4px solid #E74C3C; padding-left: 12px;">遗址名称 (65个)</h3><p><span class="entity" style="background-color: #E74C3C22; color: #E74C3C; border-bottom: 2px solid #E74C3C;">三里桥</span> <span class="context">(第4页) 五”东周文化遗物
+六 EB …
+
+#& 三里桥 …
+
+...</span></p><p><span class="entity" style="background-color: #E74C3C22; color: #E74C3C; border-bottom: 2px solid #E74C3C;">庙底沟</span> <span class="context">(第6页) RR BE
+
+FJ BUF REEL
+
+庙底沟仰一六化彩陶片
+
+Ji TE PBB B...</span></p><p><span class="entity" style="background-color: #E74C3C22; color: #E74C3C; border-bottom: 2px solid #E74C3C;">陕县</span> <span class="context">(第8页) 、蚌器
+
+庙底沟龙山广化木未疲迹
+
+河南陕县庙底沟和遗址及发掘地区地形图
+
+庙底沟T...</span></p><p class="more">... 还有 45 个实体</p><h3 style="border-left: 4px solid #9B59B6; padding-left: 12px;">遗迹类型 (43个)</h3><p><span class="entity" style="background-color: #9B59B622; color: #9B59B6; border-bottom: 2px solid #9B59B6;">灰坑</span> <span class="context">(第4页)  BF
+
+(2) Bahk.
+
+(3) 灰坑
+
+(=). B#-
+
+1 (URS
+
+...</span></p><p><span class="entity" style="background-color: #9B59B622; color: #9B59B6; border-bottom: 2px solid #9B59B6;">墓葬</span> <span class="context">(第16页) 陶密的附近,有一
+部分属于龙山化层。龙山墓葬都打破了仰吕文化层和灰坑,或者压在仰副灰...</span></p><p><span class="entity" style="background-color: #9B59B622; color: #9B59B6; border-bottom: 2px solid #9B59B6;">壕沟</span> <span class="context">(第16页) 片及盘状器等物。在此层的东边和被一条近代壕沟所打破,一直到了生黄
+士。第 3 层,仰...</span></p><p class="more">... 还有 23 个实体</p><h3 style="border-left: 4px solid #8E44AD; padding-left: 12px;">建筑结构 (40个)</h3><p><span class="entity" style="background-color: #8E44AD22; color: #8E44AD; border-bottom: 2px solid #8E44AD;">柱洞</span> <span class="context">(第18页) 一个轩形的火塘,屋基中部有四个带石柱础的柱洞,在浅野突四周的
+统台上,败有一野草泥土...</span></p><p><span class="entity" style="background-color: #8E44AD22; color: #8E44AD; border-bottom: 2px solid #8E44AD;">居住面</span> <span class="context">(第18页) 础;另外在浅墅突的底部,数有一层草泥土的居住面。现将两座房子分别襄明如下:
+
+301号...</span></p><p class="more">... 还有 20 个实体</p><h3 style="border-left: 4px solid #DEB887; padding-left: 12px;">探方编号 (34个)</h3><p><span class="entity" style="background-color: #DEB88722; color: #DEB887; border-bottom: 2px solid #DEB887;">T1</span> <span class="context">(第8页) 县庙底沟和遗址及发掘地区地形图
+
+庙底沟T1区平面图
+
+应底沟T300 区平面图
+
+...</span></p><p><span class="entity" style="background-color: #DEB88722; color: #DEB887; border-bottom: 2px solid #DEB887;">T300</span> <span class="context">(第8页) 区地形图
+
+庙底沟T1区平面图
+
+应底沟T300 区平面图
+
+河南陕县三里桥村遗址及发掘...</span></p><p><span class="entity" style="background-color: #DEB88722; color: #DEB887; border-bottom: 2px solid #DEB887;">T100</span> <span class="context">(第14页) )炎到在稍西的地方开了 53 RAMS T100一150 (包括附号 3 个,简称
+
+一...</span></p><p><span class="entity" style="background-color: #DEB88722; color: #DEB887; border-bottom: 2px solid #DEB887;">T203</span> <span class="context">(第15页) M RAT 40 个
+TRA, MAS T203一285(太号不相连接,包括 3 个附方...</span></p><p><span class="entity" style="background-color: #DEB88722; color: #DEB887; border-bottom: 2px solid #DEB887;">T401</span> <span class="context">(第15页)  3 TRG, AMABILE, BS
+T401一T403(简称 T400 区)。另外在...</span></p><p><span class="entity" style="background-color: #DEB88722; color: #DEB887; border-bottom: 2px solid #DEB887;">T403</span> <span class="context">(第15页) G, AMABILE, BS
+T401一T403(简称 T400 区)。另外在此龙沟东岸...</span></p><p><span class="entity" style="background-color: #DEB88722; color: #DEB887; border-bottom: 2px solid #DEB887;">T400</span> <span class="context">(第15页) LE, BS
+T401一T403(简称 T400 区)。另外在此龙沟东岸的三角地带,发现...</span></p><p><span class="entity" style="background-color: #DEB88722; color: #DEB887; border-bottom: 2px solid #DEB887;">T551</span> <span class="context">(第15页) 的东部边缘，开了 27 RG, HES T551一566 (包括附号 11
+A, 大小不...</span></p><p><span class="entity" style="background-color: #DEB88722; color: #DEB887; border-bottom: 2px solid #DEB887;">T500</span> <span class="context">(第15页)  X 4 米(附加方例外),方向正南北(T500 区因
+地形关系不作正方向),态号由北到...</span></p><p><span class="entity" style="background-color: #DEB88722; color: #DEB887; border-bottom: 2px solid #DEB887;">T200</span> <span class="context">(第16页) 27、35)打破了仰副亦坊的现象
+
+3.T200 区 RR AMEZHARE 5 个,轩...</span></p><p><span class="entity" style="background-color: #DEB88722; color: #DEB887; border-bottom: 2px solid #DEB887;">T311A</span> <span class="context">(第18页) 房子分别襄明如下:
+
+301号房子,位于T311A、321.321A,321B\331\3...</span></p><p><span class="entity" style="background-color: #DEB88722; color: #DEB887; border-bottom: 2px solid #DEB887;">T227</span> <span class="context">(第25页) 能是它们的遗存。
+
+除了两座房子外,在 T227 探方内,祭发现有转形硬面一处(F207...</span></p><p class="more">... 还有 14 个实体</p><h3 style="border-left: 4px solid #7F8C8D; padding-left: 12px;">遗存类型 (30个)</h3><p><span class="entity" style="background-color: #7F8C8D22; color: #7F8C8D; border-bottom: 2px solid #7F8C8D;">陶片</span> <span class="context">(第6页) J BUF REEL
+
+庙底沟仰一六化彩陶片
+
+Ji TE PBB BCA Ba
+
+...</span></p><p><span class="entity" style="background-color: #7F8C8D22; color: #7F8C8D; border-bottom: 2px solid #7F8C8D;">兽骨</span> <span class="context">(第12页) 俄 SOC ABR, ERS ERR: 兽骨经中
+国科学院古诊椎动物研究所尽兰坡先生...</span></p><p><span class="entity" style="background-color: #7F8C8D22; color: #7F8C8D; border-bottom: 2px solid #7F8C8D;">人骨</span> <span class="context">(第27页) 的灰坑来作为埋碍之所;其中有4 个灰坊出人骨架, 3 PRE AED
+BR TAME...</span></p><p class="more">... 还有 10 个实体</p><h3 style="border-left: 4px solid #8B4513; padding-left: 12px;">年代 (17个)</h3><p><span class="entity" style="background-color: #8B451322; color: #8B4513; border-bottom: 2px solid #8B4513;">龙山文化</span> <span class="context">(第8页) A SCHL AP aE aE
+
+庙底沟龙山文化骨雏等
+
+庙底询第 100 号唐募出土的...</span></p><p><span class="entity" style="background-color: #8B451322; color: #8B4513; border-bottom: 2px solid #8B4513;">仰韶文化</span> <span class="context">(第24页) 仰韶文化 302 SRFERBICM      ...</span></p><h3 style="border-left: 4px solid #E67E22; padding-left: 12px;">陶器 (17个)</h3><p><span class="entity" style="background-color: #E67E2222; color: #E67E22; border-bottom: 2px solid #E67E22;">盘</span> <span class="context">(第13页) 汉)等是。而与陕县县城相对的平陆境内则有盘南村 COE,
+东周)。由于上述的情况,...</span></p><p><span class="entity" style="background-color: #E67E2222; color: #E67E22; border-bottom: 2px solid #E67E22;">尊</span> <span class="context">(第29页) 
+高出居住面 8 厘米处有一个个图形的土尊深入墙中,高 0.45,寅0.4 ,深 ...</span></p><p><span class="entity" style="background-color: #E67E2222; color: #E67E22; border-bottom: 2px solid #E67E22;">盆</span> <span class="context">(第35页) 斜放在
+Be LA 6 座,两手相兴放在盆骨上的有 2 座,其余两臂都是垂直身旁。...</span></p><p><span class="entity" style="background-color: #E67E2222; color: #E67E22; border-bottom: 2px solid #E67E22;">碗</span> <span class="context">(第37页) 常无从断开(图一五、
+一六)。前者多见于碗,而少见于丛、饶,后者多见于盆,而少见于...</span></p><p><span class="entity" style="background-color: #E67E2222; color: #E67E22; border-bottom: 2px solid #E67E22;">陶盆</span> <span class="context">(第39页) 三 里桥-
+
+图 一六”证底沟仰屡女化彩陶盆腹部图案展开图
+
+A6a (图一七;图版...</span></p><p><span class="entity" style="background-color: #E67E2222; color: #E67E22; border-bottom: 2px solid #E67E22;">陶碗</span> <span class="context">(第40页)  WU
+
+图一七 ”庙底沟仰楼女化相泥红陶碗(1/4)
+
+一2一
+...</span></p><h3 style="border-left: 4px solid #16A085; padding-left: 12px;">纹饰 (14个)</h3><p><span class="entity" style="background-color: #16A08522; color: #16A085; border-bottom: 2px solid #16A085;">彩陶</span> <span class="context">(第6页) FJ BUF REEL
+
+庙底沟仰一六化彩陶片
+
+Ji TE PBB BCA Ba
+...</span></p><p><span class="entity" style="background-color: #16A08522; color: #16A085; border-bottom: 2px solid #16A085;">素面</span> <span class="context">(第36页) a | rod fetal cid | 素面 ba 素面 [cafe fe a
+
+数...</span></p><p><span class="entity" style="background-color: #16A08522; color: #16A085; border-bottom: 2px solid #16A085;">磨光</span> <span class="context">(第36页) 有待于化验来证明。
+
+素面陶器多轻过精级磨光, 有的打磨较粗楼，甚至于遗有压麻的靖迹...</span></p><h3 style="border-left: 4px solid #D4AC0D; padding-left: 12px;">土样特征 (4个)</h3><p><span class="entity" style="background-color: #D4AC0D22; color: #D4AC0D; border-bottom: 2px solid #D4AC0D;">灰土</span> <span class="context">(第21页)  ,唯北部东边及门道处较高。7B 层,黑灰土,盾松,厚 3一6 厘米,堆积在
+BA....</span></p><h3 style="border-left: 4px solid #27AE60; padding-left: 12px;">地层 (3个)</h3><p><span class="entity" style="background-color: #27AE6022; color: #27AE60; border-bottom: 2px solid #27AE60;">第1层</span> <span class="context">(第20页) 为长期经火烧烤的糊故。坑内堆积分为五层:第1层，
+
+士微旦红色,盾硬,厚 5一15 厘...</span></p><p><span class="entity" style="background-color: #27AE6022; color: #27AE60; border-bottom: 2px solid #27AE60;">第2层</span> <span class="context">(第29页) 层, Rh, 质地松, 厚 0.41米。第2层，
+黄灰士,质地较硬,厚 0.27一0....</span></p><h3 style="border-left: 4px solid #95A5A6; padding-left: 12px;">石器 (1个)</h3><p><span class="entity" style="background-color: #95A5A622; color: #95A5A6; border-bottom: 2px solid #95A5A6;">石刀</span> <span class="context">(第23页) 至火塘间的一段,已被破坏,于近门口处出焉石刀一件。居住面之下至小竖穴底部
+间,从有一...</span></p><h3 style="border-left: 4px solid #34495E; padding-left: 12px;">材质 (1个)</h3><p><span class="entity" style="background-color: #34495E22; color: #34495E; border-bottom: 2px solid #34495E;">红陶</span> <span class="context">(第40页)   WU
+
+图一七 ”庙底沟仰楼女化相泥红陶碗(1/4)
+
+一2一
+...</span></p>
+        </div>
+        <div class="sidebar">
+            <div class="legend-panel">
+                <h3>🏷️ 实体类型图例</h3>
+                
+            <div class="legend-item">
+                <span class="entity-dot" style="background-color: #3498DB"></span>
+                <span class="legend-name">测量数据</span>
+                <span class="legend-count">94</span>
+            </div>
+        
+            <div class="legend-item">
+                <span class="entity-dot" style="background-color: #3498DB"></span>
+                <span class="legend-name">遗迹编号</span>
+                <span class="legend-count">69</span>
+            </div>
+        
+            <div class="legend-item">
+                <span class="entity-dot" style="background-color: #2980B9"></span>
+                <span class="legend-name">层位关系</span>
+                <span class="legend-count">68</span>
+            </div>
+        
+            <div class="legend-item">
+                <span class="entity-dot" style="background-color: #E74C3C"></span>
+                <span class="legend-name">遗址名称</span>
+                <span class="legend-count">65</span>
+            </div>
+        
+            <div class="legend-item">
+                <span class="entity-dot" style="background-color: #9B59B6"></span>
+                <span class="legend-name">遗迹类型</span>
+                <span class="legend-count">43</span>
+            </div>
+        
+            <div class="legend-item">
+                <span class="entity-dot" style="background-color: #8E44AD"></span>
+                <span class="legend-name">建筑结构</span>
+                <span class="legend-count">40</span>
+            </div>
+        
+            <div class="legend-item">
+                <span class="entity-dot" style="background-color: #DEB887"></span>
+                <span class="legend-name">探方编号</span>
+                <span class="legend-count">34</span>
+            </div>
+        
+            <div class="legend-item">
+                <span class="entity-dot" style="background-color: #7F8C8D"></span>
+                <span class="legend-name">遗存类型</span>
+                <span class="legend-count">30</span>
+            </div>
+        
+            <div class="legend-item">
+                <span class="entity-dot" style="background-color: #8B4513"></span>
+                <span class="legend-name">年代</span>
+                <span class="legend-count">17</span>
+            </div>
+        
+            <div class="legend-item">
+                <span class="entity-dot" style="background-color: #E67E22"></span>
+                <span class="legend-name">陶器</span>
+                <span class="legend-count">17</span>
+            </div>
+        
+            <div class="legend-item">
+                <span class="entity-dot" style="background-color: #16A085"></span>
+                <span class="legend-name">纹饰</span>
+                <span class="legend-count">14</span>
+            </div>
+        
+            <div class="legend-item">
+                <span class="entity-dot" style="background-color: #D4AC0D"></span>
+                <span class="legend-name">土样特征</span>
+                <span class="legend-count">4</span>
+            </div>
+        
+            <div class="legend-item">
+                <span class="entity-dot" style="background-color: #27AE60"></span>
+                <span class="legend-name">地层</span>
+                <span class="legend-count">3</span>
+            </div>
+        
+            <div class="legend-item">
+                <span class="entity-dot" style="background-color: #95A5A6"></span>
+                <span class="legend-name">石器</span>
+                <span class="legend-count">1</span>
+            </div>
+        
+            <div class="legend-item">
+                <span class="entity-dot" style="background-color: #34495E"></span>
+                <span class="legend-name">材质</span>
+                <span class="legend-count">1</span>
+            </div>
+        
+            </div>
+            <div class="legend-panel">
+                <h3>📊 标注进度</h3>
+                <p style="margin: 10px 0; color: #666;">
+                    已处理 <strong>50</strong> / 235 页<br>
+                    实体识别率: <strong>10.0</strong> 个/页
+                </p>
+                <p style="margin: 10px 0; color: #999; font-size: 0.85em;">
+                    基于 PyMuPDF + Tesseract OCR
+                </p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

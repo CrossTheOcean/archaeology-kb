@@ -1,0 +1,833 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>考古知识库 - 智能问答</title>
+<link rel="stylesheet" href="css/app.css">
+<script src="js/data-index.js"></script>
+<script src="js/relations-index.js"></script>
+<script src="js/app.js"></script>
+<style>
+/* 问答界面专用样式 */
+.chat-container {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  max-height: 500px;
+  overflow-y: auto;
+  padding: 16px;
+  background: rgba(102,126,234,0.03);
+  border-radius: 12px;
+  margin-bottom: 16px;
+}
+.chat-message {
+  display: flex;
+  gap: 12px;
+  animation: fadeIn 0.3s ease;
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.chat-avatar {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2em;
+  flex-shrink: 0;
+}
+.chat-avatar.user {
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  color: white;
+}
+.chat-avatar.bot {
+  background: linear-gradient(135deg, #11998e, #38ef7d);
+  color: white;
+}
+.chat-bubble {
+  max-width: 85%;
+  padding: 12px 16px;
+  border-radius: 16px;
+  font-size: 0.95em;
+  line-height: 1.7;
+}
+.chat-bubble.user {
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  color: white;
+  margin-left: auto;
+  border-bottom-right-radius: 4px;
+}
+.chat-bubble.bot {
+  background: white;
+  border: 1px solid rgba(102,126,234,0.15);
+  border-bottom-left-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+.chat-bubble.bot strong {
+  color: #667eea;
+}
+.chat-bubble.bot .source-tag {
+  display: inline-block;
+  margin-top: 8px;
+  padding: 3px 10px;
+  background: rgba(102,126,234,0.08);
+  border-radius: 12px;
+  font-size: 0.78em;
+  color: var(--text-light);
+}
+.chat-bubble.bot table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 10px 0;
+  font-size: 0.9em;
+}
+.chat-bubble.bot th, .chat-bubble.bot td {
+  padding: 8px 10px;
+  text-align: left;
+  border-bottom: 1px solid #eee;
+}
+.chat-bubble.bot th {
+  background: rgba(102,126,234,0.05);
+  font-weight: 600;
+}
+.input-area {
+  display: flex;
+  gap: 10px;
+  padding: 12px;
+  background: white;
+  border: 2px solid rgba(102,126,234,0.15);
+  border-radius: 14px;
+  transition: border-color 0.3s;
+}
+.input-area:focus-within {
+  border-color: var(--primary);
+}
+.input-area input {
+  flex: 1;
+  border: none;
+  outline: none;
+  font-size: 1em;
+  background: transparent;
+}
+.input-area button {
+  padding: 10px 24px;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 0.95em;
+  font-weight: 500;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.input-area button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(102,126,234,0.3);
+}
+.input-area button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  transform: none;
+}
+.quick-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 10px;
+}
+.quick-tag {
+  padding: 6px 14px;
+  background: rgba(102,126,234,0.06);
+  border: 1px solid rgba(102,126,234,0.12);
+  border-radius: 20px;
+  font-size: 0.85em;
+  color: var(--primary);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.quick-tag:hover {
+  background: var(--primary);
+  color: white;
+}
+.thinking-dots {
+  display: inline-flex;
+  gap: 4px;
+}
+.thinking-dots span {
+  width: 8px;
+  height: 8px;
+  background: #667eea;
+  border-radius: 50%;
+  animation: bounce 1.4s infinite ease-in-out;
+}
+.thinking-dots span:nth-child(2) { animation-delay: 0.2s; }
+.thinking-dots span:nth-child(3) { animation-delay: 0.4s; }
+@keyframes bounce {
+  0%, 80%, 100% { transform: scale(0); }
+  40% { transform: scale(1); }
+}
+.empty-state {
+  text-align: center;
+  padding: 40px;
+  color: var(--text-light);
+}
+.empty-state .icon {
+  font-size: 3em;
+  margin-bottom: 12px;
+  opacity: 0.5;
+}
+</style>
+</head>
+<body>
+<div class="app-layout">
+  <nav class="sidebar">
+    <div class="sidebar-header">
+      <h1>🏛️ 考古知识库</h1>
+      <p>《考古学专刊·丁种》智能标注系统</p>
+    </div>
+    <div class="nav-menu">
+      <a href="index.html" class="nav-item"><span class="icon">📊</span>仪表盘</a>
+      <a href="reports.html" class="nav-item"><span class="icon">📚</span>报告库</a>
+      <a href="entities.html" class="nav-item"><span class="icon">🏷️</span>实体浏览器</a>
+      <a href="relations.html" class="nav-item"><span class="icon">🕸️</span>关系图谱</a>
+      <a href="qa.html" class="nav-item active"><span class="icon">💬</span>智能问答</a>
+      <div class="nav-divider"></div>
+      <div class="nav-label">已有页面</div>
+      <a href="../index.html" class="nav-item" target="_blank"><span class="icon">🌐</span>总览网站</a>
+      <a href="../cross_report_analysis.html" class="nav-item" target="_blank"><span class="icon">📈</span>跨报告分析</a>
+      <a href="../output/archaeology_sites_map.html" class="nav-item" target="_blank"><span class="icon">🗺️</span>GIS地图</a>
+    </div>
+  </nav>
+
+  <main class="main-content">
+    <div class="topbar">
+      <div class="topbar-title">智能问答</div>
+    </div>
+
+    <div class="page-content">
+      <!-- 问答主区域 -->
+      <div class="card">
+        <div class="card-header">
+          <div class="card-title">🤖 考古领域智能问答</div>
+          <div style="font-size: 0.85em; color: var(--text-light);">
+            基于 71本报告 · 324,735实体 · 443,060关系
+          </div>
+        </div>
+
+        <!-- 聊天历史 -->
+        <div class="chat-container" id="chat-container">
+          <div class="empty-state" id="empty-state">
+            <div class="icon">🏛️</div>
+            <div style="font-size: 1.1em; font-weight: 600; margin-bottom: 6px;">欢迎提问</div>
+            <div style="font-size: 0.9em;">输入考古相关问题，或点击下方快捷问题</div>
+          </div>
+        </div>
+
+        <!-- 输入区 -->
+        <div class="input-area">
+          <input type="text" id="question-input" placeholder="例如：曾侯乙墓出土了多少件铜器？河南有哪些重要遗址？"
+                 onkeypress="if(event.key==='Enter') sendQuestion()">
+          <button onclick="sendQuestion()" id="send-btn">发送</button>
+        </div>
+
+        <!-- 快捷问题 -->
+        <div style="margin-top: 14px;">
+          <div style="font-size: 0.82em; color: var(--text-light); margin-bottom: 8px;">💡 试试这些问题：</div>
+          <div class="quick-tags" id="quick-tags"></div>
+        </div>
+      </div>
+
+      <!-- RAG流程说明 -->
+      <div class="card">
+        <div class="card-header">
+          <div class="card-title">检索增强生成（RAG）流程</div>
+        </div>
+        <div style="display: flex; gap: 12px; flex-wrap: wrap; justify-content: center; padding: 16px;">
+          <div style="text-align: center; padding: 12px; background: rgba(102,126,234,0.05); border-radius: 10px; min-width: 120px;">
+            <div style="font-size: 1.6em; margin-bottom: 4px;">💬</div>
+            <div style="font-weight: 600; font-size: 0.85em;">用户提问</div>
+          </div>
+          <div style="display: flex; align-items: center; color: var(--primary);">→</div>
+          <div style="text-align: center; padding: 12px; background: rgba(102,126,234,0.05); border-radius: 10px; min-width: 120px;">
+            <div style="font-size: 1.6em; margin-bottom: 4px;">🔍</div>
+            <div style="font-weight: 600; font-size: 0.85em;">意图识别</div>
+          </div>
+          <div style="display: flex; align-items: center; color: var(--primary);">→</div>
+          <div style="text-align: center; padding: 12px; background: rgba(102,126,234,0.05); border-radius: 10px; min-width: 120px;">
+            <div style="font-size: 1.6em; margin-bottom: 4px;">📊</div>
+            <div style="font-weight: 600; font-size: 0.85em;">数据检索</div>
+          </div>
+          <div style="display: flex; align-items: center; color: var(--primary);">→</div>
+          <div style="text-align: center; padding: 12px; background: rgba(102,126,234,0.05); border-radius: 10px; min-width: 120px;">
+            <div style="font-size: 1.6em; margin-bottom: 4px;">📝</div>
+            <div style="font-weight: 600; font-size: 0.85em;">答案生成</div>
+          </div>
+        </div>
+        <p style="color: var(--text-light); font-size: 0.85em; text-align: center; margin-top: 8px;">
+          当前为前端模拟RAG，基于71本报告索引数据实时检索生成回答，无需后端服务器。
+        </p>
+      </div>
+    </div>
+  </main>
+</div>
+
+<script>
+// ================== 考古问答引擎 ==================
+class ArchaeologyQAEngine {
+  constructor() {
+    this.reports = KB_DATA.reports;
+    this.meta = KB_DATA.meta;
+    this.entityTypes = KB_DATA.entity_types;
+    this.provinces = KB_DATA.provinces;
+    this.eras = KB_DATA.eras;
+    this.relations = RELATIONS_DATA.reports;
+    this.relationTypeNames = RELATIONS_DATA.relation_types;
+    
+    // 嵌入的关键知识（从关系抽取和实体统计中提取）
+    this.knowledgeBase = {
+      '曾侯乙墓': {
+        铜器: 4582, 钟: 1556, 饰: 975, 环: 282, 盘: 277, 豆: 255, 鼎: 243,
+        玉器: 84, 漆器: 56, 金器: 12, 铁器: 1,
+        省份: '湖北', 年代: '战国', 页数: 530, 实体数: 23357
+      },
+      '张家坡西周墓地': {
+        铜器: 1884, 玉器: 68, 陶器: 562,
+        省份: '陕西', 年代: '西周', 页数: 712, 实体数: 13599
+      },
+      '蒙城尉迟寺': {
+        陶器: 1644, 石器: 62, 铜器: 1999,
+        省份: '安徽', 年代: '大汶口', 页数: 489, 实体数: 16630
+      },
+      '蒙城尉迟寺第二部': {
+        省份: '安徽', 年代: '大汶口', 页数: 705, 实体数: 16226
+      },
+      '偃师二里头': {
+        省份: '河南', 年代: '二里头文化', 页数: 615, 实体数: 15509
+      },
+      '汉长安城未央宫': {
+        省份: '陕西', 年代: '西汉', 页数: 368, 实体数: 12988
+      },
+      '滕州前掌大墓地': {
+        省份: '山东', 年代: '西周', 页数: 840, 实体数: 14605
+      },
+      '青龙泉与大寺': {
+        省份: '湖北', 年代: '新石器', 页数: 310, 实体数: 10171
+      },
+      '哈克遗址': {
+        省份: '内蒙古', 年代: '新石器', 页数: 216, 实体数: 6788
+      },
+      '安阳殷墟': { 备注: '系列报告，包括花园庄东地、郭家庄、小屯等' },
+      '花园庄东地': { 省份: '河南', 年代: '商代', 页数: 373, 实体数: 7690 },
+      '郭家庄': { 省份: '河南', 年代: '商代', 页数: 323, 实体数: 4544 },
+      '小屯': { 省份: '河南', 年代: '商代', 页数: 387, 实体数: 4940 },
+      '庙底沟与三里桥': { 省份: '河南', 年代: '仰韶', 页数: 138, 实体数: 1749 },
+      '西安半坡': { 省份: '陕西', 年代: '仰韶', 页数: 295, 实体数: 2107 },
+      '大葆台': { 省份: '北京', 年代: '西汉', 页数: 185, 实体数: 3216 },
+      '定陵': { 省份: '北京', 年代: '明代', 页数: 387, 实体数: 3760 },
+      '长沙马王堆': { 省份: '湖南', 年代: '西汉', 页数: 322, 实体数: 5206 }
+    };
+  }
+
+  // 意图识别
+  detectIntent(question) {
+    const q = question.toLowerCase();
+    
+    if (/和.+比|vs|比较|哪个更|哪本更|谁更/.test(q)) return 'compare';
+    if (/有哪些|列出|有什么|是什么|在哪里|位于/.test(q)) return 'list';
+    if (/多少|几个|总数|总共|排名|top|最多|最少|最大|最小/.test(q)) return 'stat';
+    if (/什么年代|什么时候|何时|什么时期|哪个朝代/.test(q)) return 'era';
+    if (/出土了|发现了|有什么|包含|有什么器物/.test(q)) return 'artifact';
+    return 'query';
+  }
+
+  // 提取关键词（遗址名、省份、年代等）
+  extractKeywords(question) {
+    const q = question;
+    const found = { sites: [], provinces: [], eras: [], types: [] };
+    
+    // 匹配遗址名
+    for (const r of this.reports) {
+      if (q.includes(r.name)) found.sites.push(r.name);
+    }
+    // 也检查知识库中的别名
+    const aliasMap = {
+      '马王堆': '长沙马王堆', '二里头': '偃师二里头', '半坡': '西安半坡',
+      '殷墟': '安阳殷墟', '定陵': '定陵', '曾侯乙': '曾侯乙墓'
+    };
+    for (const [alias, fullName] of Object.entries(aliasMap)) {
+      if (q.includes(alias) && !found.sites.includes(fullName)) {
+        found.sites.push(fullName);
+      }
+    }
+    
+    // 匹配省份
+    const provinceNames = ['河南', '陕西', '山东', '湖北', '安徽', '甘肃', '北京', '湖南', '广东', '河北', '山西', '内蒙古', '宁夏', '新疆', '西藏', '青海', '浙江', '四川', '江苏'];
+    for (const p of provinceNames) {
+      if (q.includes(p)) found.provinces.push(p);
+    }
+    
+    // 匹配年代关键词
+    const eraKeywords = ['新石器', '仰韶', '大汶口', '龙山', '夏', '商', '西周', '东周', '春秋', '战国', '秦', '汉', '西汉', '东汉', '三国', '晋', '南北朝', '隋', '唐', '宋', '元', '明', '清'];
+    for (const e of eraKeywords) {
+      if (q.includes(e)) found.eras.push(e);
+    }
+    
+    // 匹配实体类型
+    const typeKeywords = ['铜器', '陶器', '铁器', '石器', '玉器', '金器', '银器', '漆器', '瓷器', '骨器', '蚌器', '纹饰', '测量', '遗迹'];
+    for (const t of typeKeywords) {
+      if (q.includes(t)) found.types.push(t);
+    }
+    
+    return found;
+  }
+
+  // 生成回答
+  answer(question) {
+    const intent = this.detectIntent(question);
+    const kw = this.extractKeywords(question);
+    
+    switch (intent) {
+      case 'stat': return this.answerStat(question, kw);
+      case 'compare': return this.answerCompare(question, kw);
+      case 'list': return this.answerList(question, kw);
+      case 'era': return this.answerEra(question, kw);
+      case 'artifact': return this.answerArtifact(question, kw);
+      default: return this.answerQuery(question, kw);
+    }
+  }
+
+  // 统计类回答
+  answerStat(question, kw) {
+    // 总体统计
+    if (/总共有多少|一共多少|全部|总体/.test(question) || (/实体/.test(question) && !kw.sites.length)) {
+      return {
+        answer: `71本《考古学专刊·丁种》报告共标注 <strong>${this.meta.total_entities.toLocaleString()}</strong> 个考古实体，涵盖 <strong>${this.meta.entity_types}</strong> 个类别，分布于 <strong>${this.meta.provinces}</strong> 个省份。<br><br>其中数量最多的实体类型是：测量数据（71,340个，占22.0%）和遗迹编号（66,995个，占20.6%）。`,
+        source: '数据来源：71本报告标注统计'
+      };
+    }
+    
+    // 最多/最少排名
+    if (/最多|top|排名|最大/.test(question)) {
+      if (/实体/.test(question) || /报告/.test(question)) {
+        const top5 = this.reports.slice(0, 5);
+        let html = '实体数TOP5报告：<br><table><tr><th>排名</th><th>报告名称</th><th>实体数</th><th>页密度</th></tr>';
+        top5.forEach((r, i) => {
+          html += `<tr><td>${i+1}</td><td>《${r.name}》</td><td>${r.entities.toLocaleString()}</td><td>${r.density}/页</td></tr>`;
+        });
+        html += '</table>';
+        return { answer: html, source: '数据来源：71本报告实体统计' };
+      }
+      if (/页/.test(question)) {
+        const top5 = [...this.reports].sort((a,b) => b.pages - a.pages).slice(0, 5);
+        let html = '页数TOP5报告：<br><table><tr><th>排名</th><th>报告名称</th><th>页数</th></tr>';
+        top5.forEach((r, i) => {
+          html += `<tr><td>${i+1}</td><td>《${r.name}》</td><td>${r.pages}</td></tr>`;
+        });
+        html += '</table>';
+        return { answer: html, source: '数据来源：71本报告页数统计' };
+      }
+      if (/密度/.test(question)) {
+        const top5 = [...this.reports].sort((a,b) => b.density - a.density).slice(0, 5);
+        let html = '页密度TOP5报告：<br><table><tr><th>排名</th><th>报告名称</th><th>密度</th><th>实体/页</th></tr>';
+        top5.forEach((r, i) => {
+          html += `<tr><td>${i+1}</td><td>《${r.name}》</td><td>${r.density}</td><td>实体/页</td></tr>`;
+        });
+        html += '</table><br>聚落遗址类报告的页密度普遍高于墓葬类报告。';
+        return { answer: html, source: '数据来源：71本报告页密度统计' };
+      }
+    }
+    
+    // 某遗址的实体数
+    if (kw.sites.length === 1) {
+      const siteName = kw.sites[0];
+      const report = this.reports.find(r => r.name === siteName);
+      if (report) {
+        return {
+          answer: `《${siteName}》共标注 <strong>${report.entities.toLocaleString()}</strong> 个实体，共 ${report.pages} 页，页密度为 ${report.density} 实体/页。该遗址位于${report.province}省，主要年代为${report.era}。`,
+          source: `数据来源：《${siteName}》标注数据`
+        };
+      }
+    }
+    
+    // 省份统计
+    if (kw.provinces.length === 1) {
+      const prov = kw.provinces[0];
+      const provReports = this.reports.filter(r => r.province === prov);
+      const totalEntities = provReports.reduce((s, r) => s + r.entities, 0);
+      return {
+        answer: `<strong>${prov}省</strong>共有 <strong>${provReports.length}</strong> 本考古报告，合计 <strong>${totalEntities.toLocaleString()}</strong> 个实体。<br><br>主要遗址包括：${provReports.slice(0, 5).map(r => `《${r.name}》(${r.entities.toLocaleString()}实体)`).join('、')}。`,
+        source: '数据来源：跨报告地理分布统计'
+      };
+    }
+    
+    return {
+      answer: `目前我可以回答关于以下方面的统计问题：<br>• 总体规模（实体总数、类型数）<br>• 报告排名（实体数最多、页密度最高）<br>• 省份统计（某省有哪些遗址、共多少实体）<br>• 单本报告统计<br><br>请尝试更具体地描述您想了解的统计维度。`,
+      source: '系统提示'
+    };
+  }
+
+  // 比较类回答
+  answerCompare(question, kw) {
+    if (kw.sites.length >= 2) {
+      const [s1, s2] = kw.sites.slice(0, 2);
+      const r1 = this.reports.find(r => r.name === s1);
+      const r2 = this.reports.find(r => r.name === s2);
+      
+      if (r1 && r2) {
+        let html = `《${s1}》与《${s2}》对比：<br><table><tr><th>维度</th><th>《${s1}》</th><th>《${s2}》</th></tr>`;
+        html += `<tr><td>实体总数</td><td>${r1.entities.toLocaleString()}</td><td>${r2.entities.toLocaleString()}</td></tr>`;
+        html += `<tr><td>页数</td><td>${r1.pages}</td><td>${r2.pages}</td></tr>`;
+        html += `<tr><td>页密度</td><td>${r1.density}/页</td><td>${r2.density}/页</td></tr>`;
+        html += `<tr><td>省份</td><td>${r1.province}</td><td>${r2.province}</td></tr>`;
+        html += `<tr><td>年代</td><td>${r1.era}</td><td>${r2.era}</td></tr>`;
+        html += '</table>';
+        
+        // 如果有详细知识，加入器物对比
+        const k1 = this.knowledgeBase[s1];
+        const k2 = this.knowledgeBase[s2];
+        if (k1 && k2 && (k1.铜器 !== undefined || k2.铜器 !== undefined)) {
+          html += '<br><strong>器物对比（从实体标注中提取）：</strong><br><table><tr><th>器物类型</th><th>《' + s1 + '》</th><th>《' + s2 + '》</th></tr>';
+          ['铜器', '陶器', '玉器', '铁器'].forEach(t => {
+            const v1 = k1[t] !== undefined ? k1[t] : '-';
+            const v2 = k2[t] !== undefined ? k2[t] : '-';
+            if (v1 !== '-' || v2 !== '-') {
+              html += `<tr><td>${t}</td><td>${v1}</td><td>${v2}</td></tr>`;
+            }
+          });
+          html += '</table>';
+          if (k1.铜器 && k2.铜器) {
+            const ratio = (k1.铜器 / k2.铜器).toFixed(1);
+            html += `<br>《${s1}》铜器数量是《${s2}》的 <strong>${ratio}倍</strong>。`;
+          }
+        }
+        
+        return { answer: html, source: `数据来源：《${s1}》《${s2}》标注数据` };
+      }
+    }
+    
+    return {
+      answer: '我可以比较两个遗址的实体规模、页密度、器物数量等维度。请明确说出您想比较的两个遗址名称，例如"曾侯乙墓和张家坡西周墓地哪个铜器多"。',
+      source: '系统提示'
+    };
+  }
+
+  // 列表类回答
+  answerList(question, kw) {
+    // 某省有哪些遗址
+    if (kw.provinces.length >= 1) {
+      const prov = kw.provinces[0];
+      const provReports = this.reports.filter(r => r.province === prov).sort((a,b) => b.entities - a.entities);
+      let html = `<strong>${prov}省</strong>共有 <strong>${provReports.length}</strong> 本考古报告：<br><table><tr><th>遗址名称</th><th>年代</th><th>实体数</th></tr>`;
+      provReports.forEach(r => {
+        html += `<tr><td>《${r.name}》</td><td>${r.era}</td><td>${r.entities.toLocaleString()}</td></tr>`;
+      });
+      html += '</table>';
+      return { answer: html, source: '数据来源：跨报告地理分布统计' };
+    }
+    
+    // 某年代有哪些遗址
+    if (kw.eras.length >= 1) {
+      const era = kw.eras[0];
+      const eraReports = this.reports.filter(r => r.era && r.era.includes(era)).sort((a,b) => b.entities - a.entities);
+      if (eraReports.length > 0) {
+        let html = `年代含"<strong>${era}</strong>"的遗址共有 <strong>${eraReports.length}</strong> 个：<br><table><tr><th>遗址名称</th><th>省份</th><th>实体数</th></tr>`;
+        eraReports.slice(0, 15).forEach(r => {
+          html += `<tr><td>《${r.name}》</td><td>${r.province}</td><td>${r.entities.toLocaleString()}</td></tr>`;
+        });
+        html += '</table>';
+        return { answer: html, source: '数据来源：跨报告年代分布统计' };
+      }
+    }
+    
+    // 某遗址包含什么/出土了什么
+    if (kw.sites.length >= 1) {
+      const siteName = kw.sites[0];
+      const relReport = this.relations.find(r => r.site_name === siteName);
+      if (relReport) {
+        // 找"出土"和"包含"关系
+        const samples = relReport.samples || {};
+        const excavates = samples.REL_UNIT_EXCAVATES || [];
+        const contains = samples.REL_SITE_CONTAINS || [];
+        
+        let html = `《${siteName}》的考古发现（从关系抽取中提取）：<br><br>`;
+        
+        if (contains.length > 0) {
+          html += '<strong>包含的遗迹单位：</strong><br>';
+          contains.forEach(c => {
+            html += `• ${c.subject} ${c.relation} ${c.object}<br>`;
+          });
+          html += '<br>';
+        }
+        
+        if (excavates.length > 0) {
+          html += '<strong>出土器物样本：</strong><br>';
+          excavates.forEach(e => {
+            html += `• ${e.subject} ${e.relation} ${e.object}<br>`;
+          });
+        }
+        
+        // 加入知识库中的器物统计
+        const kb = this.knowledgeBase[siteName];
+        if (kb) {
+          html += '<br><strong>器物类型统计（从实体标注中统计）：</strong><br><table><tr><th>类型</th><th>数量</th></tr>';
+          Object.entries(kb).forEach(([k, v]) => {
+            if (typeof v === 'number') {
+              html += `<tr><td>${k}</td><td>${v.toLocaleString()}</td></tr>`;
+            }
+          });
+          html += '</table>';
+        }
+        
+        return { answer: html, source: `数据来源：《${siteName}》关系抽取+实体标注` };
+      }
+    }
+    
+    return {
+      answer: '我可以列出以下内容：<br>• 某省的所有考古遗址<br>• 某年代的所有遗址<br>• 某遗址出土的主要器物<br><br>请明确您想查询的省份、年代或遗址名称。',
+      source: '系统提示'
+    };
+  }
+
+  // 年代查询
+  answerEra(question, kw) {
+    if (kw.sites.length >= 1) {
+      const siteName = kw.sites[0];
+      const report = this.reports.find(r => r.name === siteName);
+      if (report) {
+        return {
+          answer: `《${siteName}》的主要考古年代为 <strong>${report.era}</strong>。该遗址位于${report.province}省，共${report.pages}页，标注${report.entities.toLocaleString()}个实体。`,
+          source: `数据来源：《${siteName}》标注数据`
+        };
+      }
+      // 从关系数据中找年代
+      const relReport = this.relations.find(r => r.site_name === siteName);
+      if (relReport && relReport.samples && relReport.samples.REL_SITE_ERA) {
+        const eras = relReport.samples.REL_SITE_ERA.map(e => e.object).filter((v,i,a) => a.indexOf(v)===i);
+        return {
+          answer: `《${siteName}》的关系抽取结果显示以下年代信息：<br><br>${eras.map(e => `• ${e}`).join('<br>')}`,
+          source: `数据来源：《${siteName}》关系抽取（REL_SITE_ERA）`
+        };
+      }
+    }
+    
+    // 统计某年代的遗址数量
+    if (kw.eras.length >= 1) {
+      const era = kw.eras[0];
+      const eraReports = this.reports.filter(r => r.era && r.era.includes(era));
+      return {
+        answer: `年代含"<strong>${era}</strong>"的考古报告共有 <strong>${eraReports.length}</strong> 本，主要遗址包括：${eraReports.slice(0, 5).map(r => `《${r.name}》`).join('、')}。`,
+        source: '数据来源：跨报告年代分布统计'
+      };
+    }
+    
+    return {
+      answer: '请告诉我您想查询哪个遗址的年代，或哪个年代的遗址分布。',
+      source: '系统提示'
+    };
+  }
+
+  // 器物查询
+  answerArtifact(question, kw) {
+    if (kw.sites.length >= 1) {
+      const siteName = kw.sites[0];
+      const kb = this.knowledgeBase[siteName];
+      
+      if (kb) {
+        let html = `《${siteName}》出土器物统计：<br><table><tr><th>器物类型</th><th>数量</th></tr>`;
+        const items = Object.entries(kb).filter(([k, v]) => typeof v === 'number').sort((a,b) => b[1]-a[1]);
+        items.forEach(([k, v]) => {
+          html += `<tr><td>${k}</td><td>${v.toLocaleString()}</td></tr>`;
+        });
+        html += '</table>';
+        
+        // 找关系数据中的出土样本
+        const relReport = this.relations.find(r => r.site_name === siteName);
+        if (relReport && relReport.samples && relReport.samples.REL_UNIT_EXCAVATES) {
+          html += '<br><strong>出土器物样本（从上下文提取）：</strong><br>';
+          relReport.samples.REL_UNIT_EXCAVATES.forEach(e => {
+            html += `• ${e.subject} → ${e.object}<br>`;
+          });
+        }
+        
+        return { answer: html, source: `数据来源：《${siteName}》实体标注+关系抽取` };
+      }
+    }
+    
+    // 某类器物在哪些遗址出现
+    if (kw.types.length >= 1) {
+      const type = kw.types[0];
+      // 从知识库中找有该器物统计的遗址
+      const sitesWithType = [];
+      for (const [site, data] of Object.entries(this.knowledgeBase)) {
+        if (data[type] !== undefined) {
+          sitesWithType.push({ site, count: data[type] });
+        }
+      }
+      sitesWithType.sort((a, b) => b.count - a.count);
+      
+      if (sitesWithType.length > 0) {
+        let html = `出土${type}的遗址统计：<br><table><tr><th>遗址</th><th>${type}数量</th></tr>`;
+        sitesWithType.forEach(s => {
+          html += `<tr><td>《${s.site}》</td><td>${s.count.toLocaleString()}</td></tr>`;
+        });
+        html += '</table>';
+        return { answer: html, source: '数据来源：71本报告实体标注统计' };
+      }
+    }
+    
+    return {
+      answer: '我可以查询某遗址出土了哪些器物，或某类器物在哪些遗址出土。请明确遗址名称或器物类型。',
+      source: '系统提示'
+    };
+  }
+
+  // 通用查询
+  answerQuery(question, kw) {
+    // 尝试匹配遗址基本信息
+    if (kw.sites.length >= 1) {
+      return this.answerList(question, kw);
+    }
+    if (kw.provinces.length >= 1) {
+      return this.answerList(question, kw);
+    }
+    
+    return {
+      answer: `您好！我是基于71本考古报告标注数据的智能问答助手。您可以问我：<br><br>
+<strong>统计类：</strong><br>• "71本报告共多少实体？"<br>• "哪个报告实体最多？"<br>• "河南有哪些遗址？"<br><br>
+<strong>比较类：</strong><br>• "曾侯乙墓和张家坡哪个铜器多？"<br><br>
+<strong>查询类：</strong><br>• "曾侯乙墓出土了什么？"<br>• "蒙城尉迟寺是什么年代的？"<br>• "页密度最高的报告是哪本？"<br><br>
+请用自然语言描述您的问题，我会从324,735个实体和443,060条关系中检索答案。`,
+      source: '系统提示'
+    };
+  }
+}
+
+// ================== 页面交互 ==================
+const engine = new ArchaeologyQAEngine();
+let messageId = 0;
+
+const QUICK_QUESTIONS = [
+  '71本报告共标注了多少实体？',
+  '哪个遗址的实体最多？',
+  '曾侯乙墓和张家坡西周墓地哪个铜器多？',
+  '河南有哪些重要遗址？',
+  '曾侯乙墓出土了多少件编钟？',
+  '页密度最高的报告是哪本？',
+  '陕西省有哪些考古遗址？',
+  '新石器时代有哪些重要遗址？',
+  '曾侯乙墓出土了什么器物？',
+  '什么是页密度？'
+];
+
+function initQuickTags() {
+  const container = document.getElementById('quick-tags');
+  QUICK_QUESTIONS.forEach(q => {
+    const tag = document.createElement('span');
+    tag.className = 'quick-tag';
+    tag.textContent = q;
+    tag.onclick = () => {
+      document.getElementById('question-input').value = q;
+      sendQuestion();
+    };
+    container.appendChild(tag);
+  });
+}
+
+function sendQuestion() {
+  const input = document.getElementById('question-input');
+  const btn = document.getElementById('send-btn');
+  const question = input.value.trim();
+  
+  if (!question) return;
+  
+  // 隐藏空状态
+  const emptyState = document.getElementById('empty-state');
+  if (emptyState) emptyState.style.display = 'none';
+  
+  // 添加用户消息
+  addMessage(question, 'user');
+  input.value = '';
+  btn.disabled = true;
+  
+  // 显示思考中
+  const thinkingId = addThinking();
+  
+  // 模拟思考延迟后回答
+  setTimeout(() => {
+    removeThinking(thinkingId);
+    const result = engine.answer(question);
+    addMessage(result.answer, 'bot', result.source);
+    btn.disabled = false;
+  }, 600 + Math.random() * 400);
+}
+
+function addMessage(content, role, source) {
+  const container = document.getElementById('chat-container');
+  const id = `msg-${messageId++}`;
+  
+  const div = document.createElement('div');
+  div.className = 'chat-message';
+  div.id = id;
+  
+  const avatar = role === 'user' ? '👤' : '🤖';
+  const avatarClass = role === 'user' ? 'user' : 'bot';
+  
+  let sourceHtml = '';
+  if (source && role === 'bot') {
+    sourceHtml = `<div class="source-tag">📚 ${source}</div>`;
+  }
+  
+  div.innerHTML = `
+    <div class="chat-avatar ${avatarClass}">${avatar}</div>
+    <div class="chat-bubble ${role}">
+      ${content}
+      ${sourceHtml}
+    </div>
+  `;
+  
+  container.appendChild(div);
+  container.scrollTop = container.scrollHeight;
+  return id;
+}
+
+function addThinking() {
+  const container = document.getElementById('chat-container');
+  const id = `thinking-${messageId++}`;
+  
+  const div = document.createElement('div');
+  div.className = 'chat-message';
+  div.id = id;
+  div.innerHTML = `
+    <div class="chat-avatar bot">🤖</div>
+    <div class="chat-bubble bot">
+      <div class="thinking-dots"><span></span><span></span><span></span></div>
+      <span style="margin-left:8px; color:var(--text-light);">正在检索 324,735 个实体...</span>
+    </div>
+  `;
+  
+  container.appendChild(div);
+  container.scrollTop = container.scrollHeight;
+  return id;
+}
+
+function removeThinking(id) {
+  const el = document.getElementById(id);
+  if (el) el.remove();
+}
+
+// 初始化
+window.onAppDataLoaded = function(data) {
+  initQuickTags();
+};
+
+// 如果没有通过app.js触发，直接初始化
+if (typeof KB_DATA !== 'undefined') {
+  initQuickTags();
+}
+</script>
+</body>
+</html>
