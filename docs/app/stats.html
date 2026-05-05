@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>数据统计 - 考古知识库</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#f5f6fa;color:#2c3e50;line-height:1.6;}
+nav{background:#2c3e50;padding:12px 24px;display:flex;gap:18px;align-items:center;position:fixed;top:0;left:0;right:0;z-index:9999;box-shadow:0 2px 8px rgba(0,0,0,.15);}
+nav a{color:#ecf0f1;text-decoration:none;font-size:15px;transition:.2s;}
+nav a:hover{color:#f39c12;}
+nav a:first-child{font-weight:bold;font-size:17px;color:#fff;}
+main{padding:80px 24px 40px;max-width:1200px;margin:0 auto;}
+h1{font-size:28px;margin-bottom:8px;color:#2c3e50;}
+.subtitle{color:#7f8c8d;margin-bottom:28px;font-size:15px;}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px;margin-bottom:32px;}
+.card{background:#fff;border-radius:12px;padding:20px;text-align:center;box-shadow:0 2px 12px rgba(0,0,0,.06);transition:.2s;}
+.card:hover{transform:translateY(-2px);box-shadow:0 4px 20px rgba(0,0,0,.1);}
+.card .num{font-size:36px;font-weight:700;color:#2980b9;margin:8px 0;}
+.card .label{font-size:14px;color:#7f8c8d;}
+.card .icon{font-size:28px;margin-bottom:4px;}
+section{background:#fff;border-radius:12px;padding:24px;margin-bottom:24px;box-shadow:0 2px 12px rgba(0,0,0,.06);}
+section h2{font-size:20px;margin-bottom:16px;padding-bottom:10px;border-bottom:2px solid #ecf0f1;display:flex;align-items:center;gap:8px;}
+table{width:100%;border-collapse:collapse;font-size:14px;}
+th,td{padding:10px 12px;text-align:left;border-bottom:1px solid #ecf0f1;}
+th{background:#f8f9fa;font-weight:600;color:#2c3e50;}
+tr:hover{background:#f8f9fa;}
+.bar-bg{background:#ecf0f1;border-radius:6px;height:18px;overflow:hidden;min-width:100px;}
+.bar-fill{background:linear-gradient(90deg,#3498db,#2980b9);height:100%;border-radius:6px;transition:width .6s ease;}
+.chart-img{max-width:100%;border-radius:8px;margin-top:12px;}
+.two-col{display:grid;grid-template-columns:1fr 1fr;gap:24px;}
+@media(max-width:800px){.two-col{grid-template-columns:1fr;}}
+</style>
+</head>
+<body>
+<nav>
+  <a href="index.html">🏠 考古知识库</a>
+  <a href="qa.html">❓ 智能问答</a>
+  <a href="map.html">🗺️ 遗址地图</a>
+  <a href="relations.html">🔗 关系网络</a>
+  <a href="reports.html">📑 报告列表</a>
+  <a href="stats.html" style="color:#f39c12;font-weight:bold;">📊 数据统计</a>
+</nav>
+
+<main>
+<h1>📊 考古知识库数据统计</h1>
+<p class="subtitle">基于71本《考古学专刊·丁种》发掘报告的完整标注数据分析</p>
+
+<div class="cards" id="overview"></div>
+
+<div class="two-col">
+<section>
+  <h2>🏛️ 省份分布</h2>
+  <table id="province-table"><thead><tr><th>省份</th><th>遗址数</th><th>实体数</th><th>占比</th></tr></thead><tbody></tbody></table>
+</section>
+<section>
+  <h2>🏺 实体类型Top10</h2>
+  <table id="type-table"><thead><tr><th>类型</th><th>数量</th><th>占比</th></tr></thead><tbody></tbody></table>
+</section>
+</div>
+
+<div class="two-col">
+<section>
+  <h2>📅 时代分布</h2>
+  <table id="era-table"><thead><tr><th>时代</th><th>遗址数</th></tr></thead><tbody></tbody></table>
+</section>
+<section>
+  <h2>📈 高密度遗址Top10</h2>
+  <table id="density-table"><thead><tr><th>遗址</th><th>页数</th><th>实体数</th><th>密度</th></tr></thead><tbody></tbody></table>
+</section>
+</div>
+
+<section>
+  <h2>🗺️ 省份遗址数量分布图</h2>
+  <img src="../../output/province_stats.png" alt="省份统计图" class="chart-img" onerror="this.style.display='none';this.parentElement.innerHTML+='<p style=color:#e74c3c>图片加载失败，请确认output/province_stats.png存在</p>'">
+</section>
+</main>
+
+<script src="js/knowledge-base.js"></script>
+<script>
+const kb = KNOWLEDGE_BASE;
+const reports = Object.keys(kb);
+let totalPages = 0, totalEntities = 0;
+const provinceStats = {}, eraStats = {}, typeStats = {};
+
+reports.forEach(name => {
+  const d = kb[name];
+  totalPages += d.pages;
+  totalEntities += d.entities;
+  
+  const p = d.province || '待定';
+  provinceStats[p] = (provinceStats[p] || 0) + d.entities;
+  
+  const e = d.era || '待定';
+  eraStats[e] = (eraStats[e] || 0) + 1;
+  
+  Object.entries(d.types || {}).forEach(([t, n]) => {
+    typeStats[t] = (typeStats[t] || 0) + n;
+  });
+});
+
+// Overview cards
+document.getElementById('overview').innerHTML = `
+  <div class="card"><div class="icon">📚</div><div class="label">考古报告</div><div class="num">${reports.length}</div></div>
+  <div class="card"><div class="icon">📄</div><div class="label">总页数</div><div class="num">${totalPages.toLocaleString()}</div></div>
+  <div class="card"><div class="icon">🏷️</div><div class="label">标注实体</div><div class="num">${totalEntities.toLocaleString()}</div></div>
+  <div class="card"><div class="icon">📊</div><div class="label">实体密度</div><div class="num">${(totalEntities/totalPages).toFixed(1)}</div><div class="label">个/页</div></div>
+`;
+
+// Province table
+const provinceSorted = Object.entries(provinceStats).sort((a,b)=>b[1]-a[1]);
+const maxP = provinceSorted[0][1];
+document.querySelector('#province-table tbody').innerHTML = provinceSorted.map(([p,n])=>{
+  const pct = ((n/totalEntities)*100).toFixed(1);
+  return `<tr><td>${p}</td><td>${eraStats[p]||reports.filter(r=>kb[r].province===p).length}</td><td>${n.toLocaleString()}</td>
+    <td><div class="bar-bg"><div class="bar-fill" style="width:${(n/maxP*100).toFixed(1)}%"></div></div> ${pct}%</td></tr>`;
+}).join('');
+
+// Type table
+const typeSorted = Object.entries(typeStats).sort((a,b)=>b[1]-a[1]).slice(0,15);
+const maxT = typeSorted[0][1];
+document.querySelector('#type-table tbody').innerHTML = typeSorted.map(([t,n])=>{
+  const pct = ((n/totalEntities)*100).toFixed(1);
+  return `<tr><td>${t}</td><td>${n.toLocaleString()}</td>
+    <td><div class="bar-bg"><div class="bar-fill" style="width:${(n/maxT*100).toFixed(1)}%"></div></div> ${pct}%</td></tr>`;
+}).join('');
+
+// Era table
+const eraSorted = Object.entries(eraStats).sort((a,b)=>b[1]-a[1]);
+document.querySelector('#era-table tbody').innerHTML = eraSorted.map(([e,n])=>`<tr><td>${e}</td><td>${n}</td></tr>`).join('');
+
+// Density table
+const densitySorted = reports.map(r=>({name:r,...kb[r]})).sort((a,b)=>b.density-a.density).slice(0,10);
+document.querySelector('#density-table tbody').innerHTML = densitySorted.map(d=>`<tr><td>${d.name}</td><td>${d.pages}</td><td>${d.entities.toLocaleString()}</td><td>${d.density}</td></tr>`).join('');
+</script>
+</body>
+</html>
