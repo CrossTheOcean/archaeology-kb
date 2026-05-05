@@ -1,0 +1,300 @@
+{
+  "name": "河南信阳楚墓出土文物图录",
+  "file": "河南信阳楚墓出土文物图录.pdf",
+  "era": "战国",
+  "culture": "楚国",
+  "processed_pages": 12,
+  "total_entities": 44,
+  "entity_stats": {
+    "漆器": 2,
+    "遗迹编号": 3,
+    "测量数据": 6,
+    "年代": 2,
+    "陶器": 10,
+    "铜器": 10,
+    "纹饰": 7,
+    "遗存类型": 4
+  },
+  "entities": {
+    "漆器": [
+      {
+        "text": "漆器",
+        "page": 1,
+        "source": "ocr",
+        "context": "KD\n和安徽寿县两地发现过一部分网器和木漆器，但多被帝国主义分子咨住国外，至使我\nS"
+      },
+      {
+        "text": "漆器",
+        "page": 3,
+        "source": "ocr",
+        "context": "测，可能是一篇记载死者生平的仁书。\n\n木漆器，孝量较多，的三百余种。其中较为精级的器"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "H12",
+        "page": 2,
+        "source": "ocr",
+        "context": "MADAME, Bou h14.5K, H12.3Kk, RR\n10.35%, KAB"
+      },
+      {
+        "text": "H4",
+        "page": 2,
+        "source": "ocr",
+        "context": "RR\n10.35%, KABA AK, H4—5. 2K, CHRD\n楚基(长8.6"
+      },
+      {
+        "text": "M78",
+        "page": 10,
+        "source": "ocr",
+        "context": ", HRS\n—i—, GAS\n—i-, M78\n—H=, #EME\n—EM, RRR\n"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": "长8.68米",
+        "page": 2,
+        "source": "ocr",
+        "context": ", H4—5. 2K, CHRD\n楚基(长8.68米、寅2. 68米) HALTAB. SE"
+      },
+      {
+        "text": " 68米",
+        "page": 2,
+        "source": "ocr",
+        "context": ", CHRD\n楚基(长8.68米、寅2. 68米) HALTAB. SERALE (HE"
+      },
+      {
+        "text": "9米",
+        "page": 12,
+        "source": "ocr",
+        "context": " te\n\n» be H\n\n长\n\n8\n\n.9米\n\n>\n7.58%\n3\n高\n2\n.5米\n"
+      },
+      {
+        "text": "5米",
+        "page": 12,
+        "source": "ocr",
+        "context": ".9米\n\n>\n7.58%\n3\n高\n2\n.5米\n\n"
+      },
+      {
+        "text": "长2.25米",
+        "page": 14,
+        "source": "ocr",
+        "context": "Ww, AH tie\n\n长2.25米，袖1.18米，高1.1外。\n"
+      },
+      {
+        "text": "1.18米",
+        "page": 14,
+        "source": "ocr",
+        "context": "Ww, AH tie\n\n长2.25米，袖1.18米，高1.1外。\n"
+      }
+    ],
+    "年代": [
+      {
+        "text": "元",
+        "page": 2,
+        "source": "ocr",
+        "context": "RSE EAL Be 了这座规模炭大的木元划后，遂报请信阳县人\n民委员会，经派只萌"
+      },
+      {
+        "text": "金",
+        "page": 8,
+        "source": "ocr",
+        "context": "、 #,\n\n——O, KBE\n\n一一一、金娟彩绘漆案 (LHRH)\n——=, KA"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "环",
+        "page": 3,
+        "source": "ocr",
+        "context": "RORE 上，喜侧还附有对称的网绪铺首衔环，喜辟给\nARAB EER.\n\nHHAG"
+      },
+      {
+        "text": "刀",
+        "page": 4,
+        "source": "ocr",
+        "context": "互、胡、方色、轩经、每、变、坦及笑、的、刀、人等。其中以彩给\nERM.\n\netn "
+      },
+      {
+        "text": "豆",
+        "page": 9,
+        "source": "ocr",
+        "context": "二二、复原后之彩绘木粗\n\n一二三、岛诈木豆〈附羡)\n\n一二四、园盘彩给木豆\n\n一二"
+      },
+      {
+        "text": "盘",
+        "page": 9,
+        "source": "ocr",
+        "context": "\n一二三、岛诈木豆〈附羡)\n\n一二四、园盘彩给木豆\n\n一二五、圆各彩绘木豆(彩色划"
+      },
+      {
+        "text": "豆",
+        "page": 9,
+        "source": "ocr",
+        "context": "、岛诈木豆〈附羡)\n\n一二四、园盘彩给木豆\n\n一二五、圆各彩绘木豆(彩色划给展开国"
+      },
+      {
+        "text": "豆",
+        "page": 9,
+        "source": "ocr",
+        "context": "二四、园盘彩给木豆\n\n一二五、圆各彩绘木豆(彩色划给展开国)\n一二六、耳标豆\n\n—"
+      },
+      {
+        "text": "豆",
+        "page": 9,
+        "source": "ocr",
+        "context": "彩绘木豆(彩色划给展开国)\n一二六、耳标豆\n\n—=+, FFE LH\n\n一二人、耳"
+      },
+      {
+        "text": "杯",
+        "page": 9,
+        "source": "ocr",
+        "context": "\n\n—=+, FFE LH\n\n一二人、耳杯豆(彩色摹给展开恬)\n\n一二九、复原后之"
+      },
+      {
+        "text": "豆",
+        "page": 9,
+        "source": "ocr",
+        "context": "\n—=+, FFE LH\n\n一二人、耳杯豆(彩色摹给展开恬)\n\n一二九、复原后之彩"
+      },
+      {
+        "text": "豆",
+        "page": 10,
+        "source": "ocr",
+        "context": "RRE\n—KE, WRABA\n一大五、移豆\n—*A, WG\n—KA, BH, BH"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "环",
+        "page": 3,
+        "source": "ocr",
+        "context": "RORE 上，喜侧还附有对称的网绪铺首衔环，喜辟给\nARAB EER.\n\nHHAG"
+      },
+      {
+        "text": "刀",
+        "page": 4,
+        "source": "ocr",
+        "context": "互、胡、方色、轩经、每、变、坦及笑、的、刀、人等。其中以彩给\nERM.\n\netn "
+      },
+      {
+        "text": "豆",
+        "page": 9,
+        "source": "ocr",
+        "context": "二二、复原后之彩绘木粗\n\n一二三、岛诈木豆〈附羡)\n\n一二四、园盘彩给木豆\n\n一二"
+      },
+      {
+        "text": "盘",
+        "page": 9,
+        "source": "ocr",
+        "context": "\n一二三、岛诈木豆〈附羡)\n\n一二四、园盘彩给木豆\n\n一二五、圆各彩绘木豆(彩色划"
+      },
+      {
+        "text": "豆",
+        "page": 9,
+        "source": "ocr",
+        "context": "、岛诈木豆〈附羡)\n\n一二四、园盘彩给木豆\n\n一二五、圆各彩绘木豆(彩色划给展开国"
+      },
+      {
+        "text": "豆",
+        "page": 9,
+        "source": "ocr",
+        "context": "二四、园盘彩给木豆\n\n一二五、圆各彩绘木豆(彩色划给展开国)\n一二六、耳标豆\n\n—"
+      },
+      {
+        "text": "豆",
+        "page": 9,
+        "source": "ocr",
+        "context": "彩绘木豆(彩色划给展开国)\n一二六、耳标豆\n\n—=+, FFE LH\n\n一二人、耳"
+      },
+      {
+        "text": "杯",
+        "page": 9,
+        "source": "ocr",
+        "context": "\n\n—=+, FFE LH\n\n一二人、耳杯豆(彩色摹给展开恬)\n\n一二九、复原后之"
+      },
+      {
+        "text": "豆",
+        "page": 9,
+        "source": "ocr",
+        "context": "\n—=+, FFE LH\n\n一二人、耳杯豆(彩色摹给展开恬)\n\n一二九、复原后之彩"
+      },
+      {
+        "text": "豆",
+        "page": 10,
+        "source": "ocr",
+        "context": "RRE\n—KE, WRABA\n一大五、移豆\n—*A, WG\n—KA, BH, BH"
+      }
+    ],
+    "纹饰": [
+      {
+        "text": "彩绘",
+        "page": 8,
+        "source": "ocr",
+        "context": "#,\n\n——O, KBE\n\n一一一、金娟彩绘漆案 (LHRH)\n——=, KA\n\n—"
+      },
+      {
+        "text": "彩绘",
+        "page": 8,
+        "source": "ocr",
+        "context": "K, PRAE\n\n一一七、 复原后之大型彩绘方合\n一一信、复原后之小型彩绘方全\n\n"
+      },
+      {
+        "text": "彩绘",
+        "page": 8,
+        "source": "ocr",
+        "context": "原后之大型彩绘方合\n一一信、复原后之小型彩绘方全\n\n"
+      },
+      {
+        "text": "彩绘",
+        "page": 9,
+        "source": "ocr",
+        "context": "eer mn etme\n\n，一一九、小型彩绘方盒残片\n\n一二一、彩给木姐之友部\n\n一"
+      },
+      {
+        "text": "彩绘",
+        "page": 9,
+        "source": "ocr",
+        "context": "二一、彩给木姐之友部\n\n一二二、复原后之彩绘木粗\n\n一二三、岛诈木豆〈附羡)\n\n一二"
+      },
+      {
+        "text": "彩绘",
+        "page": 9,
+        "source": "ocr",
+        "context": "\n\n一二四、园盘彩给木豆\n\n一二五、圆各彩绘木豆(彩色划给展开国)\n一二六、耳标豆\n"
+      },
+      {
+        "text": "彩绘",
+        "page": 9,
+        "source": "ocr",
+        "context": "豆(彩色摹给展开恬)\n\n一二九、复原后之彩绘木双\n\n一三O、耳标 (正面及背面)\n\n"
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "竹简",
+        "page": 9,
+        "source": "ocr",
+        "context": ", HF\n=A, RAR AR\n一三九、竹简\n—HO, FH ffl\n一四一、和俐简"
+      },
+      {
+        "text": "竹简",
+        "page": 9,
+        "source": "ocr",
+        "context": "FH ffl\n一四一、和俐简\n一四二、人竹简\n\n一四四、人竹简\n\n一四五、竹简\n\n—"
+      },
+      {
+        "text": "竹简",
+        "page": 9,
+        "source": "ocr",
+        "context": "一、和俐简\n一四二、人竹简\n\n一四四、人竹简\n\n一四五、竹简\n\n—Ox, PARE\n"
+      },
+      {
+        "text": "竹简",
+        "page": 9,
+        "source": "ocr",
+        "context": "二、人竹简\n\n一四四、人竹简\n\n一四五、竹简\n\n—Ox, PARE\n\nWA, BAe"
+      }
+    ]
+  }
+}

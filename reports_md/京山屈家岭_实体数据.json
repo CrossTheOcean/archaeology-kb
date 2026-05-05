@@ -1,0 +1,696 @@
+{
+  "name": "京山屈家岭",
+  "file": "京山屈家岭.pdf",
+  "era": "新石器",
+  "culture": "屈家岭文化",
+  "processed_pages": 14,
+  "total_entities": 107,
+  "entity_stats": {
+    "遗址名称": 9,
+    "陶器": 16,
+    "铜器": 12,
+    "材质": 2,
+    "年代": 6,
+    "层位关系": 9,
+    "遗迹类型": 5,
+    "石器": 1,
+    "纹饰": 9,
+    "遗存类型": 3,
+    "探方编号": 10,
+    "遗迹编号": 10,
+    "测量数据": 13,
+    "土样特征": 2
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "京山",
+        "page": 4,
+        "source": "ocr",
+        "context": "内 容 fi 介\n\n湖北京山县屈家岭站址是一处新石器时代遗存。 19"
+      },
+      {
+        "text": "屈家岭",
+        "page": 4,
+        "source": "ocr",
+        "context": "内 容 fi 介\n\n湖北京山县屈家岭站址是一处新石器时代遗存。 1954 年"
+      },
+      {
+        "text": "屈家岭",
+        "page": 8,
+        "source": "ocr",
+        "context": " SBA SD\n\nSs.\n\n$\n\n学\n\n屈家岭遗址地形及发掘情况\n屈家岭遗址发掘区全最"
+      },
+      {
+        "text": "屈家岭",
+        "page": 8,
+        "source": "ocr",
+        "context": "\n$\n\n学\n\n屈家岭遗址地形及发掘情况\n屈家岭遗址发掘区全最\n早期的灰坑\n晚期遗迹二烧"
+      },
+      {
+        "text": "屈家岭",
+        "page": 12,
+        "source": "ocr",
+        "context": "屈家岭新石器时代遗址, 位于潮北省京山县城西南"
+      },
+      {
+        "text": "京山",
+        "page": 12,
+        "source": "ocr",
+        "context": "屈家岭新石器时代遗址, 位于潮北省京山县城西南约 30 公里的届家岭村, 是湖"
+      },
+      {
+        "text": "京山",
+        "page": 12,
+        "source": "ocr",
+        "context": "季配合石龙过江水库工程调查时发现的2\n\n京山县位于江汉平原北面,县境内北牛部是大洪山"
+      },
+      {
+        "text": "屈家岭",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n\n五条; 治南岸有小河与高桥水两条。 屈家岭遗址就在青木增河\n的三角地带上(图一; "
+      },
+      {
+        "text": "屈家岭",
+        "page": 12,
+        "source": "ocr",
+        "context": "挥部文物工作队负责。\n发气面积很小,只在屈家岭村的西部渠道经过的地方开了2 X 10 "
+      }
+    ],
+    "陶器": [
+      {
+        "text": "陶纺轮",
+        "page": 4,
+        "source": "ocr",
+        "context": "一文化遗存的发展关系。\n\n出土遗物,以知陶纺轮,朱绘黑陶和蛋壳条陶等最具特色,陶器中的"
+      },
+      {
+        "text": "碗",
+        "page": 4,
+        "source": "ocr",
+        "context": ",朱绘黑陶和蛋壳条陶等最具特色,陶器中的碗、\n男,豆等造型,双具有共同特征， 有别"
+      },
+      {
+        "text": "豆",
+        "page": 4,
+        "source": "ocr",
+        "context": "和蛋壳条陶等最具特色,陶器中的碗、\n男,豆等造型,双具有共同特征， 有别于其它新石"
+      },
+      {
+        "text": "碗",
+        "page": 8,
+        "source": "ocr",
+        "context": "期遗迹二烧士残迹层\n晚期一红烧士中的稻谷碗\n早期灰坑出土的陶器\n早期及晚期二的墓三"
+      },
+      {
+        "text": "陶球",
+        "page": 8,
+        "source": "ocr",
+        "context": " PE, PH\n晚期一的陶器\n\n晚期一的陶球及彩陶片\n晚期二的建筑遗迹\n晚期二的建筑"
+      },
+      {
+        "text": "陶碗",
+        "page": 10,
+        "source": "ocr",
+        "context": "二一“晚期一的陶纺输…\n\n二三”晚期一的陶碗…\n晚期一的陶器…\n二五”晚期一的陶器…"
+      },
+      {
+        "text": "陶环",
+        "page": 10,
+        "source": "ocr",
+        "context": ":\n二六”晚期一的陶器盖\n二七”晚期一的陶环、玉质饰物\n= ARIAS PBR\n=H"
+      },
+      {
+        "text": "陶碗",
+        "page": 11,
+        "source": "ocr",
+        "context": "\n晚期二的陶器…\n晚期二的陶时\n晚期二的陶碗…\n晚期二的陶碗…\n晚期二的陶器\n晚期二"
+      },
+      {
+        "text": "陶碗",
+        "page": 11,
+        "source": "ocr",
+        "context": "\n晚期二的陶时\n晚期二的陶碗…\n晚期二的陶碗…\n晚期二的陶器\n晚期二的陶豆\n\n晚期二"
+      },
+      {
+        "text": "陶豆",
+        "page": 11,
+        "source": "ocr",
+        "context": "\n晚期二的陶碗…\n晚期二的陶器\n晚期二的陶豆\n\n晚期二的陶标…\n晚期二的陶器…\n晚期"
+      },
+      {
+        "text": "杯",
+        "page": 11,
+        "source": "ocr",
+        "context": "的陶标…\n晚期二的陶器…\n晚期二的高圈足杯\n晚期二的陶器…\n晚期二的陶器\n晚期二的"
+      },
+      {
+        "text": "陶环",
+        "page": 11,
+        "source": "ocr",
+        "context": "期二的四耳陶\n晚期二\n\n晚期\n\n晚期二的陶环、玉质饰品等\n晚期二的陶球和彩陶球， p"
+      },
+      {
+        "text": "陶球",
+        "page": 11,
+        "source": "ocr",
+        "context": "期\n\n晚期二的陶环、玉质饰品等\n晚期二的陶球和彩陶球， pe\n\n"
+      },
+      {
+        "text": "陶球",
+        "page": 11,
+        "source": "ocr",
+        "context": "期二的陶环、玉质饰品等\n晚期二的陶球和彩陶球， pe\n\n"
+      },
+      {
+        "text": "环",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n\n与它的小支流青木河之间\n\n遗址的自然环境与鄂西和骂东的遗址不大相同,是在海拔 "
+      },
+      {
+        "text": "环",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n面,青木河在它的西面,两河自遗址的北部环绕而南, 到届家岭村西南约 750 米汇"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "豆",
+        "page": 4,
+        "source": "ocr",
+        "context": "和蛋壳条陶等最具特色,陶器中的碗、\n男,豆等造型,双具有共同特征， 有别于其它新石"
+      },
+      {
+        "text": "饰",
+        "page": 6,
+        "source": "ocr",
+        "context": "            16\n(=) 装饰品 …                 "
+      },
+      {
+        "text": "饰",
+        "page": 6,
+        "source": "ocr",
+        "context": "            49\n(=) 装饰品                   "
+      },
+      {
+        "text": "锛",
+        "page": 8,
+        "source": "ocr",
+        "context": "陶器\n早期及晚期二的墓三\n早期的石竹、石锛\n早期的石器、陶纺输\nFIV GORD "
+      },
+      {
+        "text": "环",
+        "page": 10,
+        "source": "ocr",
+        "context": "\n二六”晚期一的陶器盖\n二七”晚期一的陶环、玉质饰物\n= ARIAS PBR\n=H"
+      },
+      {
+        "text": "饰",
+        "page": 10,
+        "source": "ocr",
+        "context": "晚期一的陶器盖\n二七”晚期一的陶环、玉质饰物\n= ARIAS PBR\n=H RUC"
+      },
+      {
+        "text": "豆",
+        "page": 11,
+        "source": "ocr",
+        "context": "晚期二的陶碗…\n晚期二的陶器\n晚期二的陶豆\n\n晚期二的陶标…\n晚期二的陶器…\n晚期"
+      },
+      {
+        "text": "杯",
+        "page": 11,
+        "source": "ocr",
+        "context": "的陶标…\n晚期二的陶器…\n晚期二的高圈足杯\n晚期二的陶器…\n晚期二的陶器\n晚期二的"
+      },
+      {
+        "text": "环",
+        "page": 11,
+        "source": "ocr",
+        "context": "二的四耳陶\n晚期二\n\n晚期\n\n晚期二的陶环、玉质饰品等\n晚期二的陶球和彩陶球， p"
+      },
+      {
+        "text": "饰",
+        "page": 11,
+        "source": "ocr",
+        "context": "陶\n晚期二\n\n晚期\n\n晚期二的陶环、玉质饰品等\n晚期二的陶球和彩陶球， pe\n\n"
+      },
+      {
+        "text": "环",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n\n与它的小支流青木河之间\n\n遗址的自然环境与鄂西和骂东的遗址不大相同,是在海拔 "
+      },
+      {
+        "text": "环",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n面,青木河在它的西面,两河自遗址的北部环绕而南, 到届家岭村西南约 750 米汇"
+      }
+    ],
+    "材质": [
+      {
+        "text": "黑陶",
+        "page": 4,
+        "source": "ocr",
+        "context": "发展关系。\n\n出土遗物,以知陶纺轮,朱绘黑陶和蛋壳条陶等最具特色,陶器中的碗、\n男,"
+      },
+      {
+        "text": "黑陶",
+        "page": 10,
+        "source": "ocr",
+        "context": "\n早期的陶器盖\n早期的彩陶片\n早期的朱绘黑陶…\n\n=O 晚期一的陶纺输…:\n二一“晚"
+      }
+    ],
+    "年代": [
+      {
+        "text": "新石器时代",
+        "page": 4,
+        "source": "ocr",
+        "context": " fi 介\n\n湖北京山县屈家岭站址是一处新石器时代遗存。 1954 年冬发现后，\n1955"
+      },
+      {
+        "text": "新石器时代",
+        "page": 4,
+        "source": "ocr",
+        "context": ",豆等造型,双具有共同特征， 有别于其它新石器时代文化。 这种文化乃\n以这一址址而定名“届"
+      },
+      {
+        "text": "元",
+        "page": 4,
+        "source": "ocr",
+        "context": "从。       道林精装本 3.60 元\n定价: [科七] BIE ooo 于\n"
+      },
+      {
+        "text": "新石器时代",
+        "page": 12,
+        "source": "ocr",
+        "context": "屈家岭新石器时代遗址, 位于潮北省京山县城西南约 30 "
+      },
+      {
+        "text": "新石器时代",
+        "page": 12,
+        "source": "ocr",
+        "context": "圆形岗地。在这岗地上,发现有五\n\n处暴露新石器时代文化遗存的地方。我们先后在这里发气过两\n"
+      },
+      {
+        "text": "明",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n图三“早期与晚期典型探方地层剖面图\n说明: -一-线以上是晚期二,以下是晚期一;"
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "堆积",
+        "page": 6,
+        "source": "ocr",
+        "context": " .\nAh.\n\nmA 局  \"\n起”地层堆积 …                  "
+      },
+      {
+        "text": "堆积",
+        "page": 12,
+        "source": "ocr",
+        "context": "询四条。初步了\n\n解到它的文化内涵及地层堆积情况,看出遗址的文化遗物属于新的文化系统"
+      },
+      {
+        "text": "堆积",
+        "page": 15,
+        "source": "ocr",
+        "context": "不等,由多种不同的士质和士色\n交错组成，堆积层砍多为 1一10 层。土层的大小厚薄亦"
+      },
+      {
+        "text": "堆积",
+        "page": 15,
+        "source": "ocr",
+        "context": "IVES 3 米的洼地。因此遗址的文化层堆积,中部较厚、层砍也较多,四周较薄、层砍也"
+      },
+      {
+        "text": "堆积",
+        "page": 15,
+        "source": "ocr",
+        "context": "早期遗迹(图版\nB)o 至于整个文化层的堆积, 从发掘的探方中得知, 大体可分为三个"
+      },
+      {
+        "text": "堆积",
+        "page": 15,
+        "source": "ocr",
+        "context": "成, 小层编号多到五或十层, 均属于第一堆积\n阶段。烧土层以上,由不同的黄色士层组成"
+      },
+      {
+        "text": "堆积",
+        "page": 15,
+        "source": "ocr",
+        "context": "成,小层编号多为四,五层到八层,属于第三堆积\n阶段。在烧士层西部,上部几与烧土层等高"
+      },
+      {
+        "text": "堆积",
+        "page": 15,
+        "source": "ocr",
+        "context": ", 由不同的褐色士\n组成的小层,属于第二堆积阶段。这三个堆积阶段,我们在地层剖面图上"
+      },
+      {
+        "text": "堆积",
+        "page": 15,
+        "source": "ocr",
+        "context": "士\n组成的小层,属于第二堆积阶段。这三个堆积阶段,我们在地层剖面图上分别以较粗的线\n"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "灰坑",
+        "page": 8,
+        "source": "ocr",
+        "context": "及发掘情况\n屈家岭遗址发掘区全最\n早期的灰坑\n晚期遗迹二烧士残迹层\n晚期一红烧士中的"
+      },
+      {
+        "text": "灰坑",
+        "page": 8,
+        "source": "ocr",
+        "context": "烧士残迹层\n晚期一红烧士中的稻谷碗\n早期灰坑出土的陶器\n早期及晚期二的墓三\n早期的石"
+      },
+      {
+        "text": "灰坑",
+        "page": 10,
+        "source": "ocr",
+        "context": " 的晚期一和晚期二出土主要ii\n六”早期灰坑出土\n七“早期灰坑出\nKR Bia\n\n|"
+      },
+      {
+        "text": "灰坑",
+        "page": 10,
+        "source": "ocr",
+        "context": "出土主要ii\n六”早期灰坑出土\n七“早期灰坑出\nKR Bia\n\n|\n\nHOB ll "
+      },
+      {
+        "text": "灰坑",
+        "page": 15,
+        "source": "ocr",
+        "context": "原来的洼地生士面上,分布有 24 个简形灰坑,这是发掘范围内的早期遗迹(图版\nB)o"
+      }
+    ],
+    "石器": [
+      {
+        "text": "石锛",
+        "page": 8,
+        "source": "ocr",
+        "context": "的陶器\n早期及晚期二的墓三\n早期的石竹、石锛\n早期的石器、陶纺输\nFIV GORD "
+      }
+    ],
+    "纹饰": [
+      {
+        "text": "彩陶",
+        "page": 8,
+        "source": "ocr",
+        "context": "3\n\n彩色版壹”早期和晚期一的彩陶\n\n彩色版起\n\ntt\n\n® SBA SD"
+      },
+      {
+        "text": "彩陶",
+        "page": 8,
+        "source": "ocr",
+        "context": ", PH\n晚期一的陶器\n\n晚期一的陶球及彩陶片\n晚期二的建筑遗迹\n晚期二的建筑遗迹\n"
+      },
+      {
+        "text": "彩陶",
+        "page": 8,
+        "source": "ocr",
+        "context": "\n晚期二的石器等\n\n版 B®\n\n晚期二的彩陶纺输和和蛋壳彩陶片\n\n一vii一\n"
+      },
+      {
+        "text": "彩陶",
+        "page": 8,
+        "source": "ocr",
+        "context": "\n\n版 B®\n\n晚期二的彩陶纺输和和蛋壳彩陶片\n\n一vii一\n"
+      },
+      {
+        "text": "彩陶",
+        "page": 10,
+        "source": "ocr",
+        "context": "一一“早期的陶纺办\n早期的陶器盖\n早期的彩陶片\n早期的朱绘黑陶…\n\n=O 晚期一的陶"
+      },
+      {
+        "text": "彩陶",
+        "page": 11,
+        "source": "ocr",
+        "context": "二的石链…\n\n晚期二陶纺输剖面示\n晚期二彩陶纺输章面示意\n晚期二的彩陶纺输\n晚期二的"
+      },
+      {
+        "text": "彩陶",
+        "page": 11,
+        "source": "ocr",
+        "context": "剖面示\n晚期二彩陶纺输章面示意\n晚期二的彩陶纺输\n晚期二的彩陶纺输…\n晚期二的陶器…"
+      },
+      {
+        "text": "彩陶",
+        "page": 11,
+        "source": "ocr",
+        "context": "纺输章面示意\n晚期二的彩陶纺输\n晚期二的彩陶纺输…\n晚期二的陶器…\n晚期二的陶时\n晚"
+      },
+      {
+        "text": "彩陶",
+        "page": 11,
+        "source": "ocr",
+        "context": "晚期二的陶环、玉质饰品等\n晚期二的陶球和彩陶球， pe\n\n"
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "陶片",
+        "page": 8,
+        "source": "ocr",
+        "context": " PH\n晚期一的陶器\n\n晚期一的陶球及彩陶片\n晚期二的建筑遗迹\n晚期二的建筑遗迹\n晚"
+      },
+      {
+        "text": "陶片",
+        "page": 8,
+        "source": "ocr",
+        "context": "\n版 B®\n\n晚期二的彩陶纺输和和蛋壳彩陶片\n\n一vii一\n"
+      },
+      {
+        "text": "陶片",
+        "page": 10,
+        "source": "ocr",
+        "context": "一“早期的陶纺办\n早期的陶器盖\n早期的彩陶片\n早期的朱绘黑陶…\n\n=O 晚期一的陶纺"
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T99",
+        "page": 10,
+        "source": "ocr",
+        "context": "位置图\n星期与晚期典型探方地层剖面图…\nT99 的早期和晚期出土主要遗物\nTOS 的晚"
+      },
+      {
+        "text": "T1",
+        "page": 12,
+        "source": "ocr",
+        "context": "ARAS, 2; WO). 探方编号自 T1—197, 由北而南\n顺砍序列，其中大多"
+      },
+      {
+        "text": "T5",
+        "page": 12,
+        "source": "ocr",
+        "context": "，其中大多数均为2 X 29K, (L T5、178、196、197 为2 X 10"
+      },
+      {
+        "text": "T1",
+        "page": 14,
+        "source": "ocr",
+        "context": "  163,\nWw  加    168\nT1   | 6\n179   tas]\n| "
+      },
+      {
+        "text": "T98",
+        "page": 15,
+        "source": "ocr",
+        "context": "                    T98                    "
+      },
+      {
+        "text": "T97",
+        "page": 15,
+        "source": "ocr",
+        "context": "                    T97                    "
+      },
+      {
+        "text": "T96",
+        "page": 15,
+        "source": "ocr",
+        "context": "                    T96                    "
+      },
+      {
+        "text": "T95",
+        "page": 15,
+        "source": "ocr",
+        "context": "                    T95\n\n               YY "
+      },
+      {
+        "text": "T99",
+        "page": 15,
+        "source": "ocr",
+        "context": "二烧十层;\nae 是深浅不同的灰土层。\nT99-1 层(T95-1 层)灰黑地表土”2"
+      },
+      {
+        "text": "T95",
+        "page": 15,
+        "source": "ocr",
+        "context": " 是深浅不同的灰土层。\nT99-1 层(T95-1 层)灰黑地表土”2 层 (3 层)"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "T99",
+        "page": 10,
+        "source": "ocr",
+        "context": "位置图\n星期与晚期典型探方地层剖面图…\nT99 的早期和晚期出土主要遗物\nTOS 的晚"
+      },
+      {
+        "text": "T1",
+        "page": 12,
+        "source": "ocr",
+        "context": "ARAS, 2; WO). 探方编号自 T1—197, 由北而南\n顺砍序列，其中大多"
+      },
+      {
+        "text": "T5",
+        "page": 12,
+        "source": "ocr",
+        "context": "，其中大多数均为2 X 29K, (L T5、178、196、197 为2 X 10"
+      },
+      {
+        "text": "T1",
+        "page": 14,
+        "source": "ocr",
+        "context": "  163,\nWw  加    168\nT1   | 6\n179   tas]\n| "
+      },
+      {
+        "text": "T98",
+        "page": 15,
+        "source": "ocr",
+        "context": "                    T98                    "
+      },
+      {
+        "text": "T97",
+        "page": 15,
+        "source": "ocr",
+        "context": "                    T97                    "
+      },
+      {
+        "text": "T96",
+        "page": 15,
+        "source": "ocr",
+        "context": "                    T96                    "
+      },
+      {
+        "text": "T95",
+        "page": 15,
+        "source": "ocr",
+        "context": "                    T95\n\n               YY "
+      },
+      {
+        "text": "T99",
+        "page": 15,
+        "source": "ocr",
+        "context": "二烧十层;\nae 是深浅不同的灰土层。\nT99-1 层(T95-1 层)灰黑地表土”2"
+      },
+      {
+        "text": "T95",
+        "page": 15,
+        "source": "ocr",
+        "context": " 是深浅不同的灰土层。\nT99-1 层(T95-1 层)灰黑地表土”2 层 (3 层)"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": " 300 米",
+        "page": 12,
+        "source": "ocr",
+        "context": "环境与鄂西和骂东的遗址不大相同,是在海拔 300 米以下的山区中。东、\n\n南北三面是海拔 4"
+      },
+      {
+        "text": "50 米",
+        "page": 12,
+        "source": "ocr",
+        "context": "的山区中。东、\n\n南北三面是海拔 40一50 米的或聚或散的小丘陵,西南地势较了\n\nPI"
+      },
+      {
+        "text": " 750 米",
+        "page": 12,
+        "source": "ocr",
+        "context": "自遗址的北部环绕而南, 到届家岭村西南约 750 米汇合。 两\n河之间的地形作椭圆形,东西 "
+      },
+      {
+        "text": "42 米",
+        "page": 12,
+        "source": "ocr",
+        "context": "形,东西 .南部地势平坦,海拔约 40一42 米, 南低北高, 中部及东部\n是一个长 3"
+      },
+      {
+        "text": "51 米",
+        "page": 12,
+        "source": "ocr",
+        "context": "550, BE 1930, 海拔 43一51 米的不规则的椭圆形岗地。在这岗地上,发现有"
+      },
+      {
+        "text": " 10 米",
+        "page": 12,
+        "source": "ocr",
+        "context": "在屈家岭村的西部渠道经过的地方开了2 X 10 米的探询四条。初步了\n\n解到它的文化内涵及"
+      },
+      {
+        "text": " 70 米",
+        "page": 12,
+        "source": "ocr",
+        "context": "957 年 2 月间,前后历时\n岭村北面 70 米的渠道两礁,序椭圆形岗地的西南面与平坦地"
+      },
+      {
+        "text": "8米",
+        "page": 12,
+        "source": "ocr",
+        "context": "、196、197 为2 X 10或2 X8米(图\n\n=)o\nASTRAG AY BU"
+      },
+      {
+        "text": "    10米",
+        "page": 14,
+        "source": "ocr",
+        "context": "o 192\n193] 5\n7\n196\n0    10米\n7\n\n探方 1一197 位置图\n\nil"
+      },
+      {
+        "text": "3 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "遗址的文化层,经过发掘得知厚约 0.3一3 米不等,由多种不同的士质和士色\n交错组成，"
+      },
+      {
+        "text": "1 米",
+        "page": 15,
+        "source": "ocr",
+        "context": " HRA 500 平方米,厚约 0.1—1 米(图版涯); 最小的只有几个平方米。\n\n"
+      },
+      {
+        "text": " 40 米",
+        "page": 15,
+        "source": "ocr",
+        "context": ", 原来是一个南北长约 100、东西宽约 40 米,中\nTIVES 3 米的洼地。因此遗址"
+      },
+      {
+        "text": " 3 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "00、东西宽约 40 米,中\nTIVES 3 米的洼地。因此遗址的文化层堆积,中部较厚、"
+      }
+    ],
+    "土样特征": [
+      {
+        "text": "灰土",
+        "page": 15,
+        "source": "ocr",
+        "context": "楼形是遗迹二烧十层;\nae 是深浅不同的灰土层。\nT99-1 层(T95-1 层)灰"
+      },
+      {
+        "text": "灰土",
+        "page": 15,
+        "source": "ocr",
+        "context": "Rit GDR) Rt CAB) 红点神灰土“〈7、7C 层)红\n\n一4一\n"
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "name": "安阳殷墟小屯建筑遗存",
+  "file": "安阳殷墟小屯建筑遗存.pdf",
+  "era": "商代",
+  "culture": "殷墟宫殿",
+  "processed_pages": 12,
+  "total_entities": 16,
+  "entity_stats": {
+    "遗址名称": 6,
+    "年代": 4,
+    "铜器": 1,
+    "建筑结构": 5
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "安阳",
+        "page": 1,
+        "source": "ocr",
+        "context": "中国田野考古报告集\n\n安阳殷墟小屯\n建筑遗存\n\n中国社会科学院考古"
+      },
+      {
+        "text": "殷墟",
+        "page": 1,
+        "source": "ocr",
+        "context": "中国田野考古报告集\n\n安阳殷墟小屯\n建筑遗存\n\n中国社会科学院考古研究"
+      },
+      {
+        "text": "小屯",
+        "page": 1,
+        "source": "ocr",
+        "context": "中国田野考古报告集\n\n安阳殷墟小屯\n建筑遗存\n\n中国社会科学院考古研究所“"
+      },
+      {
+        "text": "安阳",
+        "page": 2,
+        "source": "ocr",
+        "context": "集\n考 十 学 专刊\n于种第八十二号\n\n安阳珊妨小屯建筑遗存\n\n国社会科学院考古研究"
+      },
+      {
+        "text": "小屯",
+        "page": 2,
+        "source": "ocr",
+        "context": "十 学 专刊\n于种第八十二号\n\n安阳珊妨小屯建筑遗存\n\n国社会科学院考古研究所”编著"
+      },
+      {
+        "text": "安阳",
+        "page": 4,
+        "source": "ocr",
+        "context": "十建筑 -十城遗\n址〈考二) -简介 -安阳市-商代 WV. DK878\n\n中国版本"
+      }
+    ],
+    "年代": [
+      {
+        "text": "殷墟",
+        "page": 1,
+        "source": "ocr",
+        "context": "中国田野考古报告集\n\n安阳殷墟小屯\n建筑遗存\n\n中国社会科学院考古研究"
+      },
+      {
+        "text": "商代",
+        "page": 4,
+        "source": "ocr",
+        "context": "-十城遗\n址〈考二) -简介 -安阳市-商代 WV. DK878\n\n中国版本图书馆 "
+      },
+      {
+        "text": "元",
+        "page": 4,
+        "source": "ocr",
+        "context": "10-2980-8 定价:168 .00元\n"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "ocr",
+        "context": "1 清理F2西部现象【 由西向东)\n\nthi\n"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "饰",
+        "page": 4,
+        "source": "ocr",
+        "context": "印制: 陈 杰\n资任编辑: 李克能 王 饰\n\nBERRA (CIP) 数据\nSER"
+      }
+    ],
+    "建筑结构": [
+      {
+        "text": "柱洞",
+        "page": 10,
+        "source": "ocr",
+        "context": "门与南侧柱洞《 由北向南\n\nFI1南向门道与墙柱柱洞"
+      },
+      {
+        "text": "门道",
+        "page": 10,
+        "source": "ocr",
+        "context": "门与南侧柱洞《 由北向南\n\nFI1南向门道与墙柱柱洞\n"
+      },
+      {
+        "text": "柱洞",
+        "page": 10,
+        "source": "ocr",
+        "context": "柱洞《 由北向南\n\nFI1南向门道与墙柱柱洞\n"
+      },
+      {
+        "text": "门道",
+        "page": 11,
+        "source": "ocr",
+        "context": "东北角七门 (由北向南 )\n\nF1的南北门道与相关遗迹\n"
+      },
+      {
+        "text": "柱洞",
+        "page": 14,
+        "source": "ocr",
+        "context": "彩版九\n\nF2西部南边线与柱洞( 由西向东 )\n"
+      }
+    ]
+  }
+}

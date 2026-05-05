@@ -1,0 +1,990 @@
+{
+  "name": "武功发掘报告",
+  "file": "武功发掘报告.pdf",
+  "era": "新石器",
+  "culture": "仰韶-龙山",
+  "processed_pages": 14,
+  "total_entities": 157,
+  "entity_stats": {
+    "遗址名称": 71,
+    "层位关系": 2,
+    "年代": 11,
+    "遗存类型": 4,
+    "探方编号": 24,
+    "遗迹类型": 3,
+    "铜器": 11,
+    "遗迹编号": 18,
+    "地层": 1,
+    "陶器": 9,
+    "石器": 2,
+    "建筑结构": 1
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "赵家来",
+        "page": 2,
+        "source": "ocr",
+        "context": "专弄\n\n丁种第三十三号\n\n~ -游西庄与赵家来遗址\n\n中国社会科学院考古研究所编著\nx"
+      },
+      {
+        "text": "武功",
+        "page": 4,
+        "source": "ocr",
+        "context": "武功发掘报告\n一一洛西庄与赵家来遗引\n中国福"
+      },
+      {
+        "text": "赵家来",
+        "page": 4,
+        "source": "ocr",
+        "context": "武功发掘报告\n一一洛西庄与赵家来遗引\n中国福会科学院考古研究所编著\n+\n"
+      },
+      {
+        "text": "武功",
+        "page": 6,
+        "source": "ocr",
+        "context": "，2 。              武功发所报告一 游西库与如家来过址\n\n(2)"
+      },
+      {
+        "text": "赵家来",
+        "page": 6,
+        "source": "ocr",
+        "context": "Bie\n(二) 2 we\n\nFn    赵家来遗址 ee(85)\n\n一、 发气分区与地"
+      },
+      {
+        "text": "浒西庄",
+        "page": 7,
+        "source": "ocr",
+        "context": ". 各种质料之工具和用具 …\n\n附表一 浒西庄庙底沟二期文化房直统计赤 …\n附表二 W"
+      },
+      {
+        "text": "庙底沟",
+        "page": 7,
+        "source": "ocr",
+        "context": "种质料之工具和用具 …\n\n附表一 浒西庄庙底沟二期文化房直统计赤 …\n附表二 WEE "
+      },
+      {
+        "text": "浒西庄",
+        "page": 7,
+        "source": "ocr",
+        "context": "化典型单位陶片情况统计表,…，\nWEN 浒西庄高底沟二期文化早，晚具型单位陶容器形式绕"
+      },
+      {
+        "text": "武功",
+        "page": 8,
+        "source": "ocr",
+        "context": "sds                武功发掘报告一一济西庄与赵家来遗址\n\n附表八"
+      },
+      {
+        "text": "赵家来",
+        "page": 8,
+        "source": "ocr",
+        "context": "        武功发掘报告一一济西庄与赵家来遗址\n\n附表八 ”赵家来客省庄二期文化房"
+      },
+      {
+        "text": "赵家来",
+        "page": 8,
+        "source": "ocr",
+        "context": "报告一一济西庄与赵家来遗址\n\n附表八 ”赵家来客省庄二期文化房址统计表 人…\nHRI "
+      },
+      {
+        "text": "赵家来",
+        "page": 8,
+        "source": "ocr",
+        "context": "省庄二期文化房址统计表 人…\nHRI ”赵家来客省庄二期文化次坑统计表 …\nWR-O "
+      },
+      {
+        "text": "赵家来",
+        "page": 8,
+        "source": "ocr",
+        "context": "客省庄二期文化次坑统计表 …\nWR-O 赵家来客省庄二期文化遗迹单位打破、有登计关系\n"
+      },
+      {
+        "text": "赵家来",
+        "page": 8,
+        "source": "ocr",
+        "context": "文化遗迹单位打破、有登计关系\n附才一一“赵家来T102、T107客省庄二期文化陶质、纹"
+      },
+      {
+        "text": "赵家来",
+        "page": 8,
+        "source": "ocr",
+        "context": "庄二期文化陶质、纹饰统计表\n\n阶表一二“赵家来T102 ，T107客省庄二期文化及红南"
+      },
+      {
+        "text": "赵家来",
+        "page": 8,
+        "source": "ocr",
+        "context": "放交比数统计表……(15)\nWR-= ”赵家来客省庄二期文化工具、用具、装饰品等统计表"
+      },
+      {
+        "text": "赵家来",
+        "page": 8,
+        "source": "ocr",
+        "context": "饰品等统计表(176)\n\n附录 游西庄与赵家来遗址器物索引表\n\nERR CERI\nPS"
+      },
+      {
+        "text": "赵家来",
+        "page": 8,
+        "source": "ocr",
+        "context": "\neG FEAR EBX CE RS]\n赵家来仰韶文化器物索引 …\n赵家来店底沟二期文"
+      },
+      {
+        "text": "赵家来",
+        "page": 8,
+        "source": "ocr",
+        "context": "E RS]\n赵家来仰韶文化器物索引 …\n赵家来店底沟二期文化器物索引\n赵家来客省庄二期"
+      },
+      {
+        "text": "赵家来",
+        "page": 8,
+        "source": "ocr",
+        "context": "索引 …\n赵家来店底沟二期文化器物索引\n赵家来客省庄二期文化器物索引 ，\nJ, RRR"
+      },
+      {
+        "text": "赵家来",
+        "page": 9,
+        "source": "ocr",
+        "context": "e\n\nIt\n\nmi 图 目录\n\n游西庄与赵家来遗址位置 图\n游西庄遗址发气探方分区\nM"
+      },
+      {
+        "text": "浒西庄",
+        "page": 9,
+        "source": "ocr",
+        "context": "BR 了4 bi A veer eee\n浒西庄第工 wR 了5一T7半面图\n\nWHS "
+      },
+      {
+        "text": "浒西庄",
+        "page": 9,
+        "source": "ocr",
+        "context": "io, T30—-T32-2hi wg\n浒西庄第亚发据区T15一T19、T34一下38"
+      },
+      {
+        "text": "浒西庄",
+        "page": 9,
+        "source": "ocr",
+        "context": "T15一T19、T34一下38平面图…\n浒西庄T13东壁剖面图\nWR ET2I—T23"
+      },
+      {
+        "text": "庙底沟",
+        "page": 9,
+        "source": "ocr",
+        "context": "游西庄店底沟二期文化 F4 平、\n浒西让庙底沟二期文化H36平、\n游西庄店底沟二期文化"
+      },
+      {
+        "text": "浒西庄",
+        "page": 10,
+        "source": "ocr",
+        "context": "西庄店庶沟二期文化H24平、剖而图，\n\n浒西庄店底沟二期文化日32平，剖而图…\nTEP"
+      },
+      {
+        "text": "浒西庄",
+        "page": 10,
+        "source": "ocr",
+        "context": " se and\n底沟二期文化Y5 oF\n浒西庄店底沟二期文化《8 平、剂面\nTHLE "
+      },
+      {
+        "text": "浒西庄",
+        "page": 11,
+        "source": "ocr",
+        "context": "\n滋西让西周石刀、蔡锥、已、铁及角锥…\n浒西庄战国陶盆、珊及器赣\n\nill\n\nDk D"
+      },
+      {
+        "text": "赵家来",
+        "page": 11,
+        "source": "ocr",
+        "context": "\nAME\n八六\nME\n八八\n八九\n\n六 赵家来第 LRM TM\n\nBEE LE AR "
+      },
+      {
+        "text": "赵家来",
+        "page": 11,
+        "source": "ocr",
+        "context": "BEE LE AR A BE PRAT\n赵家来遗址地形及发据探方分区图\n\n赵家求第 |"
+      },
+      {
+        "text": "赵家来",
+        "page": 11,
+        "source": "ocr",
+        "context": " 1 RMT!\n\nSHEMMRAA -\n赵家来客省庄二期文化\n\n赵家来客省庄二期文化F"
+      },
+      {
+        "text": "赵家来",
+        "page": 11,
+        "source": "ocr",
+        "context": "MMRAA -\n赵家来客省庄二期文化\n\n赵家来客省庄二期文化F8平、齐而图\n赵家来客省"
+      },
+      {
+        "text": "赵家来",
+        "page": 11,
+        "source": "ocr",
+        "context": "\n\n赵家来客省庄二期文化F8平、齐而图\n赵家来客省庄二期文化Fe平、剖面图 …\n赵家来"
+      },
+      {
+        "text": "赵家来",
+        "page": 11,
+        "source": "ocr",
+        "context": "赵家来客省庄二期文化Fe平、剖面图 …\n赵家来客省让二期文化\nBRK BER MV\nA"
+      },
+      {
+        "text": "赵家来",
+        "page": 11,
+        "source": "ocr",
+        "context": "RK BER MV\nARR FABER\n赵家来客省庄二其文化\n赵家来客省庄二期文化\n赵"
+      },
+      {
+        "text": "赵家来",
+        "page": 11,
+        "source": "ocr",
+        "context": "RR FABER\n赵家来客省庄二其文化\n赵家来客省庄二期文化\n赵家来宫省庄二期文化\n区"
+      },
+      {
+        "text": "赵家来",
+        "page": 11,
+        "source": "ocr",
+        "context": "来客省庄二其文化\n赵家来客省庄二期文化\n赵家来宫省庄二期文化\n区家来客省诺二期文化\n世"
+      },
+      {
+        "text": "赵家来",
+        "page": 11,
+        "source": "ocr",
+        "context": "来客省诺二期文化\n世家来客省让二期文化\n赵家来客省庄二期文化\n\n剖面图\n\n@ B A "
+      },
+      {
+        "text": "武功",
+        "page": 12,
+        "source": "ocr",
+        "context": "                    武功发握报告 -一洲桓库与赵家来遗址\n\n九一"
+      },
+      {
+        "text": "赵家来",
+        "page": 12,
+        "source": "ocr",
+        "context": "       武功发握报告 -一洲桓库与赵家来遗址\n\n九一 下家来客省庄二期文化HI1"
+      },
+      {
+        "text": "赵家来",
+        "page": 12,
+        "source": "ocr",
+        "context": "家来客省庄二期文化HI1平部面图\nRo 赵家来客省庄二期文化HI 3平、剖面\n三”赵家"
+      },
+      {
+        "text": "赵家来",
+        "page": 12,
+        "source": "ocr",
+        "context": "家来客省庄二期文化HI 3平、剖面\n三”赵家来客省庄二期文化H31平、齐面图 …\n九四"
+      },
+      {
+        "text": "赵家来",
+        "page": 12,
+        "source": "ocr",
+        "context": "省庄二期文化H31平、齐面图 …\n九四“赵家来客省庄二期文化H24平、剖面图 …\n九五"
+      },
+      {
+        "text": "赵家来",
+        "page": 12,
+        "source": "ocr",
+        "context": "省庄二期文化H24平、剖面图 …\n九五”赵家来客省庄二期文化H2?平、齐面图 …\n九六"
+      },
+      {
+        "text": "赵家来",
+        "page": 12,
+        "source": "ocr",
+        "context": "省庄二期文化H2?平、齐面图 …\n九六”赵家来客省庄二期文化 Y5 平、刘面图 …\nu"
+      },
+      {
+        "text": "赵家来",
+        "page": 12,
+        "source": "ocr",
+        "context": "RR BEL MAF, Mi +\n九八，赵家来客省庄二期文化陶遍 …\nASL RRR "
+      },
+      {
+        "text": "赵家来",
+        "page": 12,
+        "source": "ocr",
+        "context": "RLMH, HM BMRB...\nOH 赵家来客省庄二期文化陶盆、太、杯、盘\n一@五 "
+      },
+      {
+        "text": "赵家来",
+        "page": 12,
+        "source": "ocr",
+        "context": "eeeetteseceeeee\n一D九”赵家来客省庄二期文化称环、纺轮、拍、饼、蔡、尺"
+      },
+      {
+        "text": "赵家来",
+        "page": 12,
+        "source": "ocr",
+        "context": "轮、拍、饼、蔡、尺形器、柱状\n一一〇 ”赵家来西周陶羽，色、瞳、钵，和后及殊片\n一一一"
+      },
+      {
+        "text": "赵家来",
+        "page": 12,
+        "source": "ocr",
+        "context": "周陶羽，色、瞳、钵，和后及殊片\n一一一，赵家来西周石锛、村、磨石及碾谷梯\naon 洲西"
+      },
+      {
+        "text": "浒西庄",
+        "page": 12,
+        "source": "ocr",
+        "context": "二期文化陶容器分期 图 …\n一二(B) 浒西庄庙底沟二期文化陶容器分期 图\n一二(C)"
+      },
+      {
+        "text": "庙底沟",
+        "page": 12,
+        "source": "ocr",
+        "context": "化陶容器分期 图 …\n一二(B) 浒西庄庙底沟二期文化陶容器分期 图\n一二(C) 游西"
+      },
+      {
+        "text": "赵家来",
+        "page": 13,
+        "source": "ocr",
+        "context": "图版目录\n\n一，游西庄与赵家来遗址外黑\n\nBPE PEA BR SCT"
+      },
+      {
+        "text": "庙底沟",
+        "page": 13,
+        "source": "ocr",
+        "context": "F BG ES 9 PC PE\n\n许西庄庙底沟二期文化居住遗存\n\n许西庄庙底沟二期文化"
+      },
+      {
+        "text": "庙底沟",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n许西庄庙底沟二期文化居住遗存\n\n许西庄庙底沟二期文化拓住过存及其坑\n济西庄店底沟二期"
+      },
+      {
+        "text": "庙底沟",
+        "page": 13,
+        "source": "ocr",
+        "context": "c L\n\nPE a IA bk\n\n游西庄庙底沟二期文化陶片\n\n游西庄庙底沟二期文化陶片"
+      },
+      {
+        "text": "庙底沟",
+        "page": 13,
+        "source": "ocr",
+        "context": "k\n\n游西庄庙底沟二期文化陶片\n\n游西庄庙底沟二期文化陶片\n\n浒西庄襄底交二期文化陶易"
+      },
+      {
+        "text": "浒西庄",
+        "page": 13,
+        "source": "ocr",
+        "context": "文化陶片\n\n游西庄庙底沟二期文化陶片\n\n浒西庄襄底交二期文化陶易\nHRA IMME R"
+      },
+      {
+        "text": "庙底沟",
+        "page": 13,
+        "source": "ocr",
+        "context": "FG A RT I a A SE\n游西庄庙底沟二期文化陶钙，查、盖\n游西庄庙底沟二期文"
+      },
+      {
+        "text": "庙底沟",
+        "page": 13,
+        "source": "ocr",
+        "context": "游西庄庙底沟二期文化陶钙，查、盖\n游西庄庙底沟二期文化陶镀\n\n游西庄庙底沟二期文化陶镀"
+      },
+      {
+        "text": "庙底沟",
+        "page": 13,
+        "source": "ocr",
+        "context": "、盖\n游西庄庙底沟二期文化陶镀\n\n游西庄庙底沟二期文化陶镀\n\nPEATE RR SER"
+      },
+      {
+        "text": "武功",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n四五\n四六\nAL\n四八\n四九\n五〇\n\n武功发所报告一一游两庄与越家来息址\n\n浒西庄"
+      },
+      {
+        "text": "浒西庄",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n武功发所报告一一游两庄与越家来息址\n\n浒西庄让底沟二期文{\n\naS a\n\n浒西庄调底"
+      },
+      {
+        "text": "浒西庄",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n\n浒西庄让底沟二期文{\n\naS a\n\n浒西庄调底沟一期文化陶纺\n\n游西庄店底沟二期文"
+      },
+      {
+        "text": "浒西庄",
+        "page": 14,
+        "source": "ocr",
+        "context": ", OE LR\n\n游西让应底沟二期文{\n浒西庄庙底沟二期文{\n游西让应底沟二期文{\n\n"
+      },
+      {
+        "text": "庙底沟",
+        "page": 14,
+        "source": "ocr",
+        "context": "E LR\n\n游西让应底沟二期文{\n浒西庄庙底沟二期文{\n游西让应底沟二期文{\n\nAAA"
+      },
+      {
+        "text": "浒西庄",
+        "page": 14,
+        "source": "ocr",
+        "context": " 05 Jd a: 7% DS Py\n\n浒西庄是周陶两\nSFPD PDR, a\n\nAR"
+      },
+      {
+        "text": "赵家来",
+        "page": 14,
+        "source": "ocr",
+        "context": "HE MER YF\nRE BT MSC\n赵家来客省庄二期文人\nREE BEIM\nPKR"
+      },
+      {
+        "text": "赵家来",
+        "page": 14,
+        "source": "ocr",
+        "context": "人\nREE BEIM\nPKR A Bi\n赵家来客省床二期文1\nRRR BHAI\nRR "
+      },
+      {
+        "text": "赵家来",
+        "page": 15,
+        "source": "ocr",
+        "context": "E SAE\n区家来客省庄二期文化陶片\n\n赵家来客省证二期文化陶豆\n赵家来客省庄二期文化"
+      },
+      {
+        "text": "赵家来",
+        "page": 15,
+        "source": "ocr",
+        "context": "期文化陶片\n\n赵家来客省证二期文化陶豆\n赵家来客省庄二期文化陶忆\nRRRE AEX M"
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "打破",
+        "page": 7,
+        "source": "ocr",
+        "context": "表四   游西庄唐底沟二期文化各遗迹单位打破、亚庄关系\n附表五 。 游西庄唐底沟二期"
+      },
+      {
+        "text": "打破",
+        "page": 8,
+        "source": "ocr",
+        "context": "\nWR-O 赵家来客省庄二期文化遗迹单位打破、有登计关系\n附才一一“赵家来T102、"
+      }
+    ],
+    "年代": [
+      {
+        "text": "西周",
+        "page": 7,
+        "source": "ocr",
+        "context": ") 概况，\n(2) 类 BI -\n五、 西周文化遗存 -\n(一) it\n1。 次\n2"
+      },
+      {
+        "text": "唐",
+        "page": 7,
+        "source": "ocr",
+        "context": "RURAL ER …\n附表四   游西庄唐底沟二期文化各遗迹单位打破、亚庄关系\n附"
+      },
+      {
+        "text": "唐",
+        "page": 7,
+        "source": "ocr",
+        "context": "迹单位打破、亚庄关系\n附表五 。 游西庄唐底沟二期文化典型单位陶片情况统计表,…，"
+      },
+      {
+        "text": "西周",
+        "page": 8,
+        "source": "ocr",
+        "context": " RY SCI a RSI -\n、洲西庄西周文化器物索引\neG FEAR EBX C"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 8,
+        "source": "ocr",
+        "context": " FEAR EBX CE RS]\n赵家来仰韶文化器物索引 …\n赵家来店底沟二期文化器物索"
+      },
+      {
+        "text": "唐",
+        "page": 10,
+        "source": "ocr",
+        "context": "RR EIA lt M 8平面图\n活西应唐底沟二期文化 Mav RTI +\nsid"
+      },
+      {
+        "text": "西周",
+        "page": 11,
+        "source": "ocr",
+        "context": "O〇\n\n上\n\nTER Y7 平、\n游西下西周陶容器…\n\n滋西让西周石刀、蔡锥、已、铁"
+      },
+      {
+        "text": "西周",
+        "page": 11,
+        "source": "ocr",
+        "context": "Y7 平、\n游西下西周陶容器…\n\n滋西让西周石刀、蔡锥、已、铁及角锥…\n浒西庄战国陶"
+      },
+      {
+        "text": "战国",
+        "page": 11,
+        "source": "ocr",
+        "context": "让西周石刀、蔡锥、已、铁及角锥…\n浒西庄战国陶盆、珊及器赣\n\nill\n\nDk Dk "
+      },
+      {
+        "text": "西周",
+        "page": 12,
+        "source": "ocr",
+        "context": "、饼、蔡、尺形器、柱状\n一一〇 ”赵家来西周陶羽，色、瞳、钵，和后及殊片\n一一一，赵"
+      },
+      {
+        "text": "西周",
+        "page": 12,
+        "source": "ocr",
+        "context": "，色、瞳、钵，和后及殊片\n一一一，赵家来西周石锛、村、磨石及碾谷梯\naon 洲西庄店"
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "陶片",
+        "page": 7,
+        "source": "ocr",
+        "context": "附表五 。 游西庄唐底沟二期文化典型单位陶片情况统计表,…，\nWEN 浒西庄高底沟二"
+      },
+      {
+        "text": "陶片",
+        "page": 13,
+        "source": "ocr",
+        "context": " a IA bk\n\n游西庄庙底沟二期文化陶片\n\n游西庄庙底沟二期文化陶片\n\n浒西庄襄"
+      },
+      {
+        "text": "陶片",
+        "page": 13,
+        "source": "ocr",
+        "context": "底沟二期文化陶片\n\n游西庄庙底沟二期文化陶片\n\n浒西庄襄底交二期文化陶易\nHRA I"
+      },
+      {
+        "text": "陶片",
+        "page": 15,
+        "source": "ocr",
+        "context": "K FEE SAE\n区家来客省庄二期文化陶片\n\n赵家来客省证二期文化陶豆\n赵家来客省"
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T102",
+        "page": 8,
+        "source": "ocr",
+        "context": "迹单位打破、有登计关系\n附才一一“赵家来T102、T107客省庄二期文化陶质、纹饰统计表"
+      },
+      {
+        "text": "T107",
+        "page": 8,
+        "source": "ocr",
+        "context": "、有登计关系\n附才一一“赵家来T102、T107客省庄二期文化陶质、纹饰统计表\n\n阶表一"
+      },
+      {
+        "text": "T102",
+        "page": 8,
+        "source": "ocr",
+        "context": "文化陶质、纹饰统计表\n\n阶表一二“赵家来T102 ，T107客省庄二期文化及红南与放交比"
+      },
+      {
+        "text": "T107",
+        "page": 8,
+        "source": "ocr",
+        "context": "饰统计表\n\n阶表一二“赵家来T102 ，T107客省庄二期文化及红南与放交比数统计表……"
+      },
+      {
+        "text": "T14",
+        "page": 9,
+        "source": "ocr",
+        "context": "气探方分区\nMAES IRR Ti13、T14 平面图\n游西庄第 工发握区了12 平面"
+      },
+      {
+        "text": "T7",
+        "page": 9,
+        "source": "ocr",
+        "context": "eer eee\n浒西庄第工 wR 了5一T7半面图\n\nWHS I LMRT21—T2"
+      },
+      {
+        "text": "T21",
+        "page": 9,
+        "source": "ocr",
+        "context": " 了5一T7半面图\n\nWHS I LMRT21—T27 ii A\nFPR EE SS "
+      },
+      {
+        "text": "T27",
+        "page": 9,
+        "source": "ocr",
+        "context": "T7半面图\n\nWHS I LMRT21—T27 ii A\nFPR EE SS WDC "
+      },
+      {
+        "text": "T2",
+        "page": 9,
+        "source": "ocr",
+        "context": "raee ees\nWEB UM RMK T2, Ts—Tio, T30—-T32-2"
+      },
+      {
+        "text": "T30",
+        "page": 9,
+        "source": "ocr",
+        "context": " UM RMK T2, Ts—Tio, T30—-T32-2hi wg\n浒西庄第亚发据"
+      },
+      {
+        "text": "T32",
+        "page": 9,
+        "source": "ocr",
+        "context": "MK T2, Ts—Tio, T30—-T32-2hi wg\n浒西庄第亚发据区T15一"
+      },
+      {
+        "text": "T15",
+        "page": 9,
+        "source": "ocr",
+        "context": "-T32-2hi wg\n浒西庄第亚发据区T15一T19、T34一下38平面图…\n浒西庄"
+      },
+      {
+        "text": "T19",
+        "page": 9,
+        "source": "ocr",
+        "context": "-2hi wg\n浒西庄第亚发据区T15一T19、T34一下38平面图…\n浒西庄T13东"
+      },
+      {
+        "text": "T34",
+        "page": 9,
+        "source": "ocr",
+        "context": " wg\n浒西庄第亚发据区T15一T19、T34一下38平面图…\n浒西庄T13东壁剖面图"
+      },
+      {
+        "text": "T13",
+        "page": 9,
+        "source": "ocr",
+        "context": "一T19、T34一下38平面图…\n浒西庄T13东壁剖面图\nWR ET2I—T23 Le"
+      },
+      {
+        "text": "T2I",
+        "page": 9,
+        "source": "ocr",
+        "context": "面图…\n浒西庄T13东壁剖面图\nWR ET2I—T23 Le a\nWER: Ts, T"
+      },
+      {
+        "text": "T23",
+        "page": 9,
+        "source": "ocr",
+        "context": "浒西庄T13东壁剖面图\nWR ET2I—T23 Le a\nWER: Ts, To Ae"
+      },
+      {
+        "text": "T18",
+        "page": 9,
+        "source": "ocr",
+        "context": ": Ts, To Aes ine\n游西庄T18、T37南壁剖面图…\nWHE Fey, "
+      },
+      {
+        "text": "T37",
+        "page": 9,
+        "source": "ocr",
+        "context": ", To Aes ine\n游西庄T18、T37南壁剖面图…\nWHE Fey, Ra\nW"
+      },
+      {
+        "text": "T1",
+        "page": 11,
+        "source": "ocr",
+        "context": "发据探方分区图\n\n赵家求第 | RAK T1\n\nBERS | RMR 101\n\nBR"
+      },
+      {
+        "text": "T2",
+        "page": 11,
+        "source": "ocr",
+        "context": " RMR 101\n\nBRKB 1 RK T2\nFRR AO A SCP HE\n\nRF"
+      },
+      {
+        "text": "T104",
+        "page": 11,
+        "source": "ocr",
+        "context": "      。7 。\n\n09、Ti02、T104 abe Nii ，\n\n04, T202"
+      },
+      {
+        "text": "T202",
+        "page": 11,
+        "source": "ocr",
+        "context": "T104 abe Nii ，\n\n04, T202 eRe 2TH EY +\nFh BAR"
+      },
+      {
+        "text": "T110",
+        "page": 11,
+        "source": "ocr",
+        "context": "\nCpe\n\nBi, MB RE\n\n02—T110 第\n\n了4 A ee\n\n12灶址平、训"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "房址",
+        "page": 8,
+        "source": "ocr",
+        "context": "来遗址\n\n附表八 ”赵家来客省庄二期文化房址统计表 人…\nHRI ”赵家来客省庄二期"
+      },
+      {
+        "text": "灶址",
+        "page": 11,
+        "source": "ocr",
+        "context": "—T110 第\n\n了4 A ee\n\n12灶址平、训而图\n1I平、齐\nFI第2层居住面"
+      },
+      {
+        "text": "灰坑",
+        "page": 13,
+        "source": "ocr",
+        "context": "文化拓住过存及其坑\n济西庄店底沟二期文化灰坑\nWHER XR ABH\nTAPE PE"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "饰",
+        "page": 8,
+        "source": "ocr",
+        "context": "T102、T107客省庄二期文化陶质、纹饰统计表\n\n阶表一二“赵家来T102 ，T"
+      },
+      {
+        "text": "饰",
+        "page": 8,
+        "source": "ocr",
+        "context": "= ”赵家来客省庄二期文化工具、用具、装饰品等统计表(176)\n\n附录 游西庄与赵"
+      },
+      {
+        "text": "刀",
+        "page": 11,
+        "source": "ocr",
+        "context": "平、\n游西下西周陶容器…\n\n滋西让西周石刀、蔡锥、已、铁及角锥…\n浒西庄战国陶盆、"
+      },
+      {
+        "text": "盆",
+        "page": 11,
+        "source": "ocr",
+        "context": "石刀、蔡锥、已、铁及角锥…\n浒西庄战国陶盆、珊及器赣\n\nill\n\nDk Dk Sk"
+      },
+      {
+        "text": "盆",
+        "page": 12,
+        "source": "ocr",
+        "context": "RB...\nOH 赵家来客省庄二期文化陶盆、太、杯、盘\n一@五 ARKEMELIL"
+      },
+      {
+        "text": "杯",
+        "page": 12,
+        "source": "ocr",
+        "context": ".\nOH 赵家来客省庄二期文化陶盆、太、杯、盘\n一@五 ARKEMELILICES"
+      },
+      {
+        "text": "盘",
+        "page": 12,
+        "source": "ocr",
+        "context": "OH 赵家来客省庄二期文化陶盆、太、杯、盘\n一@五 ARKEMELILICES. "
+      },
+      {
+        "text": "环",
+        "page": 12,
+        "source": "ocr",
+        "context": "eeee\n一D九”赵家来客省庄二期文化称环、纺轮、拍、饼、蔡、尺形器、柱状\n一一〇"
+      },
+      {
+        "text": "钵",
+        "page": 12,
+        "source": "ocr",
+        "context": "柱状\n一一〇 ”赵家来西周陶羽，色、瞳、钵，和后及殊片\n一一一，赵家来西周石锛、村"
+      },
+      {
+        "text": "锛",
+        "page": 12,
+        "source": "ocr",
+        "context": "瞳、钵，和后及殊片\n一一一，赵家来西周石锛、村、磨石及碾谷梯\naon 洲西庄店底沟"
+      },
+      {
+        "text": "豆",
+        "page": 15,
+        "source": "ocr",
+        "context": "庄二期文化陶片\n\n赵家来客省证二期文化陶豆\n赵家来客省庄二期文化陶忆\nRRRE A"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "T14",
+        "page": 9,
+        "source": "ocr",
+        "context": "气探方分区\nMAES IRR Ti13、T14 平面图\n游西庄第 工发握区了12 平面"
+      },
+      {
+        "text": "T27",
+        "page": 9,
+        "source": "ocr",
+        "context": "T7半面图\n\nWHS I LMRT21—T27 ii A\nFPR EE SS WDC "
+      },
+      {
+        "text": "T2",
+        "page": 9,
+        "source": "ocr",
+        "context": "raee ees\nWEB UM RMK T2, Ts—Tio, T30—-T32-2"
+      },
+      {
+        "text": "T30",
+        "page": 9,
+        "source": "ocr",
+        "context": " UM RMK T2, Ts—Tio, T30—-T32-2hi wg\n浒西庄第亚发据"
+      },
+      {
+        "text": "T32",
+        "page": 9,
+        "source": "ocr",
+        "context": "MK T2, Ts—Tio, T30—-T32-2hi wg\n浒西庄第亚发据区T15一"
+      },
+      {
+        "text": "T23",
+        "page": 9,
+        "source": "ocr",
+        "context": "浒西庄T13东壁剖面图\nWR ET2I—T23 Le a\nWER: Ts, To Ae"
+      },
+      {
+        "text": "F7",
+        "page": 9,
+        "source": "ocr",
+        "context": " Rm Fey,\n话西庄店底沟二期文化 F7 平、\n沙西庄让底沟二期文化 Fi4平、"
+      },
+      {
+        "text": "F2",
+        "page": 9,
+        "source": "ocr",
+        "context": "期文化F13平、\n游西床庄底沟二期文化 F2 平、\n游西庄让底沟二期文化 F1 平、"
+      },
+      {
+        "text": "F1",
+        "page": 9,
+        "source": "ocr",
+        "context": "文化 F2 平、\n游西庄让底沟二期文化 F1 平、\n游西庄店底沟二期文化 F4 平、"
+      },
+      {
+        "text": "F4",
+        "page": 9,
+        "source": "ocr",
+        "context": "文化 F1 平、\n游西庄店底沟二期文化 F4 平、\n浒西让庙底沟二期文化H36平、\n"
+      },
+      {
+        "text": "Y7",
+        "page": 11,
+        "source": "ocr",
+        "context": "Big\nO〇\n\n上\n\nTER Y7 平、\n游西下西周陶容器…\n\n滋西让西周"
+      },
+      {
+        "text": "T1",
+        "page": 11,
+        "source": "ocr",
+        "context": "发据探方分区图\n\n赵家求第 | RAK T1\n\nBERS | RMR 101\n\nBR"
+      },
+      {
+        "text": "T2",
+        "page": 11,
+        "source": "ocr",
+        "context": " RMR 101\n\nBRKB 1 RK T2\nFRR AO A SCP HE\n\nRF"
+      },
+      {
+        "text": "Y3",
+        "page": 11,
+        "source": "ocr",
+        "context": " ITT +»\nBRK MRS Mie Y3 平、剂面图\nARR EI PSH\n\nR"
+      },
+      {
+        "text": "T104",
+        "page": 11,
+        "source": "ocr",
+        "context": "      。7 。\n\n09、Ti02、T104 abe Nii ，\n\n04, T202"
+      },
+      {
+        "text": "T202",
+        "page": 11,
+        "source": "ocr",
+        "context": "T104 abe Nii ，\n\n04, T202 eRe 2TH EY +\nFh BAR"
+      },
+      {
+        "text": "T110",
+        "page": 11,
+        "source": "ocr",
+        "context": "\nCpe\n\nBi, MB RE\n\n02—T110 第\n\n了4 A ee\n\n12灶址平、训"
+      },
+      {
+        "text": "Y5",
+        "page": 12,
+        "source": "ocr",
+        "context": "齐面图 …\n九六”赵家来客省庄二期文化 Y5 平、刘面图 …\nut RRR BEL "
+      }
+    ],
+    "地层": [
+      {
+        "text": "第2层",
+        "page": 11,
+        "source": "ocr",
+        "context": "\n\n12灶址平、训而图\n1I平、齐\nFI第2层居住面灶直夯士结爸3\nFoe, ATW\n"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "刀",
+        "page": 11,
+        "source": "ocr",
+        "context": "平、\n游西下西周陶容器…\n\n滋西让西周石刀、蔡锥、已、铁及角锥…\n浒西庄战国陶盆、"
+      },
+      {
+        "text": "陶盆",
+        "page": 11,
+        "source": "ocr",
+        "context": "周石刀、蔡锥、已、铁及角锥…\n浒西庄战国陶盆、珊及器赣\n\nill\n\nDk Dk Sk"
+      },
+      {
+        "text": "陶盆",
+        "page": 12,
+        "source": "ocr",
+        "context": "MRB...\nOH 赵家来客省庄二期文化陶盆、太、杯、盘\n一@五 ARKEMELIL"
+      },
+      {
+        "text": "杯",
+        "page": 12,
+        "source": "ocr",
+        "context": ".\nOH 赵家来客省庄二期文化陶盆、太、杯、盘\n一@五 ARKEMELILICES"
+      },
+      {
+        "text": "盘",
+        "page": 12,
+        "source": "ocr",
+        "context": "OH 赵家来客省庄二期文化陶盆、太、杯、盘\n一@五 ARKEMELILICES. "
+      },
+      {
+        "text": "环",
+        "page": 12,
+        "source": "ocr",
+        "context": "eeee\n一D九”赵家来客省庄二期文化称环、纺轮、拍、饼、蔡、尺形器、柱状\n一一〇"
+      },
+      {
+        "text": "纺轮",
+        "page": 12,
+        "source": "ocr",
+        "context": "ee\n一D九”赵家来客省庄二期文化称环、纺轮、拍、饼、蔡、尺形器、柱状\n一一〇 ”赵"
+      },
+      {
+        "text": "钵",
+        "page": 12,
+        "source": "ocr",
+        "context": "柱状\n一一〇 ”赵家来西周陶羽，色、瞳、钵，和后及殊片\n一一一，赵家来西周石锛、村"
+      },
+      {
+        "text": "陶豆",
+        "page": 15,
+        "source": "ocr",
+        "context": "省庄二期文化陶片\n\n赵家来客省证二期文化陶豆\n赵家来客省庄二期文化陶忆\nRRRE A"
+      }
+    ],
+    "石器": [
+      {
+        "text": "石刀",
+        "page": 11,
+        "source": "ocr",
+        "context": " 平、\n游西下西周陶容器…\n\n滋西让西周石刀、蔡锥、已、铁及角锥…\n浒西庄战国陶盆、"
+      },
+      {
+        "text": "石锛",
+        "page": 12,
+        "source": "ocr",
+        "context": "、瞳、钵，和后及殊片\n一一一，赵家来西周石锛、村、磨石及碾谷梯\naon 洲西庄店底沟"
+      }
+    ],
+    "建筑结构": [
+      {
+        "text": "居住面",
+        "page": 11,
+        "source": "ocr",
+        "context": "2灶址平、训而图\n1I平、齐\nFI第2层居住面灶直夯士结爸3\nFoe, ATW\nF2寺"
+      }
+    ]
+  }
+}

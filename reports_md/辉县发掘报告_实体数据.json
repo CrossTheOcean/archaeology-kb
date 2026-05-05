@@ -1,0 +1,1371 @@
+{
+  "name": "辉县发掘报告",
+  "file": "辉县发掘报告.pdf",
+  "era": "战国",
+  "culture": "魏文化",
+  "processed_pages": 14,
+  "total_entities": 219,
+  "entity_stats": {
+    "测量数据": 70,
+    "漆器": 1,
+    "材质": 2,
+    "年代": 61,
+    "遗址名称": 27,
+    "遗迹类型": 19,
+    "铜器": 7,
+    "土样特征": 2,
+    "层位关系": 5,
+    "建筑结构": 3,
+    "遗存类型": 9,
+    "遗迹编号": 5,
+    "骨器": 3,
+    "陶器": 3,
+    "石器": 2
+  },
+  "entities": {
+    "测量数据": [
+      {
+        "text": "8\nm",
+        "page": 3,
+        "source": "ocr",
+        "context": "    ads : 1871092 1/8\nme 200,000           "
+      },
+      {
+        "text": "400 米",
+        "page": 14,
+        "source": "ocr",
+        "context": "PAPLHT AE TICHY 300一400 米, $0 BS FRG IFAM Fe "
+      },
+      {
+        "text": "2.4米",
+        "page": 14,
+        "source": "ocr",
+        "context": "股代早期或股代以前的。坑的长宽仿2.8x2.4米,\n深5.1 米，方向 135\" 。这似"
+      },
+      {
+        "text": "深5.1 米",
+        "page": 14,
+        "source": "ocr",
+        "context": "代以前的。坑的长宽仿2.8x2.4米,\n深5.1 米，方向 135\" 。这似乎是一个埋你坑，"
+      },
+      {
+        "text": "47米",
+        "page": 14,
+        "source": "ocr",
+        "context": " HES OG) A, 在内地面\n22利47米处, MAT HES » MEST 2."
+      },
+      {
+        "text": "44米",
+        "page": 14,
+        "source": "ocr",
+        "context": "ES » MEST 2.3, 2.4 和44米处, 各有\nBAR 1 具。千两处以及账"
+      },
+      {
+        "text": "40米",
+        "page": 14,
+        "source": "ocr",
+        "context": "BAR 1 具。千两处以及账地面2&5和40米处, 有野猪骨架\n1一4 具不等。这些动"
+      },
+      {
+        "text": "47 米",
+        "page": 14,
+        "source": "ocr",
+        "context": "AAS TSU. MENTE 9.8 和47 米处, AAA 前\n一具是头向东的仰队裴,"
+      },
+      {
+        "text": "0.9米",
+        "page": 14,
+        "source": "ocr",
+        "context": "2和228 号幕 这两座都是长袖1.9x0.9米的竖井摹。\nFEPRAS 0.7 和 1"
+      },
+      {
+        "text": " 1.6 米",
+        "page": 14,
+        "source": "ocr",
+        "context": "9米的竖井摹。\nFEPRAS 0.7 和 1.6 米,方向篇185\"和20\" 。非式都是仰身"
+      },
+      {
+        "text": " 0.5 米",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n第236 GR ”这是长寅仅 1.8x 0.5 米的小墓, MES, BT\nBRE Th,"
+      },
+      {
+        "text": "1.5米",
+        "page": 14,
+        "source": "ocr",
+        "context": "0.8 KIM. BERET\n寅篇25x1.5米,深3.8米。傅用士未封门。这幕已被盗过"
+      },
+      {
+        "text": "深3.8米",
+        "page": 14,
+        "source": "ocr",
+        "context": "IM. BERET\n寅篇25x1.5米,深3.8米。傅用士未封门。这幕已被盗过, 仅\n残队"
+      },
+      {
+        "text": " 4 米",
+        "page": 14,
+        "source": "ocr",
+        "context": "44一51 股。\n\ni 址\n号战国墓东攀 4 米处。这是在 10 月 13 日用探链探查"
+      },
+      {
+        "text": "宽 1 米",
+        "page": 14,
+        "source": "ocr",
+        "context": " DPS PA\n了南北长 1.5, 东西宽 1 米的长方形小坑， FR. ME\n面下深1."
+      },
+      {
+        "text": "深1.06米",
+        "page": 14,
+        "source": "ocr",
+        "context": "1 米的长方形小坑， FR. ME\n面下深1.06米左右, HALAL OY ELI Ry,"
+      },
+      {
+        "text": " 1.1 米",
+        "page": 14,
+        "source": "ocr",
+        "context": "14 日至2 日因雨停工, 2 日在\n漆 1.1 米处发现小骨针 1 枚, GIT SR, "
+      },
+      {
+        "text": " 3 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n式开始发掘, 将原来小坑扩大至长4，寅 3 米，以等找灰坑的边\nEH 0.45 RMR"
+      },
+      {
+        "text": " 0.75 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "工米, SENDA SEA OR, 据至 0.75 米和后由原坑分段下\n掘。和遗址的层次和包含"
+      },
+      {
+        "text": "2 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "能容灿较多的工\nKe 最初只有 4 人,2 米以下过至 5 As PE 6 米左右，坑"
+      },
+      {
+        "text": " 6 米",
+        "page": 15,
+        "source": "ocr",
+        "context": " 4 人,2 米以下过至 5 As PE 6 米左右，坑形纺\n小, 出土困难，又增加1 "
+      },
+      {
+        "text": "深2.2米",
+        "page": 15,
+        "source": "ocr",
+        "context": "Ste 11 月 3 日发据，用工代名!深2.2米到底。第\n三灰坑於4日发掘深 1.5 米"
+      },
+      {
+        "text": "深 1.5 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "名!深2.2米到底。第\n三灰坑於4日发掘深 1.5 米, 工人1名作了中日清理完蛙。第四\n灰坑"
+      },
+      {
+        "text": " 26 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "原形, 成不规则其，南北长 343，东西 26 米。深到\nDAA, 成不规则的回形, 南北"
+      },
+      {
+        "text": " 8.5 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n局一平面上有大个,大小相莽不多。距地面 8.5 米深时， 成局加\n形,长径(南北)2.6,"
+      },
+      {
+        "text": "1 米",
+        "page": 15,
+        "source": "ocr",
+        "context": " 成局加\n形,长径(南北)2.6,短径&1 米。4 米左右以下渐成酉四形。4.5\n米漆"
+      },
+      {
+        "text": "4 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n形,长径(南北)2.6,短径&1 米。4 米左右以下渐成酉四形。4.5\n米漆时,南北"
+      },
+      {
+        "text": "4.5\n米",
+        "page": 15,
+        "source": "ocr",
+        "context": "短径&1 米。4 米左右以下渐成酉四形。4.5\n米漆时,南北长 3.4 东西 1.9 米。"
+      },
+      {
+        "text": " 1.9 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "形。4.5\n米漆时,南北长 3.4 东西 1.9 米。4.8 米以下成方形,渐渐缩小,\nFO"
+      },
+      {
+        "text": "4.8 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "漆时,南北长 3.4 东西 1.9 米。4.8 米以下成方形,渐渐缩小,\nFO PSC R"
+      },
+      {
+        "text": " 5 米",
+        "page": 15,
+        "source": "ocr",
+        "context": ",\nFO PSC RY 7.0° 左右。 5 米时， 成长方形, 相当规划， 南北长\n2"
+      },
+      {
+        "text": "长\n2.2米",
+        "page": 15,
+        "source": "ocr",
+        "context": "5 米时， 成长方形, 相当规划， 南北长\n2.2米,东西宽1.2米。4.9米以下西北角与东"
+      },
+      {
+        "text": "宽1.2米",
+        "page": 15,
+        "source": "ocr",
+        "context": "形, 相当规划， 南北长\n2.2米,东西宽1.2米。4.9米以下西北角与东北角璀侧出现昔多"
+      },
+      {
+        "text": "4.9米",
+        "page": 15,
+        "source": "ocr",
+        "context": "划， 南北长\n2.2米,东西宽1.2米。4.9米以下西北角与东北角璀侧出现昔多小\n的路突"
+      },
+      {
+        "text": "1.2米",
+        "page": 15,
+        "source": "ocr",
+        "context": "A. BE 6 ORME,\n长2.1,寅1.2米,平面秽之坑形成用长方形状。 7 米深左"
+      },
+      {
+        "text": " 7 米",
+        "page": 15,
+        "source": "ocr",
+        "context": ",寅1.2米,平面秽之坑形成用长方形状。 7 米深左右与6\nKAMAE, NERS IR"
+      },
+      {
+        "text": " 8 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "左右与6\nKAMAE, NERS IRS 8 米时稍小, 长 1.6 米, WE\n1.1"
+      },
+      {
+        "text": "长 1.6 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "E, NERS IRS 8 米时稍小, 长 1.6 米, WE\n1.1 米。9米时双略小。10"
+      },
+      {
+        "text": "\n1.1 米",
+        "page": 15,
+        "source": "ocr",
+        "context": " 8 米时稍小, 长 1.6 米, WE\n1.1 米。9米时双略小。10米时仍得长方形, B"
+      },
+      {
+        "text": "9米",
+        "page": 15,
+        "source": "ocr",
+        "context": ", 长 1.6 米, WE\n1.1 米。9米时双略小。10米时仍得长方形, BER,"
+      },
+      {
+        "text": "10米",
+        "page": 15,
+        "source": "ocr",
+        "context": " 米, WE\n1.1 米。9米时双略小。10米时仍得长方形, BER, 中加部\n分向两"
+      },
+      {
+        "text": " 01米",
+        "page": 15,
+        "source": "ocr",
+        "context": "方形, BER, 中加部\n分向两如伸太欧 01米左右,成回民形。10米以下嘱形糖小。深\n"
+      },
+      {
+        "text": "10米",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n分向两如伸太欧 01米左右,成回民形。10米以下嘱形糖小。深\n11.5米左右亚底成鞋"
+      },
+      {
+        "text": "深\n11.5米",
+        "page": 15,
+        "source": "ocr",
+        "context": "1米左右,成回民形。10米以下嘱形糖小。深\n11.5米左右亚底成鞋底芯, 面积更小, 长1.2"
+      },
+      {
+        "text": "宽 0.6 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "右亚底成鞋底芯, 面积更小, 长1.2)宽 0.6 米(图一)。\n\n第一灰坑深 11.5 OK"
+      },
+      {
+        "text": "0.4米",
+        "page": 15,
+        "source": "ocr",
+        "context": "分壕如下:\n\n1.授土司“”砍地面深欧至0.4米。表面0.2米厚的一层售嚼\nih, 很将"
+      },
+      {
+        "text": "0.2米",
+        "page": 15,
+        "source": "ocr",
+        "context": "1.授土司“”砍地面深欧至0.4米。表面0.2米厚的一层售嚼\nih, 很将, 没有重要遗"
+      },
+      {
+        "text": "0.4 米",
+        "page": 15,
+        "source": "ocr",
+        "context": " 很将, 没有重要遗物发现。深 0.2一0.4 米, BED, 士质\n与上层相同, BED"
+      },
+      {
+        "text": " 0.7 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "E, 色稍黑, 不\n面星不规则形; TR 0.7 米时也是不规则形, HAF 0.3一0.4"
+      },
+      {
+        "text": "0.4 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "7 米时也是不规则形, HAF 0.3一0.4 米厚，\nREL AS, 包含物有而腿、破碎"
+      },
+      {
+        "text": " 2.4 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "块。\n\nSa. 黄祸土屋“深由 0.6至 2.4 米，厚榴1.8米，色校 上层篇\nBK, 钴"
+      },
+      {
+        "text": "1.8米",
+        "page": 15,
+        "source": "ocr",
+        "context": "祸土屋“深由 0.6至 2.4 米，厚榴1.8米，色校 上层篇\nBK, 钴有红土粒及庄结"
+      },
+      {
+        "text": "深1.8米",
+        "page": 15,
+        "source": "ocr",
+        "context": " 钴有红土粒及庄结石,也有少数的蜗牛般。深1.8米, 有洪泥\nARIES 0.8 Rs 2"
+      },
+      {
+        "text": " 2.1 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "8米, 有洪泥\nARIES 0.8 Rs 2.1 米深也有 LL RE ie BE\n\nFER"
+      },
+      {
+        "text": "\n990.8 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "间,深由 0.9 至 1.7 3K, I\n990.8 米, PRE, MATMLA, RMN C"
+      },
+      {
+        "text": " 3.6 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n\n4 DORAL MY With 26 3.6 米, 平均厚购 1.3米左右，北\n边-上面"
+      },
+      {
+        "text": " 1.3米",
+        "page": 15,
+        "source": "ocr",
+        "context": " With 26 3.6 米, 平均厚购 1.3米左右，北\n边-上面有厚欧0.4米的一层灰"
+      },
+      {
+        "text": "0.4米",
+        "page": 15,
+        "source": "ocr",
+        "context": "均厚购 1.3米左右，北\n边-上面有厚欧0.4米的一层灰士, BIG, TERRE, 中"
+      },
+      {
+        "text": "3米",
+        "page": 15,
+        "source": "ocr",
+        "context": "蜗牛执特别多，碟石和生芒石志亦阳\n有之。3米深左右有厚狗 0.4 米左右的一片黄洪土"
+      },
+      {
+        "text": " 0.4 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "石和生芒石志亦阳\n有之。3米深左右有厚狗 0.4 米左右的一片黄洪土。附近灰中\n所夹厅的红硬"
+      },
+      {
+        "text": "      1 米",
+        "page": 15,
+        "source": "ocr",
+        "context": ") By 2\n个(1:60、1:62)，      1 米处发现1:49 与 1:50 AH, B"
+      },
+      {
+        "text": "1米",
+        "page": 15,
+        "source": "ocr",
+        "context": "土地,比第3 MPRA,\n深由3.6至站1米, 有少量陶片出土。在深3.7米处有0,"
+      },
+      {
+        "text": "深3.7米",
+        "page": 15,
+        "source": "ocr",
+        "context": "深由3.6至站1米, 有少量陶片出土。在深3.7米处有0,4米见方的\nFRAGA PAAR"
+      },
+      {
+        "text": "4米",
+        "page": 15,
+        "source": "ocr",
+        "context": ", 有少量陶片出土。在深3.7米处有0,4米见方的\nFRAGA PAARL, NH "
+      },
+      {
+        "text": " 0.15 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "米见方的\nFRAGA PAARL, NH 0.15 米。重要出土物有: 石链\nBEF 2H A"
+      },
+      {
+        "text": " 0.4 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "由 3.8至4.4 OR PR, 在均厚 0.4 米， 中间夹有省\n灰一屋。出石器残片1韦("
+      },
+      {
+        "text": "2 米",
+        "page": 15,
+        "source": "ocr",
+        "context": " 〈1:108) ACRES AE\n深和2 米北台下，发现钢铁工枚(1:73), 是这"
+      },
+      {
+        "text": " 3.75 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "现小型\n四足方形器工件(1:70),深度 3.75 米。\n\n9.黄褐土司 “深由5人篇6.6米"
+      },
+      {
+        "text": "6.6米",
+        "page": 15,
+        "source": "ocr",
+        "context": "75 米。\n\n9.黄褐土司 “深由5人篇6.6米,厚在均在1.5米。黄士较多，\nPORE"
+      },
+      {
+        "text": "1.5米",
+        "page": 15,
+        "source": "ocr",
+        "context": "黄褐土司 “深由5人篇6.6米,厚在均在1.5米。黄士较多，\nPORE MEAD, 士质"
+      }
+    ],
+    "漆器": [
+      {
+        "text": "漆器",
+        "page": 6,
+        "source": "ocr",
+        "context": "玉、骨器及其他\n四、年代推斯\n\n(三)仿漆器灰陶、\n(Pa) YER >\nCT) S"
+      }
+    ],
+    "材质": [
+      {
+        "text": "灰陶",
+        "page": 6,
+        "source": "ocr",
+        "context": "骨器及其他\n四、年代推斯\n\n(三)仿漆器灰陶、\n(Pa) YER >\nCT) SAR"
+      },
+      {
+        "text": "灰陶",
+        "page": 14,
+        "source": "ocr",
+        "context": "仰身非, BATE\n唱都仅有大腹小口平底灰陶纺 工件。就隐饶形式言, 但属唐代。\n\n"
+      }
+    ],
+    "年代": [
+      {
+        "text": "战国",
+        "page": 6,
+        "source": "ocr",
+        "context": "UE HORA REE\n\n拾抽 ”琉璃关战国划出土陶器\n\n拾玖”琉璃半战国墓出土陶器"
+      },
+      {
+        "text": "战国",
+        "page": 6,
+        "source": "ocr",
+        "context": " ”琉璃关战国划出土陶器\n\n拾玖”琉璃半战国墓出土陶器\n\n起拾”统璃关战国摹出土陶器"
+      },
+      {
+        "text": "战国",
+        "page": 6,
+        "source": "ocr",
+        "context": "玖”琉璃半战国墓出土陶器\n\n起拾”统璃关战国摹出土陶器\n\n武吉”琉璃阅战国墓出土岗器"
+      },
+      {
+        "text": "战国",
+        "page": 6,
+        "source": "ocr",
+        "context": "拾”统璃关战国摹出土陶器\n\n武吉”琉璃阅战国墓出土岗器\n\n武臣”琉欧开战国莫出十网器"
+      },
+      {
+        "text": "战国",
+        "page": 6,
+        "source": "ocr",
+        "context": "吉”琉璃阅战国墓出土岗器\n\n武臣”琉欧开战国莫出十网器、铁器及泥傅\nWR NRT E"
+      },
+      {
+        "text": "战国",
+        "page": 7,
+        "source": "ocr",
+        "context": "AR\n\nARIAL\naC 5 2 a\n\n战国车马坑的近摄和第1 SOR\n\n第2 号至"
+      },
+      {
+        "text": "战国",
+        "page": 7,
+        "source": "ocr",
+        "context": "近摄和第1 SOR\n\n第2 号至第4 号战国车的说图\n\n第4至6号及10,1] 号战"
+      },
+      {
+        "text": "战国",
+        "page": 7,
+        "source": "ocr",
+        "context": "国车的说图\n\n第4至6号及10,1] 号战国车子\n\n第14 号至 16 号的战国车子"
+      },
+      {
+        "text": "战国",
+        "page": 7,
+        "source": "ocr",
+        "context": " 号战国车子\n\n第14 号至 16 号的战国车子\n\n第16 号至 17 号的战国车子"
+      },
+      {
+        "text": "战国",
+        "page": 7,
+        "source": "ocr",
+        "context": "号的战国车子\n\n第16 号至 17 号的战国车子\n\n战国车的车莲和第 18, 19 "
+      },
+      {
+        "text": "战国",
+        "page": 7,
+        "source": "ocr",
+        "context": "\n\n第16 号至 17 号的战国车子\n\n战国车的车莲和第 18, 19 号的车子底部"
+      },
+      {
+        "text": "清",
+        "page": 7,
+        "source": "ocr",
+        "context": "\n园围村第 2 号共十穴口及地上建筑坦存清理时情\n形\n\n陆拾\nBee\next\nee"
+      },
+      {
+        "text": "清",
+        "page": 7,
+        "source": "ocr",
+        "context": "ast ae\n\n固园村第2 号墓坊室上层清理时情形\n固围付第2 号董见室清理时情形"
+      },
+      {
+        "text": "清",
+        "page": 7,
+        "source": "ocr",
+        "context": "坊室上层清理时情形\n固围付第2 号董见室清理时情形\n\n固园村第 2 SEN OCH"
+      },
+      {
+        "text": "金",
+        "page": 7,
+        "source": "ocr",
+        "context": "2 号蓝出土铁器\n\n固围村第2 号翡出土金属器物及残件\n\n固轿村第 2 号幕出土岗"
+      },
+      {
+        "text": "金",
+        "page": 7,
+        "source": "ocr",
+        "context": "及杂具\n\n赵固第工号摹出土钢车马饰及人带金\n起固第 1 号幕出土小钢器\n\n址固第 "
+      },
+      {
+        "text": "战国",
+        "page": 8,
+        "source": "ocr",
+        "context": "BRE ALR SA LAT\n到沫”衬印战国区                  S"
+      },
+      {
+        "text": "战国",
+        "page": 9,
+        "source": "ocr",
+        "context": "SAE, ASE LAR SE\n\n琉璃并战国车局坑\n\n车子各部分名称国…\n战国车马坑"
+      },
+      {
+        "text": "战国",
+        "page": 9,
+        "source": "ocr",
+        "context": "琉璃并战国车局坑\n\n车子各部分名称国…\n战国车马坑第工号车子复原图\nSR DBL N"
+      },
+      {
+        "text": "战国",
+        "page": 9,
+        "source": "ocr",
+        "context": "HSE SH BOER\nPAST RA\n战国车马坑第 16 号车复原图“\n\nSES "
+      },
+      {
+        "text": "明",
+        "page": 9,
+        "source": "ocr",
+        "context": "2 as\n\n2号墓出土岗、玉器及陶片(县明参看图版陆陆) …93\n3号摹出士介,骨"
+      },
+      {
+        "text": "明",
+        "page": 9,
+        "source": "ocr",
+        "context": "…93\n3号摹出士介,骨、陶器及殴件(酸明参看图版陆迷) 95\n\n固转村第 3 号"
+      },
+      {
+        "text": "金",
+        "page": 9,
+        "source": "ocr",
+        "context": "ee LOR\nPate\nFREE «\n错金铀器“\n\n围村第 5 和第 6 HE\n\n"
+      },
+      {
+        "text": "战国",
+        "page": 10,
+        "source": "ocr",
+        "context": "址                琉璃并战国幕莫\n\n摹莫大小及出土器物表:\n\nSS "
+      },
+      {
+        "text": "战国",
+        "page": 10,
+        "source": "ocr",
+        "context": " MNS AEE BE TRE BE\n\n战国车马坊\nREN PEE Robe\n\nSH"
+      },
+      {
+        "text": "战国",
+        "page": 12,
+        "source": "ocr",
+        "context": "不大。在三个月期闻,得股代莫非3 座, 战国大落座, 中小\n5 39 RE, ORE"
+      },
+      {
+        "text": "战国",
+        "page": 12,
+        "source": "ocr",
+        "context": "据过一次, 作了甲、乙雨个幕非， 获得了战国\n时代的钢\\石.玉器锡千徐件, 那些者料"
+      },
+      {
+        "text": "明",
+        "page": 12,
+        "source": "ocr",
+        "context": "B IL, SAT 114 天，在斑\n瑞明工作了 91 天，固团村工作 76 天,"
+      },
+      {
+        "text": "战国",
+        "page": 12,
+        "source": "ocr",
+        "context": ", 在琉璃开方面发现般代灰实、股代摹非、战国莫\n非、汉代莫非等。其中战国时代的车局坑"
+      },
+      {
+        "text": "战国",
+        "page": 12,
+        "source": "ocr",
+        "context": "、股代摹非、战国莫\n非、汉代莫非等。其中战国时代的车局坑中保存了 19 pL Si,"
+      },
+      {
+        "text": "清",
+        "page": 12,
+        "source": "ocr",
+        "context": "HOA ATPE, NAT NEHM, 清晰可旗，对锥战国车制的上蜡解,增添实\n例"
+      },
+      {
+        "text": "战国",
+        "page": 12,
+        "source": "ocr",
+        "context": "E, NAT NEHM, 清晰可旗，对锥战国车制的上蜡解,增添实\n例, 实仿重大发现"
+      },
+      {
+        "text": "清",
+        "page": 13,
+        "source": "ocr",
+        "context": "土量\nS, WH 12 月283 日才只清理了全探的三分之一强。过摹邦破\nA, S"
+      },
+      {
+        "text": "战国",
+        "page": 13,
+        "source": "ocr",
+        "context": "工作了 14 天,得石器时代遗址一处及\n战国莫旨 7 座, 其中 1 座有大批铀器,"
+      },
+      {
+        "text": "清",
+        "page": 13,
+        "source": "ocr",
+        "context": "AR ART TEAS PS\n存，如加以清理，或可灶此空白, OLIVER. RM"
+      },
+      {
+        "text": "西周",
+        "page": 13,
+        "source": "ocr",
+        "context": "15 ME, 汉代幕旨8座。\n原来预期的西周时代墓非, 却竹未发现。\n\n工作在5 月"
+      },
+      {
+        "text": "元",
+        "page": 13,
+        "source": "ocr",
+        "context": "京。古物 10 条,一同到连。\n\n三年来元县的三次发据， 规模有大小,时间有县短，"
+      },
+      {
+        "text": "明",
+        "page": 13,
+        "source": "ocr",
+        "context": "+#\n中速桔标举度量稀时，只在最后一句写明单位。砷米於可省处\n一概省去。\n\n《四)"
+      },
+      {
+        "text": "明",
+        "page": 13,
+        "source": "ocr",
+        "context": "籍或论文, Ho LESTE\n及方括弧标明广释的号数。但是有些便广在引女后面的图括"
+      },
+      {
+        "text": "清",
+        "page": 14,
+        "source": "ocr",
+        "context": "A ARO ST”. FIRE,\n重修从清代, BLE APSE AEM. TEN"
+      },
+      {
+        "text": "清",
+        "page": 14,
+        "source": "ocr",
+        "context": " DALI, BATT, 长度还\n没有找清楚, 年代也未能确定。北克在黄家填的南面"
+      },
+      {
+        "text": "元",
+        "page": 14,
+        "source": "ocr",
+        "context": "壹陆)。\n\n焉瑞并的莫非擎, 因炉从前全元大量地被发气过, 所以我们\n没有找到一个"
+      },
+      {
+        "text": "战国",
+        "page": 14,
+        "source": "ocr",
+        "context": " 座没有随非物, 可能有些不是股代的)、战国墓 238\n座(包括车轧坑 1座)\\汉墓"
+      },
+      {
+        "text": "战国",
+        "page": 14,
+        "source": "ocr",
+        "context": "1 个。这一篇中分股代遗址、股代墓\n非、战国莫非和汉代莫非叙述之。现在先将 11 座"
+      },
+      {
+        "text": "南北朝",
+        "page": 14,
+        "source": "ocr",
+        "context": "莫室中没有随非品。这雨座墓的时\n代可能是南北朝。\n\n第 115 号幕”这是近代摹, R"
+      },
+      {
+        "text": "元",
+        "page": 14,
+        "source": "ocr",
+        "context": "2具中， 仅\n有一具是完整的,其余都似乎元人工劈并, FEWARZE 堆在一起。\n"
+      },
+      {
+        "text": "明",
+        "page": 14,
+        "source": "ocr",
+        "context": " Ke\n人骨梧烟, 没有随非品, 年代不明。\n\n第144号幕 ”这是唐代的洞室墓,"
+      },
+      {
+        "text": "唐",
+        "page": 14,
+        "source": "ocr",
+        "context": "品, 年代不明。\n\n第144号幕 ”这是唐代的洞室墓, ROH, 男右女左。口\n内"
+      },
+      {
+        "text": "元",
+        "page": 14,
+        "source": "ocr",
+        "context": ", ROH, 男右女左。口\n内都含有了开元钱 1 。随非品除陶艇3 件外, AKA"
+      },
+      {
+        "text": "唐",
+        "page": 14,
+        "source": "ocr",
+        "context": "口平底灰陶纺 工件。就隐饶形式言, 但属唐代。\n\n第236 GR ”这是长寅仅 1"
+      },
+      {
+        "text": "宋",
+        "page": 14,
+        "source": "ocr",
+        "context": "钢钱和交枚伏箱。时代不能确定,可能篇让\n宋时代。\n\n篇了检查方便, 现依幕号次序,"
+      },
+      {
+        "text": "战国",
+        "page": 14,
+        "source": "ocr",
+        "context": "次序, 作成墓莫时代表 (“周\"墓都\n是战国时代的, 疑阁号表示这莫的时代未能确定)"
+      },
+      {
+        "text": "清",
+        "page": 14,
+        "source": "ocr",
+        "context": "H, 118 p ,114 周,115 清, 116 ? ,117 MH, 118"
+      },
+      {
+        "text": "唐",
+        "page": 14,
+        "source": "ocr",
+        "context": "1 ge, 142—3 MM, 144 唐，145一8\nWe, 149 Je, 1"
+      },
+      {
+        "text": "唐",
+        "page": 14,
+        "source": "ocr",
+        "context": "\nME 7 228-7 MY, 228 唐 ? , 22931 fi], 232—"
+      },
+      {
+        "text": "战国",
+        "page": 14,
+        "source": "ocr",
+        "context": "3 周,244一51 股。\n\ni 址\n号战国墓东攀 4 米处。这是在 10 月 13"
+      },
+      {
+        "text": "战国",
+        "page": 15,
+        "source": "ocr",
+        "context": "。第二灰坑和第三灰坑是发据第 108 号战国幕时所发现\n的。        Ste "
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "ocr",
+        "context": "日发掘深 1.5 米, 工人1名作了中日清理完蛙。第四\n灰坑,是作第 104 号股"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "ocr",
+        "context": "第四\n灰坑,是作第 104 号股代慕非时清理的。\n\n本文以下所列述的是天藉以上四个"
+      },
+      {
+        "text": "明",
+        "page": 15,
+        "source": "ocr",
+        "context": "龟复杂,层次\n也多,所以特别加以嫩闲的嫩明(疼一)。第一灰坑在距地面 0.7\nRP"
+      },
+      {
+        "text": "元",
+        "page": 15,
+        "source": "ocr",
+        "context": "k, MESA\n一部分,土质坚硬, 似人元夯过,很少夹厅其他东西, 仅发现小型\n四"
+      }
+    ],
+    "遗址名称": [
+      {
+        "text": "固围村",
+        "page": 7,
+        "source": "ocr",
+        "context": "A\n\n坊璃并痰墓出土网器、铁器及其他\n\n固围村第 1 WEE\n\nFal PS BES "
+      },
+      {
+        "text": "固围村",
+        "page": 7,
+        "source": "ocr",
+        "context": "CHRE\n\n国园村第2 号蓝出土铁器\n\n固围村第2 号翡出土金属器物及残件\n\n固轿村第"
+      },
+      {
+        "text": "固围村",
+        "page": 7,
+        "source": "ocr",
+        "context": "\n固轿村第 2 号幕出土岗、玉器及残件\n固围村第2 号右出土介、骨、陶器及残件\n\n固围"
+      },
+      {
+        "text": "固围村",
+        "page": 7,
+        "source": "ocr",
+        "context": "围村第2 号右出土介、骨、陶器及残件\n\n固围村第 3 号墓\n\n固围村第3 Sas\n固转"
+      },
+      {
+        "text": "固围村",
+        "page": 7,
+        "source": "ocr",
+        "context": "骨、陶器及残件\n\n固围村第 3 号墓\n\n固围村第3 Sas\n固转村第3 Sat\n固围村"
+      },
+      {
+        "text": "固围村",
+        "page": 7,
+        "source": "ocr",
+        "context": "固围村第3 Sas\n固转村第3 Sat\n固围村第 3 Se\n固围村第 3 号摹出土器物"
+      },
+      {
+        "text": "固围村",
+        "page": 7,
+        "source": "ocr",
+        "context": "固转村第3 Sat\n固围村第 3 Se\n固围村第 3 号摹出土器物\n固园村第 3 号幕"
+      },
+      {
+        "text": "固围村",
+        "page": 7,
+        "source": "ocr",
+        "context": "出土器物\n固园村第 3 号幕出土器物\n\n固围村第 5 号和第 6 号幕\n\n固园村第5 "
+      },
+      {
+        "text": "固围村",
+        "page": 7,
+        "source": "ocr",
+        "context": "\n\n固园村第 5 SBSH sh EE\n固围村第5 号摹出土陶器\nBRASS 5 号幕"
+      },
+      {
+        "text": "固围村",
+        "page": 7,
+        "source": "ocr",
+        "context": "BRASS 5 号幕出土陶、铁、钢器\n\n固围村第 6 SESE\n\nRAs 6 SHH,"
+      },
+      {
+        "text": "固围村",
+        "page": 7,
+        "source": "ocr",
+        "context": "ESE\n\nRAs 6 SHH, SRE\n固围村第 6 SSE td, Bk. de. "
+      },
+      {
+        "text": "赵固",
+        "page": 7,
+        "source": "ocr",
+        "context": "固第1 号区\n\nBINH 1 SUE\n\n赵固第1号幕出土陶器\n\n赵固第工号墓出土陶器"
+      },
+      {
+        "text": "赵固",
+        "page": 7,
+        "source": "ocr",
+        "context": " 1 SUE\n\n赵固第1号幕出土陶器\n\n赵固第工号墓出土陶器\n\n赵固第 1 号刘出土"
+      },
+      {
+        "text": "赵固",
+        "page": 7,
+        "source": "ocr",
+        "context": "号幕出土陶器\n\n赵固第工号墓出土陶器\n\n赵固第 1 号刘出土陶器的剖面及摹敏\n赵固第"
+      },
+      {
+        "text": "赵固",
+        "page": 7,
+        "source": "ocr",
+        "context": "\n赵固第 1 号刘出土陶器的剖面及摹敏\n赵固第 1 号幕出土陶器\n\n赵固第 1 号幕"
+      },
+      {
+        "text": "赵固",
+        "page": 7,
+        "source": "ocr",
+        "context": "剖面及摹敏\n赵固第 1 号幕出土陶器\n\n赵固第 1 号幕出土陶器的前面及摹数\n超固第"
+      },
+      {
+        "text": "赵固",
+        "page": 7,
+        "source": "ocr",
+        "context": "摹出土铜器\n\n超固第工号墓出土网兵器\n\n赵固第 1 号介出土网兵器及杂具\n\n赵固第工"
+      },
+      {
+        "text": "赵固",
+        "page": 7,
+        "source": "ocr",
+        "context": "\n\n赵固第 1 号介出土网兵器及杂具\n\n赵固第工号摹出土钢车马饰及人带金\n起固第 1"
+      },
+      {
+        "text": "固围村",
+        "page": 9,
+        "source": "ocr",
+        "context": " 2 REL ER YT OR BE\n\n固围村第 2 as\n\n2号墓出土岗、玉器及陶片"
+      },
+      {
+        "text": "固围村",
+        "page": 11,
+        "source": "ocr",
+        "context": "ADT) NR of HEHE BE\n\n固围村第 3 ae\n\nRA WEARER BA"
+      },
+      {
+        "text": "长沙",
+        "page": 13,
+        "source": "ocr",
+        "context": "固村、百泉)\n\n古研究所了-作除误重点从长沙; 都释方面只留郭宝\n58 SOME E"
+      },
+      {
+        "text": "安阳",
+        "page": 13,
+        "source": "ocr",
+        "context": "墓东\n南角又发现有极薄夯土司的遗存, 与安阳有收塘所出, SR TTT\n同。粽合前次"
+      },
+      {
+        "text": "赵固",
+        "page": 13,
+        "source": "ocr",
+        "context": "e\n\n百泉工程将近精束, 石河工人有了解赵固地下情形的来百\nSR, MEE. MRM"
+      },
+      {
+        "text": "赵固",
+        "page": 13,
+        "source": "ocr",
+        "context": "琉瑞并,工作\n的重点在百泉, 工作粘东在赵固。赵固工作时间最短, OM HEAR\n大"
+      },
+      {
+        "text": "赵固",
+        "page": 13,
+        "source": "ocr",
+        "context": ",工作\n的重点在百泉, 工作粘东在赵固。赵固工作时间最短, OM HEAR\n大,性摘"
+      },
+      {
+        "text": "汉墓",
+        "page": 14,
+        "source": "ocr",
+        "context": "战国墓 238\n座(包括车轧坑 1座)\\汉墓 17 座,其他年代 11 座。此外双在"
+      },
+      {
+        "text": "北朝",
+        "page": 14,
+        "source": "ocr",
+        "context": "室中没有随非品。这雨座墓的时\n代可能是南北朝。\n\n第 115 号幕”这是近代摹, R"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "车马坑",
+        "page": 7,
+        "source": "ocr",
+        "context": "\n\nARIAL\naC 5 2 a\n\n战国车马坑的近摄和第1 SOR\n\n第2 号至第4 "
+      },
+      {
+        "text": "灰坑",
+        "page": 8,
+        "source": "ocr",
+        "context": "eM\n插 图\n\n琉璃并区有殷代遗址\n第一灰坑在面图刊面图\n\nHM BW L\n\n[ta"
+      },
+      {
+        "text": "车马坑",
+        "page": 9,
+        "source": "ocr",
+        "context": "并战国车局坑\n\n车子各部分名称国…\n战国车马坑第工号车子复原图\nSR DBL NG S"
+      },
+      {
+        "text": "车马坑",
+        "page": 9,
+        "source": "ocr",
+        "context": "E SH BOER\nPAST RA\n战国车马坑第 16 号车复原图“\n\nSES ACE"
+      },
+      {
+        "text": "灰坑",
+        "page": 14,
+        "source": "ocr",
+        "context": "定。北克在黄家填的南面, ALS SE\n灰坑(图版索壹陆)。\n\n焉瑞并的莫非擎, 因"
+      },
+      {
+        "text": "灰坑",
+        "page": 14,
+        "source": "ocr",
+        "context": "11 座。此外双在北\nWARES 3 个灰坑，南区 11 个。这一篇中分股代遗址、股"
+      },
+      {
+        "text": "灰坑",
+        "page": 14,
+        "source": "ocr",
+        "context": "据工作和进行过程中 先后消理了4 个胶代灰坑。这4 个灰\n坑都在黄家故一带, 其中以"
+      },
+      {
+        "text": "灰坑",
+        "page": 14,
+        "source": "ocr",
+        "context": "4 个灰\n坑都在黄家故一带, 其中以第一灰坑伪最重要，它的位串在104\n\n一篇 St"
+      },
+      {
+        "text": "灰坑",
+        "page": 15,
+        "source": "ocr",
+        "context": "将原来小坑扩大至长4，寅 3 米，以等找灰坑的边\nEH 0.45 RMR CH, R"
+      },
+      {
+        "text": "灰坑",
+        "page": 15,
+        "source": "ocr",
+        "context": "B 115 OK, 已到地下\n水面。第二灰坑和第三灰坑是发据第 108 号战国幕时所"
+      },
+      {
+        "text": "灰坑",
+        "page": 15,
+        "source": "ocr",
+        "context": " OK, 已到地下\n水面。第二灰坑和第三灰坑是发据第 108 号战国幕时所发现\n的。"
+      },
+      {
+        "text": "灰坑",
+        "page": 15,
+        "source": "ocr",
+        "context": "日发据，用工代名!深2.2米到底。第\n三灰坑於4日发掘深 1.5 米, 工人1名作了"
+      },
+      {
+        "text": "灰坑",
+        "page": 15,
+        "source": "ocr",
+        "context": " 米, 工人1名作了中日清理完蛙。第四\n灰坑,是作第 104 号股代慕非时清理的。\n"
+      },
+      {
+        "text": "灰坑",
+        "page": 15,
+        "source": "ocr",
+        "context": "理的。\n\n本文以下所列述的是天藉以上四个灰坑所出二的物里遗存\nBSH CAAT Ee"
+      },
+      {
+        "text": "灰坑",
+        "page": 15,
+        "source": "ocr",
+        "context": "项形、层其和包含物\n\n按第一.二,三,四灰坑的顺序, 将它们的形状,层次及包含物\n分"
+      },
+      {
+        "text": "灰坑",
+        "page": 15,
+        "source": "ocr",
+        "context": "的形状,层次及包含物\n分别加以叙述。第一灰坑的形基和大小的黎化较龟复杂,层次\n也多,"
+      },
+      {
+        "text": "灰坑",
+        "page": 15,
+        "source": "ocr",
+        "context": "多,所以特别加以嫩闲的嫩明(疼一)。第一灰坑在距地面 0.7\nRPE ASE PRA"
+      },
+      {
+        "text": "灰坑",
+        "page": 15,
+        "source": "ocr",
+        "context": "1.2)宽 0.6 米(图一)。\n\n第一灰坑深 11.5 OK, AT 16 层不同"
+      },
+      {
+        "text": "灰坑",
+        "page": 15,
+        "source": "ocr",
+        "context": "台下，发现钢铁工枚(1:73), 是这个灰坑中出土唯一\n的钢器。\n\n8.和并土层”夹"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "饰",
+        "page": 7,
+        "source": "ocr",
+        "context": "e REL\n\n。固转村第1号右出土的车马饰\n\n男贺村第 1 号从出土的车思饰\n\n国"
+      },
+      {
+        "text": "饰",
+        "page": 7,
+        "source": "ocr",
+        "context": "的车马饰\n\n男贺村第 1 号从出土的车思饰\n\n国转村第 1 号摹出土玉器\n\nTDA"
+      },
+      {
+        "text": "饰",
+        "page": 7,
+        "source": "ocr",
+        "context": "土网兵器及杂具\n\n赵固第工号摹出土钢车马饰及人带金\n起固第 1 号幕出土小钢器\n\n"
+      },
+      {
+        "text": "饰",
+        "page": 9,
+        "source": "ocr",
+        "context": "…\n\nFue ”固转村第工号幕出土的车局饰摹入…\nAN SRR, BH, Me\nT"
+      },
+      {
+        "text": "刀",
+        "page": 15,
+        "source": "ocr",
+        "context": "、1:58)、骨管头工枚(1:63)、骨刀1 HUA 44) By 2\n个(1:6"
+      },
+      {
+        "text": "刀",
+        "page": 15,
+        "source": "ocr",
+        "context": "T S SEME\n出土物有, 完整带孔石刀!个(1:83)、完整的石坏输1个(1:"
+      },
+      {
+        "text": "刀",
+        "page": 15,
+        "source": "ocr",
+        "context": "E MEAD, 士质朴桥。出土物对有:石刀1 (1:110)\\石\nMBH A (1"
+      }
+    ],
+    "土样特征": [
+      {
+        "text": "灰土",
+        "page": 7,
+        "source": "ocr",
+        "context": "生产工具\n\n固转村第 1 号墓南幕道上的灰土穴及土灶\n\n固园村第 2 BEBE\n\n园"
+      },
+      {
+        "text": "灰土",
+        "page": 13,
+        "source": "ocr",
+        "context": ", SR TTT\n同。粽合前次发据所见的灰土穴夯土幕及 1937 AB HF FL "
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "夯土",
+        "page": 9,
+        "source": "ocr",
+        "context": "D LH ASL\nRGR\n第3号幕南墓道夯土司建筑方法实测|\n第3号幕在面国…\n第3"
+      },
+      {
+        "text": "夯土",
+        "page": 13,
+        "source": "ocr",
+        "context": "各具有地方性。在股墓东\n南角又发现有极薄夯土司的遗存, 与安阳有收塘所出, SR T"
+      },
+      {
+        "text": "夯土",
+        "page": 13,
+        "source": "ocr",
+        "context": "R TTT\n同。粽合前次发据所见的灰土穴夯土幕及 1937 AB HF FL Ay "
+      },
+      {
+        "text": "堆积",
+        "page": 15,
+        "source": "ocr",
+        "context": "挟拾工作。我们\n和工人一起用小久把每一层堆积慢慢地拥起一块块地打碎,反\n复搬弄以等求"
+      },
+      {
+        "text": "堆积",
+        "page": 15,
+        "source": "ocr",
+        "context": " 11.5 OK, AT 16 层不同的堆积。每居厚诬和商\n低都不同, HASLAM"
+      }
+    ],
+    "建筑结构": [
+      {
+        "text": "夯土",
+        "page": 9,
+        "source": "ocr",
+        "context": "D LH ASL\nRGR\n第3号幕南墓道夯土司建筑方法实测|\n第3号幕在面国…\n第3"
+      },
+      {
+        "text": "夯土",
+        "page": 13,
+        "source": "ocr",
+        "context": "各具有地方性。在股墓东\n南角又发现有极薄夯土司的遗存, 与安阳有收塘所出, SR T"
+      },
+      {
+        "text": "夯土",
+        "page": 13,
+        "source": "ocr",
+        "context": "R TTT\n同。粽合前次发据所见的灰土穴夯土幕及 1937 AB HF FL Ay "
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "陶片",
+        "page": 9,
+        "source": "ocr",
+        "context": "围村第 2 as\n\n2号墓出土岗、玉器及陶片(县明参看图版陆陆) …93\n3号摹出士"
+      },
+      {
+        "text": "陶片",
+        "page": 14,
+        "source": "ocr",
+        "context": "AIMEE. BT\n土中也会出土过一些能陶片和凸出条教的陶片。这些陶片在\nPSEA "
+      },
+      {
+        "text": "陶片",
+        "page": 14,
+        "source": "ocr",
+        "context": "T\n土中也会出土过一些能陶片和凸出条教的陶片。这些陶片在\nPSEA CREATE, "
+      },
+      {
+        "text": "陶片",
+        "page": 14,
+        "source": "ocr",
+        "context": "会出土过一些能陶片和凸出条教的陶片。这些陶片在\nPSEA CREATE, MAHER"
+      },
+      {
+        "text": "人骨",
+        "page": 14,
+        "source": "ocr",
+        "context": " x 0.9 2K, FR IB Ke\n人骨梧烟, 没有随非品, 年代不明。\n\n第1"
+      },
+      {
+        "text": "陶片",
+        "page": 15,
+        "source": "ocr",
+        "context": "\nREL AS, 包含物有而腿、破碎打猴陶片, 间有生蔓石块。\n\nSa. 黄祸土屋“"
+      },
+      {
+        "text": "陶片",
+        "page": 15,
+        "source": "ocr",
+        "context": "MPRA,\n深由3.6至站1米, 有少量陶片出土。在深3.7米处有0,4米见方的\nF"
+      },
+      {
+        "text": "陶片",
+        "page": 15,
+        "source": "ocr",
+        "context": "RM BEIM, AREER, BAP\n陶片等夹克其中。由 3.8至4.4 OR P"
+      },
+      {
+        "text": "陶片",
+        "page": 15,
+        "source": "ocr",
+        "context": "He BE\nEME SHIA A, 有破陶片, BD BERL, MARA TH\nM"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "G1",
+        "page": 14,
+        "source": "ocr",
+        "context": "R NRE 58 座，第 2 季又发据\nG1 座, 粮共 109 座幕。如果合时代来"
+      },
+      {
+        "text": "G4:38",
+        "page": 15,
+        "source": "ocr",
+        "context": "ie 1 个 (1:31)、骨器殉片3\nG4:38、1:58)、骨管头工枚(1:63)、骨"
+      },
+      {
+        "text": "L80",
+        "page": 15,
+        "source": "ocr",
+        "context": "GES ILL A:T), b HIS L80),\n\n6. GAEL APPR RM "
+      },
+      {
+        "text": "L112",
+        "page": 15,
+        "source": "ocr",
+        "context": " MARA TH\nMBN AT PES L112) FBI L114) IPT aE\n工"
+      },
+      {
+        "text": "L114",
+        "page": 15,
+        "source": "ocr",
+        "context": "BN AT PES L112) FBI L114) IPT aE\n工片G1:117)、小"
+      }
+    ],
+    "骨器": [
+      {
+        "text": "骨针",
+        "page": 14,
+        "source": "ocr",
+        "context": "停工, 2 日在\n漆 1.1 米处发现小骨针 1 枚, GIT SR, bP 2 r"
+      },
+      {
+        "text": "骨管",
+        "page": 15,
+        "source": "ocr",
+        "context": ")、骨器殉片3\nG4:38、1:58)、骨管头工枚(1:63)、骨刀1 HUA 44"
+      },
+      {
+        "text": "骨刀",
+        "page": 15,
+        "source": "ocr",
+        "context": "8、1:58)、骨管头工枚(1:63)、骨刀1 HUA 44) By 2\n个(1:6"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "刀",
+        "page": 15,
+        "source": "ocr",
+        "context": "、1:58)、骨管头工枚(1:63)、骨刀1 HUA 44) By 2\n个(1:6"
+      },
+      {
+        "text": "刀",
+        "page": 15,
+        "source": "ocr",
+        "context": "T S SEME\n出土物有, 完整带孔石刀!个(1:83)、完整的石坏输1个(1:"
+      },
+      {
+        "text": "刀",
+        "page": 15,
+        "source": "ocr",
+        "context": "E MEAD, 士质朴桥。出土物对有:石刀1 (1:110)\\石\nMBH A (1"
+      }
+    ],
+    "石器": [
+      {
+        "text": "石刀",
+        "page": 15,
+        "source": "ocr",
+        "context": "TT S SEME\n出土物有, 完整带孔石刀!个(1:83)、完整的石坏输1个(1:"
+      },
+      {
+        "text": "石刀",
+        "page": 15,
+        "source": "ocr",
+        "context": "RE MEAD, 士质朴桥。出土物对有:石刀1 (1:110)\\石\nMBH A (1"
+      }
+    ]
+  }
+}

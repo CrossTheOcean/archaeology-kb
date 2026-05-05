@@ -1,0 +1,390 @@
+{
+  "name": "满城汉墓",
+  "file": "满城汉墓.pdf",
+  "era": "西汉",
+  "culture": "中山靖王墓",
+  "processed_pages": 12,
+  "total_entities": 58,
+  "entity_stats": {
+    "测量数据": 1,
+    "年代": 11,
+    "陶器": 13,
+    "铜器": 20,
+    "纹饰": 5,
+    "葬具": 1,
+    "遗址名称": 3,
+    "玉器": 2,
+    "铁器": 1,
+    "遗迹编号": 1
+  },
+  "entities": {
+    "测量数据": [
+      {
+        "text": "\n\n5 m",
+        "page": 3,
+        "source": "ocr",
+        "context": "e th Oh Me\n北京二四大街2?如\n\n5 mane EO\n\nwe OR fi\n\n19"
+      }
+    ],
+    "年代": [
+      {
+        "text": "元",
+        "page": 3,
+        "source": "ocr",
+        "context": "\n统一节今，11068，700 定价50元\n"
+      },
+      {
+        "text": "金",
+        "page": 4,
+        "source": "ocr",
+        "context": "EA\n\n乌繁文铀过\n\nHa AL\n\n铜错金博山炉\n\nAE EAT\n\nae\n\na A"
+      },
+      {
+        "text": "金",
+        "page": 4,
+        "source": "ocr",
+        "context": "e\n\na A Hi\n\n铁已益和铁长刀\n\n金医针\n\n] WE\n\n玉印、玉人和玉带多\n"
+      },
+      {
+        "text": "金",
+        "page": 4,
+        "source": "ocr",
+        "context": "\n\nARE TH BB\n\nSEO)\n\n错金铁尺\n\n彩绘陶贫\n\nPew\n\n性型 1式"
+      },
+      {
+        "text": "金",
+        "page": 9,
+        "source": "ocr",
+        "context": "N fii\n\nih\n\nTi ffi\n\n人金饼\n\nNi, Sp AR APOE\n\n半"
+      },
+      {
+        "text": "金",
+        "page": 10,
+        "source": "ocr",
+        "context": "ANAL IE BRIE\nHeke\n\n错金附件\n\nRAL. PRAT AN BE "
+      },
+      {
+        "text": "金",
+        "page": 12,
+        "source": "ocr",
+        "context": "N BS HT 9 AL\n\n钢剑和钢剑的金相组织\n\n错金书刀X 射线透视赂片及刘虱"
+      },
+      {
+        "text": "金",
+        "page": 12,
+        "source": "ocr",
+        "context": " 9 AL\n\n钢剑和钢剑的金相组织\n\n错金书刀X 射线透视赂片及刘虱假剑和错金 书"
+      },
+      {
+        "text": "金",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n错金书刀X 射线透视赂片及刘虱假剑和错金 书刀的金骨组织\n\nSUE GH EY "
+      },
+      {
+        "text": "金",
+        "page": 12,
+        "source": "ocr",
+        "context": "X 射线透视赂片及刘虱假剑和错金 书刀的金骨组织\n\nSUE GH EY FL RR"
+      },
+      {
+        "text": "金",
+        "page": 15,
+        "source": "ocr",
+        "context": "彩版二 (IT )\n\n修复后的一号莫“金缕玉衣”\n\n"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "刀",
+        "page": 4,
+        "source": "ocr",
+        "context": "\n\nae\n\na A Hi\n\n铁已益和铁长刀\n\n金医针\n\n] WE\n\n玉印、玉人和玉"
+      },
+      {
+        "text": "陶盘",
+        "page": 7,
+        "source": "ocr",
+        "context": "aa STF\n\nFea by AA\n彩绘陶盘的纹饰\n彩绘陶扒的纹饰\n彩绘陶盘的纹饰\n"
+      },
+      {
+        "text": "陶盘",
+        "page": 7,
+        "source": "ocr",
+        "context": "A\n彩绘陶盘的纹饰\n彩绘陶扒的纹饰\n彩绘陶盘的纹饰\nFEES Wy REI De i"
+      },
+      {
+        "text": "环",
+        "page": 7,
+        "source": "ocr",
+        "context": "US\n\nI EE\n\n12 Ee\n玉壁和玉环\n\nEE\n\na. EF AR\n“ERA "
+      },
+      {
+        "text": "环",
+        "page": 8,
+        "source": "ocr",
+        "context": "FE al 4 i\n民方形活轴铁车器和钢环\n钢铺首、铀环及其它\nPAKS ae\n\n"
+      },
+      {
+        "text": "环",
+        "page": 8,
+        "source": "ocr",
+        "context": " i\n民方形活轴铁车器和钢环\n钢铺首、铀环及其它\nPAKS ae\n\nHAR 2h\n"
+      },
+      {
+        "text": "盆",
+        "page": 9,
+        "source": "ocr",
+        "context": " AR APOE\n\n半两钱和五铁钱\n\n料盆和料耳杯\n\nEE. FRRHE\n\nRET"
+      },
+      {
+        "text": "杯",
+        "page": 9,
+        "source": "ocr",
+        "context": "APOE\n\n半两钱和五铁钱\n\n料盆和料耳杯\n\nEE. FRRHE\n\nRET Aa\n"
+      },
+      {
+        "text": "陶盆",
+        "page": 10,
+        "source": "ocr",
+        "context": "Za Fg GT.\nGED Ba\n\n彩绘陶盆\n\nWag Sih ag aR Bg S"
+      },
+      {
+        "text": "陶碗",
+        "page": 10,
+        "source": "ocr",
+        "context": "B IL AB\n\nfag HE\n\n陶后、陶碗和陶灯\n\nI Hee\n\ny He\n\nWW"
+      },
+      {
+        "text": "环",
+        "page": 11,
+        "source": "ocr",
+        "context": "CEMRKERBRHE\n\n普首形铜饰、铜环及其它\n\nSABE IG BS. Be "
+      },
+      {
+        "text": "刀",
+        "page": 12,
+        "source": "ocr",
+        "context": " AL\n\n钢剑和钢剑的金相组织\n\n错金书刀X 射线透视赂片及刘虱假剑和错金 书刀的"
+      },
+      {
+        "text": "刀",
+        "page": 12,
+        "source": "ocr",
+        "context": "书刀X 射线透视赂片及刘虱假剑和错金 书刀的金骨组织\n\nSUE GH EY FL "
+      }
+    ],
+    "铜器": [
+      {
+        "text": "刀",
+        "page": 4,
+        "source": "ocr",
+        "context": "\n\nae\n\na A Hi\n\n铁已益和铁长刀\n\n金医针\n\n] WE\n\n玉印、玉人和玉"
+      },
+      {
+        "text": "饰",
+        "page": 6,
+        "source": "ocr",
+        "context": " HAR as A IE\n五六“对普形钢饰\n\n五七 ”铜饰\n\nWO FA\n\nA-—"
+      },
+      {
+        "text": "铜饰",
+        "page": 6,
+        "source": "ocr",
+        "context": " A IE\n五六“对普形钢饰\n\n五七 ”铜饰\n\nWO FA\n\nA-— HAAN\n\nK"
+      },
+      {
+        "text": "饰",
+        "page": 6,
+        "source": "ocr",
+        "context": "R. 1 RRR\nFAY 工型铁剑及其玉饰\nFie REVAL ER 2\nAY P"
+      },
+      {
+        "text": "盘",
+        "page": 7,
+        "source": "ocr",
+        "context": "a STF\n\nFea by AA\n彩绘陶盘的纹饰\n彩绘陶扒的纹饰\n彩绘陶盘的纹饰\n"
+      },
+      {
+        "text": "饰",
+        "page": 7,
+        "source": "ocr",
+        "context": "TF\n\nFea by AA\n彩绘陶盘的纹饰\n彩绘陶扒的纹饰\n彩绘陶盘的纹饰\nFEE"
+      },
+      {
+        "text": "饰",
+        "page": 7,
+        "source": "ocr",
+        "context": "by AA\n彩绘陶盘的纹饰\n彩绘陶扒的纹饰\n彩绘陶盘的纹饰\nFEES Wy REI"
+      },
+      {
+        "text": "盘",
+        "page": 7,
+        "source": "ocr",
+        "context": "\n彩绘陶盘的纹饰\n彩绘陶扒的纹饰\n彩绘陶盘的纹饰\nFEES Wy REI De i"
+      },
+      {
+        "text": "饰",
+        "page": 7,
+        "source": "ocr",
+        "context": "陶盘的纹饰\n彩绘陶扒的纹饰\n彩绘陶盘的纹饰\nFEES Wy REI De is\n\n"
+      },
+      {
+        "text": "环",
+        "page": 7,
+        "source": "ocr",
+        "context": "US\n\nI EE\n\n12 Ee\n玉壁和玉环\n\nEE\n\na. EF AR\n“ERA "
+      },
+      {
+        "text": "环",
+        "page": 8,
+        "source": "ocr",
+        "context": "FE al 4 i\n民方形活轴铁车器和钢环\n钢铺首、铀环及其它\nPAKS ae\n\n"
+      },
+      {
+        "text": "环",
+        "page": 8,
+        "source": "ocr",
+        "context": " i\n民方形活轴铁车器和钢环\n钢铺首、铀环及其它\nPAKS ae\n\nHAR 2h\n"
+      },
+      {
+        "text": "盆",
+        "page": 9,
+        "source": "ocr",
+        "context": " AR APOE\n\n半两钱和五铁钱\n\n料盆和料耳杯\n\nEE. FRRHE\n\nRET"
+      },
+      {
+        "text": "杯",
+        "page": 9,
+        "source": "ocr",
+        "context": "APOE\n\n半两钱和五铁钱\n\n料盆和料耳杯\n\nEE. FRRHE\n\nRET Aa\n"
+      },
+      {
+        "text": "盆",
+        "page": 10,
+        "source": "ocr",
+        "context": "a Fg GT.\nGED Ba\n\n彩绘陶盆\n\nWag Sih ag aR Bg S"
+      },
+      {
+        "text": "铜饰",
+        "page": 11,
+        "source": "ocr",
+        "context": "KA BCEMRKERBRHE\n\n普首形铜饰、铜环及其它\n\nSABE IG BS. "
+      },
+      {
+        "text": "铜环",
+        "page": 11,
+        "source": "ocr",
+        "context": "BCEMRKERBRHE\n\n普首形铜饰、铜环及其它\n\nSABE IG BS. Be "
+      },
+      {
+        "text": "饰",
+        "page": 11,
+        "source": "ocr",
+        "context": "DA\n\n二四四\nYh.\n\nmA\n\n钢答络饰、钢节约和钢、铁带扣\n\nRO. ROTA"
+      },
+      {
+        "text": "刀",
+        "page": 12,
+        "source": "ocr",
+        "context": " AL\n\n钢剑和钢剑的金相组织\n\n错金书刀X 射线透视赂片及刘虱假剑和错金 书刀的"
+      },
+      {
+        "text": "刀",
+        "page": 12,
+        "source": "ocr",
+        "context": "书刀X 射线透视赂片及刘虱假剑和错金 书刀的金骨组织\n\nSUE GH EY FL "
+      }
+    ],
+    "纹饰": [
+      {
+        "text": "彩绘",
+        "page": 4,
+        "source": "ocr",
+        "context": " TH BB\n\nSEO)\n\n错金铁尺\n\n彩绘陶贫\n\nPew\n\n性型 1式铜当卢\n"
+      },
+      {
+        "text": "彩绘",
+        "page": 7,
+        "source": "ocr",
+        "context": "\nBaa STF\n\nFea by AA\n彩绘陶盘的纹饰\n彩绘陶扒的纹饰\n彩绘陶盘的纹"
+      },
+      {
+        "text": "彩绘",
+        "page": 7,
+        "source": "ocr",
+        "context": "\n\nFea by AA\n彩绘陶盘的纹饰\n彩绘陶扒的纹饰\n彩绘陶盘的纹饰\nFEES W"
+      },
+      {
+        "text": "彩绘",
+        "page": 7,
+        "source": "ocr",
+        "context": " AA\n彩绘陶盘的纹饰\n彩绘陶扒的纹饰\n彩绘陶盘的纹饰\nFEES Wy REI De"
+      },
+      {
+        "text": "彩绘",
+        "page": 10,
+        "source": "ocr",
+        "context": "g Za Fg GT.\nGED Ba\n\n彩绘陶盆\n\nWag Sih ag aR Bg"
+      }
+    ],
+    "葬具": [
+      {
+        "text": "棺",
+        "page": 4,
+        "source": "ocr",
+        "context": "后的一号莫“爹缕玉衣?”\n1 型铀铺首和棺壁钢铺首\n乳]纹钢意\n\n8 WB\n\nEA"
+      }
+    ],
+    "遗址名称": [
+      {
+        "text": "满城",
+        "page": 5,
+        "source": "ocr",
+        "context": "图版目录\n\n满城陵山全景\n\n-号幕中室\n\n陵山上的附葬莫"
+      },
+      {
+        "text": "满城",
+        "page": 6,
+        "source": "ocr",
+        "context": "ha\n\n满城汉墓发掘报告\n\n三一 1 ee\nSi N"
+      },
+      {
+        "text": "汉墓",
+        "page": 6,
+        "source": "ocr",
+        "context": "ha\n\n满城汉墓发掘报告\n\n三一 1 ee\nSi NW "
+      }
+    ],
+    "玉器": [
+      {
+        "text": "玉饰",
+        "page": 6,
+        "source": "ocr",
+        "context": "LR. 1 RRR\nFAY 工型铁剑及其玉饰\nFie REVAL ER 2\nAY P"
+      },
+      {
+        "text": "玉环",
+        "page": 7,
+        "source": "ocr",
+        "context": "BUS\n\nI EE\n\n12 Ee\n玉壁和玉环\n\nEE\n\na. EF AR\n“ERA "
+      }
+    ],
+    "铁器": [
+      {
+        "text": "铁剑",
+        "page": 6,
+        "source": "ocr",
+        "context": "\nA= LR. 1 RRR\nFAY 工型铁剑及其玉饰\nFie REVAL ER 2\n"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "F225",
+        "page": 7,
+        "source": "ocr",
+        "context": "hY BE\n\nSy RA, Ay 2\n\nF225 Way FRY\nBaa STF\n\nFe"
+      }
+    ]
+  }
+}

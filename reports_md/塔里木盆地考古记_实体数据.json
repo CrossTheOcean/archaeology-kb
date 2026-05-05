@@ -1,0 +1,75 @@
+{
+  "name": "塔里木盆地考古记",
+  "file": "塔里木盆地考古记.pdf",
+  "era": "汉唐",
+  "culture": "丝绸之路",
+  "processed_pages": 15,
+  "total_entities": 7,
+  "entity_stats": {
+    "遗址名称": 1,
+    "陶器": 1,
+    "铜器": 1,
+    "木器": 1,
+    "年代": 1,
+    "遗迹编号": 1,
+    "测量数据": 1
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "塔里木",
+        "page": 3,
+        "source": "ocr",
+        "context": " fy BAe Til\ny Ra =\n\n塔里木盆地考古记\n\nee    x    iG"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "盆",
+        "page": 3,
+        "source": "ocr",
+        "context": " BAe Til\ny Ra =\n\n塔里木盆地考古记\n\nee    x    iG\n"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "盆",
+        "page": 3,
+        "source": "ocr",
+        "context": " BAe Til\ny Ra =\n\n塔里木盆地考古记\n\nee    x    iG\n"
+      }
+    ],
+    "木器": [
+      {
+        "text": "木盆",
+        "page": 3,
+        "source": "ocr",
+        "context": "y BAe Til\ny Ra =\n\n塔里木盆地考古记\n\nee    x    iG\n"
+      }
+    ],
+    "年代": [
+      {
+        "text": "明",
+        "page": 3,
+        "source": "ocr",
+        "context": "8 生 4月第一-次闭姑|       明林 : 787% 1092 I/16\n\n"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "G2",
+        "page": 9,
+        "source": "ocr",
+        "context": "Ks\nHORE BR\naX Gu ue G2 EE IK\nHA mae e\nie t"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": "2m",
+        "page": 9,
+        "source": "ocr",
+        "context": "e e\nie tke\n\n(Em -)\n(2me\" sn)\n\n(2 sche\" 4)\n"
+      }
+    ]
+  }
+}

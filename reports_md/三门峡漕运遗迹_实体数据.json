@@ -1,0 +1,369 @@
+{
+  "name": "三门峡漕运遗迹",
+  "file": "三门峡漕运遗迹.pdf",
+  "era": "汉-明清",
+  "culture": "漕运",
+  "processed_pages": 15,
+  "total_entities": 55,
+  "entity_stats": {
+    "遗迹编号": 8,
+    "年代": 15,
+    "遗址名称": 8,
+    "遗迹类型": 1,
+    "陶器": 1,
+    "铜器": 1,
+    "探方编号": 7,
+    "测量数据": 13,
+    "建筑结构": 1
+  },
+  "entities": {
+    "遗迹编号": [
+      {
+        "text": "F4",
+        "page": 2,
+        "source": "ocr",
+        "context": "\n考古 学专弄\n\nTOMB AK\n\nZ F4 ok 1G EA oh\n\n(黄河水库考"
+      },
+      {
+        "text": "P4",
+        "page": 3,
+        "source": "ocr",
+        "context": "考 古 学 专刊\n\n丁种第八号\n\nZz P4 ok eA\n\n(RAKES RHEL)"
+      },
+      {
+        "text": "T2",
+        "page": 12,
+        "source": "ocr",
+        "context": "R A VIER TL, A VIBE T2, A VIBE T3, AVE T+,"
+      },
+      {
+        "text": "T3",
+        "page": 12,
+        "source": "ocr",
+        "context": ", A VIBE T2, A VIBE T3, AVE T+, AVE\nERTS, "
+      },
+      {
+        "text": "T7",
+        "page": 12,
+        "source": "ocr",
+        "context": "RTS, AVIBETO. AVIPE T7, AVIBE TS, AVIBET9,"
+      },
+      {
+        "text": "T3",
+        "page": 12,
+        "source": "ocr",
+        "context": "9, A VIBE TIL, AVES T3, BA\nT2、开东 T3 (参见下文“"
+      },
+      {
+        "text": "T2",
+        "page": 12,
+        "source": "ocr",
+        "context": "BE TIL, AVES T3, BA\nT2、开东 T3 (参见下文“摩庚题列与碑记"
+      },
+      {
+        "text": "T3",
+        "page": 12,
+        "source": "ocr",
+        "context": ", AVES T3, BA\nT2、开东 T3 (参见下文“摩庚题列与碑记”)。 另外"
+      }
+    ],
+    "年代": [
+      {
+        "text": "元",
+        "page": 4,
+        "source": "ocr",
+        "context": ".50 玫\noa ah AS 3.30 元\n"
+      },
+      {
+        "text": "元",
+        "page": 5,
+        "source": "ocr",
+        "context": ". APY BEE AE EL\n2. 开元新河南岩摩岩题刻\n3. i PY ts "
+      },
+      {
+        "text": "宋",
+        "page": 6,
+        "source": "ocr",
+        "context": "Ss 峡 Wf £ a Mm\n\n4. 北宋以后\n\n"
+      },
+      {
+        "text": "元",
+        "page": 7,
+        "source": "ocr",
+        "context": "T HE ETE\nAe aa ek\n\n开元新河南.北端出大口及中段\n开元新河及其东"
+      },
+      {
+        "text": "元",
+        "page": 7,
+        "source": "ocr",
+        "context": "ek\n\n开元新河南.北端出大口及中段\n开元新河及其东鲜楼道\n\n一证一\n"
+      },
+      {
+        "text": "元",
+        "page": 8,
+        "source": "ocr",
+        "context": "AR MICpUDORER\n2th ”开元新河东上岸题记\nAM: REMAR R "
+      },
+      {
+        "text": "元",
+        "page": 9,
+        "source": "ocr",
+        "context": "NMSEHL T RBS AB TL\n开元新河基址工平面图…\nEASE LLPE "
+      },
+      {
+        "text": "元",
+        "page": 10,
+        "source": "ocr",
+        "context": "\nAPES MI BEE J BEN\n开元新河西岸摩岩题记\n\nBALTES Me "
+      },
+      {
+        "text": "唐",
+        "page": 11,
+        "source": "ocr",
+        "context": "岛原来与河岸相连，\n是富岛的形状,只是在唐代开难了开元新河后才和鬼、种二岛一样,孤"
+      },
+      {
+        "text": "元",
+        "page": 11,
+        "source": "ocr",
+        "context": "相连，\n是富岛的形状,只是在唐代开难了开元新河后才和鬼、种二岛一样,孤立论河心。 "
+      },
+      {
+        "text": "元",
+        "page": 11,
+        "source": "ocr",
+        "context": "后才和鬼、种二岛一样,孤立论河心。 在开元\n新河没有开整以前,鬼、种二岛冰列河心,"
+      },
+      {
+        "text": "明",
+        "page": 11,
+        "source": "ocr",
+        "context": "R ir\n俊超二人在此找到和平、甘露,景明\\真砚、狗章、垂拱,政和\\典定等年代的摩"
+      },
+      {
+        "text": "元",
+        "page": 12,
+        "source": "ocr",
+        "context": "佛经碎裂。\n\n调查报告分篇“古模道\"“开元新河\"'北岸陆道与东西售址\"`、“摩岩题"
+      },
+      {
+        "text": "秦",
+        "page": 15,
+        "source": "ocr",
+        "context": "古\n\n是由於位置不当, 中途放秦而遗存下来(参见圆三、四)。\n\n人工段方"
+      },
+      {
+        "text": "三国",
+        "page": 15,
+        "source": "ocr",
+        "context": "意图(图六)。水:         记载三国时期认任楼\n\n|一径一|\n\nTTR   "
+      }
+    ],
+    "遗址名称": [
+      {
+        "text": "北朝",
+        "page": 5,
+        "source": "ocr",
+        "context": "和  62\n\n1 地名治草\n2. 西江下北朝\n\n"
+      },
+      {
+        "text": "三门峡",
+        "page": 9,
+        "source": "ocr",
+        "context": "OE lil |\n\nke\nvas\n七\n\n三门峡形势图\n牛鼻形壁孔度量办法\n方形壁孔与底"
+      },
+      {
+        "text": "三门峡",
+        "page": 11,
+        "source": "ocr",
+        "context": "前  5\n\n三门峡是黄河在河南陕县县城下游二十多公里的地方"
+      },
+      {
+        "text": "陕县",
+        "page": 11,
+        "source": "ocr",
+        "context": "前  5\n\n三门峡是黄河在河南陕县县城下游二十多公里的地方。黄河自潼关以东"
+      },
+      {
+        "text": "三门峡",
+        "page": 11,
+        "source": "ocr",
+        "context": "孟津的一\n段,两岸来山,是峡谷的形势。到三门峡,由於茶硬的岩层暴露在地层表面,黄河中然"
+      },
+      {
+        "text": "三门峡",
+        "page": 11,
+        "source": "ocr",
+        "context": "做模型等记多工作; 其中测给工作是在黄河三门峡工\n程局王文托、王万能、张延正协助下完成"
+      },
+      {
+        "text": "三门峡",
+        "page": 11,
+        "source": "ocr",
+        "context": " 日 ,王极庆、王其\n腾、俞伟超三人重至三门峡补摄一些照片,下调查了北岸的下盒 ,龙岩"
+      },
+      {
+        "text": "北朝",
+        "page": 15,
+        "source": "ocr",
+        "context": "的辕构。\n\n此外,在楼道侧壁上还有大狗是北朝时期的题名刻字一段。 过种侧壁上的石记题"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "基址",
+        "page": 9,
+        "source": "ocr",
+        "context": "EHL T RBS AB TL\n开元新河基址工平面图…\nEASE LLPE IL ("
+      }
+    ],
+    "陶器": [
+      {
+        "text": "盘",
+        "page": 11,
+        "source": "ocr",
+        "context": "AT AGS PE TAT AES | 盘次工作从 1956 年1月9日起至2\n月"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "盘",
+        "page": 11,
+        "source": "ocr",
+        "context": "AT AGS PE TAT AES | 盘次工作从 1956 年1月9日起至2\n月"
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T2",
+        "page": 12,
+        "source": "ocr",
+        "context": "R A VIER TL, A VIBE T2, A VIBE T3, AVE T+,"
+      },
+      {
+        "text": "T3",
+        "page": 12,
+        "source": "ocr",
+        "context": ", A VIBE T2, A VIBE T3, AVE T+, AVE\nERTS, "
+      },
+      {
+        "text": "T7",
+        "page": 12,
+        "source": "ocr",
+        "context": "RTS, AVIBETO. AVIPE T7, AVIBE TS, AVIBET9,"
+      },
+      {
+        "text": "T9",
+        "page": 12,
+        "source": "ocr",
+        "context": " T7, AVIBE TS, AVIBET9, A VIBE TIL, AVES T"
+      },
+      {
+        "text": "T3",
+        "page": 12,
+        "source": "ocr",
+        "context": "9, A VIBE TIL, AVES T3, BA\nT2、开东 T3 (参见下文“"
+      },
+      {
+        "text": "T2",
+        "page": 12,
+        "source": "ocr",
+        "context": "BE TIL, AVES T3, BA\nT2、开东 T3 (参见下文“摩庚题列与碑记"
+      },
+      {
+        "text": "T3",
+        "page": 12,
+        "source": "ocr",
+        "context": ", AVES T3, BA\nT2、开东 T3 (参见下文“摩庚题列与碑记”)。 另外"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": "长 625 米",
+        "page": 13,
+        "source": "ocr",
+        "context": "SE AMAZE , BT STR\n地延长 625 米左右。人门岛一带河岸的高程在 283一2"
+      },
+      {
+        "text": "298 米",
+        "page": 13,
+        "source": "ocr",
+        "context": "米左右。人门岛一带河岸的高程在 283一298 米之间(用黄河流域规划委员会\n1955 年"
+      },
+      {
+        "text": "287 米",
+        "page": 13,
+        "source": "ocr",
+        "context": "EE EGS is EEE\n282.7一287 米之间,平日露出认河面上, SEEDERS"
+      },
+      {
+        "text": " 282 米",
+        "page": 13,
+        "source": "ocr",
+        "context": "河岸与水面的距只, 假如以秋季的\n水面在 282 米左右篇标准;过 10 BOK, BRD "
+      },
+      {
+        "text": " 418 米",
+        "page": 13,
+        "source": "ocr",
+        "context": "PERE MIAH ACT BRE BA 418 米。 底部难得很平, 高程篇 284.5一"
+      },
+      {
+        "text": "\n284.8 米",
+        "page": 13,
+        "source": "ocr",
+        "context": "。 底部难得很平, 高程篇 284.5一\n284.8 米: 实度需 0.2—2 KI, 一般在 "
+      },
+      {
+        "text": " 1.2 米",
+        "page": 13,
+        "source": "ocr",
+        "context": "米: 实度需 0.2—2 KI, 一般在 1.2 米左右;寅度仅 20 厘米的地方大概是由於"
+      },
+      {
+        "text": " 20 厘米",
+        "page": 13,
+        "source": "ocr",
+        "context": " KI, 一般在 1.2 米左右;寅度仅 20 厘米的地方大概是由於一部\nSPRUE AEE"
+      },
+      {
+        "text": " 2.5 米",
+        "page": 13,
+        "source": "ocr",
+        "context": " TAME I, 它和楼道底的距克一般在 2.5 米\n\n(1) BASS OR ER ANH"
+      },
+      {
+        "text": "11米",
+        "page": 14,
+        "source": "ocr",
+        "context": "\nBHM 12k, FILA BS\n3一11米。 当时可能是在各孔间\nHRSA, RE"
+      },
+      {
+        "text": " 2 米",
+        "page": 14,
+        "source": "ocr",
+        "context": "会轻易转\n\nDh, SALVE ARTE 2 米左右, AE RE Hee PE ED\n"
+      },
+      {
+        "text": "37米",
+        "page": 14,
+        "source": "ocr",
+        "context": "\nAhTHoFL 1 HLFL 2, 篇37米。\n\nAPR E PERS LR EA "
+      },
+      {
+        "text": " 30 厘米",
+        "page": 15,
+        "source": "ocr",
+        "context": "16。\n\n对正底孔 18。\n\n高出楼道研 30 厘米。\n示警完,见图版到,2。\n\n全段共 1"
+      }
+    ],
+    "建筑结构": [
+      {
+        "text": "台阶",
+        "page": 14,
+        "source": "ocr",
+        "context": "1,2, 3).\n一部分地方杰首好似一级台阶,没县项,过是由於当地河岸微呈\nSET "
+      }
+    ]
+  }
+}

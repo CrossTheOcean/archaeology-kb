@@ -1,0 +1,1137 @@
+{
+  "name": "元君庙仰韶墓地",
+  "file": "元君庙仰韶墓地.pdf",
+  "era": "新石器",
+  "culture": "仰韶文化",
+  "processed_pages": 14,
+  "total_entities": 182,
+  "entity_stats": {
+    "年代": 52,
+    "遗存类型": 4,
+    "探方编号": 60,
+    "遗迹编号": 42,
+    "铜器": 2,
+    "遗址名称": 10,
+    "测量数据": 4,
+    "陶器": 1,
+    "遗迹类型": 2,
+    "层位关系": 3,
+    "土样特征": 2
+  },
+  "entities": {
+    "年代": [
+      {
+        "text": "元",
+        "page": 4,
+        "source": "ocr",
+        "context": "27\n\n  。 10 定价(站)8。50元\n统一书号，11068.1102 定价("
+      },
+      {
+        "text": "元",
+        "page": 5,
+        "source": "ocr",
+        "context": "内容简介\n\n本书介绍陕西华兵境内元蕉唐仰毅文化半坡关型莫地及全部幕葛的情况"
+      },
+      {
+        "text": "唐",
+        "page": 5,
+        "source": "ocr",
+        "context": "内容简介\n\n本书介绍陕西华兵境内元蕉唐仰毅文化半坡关型莫地及全部幕葛的情况。对"
+      },
+      {
+        "text": "半坡类型",
+        "page": 5,
+        "source": "ocr",
+        "context": "习俗，及其所反映的社会制度，对仰胡文化“半坡类型” 的\n分期及其起源与演变对当时居民年龄"
+      },
+      {
+        "text": "明",
+        "page": 6,
+        "source": "ocr",
+        "context": "em\n\ne+ (52)\n\n一、莫地布局说明存在着氏族一部落…\n"
+      },
+      {
+        "text": "元",
+        "page": 7,
+        "source": "ocr",
+        "context": "                    元君店仰韶莫地\n\n三、家族、氏族、部落的社"
+      },
+      {
+        "text": "新石器时代",
+        "page": 7,
+        "source": "ocr",
+        "context": " oro nen ene\n附录四 “华呈新石器时代人骨的研究 coor          "
+      },
+      {
+        "text": "元",
+        "page": 8,
+        "source": "ocr",
+        "context": "             we (6)\n元君店仰帮莫地陶器分期图…        "
+      },
+      {
+        "text": "元",
+        "page": 8,
+        "source": "ocr",
+        "context": "6)\n\n陶水器及器盖…\n仰痢文化此坡类型元君让妇女装饰…，\nT413地晨痢面图\nM"
+      },
+      {
+        "text": "元",
+        "page": 10,
+        "source": "ocr",
+        "context": " BMI 37 BEE HRV CS)\n元君应墓地部分莫非排列情况 CPD\nTOA"
+      },
+      {
+        "text": "元",
+        "page": 10,
+        "source": "ocr",
+        "context": "\nTOE i EH 425 Be HE\n元君庙草地428号幕莫\n"
+      },
+      {
+        "text": "元",
+        "page": 11,
+        "source": "ocr",
+        "context": "3 SEH\nM443、444随其器物\n\n元君唐莫地445号莫莫\n\n图版四一“M44"
+      },
+      {
+        "text": "唐",
+        "page": 11,
+        "source": "ocr",
+        "context": "SEH\nM443、444随其器物\n\n元君唐莫地445号莫莫\n\n图版四一“M445、"
+      },
+      {
+        "text": "元",
+        "page": 11,
+        "source": "ocr",
+        "context": "“M445、449随苦隐器\n\n图版四二“元阁庙幕地448号幕葛\n\n图版四三”元阁庙"
+      },
+      {
+        "text": "元",
+        "page": 11,
+        "source": "ocr",
+        "context": "二“元阁庙幕地448号幕葛\n\n图版四三”元阁庙幕地449号莫大\n\n图版四四“元君让"
+      },
+      {
+        "text": "元",
+        "page": 11,
+        "source": "ocr",
+        "context": "三”元阁庙幕地449号莫大\n\n图版四四“元君让基地453号基旨\n\n版四五 M448"
+      },
+      {
+        "text": "元",
+        "page": 11,
+        "source": "ocr",
+        "context": "E Hh 458-5 HE\n\n图版五二”元君店幕地457号募厌\nFR G= M44"
+      },
+      {
+        "text": "元",
+        "page": 12,
+        "source": "ocr",
+        "context": "进行了考古调查、试扎和大规模的发掘工作。元君让的发气，\n是华县队重点工作之一。\n\n"
+      },
+      {
+        "text": "元",
+        "page": 12,
+        "source": "ocr",
+        "context": "君让的发气，\n是华县队重点工作之一。\n\n元君让早已落废被辟为耕地。这里是一不太高的"
+      },
+      {
+        "text": "秦",
+        "page": 12,
+        "source": "ocr",
+        "context": "距泉护村 1 公里。其西50米处，是源于秦岭、北流注人渭水的沟峪河〈图一) 。在\n"
+      },
+      {
+        "text": "元",
+        "page": 12,
+        "source": "ocr",
+        "context": "岭、北流注人渭水的沟峪河〈图一) 。在\n元君店废娘之下，存在一仰韶文化“半坡类型”"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 12,
+        "source": "ocr",
+        "context": "河〈图一) 。在\n元君店废娘之下，存在一仰韶文化“半坡类型”墓地及其它古代文化遗存。\n\n"
+      },
+      {
+        "text": "半坡类型",
+        "page": 12,
+        "source": "ocr",
+        "context": " 。在\n元君店废娘之下，存在一仰韶文化“半坡类型”墓地及其它古代文化遗存。\n\n发掘工作从"
+      },
+      {
+        "text": "半坡类型",
+        "page": 12,
+        "source": "ocr",
+        "context": "米。揭露了一处基本上保存完整的仰部文化“半坡类型” 幕地，并在其北面探气了同\n时期的遗址"
+      },
+      {
+        "text": "元",
+        "page": 12,
+        "source": "ocr",
+        "context": "座文化年代上同于东干沟、二里头的蔓\n苦。元君庙的发据，对了解仰韶文化“半域类型” "
+      },
+      {
+        "text": "仰韶文化",
+        "page": 12,
+        "source": "ocr",
+        "context": "沟、二里头的蔓\n苦。元君庙的发据，对了解仰韶文化“半域类型” 的埋草风俗和墓丝形制及其反"
+      },
+      {
+        "text": "半坡类型",
+        "page": 12,
+        "source": "ocr",
+        "context": "系统的新资料，为确定“老富台文化”早于“半坡类型”提出了地层根\n据，又为东干沟一类文化遗"
+      },
+      {
+        "text": "元",
+        "page": 12,
+        "source": "ocr",
+        "context": "类文化遗存的分布发现了新线索。\n\n图一“元君店仰韶摹地位置示意图\n"
+      },
+      {
+        "text": "明",
+        "page": 13,
+        "source": "ocr",
+        "context": "     FE DUM AG DH\n\n高明、杨建劳、张忠培和1954级部分同学参加"
+      },
+      {
+        "text": "元",
+        "page": 13,
+        "source": "ocr",
+        "context": "任惠民,张永洗等在工地进行的,并写出了《元吾庙仰冯莫非人骨年龄性别鉴定》。\n昌尊评"
+      },
+      {
+        "text": "新石器时代",
+        "page": 13,
+        "source": "ocr",
+        "context": "骨。颜问先生对人骨作了种族鉴定,所写华县新石器时代人骨的研究》\n一文，已发表于《注古学报》"
+      },
+      {
+        "text": "元",
+        "page": 13,
+        "source": "ocr",
+        "context": "表的文章未引用) ，并上1973年写了《元君店仰帮居民的健康状\n况》。宿白教授俭校"
+      },
+      {
+        "text": "明",
+        "page": 13,
+        "source": "ocr",
+        "context": "衡、吕遵订、俞伟超、杨建芳、才仰恰、\n高明、严文明、李志义、夏超雄、李伯谦参加了本"
+      },
+      {
+        "text": "明",
+        "page": 13,
+        "source": "ocr",
+        "context": "订、俞伟超、杨建芳、才仰恰、\n高明、严文明、李志义、夏超雄、李伯谦参加了本报告的讨"
+      },
+      {
+        "text": "明",
+        "page": 14,
+        "source": "ocr",
+        "context": "401、T415中都未见墓着。\n\n为了查明T402、T403及T404西面是否存在"
+      },
+      {
+        "text": "明",
+        "page": 14,
+        "source": "ocr",
+        "context": "地的形成年代熟时吕晚，发\n据资料还难以说明。但从现在这种地势看米，似乎是可以确定不"
+      },
+      {
+        "text": "元",
+        "page": 14,
+        "source": "ocr",
+        "context": "可以肯定M401一M405及M411当是元君唐仰前墓地的西界。\n\n另外，在发据区的"
+      },
+      {
+        "text": "唐",
+        "page": 14,
+        "source": "ocr",
+        "context": "肯定M401一M405及M411当是元君唐仰前墓地的西界。\n\n另外，在发据区的北面"
+      },
+      {
+        "text": "清",
+        "page": 14,
+        "source": "ocr",
+        "context": "，却分布着七个灰坑， 其 中 五个\n已被清理发据。根据其内涵，可以断定H403、H"
+      },
+      {
+        "text": "元",
+        "page": 15,
+        "source": "ocr",
+        "context": "                    元君着仰韶墓地\n\n又因T404、T407、"
+      },
+      {
+        "text": "元",
+        "page": 15,
+        "source": "ocr",
+        "context": "4A和T415所在的绝大部分 地\n方，是元君庙幕地和居住地之间的中间地带。而现今揭"
+      },
+      {
+        "text": "元",
+        "page": 15,
+        "source": "ocr",
+        "context": "28、M426及M411所在的位置，当是元君唐莫地的北端。\n\n元君唐莫地的南部范围"
+      },
+      {
+        "text": "唐",
+        "page": 15,
+        "source": "ocr",
+        "context": "、M426及M411所在的位置，当是元君唐莫地的北端。\n\n元君唐莫地的南部范围，则"
+      },
+      {
+        "text": "元",
+        "page": 15,
+        "source": "ocr",
+        "context": "1所在的位置，当是元君唐莫地的北端。\n\n元君唐莫地的南部范围，则可从两方面说明:\n"
+      },
+      {
+        "text": "唐",
+        "page": 15,
+        "source": "ocr",
+        "context": "在的位置，当是元君唐莫地的北端。\n\n元君唐莫地的南部范围，则可从两方面说明:\n\n("
+      },
+      {
+        "text": "明",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n\n元君唐莫地的南部范围，则可从两方面说明:\n\n(一) 西半部，T402南端及T4"
+      },
+      {
+        "text": "明",
+        "page": 15,
+        "source": "ocr",
+        "context": "据上述状况及该莫地花草的分布规律，可以说明其\n南当不会再有基幕。\n\n(二) 东半部"
+      },
+      {
+        "text": "明",
+        "page": 15,
+        "source": "ocr",
+        "context": "南界，然而离幕地边缘也当不远。\n\n为了查明元君趾莫地的东部边界，在T411之东，开"
+      },
+      {
+        "text": "元",
+        "page": 15,
+        "source": "ocr",
+        "context": "界，然而离幕地边缘也当不远。\n\n为了查明元君趾莫地的东部边界，在T411之东，开了"
+      },
+      {
+        "text": "元",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n在发现的分布在东面的诸座莫苦，可肯定是元君店幕地东部的边界。\n\n综合上述，可以认"
+      },
+      {
+        "text": "元",
+        "page": 15,
+        "source": "ocr",
+        "context": "店幕地东部的边界。\n\n综合上述，可以认为元着唐墓地己几乎整个地被揭示出来了，所占面"
+      },
+      {
+        "text": "唐",
+        "page": 15,
+        "source": "ocr",
+        "context": "地东部的边界。\n\n综合上述，可以认为元着唐墓地己几乎整个地被揭示出来了，所占面积约"
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "人骨",
+        "page": 7,
+        "source": "ocr",
+        "context": "nen ene\n附录四 “华呈新石器时代人骨的研究 coor            "
+      },
+      {
+        "text": "人骨",
+        "page": 13,
+        "source": "ocr",
+        "context": "等在工地进行的,并写出了《元吾庙仰冯莫非人骨年龄性别鉴定》。\n昌尊评鉴定了普骨。颜问"
+      },
+      {
+        "text": "人骨",
+        "page": 13,
+        "source": "ocr",
+        "context": "别鉴定》。\n昌尊评鉴定了普骨。颜问先生对人骨作了种族鉴定,所写华县新石器时代人骨的研"
+      },
+      {
+        "text": "人骨",
+        "page": 13,
+        "source": "ocr",
+        "context": "生对人骨作了种族鉴定,所写华县新石器时代人骨的研究》\n一文，已发表于《注古学报》19"
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T413",
+        "page": 8,
+        "source": "ocr",
+        "context": "…\n仰痢文化此坡类型元君让妇女装饰…，\nT413地晨痢面图\nM413、M451 tH -"
+      },
+      {
+        "text": "T402",
+        "page": 14,
+        "source": "ocr",
+        "context": "M41 LA RE\n分布在募地西面，处于T402、T403及T404 CHS x 10平"
+      },
+      {
+        "text": "T403",
+        "page": 14,
+        "source": "ocr",
+        "context": "A RE\n分布在募地西面，处于T402、T403及T404 CHS x 10平方米) 的"
+      },
+      {
+        "text": "T404",
+        "page": 14,
+        "source": "ocr",
+        "context": "分布在募地西面，处于T402、T403及T404 CHS x 10平方米) 的东部，而在"
+      },
+      {
+        "text": "T401",
+        "page": 14,
+        "source": "ocr",
+        "context": "米) 的东部，而在这三个 探\n方的南、北T401、T415中都未见墓着。\n\n为了查明T4"
+      },
+      {
+        "text": "T415",
+        "page": 14,
+        "source": "ocr",
+        "context": "部，而在这三个 探\n方的南、北T401、T415中都未见墓着。\n\n为了查明T402、T4"
+      },
+      {
+        "text": "T402",
+        "page": 14,
+        "source": "ocr",
+        "context": "01、T415中都未见墓着。\n\n为了查明T402、T403及T404西面是否存在草药，根"
+      },
+      {
+        "text": "T403",
+        "page": 14,
+        "source": "ocr",
+        "context": "15中都未见墓着。\n\n为了查明T402、T403及T404西面是否存在草药，根据该莫大南"
+      },
+      {
+        "text": "T404",
+        "page": 14,
+        "source": "ocr",
+        "context": "见墓着。\n\n为了查明T402、T403及T404西面是否存在草药，根据该莫大南北成排、 "
+      },
+      {
+        "text": "T402",
+        "page": 14,
+        "source": "ocr",
+        "context": "间距较\n近的分布规律，在M402之西紧接T402的好方,开搁-一南北宽2 、东西长 7 "
+      },
+      {
+        "text": "T402A",
+        "page": 14,
+        "source": "ocr",
+        "context": "北宽2 、东西长 7 米的探方〈编\n号为T402A)，亦未发现幕莫。在T402A西约?米处"
+      },
+      {
+        "text": "T402A",
+        "page": 14,
+        "source": "ocr",
+        "context": "〈编\n号为T402A)，亦未发现幕莫。在T402A西约?米处，为一南北向的低窄小溪。 T4"
+      },
+      {
+        "text": "T401",
+        "page": 14,
+        "source": "ocr",
+        "context": "2A西约?米处，为一南北向的低窄小溪。 T401—-T\n404及T415以西，地势逐渐低"
+      },
+      {
+        "text": "T415",
+        "page": 14,
+        "source": "ocr",
+        "context": "向的低窄小溪。 T401—-T\n404及T415以西，地势逐渐低下，与此小溪相接。小误和"
+      },
+      {
+        "text": "T414",
+        "page": 14,
+        "source": "ocr",
+        "context": "面，我们了解到以于的情况:\n\n(一) 在T414、T414A和T415三个探方内，除M4"
+      },
+      {
+        "text": "T414A",
+        "page": 14,
+        "source": "ocr",
+        "context": "解到以于的情况:\n\n(一) 在T414、T414A和T415三个探方内，除M457稍稍仲人"
+      },
+      {
+        "text": "T415",
+        "page": 14,
+        "source": "ocr",
+        "context": "况:\n\n(一) 在T414、T414A和T415三个探方内，除M457稍稍仲人T414及"
+      },
+      {
+        "text": "T414",
+        "page": 14,
+        "source": "ocr",
+        "context": "和T415三个探方内，除M457稍稍仲人T414及T414A外，并\nREAMRER.\n\n"
+      },
+      {
+        "text": "T414A",
+        "page": 14,
+        "source": "ocr",
+        "context": "三个探方内，除M457稍稍仲人T414及T414A外，并\nREAMRER.\n\n(=) 在上"
+      },
+      {
+        "text": "T412",
+        "page": 14,
+        "source": "ocr",
+        "context": "ER.\n\n(=) 在上述三个探方南伍的 T412、T407及T404 的北部相当大的面积"
+      },
+      {
+        "text": "T407",
+        "page": 14,
+        "source": "ocr",
+        "context": "(=) 在上述三个探方南伍的 T412、T407及T404 的北部相当大的面积内，也都未"
+      },
+      {
+        "text": "T404",
+        "page": 14,
+        "source": "ocr",
+        "context": "上述三个探方南伍的 T412、T407及T404 的北部相当大的面积内，也都未\nRH.\n"
+      },
+      {
+        "text": "T407",
+        "page": 14,
+        "source": "ocr",
+        "context": "积内，也都未\nRH.\n\n(=) 相反，在T407、T414及T414A三个探方内，却分布"
+      },
+      {
+        "text": "T414",
+        "page": 14,
+        "source": "ocr",
+        "context": "未\nRH.\n\n(=) 相反，在T407、T414及T414A三个探方内，却分布着七个灰坑"
+      },
+      {
+        "text": "T414A",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n\n(=) 相反，在T407、T414及T414A三个探方内，却分布着七个灰坑， 其 中 "
+      },
+      {
+        "text": "T414",
+        "page": 14,
+        "source": "ocr",
+        "context": "04则与幕地文化性质相同。\n\n〈四) 在T414东北约50米的地方，是T413。这里发现"
+      },
+      {
+        "text": "T413",
+        "page": 14,
+        "source": "ocr",
+        "context": "〈四) 在T414东北约50米的地方，是T413。这里发现了和幕地文化人性质相同 的 地"
+      },
+      {
+        "text": "T404",
+        "page": 15,
+        "source": "ocr",
+        "context": "         元君着仰韶墓地\n\n又因T404、T407、T412、T414、T414"
+      },
+      {
+        "text": "T407",
+        "page": 15,
+        "source": "ocr",
+        "context": "    元君着仰韶墓地\n\n又因T404、T407、T412、T414、T414A及T41"
+      },
+      {
+        "text": "T412",
+        "page": 15,
+        "source": "ocr",
+        "context": "君着仰韶墓地\n\n又因T404、T407、T412、T414、T414A及T415缺乏与幕"
+      },
+      {
+        "text": "T414",
+        "page": 15,
+        "source": "ocr",
+        "context": "地\n\n又因T404、T407、T412、T414、T414A及T415缺乏与幕地同时的文"
+      },
+      {
+        "text": "T414A",
+        "page": 15,
+        "source": "ocr",
+        "context": "T404、T407、T412、T414、T414A及T415缺乏与幕地同时的文化层堆积、可"
+      },
+      {
+        "text": "T415",
+        "page": 15,
+        "source": "ocr",
+        "context": "407、T412、T414、T414A及T415缺乏与幕地同时的文化层堆积、可 知这\n里"
+      },
+      {
+        "text": "T407",
+        "page": 15,
+        "source": "ocr",
+        "context": "知这\n里当不是集中的居住地区。\n\n总之，T407、T412及T404之北半部，以及T41"
+      },
+      {
+        "text": "T412",
+        "page": 15,
+        "source": "ocr",
+        "context": "不是集中的居住地区。\n\n总之，T407、T412及T404之北半部，以及T414、T41"
+      },
+      {
+        "text": "T404",
+        "page": 15,
+        "source": "ocr",
+        "context": "居住地区。\n\n总之，T407、T412及T404之北半部，以及T414、T414A和T4"
+      },
+      {
+        "text": "T414",
+        "page": 15,
+        "source": "ocr",
+        "context": "407、T412及T404之北半部，以及T414、T414A和T415所在的绝大部分 地"
+      },
+      {
+        "text": "T414A",
+        "page": 15,
+        "source": "ocr",
+        "context": "412及T404之北半部，以及T414、T414A和T415所在的绝大部分 地\n方，是元君"
+      },
+      {
+        "text": "T415",
+        "page": 15,
+        "source": "ocr",
+        "context": "04之北半部，以及T414、T414A和T415所在的绝大部分 地\n方，是元君庙幕地和居"
+      },
+      {
+        "text": "T402",
+        "page": 15,
+        "source": "ocr",
+        "context": "，则可从两方面说明:\n\n(一) 西半部，T402南端及T401都设有发现幕莽。T402东"
+      },
+      {
+        "text": "T401",
+        "page": 15,
+        "source": "ocr",
+        "context": "说明:\n\n(一) 西半部，T402南端及T401都设有发现幕莽。T402东面的T405以"
+      },
+      {
+        "text": "T402",
+        "page": 15,
+        "source": "ocr",
+        "context": "，T402南端及T401都设有发现幕莽。T402东面的T405以南部 分，除\nM418外"
+      },
+      {
+        "text": "T405",
+        "page": 15,
+        "source": "ocr",
+        "context": "及T401都设有发现幕莽。T402东面的T405以南部 分，除\nM418外，也未见墓葬。"
+      },
+      {
+        "text": "T405",
+        "page": 15,
+        "source": "ocr",
+        "context": "南部 分，除\nM418外，也未见墓葬。和T405西半部南壁相距4米的T408〈5 x 5"
+      },
+      {
+        "text": "T408",
+        "page": 15,
+        "source": "ocr",
+        "context": "未见墓葬。和T405西半部南壁相距4米的T408〈5 x 5平方米) 也未见到\n幕藉。虽"
+      },
+      {
+        "text": "T405",
+        "page": 15,
+        "source": "ocr",
+        "context": "方米) 也未见到\n幕藉。虽然M418位于T405的南端，根据上述状况及该莫地花草的分布规"
+      },
+      {
+        "text": "T409",
+        "page": 15,
+        "source": "ocr",
+        "context": "有基幕。\n\n(二) 东半部，这里最南头的T409是著闫较为集中的地方。其南未进行探据, "
+      },
+      {
+        "text": "T409",
+        "page": 15,
+        "source": "ocr",
+        "context": "进行探据, 故不\n能断言是否还有蔓产。在T409西南的T408未见幕项，或可估计T409"
+      },
+      {
+        "text": "T408",
+        "page": 15,
+        "source": "ocr",
+        "context": "不\n能断言是否还有蔓产。在T409西南的T408未见幕项，或可估计T409的南侧未发所部"
+      },
+      {
+        "text": "T409",
+        "page": 15,
+        "source": "ocr",
+        "context": "T409西南的T408未见幕项，或可估计T409的南侧未发所部 分\n也没有莫大。\n\n根据"
+      },
+      {
+        "text": "T411",
+        "page": 15,
+        "source": "ocr",
+        "context": "远。\n\n为了查明元君趾莫地的东部边界，在T411之东，开了一个T416〈5 x 10平方"
+      },
+      {
+        "text": "T416",
+        "page": 15,
+        "source": "ocr",
+        "context": "莫地的东部边界，在T411之东，开了一个T416〈5 x 10平方米)，\n证实这里也没有"
+      },
+      {
+        "text": "T411",
+        "page": 15,
+        "source": "ocr",
+        "context": " 10平方米)，\n证实这里也没有墓项，故T411之内的M455、M456、M458及M4"
+      },
+      {
+        "text": "T416",
+        "page": 15,
+        "source": "ocr",
+        "context": "458及M459当处在幕地的东绿。\n根据T416的情况，和T411平列的T409、T41"
+      },
+      {
+        "text": "T411",
+        "page": 15,
+        "source": "ocr",
+        "context": "处在幕地的东绿。\n根据T416的情况，和T411平列的T409、T410及T412以东，"
+      },
+      {
+        "text": "T409",
+        "page": 15,
+        "source": "ocr",
+        "context": "。\n根据T416的情况，和T411平列的T409、T410及T412以东，也当无莫非 分"
+      },
+      {
+        "text": "T410",
+        "page": 15,
+        "source": "ocr",
+        "context": "416的情况，和T411平列的T409、T410及T412以东，也当无莫非 分 布。这样"
+      },
+      {
+        "text": "T412",
+        "page": 15,
+        "source": "ocr",
+        "context": "况，和T411平列的T409、T410及T412以东，也当无莫非 分 布。这样，现\n在发"
+      },
+      {
+        "text": "T401",
+        "page": 15,
+        "source": "ocr",
+        "context": "结构简单，各探方内的情况则稍有区别。\n\nT401一T404四个探方，在耕土层之下，便是砂"
+      },
+      {
+        "text": "T404",
+        "page": 15,
+        "source": "ocr",
+        "context": "各探方内的情况则稍有区别。\n\nT401一T404四个探方，在耕土层之下，便是砂土层〈推测"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "M423",
+        "page": 8,
+        "source": "ocr",
+        "context": "               . 5)\nM423, 438, 460, 4612 9E "
+      },
+      {
+        "text": "M413",
+        "page": 8,
+        "source": "ocr",
+        "context": "元君让妇女装饰…，\nT413地晨痢面图\nM413、M451 tH - Mg 2 +\nM4"
+      },
+      {
+        "text": "M451",
+        "page": 8,
+        "source": "ocr",
+        "context": "装饰…，\nT413地晨痢面图\nM413、M451 tH - Mg 2 +\nM413平面图"
+      },
+      {
+        "text": "M425",
+        "page": 9,
+        "source": "ocr",
+        "context": "\n\nM453平面图\n\nMd iA 。\n\nM425 (A\nM420平面\nM455平面\nM4"
+      },
+      {
+        "text": "M431",
+        "page": 9,
+        "source": "ocr",
+        "context": "\nM429平面图\n\nBAA ”~\n\n+ M431 (22) SFE\n\n0 900 see"
+      },
+      {
+        "text": "M416",
+        "page": 9,
+        "source": "ocr",
+        "context": "410平面图\n\nMi411平面图 …\n\nM416 ti +\n\nM4175 jai\nM41"
+      },
+      {
+        "text": "M4175",
+        "page": 9,
+        "source": "ocr",
+        "context": "11平面图 …\n\nM416 ti +\n\nM4175 jai\nM419平面图\nM4395 i"
+      },
+      {
+        "text": "M4395",
+        "page": 9,
+        "source": "ocr",
+        "context": "\n\nM4175 jai\nM419平面图\nM4395 ij\n\nM442平而图\nM443平而图"
+      },
+      {
+        "text": "M4547",
+        "page": 9,
+        "source": "ocr",
+        "context": "图\nM448平面图…\n\nM449平面图\nM4547 ia\nM458 3E Bg\n\nM461"
+      },
+      {
+        "text": "M458",
+        "page": 9,
+        "source": "ocr",
+        "context": "…\n\nM449平面图\nM4547 ia\nM458 3E Bg\n\nM461平面图…\n\nM4"
+      },
+      {
+        "text": "M401",
+        "page": 10,
+        "source": "ocr",
+        "context": "\n\nFER PARE 405 SBE\n\nM401, 402, 405, 466RH3# "
+      },
+      {
+        "text": "M410",
+        "page": 10,
+        "source": "ocr",
+        "context": ", 405, 466RH3# 234)\nM410, 412, 422, 446, ，46"
+      },
+      {
+        "text": "M417",
+        "page": 10,
+        "source": "ocr",
+        "context": "413, 4690 36 Ry 2S\n\nM417, 418Ba3¢ 99 23\n\nTCE"
+      },
+      {
+        "text": "M420",
+        "page": 10,
+        "source": "ocr",
+        "context": "419BE SER\nM420及随葬器物\nM420 fii Se BH BE\n\nM423,"
+      },
+      {
+        "text": "M423",
+        "page": 10,
+        "source": "ocr",
+        "context": "\nM420 fii Se BH BE\n\nM423, 438, 460, 461 REE "
+      },
+      {
+        "text": "M424",
+        "page": 10,
+        "source": "ocr",
+        "context": " 460, 461 REE By 28\nM424, 430, 471 RG 3E0y 2"
+      },
+      {
+        "text": "M425",
+        "page": 11,
+        "source": "ocr",
+        "context": "            ARM BB\n\nM425, 428RK #28 ty\n\nM4 3"
+      },
+      {
+        "text": "M4",
+        "page": 11,
+        "source": "ocr",
+        "context": "M425, 428RK #28 ty\n\nM4 39h SER\n\nFOR Ih 29S"
+      },
+      {
+        "text": "M416",
+        "page": 11,
+        "source": "ocr",
+        "context": "GEMMASRHR       yy,\nM416, 440, 4625\nM431, 43"
+      },
+      {
+        "text": "M431",
+        "page": 11,
+        "source": "ocr",
+        "context": "yy,\nM416, 440, 4625\nM431, 432, 437, 441 SER\n"
+      },
+      {
+        "text": "M442",
+        "page": 11,
+        "source": "ocr",
+        "context": "1 SER\nFOR BE Hh 42S\nM442) 38 Ba\n\nFER HE 143 "
+      },
+      {
+        "text": "M443",
+        "page": 11,
+        "source": "ocr",
+        "context": " Ba\n\nFER HE 143 SEH\nM443、444随其器物\n\n元君唐莫地445号莫"
+      },
+      {
+        "text": "M445",
+        "page": 11,
+        "source": "ocr",
+        "context": "\n\n元君唐莫地445号莫莫\n\n图版四一“M445、449随苦隐器\n\n图版四二“元阁庙幕地"
+      },
+      {
+        "text": "M448",
+        "page": 11,
+        "source": "ocr",
+        "context": "四四“元君让基地453号基旨\n\n版四五 M448, 453, 440A FED\nROA "
+      },
+      {
+        "text": "M454",
+        "page": 11,
+        "source": "ocr",
+        "context": "G: FOR RES SEE\n\n版四八“M454、455随莫陶器\n\n图版四九 M456、"
+      },
+      {
+        "text": "M456",
+        "page": 11,
+        "source": "ocr",
+        "context": "“M454、455随莫陶器\n\n图版四九 M456、458随苦陶器\n\nARERO TAMA"
+      },
+      {
+        "text": "M447",
+        "page": 11,
+        "source": "ocr",
+        "context": "二”元君店幕地457号募厌\nFR G= M447, 457, 470K RY\n图版五四 "
+      },
+      {
+        "text": "M401",
+        "page": 14,
+        "source": "ocr",
+        "context": "LP ICR M.S TAT\nHEH. M401—M405RMAU ARSE TICE "
+      },
+      {
+        "text": "M401",
+        "page": 14,
+        "source": "ocr",
+        "context": "8 2 He PA” TEA ARH, M401 —M405 M41 LA RE\n分布在"
+      },
+      {
+        "text": "M405",
+        "page": 14,
+        "source": "ocr",
+        "context": " PA” TEA ARH, M401 —M405 M41 LA RE\n分布在募地西面，处"
+      },
+      {
+        "text": "M41",
+        "page": 14,
+        "source": "ocr",
+        "context": "TEA ARH, M401 —M405 M41 LA RE\n分布在募地西面，处于T40"
+      },
+      {
+        "text": "T401",
+        "page": 14,
+        "source": "ocr",
+        "context": "2A西约?米处，为一南北向的低窄小溪。 T401—-T\n404及T415以西，地势逐渐低"
+      },
+      {
+        "text": "T412",
+        "page": 14,
+        "source": "ocr",
+        "context": "ER.\n\n(=) 在上述三个探方南伍的 T412、T407及T404 的北部相当大的面积"
+      },
+      {
+        "text": "T407",
+        "page": 15,
+        "source": "ocr",
+        "context": "    元君着仰韶墓地\n\n又因T404、T407、T412、T414、T414A及T41"
+      },
+      {
+        "text": "T412",
+        "page": 15,
+        "source": "ocr",
+        "context": "君着仰韶墓地\n\n又因T404、T407、T412、T414、T414A及T415缺乏与幕"
+      },
+      {
+        "text": "T414",
+        "page": 15,
+        "source": "ocr",
+        "context": "地\n\n又因T404、T407、T412、T414、T414A及T415缺乏与幕地同时的文"
+      },
+      {
+        "text": "T407",
+        "page": 15,
+        "source": "ocr",
+        "context": "知这\n里当不是集中的居住地区。\n\n总之，T407、T412及T404之北半部，以及T41"
+      },
+      {
+        "text": "M453",
+        "page": 15,
+        "source": "ocr",
+        "context": "和居住地之间的中间地带。而现今揭示出来 M453, M457,M424,\nM428、M4"
+      },
+      {
+        "text": "M457",
+        "page": 15,
+        "source": "ocr",
+        "context": "的中间地带。而现今揭示出来 M453, M457,M424,\nM428、M426及M41"
+      },
+      {
+        "text": "M424",
+        "page": 15,
+        "source": "ocr",
+        "context": "。而现今揭示出来 M453, M457,M424,\nM428、M426及M411所在的位"
+      },
+      {
+        "text": "M428",
+        "page": 15,
+        "source": "ocr",
+        "context": "出来 M453, M457,M424,\nM428、M426及M411所在的位置，当是元君"
+      },
+      {
+        "text": "M456",
+        "page": 15,
+        "source": "ocr",
+        "context": "里也没有墓项，故T411之内的M455、M456、M458及M459当处在幕地的东绿。\n"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "饰",
+        "page": 8,
+        "source": "ocr",
+        "context": "器及器盖…\n仰痢文化此坡类型元君让妇女装饰…，\nT413地晨痢面图\nM413、M4"
+      },
+      {
+        "text": "尊",
+        "page": 13,
+        "source": "ocr",
+        "context": "《元吾庙仰冯莫非人骨年龄性别鉴定》。\n昌尊评鉴定了普骨。颜问先生对人骨作了种族鉴定"
+      }
+    ],
+    "遗址名称": [
+      {
+        "text": "元君庙",
+        "page": 10,
+        "source": "ocr",
+        "context": "\nTOE i EH 425 Be HE\n元君庙草地428号幕莫\n"
+      },
+      {
+        "text": "华县",
+        "page": 12,
+        "source": "ocr",
+        "context": "工程，组成了黄河水库孝古工作\n队陕西分队华县队，在黄河水库考古工作队陕西分队直接领导"
+      },
+      {
+        "text": "华县",
+        "page": 12,
+        "source": "ocr",
+        "context": "领导下，从这年秋天到1959年\n秋天，在华县、训南两地进行了考古调查、试扎和大规模的"
+      },
+      {
+        "text": "华县",
+        "page": 12,
+        "source": "ocr",
+        "context": "扎和大规模的发掘工作。元君让的发气，\n是华县队重点工作之一。\n\n元君让早已落废被辟为"
+      },
+      {
+        "text": "泉护村",
+        "page": 12,
+        "source": "ocr",
+        "context": "的台地，南依素输，北有渭水流过，\n西南距泉护村 1 公里。其西50米处，是源于秦岭、北"
+      },
+      {
+        "text": "二里头",
+        "page": 12,
+        "source": "ocr",
+        "context": "台文化”遗存及一座文化年代上同于东干沟、二里头的蔓\n苦。元君庙的发据，对了解仰韶文化“"
+      },
+      {
+        "text": "元君庙",
+        "page": 12,
+        "source": "ocr",
+        "context": "座文化年代上同于东干沟、二里头的蔓\n苦。元君庙的发据，对了解仰韶文化“半域类型” 的埋"
+      },
+      {
+        "text": "华县",
+        "page": 13,
+        "source": "ocr",
+        "context": "了普骨。颜问先生对人骨作了种族鉴定,所写华县新石器时代人骨的研究》\n一文，已发表于《"
+      },
+      {
+        "text": "华县",
+        "page": 13,
+        "source": "ocr",
+        "context": "同志，和\n对发捆工作给予大力支持和协助的华县党、政及当地贫下中农致以深厚的谢访\n"
+      },
+      {
+        "text": "元君庙",
+        "page": 15,
+        "source": "ocr",
+        "context": "4A和T415所在的绝大部分 地\n方，是元君庙幕地和居住地之间的中间地带。而现今揭示出"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": "50米",
+        "page": 12,
+        "source": "ocr",
+        "context": "渭水流过，\n西南距泉护村 1 公里。其西50米处，是源于秦岭、北流注人渭水的沟峪河〈图"
+      },
+      {
+        "text": "长 7 米",
+        "page": 14,
+        "source": "ocr",
+        "context": "T402的好方,开搁-一南北宽2 、东西长 7 米的探方〈编\n号为T402A)，亦未发现幕"
+      },
+      {
+        "text": "50米",
+        "page": 14,
+        "source": "ocr",
+        "context": "化性质相同。\n\n〈四) 在T414东北约50米的地方，是T413。这里发现了和幕地文化"
+      },
+      {
+        "text": "4米",
+        "page": 15,
+        "source": "ocr",
+        "context": "外，也未见墓葬。和T405西半部南壁相距4米的T408〈5 x 5平方米) 也未见到"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "尊",
+        "page": 13,
+        "source": "ocr",
+        "context": "《元吾庙仰冯莫非人骨年龄性别鉴定》。\n昌尊评鉴定了普骨。颜问先生对人骨作了种族鉴定"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "灰坑",
+        "page": 14,
+        "source": "ocr",
+        "context": "14及T414A三个探方内，却分布着七个灰坑， 其 中 五个\n已被清理发据。根据其内"
+      },
+      {
+        "text": "墓葬",
+        "page": 15,
+        "source": "ocr",
+        "context": "405以南部 分，除\nM418外，也未见墓葬。和T405西半部南壁相距4米的T408"
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "堆积",
+        "page": 15,
+        "source": "ocr",
+        "context": "414A及T415缺乏与幕地同时的文化层堆积、可 知这\n里当不是集中的居住地区。\n\n"
+      },
+      {
+        "text": "打破",
+        "page": 15,
+        "source": "ocr",
+        "context": "im A\n之分。这需要从地层、蓝磊倒压或打破关系等情况来了解。\n\n莫地的地层结构简单"
+      },
+      {
+        "text": "开口于",
+        "page": 15,
+        "source": "ocr",
+        "context": "土层〈推测当为山洪提运而成) 。\n蓝葬皆开口于砂土层，而被压在耕土尼之下。其它探方的地"
+      }
+    ],
+    "土样特征": [
+      {
+        "text": "砂土",
+        "page": 15,
+        "source": "ocr",
+        "context": "1一T404四个探方，在耕土层之下，便是砂土层〈推测当为山洪提运而成) 。\n蓝葬皆开"
+      },
+      {
+        "text": "砂土",
+        "page": 15,
+        "source": "ocr",
+        "context": "推测当为山洪提运而成) 。\n蓝葬皆开口于砂土层，而被压在耕土尼之下。其它探方的地层，"
+      }
+    ]
+  }
+}

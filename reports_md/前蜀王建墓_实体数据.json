@@ -1,0 +1,78 @@
+{
+  "name": "前蜀王建墓",
+  "file": "前蜀王建墓.pdf",
+  "era": "五代",
+  "culture": "前蜀",
+  "processed_pages": 14,
+  "total_entities": 10,
+  "entity_stats": {
+    "遗迹编号": 1,
+    "年代": 9
+  },
+  "entities": {
+    "遗迹编号": [
+      {
+        "text": "K878",
+        "page": 4,
+        "source": "ocr",
+        "context": "0. 五代曹-发据报告-成都市\nIV .K878.85\n\nPRR AR A AEA CI"
+      }
+    ],
+    "年代": [
+      {
+        "text": "五代",
+        "page": 4,
+        "source": "ocr",
+        "context": "-1386-1\n\nLotte 1.0. 五代曹-发据报告-成都市\nIV .K878."
+      },
+      {
+        "text": "元",
+        "page": 4,
+        "source": "ocr",
+        "context": "1386-1/K 633 定价: 110元\n"
+      },
+      {
+        "text": "五代",
+        "page": 5,
+        "source": "ocr",
+        "context": "本书是五代前蜀王建昔的发掘报告。王建划在四川省成都"
+      },
+      {
+        "text": "唐",
+        "page": 5,
+        "source": "ocr",
+        "context": "刻和坦\n物作了考态和研究。本书不但是研究唐宋考古的重要资料，并\n且是研究工艺美术史"
+      },
+      {
+        "text": "宋",
+        "page": 5,
+        "source": "ocr",
+        "context": "和坦\n物作了考态和研究。本书不但是研究唐宋考古的重要资料，并\n且是研究工艺美术史、"
+      },
+      {
+        "text": "明",
+        "page": 7,
+        "source": "ocr",
+        "context": "再版说明\n\n前蜀永陵《王建莫) 的发据，是二十世"
+      },
+      {
+        "text": "唐",
+        "page": 7,
+        "source": "ocr",
+        "context": " 编辑的《前蜀\n王建墓发据丢告)，是研究唐、五代时期历史、音乐、建筑、导塑、工\nR"
+      },
+      {
+        "text": "五代",
+        "page": 7,
+        "source": "ocr",
+        "context": "辑的《前蜀\n王建墓发据丢告)，是研究唐、五代时期历史、音乐、建筑、导塑、工\nRRAH"
+      },
+      {
+        "text": "清",
+        "page": 7,
+        "source": "ocr",
+        "context": "器形图由成都市文物考古研究所曾历、虚引科清给，图片由成都市文\n物考古研究所李绪成、"
+      }
+    ]
+  }
+}

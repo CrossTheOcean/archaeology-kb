@@ -1,0 +1,933 @@
+{
+  "name": "庙底沟与三里桥",
+  "file": "庙底沟与三里桥.pdf",
+  "era": "新石器",
+  "culture": "仰韶-龙山",
+  "processed_pages": 15,
+  "total_entities": 148,
+  "entity_stats": {
+    "遗址名称": 71,
+    "遗迹类型": 2,
+    "陶器": 5,
+    "铜器": 5,
+    "年代": 40,
+    "纹饰": 1,
+    "遗存类型": 2,
+    "探方编号": 12,
+    "测量数据": 4,
+    "遗迹编号": 4,
+    "层位关系": 2
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "东周",
+        "page": 4,
+        "source": "ocr",
+        "context": " Beas\n《四) 自然遗物……\n\n五”东周文化遗物\n六 EB …\n\n#& 三里桥 "
+      },
+      {
+        "text": "三里桥",
+        "page": 4,
+        "source": "ocr",
+        "context": "五”东周文化遗物\n六 EB …\n\n#& 三里桥 …\n\n"
+      },
+      {
+        "text": "东周",
+        "page": 5,
+        "source": "ocr",
+        "context": " 骨、蚌器…\n《四) 自然遗物…\n\n五”东周女化遗物 …              "
+      },
+      {
+        "text": "三里桥",
+        "page": 5,
+        "source": "ocr",
+        "context": "             103\n\n= 三里桥 …                  "
+      },
+      {
+        "text": "庙底沟",
+        "page": 6,
+        "source": "ocr",
+        "context": "RR BE\n\nFJ BUF REEL\n\n庙底沟仰一六化彩陶片\n\nJi TE PBB B"
+      },
+      {
+        "text": "庙底沟",
+        "page": 8,
+        "source": "ocr",
+        "context": "RS A SCHL AP aE aE\n\n庙底沟龙山文化骨雏等\n\n庙底询第 100 号唐"
+      },
+      {
+        "text": "三里桥",
+        "page": 8,
+        "source": "ocr",
+        "context": "\n让底沟第 100 号唐莫出土的遗物\n\n三里桥龙山文化 4 SHE\n\n三里桥龙山文化 "
+      },
+      {
+        "text": "三里桥",
+        "page": 8,
+        "source": "ocr",
+        "context": "的遗物\n\n三里桥龙山文化 4 SHE\n\n三里桥龙山文化 4 BSH\n\nSB BRN A"
+      },
+      {
+        "text": "三里桥",
+        "page": 8,
+        "source": "ocr",
+        "context": ", VEEL EA\nSBR RUSE\n\n三里桥龙山文化陶、骨、蚌器\n\n庙底沟龙山广化木"
+      },
+      {
+        "text": "庙底沟",
+        "page": 8,
+        "source": "ocr",
+        "context": "USE\n\n三里桥龙山文化陶、骨、蚌器\n\n庙底沟龙山广化木未疲迹\n\n河南陕县庙底沟和遗址"
+      },
+      {
+        "text": "陕县",
+        "page": 8,
+        "source": "ocr",
+        "context": "、蚌器\n\n庙底沟龙山广化木未疲迹\n\n河南陕县庙底沟和遗址及发掘地区地形图\n\n庙底沟T"
+      },
+      {
+        "text": "庙底沟",
+        "page": 8,
+        "source": "ocr",
+        "context": "器\n\n庙底沟龙山广化木未疲迹\n\n河南陕县庙底沟和遗址及发掘地区地形图\n\n庙底沟T1区平"
+      },
+      {
+        "text": "庙底沟",
+        "page": 8,
+        "source": "ocr",
+        "context": "河南陕县庙底沟和遗址及发掘地区地形图\n\n庙底沟T1区平面图\n\n应底沟T300 区平面图"
+      },
+      {
+        "text": "陕县",
+        "page": 8,
+        "source": "ocr",
+        "context": "面图\n\n应底沟T300 区平面图\n\n河南陕县三里桥村遗址及发掘地区地形图\n\n"
+      },
+      {
+        "text": "三里桥",
+        "page": 8,
+        "source": "ocr",
+        "context": "\n\n应底沟T300 区平面图\n\n河南陕县三里桥村遗址及发掘地区地形图\n\n"
+      },
+      {
+        "text": "陕县",
+        "page": 9,
+        "source": "ocr",
+        "context": " BE «--\n\ni 图 B 录\n\n河南陕县附近古代遗址分布图\n庙底沟仰事广化 30"
+      },
+      {
+        "text": "庙底沟",
+        "page": 9,
+        "source": "ocr",
+        "context": " B 录\n\n河南陕县附近古代遗址分布图\n庙底沟仰事广化 301 号房子平面、剖面图…\n"
+      },
+      {
+        "text": "庙底沟",
+        "page": 9,
+        "source": "ocr",
+        "context": "仰事广化 301 号房子平面、剖面图…\n庙底沟仰姜文化 302 号房子平面、剖面图…\n"
+      },
+      {
+        "text": "庙底沟",
+        "page": 9,
+        "source": "ocr",
+        "context": "U BR Cte 301 号房子复原图\n庙底沟仰姜文化 301 SBF PRI\n证底沟"
+      },
+      {
+        "text": "庙底沟",
+        "page": 9,
+        "source": "ocr",
+        "context": "证底沟仰蔓广化灰坊骨架平面图 …………\n庙底沟龙山康化 551 号房子平面、剖面图\n庙"
+      },
+      {
+        "text": "庙底沟",
+        "page": 9,
+        "source": "ocr",
+        "context": "沟龙山康化 551 号房子平面、剖面图\n庙底沟龙山妇化 551 号房子复原图\n庙底沟龙"
+      },
+      {
+        "text": "庙底沟",
+        "page": 9,
+        "source": "ocr",
+        "context": "\n庙底沟龙山妇化 551 号房子复原图\n庙底沟龙山文化 551 SRF RRP RA\n"
+      },
+      {
+        "text": "庙底沟",
+        "page": 10,
+        "source": "ocr",
+        "context": " CH ER\nRRR SCH SE +\n庙底沟仰一妇化石器…\nFADE CHE Bes"
+      },
+      {
+        "text": "庙底沟",
+        "page": 10,
+        "source": "ocr",
+        "context": "Ji JEG AW CH DAS «+\n庙底沟龙山文化石器…\n庙底沟龙山广化骨、角、蚌"
+      },
+      {
+        "text": "庙底沟",
+        "page": 10,
+        "source": "ocr",
+        "context": "H DAS «+\n庙底沟龙山文化石器…\n庙底沟龙山广化骨、角、蚌、政器\n庙底沟东周钢铁"
+      },
+      {
+        "text": "庙底沟",
+        "page": 10,
+        "source": "ocr",
+        "context": "石器…\n庙底沟龙山广化骨、角、蚌、政器\n庙底沟东周钢铁Co\n庙底沟 100 号唐幕平面"
+      },
+      {
+        "text": "东周",
+        "page": 10,
+        "source": "ocr",
+        "context": "\n庙底沟龙山广化骨、角、蚌、政器\n庙底沟东周钢铁Co\n庙底沟 100 号唐幕平面图…"
+      },
+      {
+        "text": "庙底沟",
+        "page": 10,
+        "source": "ocr",
+        "context": "化骨、角、蚌、政器\n庙底沟东周钢铁Co\n庙底沟 100 号唐幕平面图…\n三里桥探沟 2"
+      },
+      {
+        "text": "三里桥",
+        "page": 10,
+        "source": "ocr",
+        "context": "铁Co\n庙底沟 100 号唐幕平面图…\n三里桥探沟 2 西辟剖面图…\n\n三里桥龙山文化"
+      },
+      {
+        "text": "三里桥",
+        "page": 10,
+        "source": "ocr",
+        "context": "面图…\n三里桥探沟 2 西辟剖面图…\n\n三里桥龙山文化 4 SEP, WA:\nLB M"
+      },
+      {
+        "text": "三门峡",
+        "page": 12,
+        "source": "ocr",
+        "context": " EB UR La SAH. ATT\n解三门峡水康区内的古代文化遗存,以便在著水以前采"
+      },
+      {
+        "text": "陕县",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n厅调查工作之后,从1956年起,以河南陕县为中心间配合三门峡市区基本建届工程所\n进"
+      },
+      {
+        "text": "三门峡",
+        "page": 12,
+        "source": "ocr",
+        "context": ",从1956年起,以河南陕县为中心间配合三门峡市区基本建届工程所\n进行的发据工作，计有"
+      },
+      {
+        "text": "庙底沟",
+        "page": 12,
+        "source": "ocr",
+        "context": "市区基本建届工程所\n进行的发据工作，计有庙底沟和三里桥的新石器时代和遗址， 上村岭鲁国"
+      },
+      {
+        "text": "三里桥",
+        "page": 12,
+        "source": "ocr",
+        "context": "建届工程所\n进行的发据工作，计有庙底沟和三里桥的新石器时代和遗址， 上村岭鲁国草地,后"
+      },
+      {
+        "text": "上村岭",
+        "page": 12,
+        "source": "ocr",
+        "context": "计有庙底沟和三里桥的新石器时代和遗址， 上村岭鲁国草地,后川东周、\n汉\\唐墓地,刘家渠"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "新石器时代和遗址， 上村岭鲁国草地,后川东周、\n汉\\唐墓地,刘家渠汉\\唐草地等,都有"
+      },
+      {
+        "text": "庙底沟",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n\n本报告只是我们工作的一部分, 旋包括庙底沟和三里桥两个新石器时代和遗址,为黄河\n水"
+      },
+      {
+        "text": "三里桥",
+        "page": 12,
+        "source": "ocr",
+        "context": "告只是我们工作的一部分, 旋包括庙底沟和三里桥两个新石器时代和遗址,为黄河\n水库考古报"
+      },
+      {
+        "text": "庙底沟",
+        "page": 13,
+        "source": "ocr",
+        "context": "i 多 沟\n\n一地理环境及工作概况\n\n庙底沟遗址位于陕县南关的东南，在这一带有着比较"
+      },
+      {
+        "text": "陕县",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n一地理环境及工作概况\n\n庙底沟遗址位于陕县南关的东南，在这一带有着比较丰富的古代泪"
+      },
+      {
+        "text": "陕县",
+        "page": 13,
+        "source": "ocr",
+        "context": "带有着比较丰富的古代泪存。这里首先介\n帮陕县的地理环境。陕县旧属陕州,在河南西部,北"
+      },
+      {
+        "text": "陕县",
+        "page": 13,
+        "source": "ocr",
+        "context": "古代泪存。这里首先介\n帮陕县的地理环境。陕县旧属陕州,在河南西部,北临黄河与山西平陆"
+      },
+      {
+        "text": "三门峡",
+        "page": 13,
+        "source": "ocr",
+        "context": "ORE BIR IRA 50 华里。随着三门峡水库及水电站的兴建,在县城东的会兴锁附近"
+      },
+      {
+        "text": "陕县",
+        "page": 13,
+        "source": "ocr",
+        "context": "的原野\n上出现了一座新兴的三门凡市。\n\n陕县境内河流交错,除黄河外,最主要的有两条河"
+      },
+      {
+        "text": "陕县",
+        "page": 13,
+        "source": "ocr",
+        "context": "水: 彭水出衷山西北流,……其水双西北轻陕县城西，西北太于河\"。这条河横贯在\n陕县境"
+      },
+      {
+        "text": "陕县",
+        "page": 13,
+        "source": "ocr",
+        "context": "轻陕县城西，西北太于河\"。这条河横贯在\n陕县境内,将县城与南关截开,目前的城区繁荣中"
+      },
+      {
+        "text": "陕县",
+        "page": 13,
+        "source": "ocr",
+        "context": "之山,俗刘\n之干山,羡先后之异名也。山在陕县城南八十里,其川流也,二源双导,同注一罕"
+      },
+      {
+        "text": "陕县",
+        "page": 13,
+        "source": "ocr",
+        "context": "士地肥沃,适于古代人类生产和楼息。特别是陕县县城附近,北有黄河，汇灿青龙,苍\n龙两条"
+      },
+      {
+        "text": "陕县",
+        "page": 13,
+        "source": "ocr",
+        "context": "而肘多时代复杂范围广大的遗址,此集中在\n陕县的县城附近(图一),如庙底沟(仰副,龙山"
+      },
+      {
+        "text": "庙底沟",
+        "page": 13,
+        "source": "ocr",
+        "context": "址,此集中在\n陕县的县城附近(图一),如庙底沟(仰副,龙山东周)、三里桥(仰嚼\\龙山."
+      },
+      {
+        "text": "山东",
+        "page": 13,
+        "source": "ocr",
+        "context": "县的县城附近(图一),如庙底沟(仰副,龙山东周)、三里桥(仰嚼\\龙山.东周)、七里低"
+      },
+      {
+        "text": "三里桥",
+        "page": 13,
+        "source": "ocr",
+        "context": "近(图一),如庙底沟(仰副,龙山东周)、三里桥(仰嚼\\龙山.东周)、七里低\n《〈仰事\\"
+      },
+      {
+        "text": "东周",
+        "page": 13,
+        "source": "ocr",
+        "context": "(仰副,龙山东周)、三里桥(仰嚼\\龙山.东周)、七里低\n《〈仰事\\龙山\\般东周,汉)"
+      },
+      {
+        "text": "东周",
+        "page": 13,
+        "source": "ocr",
+        "context": "龙山.东周)、七里低\n《〈仰事\\龙山\\般东周,汉)等是。而与陕县县城相对的平陆境内则"
+      },
+      {
+        "text": "陕县",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n《〈仰事\\龙山\\般东周,汉)等是。而与陕县县城相对的平陆境内则有盘南村 COE,\n"
+      },
+      {
+        "text": "东周",
+        "page": 13,
+        "source": "ocr",
+        "context": "县城相对的平陆境内则有盘南村 COE,\n东周)。由于上述的情况,我们就以陕县县城为中"
+      },
+      {
+        "text": "陕县",
+        "page": 13,
+        "source": "ocr",
+        "context": "OE,\n东周)。由于上述的情况,我们就以陕县县城为中心，首先选择了庙底沟和三里桥作为"
+      },
+      {
+        "text": "庙底沟",
+        "page": 13,
+        "source": "ocr",
+        "context": "情况,我们就以陕县县城为中心，首先选择了庙底沟和三里桥作为工\n作地点,其他遗址在 19"
+      },
+      {
+        "text": "三里桥",
+        "page": 13,
+        "source": "ocr",
+        "context": "们就以陕县县城为中心，首先选择了庙底沟和三里桥作为工\n作地点,其他遗址在 1958 年"
+      },
+      {
+        "text": "庙底沟",
+        "page": 13,
+        "source": "ocr",
+        "context": "958 年起,也陆续开展了发掘工作。\n\n庙底沟位于青龙润南岸、陕县车站的东边。在一块比"
+      },
+      {
+        "text": "陕县",
+        "page": 13,
+        "source": "ocr",
+        "context": "展了发掘工作。\n\n庙底沟位于青龙润南岸、陕县车站的东边。在一块比较平坦的黄土原上,向"
+      },
+      {
+        "text": "庙底沟",
+        "page": 13,
+        "source": "ocr",
+        "context": ",向两条南北\n向的深沟所切断。西边的俗称庙底沟,深糙 40 多米。沟旁营造着许多豁洞,"
+      },
+      {
+        "text": "庙底沟",
+        "page": 13,
+        "source": "ocr",
+        "context": "称部分已天成梯田。\n\n从上述的地形来看,庙底沟是北临澜河,南傍韩庄,东西为两道深询所夹"
+      },
+      {
+        "text": "陕县",
+        "page": 14,
+        "source": "ocr",
+        "context": "Lad  jai\n\n比陕县附近的大村洲还要大得多。这里隔河与北岸的"
+      },
+      {
+        "text": "三里桥",
+        "page": 14,
+        "source": "ocr",
+        "context": "附近的大村洲还要大得多。这里隔河与北岸的三里桥新石器时代遗址相对，中癌\n隔着一条较宽的"
+      },
+      {
+        "text": "陕县",
+        "page": 14,
+        "source": "ocr",
+        "context": "it\nse RK x RB\n\n图一，河南陕县附近古代遗址分布图\n\n遗址上面的超大部分"
+      },
+      {
+        "text": "庙底沟",
+        "page": 14,
+        "source": "ocr",
+        "context": "土向,现改为唐底沟小学。所计“庙底\"或“庙底沟”是指遗址\n西部的村落而言,为了便利起见"
+      },
+      {
+        "text": "三门峡",
+        "page": 14,
+        "source": "ocr",
+        "context": "，\n我们便选择了这个地点,精合训生干部在三门峡水康区内进行第一次的大规模发据,以为\n今"
+      },
+      {
+        "text": "东周",
+        "page": 15,
+        "source": "ocr",
+        "context": "并有了明确的地层交迭证据,此外也有忱萍的东周文化层和少数汉\nERR, REMIND "
+      },
+      {
+        "text": "庙底沟",
+        "page": 15,
+        "source": "ocr",
+        "context": "EMIND REAR ,均群见下节。\n\n庙底沟遗址的发掘，是三门屿水库区开妈发掘工作以"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "灰坑",
+        "page": 4,
+        "source": "ocr",
+        "context": " BF\n\n(2) Bahk.\n\n(3) 灰坑\n\n(=). B#-\n\n1 (URS\n\n"
+      },
+      {
+        "text": "灰坑",
+        "page": 5,
+        "source": "ocr",
+        "context": "ctt -\n\n(1) Sak\n\n(2) 灰坑\n\n(|) BH\n\n1 RRB -\n\n2"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "环",
+        "page": 4,
+        "source": "ocr",
+        "context": "BR B-\n\n一“地理环境及工作概况\n\n(一) 地层情况\n\n(="
+      },
+      {
+        "text": "环",
+        "page": 5,
+        "source": "ocr",
+        "context": " 底 沟 与 三 里 桥\n\n-一  地理环境与工作概况 oo85\n= HER ……"
+      },
+      {
+        "text": "环",
+        "page": 13,
+        "source": "ocr",
+        "context": "i 多 沟\n\n一地理环境及工作概况\n\n庙底沟遗址位于陕县南关的"
+      },
+      {
+        "text": "环",
+        "page": 13,
+        "source": "ocr",
+        "context": "丰富的古代泪存。这里首先介\n帮陕县的地理环境。陕县旧属陕州,在河南西部,北临黄河与"
+      },
+      {
+        "text": "盘",
+        "page": 13,
+        "source": "ocr",
+        "context": "汉)等是。而与陕县县城相对的平陆境内则有盘南村 COE,\n东周)。由于上述的情况,"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "环",
+        "page": 4,
+        "source": "ocr",
+        "context": "BR B-\n\n一“地理环境及工作概况\n\n(一) 地层情况\n\n(="
+      },
+      {
+        "text": "环",
+        "page": 5,
+        "source": "ocr",
+        "context": " 底 沟 与 三 里 桥\n\n-一  地理环境与工作概况 oo85\n= HER ……"
+      },
+      {
+        "text": "环",
+        "page": 13,
+        "source": "ocr",
+        "context": "i 多 沟\n\n一地理环境及工作概况\n\n庙底沟遗址位于陕县南关的"
+      },
+      {
+        "text": "环",
+        "page": 13,
+        "source": "ocr",
+        "context": "丰富的古代泪存。这里首先介\n帮陕县的地理环境。陕县旧属陕州,在河南西部,北临黄河与"
+      },
+      {
+        "text": "盘",
+        "page": 13,
+        "source": "ocr",
+        "context": "汉)等是。而与陕县县城相对的平陆境内则有盘南村 COE,\n东周)。由于上述的情况,"
+      }
+    ],
+    "年代": [
+      {
+        "text": "东周",
+        "page": 4,
+        "source": "ocr",
+        "context": " Beas\n《四) 自然遗物……\n\n五”东周文化遗物\n六 EB …\n\n#& 三里桥 "
+      },
+      {
+        "text": "东周",
+        "page": 5,
+        "source": "ocr",
+        "context": " 骨、蚌器…\n《四) 自然遗物…\n\n五”东周女化遗物 …              "
+      },
+      {
+        "text": "龙山文化",
+        "page": 8,
+        "source": "ocr",
+        "context": "A SCHL AP aE aE\n\n庙底沟龙山文化骨雏等\n\n庙底询第 100 号唐募出土的"
+      },
+      {
+        "text": "唐",
+        "page": 8,
+        "source": "ocr",
+        "context": "沟龙山文化骨雏等\n\n庙底询第 100 号唐募出土的遗物\n\n让底沟第 100 号唐莫"
+      },
+      {
+        "text": "唐",
+        "page": 8,
+        "source": "ocr",
+        "context": "号唐募出土的遗物\n\n让底沟第 100 号唐莫出土的遗物\n\n三里桥龙山文化 4 SH"
+      },
+      {
+        "text": "龙山文化",
+        "page": 8,
+        "source": "ocr",
+        "context": "沟第 100 号唐莫出土的遗物\n\n三里桥龙山文化 4 SHE\n\n三里桥龙山文化 4 BS"
+      },
+      {
+        "text": "龙山文化",
+        "page": 8,
+        "source": "ocr",
+        "context": "\n\n三里桥龙山文化 4 SHE\n\n三里桥龙山文化 4 BSH\n\nSB BRN ABC C"
+      },
+      {
+        "text": "龙山文化",
+        "page": 8,
+        "source": "ocr",
+        "context": "EEL EA\nSBR RUSE\n\n三里桥龙山文化陶、骨、蚌器\n\n庙底沟龙山广化木未疲迹\n"
+      },
+      {
+        "text": "龙山文化",
+        "page": 9,
+        "source": "ocr",
+        "context": "沟龙山妇化 551 号房子复原图\n庙底沟龙山文化 551 SRF RRP RA\nURW "
+      },
+      {
+        "text": "龙山文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "JEG AW CH DAS «+\n庙底沟龙山文化石器…\n庙底沟龙山广化骨、角、蚌、政器\n"
+      },
+      {
+        "text": "东周",
+        "page": 10,
+        "source": "ocr",
+        "context": "\n庙底沟龙山广化骨、角、蚌、政器\n庙底沟东周钢铁Co\n庙底沟 100 号唐幕平面图…"
+      },
+      {
+        "text": "唐",
+        "page": 10,
+        "source": "ocr",
+        "context": "\n庙底沟东周钢铁Co\n庙底沟 100 号唐幕平面图…\n三里桥探沟 2 西辟剖面图…"
+      },
+      {
+        "text": "龙山文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "\n三里桥探沟 2 西辟剖面图…\n\n三里桥龙山文化 4 SEP, WA:\nLB MR IC"
+      },
+      {
+        "text": "清",
+        "page": 12,
+        "source": "ocr",
+        "context": "千里、为害数千年的浊浪赫化为造福人\n民的清流。这是党所便导的伟大的社会主义建屋事业"
+      },
+      {
+        "text": "清",
+        "page": 12,
+        "source": "ocr",
+        "context": "划已在逐\n步实现,中国人民数千年来\"黄河清\"的美丽愿望变成事实已指日可待。\n\n黄河"
+      },
+      {
+        "text": "明",
+        "page": 12,
+        "source": "ocr",
+        "context": "秆向为中国历史上一个阶段的熔影。写们对表明中\n图古代文化的形成及其发展具有极重要的"
+      },
+      {
+        "text": "新石器时代",
+        "page": 12,
+        "source": "ocr",
+        "context": "所\n进行的发据工作，计有庙底沟和三里桥的新石器时代和遗址， 上村岭鲁国草地,后川东周、\n汉"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "新石器时代和遗址， 上村岭鲁国草地,后川东周、\n汉\\唐墓地,刘家渠汉\\唐草地等,都有"
+      },
+      {
+        "text": "唐",
+        "page": 12,
+        "source": "ocr",
+        "context": "遗址， 上村岭鲁国草地,后川东周、\n汉\\唐墓地,刘家渠汉\\唐草地等,都有了丰富的收"
+      },
+      {
+        "text": "唐",
+        "page": 12,
+        "source": "ocr",
+        "context": "草地,后川东周、\n汉\\唐墓地,刘家渠汉\\唐草地等,都有了丰富的收获上09。从 19"
+      },
+      {
+        "text": "明",
+        "page": 12,
+        "source": "ocr",
+        "context": "届便是最典型的一\n个例子。这些工作充分旭明了唯有在社会主义的优越制度下,中国考古学"
+      },
+      {
+        "text": "新石器时代",
+        "page": 12,
+        "source": "ocr",
+        "context": "工作的一部分, 旋包括庙底沟和三里桥两个新石器时代和遗址,为黄河\n水库考古报告的第二种,其"
+      },
+      {
+        "text": "新石器时代",
+        "page": 13,
+        "source": "ocr",
+        "context": "注于\n上述各水。无葵大小河流的沿岸，都有新石器时代及早期文化的遗址。这是因为河流汇\n和祭;"
+      },
+      {
+        "text": "东周",
+        "page": 13,
+        "source": "ocr",
+        "context": "的县城附近(图一),如庙底沟(仰副,龙山东周)、三里桥(仰嚼\\龙山.东周)、七里低\n"
+      },
+      {
+        "text": "东周",
+        "page": 13,
+        "source": "ocr",
+        "context": "(仰副,龙山东周)、三里桥(仰嚼\\龙山.东周)、七里低\n《〈仰事\\龙山\\般东周,汉)"
+      },
+      {
+        "text": "东周",
+        "page": 13,
+        "source": "ocr",
+        "context": "龙山.东周)、七里低\n《〈仰事\\龙山\\般东周,汉)等是。而与陕县县城相对的平陆境内则"
+      },
+      {
+        "text": "东周",
+        "page": 13,
+        "source": "ocr",
+        "context": "县城相对的平陆境内则有盘南村 COE,\n东周)。由于上述的情况,我们就以陕县县城为中"
+      },
+      {
+        "text": "新石器时代",
+        "page": 13,
+        "source": "ocr",
+        "context": "住,形记了一\n个大体上是菱形的平原地带。新石器时代泪址主要分布在这块平原上，另外在此龙沟东"
+      },
+      {
+        "text": "新石器时代",
+        "page": 13,
+        "source": "ocr",
+        "context": "龙沟肖水汇流注入青龙\n洞的三角地带，当是新石器时代人类居住与生产活动的良好场所。 ERB "
+      },
+      {
+        "text": "新石器时代",
+        "page": 14,
+        "source": "ocr",
+        "context": "大村洲还要大得多。这里隔河与北岸的三里桥新石器时代遗址相对，中癌\n隔着一条较宽的河谷,相距"
+      },
+      {
+        "text": "唐",
+        "page": 14,
+        "source": "ocr",
+        "context": "至\n于地面上的建筑仅有一座后土向,现改为唐底沟小学。所计“庙底\"或“庙底沟”是指遗"
+      },
+      {
+        "text": "明",
+        "page": 14,
+        "source": "ocr",
+        "context": "其早,且与后土铀有着一定的关系。据后土福明成化十八年(公元 1482 年) 的碑女"
+      },
+      {
+        "text": "元",
+        "page": 14,
+        "source": "ocr",
+        "context": "有着一定的关系。据后土福明成化十八年(公元 1482 年) 的碑女:\n“ONT L"
+      },
+      {
+        "text": "龙山文化",
+        "page": 15,
+        "source": "ocr",
+        "context": "ERR BE 156 座,稳大部分是属于龙山文化的。这里以新石器时代的仰副广\n化为主, "
+      },
+      {
+        "text": "新石器时代",
+        "page": 15,
+        "source": "ocr",
+        "context": "6 座,稳大部分是属于龙山文化的。这里以新石器时代的仰副广\n化为主, WAZA , 并有了"
+      },
+      {
+        "text": "明",
+        "page": 15,
+        "source": "ocr",
+        "context": "的仰副广\n化为主, WAZA , 并有了明确的地层交迭证据,此外也有忱萍的东周文化"
+      },
+      {
+        "text": "东周",
+        "page": 15,
+        "source": "ocr",
+        "context": "并有了明确的地层交迭证据,此外也有忱萍的东周文化层和少数汉\nERR, REMIND "
+      },
+      {
+        "text": "战国",
+        "page": 15,
+        "source": "ocr",
+        "context": "上可以分为仰品的,仰吕,龙山交迭的,仰部战国交达的三\n种堆积。现分区襄明如下:\n1."
+      },
+      {
+        "text": "明",
+        "page": 15,
+        "source": "ocr",
+        "context": "迭的,仰部战国交达的三\n种堆积。现分区襄明如下:\n1.TL 区 BRUM ERIC"
+      },
+      {
+        "text": "唐",
+        "page": 15,
+        "source": "ocr",
+        "context": "女化陶窒 ! AE BRE 145 座,唐幕 1 座,时代\n\n一4 一\n\n"
+      }
+    ],
+    "纹饰": [
+      {
+        "text": "彩陶",
+        "page": 6,
+        "source": "ocr",
+        "context": "FJ BUF REEL\n\n庙底沟仰一六化彩陶片\n\nJi TE PBB BCA Ba\n"
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "陶片",
+        "page": 6,
+        "source": "ocr",
+        "context": "J BUF REEL\n\n庙底沟仰一六化彩陶片\n\nJi TE PBB BCA Ba\n\n"
+      },
+      {
+        "text": "兽骨",
+        "page": 12,
+        "source": "ocr",
+        "context": "俄 SOC ABR, ERS ERR: 兽骨经中\n国科学院古诊椎动物研究所尽兰坡先生"
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T1",
+        "page": 8,
+        "source": "ocr",
+        "context": "县庙底沟和遗址及发掘地区地形图\n\n庙底沟T1区平面图\n\n应底沟T300 区平面图\n\n"
+      },
+      {
+        "text": "T300",
+        "page": 8,
+        "source": "ocr",
+        "context": "区地形图\n\n庙底沟T1区平面图\n\n应底沟T300 区平面图\n\n河南陕县三里桥村遗址及发掘"
+      },
+      {
+        "text": "T1",
+        "page": 14,
+        "source": "ocr",
+        "context": "号 TI一100(包括附号 3 个,简称T1\n区,网图版玖肆)炎到在稍西的地方开了 "
+      },
+      {
+        "text": "T100",
+        "page": 14,
+        "source": "ocr",
+        "context": ")炎到在稍西的地方开了 53 RAMS T100一150 (包括附号 3 个,简称\n\n一"
+      },
+      {
+        "text": "T100",
+        "page": 15,
+        "source": "ocr",
+        "context": "moe 沟 与 三 里 桥\n\nT100区)。第二灵于 1957 年.3 月 2"
+      },
+      {
+        "text": "T203",
+        "page": 15,
+        "source": "ocr",
+        "context": "M RAT 40 个\nTRA, MAS T203一285(太号不相连接,包括 3 个附方"
+      },
+      {
+        "text": "T300",
+        "page": 15,
+        "source": "ocr",
+        "context": "(包括附号 11 个, 大小不等,简称 T300 Ko\nARR)” 至于和遗址的较西部分"
+      },
+      {
+        "text": "T401",
+        "page": 15,
+        "source": "ocr",
+        "context": " 3 TRG, AMABILE, BS\nT401一T403(简称 T400 区)。另外在"
+      },
+      {
+        "text": "T403",
+        "page": 15,
+        "source": "ocr",
+        "context": "G, AMABILE, BS\nT401一T403(简称 T400 区)。另外在此龙沟东岸"
+      },
+      {
+        "text": "T400",
+        "page": 15,
+        "source": "ocr",
+        "context": "LE, BS\nT401一T403(简称 T400 区)。另外在此龙沟东岸的三角地带,发现"
+      },
+      {
+        "text": "T551",
+        "page": 15,
+        "source": "ocr",
+        "context": "的东部边缘，开了 27 RG, HES T551一566 (包括附号 11\nA, 大小不"
+      },
+      {
+        "text": "T500",
+        "page": 15,
+        "source": "ocr",
+        "context": " X 4 米(附加方例外),方向正南北(T500 区因\n地形关系不作正方向),态号由北到"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": " 40 米",
+        "page": 13,
+        "source": "ocr",
+        "context": "边濒临着\n青龙澜,因受河水汪钥,形成高狗 40 米的内壁,而障海铁路在润河岸的附近东西穿过"
+      },
+      {
+        "text": " 1400 米",
+        "page": 14,
+        "source": "ocr",
+        "context": "址相对，中癌\n隔着一条较宽的河谷,相距罗 1400 米。\n\n Bil\ner] O 务韶文化 A"
+      },
+      {
+        "text": " 4米",
+        "page": 14,
+        "source": "ocr",
+        "context": "2 月6\n日转束,先在遗址东端开了4 X 4米的探方 103 个,三号 TI一100("
+      },
+      {
+        "text": " 4 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n得址的发所分为六区进行,探方均为4 X 4 米(附加方例外),方向正南北(T500 区"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "T300",
+        "page": 15,
+        "source": "ocr",
+        "context": "(包括附号 11 个, 大小不等,简称 T300 Ko\nARR)” 至于和遗址的较西部分"
+      },
+      {
+        "text": "T400",
+        "page": 15,
+        "source": "ocr",
+        "context": "LE, BS\nT401一T403(简称 T400 区)。另外在此龙沟东岸的三角地带,发现"
+      },
+      {
+        "text": "S2",
+        "page": 15,
+        "source": "ocr",
+        "context": "OHI TT\n9 SE SCME FE S2 WE SRIR EE OR BEL A"
+      },
+      {
+        "text": "T500",
+        "page": 15,
+        "source": "ocr",
+        "context": " X 4 米(附加方例外),方向正南北(T500 区因\n地形关系不作正方向),态号由北到"
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "堆积",
+        "page": 15,
+        "source": "ocr",
+        "context": "作的还有张振邦、丁六龙同志。\n\n二 文化堆积\n\n(—) 地层情驶\n得址的发所分为六区"
+      },
+      {
+        "text": "堆积",
+        "page": 15,
+        "source": "ocr",
+        "context": ",仰吕,龙山交迭的,仰部战国交达的三\n种堆积。现分区襄明如下:\n1.TL 区 BRU"
+      }
+    ]
+  }
+}

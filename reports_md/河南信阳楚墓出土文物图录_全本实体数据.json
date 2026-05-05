@@ -1,0 +1,1631 @@
+{
+  "name": "河南信阳楚墓出土文物图录",
+  "file": "河南信阳楚墓出土文物图录.pdf",
+  "processed_pages": 160,
+  "total_pages": 189,
+  "total_entities": 264,
+  "entity_stats": {
+    "遗迹编号": 8,
+    "年代": 5,
+    "葬具": 2,
+    "遗存类型": 3,
+    "漆器": 1,
+    "陶器": 15,
+    "铜器": 17,
+    "玉器": 1,
+    "纹饰": 7,
+    "测量数据": 203,
+    "木器": 1,
+    "遗址名称": 1
+  },
+  "entities": {
+    "遗迹编号": [
+      {
+        "text": "F448",
+        "page": 1,
+        "source": "ocr",
+        "context": "WERTZ, WLM, La M,\n£ F448; SAE HHES) SOSH, WY"
+      },
+      {
+        "text": "H4",
+        "page": 2,
+        "source": "ocr",
+        "context": "\n10.35%. KHADR 1AK, H4—-5. 2KHARER, ENMRUR"
+      },
+      {
+        "text": "K1",
+        "page": 16,
+        "source": "ocr",
+        "context": "Ay BER (BESO)\n\n上， K1.94%, B0.36K; F: K1."
+      },
+      {
+        "text": "K1",
+        "page": 16,
+        "source": "ocr",
+        "context": " K1.94%, B0.36K; F: K1.6K. H0.43K.\n"
+      },
+      {
+        "text": "H0",
+        "page": 16,
+        "source": "ocr",
+        "context": ", B0.36K; F: K1.6K. H0.43K.\n"
+      },
+      {
+        "text": "K1",
+        "page": 74,
+        "source": "ocr",
+        "context": "柄网勺(网七 )及木柄上之文字\n\n3H K1.439K~\n\n"
+      },
+      {
+        "text": "K0",
+        "page": 77,
+        "source": "ocr",
+        "context": "FE: K0.0755K, Asp 7B0.062K"
+      },
+      {
+        "text": "K0",
+        "page": 95,
+        "source": "ocr",
+        "context": "NH, BERRA\n\nfe: K0.224K3 中: 长0.166米; A"
+      }
+    ],
+    "年代": [
+      {
+        "text": "明",
+        "page": 1,
+        "source": "ocr",
+        "context": "咽喉。根据解放后十年来的考古调查与发据坦明: 远从四五千\nRUA BR, WA) "
+      },
+      {
+        "text": "战国",
+        "page": 1,
+        "source": "ocr",
+        "context": " AE, jp SRM AT EAL. 战国初\n£, SERIE, LECHLERR"
+      },
+      {
+        "text": "明",
+        "page": 2,
+        "source": "ocr",
+        "context": "过的。方木的\n制作都相当与称规整、禾角分明 、扣如精密，由于两喘时有桦和档，因而各"
+      },
+      {
+        "text": "金",
+        "page": 8,
+        "source": "ocr",
+        "context": "九、 枕\n\n——0, KEI\n\n一一一、金架彩给漆案 (正面及侧面\n\n一一二、木企"
+      },
+      {
+        "text": "金",
+        "page": 93,
+        "source": "ocr",
+        "context": "、错金谱玉铁带的(彩色展开图 )\n\n人二\n"
+      }
+    ],
+    "葬具": [
+      {
+        "text": "棺",
+        "page": 2,
+        "source": "ocr",
+        "context": "内有棺，棺构之问随匡着大批器物。其中网质的有刍"
+      },
+      {
+        "text": "棺",
+        "page": 2,
+        "source": "ocr",
+        "context": "内有棺，棺构之问随匡着大批器物。其中网质的有刍、带"
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "竹简",
+        "page": 3,
+        "source": "ocr",
+        "context": "ATR, HM\nAREA DEER.\n\n竹简分两组，一组时于后北室，计二十作只，共的"
+      },
+      {
+        "text": "竹简",
+        "page": 9,
+        "source": "ocr",
+        "context": "ARAF\n—=h, Thi\n\n一四〇、人竹简\n\n一四一、竹简\n\n一四二、俐简\n\n一四"
+      },
+      {
+        "text": "竹简",
+        "page": 9,
+        "source": "ocr",
+        "context": ", Thi\n\n一四〇、人竹简\n\n一四一、竹简\n\n一四二、俐简\n\n一四四、俐简\n\n—O"
+      }
+    ],
+    "漆器": [
+      {
+        "text": "漆器",
+        "page": 4,
+        "source": "ocr",
+        "context": "\n我国目前所发现的唯一软成套的古乐器，木漆器的彩给国案，为研究我国美多史增应\nTED"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "球",
+        "page": 7,
+        "source": "ocr",
+        "context": "EH\n\nAd, FERRED\n\n八大、料球、岗铺首衔环及小网环\nAk, EB   "
+      },
+      {
+        "text": "环",
+        "page": 7,
+        "source": "ocr",
+        "context": ", FERRED\n\n八大、料球、岗铺首衔环及小网环\nAk, EB     .\n\nN"
+      },
+      {
+        "text": "环",
+        "page": 7,
+        "source": "ocr",
+        "context": "RRED\n\n八大、料球、岗铺首衔环及小网环\nAk, EB     .\n\nN\\A, "
+      },
+      {
+        "text": "豆",
+        "page": 9,
+        "source": "ocr",
+        "context": "、复原后之彩给木粗\n\n一二五、圆下彩绘木豆(彩色摹给展开国)\n一二六、耳杯豆\n\n—"
+      },
+      {
+        "text": "杯",
+        "page": 9,
+        "source": "ocr",
+        "context": "下彩绘木豆(彩色摹给展开国)\n一二六、耳杯豆\n\n—xt, FFE LE\n\n—rAy"
+      },
+      {
+        "text": "豆",
+        "page": 9,
+        "source": "ocr",
+        "context": "彩绘木豆(彩色摹给展开国)\n一二六、耳杯豆\n\n—xt, FFE LE\n\n—rAy "
+      },
+      {
+        "text": "环",
+        "page": 42,
+        "source": "ocr",
+        "context": "色版)\n\n通高0.12米，寅0.95米，环径0.11米。\n\n"
+      },
+      {
+        "text": "环",
+        "page": 96,
+        "source": "ocr",
+        "context": "\nAy Bak, STARA\n\n铀铺首衡环: 直径0.026米; 小网环: 直径0"
+      },
+      {
+        "text": "环",
+        "page": 96,
+        "source": "ocr",
+        "context": "\n铀铺首衡环: 直径0.026米; 小网环: 直径0.013米。\n"
+      },
+      {
+        "text": "豆",
+        "page": 133,
+        "source": "ocr",
+        "context": "一二三、岛首木豆(附善 )\n\n高0.271米，盘径0.1"
+      },
+      {
+        "text": "盘",
+        "page": 133,
+        "source": "ocr",
+        "context": "、岛首木豆(附善 )\n\n高0.271米，盘径0.161米。\n"
+      },
+      {
+        "text": "盘",
+        "page": 134,
+        "source": "ocr",
+        "context": "一二四 ‘  圆盘彩绘木豆\n高0.193米，盘径0.191"
+      },
+      {
+        "text": "豆",
+        "page": 134,
+        "source": "ocr",
+        "context": "一二四 ‘  圆盘彩绘木豆\n高0.193米，盘径0.191米e\n\n"
+      },
+      {
+        "text": "盘",
+        "page": 134,
+        "source": "ocr",
+        "context": "四 ‘  圆盘彩绘木豆\n高0.193米，盘径0.191米e\n\n"
+      },
+      {
+        "text": "豆",
+        "page": 138,
+        "source": "ocr",
+        "context": "一二八、耳标豆(彩色摹给展开图)\n"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "饰",
+        "page": 7,
+        "source": "ocr",
+        "context": "E\n4, BRE GG\n\n七五、五支形车饰及网构\n\n七大、复原后之车盖\n\n七七、车"
+      },
+      {
+        "text": "饰",
+        "page": 7,
+        "source": "ocr",
+        "context": "鞘\n\nty BARRA\n\nACy 错银网饰物\n\nA, BARS CB EMO\n\nA"
+      },
+      {
+        "text": "环",
+        "page": 7,
+        "source": "ocr",
+        "context": ", FERRED\n\n八大、料球、岗铺首衔环及小网环\nAk, EB     .\n\nN"
+      },
+      {
+        "text": "环",
+        "page": 7,
+        "source": "ocr",
+        "context": "RRED\n\n八大、料球、岗铺首衔环及小网环\nAk, EB     .\n\nN\\A, "
+      },
+      {
+        "text": "豆",
+        "page": 9,
+        "source": "ocr",
+        "context": "、复原后之彩给木粗\n\n一二五、圆下彩绘木豆(彩色摹给展开国)\n一二六、耳杯豆\n\n—"
+      },
+      {
+        "text": "杯",
+        "page": 9,
+        "source": "ocr",
+        "context": "下彩绘木豆(彩色摹给展开国)\n一二六、耳杯豆\n\n—xt, FFE LE\n\n—rAy"
+      },
+      {
+        "text": "豆",
+        "page": 9,
+        "source": "ocr",
+        "context": "彩绘木豆(彩色摹给展开国)\n一二六、耳杯豆\n\n—xt, FFE LE\n\n—rAy "
+      },
+      {
+        "text": "环",
+        "page": 42,
+        "source": "ocr",
+        "context": "色版)\n\n通高0.12米，寅0.95米，环径0.11米。\n\n"
+      },
+      {
+        "text": "戈",
+        "page": 88,
+        "source": "ocr",
+        "context": "LA, BREA\n\n戈，长0.205米，援长0.131; AR"
+      },
+      {
+        "text": "环",
+        "page": 96,
+        "source": "ocr",
+        "context": "\nAy Bak, STARA\n\n铀铺首衡环: 直径0.026米; 小网环: 直径0"
+      },
+      {
+        "text": "环",
+        "page": 96,
+        "source": "ocr",
+        "context": "\n铀铺首衡环: 直径0.026米; 小网环: 直径0.013米。\n"
+      },
+      {
+        "text": "豆",
+        "page": 133,
+        "source": "ocr",
+        "context": "一二三、岛首木豆(附善 )\n\n高0.271米，盘径0.1"
+      },
+      {
+        "text": "盘",
+        "page": 133,
+        "source": "ocr",
+        "context": "、岛首木豆(附善 )\n\n高0.271米，盘径0.161米。\n"
+      },
+      {
+        "text": "盘",
+        "page": 134,
+        "source": "ocr",
+        "context": "一二四 ‘  圆盘彩绘木豆\n高0.193米，盘径0.191"
+      },
+      {
+        "text": "豆",
+        "page": 134,
+        "source": "ocr",
+        "context": "一二四 ‘  圆盘彩绘木豆\n高0.193米，盘径0.191米e\n\n"
+      },
+      {
+        "text": "盘",
+        "page": 134,
+        "source": "ocr",
+        "context": "四 ‘  圆盘彩绘木豆\n高0.193米，盘径0.191米e\n\n"
+      },
+      {
+        "text": "豆",
+        "page": 138,
+        "source": "ocr",
+        "context": "一二八、耳标豆(彩色摹给展开图)\n"
+      }
+    ],
+    "玉器": [
+      {
+        "text": "玉管",
+        "page": 8,
+        "source": "ocr",
+        "context": "\n\nAL, ER     :\n大、长条形玉管、花衬珠及玉带的\n\nAt, HBR (E"
+      }
+    ],
+    "纹饰": [
+      {
+        "text": "彩绘",
+        "page": 8,
+        "source": "ocr",
+        "context": "一一大、彩给方座\n\n一一七、复原后之大型彩绘方合\n一一人、揽原后之小型彩给方全\n\n"
+      },
+      {
+        "text": "彩绘",
+        "page": 9,
+        "source": "ocr",
+        "context": "，一一九、小型彩绘方盒残片\n\n一二D、彩给木姐\n\n一二一、"
+      },
+      {
+        "text": "彩绘",
+        "page": 9,
+        "source": "ocr",
+        "context": "一二二、复原后之彩给木粗\n\n一二五、圆下彩绘木豆(彩色摹给展开国)\n一二六、耳杯豆\n"
+      },
+      {
+        "text": "彩绘",
+        "page": 128,
+        "source": "ocr",
+        "context": "一一八、复原后之小型彩绘方全\n口\n\n通高0.325米，  口长0"
+      },
+      {
+        "text": "彩绘",
+        "page": 132,
+        "source": "ocr",
+        "context": "一二二、复原后之彩绘木粗\n\n高0.1米，长0.238米。\n"
+      },
+      {
+        "text": "彩绘",
+        "page": 134,
+        "source": "ocr",
+        "context": "一二四 ‘  圆盘彩绘木豆\n高0.193米，盘径0.191米e"
+      },
+      {
+        "text": "彩绘",
+        "page": 158,
+        "source": "ocr",
+        "context": "一四八、彩绘陶圳(彩色摹绘图)\n\n"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": "高2.5米",
+        "page": 12,
+        "source": "ocr",
+        "context": "BR\n\n8.9K, FIT.58R,  高2.5米。\n\n"
+      },
+      {
+        "text": "长2.25米",
+        "page": 14,
+        "source": "ocr",
+        "context": "WW. AEH tine\n\n长2.25米，袖1.18米，高1.1站。\n"
+      },
+      {
+        "text": "1.18米",
+        "page": 14,
+        "source": "ocr",
+        "context": ". AEH tine\n\n长2.25米，袖1.18米，高1.1站。\n"
+      },
+      {
+        "text": "长0.35米",
+        "page": 19,
+        "source": "ocr",
+        "context": "52829K, SEKO.091%K;\n长0.35米，裤0.3米，高0.19米。\n\n"
+      },
+      {
+        "text": "0.3米",
+        "page": 19,
+        "source": "ocr",
+        "context": "SEKO.091%K;\n长0.35米，裤0.3米，高0.19米。\n\n"
+      },
+      {
+        "text": "高0.19米",
+        "page": 19,
+        "source": "ocr",
+        "context": "091%K;\n长0.35米，裤0.3米，高0.19米。\n\n"
+      },
+      {
+        "text": "0.17米",
+        "page": 22,
+        "source": "ocr",
+        "context": "号轧颖之右前侧\n钰间0.17米。\n\n1\n\n-一\n一一\n-一下\n\n通高0"
+      },
+      {
+        "text": "通高0.302米",
+        "page": 22,
+        "source": "ocr",
+        "context": "17米。\n\n1\n\n-一\n一一\n-一下\n\n通高0.302米，\n"
+      },
+      {
+        "text": "通高0.231米",
+        "page": 31,
+        "source": "ocr",
+        "context": "-一 4—5 77 fase\n通高0.231米， SK HO.13452K;\n3 7H"
+      },
+      {
+        "text": "通高0.211米",
+        "page": 32,
+        "source": "ocr",
+        "context": "二二、6一7号据缠\n通高0.211米，铂半0.12米;\n通高0.2005米，"
+      },
+      {
+        "text": "0.12米",
+        "page": 32,
+        "source": "ocr",
+        "context": "二、6一7号据缠\n通高0.211米，铂半0.12米;\n通高0.2005米，馆间0.1205"
+      },
+      {
+        "text": "通高0.2005米",
+        "page": 32,
+        "source": "ocr",
+        "context": "缠\n通高0.211米，铂半0.12米;\n通高0.2005米，馆间0.1205米。\n\nat At\n"
+      },
+      {
+        "text": "0.1205米",
+        "page": 32,
+        "source": "ocr",
+        "context": "半0.12米;\n通高0.2005米，馆间0.1205米。\n\nat At\n"
+      },
+      {
+        "text": "通高0.149米",
+        "page": 35,
+        "source": "ocr",
+        "context": "Hy 12-13 7s\n\nE: 通高0.149米， $kHH0.739K;\nAi. 3H"
+      },
+      {
+        "text": "直径0.93米",
+        "page": 40,
+        "source": "ocr",
+        "context": "三O、复原后之大鼓与墙座〈正面)\n\n鼓直径0.93米，厚0.26米。\n"
+      },
+      {
+        "text": "0.26米",
+        "page": 40,
+        "source": "ocr",
+        "context": "鼓与墙座〈正面)\n\n鼓直径0.93米，厚0.26米。\n"
+      },
+      {
+        "text": "通高0.12米",
+        "page": 42,
+        "source": "ocr",
+        "context": "==, SES (彩色版)\n\n通高0.12米，寅0.95米，环径0.11米。\n\n"
+      },
+      {
+        "text": "0.95米",
+        "page": 42,
+        "source": "ocr",
+        "context": "SES (彩色版)\n\n通高0.12米，寅0.95米，环径0.11米。\n\n"
+      },
+      {
+        "text": "0.11米",
+        "page": 42,
+        "source": "ocr",
+        "context": ")\n\n通高0.12米，寅0.95米，环径0.11米。\n\n"
+      },
+      {
+        "text": "直径0.4218米",
+        "page": 44,
+        "source": "ocr",
+        "context": "直径0.4218米，厚0.12米。\n\n"
+      },
+      {
+        "text": "0.12米",
+        "page": 44,
+        "source": "ocr",
+        "context": "直径0.4218米，厚0.12米。\n\n"
+      },
+      {
+        "text": "长1.84米",
+        "page": 46,
+        "source": "ocr",
+        "context": "EK, KBAR 《正面及侧面)\n\n长1.84米，实0.485米。\n\n"
+      },
+      {
+        "text": "0.485米",
+        "page": 46,
+        "source": "ocr",
+        "context": "AR 《正面及侧面)\n\n长1.84米，实0.485米。\n\n"
+      },
+      {
+        "text": "长1.87米",
+        "page": 48,
+        "source": "ocr",
+        "context": "三八、二号楚蔓出十之大型木瑟\n\n长1.87米，-夏0.48米。\n"
+      },
+      {
+        "text": "0.48米",
+        "page": 48,
+        "source": "ocr",
+        "context": "楚蔓出十之大型木瑟\n\n长1.87米，-夏0.48米。\n"
+      },
+      {
+        "text": "1米",
+        "page": 50,
+        "source": "ocr",
+        "context": "WO, HERHA RTE\n\n长多1米，宝0.4米。\n\n"
+      },
+      {
+        "text": "0.4米",
+        "page": 50,
+        "source": "ocr",
+        "context": "O, HERHA RTE\n\n长多1米，宝0.4米。\n\n"
+      },
+      {
+        "text": "通高0.393米",
+        "page": 55,
+        "source": "ocr",
+        "context": "四五、工号网时\n\n通高0.393米，口径0.32米。\n"
+      },
+      {
+        "text": "口径0.32米",
+        "page": 55,
+        "source": "ocr",
+        "context": "四五、工号网时\n\n通高0.393米，口径0.32米。\n"
+      },
+      {
+        "text": "通高0.33米",
+        "page": 57,
+        "source": "ocr",
+        "context": " ’   2—3F sash\n\nZe: 通高0.33米; A: WHO.33K.\n"
+      },
+      {
+        "text": "通高0.242米",
+        "page": 58,
+        "source": "ocr",
+        "context": "四 A ‘   4一5号网办\n\n左，通高0.242米; 右: 通高0.246米。\n\n"
+      },
+      {
+        "text": "通高0.246米",
+        "page": 58,
+        "source": "ocr",
+        "context": "号网办\n\n左，通高0.242米; 右: 通高0.246米。\n\n"
+      },
+      {
+        "text": "长0.235米",
+        "page": 59,
+        "source": "ocr",
+        "context": "WA Sah eh\n\n长0.235米。\n"
+      },
+      {
+        "text": "通高0.245米",
+        "page": 60,
+        "source": "ocr",
+        "context": "RO, HH\n\n通高0.245米，口径0.109米。\n\n"
+      },
+      {
+        "text": "口径0.109米",
+        "page": 60,
+        "source": "ocr",
+        "context": "RO, HH\n\n通高0.245米，口径0.109米。\n\n"
+      },
+      {
+        "text": "通高0.266米",
+        "page": 62,
+        "source": "ocr",
+        "context": "Fr, =RRK\n\n通高0.266米，口径0.213米。\n\n"
+      },
+      {
+        "text": "口径0.213米",
+        "page": 62,
+        "source": "ocr",
+        "context": "Fr, =RRK\n\n通高0.266米，口径0.213米。\n\n"
+      },
+      {
+        "text": "通高0.14米",
+        "page": 66,
+        "source": "ocr",
+        "context": "通高0.14米，口径0.117米。\n"
+      },
+      {
+        "text": "口径0.117米",
+        "page": 66,
+        "source": "ocr",
+        "context": "通高0.14米，口径0.117米。\n"
+      },
+      {
+        "text": "通高0.381米",
+        "page": 68,
+        "source": "ocr",
+        "context": "A, WARE\n\n通高0.381米，口径0.091米。\n\n"
+      },
+      {
+        "text": "口径0.091米",
+        "page": 68,
+        "source": "ocr",
+        "context": "A, WARE\n\n通高0.381米，口径0.091米。\n\n"
+      },
+      {
+        "text": "高0.2245米",
+        "page": 69,
+        "source": "ocr",
+        "context": "Thy HERE\n\n高0.2245米，口径0.088米。\n\n"
+      },
+      {
+        "text": "口径0.088米",
+        "page": 69,
+        "source": "ocr",
+        "context": "Thy HERE\n\n高0.2245米，口径0.088米。\n\n"
+      },
+      {
+        "text": "通高0.185米",
+        "page": 70,
+        "source": "ocr",
+        "context": "KO, HH\n\n通高0.185米，口径0.1米。\n\n"
+      },
+      {
+        "text": "口径0.1米",
+        "page": 70,
+        "source": "ocr",
+        "context": "KO, HH\n\n通高0.185米，口径0.1米。\n\n"
+      },
+      {
+        "text": "通高0.201米",
+        "page": 71,
+        "source": "ocr",
+        "context": "通高0.201米，口径0.314米。\n"
+      },
+      {
+        "text": "口径0.314米",
+        "page": 71,
+        "source": "ocr",
+        "context": "通高0.201米，口径0.314米。\n"
+      },
+      {
+        "text": "高0.109米",
+        "page": 72,
+        "source": "ocr",
+        "context": "a\nAX, Saat\n高0.109米，口径0.486米。\n"
+      },
+      {
+        "text": "口径0.486米",
+        "page": 72,
+        "source": "ocr",
+        "context": "a\nAX, Saat\n高0.109米，口径0.486米。\n"
+      },
+      {
+        "text": "长0.26米",
+        "page": 73,
+        "source": "ocr",
+        "context": "AE, HERA\n\nE: 通长0.26米， 高6208阔， A: 长0.25米，"
+      },
+      {
+        "text": "长0.25米",
+        "page": 73,
+        "source": "ocr",
+        "context": "通长0.26米， 高6208阔， A: 长0.25米， 前寅0.24米。\n"
+      },
+      {
+        "text": "0.24米",
+        "page": 73,
+        "source": "ocr",
+        "context": "6208阔， A: 长0.25米， 前寅0.24米。\n"
+      },
+      {
+        "text": "长0.222米",
+        "page": 75,
+        "source": "ocr",
+        "context": "SA (SAL) RSA\n\n左、中: 通长0.222米; 右。通长0.45米。\n"
+      },
+      {
+        "text": "长0.45米",
+        "page": 75,
+        "source": "ocr",
+        "context": "\n\n左、中: 通长0.222米; 右。通长0.45米。\n"
+      },
+      {
+        "text": "长0.066米",
+        "page": 77,
+        "source": "ocr",
+        "context": ", Asp 7B0.062K; 中: 通长0.066米;\nAi: 长0.0635米，粗端直径0"
+      },
+      {
+        "text": "长0.0635米",
+        "page": 77,
+        "source": "ocr",
+        "context": "K; 中: 通长0.066米;\nAi: 长0.0635米，粗端直径0.033米。\n\n"
+      },
+      {
+        "text": "直径0.033米",
+        "page": 77,
+        "source": "ocr",
+        "context": "66米;\nAi: 长0.0635米，粗端直径0.033米。\n\n"
+      },
+      {
+        "text": "长0.05米",
+        "page": 78,
+        "source": "ocr",
+        "context": "AN. SiH\n\nFe: 长0.05米、，粗端直径0.031米;\n右: 长0."
+      },
+      {
+        "text": "直径0.031米",
+        "page": 78,
+        "source": "ocr",
+        "context": " SiH\n\nFe: 长0.05米、，粗端直径0.031米;\n右: 长0.049米，粗端直径0.0"
+      },
+      {
+        "text": "长0.049米",
+        "page": 78,
+        "source": "ocr",
+        "context": "05米、，粗端直径0.031米;\n右: 长0.049米，粗端直径0.05米。\n\n"
+      },
+      {
+        "text": "直径0.05米",
+        "page": 78,
+        "source": "ocr",
+        "context": ".031米;\n右: 长0.049米，粗端直径0.05米。\n\n"
+      },
+      {
+        "text": "长0.179米",
+        "page": 79,
+        "source": "ocr",
+        "context": "Ab\n\nAdy HE\n\n通长0.179米，.坦径0.08沙;\n通长0.157米，"
+      },
+      {
+        "text": "长0.157米",
+        "page": 79,
+        "source": "ocr",
+        "context": "通长0.179米，.坦径0.08沙;\n通长0.157米，直径0.085炒。\n\n"
+      },
+      {
+        "text": "长0.215米",
+        "page": 81,
+        "source": "ocr",
+        "context": "上: 360.21K; F: 通长0.215米。\n"
+      },
+      {
+        "text": "0.115米",
+        "page": 82,
+        "source": "ocr",
+        "context": "tay Hera\n\n长径0.115米，短径0.096米，高0.07米。\n"
+      },
+      {
+        "text": "0.096米",
+        "page": 82,
+        "source": "ocr",
+        "context": "ay Hera\n\n长径0.115米，短径0.096米，高0.07米。\n"
+      },
+      {
+        "text": "高0.07米",
+        "page": 82,
+        "source": "ocr",
+        "context": "\n\n长径0.115米，短径0.096米，高0.07米。\n"
+      },
+      {
+        "text": "长1.099米",
+        "page": 84,
+        "source": "ocr",
+        "context": "七四、车衫及车节\n车栏，长1.099米，袖0.22米; Mii: 高0.782"
+      },
+      {
+        "text": "0.22米",
+        "page": 84,
+        "source": "ocr",
+        "context": "四、车衫及车节\n车栏，长1.099米，袖0.22米; Mii: 高0.782米。\n\n"
+      },
+      {
+        "text": "高0.782米",
+        "page": 84,
+        "source": "ocr",
+        "context": "1.099米，袖0.22米; Mii: 高0.782米。\n\n"
+      },
+      {
+        "text": "长0.124米",
+        "page": 85,
+        "source": "ocr",
+        "context": "Li, EXPER\n\nHe: 长0.124米; Ai: 长0.055米。\n"
+      },
+      {
+        "text": "长0.055米",
+        "page": 85,
+        "source": "ocr",
+        "context": "R\n\nHe: 长0.124米; Ai: 长0.055米。\n"
+      },
+      {
+        "text": "长1.82米",
+        "page": 86,
+        "source": "ocr",
+        "context": "复原后之车\n长1.82米，裤1.36米，高0.84米。\n\n=\nZ"
+      },
+      {
+        "text": "1.36米",
+        "page": 86,
+        "source": "ocr",
+        "context": "复原后之车\n长1.82米，裤1.36米，高0.84米。\n\n=\nZN\n\n"
+      },
+      {
+        "text": "高0.84米",
+        "page": 86,
+        "source": "ocr",
+        "context": "复原后之车\n长1.82米，裤1.36米，高0.84米。\n\n=\nZN\n\n"
+      },
+      {
+        "text": "长0.205米",
+        "page": 88,
+        "source": "ocr",
+        "context": "LA, BREA\n\n戈，长0.205米，援长0.131; AR: 援长0.13"
+      },
+      {
+        "text": "长0.134米",
+        "page": 88,
+        "source": "ocr",
+        "context": ".205米，援长0.131; AR: 援长0.134米。\n"
+      },
+      {
+        "text": "长1.6米",
+        "page": 89,
+        "source": "ocr",
+        "context": "LAy ARRAS\n\n通长1.6米。\n\n"
+      },
+      {
+        "text": "长0.065米",
+        "page": 90,
+        "source": "ocr",
+        "context": "NO, SRAM\n\nFe: 长0.065米; Ai: 长0.044米。\n\n"
+      },
+      {
+        "text": "长0.044米",
+        "page": 90,
+        "source": "ocr",
+        "context": "M\n\nFe: 长0.065米; Ai: 长0.044米。\n\n"
+      },
+      {
+        "text": "直径0.14米",
+        "page": 91,
+        "source": "ocr",
+        "context": "八一、彩给网绊(彩色版)\n\n直径0.14米。\n"
+      },
+      {
+        "text": "长0.224米",
+        "page": 92,
+        "source": "ocr",
+        "context": "N= FEVER TA\n\n长0.224米。\n"
+      },
+      {
+        "text": "长0.215米",
+        "page": 94,
+        "source": "ocr",
+        "context": "AW, FERERGA\n\n长0.215米。\n\n"
+      },
+      {
+        "text": "长0.166米",
+        "page": 95,
+        "source": "ocr",
+        "context": "RA\n\nfe: K0.224K3 中: 长0.166米; A: 长0.094米。\n"
+      },
+      {
+        "text": "长0.094米",
+        "page": 95,
+        "source": "ocr",
+        "context": "24K3 中: 长0.166米; A: 长0.094米。\n"
+      },
+      {
+        "text": "直径0.026米",
+        "page": 96,
+        "source": "ocr",
+        "context": " Bak, STARA\n\n铀铺首衡环: 直径0.026米; 小网环: 直径0.013米。\n"
+      },
+      {
+        "text": "直径0.013米",
+        "page": 96,
+        "source": "ocr",
+        "context": "首衡环: 直径0.026米; 小网环: 直径0.013米。\n"
+      },
+      {
+        "text": "0.151米",
+        "page": 97,
+        "source": "ocr",
+        "context": "A+, £2\n\n外径0.151米，厚0.004米。\n\n"
+      },
+      {
+        "text": "0.004米",
+        "page": 97,
+        "source": "ocr",
+        "context": "A+, £2\n\n外径0.151米，厚0.004米。\n\n"
+      },
+      {
+        "text": "0.136米",
+        "page": 98,
+        "source": "ocr",
+        "context": "NA, £8\n\n外径0.136米，厚0.009米。\n\n"
+      },
+      {
+        "text": "0.009米",
+        "page": 98,
+        "source": "ocr",
+        "context": "NA, £8\n\n外径0.136米，厚0.009米。\n\n"
+      },
+      {
+        "text": "0.111米",
+        "page": 99,
+        "source": "ocr",
+        "context": "At £2\n\n外径0.111米，厚0.0065米。\n"
+      },
+      {
+        "text": "0.0065米",
+        "page": 99,
+        "source": "ocr",
+        "context": "At £2\n\n外径0.111米，厚0.0065米。\n"
+      },
+      {
+        "text": "0.099米",
+        "page": 100,
+        "source": "ocr",
+        "context": "RO, £B\n上左，外径0.099米,厚0.0045米; Ai: F+4EO"
+      },
+      {
+        "text": "0.0045米",
+        "page": 100,
+        "source": "ocr",
+        "context": "RO, £B\n上左，外径0.099米,厚0.0045米; Ai: F+4EO.09K: 0.0"
+      },
+      {
+        "text": " 0.005 米",
+        "page": 100,
+        "source": "ocr",
+        "context": "045米; Ai: F+4EO.09K: 0.005 米;\nFH: 外径0.052米, 厚0.0"
+      },
+      {
+        "text": "0.052米",
+        "page": 100,
+        "source": "ocr",
+        "context": "09K: 0.005 米;\nFH: 外径0.052米, 厚0.0045米; 右: 外径0.0"
+      },
+      {
+        "text": "0.0045米",
+        "page": 100,
+        "source": "ocr",
+        "context": "5 米;\nFH: 外径0.052米, 厚0.0045米; 右: 外径0.05米,厚0.0035"
+      },
+      {
+        "text": "0.05米",
+        "page": 100,
+        "source": "ocr",
+        "context": "52米, 厚0.0045米; 右: 外径0.05米,厚0.0035米。\n"
+      },
+      {
+        "text": "0.0035米",
+        "page": 100,
+        "source": "ocr",
+        "context": ".0045米; 右: 外径0.05米,厚0.0035米。\n"
+      },
+      {
+        "text": "0.144米",
+        "page": 101,
+        "source": "ocr",
+        "context": "UES\n\n’\n\n一一\n\n乓0.144米，厚0.003米。\n"
+      },
+      {
+        "text": "0.003米",
+        "page": 101,
+        "source": "ocr",
+        "context": "ES\n\n’\n\n一一\n\n乓0.144米，厚0.003米。\n"
+      },
+      {
+        "text": "长0.1003米",
+        "page": 102,
+        "source": "ocr",
+        "context": "Ba) |\n\n形\n长0.1003米，厚0.005米。\n\nit\n\nAas\n\n"
+      },
+      {
+        "text": "0.005米",
+        "page": 102,
+        "source": "ocr",
+        "context": "Ba) |\n\n形\n长0.1003米，厚0.005米。\n\nit\n\nAas\n\n"
+      },
+      {
+        "text": "长0.126米",
+        "page": 105,
+        "source": "ocr",
+        "context": "Ah, ER\n\n自上而下; 1.长0.126米， 厚0.005米: 2.长0.131洲"
+      },
+      {
+        "text": "0.005米",
+        "page": 105,
+        "source": "ocr",
+        "context": "\n\n自上而下; 1.长0.126米， 厚0.005米: 2.长0.131洲，厚0.005米，"
+      },
+      {
+        "text": "0.005米",
+        "page": 105,
+        "source": "ocr",
+        "context": "厚0.005米: 2.长0.131洲，厚0.005米，\n3 .长0.141米,厚0.0045"
+      },
+      {
+        "text": "长0.141米",
+        "page": 105,
+        "source": "ocr",
+        "context": "长0.131洲，厚0.005米，\n3 .长0.141米,厚0.0045米， 4,40.151K"
+      },
+      {
+        "text": "0.0045米",
+        "page": 105,
+        "source": "ocr",
+        "context": "0.005米，\n3 .长0.141米,厚0.0045米， 4,40.151K> 厚0.005米"
+      },
+      {
+        "text": "0.005米",
+        "page": 105,
+        "source": "ocr",
+        "context": ".0045米， 4,40.151K> 厚0.005米。\n"
+      },
+      {
+        "text": "长0.088米",
+        "page": 106,
+        "source": "ocr",
+        "context": " EAWER, CARRERA\nFe: 长0.088米， 厚0.005米; 中: 长0.018"
+      },
+      {
+        "text": "0.005米",
+        "page": 106,
+        "source": "ocr",
+        "context": "RRERA\nFe: 长0.088米， 厚0.005米; 中: 长0.018米， 径0.013"
+      },
+      {
+        "text": "长0.018米",
+        "page": 106,
+        "source": "ocr",
+        "context": "0.088米， 厚0.005米; 中: 长0.018米， 径0.013米;\n右: 长0.069"
+      },
+      {
+        "text": "0.013米",
+        "page": 106,
+        "source": "ocr",
+        "context": ".005米; 中: 长0.018米， 径0.013米;\n右: 长0.069米， }20.02"
+      },
+      {
+        "text": "长0.069米",
+        "page": 106,
+        "source": "ocr",
+        "context": "0.018米， 径0.013米;\n右: 长0.069米， }20.022Ko\n"
+      },
+      {
+        "text": "高0.775米",
+        "page": 112,
+        "source": "ocr",
+        "context": "一全一 ti\n左，高0.775米; A: HO.814K.\n"
+      },
+      {
+        "text": "高0.64米",
+        "page": 113,
+        "source": "ocr",
+        "context": "一〇三、舞蹈俑(正面及侧面)\n\n高0.64米。             下\n"
+      },
+      {
+        "text": "长2.182米",
+        "page": 116,
+        "source": "ocr",
+        "context": "长2.182米，裤1.39米，通高0.613米。\n\n"
+      },
+      {
+        "text": "1.39米",
+        "page": 116,
+        "source": "ocr",
+        "context": "长2.182米，裤1.39米，通高0.613米。\n\n"
+      },
+      {
+        "text": "通高0.613米",
+        "page": 116,
+        "source": "ocr",
+        "context": "长2.182米，裤1.39米，通高0.613米。\n\n"
+      },
+      {
+        "text": "高0.19米",
+        "page": 118,
+        "source": "ocr",
+        "context": "一及、  Bh ask IR\n\n高0.19米。\n\n"
+      },
+      {
+        "text": "长0.26米",
+        "page": 119,
+        "source": "ocr",
+        "context": "长0.26米，高0.124米。\n"
+      },
+      {
+        "text": "高0.124米",
+        "page": 119,
+        "source": "ocr",
+        "context": "长0.26米，高0.124米。\n"
+      },
+      {
+        "text": "长0.604米",
+        "page": 120,
+        "source": "ocr",
+        "context": "一一D、木展花几\n\n长0.604米，高0.48米。\n"
+      },
+      {
+        "text": "高0.48米",
+        "page": 120,
+        "source": "ocr",
+        "context": "一一D、木展花几\n\n长0.604米，高0.48米。\n"
+      },
+      {
+        "text": "通高0.98米",
+        "page": 122,
+        "source": "ocr",
+        "context": "通高0.98米”长0.96站。\n"
+      },
+      {
+        "text": "通高0.57米",
+        "page": 123,
+        "source": "ocr",
+        "context": "通高0.57米，长0.45米，袖0.186米。\n"
+      },
+      {
+        "text": "长0.45米",
+        "page": 123,
+        "source": "ocr",
+        "context": "通高0.57米，长0.45米，袖0.186米。\n"
+      },
+      {
+        "text": "0.186米",
+        "page": 123,
+        "source": "ocr",
+        "context": "通高0.57米，长0.45米，袖0.186米。\n"
+      },
+      {
+        "text": "高0.23米",
+        "page": 124,
+        "source": "ocr",
+        "context": "高0.23米，长0.99米，  衫0.432米。\n\n"
+      },
+      {
+        "text": "长0.99米",
+        "page": 124,
+        "source": "ocr",
+        "context": "高0.23米，长0.99米，  衫0.432米。\n\n"
+      },
+      {
+        "text": "0.432米",
+        "page": 124,
+        "source": "ocr",
+        "context": "高0.23米，长0.99米，  衫0.432米。\n\n"
+      },
+      {
+        "text": "通高0.345米",
+        "page": 127,
+        "source": "ocr",
+        "context": " Fo  BRECKAPRETE :\n\n通高0.345米，  口长0.31米，  口实0.27米"
+      },
+      {
+        "text": "长0.31米",
+        "page": 127,
+        "source": "ocr",
+        "context": "RETE :\n\n通高0.345米，  口长0.31米，  口实0.27米。\n"
+      },
+      {
+        "text": "0.27米",
+        "page": 127,
+        "source": "ocr",
+        "context": ".345米，  口长0.31米，  口实0.27米。\n"
+      },
+      {
+        "text": "通高0.325米",
+        "page": 128,
+        "source": "ocr",
+        "context": "一一八、复原后之小型彩绘方全\n口\n\n通高0.325米，  口长0.265阔，    宽0.2"
+      },
+      {
+        "text": "宽0.22米",
+        "page": 128,
+        "source": "ocr",
+        "context": "325米，  口长0.265阔，    宽0.22米。\n"
+      },
+      {
+        "text": "高0.144米",
+        "page": 130,
+        "source": "ocr",
+        "context": "—2O, PEK\n高0.144米，面长0.245米。\n"
+      },
+      {
+        "text": "长0.245米",
+        "page": 130,
+        "source": "ocr",
+        "context": "—2O, PEK\n高0.144米，面长0.245米。\n"
+      },
+      {
+        "text": "高0.1米",
+        "page": 132,
+        "source": "ocr",
+        "context": "一二二、复原后之彩绘木粗\n\n高0.1米，长0.238米。\n"
+      },
+      {
+        "text": "长0.238米",
+        "page": 132,
+        "source": "ocr",
+        "context": "一二二、复原后之彩绘木粗\n\n高0.1米，长0.238米。\n"
+      },
+      {
+        "text": "高0.271米",
+        "page": 133,
+        "source": "ocr",
+        "context": "一二三、岛首木豆(附善 )\n\n高0.271米，盘径0.161米。\n"
+      },
+      {
+        "text": "0.161米",
+        "page": 133,
+        "source": "ocr",
+        "context": "首木豆(附善 )\n\n高0.271米，盘径0.161米。\n"
+      },
+      {
+        "text": "高0.193米",
+        "page": 134,
+        "source": "ocr",
+        "context": "一二四 ‘  圆盘彩绘木豆\n高0.193米，盘径0.191米e\n\n"
+      },
+      {
+        "text": "0.191米",
+        "page": 134,
+        "source": "ocr",
+        "context": "‘  圆盘彩绘木豆\n高0.193米，盘径0.191米e\n\n"
+      },
+      {
+        "text": "高0.175米",
+        "page": 136,
+        "source": "ocr",
+        "context": "高0.175米，长径0.179米。\n\n"
+      },
+      {
+        "text": "0.179米",
+        "page": 136,
+        "source": "ocr",
+        "context": "高0.175米，长径0.179米。\n\n"
+      },
+      {
+        "text": "高0.085米",
+        "page": 139,
+        "source": "ocr",
+        "context": "九、复原后之彩给木区\n高0.085米，口长径0.19米。\n\n一一\n一一\n-一"
+      },
+      {
+        "text": "0.19米",
+        "page": 139,
+        "source": "ocr",
+        "context": "复原后之彩给木区\n高0.085米，口长径0.19米。\n\n一一\n一一\n-一一\n"
+      },
+      {
+        "text": "高0.48米",
+        "page": 140,
+        "source": "ocr",
+        "context": "—=0, RF EGR AH)\n\n高0.48米，口长径0.176米。\n\n"
+      },
+      {
+        "text": "0.176米",
+        "page": 140,
+        "source": "ocr",
+        "context": " EGR AH)\n\n高0.48米，口长径0.176米。\n\n"
+      },
+      {
+        "text": "长0.67米",
+        "page": 141,
+        "source": "ocr",
+        "context": "一三一、彩给木义(术七)\n\n通长0.67米。\n\n"
+      },
+      {
+        "text": "长0.41米",
+        "page": 142,
+        "source": "ocr",
+        "context": "==, BOAH\n通长0.41米。\n\n—\n"
+      },
+      {
+        "text": "通高0.805米",
+        "page": 143,
+        "source": "ocr",
+        "context": "一三三  复原后之木处\n\n通高0.805米。\n"
+      },
+      {
+        "text": "长0.359米",
+        "page": 144,
+        "source": "ocr",
+        "context": "下: 长0.359米，实0.161米，高0.147米。\n\n"
+      },
+      {
+        "text": "0.161米",
+        "page": 144,
+        "source": "ocr",
+        "context": "下: 长0.359米，实0.161米，高0.147米。\n\n"
+      },
+      {
+        "text": "高0.147米",
+        "page": 144,
+        "source": "ocr",
+        "context": "下: 长0.359米，实0.161米，高0.147米。\n\n"
+      },
+      {
+        "text": "长0.094米",
+        "page": 146,
+        "source": "ocr",
+        "context": "K> PREKO.213%K Mer 通长0.094米。\n\n"
+      },
+      {
+        "text": "长0.293米",
+        "page": 147,
+        "source": "ocr",
+        "context": "上，通长0.293米，下: 通长0.278米。\n"
+      },
+      {
+        "text": "长0.278米",
+        "page": 147,
+        "source": "ocr",
+        "context": "上，通长0.293米，下: 通长0.278米。\n"
+      },
+      {
+        "text": "长0.206米",
+        "page": 148,
+        "source": "ocr",
+        "context": "=A, RAAB\n\n通长0.206米。\n"
+      },
+      {
+        "text": "高0.393米",
+        "page": 156,
+        "source": "ocr",
+        "context": "高0.393米，口径0.114米。\n"
+      },
+      {
+        "text": "口径0.114米",
+        "page": 156,
+        "source": "ocr",
+        "context": "高0.393米，口径0.114米。\n"
+      },
+      {
+        "text": "通高0.42米",
+        "page": 157,
+        "source": "ocr",
+        "context": "一四七、带盖彩给陶坦\n\n通高0.42米，口径0.114米。\n"
+      },
+      {
+        "text": "口径0.114米",
+        "page": 157,
+        "source": "ocr",
+        "context": "一四七、带盖彩给陶坦\n\n通高0.42米，口径0.114米。\n"
+      },
+      {
+        "text": "高0.324米",
+        "page": 159,
+        "source": "ocr",
+        "context": "高0.324米，口径0.468米。\n\n"
+      },
+      {
+        "text": "口径0.468米",
+        "page": 159,
+        "source": "ocr",
+        "context": "高0.324米，口径0.468米。\n\n"
+      },
+      {
+        "text": "0.316米",
+        "page": 160,
+        "source": "ocr",
+        "context": "高0.313滩，曲径0.316米。\n"
+      },
+      {
+        "text": "高0.324米",
+        "page": 161,
+        "source": "ocr",
+        "context": "高0.324米，口径0.468米。\n"
+      },
+      {
+        "text": "口径0.468米",
+        "page": 161,
+        "source": "ocr",
+        "context": "高0.324米，口径0.468米。\n"
+      },
+      {
+        "text": "高0.313米",
+        "page": 162,
+        "source": "ocr",
+        "context": "高0.313米，  口径0.355米。\n"
+      },
+      {
+        "text": "口径0.355米",
+        "page": 162,
+        "source": "ocr",
+        "context": "高0.313米，  口径0.355米。\n"
+      },
+      {
+        "text": "通高0.268米",
+        "page": 163,
+        "source": "ocr",
+        "context": "通高0.268米，口径0.05米。\n"
+      },
+      {
+        "text": "口径0.05米",
+        "page": 163,
+        "source": "ocr",
+        "context": "通高0.268米，口径0.05米。\n"
+      },
+      {
+        "text": "高0.386米",
+        "page": 164,
+        "source": "ocr",
+        "context": "高0.386米，口径0.228米。\n\n"
+      },
+      {
+        "text": "口径0.228米",
+        "page": 164,
+        "source": "ocr",
+        "context": "高0.386米，口径0.228米。\n\n"
+      },
+      {
+        "text": "高0.351米",
+        "page": 165,
+        "source": "ocr",
+        "context": "高0.351米，日径0.474米。\n"
+      },
+      {
+        "text": "0.474米",
+        "page": 165,
+        "source": "ocr",
+        "context": "高0.351米，日径0.474米。\n"
+      },
+      {
+        "text": "通高0.291米",
+        "page": 166,
+        "source": "ocr",
+        "context": "通高0.291米，口径0.275米。\n\n"
+      },
+      {
+        "text": "口径0.275米",
+        "page": 166,
+        "source": "ocr",
+        "context": "通高0.291米，口径0.275米。\n\n"
+      },
+      {
+        "text": "通高0.236米",
+        "page": 167,
+        "source": "ocr",
+        "context": "通高0.236米，口径0.153米。\n"
+      },
+      {
+        "text": "口径0.153米",
+        "page": 167,
+        "source": "ocr",
+        "context": "通高0.236米，口径0.153米。\n"
+      },
+      {
+        "text": "通高0.294米",
+        "page": 168,
+        "source": "ocr",
+        "context": "通高0.294米，日径0.105阔。\n\n"
+      },
+      {
+        "text": "通高0.316米",
+        "page": 169,
+        "source": "ocr",
+        "context": "通高0.316米,口径0.1米。\n\n"
+      },
+      {
+        "text": "口径0.1米",
+        "page": 169,
+        "source": "ocr",
+        "context": "通高0.316米,口径0.1米。\n\n"
+      },
+      {
+        "text": "通高0.182米",
+        "page": 170,
+        "source": "ocr",
+        "context": "通高0.182米，长0.466洲，袖0.186米。\n"
+      },
+      {
+        "text": "0.186米",
+        "page": 170,
+        "source": "ocr",
+        "context": "通高0.182米，长0.466洲，袖0.186米。\n"
+      },
+      {
+        "text": "高0.101米",
+        "page": 172,
+        "source": "ocr",
+        "context": "FE: 高0.101米，口径0.289米; 右; 高0.185"
+      },
+      {
+        "text": "口径0.289米",
+        "page": 172,
+        "source": "ocr",
+        "context": "FE: 高0.101米，口径0.289米; 右; 高0.185米，曲径0.099"
+      },
+      {
+        "text": "高0.185米",
+        "page": 172,
+        "source": "ocr",
+        "context": "0.101米，口径0.289米; 右; 高0.185米，曲径0.099米。\n"
+      },
+      {
+        "text": "0.099米",
+        "page": 172,
+        "source": "ocr",
+        "context": ".289米; 右; 高0.185米，曲径0.099米。\n"
+      },
+      {
+        "text": "高0.085米",
+        "page": 173,
+        "source": "ocr",
+        "context": "0.0765K, 40.096; 下: 高0.085米，长0.195米。\n"
+      },
+      {
+        "text": "长0.195米",
+        "page": 173,
+        "source": "ocr",
+        "context": " 40.096; 下: 高0.085米，长0.195米。\n"
+      },
+      {
+        "text": "0.206米",
+        "page": 174,
+        "source": "ocr",
+        "context": " BE, BTR\n\n长0.204洲，日实0.206米; 中: KO.2942K, wiHO."
+      },
+      {
+        "text": "长0.133米",
+        "page": 174,
+        "source": "ocr",
+        "context": "HO.052%K;\n\nSt Rt\n\n: 长0.133米。\n\n"
+      },
+      {
+        "text": "高0.256米",
+        "page": 175,
+        "source": "ocr",
+        "context": "Ze: 高0.256米，口径0.174米; A: 高0.18米"
+      },
+      {
+        "text": "口径0.174米",
+        "page": 175,
+        "source": "ocr",
+        "context": "Ze: 高0.256米，口径0.174米; A: 高0.18米，口径0.142米"
+      },
+      {
+        "text": "高0.18米",
+        "page": 175,
+        "source": "ocr",
+        "context": "0.256米，口径0.174米; A: 高0.18米，口径0.142米，\n\n"
+      },
+      {
+        "text": "口径0.142米",
+        "page": 175,
+        "source": "ocr",
+        "context": "口径0.174米; A: 高0.18米，口径0.142米，\n\n"
+      },
+      {
+        "text": "高0.118米",
+        "page": 177,
+        "source": "ocr",
+        "context": "高0.118米，长0.241米，帘0.19米。\n\n"
+      },
+      {
+        "text": "长0.241米",
+        "page": 177,
+        "source": "ocr",
+        "context": "高0.118米，长0.241米，帘0.19米。\n\n"
+      },
+      {
+        "text": "0.19米",
+        "page": 177,
+        "source": "ocr",
+        "context": "高0.118米，长0.241米，帘0.19米。\n\n"
+      },
+      {
+        "text": "长0.246米",
+        "page": 178,
+        "source": "ocr",
+        "context": "Se  He Gy REAR Bs\n\n甸长0.246米; $9K0.191K.\n\n"
+      }
+    ],
+    "木器": [
+      {
+        "text": "木瑟",
+        "page": 48,
+        "source": "ocr",
+        "context": "三八、二号楚蔓出十之大型木瑟\n\n长1.87米，-夏0.48米。\n"
+      }
+    ],
+    "遗址名称": [
+      {
+        "text": "楚墓",
+        "page": 189,
+        "source": "text",
+        "context": "Information]\n书名=河南信阳楚墓出土文物图录\n作者=河南省文化局文物工作"
+      }
+    ]
+  }
+}

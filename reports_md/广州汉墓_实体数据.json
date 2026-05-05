@@ -1,0 +1,261 @@
+{
+  "name": "广州汉墓",
+  "file": "广州汉墓.pdf",
+  "era": "西汉-东汉",
+  "culture": "南越国",
+  "processed_pages": 15,
+  "total_entities": 38,
+  "entity_stats": {
+    "遗址名称": 14,
+    "年代": 9,
+    "铜器": 6,
+    "葬具": 6,
+    "层位关系": 1,
+    "纹饰": 1,
+    "遗迹编号": 1
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "广州",
+        "page": 1,
+        "source": "ocr",
+        "context": "Benz &\n\n广州市文物管理委员会\n广州市博物人馆\n\n上\n"
+      },
+      {
+        "text": "广州",
+        "page": 1,
+        "source": "ocr",
+        "context": "Benz &\n\n广州市文物管理委员会\n广州市博物人馆\n\n上\n\n文 物出版社 出 版"
+      },
+      {
+        "text": "广州",
+        "page": 2,
+        "source": "ocr",
+        "context": "学专刊\n丁种第二十一号\n\nan ae\n\n广州市文物管理委员会\n广州市博物和馆\n\n上\n"
+      },
+      {
+        "text": "广州",
+        "page": 2,
+        "source": "ocr",
+        "context": "\n\nan ae\n\n广州市文物管理委员会\n广州市博物和馆\n\n上\n\n中国社会科学院考古研"
+      },
+      {
+        "text": "广州",
+        "page": 3,
+        "source": "ocr",
+        "context": "装帧设计，仇德虎\nHLS: AMIE\n\n广州汉墓\n\n(上、下有册)\n中国社会科学院考"
+      },
+      {
+        "text": "汉墓",
+        "page": 3,
+        "source": "ocr",
+        "context": "设计，仇德虎\nHLS: AMIE\n\n广州汉墓\n\n(上、下有册)\n中国社会科学院考古研"
+      },
+      {
+        "text": "广州",
+        "page": 5,
+        "source": "ocr",
+        "context": "Y\n\n第一节\n\n第二节 下\n\n附表一: 广州汉幕幕型简表…\n\n附表二: 各期墓匡原编"
+      },
+      {
+        "text": "广州",
+        "page": 6,
+        "source": "ocr",
+        "context": " 中国科\n\n妆 >\n\n;南海海洋研究所《广州汉莫出了\n\n"
+      },
+      {
+        "text": "西汉",
+        "page": 7,
+        "source": "ocr",
+        "context": "述和ee\n\n二) 募型举例.pe\n表四;西汉中期区大形制表\n\nn\n\n(—) fi R"
+      },
+      {
+        "text": "西汉",
+        "page": 8,
+        "source": "ocr",
+        "context": "第三节\n\n第五章\n\n第一节\n\n附表五: 西汉后期幕莫形制表…\n\nTI HUGE WR"
+      },
+      {
+        "text": "西汉",
+        "page": 11,
+        "source": "ocr",
+        "context": "eeseeesee AT]\n\n附表八: 西汉前期莫随匡器物登记表\n附表九: 西汉中期"
+      },
+      {
+        "text": "西汉",
+        "page": 11,
+        "source": "ocr",
+        "context": ": 西汉前期莫随匡器物登记表\n附表九: 西汉中期墓随莫器物登记表\n附表一〇: 西汉后"
+      },
+      {
+        "text": "西汉",
+        "page": 11,
+        "source": "ocr",
+        "context": " 西汉中期墓随莫器物登记表\n附表一〇: 西汉后期墓随匡器物登记表\n附表一一: 东汉前"
+      },
+      {
+        "text": "广州",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n一六\n一七\n\n二九\n\ni AA x\n\n广州 THA PL BES) A 图.ee\n"
+      }
+    ],
+    "年代": [
+      {
+        "text": "元",
+        "page": 3,
+        "source": "ocr",
+        "context": "11068.755 eG, Bue 45元\n"
+      },
+      {
+        "text": "金",
+        "page": 6,
+        "source": "ocr",
+        "context": "sus see ene cee eee\n金  银、 FTL BR wee vos "
+      },
+      {
+        "text": "西汉",
+        "page": 7,
+        "source": "ocr",
+        "context": "述和ee\n\n二) 募型举例.pe\n表四;西汉中期区大形制表\n\nn\n\n(—) fi R"
+      },
+      {
+        "text": "西汉",
+        "page": 8,
+        "source": "ocr",
+        "context": "第三节\n\n第五章\n\n第一节\n\n附表五: 西汉后期幕莫形制表…\n\nTI HUGE WR"
+      },
+      {
+        "text": "西汉",
+        "page": 11,
+        "source": "ocr",
+        "context": "eeseeesee AT]\n\n附表八: 西汉前期莫随匡器物登记表\n附表九: 西汉中期"
+      },
+      {
+        "text": "西汉",
+        "page": 11,
+        "source": "ocr",
+        "context": ": 西汉前期莫随匡器物登记表\n附表九: 西汉中期墓随莫器物登记表\n附表一〇: 西汉后"
+      },
+      {
+        "text": "西汉",
+        "page": 11,
+        "source": "ocr",
+        "context": " 西汉中期墓随莫器物登记表\n附表一〇: 西汉后期墓随匡器物登记表\n附表一一: 东汉前"
+      },
+      {
+        "text": "东汉",
+        "page": 11,
+        "source": "ocr",
+        "context": " 西汉后期墓随匡器物登记表\n附表一一: 东汉前期幕随莫器物登记表\n附表一二:东汉后期"
+      },
+      {
+        "text": "东汉",
+        "page": 11,
+        "source": "ocr",
+        "context": ": 东汉前期幕随莫器物登记表\n附表一二:东汉后期墓随匡器物登记表\n\n英文提要\n\n"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "饰",
+        "page": 7,
+        "source": "ocr",
+        "context": "Roe\n(二) 制法及施釉…\n(三) 纹饰…\nCD 记号…\nCh) KR\n(六) "
+      },
+      {
+        "text": "饰",
+        "page": 7,
+        "source": "ocr",
+        "context": "E soe coe ences\n石器\n珠饰，\nnnn\naie  石器…\n\naan\n"
+      },
+      {
+        "text": "饰",
+        "page": 8,
+        "source": "ocr",
+        "context": "\n(二) Mh\n(三) 施釉\n(四) 纹饰…\n(五) 文字和记号\n(六) 器形……"
+      },
+      {
+        "text": "饰",
+        "page": 9,
+        "source": "ocr",
+        "context": " 陶质\n(=) 制法与施釉，\n(三) 纹饰\n(四) 文字…\nCE) ie\n铜器\n\n"
+      },
+      {
+        "text": "饰",
+        "page": 10,
+        "source": "ocr",
+        "context": "  eeceeee 395\n\n(>) 纹饰\n〈四) 器形\n\n"
+      },
+      {
+        "text": "饰",
+        "page": 14,
+        "source": "ocr",
+        "context": "铜轩铭文拓本〈1097:\n上兵器…\n玉剑饰及拓本\n\n144\n\n铜半两钱和拓本…\n\n"
+      }
+    ],
+    "葬具": [
+      {
+        "text": "棺",
+        "page": 9,
+        "source": "ocr",
+        "context": "木樟墓\n(一) 幕莫结构'…\n\n(二) 棺具及遗物分布\n\nCZ) 莫型举例pe\n\n"
+      },
+      {
+        "text": "棺",
+        "page": 10,
+        "source": "ocr",
+        "context": "r\nV AE BNL AR I\n(二) 棺具及随葬物分布，\n(=) GE FEY "
+      },
+      {
+        "text": "棺",
+        "page": 10,
+        "source": "ocr",
+        "context": ":\n页型幕”穹也项合券顶砖室墓\n(2) 棺具及随葬物分布…\n(三) 幕型举例…\nW"
+      },
+      {
+        "text": "棺",
+        "page": 10,
+        "source": "ocr",
+        "context": "ARE TA\n(—) 砖室结构\n(=) 棺具及遗物分布，\n(=) 幕型举例…   "
+      },
+      {
+        "text": "棺",
+        "page": 13,
+        "source": "ocr",
+        "context": "134樟室结构平面、纵剖面图\n募1134棺房侧壁结构图…\n幕1134外棺结构图…\n"
+      },
+      {
+        "text": "棺",
+        "page": 13,
+        "source": "ocr",
+        "context": "募1134棺房侧壁结构图…\n幕1134外棺结构图…\nHELLS A HY BREE"
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "打破",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n平、  剖面 图\n\nij及与蔓1149打破关系图…*\n面图……          "
+      }
+    ],
+    "纹饰": [
+      {
+        "text": "划纹",
+        "page": 13,
+        "source": "ocr",
+        "context": "四四“陶器划文记号拓本\n咱五”陶器文字及划纹拓本\n\n(HE UME TM LE TM"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "F206",
+        "page": 15,
+        "source": "ocr",
+        "context": "8 2\n36205057. TA if\nF206 036 [i EE] ove eee "
+      }
+    ]
+  }
+}

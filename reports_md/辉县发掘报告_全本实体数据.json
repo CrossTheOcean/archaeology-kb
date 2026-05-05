@@ -1,0 +1,3197 @@
+{
+  "name": "辉县发掘报告",
+  "file": "辉县发掘报告.pdf",
+  "processed_pages": 256,
+  "total_pages": 279,
+  "total_entities": 522,
+  "entity_stats": {
+    "陶器": 35,
+    "铜器": 36,
+    "年代": 72,
+    "遗址名称": 20,
+    "遗迹类型": 5,
+    "遗迹编号": 140,
+    "土样特征": 1,
+    "测量数据": 178,
+    "石器": 5,
+    "遗存类型": 5,
+    "发掘区": 1,
+    "层位关系": 2,
+    "探方编号": 15,
+    "骨器": 1,
+    "漆器": 1,
+    "玉器": 2,
+    "金器": 1,
+    "建筑结构": 2
+  },
+  "entities": {
+    "陶器": [
+      {
+        "text": "豆",
+        "page": 5,
+        "source": "ocr",
+        "context": "的推斯和小灶，\n\n伍、琉璃并区发据小桔(豆屠)\nSoi MA\n\nEELLLLLLR"
+      },
+      {
+        "text": "豆",
+        "page": 11,
+        "source": "ocr",
+        "context": "d\npues ~\ni BSE\nSRR\n锅豆全也表\nsaneaiede\nmeAPER"
+      },
+      {
+        "text": "刀",
+        "page": 15,
+        "source": "ocr",
+        "context": "放失灰中 三楼介能3个 (1:78、\n石刀下片 (1:89) ZAMEBBIE 1"
+      },
+      {
+        "text": "刀",
+        "page": 17,
+        "source": "ocr",
+        "context": "E\n1:85 保存得最完整， 型作精髓。刀孔在余器中心y 孔的做法是\naot SL"
+      },
+      {
+        "text": "杯",
+        "page": 21,
+        "source": "ocr",
+        "context": "315 一件(图版于,5 图十三)。形如杯子， ALAWAR\nHR. CCE MI"
+      },
+      {
+        "text": "杯",
+        "page": 21,
+        "source": "ocr",
+        "context": "\n二,但大休的泄趟当相革不谊。像这样大的杯形器 ERAT\n长更过。在收塌出寺的将军"
+      },
+      {
+        "text": "豆",
+        "page": 32,
+        "source": "ocr",
+        "context": ", RUTANED, ESR\n絮慎灰风系豆形吕的第 I式， RUE ESA LEA"
+      },
+      {
+        "text": "刀",
+        "page": 36,
+        "source": "ocr",
+        "context": ", TRA\nmR,\n\n工式“不规则长外形刀, TE\n2 the DI Cea 29"
+      },
+      {
+        "text": "刀",
+        "page": 36,
+        "source": "ocr",
+        "context": "T Celeb ek, Te Les 由刀类\nee\nME, HTB\n\nWk P71"
+      },
+      {
+        "text": "球",
+        "page": 40,
+        "source": "ocr",
+        "context": "OR ARS 《图版拾际，26)。这种石球很可能是大\n“eh\n\nQR NC TH "
+      },
+      {
+        "text": "豆",
+        "page": 54,
+        "source": "ocr",
+        "context": "ANRRAWTE IBRD). 10 件豆中有 8 He A aby A. IE\n"
+      },
+      {
+        "text": "豆",
+        "page": 56,
+        "source": "ocr",
+        "context": "ARAL, AHF\nMBA CL) 两、豆、和的有 130,19,299,214,"
+      },
+      {
+        "text": "刀",
+        "page": 57,
+        "source": "ocr",
+        "context": " MACACA, 先行料熟，然梧才能用小刀\nFNMA AN. TARSRAT TH"
+      },
+      {
+        "text": "刀",
+        "page": 59,
+        "source": "ocr",
+        "context": " FL\nPACER, 565 国五人,五刀9。管孔向上。这一全相近中国立\nFEY "
+      },
+      {
+        "text": "球",
+        "page": 62,
+        "source": "ocr",
+        "context": "A\n软全四很，光合共中央一个含有弹克的央球体。输的外租埠\n82, “FRM, TI"
+      },
+      {
+        "text": "刀",
+        "page": 76,
+        "source": "ocr",
+        "context": " HARA 3 A 4 HT\nfe\n\n工刀 Se Oe SPN 6 BEM. RC"
+      },
+      {
+        "text": "刀",
+        "page": 76,
+        "source": "ocr",
+        "context": "IRA SMTP AR, 保存情形此好,刀身\n亦有是着的和六。全其 42, ERE"
+      },
+      {
+        "text": "刀",
+        "page": 76,
+        "source": "ocr",
+        "context": "E 2.45,背厚 0.68 BLK, 刀柄包括\n\n"
+      },
+      {
+        "text": "刀",
+        "page": 77,
+        "source": "ocr",
+        "context": "3 Ni ORAM 1.11),\n\n下共刀“3侣,属大型。233:1 LUA AR"
+      },
+      {
+        "text": "刀",
+        "page": 78,
+        "source": "ocr",
+        "context": "ALIA 1288\n在比划上的诚少，以及刀,、便党多器的存在 是见认-一般沽此中\n"
+      },
+      {
+        "text": "球",
+        "page": 81,
+        "source": "ocr",
+        "context": "AT fi 6 SRR HE\n内有人作及球斑保存 UR HRA DR A BS\nB"
+      },
+      {
+        "text": "刀",
+        "page": 83,
+        "source": "ocr",
+        "context": "加        ee\n\n片多种:出匆刀5 OIE S , ie 1. eT e"
+      },
+      {
+        "text": "球",
+        "page": 93,
+        "source": "ocr",
+        "context": "寻,17 MEME, NES HE\n近四球而上大角。商0.8种 1.1 BRS\n\n"
+      },
+      {
+        "text": "杯",
+        "page": 116,
+        "source": "ocr",
+        "context": "e STRAINER 3 BaD, 本体杯形, 一个有\nCN, UFO 5 AEM"
+      },
+      {
+        "text": "环",
+        "page": 119,
+        "source": "ocr",
+        "context": ":41 9 A, 形朵而尺寸略小(峡版玉环;5.6 。\n\nWe CIS CUANE"
+      },
+      {
+        "text": "环",
+        "page": 129,
+        "source": "ocr",
+        "context": "— STEM. OT\n租用方加头,上壮大环，下有小穿孔。用法休应栅透本版，生以\nA"
+      },
+      {
+        "text": "刀",
+        "page": 134,
+        "source": "ocr",
+        "context": " cy WEIR TIME 1, 单孔石刀 1, ZARDARI Ay PAR\nJ"
+      },
+      {
+        "text": "豆",
+        "page": 138,
+        "source": "ocr",
+        "context": " sES MIS Ok 11 号化内有附豆1 伯，和[6、\n9.10 = BAIR"
+      },
+      {
+        "text": "豆",
+        "page": 139,
+        "source": "ocr",
+        "context": "MTA ARNEL 1,    种形式的豆座相同, FUER —ee, BUM, "
+      },
+      {
+        "text": "环",
+        "page": 143,
+        "source": "ocr",
+        "context": " a\n一个 EMR, PRCT, A, 环可自由\n\n二国有和\n\nMO. 1S AE"
+      },
+      {
+        "text": "刀",
+        "page": 151,
+        "source": "ocr",
+        "context": ", PROLIANT, BLO\n条,可用刀吉于。外各黑扫色,硬度羡, 刀猎不可及。"
+      },
+      {
+        "text": "刀",
+        "page": 151,
+        "source": "ocr",
+        "context": "\n条,可用刀吉于。外各黑扫色,硬度羡, 刀猎不可及。商 390. FL\nEMS, "
+      },
+      {
+        "text": "刀",
+        "page": 159,
+        "source": "ocr",
+        "context": "1 4-8. 182202:\nJ) 时看刀1383GD 10. 看盐栓1584C。"
+      },
+      {
+        "text": "刀",
+        "page": 221,
+        "source": "ocr",
+        "context": " RIVA 2:02 CHI). 3 竹刀340后 & EET BE CI)\nSW"
+      },
+      {
+        "text": "刀",
+        "page": 256,
+        "source": "ocr",
+        "context": "003(BLEW) 5.88 1:9 马刀1:3 TB\n1:8 (PLM) 8-8"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "豆",
+        "page": 5,
+        "source": "ocr",
+        "context": "的推斯和小灶，\n\n伍、琉璃并区发据小桔(豆屠)\nSoi MA\n\nEELLLLLLR"
+      },
+      {
+        "text": "豆",
+        "page": 11,
+        "source": "ocr",
+        "context": "d\npues ~\ni BSE\nSRR\n锅豆全也表\nsaneaiede\nmeAPER"
+      },
+      {
+        "text": "刀",
+        "page": 15,
+        "source": "ocr",
+        "context": "放失灰中 三楼介能3个 (1:78、\n石刀下片 (1:89) ZAMEBBIE 1"
+      },
+      {
+        "text": "刀",
+        "page": 17,
+        "source": "ocr",
+        "context": "E\n1:85 保存得最完整， 型作精髓。刀孔在余器中心y 孔的做法是\naot SL"
+      },
+      {
+        "text": "杯",
+        "page": 21,
+        "source": "ocr",
+        "context": "315 一件(图版于,5 图十三)。形如杯子， ALAWAR\nHR. CCE MI"
+      },
+      {
+        "text": "杯",
+        "page": 21,
+        "source": "ocr",
+        "context": "\n二,但大休的泄趟当相革不谊。像这样大的杯形器 ERAT\n长更过。在收塌出寺的将军"
+      },
+      {
+        "text": "豆",
+        "page": 32,
+        "source": "ocr",
+        "context": ", RUTANED, ESR\n絮慎灰风系豆形吕的第 I式， RUE ESA LEA"
+      },
+      {
+        "text": "刀",
+        "page": 36,
+        "source": "ocr",
+        "context": ", TRA\nmR,\n\n工式“不规则长外形刀, TE\n2 the DI Cea 29"
+      },
+      {
+        "text": "刀",
+        "page": 36,
+        "source": "ocr",
+        "context": "T Celeb ek, Te Les 由刀类\nee\nME, HTB\n\nWk P71"
+      },
+      {
+        "text": "饰",
+        "page": 39,
+        "source": "ocr",
+        "context": "突出的国量。负作杰素。可能也是候在量中的饰物。基5.1 宣\n1.8, 0.80 B"
+      },
+      {
+        "text": "饰",
+        "page": 49,
+        "source": "ocr",
+        "context": "器， 这不但表型\n在器形上, 也表弄在枚饰上。例如在用与亚上常见的那种旋弄\n的季风"
+      },
+      {
+        "text": "饰",
+        "page": 49,
+        "source": "ocr",
+        "context": "。例如在用与亚上常见的那种旋弄\n的季风西饰或带形较侯也就是同时代钢点上所常见的。 "
+      },
+      {
+        "text": "豆",
+        "page": 54,
+        "source": "ocr",
+        "context": "ANRRAWTE IBRD). 10 件豆中有 8 He A aby A. IE\n"
+      },
+      {
+        "text": "饰",
+        "page": 54,
+        "source": "ocr",
+        "context": "ND MEET HOE We A=)\n形饰, JEP I — SIE,\n9 PR "
+      },
+      {
+        "text": "豆",
+        "page": 56,
+        "source": "ocr",
+        "context": "ARAL, AHF\nMBA CL) 两、豆、和的有 130,19,299,214,"
+      },
+      {
+        "text": "刀",
+        "page": 57,
+        "source": "ocr",
+        "context": " MACACA, 先行料熟，然梧才能用小刀\nFNMA AN. TARSRAT TH"
+      },
+      {
+        "text": "刀",
+        "page": 59,
+        "source": "ocr",
+        "context": " FL\nPACER, 565 国五人,五刀9。管孔向上。这一全相近中国立\nFEY "
+      },
+      {
+        "text": "刀",
+        "page": 76,
+        "source": "ocr",
+        "context": " HARA 3 A 4 HT\nfe\n\n工刀 Se Oe SPN 6 BEM. RC"
+      },
+      {
+        "text": "刀",
+        "page": 76,
+        "source": "ocr",
+        "context": "IRA SMTP AR, 保存情形此好,刀身\n亦有是着的和六。全其 42, ERE"
+      },
+      {
+        "text": "刀",
+        "page": 76,
+        "source": "ocr",
+        "context": "E 2.45,背厚 0.68 BLK, 刀柄包括\n\n"
+      },
+      {
+        "text": "刀",
+        "page": 77,
+        "source": "ocr",
+        "context": "3 Ni ORAM 1.11),\n\n下共刀“3侣,属大型。233:1 LUA AR"
+      },
+      {
+        "text": "刀",
+        "page": 78,
+        "source": "ocr",
+        "context": "ALIA 1288\n在比划上的诚少，以及刀,、便党多器的存在 是见认-一般沽此中\n"
+      },
+      {
+        "text": "刀",
+        "page": 83,
+        "source": "ocr",
+        "context": "加        ee\n\n片多种:出匆刀5 OIE S , ie 1. eT e"
+      },
+      {
+        "text": "杯",
+        "page": 116,
+        "source": "ocr",
+        "context": "e STRAINER 3 BaD, 本体杯形, 一个有\nCN, UFO 5 AEM"
+      },
+      {
+        "text": "环",
+        "page": 119,
+        "source": "ocr",
+        "context": ":41 9 A, 形朵而尺寸略小(峡版玉环;5.6 。\n\nWe CIS CUANE"
+      },
+      {
+        "text": "环",
+        "page": 129,
+        "source": "ocr",
+        "context": "— STEM. OT\n租用方加头,上壮大环，下有小穿孔。用法休应栅透本版，生以\nA"
+      },
+      {
+        "text": "斧",
+        "page": 134,
+        "source": "ocr",
+        "context": "措邱村在\n却用城西30 里， 本中太行山斧10 ie AEG\nAe AAT ROA"
+      },
+      {
+        "text": "刀",
+        "page": 134,
+        "source": "ocr",
+        "context": " cy WEIR TIME 1, 单孔石刀 1, ZARDARI Ay PAR\nJ"
+      },
+      {
+        "text": "豆",
+        "page": 138,
+        "source": "ocr",
+        "context": " sES MIS Ok 11 号化内有附豆1 伯，和[6、\n9.10 = BAIR"
+      },
+      {
+        "text": "豆",
+        "page": 139,
+        "source": "ocr",
+        "context": "MTA ARNEL 1,    种形式的豆座相同, FUER —ee, BUM, "
+      },
+      {
+        "text": "环",
+        "page": 143,
+        "source": "ocr",
+        "context": " a\n一个 EMR, PRCT, A, 环可自由\n\n二国有和\n\nMO. 1S AE"
+      },
+      {
+        "text": "刀",
+        "page": 151,
+        "source": "ocr",
+        "context": ", PROLIANT, BLO\n条,可用刀吉于。外各黑扫色,硬度羡, 刀猎不可及。"
+      },
+      {
+        "text": "刀",
+        "page": 151,
+        "source": "ocr",
+        "context": "\n条,可用刀吉于。外各黑扫色,硬度羡, 刀猎不可及。商 390. FL\nEMS, "
+      },
+      {
+        "text": "刀",
+        "page": 159,
+        "source": "ocr",
+        "context": "1 4-8. 182202:\nJ) 时看刀1383GD 10. 看盐栓1584C。"
+      },
+      {
+        "text": "刀",
+        "page": 221,
+        "source": "ocr",
+        "context": " RIVA 2:02 CHI). 3 竹刀340后 & EET BE CI)\nSW"
+      },
+      {
+        "text": "刀",
+        "page": 256,
+        "source": "ocr",
+        "context": "003(BLEW) 5.88 1:9 马刀1:3 TB\n1:8 (PLM) 8-8"
+      }
+    ],
+    "年代": [
+      {
+        "text": "清",
+        "page": 5,
+        "source": "ocr",
+        "context": "sess\n\n95\n\n四、保存情况和我们的清理\nHy HAA\n(hat\n(一)金器-"
+      },
+      {
+        "text": "金",
+        "page": 5,
+        "source": "ocr",
+        "context": "们的清理\nHy HAA\n(hat\n(一)金器-\n(三)错金器\n\n(Pa)\n\nGD "
+      },
+      {
+        "text": "金",
+        "page": 5,
+        "source": "ocr",
+        "context": "HAA\n(hat\n(一)金器-\n(三)错金器\n\n(Pa)\n\nGD ae      "
+      },
+      {
+        "text": "战国",
+        "page": 7,
+        "source": "ocr",
+        "context": "\nARIA i BE\n戴国车马坑全图\n\n战国车马坟的近择和第 1 号车的群图\n第2 "
+      },
+      {
+        "text": "战国",
+        "page": 7,
+        "source": "ocr",
+        "context": "NAA a\n\n第4至6号及10,1] 号战国车子\n\n第14 号至 16 号的战国车子"
+      },
+      {
+        "text": "战国",
+        "page": 7,
+        "source": "ocr",
+        "context": " 号战国车子\n\n第14 号至 16 号的战国车子\n\n第 16号至 17 号的战国车子"
+      },
+      {
+        "text": "战国",
+        "page": 7,
+        "source": "ocr",
+        "context": "号的战国车子\n\n第 16号至 17 号的战国车子\n\n战国车的车翘和第 18.19 号"
+      },
+      {
+        "text": "战国",
+        "page": 7,
+        "source": "ocr",
+        "context": "\n\n第 16号至 17 号的战国车子\n\n战国车的车翘和第 18.19 号的车子庶部\n"
+      },
+      {
+        "text": "清",
+        "page": 7,
+        "source": "ocr",
+        "context": "R\n国围村第 ”号蔓填穴口及地上建筑遗存清理时情\n形\n\nmatt\n\nemt\nbaa"
+      },
+      {
+        "text": "金",
+        "page": 7,
+        "source": "ocr",
+        "context": "固轩村第2 EH\n\n固围村第2 号幕出土金属器物及残件\n\n因转村第2 EH ond"
+      },
+      {
+        "text": "战国",
+        "page": 10,
+        "source": "ocr",
+        "context": "PET BPE ANE WEP oo\n\n战国车局坑\n车子各部分尺十家\n琉璃并汉代莫莫"
+      },
+      {
+        "text": "南北朝",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n和隅耽务 1人。时代不能下定, 可能是南北朝的。\n\n第195 号幕 这是一小幕,长实"
+      },
+      {
+        "text": "明",
+        "page": 14,
+        "source": "ocr",
+        "context": "3 AR\nAAEM, 流有靖非品,年代不明。\n\n第144 Spa 这是唐代的洞室划"
+      },
+      {
+        "text": "唐",
+        "page": 14,
+        "source": "ocr",
+        "context": "品,年代不明。\n\n第144 Spa 这是唐代的洞室划,天婚合缆,男右女左。口\n内都"
+      },
+      {
+        "text": "元",
+        "page": 14,
+        "source": "ocr",
+        "context": "室划,天婚合缆,男右女左。口\n内都含有间元钱 «ANAM 2 件外, 女头部有的开"
+      },
+      {
+        "text": "唐",
+        "page": 14,
+        "source": "ocr",
+        "context": " W292\nM7 289-7 M298 唐 ? 29031 MH, 2895 mh"
+      },
+      {
+        "text": "明",
+        "page": 15,
+        "source": "ocr",
+        "context": "较仍失不，习式\n也多,所及特别加腑璋的本明(几一)。第一大坑在现地面 0.7\n米滩"
+      },
+      {
+        "text": "清",
+        "page": 17,
+        "source": "ocr",
+        "context": "re)\n大方有孔JI\n妃穿部分麻得相当交清(问版式; BALD 5 HEAT PU"
+      },
+      {
+        "text": "明",
+        "page": 23,
+        "source": "ocr",
+        "context": "ARMIES ROE, 有柄，柄身界限不明, 近\nHie, RAMUS, EL, "
+      },
+      {
+        "text": "清",
+        "page": 23,
+        "source": "ocr",
+        "context": "\n9 共 你，精而长楼切面作不规则胶，光清锡利。 12\n《国版兴, D，栈切而作加"
+      },
+      {
+        "text": "元",
+        "page": 26,
+        "source": "ocr",
+        "context": "璃并附近,收代物收交化这存是相当未富的,元过我位完\nTAP, DTS MUMS. "
+      },
+      {
+        "text": "清",
+        "page": 27,
+        "source": "ocr",
+        "context": "E TAS\neit. 医者是北向，除了不清楚的及外，人头邦是向北的。\n因昔多核援天"
+      },
+      {
+        "text": "清",
+        "page": 27,
+        "source": "ocr",
+        "context": "人头邦是向北的。\n因昔多核援天,非法不太清楚，包身大全有3 WE, Hae 100"
+      },
+      {
+        "text": "秦",
+        "page": 33,
+        "source": "ocr",
+        "context": "REL T式购两。第T式网天的存在是由就秦代性还是地方\n竹,很人得我个注意。它全可"
+      },
+      {
+        "text": "明",
+        "page": 39,
+        "source": "ocr",
+        "context": " 其尺十如表二五。\n\n这些玉儿是畔缆用的明顺,不可能是实用的武器。 安阳\n\nTx\n"
+      },
+      {
+        "text": "明",
+        "page": 43,
+        "source": "ocr",
+        "context": "\n\n范的大小、深涛,方向及所出器物列表踊明于丈(表一人)。\n\n二 ASHE I\nR"
+      },
+      {
+        "text": "明",
+        "page": 46,
+        "source": "ocr",
+        "context": "上入的必要,只是雹了装刚才附加上的,蓄够明显地肯定具\nAS MTOR, SURE "
+      },
+      {
+        "text": "明",
+        "page": 46,
+        "source": "ocr",
+        "context": ", MAE RACH\n得消楚。优了更能表明这类的符入, AE 8 ER, TE\nB"
+      },
+      {
+        "text": "明",
+        "page": 49,
+        "source": "ocr",
+        "context": "旋皮一个\n说加经之梧,用手指(上面流有显明的指斩六) HRT, CH\n还的边和上向"
+      },
+      {
+        "text": "明",
+        "page": 49,
+        "source": "ocr",
+        "context": " AE NTE, 灶恤火候的低微充分地表明了庆\n点。(乙) 它们的形态普汤地模仿了"
+      },
+      {
+        "text": "明",
+        "page": 53,
+        "source": "ocr",
+        "context": "BE OL f, 只选有代表性的10件狼明之。基共本形叶可\n分四趟(图版式进4一1"
+      },
+      {
+        "text": "战国",
+        "page": 57,
+        "source": "ocr",
+        "context": "S\nARS, 可以外这弟校早的。\n\n附，战国车马议\n— Binet\n\nGY AS 8"
+      },
+      {
+        "text": "清",
+        "page": 57,
+        "source": "ocr",
+        "context": "需汪电表。前扒天所是过的替代,这天任部\n清理出素 知道旺来的列队。他坑都时近让部。"
+      },
+      {
+        "text": "清",
+        "page": 57,
+        "source": "ocr",
+        "context": "\n10,12 和 18 号车子的车箱度部清册，以求了解底部的条构。问\nPERE T"
+      },
+      {
+        "text": "明",
+        "page": 62,
+        "source": "ocr",
+        "context": "RE MEA, RUE HD HLS\n的明器, MART LALOR. HLL, "
+      },
+      {
+        "text": "明",
+        "page": 64,
+        "source": "ocr",
+        "context": "5 与197 3 2 个划肌加以单数的驻明。 133 SRA\n\nPRP, MEAR"
+      },
+      {
+        "text": "明",
+        "page": 65,
+        "source": "ocr",
+        "context": " AORTENE, IA M,C. 已求明的有\n112 3 Ry PYG 1.60"
+      },
+      {
+        "text": "明",
+        "page": 76,
+        "source": "ocr",
+        "context": "EIN — URC I GR IE\n下大明” Ae, EEO —FENARARIO"
+      },
+      {
+        "text": "元",
+        "page": 78,
+        "source": "ocr",
+        "context": "EED, 因此它们的第代不可能超越汉武帝元狩五年(公元\n前118 年),其从的 3"
+      },
+      {
+        "text": "元",
+        "page": 78,
+        "source": "ocr",
+        "context": "此它们的第代不可能超越汉武帝元狩五年(公元\n前118 年),其从的 3 个莫不出五"
+      },
+      {
+        "text": "五代",
+        "page": 78,
+        "source": "ocr",
+        "context": "5G RUM RIEL, 没有混入一枚\n五代表，所以它们的年代是应号在王养时代的。1"
+      },
+      {
+        "text": "金",
+        "page": 89,
+        "source": "ocr",
+        "context": "A, HG, M08 MLK, 与上列人金玉闻册,有\neR.\n\n4c) 12199"
+      },
+      {
+        "text": "元",
+        "page": 89,
+        "source": "ocr",
+        "context": "HDI ATO, ARLES OH\n在公元前3 HERR, Hoa NC ME, "
+      },
+      {
+        "text": "明",
+        "page": 90,
+        "source": "ocr",
+        "context": "洽不过如此。但它何以需要如比活动, 还不明史。演\nCRA AIPAC, SLE A"
+      },
+      {
+        "text": "西周",
+        "page": 94,
+        "source": "ocr",
+        "context": "NBD =i, BUSARA TER\n自西周。这些本法，或是根控梧来从斌的文献，芭是"
+      },
+      {
+        "text": "清",
+        "page": 97,
+        "source": "ocr",
+        "context": " 1 12:62,\n\n(三) 十室上情的清理\n\n19 月10一59 日，自淋 12"
+      },
+      {
+        "text": "清",
+        "page": 97,
+        "source": "ocr",
+        "context": " Sy ELI TES\n\n《四) 几室的清理\n\n1950 fp 12 J) 94 "
+      },
+      {
+        "text": "清",
+        "page": 106,
+        "source": "ocr",
+        "context": " WLAN RCA ENG, 多部情况不清楚， 由探查的\n‘HAHA NRE 82"
+      },
+      {
+        "text": "清",
+        "page": 110,
+        "source": "ocr",
+        "context": ", CAL\nca\n\n四“保存情况和我们的清理\n\n在上一季中, SH TAIN a "
+      },
+      {
+        "text": "金",
+        "page": 114,
+        "source": "ocr",
+        "context": "\n\ni BLS 个G:10)，大小形状与金光完全相同, 不过它\n\nASA GF C"
+      },
+      {
+        "text": "明",
+        "page": 121,
+        "source": "ocr",
+        "context": " =\n\n110\n\n固 区\n\nDAM, 利明地形。17 日再度前往让氢, 得古物趣近"
+      },
+      {
+        "text": "金",
+        "page": 121,
+        "source": "ocr",
+        "context": ".\n\na\n\n58\n\n亦在南台,其他由全,金箔,多名,车忆季及较小厅器，多分信在\nM"
+      },
+      {
+        "text": "明",
+        "page": 131,
+        "source": "ocr",
+        "context": "A TEM IEE, Be\n三创出土而会明。如 1:111 Seve, Ee 1:"
+      },
+      {
+        "text": "战国",
+        "page": 131,
+        "source": "ocr",
+        "context": "T RBRE A, SEL ATR, 到战国暑期, MA,\nRAR, URIBE, "
+      },
+      {
+        "text": "清",
+        "page": 134,
+        "source": "ocr",
+        "context": "IN 8 个(称控流 2一久。这4个探汪清理的桔果， 区近江\n工南总的次纺报土中，"
+      },
+      {
+        "text": "唐",
+        "page": 134,
+        "source": "ocr",
+        "context": "种狂型的链。链 0:003，实仿板页岩。唐要。休毒局\n不而长,柄路窗有肌。与城子的"
+      },
+      {
+        "text": "明",
+        "page": 136,
+        "source": "ocr",
+        "context": "     莫非的大小方向和限非券物列表具明之。\natm eH BE 表CRtz#)"
+      },
+      {
+        "text": "明",
+        "page": 137,
+        "source": "ocr",
+        "context": "6 ACA 2 AKANE, 需要个济枫明外,其人14\nSu AREAL PUM "
+      },
+      {
+        "text": "清",
+        "page": 141,
+        "source": "ocr",
+        "context": "AAT, NS HL BRIS\n术形已不清楚。\n\n227, ASMEARML, L"
+      },
+      {
+        "text": "明",
+        "page": 146,
+        "source": "ocr",
+        "context": "\n\n© me\n\nESR OLD, 分别县明於下。\n\n工 mit, 1 AF 282"
+      },
+      {
+        "text": "清",
+        "page": 147,
+        "source": "ocr",
+        "context": "认积十下, UES: APEC, 始\n能清理内部, CRM US HACE 234"
+      },
+      {
+        "text": "元",
+        "page": 149,
+        "source": "ocr",
+        "context": "\n提深违8米焦，通到石子峙过时把度已与一元先秦基课度相\n295, 即行中止。它的平"
+      },
+      {
+        "text": "秦",
+        "page": 149,
+        "source": "ocr",
+        "context": "深违8米焦，通到石子峙过时把度已与一元先秦基课度相\n295, 即行中止。它的平面形"
+      },
+      {
+        "text": "明",
+        "page": 152,
+        "source": "ocr",
+        "context": ",宣3 商\n.7大米。醒边有小猪康介,表明猪加的主你。两间下傅红各向\nORAS I"
+      },
+      {
+        "text": "战国",
+        "page": 182,
+        "source": "ocr",
+        "context": "图版起伍\n\n战国于号坑公图\n"
+      },
+      {
+        "text": "战国",
+        "page": 184,
+        "source": "ocr",
+        "context": "    第号车 CoD\n\n第2号至第4号战国车的佑图\n"
+      },
+      {
+        "text": "战国",
+        "page": 185,
+        "source": "ocr",
+        "context": "Ose\n\n5 A 3 6H 10,1 号战国车子\n"
+      },
+      {
+        "text": "战国",
+        "page": 186,
+        "source": "ocr",
+        "context": "pA CNA)\n\n14      6号的战国车子\n\n"
+      },
+      {
+        "text": "战国",
+        "page": 187,
+        "source": "ocr",
+        "context": "16 号和17 SC\n\n第16号至1号的战国车子\n"
+      },
+      {
+        "text": "战国",
+        "page": 188,
+        "source": "ocr",
+        "context": "CA oN)\n\nARF AEA AD\n\n战国车的束莲和第 1S, 19 号的车子底部"
+      },
+      {
+        "text": "金",
+        "page": 235,
+        "source": "ocr",
+        "context": "   外\n\n国团村第 6号右出上网、雏、金、开器\n\nSTR 62 2 1 I, E"
+      },
+      {
+        "text": "秦",
+        "page": 247,
+        "source": "ocr",
+        "context": "0h) 1 AVENTIS A) 18,秦是13135 GC)\n\nYa) 68. "
+      }
+    ],
+    "遗址名称": [
+      {
+        "text": "固围村",
+        "page": 7,
+        "source": "ocr",
+        "context": "OAMISTE LGR, BAERS\n\n固围村第 1 BEE\n\na Re\n\n(RIM "
+      },
+      {
+        "text": "固围村",
+        "page": 7,
+        "source": "ocr",
+        "context": "村第 1 SERCH An EE TL\n固围村第工号摹南幕道上的灰土穴及土灶\n\n周围村"
+      },
+      {
+        "text": "固围村",
+        "page": 7,
+        "source": "ocr",
+        "context": " 号台的摹填构造\n\n固轩村第2 EH\n\n固围村第2 号幕出土金属器物及残件\n\n因转村第"
+      },
+      {
+        "text": "固围村",
+        "page": 7,
+        "source": "ocr",
+        "context": "第2 -BRCH LS, A. Be\n\n固围村第 3 BE\n\n国转村第3号蔓\n固围村第"
+      },
+      {
+        "text": "固围村",
+        "page": 7,
+        "source": "ocr",
+        "context": "\n固围村第 3 BE\n\n国转村第3号蔓\n固围村第3号蓝\n回转村第3号于\n回转村第3 S"
+      },
+      {
+        "text": "固围村",
+        "page": 7,
+        "source": "ocr",
+        "context": "村第3号于\n回转村第3 SCH Eat\n固围村第 3 AEH\n\n固围村第 5 Be A"
+      },
+      {
+        "text": "固围村",
+        "page": 7,
+        "source": "ocr",
+        "context": "SCH Eat\n固围村第 3 AEH\n\n固围村第 5 Be AIMS 6 WERE\n\n"
+      },
+      {
+        "text": "固围村",
+        "page": 7,
+        "source": "ocr",
+        "context": "第 5 Be AIMS 6 WERE\n\n固围村第5 RE\n\n固园村第5 EHH fo "
+      },
+      {
+        "text": "固围村",
+        "page": 7,
+        "source": "ocr",
+        "context": "E\n\n固园村第5 EHH fo ele\n固围村第5 EH OE\n\n固围村第 5 GRR"
+      },
+      {
+        "text": "固围村",
+        "page": 7,
+        "source": "ocr",
+        "context": "fo ele\n固围村第5 EH OE\n\n固围村第 5 GRR, OR, ORE\n\n固轩"
+      },
+      {
+        "text": "北朝",
+        "page": 14,
+        "source": "ocr",
+        "context": "和隅耽务 1人。时代不能下定, 可能是南北朝的。\n\n第195 号幕 这是一小幕,长实"
+      },
+      {
+        "text": "安阳",
+        "page": 32,
+        "source": "ocr",
+        "context": " 10.9, SEY 0.7 BER\n\n安阳的陶吾中, EAT ASEAN, CAA"
+      },
+      {
+        "text": "安阳",
+        "page": 35,
+        "source": "ocr",
+        "context": "lem HAA.\n同禄位器立耳的詹髓，在安阳也什改现过稚件C0， RR THE\n加人"
+      },
+      {
+        "text": "安阳",
+        "page": 36,
+        "source": "ocr",
+        "context": "落的现象。\n\n这杰伯多蕊从形式上来看,和安阳所用土的没有多大分测,，\nMLA WRI"
+      },
+      {
+        "text": "安阳",
+        "page": 39,
+        "source": "ocr",
+        "context": "儿是畔缆用的明顺,不可能是实用的武器。 安阳\n\nTx\n\nPod      2 Bak"
+      },
+      {
+        "text": "安阳",
+        "page": 43,
+        "source": "ocr",
+        "context": "以分谷雨加工期 (北,中区) 是相\n当热安阳的小志前期和孵州二里加 工期。期(南本 "
+      },
+      {
+        "text": "固围村",
+        "page": 200,
+        "source": "ocr",
+        "context": "图版嫂\n\n1 SR ea\n\n固围村第工号获著室内夏填情形及残留遗物\n"
+      },
+      {
+        "text": "固围村",
+        "page": 205,
+        "source": "ocr",
+        "context": "12\n\n固围村第1号\n\nLAMM LSTIRCY) 对"
+      },
+      {
+        "text": "固围村",
+        "page": 217,
+        "source": "ocr",
+        "context": "   6. iP 5 1 we aA\n\n固围村第2 RE RAE\n"
+      },
+      {
+        "text": "辉县",
+        "page": 276,
+        "source": "ocr",
+        "context": "河南辉县趟固地形及坑位图\na\n\n"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "车马坑",
+        "page": 7,
+        "source": "ocr",
+        "context": "HCG St\n\nARIA i BE\n戴国车马坑全图\n\n战国车马坟的近择和第 1 号车的"
+      },
+      {
+        "text": "灰坑",
+        "page": 16,
+        "source": "ocr",
+        "context": "OUT MANE FE\n\n第一大坑在第一灰坑北西构 16 米左右，被第108 9 H"
+      },
+      {
+        "text": "灰坑",
+        "page": 24,
+        "source": "ocr",
+        "context": "多， 中 AT ts 第\n二页起3规第四灰坑了搜。其中没有一吉完整的。它们在第\n一灰"
+      },
+      {
+        "text": "基址",
+        "page": 121,
+        "source": "ocr",
+        "context": ", AE, HA 18\n诬。国位置在网地基址西北阴的井吉区，上口西华已被法水\n‘iS"
+      },
+      {
+        "text": "灰坑",
+        "page": 134,
+        "source": "ocr",
+        "context": " DEF DSR IM EAC IG\n\n灰坑形制\n\nee Aik EOS, HARU"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "S295",
+        "page": 7,
+        "source": "ocr",
+        "context": "CME NRE He A HEE\nFR S295 1 Smee ADH EP\nPa 1H"
+      },
+      {
+        "text": "S180",
+        "page": 14,
+        "source": "ocr",
+        "context": " EIR,\n蓝深培 07 1.6 A, S180\" 420\". RRNA OT ME, "
+      },
+      {
+        "text": "M7",
+        "page": 14,
+        "source": "ocr",
+        "context": ", 2169\", 21721 W292\nM7 289-7 M298 唐 ? 2903"
+      },
+      {
+        "text": "M298",
+        "page": 14,
+        "source": "ocr",
+        "context": "21721 W292\nM7 289-7 M298 唐 ? 29031 MH, 2895 "
+      },
+      {
+        "text": "M4",
+        "page": 14,
+        "source": "ocr",
+        "context": "炎厅3 NSLATAOMCHN Ba. M4 AC 21 A LAG PST 22 "
+      },
+      {
+        "text": "L197",
+        "page": 15,
+        "source": "ocr",
+        "context": "I, bE DB EEN ATA Le L197),\nBaie AMG.   1:84)"
+      },
+      {
+        "text": "L288",
+        "page": 15,
+        "source": "ocr",
+        "context": "PE I C81), AMBRE 2\n(L288, 1268) APPR 1 BECL="
+      },
+      {
+        "text": "L118",
+        "page": 15,
+        "source": "ocr",
+        "context": " FECT) ATRURATERIBY L118) 7781 11),\n应角1 Cl:1"
+      },
+      {
+        "text": "G8",
+        "page": 16,
+        "source": "ocr",
+        "context": "SAT TP\nBEA He AEMEL G8) FIFE EA) REY HOO)\n"
+      },
+      {
+        "text": "P10",
+        "page": 16,
+        "source": "ocr",
+        "context": "SCTE 1.28, EME 0.6,\nP10 SOME 1.28, 70 0.88."
+      },
+      {
+        "text": "D5",
+        "page": 17,
+        "source": "ocr",
+        "context": " EOLA BR CHANEL HI, D5 Sh —Ae COANE 9 BE\nF"
+      },
+      {
+        "text": "D9",
+        "page": 18,
+        "source": "ocr",
+        "context": ".7 BUA URE AS PHIM, D9 ST 也\nARLE, LARA, TT"
+      },
+      {
+        "text": "M5",
+        "page": 21,
+        "source": "ocr",
+        "context": " FCA, 165 BA 2,36), M5\nBhs PM, 基色，口才时攻方珍,底"
+      },
+      {
+        "text": "D5",
+        "page": 21,
+        "source": "ocr",
+        "context": " AD 件没有\nane,\nARERR, D5 BEBE PEL\nUS, OME BO"
+      },
+      {
+        "text": "D4",
+        "page": 22,
+        "source": "ocr",
+        "context": "0, TAPAS MOR CRIME, D4 15216, 灰色， HS, HALE"
+      },
+      {
+        "text": "D5",
+        "page": 22,
+        "source": "ocr",
+        "context": "7, MEH 2.5, HRA WR, D5 OMVERAARS HID AT\nLS"
+      },
+      {
+        "text": "L284",
+        "page": 23,
+        "source": "ocr",
+        "context": "E\nTs He RRA A SL\neA L284 9 TS\nOL st ae\n最多ab。"
+      },
+      {
+        "text": "M0",
+        "page": 27,
+        "source": "ocr",
+        "context": " ERR\n3), BORER AHS, M0 ECT. AABTC ME 2K,\n形"
+      },
+      {
+        "text": "G1",
+        "page": 28,
+        "source": "ocr",
+        "context": "\n\n[TCR\n\nTis can ane G1 wa\nSB GRWTUBiMee?\n\n"
+      },
+      {
+        "text": "S18",
+        "page": 31,
+        "source": "ocr",
+        "context": "i wal a3! 08 | ave\n\nS18 fhe CUTAN, RUC REAE"
+      },
+      {
+        "text": "J209:3",
+        "page": 31,
+        "source": "ocr",
+        "context": "CAI.\n\nTHOR SUA A Fe J209:3 CER ME, 13), SN 208"
+      },
+      {
+        "text": "L101",
+        "page": 34,
+        "source": "ocr",
+        "context": "IME2 A. NOM Tee eB. L101\n‘AUS, SYS NARESH Ay"
+      },
+      {
+        "text": "G9",
+        "page": 35,
+        "source": "ocr",
+        "context": "IEY) 5 is 2.5\n‘EER, G9, FEMME 3, COME 17.5"
+      },
+      {
+        "text": "P71",
+        "page": 36,
+        "source": "ocr",
+        "context": " 由刀类\nee\nME, HTB\n\nWk P71, HL. RS\nTSCA, 40779"
+      },
+      {
+        "text": "S61",
+        "page": 36,
+        "source": "ocr",
+        "context": "MRS BE A\n\nexam)\nHey S61,\n\n> sRGATES, 赔版失伍,1"
+      },
+      {
+        "text": "L048",
+        "page": 37,
+        "source": "ocr",
+        "context": "E 6 NE RICH A AR\nBk L048 8 RERASREHICALIES, "
+      },
+      {
+        "text": "F619",
+        "page": 38,
+        "source": "ocr",
+        "context": "AOS ROR. LAT SPRL 6 F619 10), Sick AHE 3.2\n2"
+      },
+      {
+        "text": "M4842",
+        "page": 39,
+        "source": "ocr",
+        "context": "OIE ATE, A HEI\nEGA, M4842 BK\n\nOAM 20221 NRLAG"
+      },
+      {
+        "text": "G27",
+        "page": 40,
+        "source": "ocr",
+        "context": "O ACA ARRUTE NN BIE G27 袜\n07 MR) eee 141.14"
+      },
+      {
+        "text": "D4",
+        "page": 40,
+        "source": "ocr",
+        "context": " A ATARI HBT HE 2 岂\nD4 E18, MLO, V6 2.8 HO"
+      },
+      {
+        "text": "M5",
+        "page": 40,
+        "source": "ocr",
+        "context": "SIM, He\nHABA TARA — M5 “EATERIES\nHTN, RL W"
+      },
+      {
+        "text": "D5",
+        "page": 46,
+        "source": "ocr",
+        "context": " ARLE MRT TY BLT ty D5 A\n\nUE AREAS, APNEA."
+      },
+      {
+        "text": "L127",
+        "page": 53,
+        "source": "ocr",
+        "context": " DLT ALT — RIFE\n形。\n\nL127, RLF SG 1 MOR RR, S"
+      },
+      {
+        "text": "G25",
+        "page": 55,
+        "source": "ocr",
+        "context": " MUS — AR IR I 5 Hy G25\nAy MIYAKE, HH 1.1一1"
+      },
+      {
+        "text": "P21",
+        "page": 57,
+        "source": "ocr",
+        "context": "E\nFey BORE SALT Tie P21 REAM BEIT OS RON IL"
+      },
+      {
+        "text": "S61",
+        "page": 57,
+        "source": "ocr",
+        "context": "LAR SURI A\nae\n\n1001 S61 54 Hy BONER, FEAL A"
+      },
+      {
+        "text": "D5",
+        "page": 59,
+        "source": "ocr",
+        "context": "A\nBULK EAE SHG HT 8 D5 RGR\nNE, MRA 15 tI. "
+      },
+      {
+        "text": "M6",
+        "page": 61,
+        "source": "ocr",
+        "context": "TE ey HE\n120, 0.90, M6 40, FORT MAMET, SEE"
+      },
+      {
+        "text": "S18",
+        "page": 62,
+        "source": "ocr",
+        "context": "AE PEE\nCRRA. API DL S18, AA BT BA\n外H 25, CU"
+      },
+      {
+        "text": "L005",
+        "page": 67,
+        "source": "ocr",
+        "context": "SNA, HNL APR SE\n竹中, L005) BEI AN — Besa Ae A"
+      },
+      {
+        "text": "D5",
+        "page": 68,
+        "source": "ocr",
+        "context": "LAY OEM LAA AIBA AL D5 Te\nCLD AIEAVE IE NN"
+      },
+      {
+        "text": "D6",
+        "page": 69,
+        "source": "ocr",
+        "context": ", 21820 1 NRE HANES D6\n表四五“陶钙合吧表 certo\n\nni"
+      },
+      {
+        "text": "D6",
+        "page": 69,
+        "source": "ocr",
+        "context": " AAS PRA MERE NARA, D6 WH\nBSA IRE, Ae AMBR"
+      },
+      {
+        "text": "M6",
+        "page": 70,
+        "source": "ocr",
+        "context": " 21928 pee STINE\n局, M6 Hy 112247 — fA AE O"
+      },
+      {
+        "text": "S12",
+        "page": 71,
+        "source": "ocr",
+        "context": "Fy HIRE 1 RES A, =O\nS12. ARO MENRALEECE CL "
+      },
+      {
+        "text": "T4018",
+        "page": 76,
+        "source": "ocr",
+        "context": " 局形的\n花机两相向,在字的二个。直径 T4018, SABO RO\nCUE.\n\n20:3"
+      },
+      {
+        "text": "G158:29",
+        "page": 76,
+        "source": "ocr",
+        "context": "H RT\nCee\n\nGB) sa AR G158:29 3B? HE, 癌册 1 a ST\n种"
+      },
+      {
+        "text": "M8",
+        "page": 76,
+        "source": "ocr",
+        "context": "D 1 fhe MBAR. ARES, M8,\n0.85 ILA CSAC, 10)"
+      },
+      {
+        "text": "T1839",
+        "page": 77,
+        "source": "ocr",
+        "context": " WV BR EAS UAE) CEA T1839,\n142,145 与 16 号等5 B"
+      },
+      {
+        "text": "F05",
+        "page": 77,
+        "source": "ocr",
+        "context": "TS, 11149 58055205 —F05 HH LR, BEE 106.45 1"
+      },
+      {
+        "text": "G0",
+        "page": 78,
+        "source": "ocr",
+        "context": "HEL\n\nELSI 5, WAT TE\nG0 OL UA AAC\na ea\n\n"
+      },
+      {
+        "text": "G2",
+        "page": 80,
+        "source": "ocr",
+        "context": "fet 9 IUD, UNE CA A G2\nAL SOIR 9 MEARE. ME"
+      },
+      {
+        "text": "F120",
+        "page": 80,
+        "source": "ocr",
+        "context": "TR, POS HEE\n(MEARE. F120 aes 10-9 GAL MET EA"
+      },
+      {
+        "text": "M22",
+        "page": 85,
+        "source": "ocr",
+        "context": "MRIT ASABE ARS HEL:\nM22, 16.5, 4, ERT NNT 8"
+      },
+      {
+        "text": "F125",
+        "page": 86,
+        "source": "ocr",
+        "context": " RANMA, ASN BET ELM\nF125 9 mh, SERED Urabe a"
+      },
+      {
+        "text": "M2",
+        "page": 86,
+        "source": "ocr",
+        "context": "OSE, HARRIE. STAPH\n\nM2\n\n"
+      },
+      {
+        "text": "M1",
+        "page": 87,
+        "source": "ocr",
+        "context": "i MRA A ae TD,\n1 ER M1 BRS\nBEA, HEY\nsistas"
+      },
+      {
+        "text": "S68",
+        "page": 87,
+        "source": "ocr",
+        "context": "ONRERRL, 1), SUE Ey S68 He.\nFRR, WAR, AIOE "
+      },
+      {
+        "text": "M08",
+        "page": 89,
+        "source": "ocr",
+        "context": "MA AC.\n\nPR UTA, HG, M08 MLK, 与上列人金玉闻册,有\neR."
+      },
+      {
+        "text": "M3",
+        "page": 89,
+        "source": "ocr",
+        "context": "ET 24.0 ML 27.7, Be\nM3, LOG We\n\n4a AOL GAL"
+      },
+      {
+        "text": "D2",
+        "page": 90,
+        "source": "ocr",
+        "context": "BRN GAIL, RTI. HOHE D2, 2.6 WOR. PANERA.\n\n"
+      },
+      {
+        "text": "L169",
+        "page": 90,
+        "source": "ocr",
+        "context": " 2 AECL 182 2 1) pA L169 2 2), HE\n制,尺十与1:153"
+      },
+      {
+        "text": "L107",
+        "page": 91,
+        "source": "ocr",
+        "context": "AQ ALT BRS ORAL ERE L107 BE\n来, APSE 04 ENG. "
+      },
+      {
+        "text": "M8",
+        "page": 91,
+        "source": "ocr",
+        "context": ", HEAL, 10.6 WE. Te M8 He\n号, AAMEM als MAN"
+      },
+      {
+        "text": "M9003",
+        "page": 94,
+        "source": "ocr",
+        "context": ", JM 10, ERE 8\n22K. M9003,\n\n‘ah TELE A 8)» D,"
+      },
+      {
+        "text": "H23",
+        "page": 94,
+        "source": "ocr",
+        "context": ", (IE 88, MEO,\n\n同上式 H23 Av t—WG GARE HE, 1D"
+      },
+      {
+        "text": "H26",
+        "page": 94,
+        "source": "ocr",
+        "context": ", BI 02 BOK CLIT\n\ni H26 号之1 UNEERE, 10), TE"
+      },
+      {
+        "text": "L912",
+        "page": 94,
+        "source": "ocr",
+        "context": "1 UNEERE, 10), TELS L912 BRE\n‘AMR NL, TIATED"
+      },
+      {
+        "text": "T118",
+        "page": 94,
+        "source": "ocr",
+        "context": "者。 EASON PATIO 8H), T118 1120, 119, F120 8D\n"
+      },
+      {
+        "text": "F120",
+        "page": 94,
+        "source": "ocr",
+        "context": "H), T118 1120, 119, F120 8D\n区了 Mk, HERE, 只有抵"
+      },
+      {
+        "text": "H14",
+        "page": 94,
+        "source": "ocr",
+        "context": ", 只有抵拓铁的有 HOT (13段)，H14 (20x),\n32 (20) H2L "
+      },
+      {
+        "text": "H23",
+        "page": 94,
+        "source": "ocr",
+        "context": "L (A RR)y HA ( 8 段))H23 (8 FE), 3 TD BR\n\nSA"
+      },
+      {
+        "text": "S200",
+        "page": 94,
+        "source": "ocr",
+        "context": "e MRP, WBE BIE AE A\nS200\", Soa RA, HT\n\n"
+      },
+      {
+        "text": "P2261",
+        "page": 97,
+        "source": "ocr",
+        "context": "13, 19 9 LOH mee\neA P2261, RAR ARE 1 12:62,\n\n"
+      },
+      {
+        "text": "L118",
+        "page": 97,
+        "source": "ocr",
+        "context": "\n\n19 J) 1998 日， ENR L118 A RE\nes rt FBT NFB "
+      },
+      {
+        "text": "H9",
+        "page": 99,
+        "source": "ocr",
+        "context": ",170,171, 177), Ave H9: 89,94, 149,164, A4"
+      },
+      {
+        "text": "P2109",
+        "page": 99,
+        "source": "ocr",
+        "context": "ARIF 1 度2:161 FAH\n1 P2109, AVEER 1 AF 22168, "
+      },
+      {
+        "text": "M1",
+        "page": 104,
+        "source": "ocr",
+        "context": "e SAMBA MEINE KEIN, M1, EEE\nME BURKE, 185 "
+      },
+      {
+        "text": "G0",
+        "page": 104,
+        "source": "ocr",
+        "context": "00\n\nco\nme)     一-\n\n“G0 Ola\n\nme)\n\nR-Of WRUL"
+      },
+      {
+        "text": "S39",
+        "page": 105,
+        "source": "ocr",
+        "context": "Oe\n\nSAR. APTA. HER. S39 MKS Ht\nANSEL NEE, 8"
+      },
+      {
+        "text": "P6",
+        "page": 106,
+        "source": "ocr",
+        "context": "\nOW We\nCD 9:00 EAA —P6 Bee RE ot CDCR, 16\n"
+      },
+      {
+        "text": "T1881",
+        "page": 106,
+        "source": "ocr",
+        "context": " 4,600 eR, FA 8,827 T1881 年1月\n18 TACT AAO ORI"
+      },
+      {
+        "text": "S61",
+        "page": 108,
+        "source": "ocr",
+        "context": "E BE I 9 I\n第3 SARE, S61, 2 BRAT, RN I\n使用木质村"
+      },
+      {
+        "text": "D8",
+        "page": 111,
+        "source": "ocr",
+        "context": "sy tA RES RAMONE AE\nD8 HOR, ITI HTROETT LM"
+      },
+      {
+        "text": "D5",
+        "page": 111,
+        "source": "ocr",
+        "context": "A, LRU ARTE RE ANE, D5 PRADO\nao LA ASL ce "
+      },
+      {
+        "text": "H6",
+        "page": 113,
+        "source": "ocr",
+        "context": "个小孔,征之第1 5A, ALG ee H6 SL\n有波折教一胃与凶辐。这种枚他很特"
+      },
+      {
+        "text": "D6",
+        "page": 115,
+        "source": "ocr",
+        "context": " IE EA SIR AN BUSCA D6\n\ni SI A, IE 2 A\n16,"
+      },
+      {
+        "text": "S06",
+        "page": 116,
+        "source": "ocr",
+        "context": "2 NOK. TESTO Ky\n\nPR S06 CHANGER, Os BI, Fe "
+      },
+      {
+        "text": "S20",
+        "page": 118,
+        "source": "ocr",
+        "context": "12, ACE 2.8, 19 72, S20,\n\n与此网形国号者昂一由, RA, 6"
+      },
+      {
+        "text": "G18",
+        "page": 118,
+        "source": "ocr",
+        "context": "EE HLH 628-45 © Hey\nG18 #1 3 He, HAIN.\n\naR "
+      },
+      {
+        "text": "M1",
+        "page": 118,
+        "source": "ocr",
+        "context": "E 2 A\nTEP RTI, HAAN M1, 0.7 RR\n\nARR 8:0 CH"
+      },
+      {
+        "text": "G20",
+        "page": 119,
+        "source": "ocr",
+        "context": " BOP\nWe AA, EUR TS, G20, TS ET\n\n6:38 JAA, 同"
+      },
+      {
+        "text": "F095",
+        "page": 119,
+        "source": "ocr",
+        "context": " HEAR, Tee I, SL FF\nF095, AERA TL, ALTE GAT "
+      },
+      {
+        "text": "M8",
+        "page": 125,
+        "source": "ocr",
+        "context": "NE, FRR\nRe MCAT, eT\nM8, RAT,\n12, FRI, a\n得口"
+      },
+      {
+        "text": "F216",
+        "page": 125,
+        "source": "ocr",
+        "context": " ANITA, ORIEL\nPSOE (F216 (ASE EINER, 7B AO B"
+      },
+      {
+        "text": "L111",
+        "page": 128,
+        "source": "ocr",
+        "context": "S LEAMA, MAE,\n‘GORI L111 SL, ARR OA, 身长4.7， "
+      },
+      {
+        "text": "F885",
+        "page": 129,
+        "source": "ocr",
+        "context": "RET, RBA WAAR, AEB, F885\nHe\n\nSTR 1304 一邓 CHU"
+      },
+      {
+        "text": "D5",
+        "page": 130,
+        "source": "ocr",
+        "context": ".\n\nEAP 12126 (BUBOR D5 VEEL IEE NAT\nSUNIL,"
+      },
+      {
+        "text": "L6",
+        "page": 130,
+        "source": "ocr",
+        "context": "LT. 种 1.B—B, FLA OB—L6, HE 0.8 BOK.\n\nMR AD"
+      },
+      {
+        "text": "M2",
+        "page": 132,
+        "source": "ocr",
+        "context": " ee   at |  北 | Pah M2 2 G2 He\nmeen) wags "
+      },
+      {
+        "text": "G2",
+        "page": 132,
+        "source": "ocr",
+        "context": " at |  北 | Pah M2 2 G2 He\nmeen) wags      "
+      },
+      {
+        "text": "L098",
+        "page": 134,
+        "source": "ocr",
+        "context": "IA te FEE ABTA CARA\nL098 cy WEIR TIME 1, 单孔石"
+      },
+      {
+        "text": "M5",
+        "page": 137,
+        "source": "ocr",
+        "context": "\n\nmupsexmenmisiim | M5\"\nrermerecireat | ot"
+      },
+      {
+        "text": "D5",
+        "page": 138,
+        "source": "ocr",
+        "context": " AE, SP 7 IB\nUNGAR, D5 LAAT 228, MY 359 BE"
+      },
+      {
+        "text": "T2050",
+        "page": 139,
+        "source": "ocr",
+        "context": " el mam|m || x\n\nan) T2050) 155 | 41.585 |    "
+      },
+      {
+        "text": "S52",
+        "page": 140,
+        "source": "ocr",
+        "context": "A, ARAB, TORT,\n20:8 S52 AL, OR, FEA ANAS en"
+      },
+      {
+        "text": "S1",
+        "page": 142,
+        "source": "ocr",
+        "context": "ede ee es] |\nfeshso|S1| oa] aa] aa! ea| ou"
+      },
+      {
+        "text": "M2",
+        "page": 144,
+        "source": "ocr",
+        "context": ", 内写生2) OS BRS\n\nLES M2 PRUNE MSM DK UTZ,\n\n"
+      },
+      {
+        "text": "H1",
+        "page": 144,
+        "source": "ocr",
+        "context": ", 10.8, HAH 1.8,\neh H1.2 WOR, CE UAE, 10)."
+      },
+      {
+        "text": "M16",
+        "page": 144,
+        "source": "ocr",
+        "context": "1.1\nBOR, AHAB BUEN, M16), P45) HA\n‘ALIA, JE"
+      },
+      {
+        "text": "P45",
+        "page": 144,
+        "source": "ocr",
+        "context": "R, AHAB BUEN, M16), P45) HA\n‘ALIA, JE 0.86,"
+      },
+      {
+        "text": "L8",
+        "page": 144,
+        "source": "ocr",
+        "context": "ME. HANES 2.9, AAMT L8, ANALY, 厚015。小的其 2,"
+      },
+      {
+        "text": "M13",
+        "page": 144,
+        "source": "ocr",
+        "context": ", PS ARSE TENE EEE, M13)\n\n3 WAI TE, A, HI A"
+      },
+      {
+        "text": "S21",
+        "page": 144,
+        "source": "ocr",
+        "context": ",\nFU 1A, A\n《9 FRRUL S21 共 968 个，出自 3 at, SE"
+      },
+      {
+        "text": "M2",
+        "page": 145,
+        "source": "ocr",
+        "context": " == 85 HSM, ABILARA M2 10 93 a\n(18:2, 16:3"
+      },
+      {
+        "text": "D6",
+        "page": 149,
+        "source": "ocr",
+        "context": " T 1 GRIER KE HR 10 D6\nSESSEM EJIL BRR © M"
+      },
+      {
+        "text": "L119",
+        "page": 151,
+        "source": "ocr",
+        "context": "G HOLA\n\n- ae\n\n1s fe L119 CRINEREB AM, 2 ATL "
+      },
+      {
+        "text": "L144",
+        "page": 153,
+        "source": "ocr",
+        "context": "hy SN 2 Hes\n\n©. MeO L144 (加版次变大,9) UHC, AEA "
+      },
+      {
+        "text": "L8",
+        "page": 153,
+        "source": "ocr",
+        "context": "HOR. PRISE, RHP, JE L8 BOS\n\n与此网武者在13144 op"
+      },
+      {
+        "text": "S11",
+        "page": 153,
+        "source": "ocr",
+        "context": "吉大,20) tha, ME, tHE\nS11, ROSAS AME, RRM, 一穿"
+      },
+      {
+        "text": "M0",
+        "page": 155,
+        "source": "ocr",
+        "context": "T\nSSnbOTeAT AM, MUN M0 ae, 1,6 #8\n5 SRAM 8"
+      },
+      {
+        "text": "G1",
+        "page": 155,
+        "source": "ocr",
+        "context": "SME BSB RE AE\nPUNE, G1, DE OTE, APE NO EIB"
+      },
+      {
+        "text": "T3740",
+        "page": 155,
+        "source": "ocr",
+        "context": ", MBE IL EN, WERTG\n(T3740) AIM 1 ERE en A ATR"
+      },
+      {
+        "text": "G7",
+        "page": 157,
+        "source": "ocr",
+        "context": " MERA ES AR 8648 有\n\nG7) sac.\n\n(8) OU AMA R"
+      },
+      {
+        "text": "L149",
+        "page": 161,
+        "source": "ocr",
+        "context": "a) A gee ASTAB CI)\n\nL149 CYa) 2.49 15000)\nAA"
+      },
+      {
+        "text": "L161",
+        "page": 162,
+        "source": "ocr",
+        "context": "BOW 4 LB ts\n\nL.A L161 2. hy 166 8. GS 1:3"
+      },
+      {
+        "text": "M01",
+        "page": 167,
+        "source": "ocr",
+        "context": "160:29¢.)\n5. ACHAEA M01 CY) 6 PACA AE 2086)"
+      },
+      {
+        "text": "M6:4061",
+        "page": 195,
+        "source": "ocr",
+        "context": "铁器及其他\n\n1. GIN M6:4061);) 9. $I} 1:2\n19¢¢/"
+      },
+      {
+        "text": "S23",
+        "page": 232,
+        "source": "ocr",
+        "context": "村第5号佬出土陶器\n\n7 8. fip S23 6.HkMEGLO:20 78. i\n"
+      },
+      {
+        "text": "G38",
+        "page": 235,
+        "source": "ocr",
+        "context": "6:45 IT IK SH,\nBALE G38     eR 6:10,6:21,6:"
+      },
+      {
+        "text": "M1652",
+        "page": 241,
+        "source": "ocr",
+        "context": "\n\na a\n\nL:91G fs) 2. M1652 20.) A MBRBMY 1260-"
+      },
+      {
+        "text": "S10",
+        "page": 247,
+        "source": "ocr",
+        "context": "19¢/) 4B      8. 3p\nS10. 12100 8h) TMB CA) "
+      },
+      {
+        "text": "L802",
+        "page": 247,
+        "source": "ocr",
+        "context": "8h) TMB CA) 12. HBT L802 2EH) 1\nHIG, ROH L10"
+      },
+      {
+        "text": "L101",
+        "page": 247,
+        "source": "ocr",
+        "context": "802 2EH) 1\nHIG, ROH L101, 1:90, 1:1 80h) 1 A"
+      },
+      {
+        "text": "T135",
+        "page": 249,
+        "source": "ocr",
+        "context": "人.方策 1:151(购5) TRAE T135-2.9.CH) YD 8 BENE T"
+      },
+      {
+        "text": "S811",
+        "page": 250,
+        "source": "ocr",
+        "context": "1712601214 (42) 10. S811 (网\n1118 (网 18-18, M"
+      },
+      {
+        "text": "M2923",
+        "page": 258,
+        "source": "ocr",
+        "context": "H ck: Re\nLm 2st0¢/) M2923)\n"
+      },
+      {
+        "text": "L116",
+        "page": 266,
+        "source": "ocr",
+        "context": "4\nob\n\nee eee ae\n\neM L116 CD) 2 AERA 1:119 Cf"
+      },
+      {
+        "text": "L138",
+        "page": 267,
+        "source": "ocr",
+        "context": "7.更\n\n) Adare 22491)\nL138 Yd)\n\n"
+      },
+      {
+        "text": "L340",
+        "page": 271,
+        "source": "ocr",
+        "context": "099 Yi) 16,18, BRIE L340) 17. AIM ATORC;) 18"
+      }
+    ],
+    "土样特征": [
+      {
+        "text": "灰土",
+        "page": 7,
+        "source": "ocr",
+        "context": "n EE TL\n固围村第工号摹南幕道上的灰土穴及土灶\n\n周围村第 2 BER\n国围村"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": " 5 m",
+        "page": 8,
+        "source": "ocr",
+        "context": "四六“第 343 号莫不面册\n第 140 5 me ZT BCD HATH ~\n\n"
+      },
+      {
+        "text": "2         m",
+        "page": 13,
+        "source": "ocr",
+        "context": "2         mk MO\n\n(YA, ARICA FM,"
+      },
+      {
+        "text": "2.4 米",
+        "page": 14,
+        "source": "ocr",
+        "context": " ACELEN. SKATES 2.8x2.4 米，\nPEDAL, 1 190\", REL"
+      },
+      {
+        "text": "4米",
+        "page": 14,
+        "source": "ocr",
+        "context": "y AOE MARE 2.3204 和全4米处,各有\n攻符时1 具。生二处以及陵地面"
+      },
+      {
+        "text": "4.0 米",
+        "page": 14,
+        "source": "ocr",
+        "context": "有\n攻符时1 具。生二处以及陵地面25和4.0 米处, 有野猪骨架\nLAUR, ANIM "
+      },
+      {
+        "text": "0.9米",
+        "page": 14,
+        "source": "ocr",
+        "context": "第195 号幕 这是一小幕,长实纺33x0.9米,漆33 AR\nAAEM, 流有靖非品,"
+      },
+      {
+        "text": " 1991 m",
+        "page": 14,
+        "source": "ocr",
+        "context": "8 周, 119 2，\n1202 jh, 1991 me, 1257, 12031, 132-"
+      },
+      {
+        "text": " 2895 m",
+        "page": 14,
+        "source": "ocr",
+        "context": "7 M298 唐 ? 29031 MH, 2895 mh, 298 3 ,\n2879 £2,2"
+      },
+      {
+        "text": "9米",
+        "page": 14,
+        "source": "ocr",
+        "context": "13 ANREP,\n时所发现的。摊至深违9米左右蛙， eM re\n了了南北长 1.5"
+      },
+      {
+        "text": "045米",
+        "page": 15,
+        "source": "ocr",
+        "context": "CRE 4 0, Dla MRD\n如深亚045米出现灰禄色士,灰纺东南未及过丸，乃向二而"
+      },
+      {
+        "text": " 0.7\n米",
+        "page": 15,
+        "source": "ocr",
+        "context": "别加腑璋的本明(几一)。第一大坑在现地面 0.7\n米滩左右处是一上深福色灰二,看不出坑口的形"
+      },
+      {
+        "text": " 28 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "RE, MPAA, HEHE &2，东再 28 米。课到\n2米友右,记不规则的加形,南北其"
+      },
+      {
+        "text": "\n2米",
+        "page": 15,
+        "source": "ocr",
+        "context": ", HEHE &2，东再 28 米。课到\n2米友右,记不规则的加形,南北其 9A, T"
+      },
+      {
+        "text": "3米",
+        "page": 15,
+        "source": "ocr",
+        "context": " He SARL\n下网条业出光潮的坑各,3米在右四侣出现小的当穴, 差不多在\n局一平"
+      },
+      {
+        "text": "5米",
+        "page": 15,
+        "source": "ocr",
+        "context": "局一平面上有大个,大小相差不多。距地面&5米沫时，皮剧加\nFE AMON. MAE "
+      },
+      {
+        "text": " 4 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "加\nFE AMON. MAE A ARS 4 米在右以下浙友精四形。4.5\nTEN TH"
+      },
+      {
+        "text": " 9 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "4.5\nTEN THESE 24, 东西 9 米。48 米以下记方形, METS\n向内个"
+      },
+      {
+        "text": "48 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "EN THESE 24, 东西 9 米。48 米以下记方形, METS\n向内个科度欧 7"
+      },
+      {
+        "text": "5米",
+        "page": 15,
+        "source": "ocr",
+        "context": "METS\n向内个科度欧 7.8\" 左右。5米时,成长方形,相当规划，南北其\n3洲,东"
+      },
+      {
+        "text": "1.2米",
+        "page": 15,
+        "source": "ocr",
+        "context": "成长方形,相当规划，南北其\n3洲,东西究1.2米。4.8米以下而北角与东北角两例册现下多"
+      },
+      {
+        "text": "4.8米",
+        "page": 15,
+        "source": "ocr",
+        "context": "相当规划，南北其\n3洲,东西究1.2米。4.8米以下而北角与东北角两例册现下多小\nDX,"
+      },
+      {
+        "text": "深 11.5 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "2, WE 0.8 CI)»\n\n第一大统深 11.5 米，有 16 ZS RUAIERS  AE"
+      },
+      {
+        "text": "深 0.7 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "M CAA ey IM,\nHEARNE 深 0.7 米轩也是不规则形, 构有 0.3一0.4 "
+      },
+      {
+        "text": " 08 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "DDN ES TL, AF NE\nIHG 08 米; 3.1 米滩世有 LAR Mi iy"
+      },
+      {
+        "text": " 3.1 米",
+        "page": 15,
+        "source": "ocr",
+        "context": " TL, AF NE\nIHG 08 米; 3.1 米滩世有 LAR Mi iy CE\n\niy"
+      },
+      {
+        "text": "3.7米",
+        "page": 15,
+        "source": "ocr",
+        "context": " EE\nPUNO, 有少量陶片山士-在洪3.7米处有0.4米见方的\nFRG) PAIR,"
+      },
+      {
+        "text": "0.4米",
+        "page": 15,
+        "source": "ocr",
+        "context": "NO, 有少量陶片山士-在洪3.7米处有0.4米见方的\nFRG) PAIR, TY O1"
+      },
+      {
+        "text": "18 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "米见方的\nFRG) PAIR, TY O18 米。重要出土赂有, Tit\nBJF 294"
+      },
+      {
+        "text": " 045 米",
+        "page": 16,
+        "source": "ocr",
+        "context": "\n1. HRA WHEL FAG, ME 045 米, AAEM.\n\n16. SEMEL S"
+      },
+      {
+        "text": "5米",
+        "page": 16,
+        "source": "ocr",
+        "context": "他用从。使用只间的长短,我们不得而知。但5米以上\n和上5米以下的堆栈中国隔了较攻的时"
+      },
+      {
+        "text": "5米",
+        "page": 16,
+        "source": "ocr",
+        "context": "间的长短,我们不得而知。但5米以上\n和上5米以下的堆栈中国隔了较攻的时间，是可以相人"
+      },
+      {
+        "text": " 16 米",
+        "page": 16,
+        "source": "ocr",
+        "context": "ANE FE\n\n第一大坑在第一灰坑北西构 16 米左右，被第108 9 HITT\n所条酸。"
+      },
+      {
+        "text": " 22 米",
+        "page": 16,
+        "source": "ocr",
+        "context": "5 RATT. SARIN, FAS 寅 22 米。向下\n\nem a\nct\n加\n\nea\n\n"
+      },
+      {
+        "text": "\n\n27m",
+        "page": 17,
+        "source": "ocr",
+        "context": "\nAT A A te EI CP MIT\n\n27m\n\nATVI fhe 2 件是完整的，1"
+      },
+      {
+        "text": " 11 厘米",
+        "page": 18,
+        "source": "ocr",
+        "context": "IA. ERE 7, WE 88,\nMa 11 厘米。1:114 SE oh        "
+      },
+      {
+        "text": "\n\n5m",
+        "page": 18,
+        "source": "ocr",
+        "context": " HEEL\n‘MATA MEDET Sh\n\n5m\n\nee Hci)\n\n“CET NCI,"
+      },
+      {
+        "text": "00 米",
+        "page": 18,
+        "source": "ocr",
+        "context": "r ale\n\neH —Aethy TO.00 米处， HRDLIT SLA HC\n版式,"
+      },
+      {
+        "text": "5\n\nm",
+        "page": 21,
+        "source": "ocr",
+        "context": " HAR 428 BUNCH 6s E)5\n\nmes mma)\nFNL RO, ROI "
+      },
+      {
+        "text": " 148 米",
+        "page": 27,
+        "source": "ocr",
+        "context": " WsLAHEM, WMESIORLIE 148 米 GiB A ERR\n3), BORER"
+      },
+      {
+        "text": " 8\nm",
+        "page": 35,
+        "source": "ocr",
+        "context": "        on | teted | 8\nmir) ma} 6 | os  | sr"
+      },
+      {
+        "text": " 2 m",
+        "page": 40,
+        "source": "ocr",
+        "context": "et amutRRN\nLargindse 2 mmnen\n\n1.15, FLAK 0.6"
+      },
+      {
+        "text": " 191 m",
+        "page": 41,
+        "source": "ocr",
+        "context": "cnet\n\n2, 2% Pe LAL 和 191 mRNA LC AH\nIAAL GN AS"
+      },
+      {
+        "text": "\n\n2 m",
+        "page": 42,
+        "source": "ocr",
+        "context": " a\n\nSSW. MERTEN, HTC\n\n2 mike\n\n1. ASIA LACROEI"
+      },
+      {
+        "text": " 100 米",
+        "page": 43,
+        "source": "ocr",
+        "context": " 在扫地之北?\nMeets 黄家故西北构 100 米有 108, 111, 114 Sapa"
+      },
+      {
+        "text": " 00 米",
+        "page": 43,
+        "source": "ocr",
+        "context": "0 来有 1055s 6. 商家才西南的 00 米,有 140 号莫，\nHes 242, "
+      },
+      {
+        "text": "5 米",
+        "page": 43,
+        "source": "ocr",
+        "context": "DI, HERA DBL, 寅在1一\n.5 米上下; 深在 35 ALS MAA, N"
+      },
+      {
+        "text": "034米",
+        "page": 44,
+        "source": "ocr",
+        "context": "ABUSED A AEE 1.b\n革西宣034米。匈口其 114 来,商 63 米内部商"
+      },
+      {
+        "text": " 63 米",
+        "page": 44,
+        "source": "ocr",
+        "context": "\n革西宣034米。匈口其 114 来,商 63 米内部商 0.45 A CL\nBAD.\n\n"
+      },
+      {
+        "text": " 0.86 米",
+        "page": 45,
+        "source": "ocr",
+        "context": "14 FRE APL 2.01, AEA 0.86 米， 除一人所\n个之外没有多大空从或者是只"
+      },
+      {
+        "text": "1.3 米",
+        "page": 45,
+        "source": "ocr",
+        "context": "10 fe SIGNS 242 号全,过1.3 米; 一般则多在0.5\n米上下。342 R"
+      },
+      {
+        "text": "0.5\n米",
+        "page": 45,
+        "source": "ocr",
+        "context": "242 号全,过1.3 米; 一般则多在0.5\n米上下。342 RRMA, RR OTB "
+      },
+      {
+        "text": " 60 m",
+        "page": 48,
+        "source": "ocr",
+        "context": " JLATITASIRIE, STARE 60 me MOA\nWB, URL, AGS P"
+      },
+      {
+        "text": "\n\n2 m",
+        "page": 50,
+        "source": "ocr",
+        "context": "CE RS\ni SLE Fa\" — Be\n\n2 me\n\nHe SR OTH NENG BL"
+      },
+      {
+        "text": " 7       m",
+        "page": 50,
+        "source": "ocr",
+        "context": "   sone om ne\n=  » | 7       mR Rl 旬\nza |s        "
+      },
+      {
+        "text": " 7        m",
+        "page": 50,
+        "source": "ocr",
+        "context": "  male om) x\nla) ma) 7        mu | 本| mie\n°   v | 6"
+      },
+      {
+        "text": " 55       m",
+        "page": 50,
+        "source": "ocr",
+        "context": "   a a| Rw 和\nz   m | 55       m ae] 和    wat\njaja |"
+      },
+      {
+        "text": " 07 m",
+        "page": 54,
+        "source": "ocr",
+        "context": " sere\nwon | 85) 12 | 07 mem 。 | Aime\naz 。 4 |"
+      },
+      {
+        "text": " 1\n米",
+        "page": 58,
+        "source": "ocr",
+        "context": "AW\". SRA — HOA 56 LO 1\n米。如时梢木像国轩村第 1 SULA IB"
+      },
+      {
+        "text": " 1 m",
+        "page": 64,
+        "source": "ocr",
+        "context": " | apeascag | or | | 1 me Le Rot EL RUNES aS"
+      },
+      {
+        "text": " 1 m",
+        "page": 64,
+        "source": "ocr",
+        "context": " e810\n1 | Soxas—o4 | 1 my eet Lia  ne      m"
+      },
+      {
+        "text": " 1.05 米",
+        "page": 64,
+        "source": "ocr",
+        "context": "AL\nBENGRORB, 从 0.8 到 1.05 米) ERIE ANTE, Hehe. “"
+      },
+      {
+        "text": "高170 米",
+        "page": 65,
+        "source": "ocr",
+        "context": "PYG 1.60 ky 163 号区，门高170 米。其他如213 号\nSEN NERA 1"
+      },
+      {
+        "text": " 1.60 米",
+        "page": 65,
+        "source": "ocr",
+        "context": "NERA 1.05. 142 A NSE 1.60 米,149 号\n‘REPOS 1.20.9"
+      },
+      {
+        "text": " 0.85 米",
+        "page": 66,
+        "source": "ocr",
+        "context": "对 195 号莫的长3.3) 0.95, 0.85 米1218 号区的拓 2.5,\n1,085"
+      },
+      {
+        "text": " 148 m",
+        "page": 66,
+        "source": "ocr",
+        "context": "5 RE, MF 5.40 9, HAG 148 mt, 对\n2.80 ay TERA TI"
+      },
+      {
+        "text": " 19米",
+        "page": 66,
+        "source": "ocr",
+        "context": "EHY 6 2.10 ky ITN\n$3 19米, GARE DR eA, BERLE,"
+      },
+      {
+        "text": " 075米",
+        "page": 66,
+        "source": "ocr",
+        "context": "E DR eA, BERLE, 最宽构纺 075米, BE\n\n#913 0.0%, AIB"
+      },
+      {
+        "text": "08\nm",
+        "page": 69,
+        "source": "ocr",
+        "context": " PUM SA ASAD\n式。\n\n09:08\nma\n:54\n\n|   :\n\nsa) ol"
+      },
+      {
+        "text": " 75m",
+        "page": 69,
+        "source": "ocr",
+        "context": "al xa | ano!\n43) 03, 75m        rats [iralok"
+      },
+      {
+        "text": " 2 m",
+        "page": 71,
+        "source": "ocr",
+        "context": "6:\nERA DHIE.\n\nme LCI 2 mC\nREt MRBER wom\n\na o"
+      },
+      {
+        "text": "\n283\nm",
+        "page": 74,
+        "source": "ocr",
+        "context": " |\nus|\n\n2k\n3k\n27\n203\n283\nm2\n415\n8\n\n| ma\noe | 1"
+      },
+      {
+        "text": " 22m",
+        "page": 74,
+        "source": "ocr",
+        "context": "y\n\na | om\nom ey\n| ex 22m |\na! ort\n| wae 5件|\n"
+      },
+      {
+        "text": " 3 m",
+        "page": 75,
+        "source": "ocr",
+        "context": "RED]\n\neRe | 00) 188) 3 moe 1B TM IBA\n25 | 60"
+      },
+      {
+        "text": " 69      m",
+        "page": 75,
+        "source": "ocr",
+        "context": "ms   me) | amo\n| 4 | 69      mx! |\n\n@rbeac32: 1645"
+      },
+      {
+        "text": "      2 m",
+        "page": 76,
+        "source": "ocr",
+        "context": ":\nAME, OLIRIEHE. BIC      2 me)\nSI AAO — RCNA, AS"
+      },
+      {
+        "text": "长 135 米",
+        "page": 80,
+        "source": "ocr",
+        "context": "ERE AAs EINE 160,\n南北长 135 米，形圾其方。这平台式的商地, PHAN "
+      },
+      {
+        "text": " 54.6 米",
+        "page": 80,
+        "source": "ocr",
+        "context": " 第\n1S} RUTRRERNE MEY 54.6 米处, 又有小昔 1 Ey 命名第4 号莫"
+      },
+      {
+        "text": "8 米",
+        "page": 80,
+        "source": "ocr",
+        "context": "RD. MK, PEE 8.8, 东西寅8 米《深163 ARERR. EG,\nHAE"
+      },
+      {
+        "text": "5米",
+        "page": 80,
+        "source": "ocr",
+        "context": "HRUERE RI 16 ky 在莫室南5米处是14.6 米 es\nHEY 120 "
+      },
+      {
+        "text": "14.6 米",
+        "page": 80,
+        "source": "ocr",
+        "context": "RE RI 16 ky 在莫室南5米处是14.6 米 es\nHEY 120 米处是 A, P"
+      },
+      {
+        "text": " 120 米",
+        "page": 80,
+        "source": "ocr",
+        "context": "莫室南5米处是14.6 米 es\nHEY 120 米处是 A, PARLOR NMRA\n下深"
+      },
+      {
+        "text": "深 0.6 米",
+        "page": 80,
+        "source": "ocr",
+        "context": "米处是 A, PARLOR NMRA\n下深 0.6 米处量宽 17, AEST PS ARH "
+      },
+      {
+        "text": " 15. 米",
+        "page": 80,
+        "source": "ocr",
+        "context": "H 12.6 Ry Ae\nSORT FE 15. 米处量袖 8.4 米, IPs, RAN "
+      },
+      {
+        "text": " 8.4 米",
+        "page": 80,
+        "source": "ocr",
+        "context": " Ae\nSORT FE 15. 米处量袖 8.4 米, IPs, RAN AA Recs\n0"
+      },
+      {
+        "text": "\n04 米",
+        "page": 80,
+        "source": "ocr",
+        "context": " 米, IPs, RAN AA Recs\n04 米。在莫机南 50 EMR HE 30.7"
+      },
+      {
+        "text": " 25米",
+        "page": 80,
+        "source": "ocr",
+        "context": " EMEA AA 188 9, Bess 25米处让是\n"
+      },
+      {
+        "text": " 17.4 米",
+        "page": 81,
+        "source": "ocr",
+        "context": " TA TSA\nSUUPAVE 73 至 17.4 米仿生条土。二辟情形,大致戎一，像这\nOR"
+      },
+      {
+        "text": " 7.8 米",
+        "page": 81,
+        "source": "ocr",
+        "context": "A ABEFDINE 28 fit 高过 7.8 米 《网版生起, 3， ARETE\n存叶 "
+      },
+      {
+        "text": "3.5 米",
+        "page": 81,
+        "source": "ocr",
+        "context": "ID Hh HB AHO\n今站看夯十,厚3.5 米中有 20 ty ERE, SLAC H"
+      },
+      {
+        "text": "05米",
+        "page": 81,
+        "source": "ocr",
+        "context": "网中大构略相竺。分伟情形,均在石基内构进05米处，\n每而各6磋，四内磋公用，闪个 20"
+      },
+      {
+        "text": "深 158 米",
+        "page": 82,
+        "source": "ocr",
+        "context": "一个的检也来。\nCHI) 获宝自现地面下深 158 米处销地板，地板的驮屠，中\nAPSHA, "
+      },
+      {
+        "text": " 9 米",
+        "page": 82,
+        "source": "ocr",
+        "context": "EN) PEAR AE, HET ENA 9 米,直径\n\n8) 080.90 98, I"
+      },
+      {
+        "text": " 6.70 米",
+        "page": 82,
+        "source": "ocr",
+        "context": " 98, INFEITAR, WIESE 6.70 米, HEPA 4.8 Ay\n\nWOREA"
+      },
+      {
+        "text": " 3\nm",
+        "page": 86,
+        "source": "ocr",
+        "context": "ANIE BLATT ATI. AML, 3\nmeu, ASAT\n\nle 1:91 AU"
+      },
+      {
+        "text": " 9 m",
+        "page": 86,
+        "source": "ocr",
+        "context": "MA, ASN BET ELM\nF125 9 mh, SERED Urabe aR, A"
+      },
+      {
+        "text": " 11.3 厘米",
+        "page": 87,
+        "source": "ocr",
+        "context": "5 16.5, £4 17.7, MEA 11.3 厘米。\n\nMH 180M, D, MM, H"
+      },
+      {
+        "text": "\n\n4\n\nm",
+        "page": 90,
+        "source": "ocr",
+        "context": "* 二 本\n\n4\n\nmow   了\n\neR AB 1109-2"
+      },
+      {
+        "text": " 2 m",
+        "page": 90,
+        "source": "ocr",
+        "context": "BU\n\npens\nLavRRGGN 23 2 mmx\n本和人\nRIT A ST, Mes"
+      },
+      {
+        "text": " 2. m",
+        "page": 91,
+        "source": "ocr",
+        "context": "CL\n\nAR UNMRC:TOORTOR 2. mUyMELID seat\n\nUNCENS"
+      },
+      {
+        "text": " 120m",
+        "page": 92,
+        "source": "ocr",
+        "context": " —amerae. ream, |S 8 120m ine | age\nFABER, eM"
+      },
+      {
+        "text": "10580 m",
+        "page": 92,
+        "source": "ocr",
+        "context": "ioe\nns 79 8 oa [aa [10580 maeinenete\noe fa 8 [u"
+      },
+      {
+        "text": "1.168 m",
+        "page": 92,
+        "source": "ocr",
+        "context": " 87 |38 [045 1.58 1:1.168 meeneine matteo\n\nsa ("
+      },
+      {
+        "text": "00 m",
+        "page": 94,
+        "source": "ocr",
+        "context": " HI ty Mee EL He\n\n9-00 mIMER TARA\nLBRO URAL\n"
+      },
+      {
+        "text": " 14.7米",
+        "page": 95,
+        "source": "ocr",
+        "context": "1个 3:3。13 日\n在中北石子路北边 14.7米处, FOL ARIBRRITT 1 件"
+      },
+      {
+        "text": " 98.8 米",
+        "page": 95,
+        "source": "ocr",
+        "context": "10、\n1 FG eR, ACA TAS 98.8 米和 31 A,\nAOL'S I LAMA"
+      },
+      {
+        "text": " 20 米",
+        "page": 95,
+        "source": "ocr",
+        "context": "A A AE SOMO, FET AHS 20 米，距\nFOR ACM PINE 180 "
+      },
+      {
+        "text": "25米",
+        "page": 95,
+        "source": "ocr",
+        "context": "月19 HAE 13 月9 日止。攀自淋25米起, mE\nFah FEST 7.5 未"
+      },
+      {
+        "text": " 5.5米",
+        "page": 97,
+        "source": "ocr",
+        "context": "oe ARIRA TBA, 13\n日到漆 5.5米以下志士含沙增加,内有多量小件器物。13"
+      },
+      {
+        "text": " 65米",
+        "page": 97,
+        "source": "ocr",
+        "context": "小件器物。13 月\n3一9 Fy AOI 65米,发现北大顶和从上往下载， 寺内家十\nR"
+      },
+      {
+        "text": " 11 米",
+        "page": 97,
+        "source": "ocr",
+        "context": "AE.\n\n12 月18 SRHCRENY 11 米。19 A RE, MRM MIAH\n9"
+      },
+      {
+        "text": " 1948 米",
+        "page": 97,
+        "source": "ocr",
+        "context": "4,136,\n\n12 月 8 日, 起淋 1948 米,露出本木板 1 Sy ELI TES\n"
+      },
+      {
+        "text": "4 米",
+        "page": 97,
+        "source": "ocr",
+        "context": "G BEAACHS 15 模, 南北本的4 米, DE 10 LS\n宪一排南部构侠用机"
+      },
+      {
+        "text": " 923 米",
+        "page": 99,
+        "source": "ocr",
+        "context": "E 9.47 Ay EPR,\nTi, 厚 923 米。再下失生红土。南石和外刁基道士肝志士\n"
+      },
+      {
+        "text": "38 米",
+        "page": 99,
+        "source": "ocr",
+        "context": "EAA i PTR By\n间各构 26至38 米, IG A i AA FN\nPLATA"
+      },
+      {
+        "text": "1.7 米",
+        "page": 99,
+        "source": "ocr",
+        "context": "石子者道的四按攻各 39 fy I\n路寅1.7 米:本面路富 1.5 米;南面不请可。\n\n"
+      },
+      {
+        "text": " 1.5 米",
+        "page": 99,
+        "source": "ocr",
+        "context": "39 fy I\n路寅1.7 米:本面路富 1.5 米;南面不请可。\n\n画面石子路和第 1 T"
+      },
+      {
+        "text": "1.3 米",
+        "page": 100,
+        "source": "ocr",
+        "context": "TT SSH SENS HENS 1 一1.3 米， A A\nHELLY, ION CL "
+      },
+      {
+        "text": "2\n\nm",
+        "page": 100,
+        "source": "ocr",
+        "context": ", IRE SH AH, TE\n\n= a2\n\nme RAEN dy, RRR HE AE"
+      },
+      {
+        "text": "1 米",
+        "page": 100,
+        "source": "ocr",
+        "context": " 3\nBOREHAM THON B—O.1 米，此西华高出部分时6 Rt INE\n估丁"
+      },
+      {
+        "text": " 4.2 米",
+        "page": 100,
+        "source": "ocr",
+        "context": "         i\n\nBRM HANI 4.2 米,宝 20一30 WU, ME 33—2"
+      },
+      {
+        "text": " 861 米",
+        "page": 100,
+        "source": "ocr",
+        "context": " TSAR LIF SIRE, LEAR 861 米; ONES RITE\nAERC RRC"
+      },
+      {
+        "text": " 231 米",
+        "page": 102,
+        "source": "ocr",
+        "context": "南北其构 BO RAUCH 26 ,页的 231 米。\n\nHAS AAG 12 BR, oN"
+      },
+      {
+        "text": "\n\n6m",
+        "page": 104,
+        "source": "ocr",
+        "context": " TE ae SA EE, 293 HO\n\n6m\n\n2:02 MM. SHEL. RA "
+      },
+      {
+        "text": "5米",
+        "page": 106,
+        "source": "ocr",
+        "context": "J 8 ACRE U8 1 A\n号之订购5米左右。此莫在 1997 Se NH RC"
+      },
+      {
+        "text": " 3 cm",
+        "page": 106,
+        "source": "ocr",
+        "context": "50 年秋季, 我们交妈有许刘地进行对这 3 cm Oe HT.\n作。11 月8 日，机第"
+      },
+      {
+        "text": " 149 米",
+        "page": 106,
+        "source": "ocr",
+        "context": "63 A HR\n‘WALA 2 RUSE 149 米。\n\n© snnKER\n\nAACRMAL"
+      },
+      {
+        "text": " 18.5 米",
+        "page": 106,
+        "source": "ocr",
+        "context": "v 08 A, RABE RL NTMI 18.5 米。\n"
+      },
+      {
+        "text": " 1.8 米",
+        "page": 107,
+        "source": "ocr",
+        "context": "R.\n等。 HFA 28 Mb, NET 1.8 米的地方,在当时友和时\nEUAN 1B, "
+      },
+      {
+        "text": "28 米",
+        "page": 107,
+        "source": "ocr",
+        "context": "\n\nNAAR, ERAT, CG) 润淋28 米，向东风\n3, LAUT 0.8 A, "
+      },
+      {
+        "text": "2.8\n米",
+        "page": 107,
+        "source": "ocr",
+        "context": "间形,交往036一08 es HD 油漆2.8\n米, WAR, 上距辜石导 1 米, 四形"
+      },
+      {
+        "text": " 1 米",
+        "page": 107,
+        "source": "ocr",
+        "context": " 油漆2.8\n米, WAR, 上距辜石导 1 米, 四形,站得 025 Ay CBT 3"
+      },
+      {
+        "text": " 52.0 米",
+        "page": 107,
+        "source": "ocr",
+        "context": ", AEM OR HAR LA\n的。 8 52.0 米,共 39 PA, BREST LMI "
+      },
+      {
+        "text": " 01 米",
+        "page": 107,
+        "source": "ocr",
+        "context": " AEF, te\n青灰色的灰泥一导,厚鸭 01 米; AE Be TERED\nAEE, B"
+      },
+      {
+        "text": "0.9 米",
+        "page": 108,
+        "source": "ocr",
+        "context": "\nAAEM 06, (HADI OS--0.9 米不等。不过在南边除了这一\nRESO AR"
+      },
+      {
+        "text": " 3.5 米",
+        "page": 108,
+        "source": "ocr",
+        "context": "E 8 Ay ABEL,\n\nBO AHE 3.5 米, BZA IIE, WHEN 0.8,"
+      },
+      {
+        "text": "\n0.08 米",
+        "page": 110,
+        "source": "ocr",
+        "context": " ATHENS, MUA OME, CE\n0.08 米,相对的向上下合群, WARES ACL"
+      },
+      {
+        "text": " 0.6 米",
+        "page": 110,
+        "source": "ocr",
+        "context": "ES ACL.\n者合而全一,平行向南延介 0.6 米处有间桂穴 1 俩,即原来时\nOTA R"
+      },
+      {
+        "text": " 0.03 米",
+        "page": 110,
+        "source": "ocr",
+        "context": " RII SBD, 3 0.12, CA 0.03 米; 再向南延长\nLOD 米处,又有站桂穴"
+      },
+      {
+        "text": " 004 米",
+        "page": 110,
+        "source": "ocr",
+        "context": ", AIOE\nPARE, O16, AR 004 米; 再人用至 &.15 es, LAE\n"
+      },
+      {
+        "text": " 0.00 米",
+        "page": 110,
+        "source": "ocr",
+        "context": "AE\n外加笠突, He 0.10, 7% 0.00 米; 延长得 3.4 米时 AA TCT\n"
+      },
+      {
+        "text": " 3.4 米",
+        "page": 110,
+        "source": "ocr",
+        "context": "0.10, 7% 0.00 米; 延长得 3.4 米时 AA TCT\nly ~ASFEA 2"
+      },
+      {
+        "text": " 0.08 米",
+        "page": 110,
+        "source": "ocr",
+        "context": "SFEA 2.7 AR EE AF 1B 0.08 米课,另一起\n案头焉2.8 米处， LAL"
+      },
+      {
+        "text": "2.8 米",
+        "page": 110,
+        "source": "ocr",
+        "context": "F 1B 0.08 米课,另一起\n案头焉2.8 米处， LALA EH, MRA MORR"
+      },
+      {
+        "text": "5米",
+        "page": 115,
+        "source": "ocr",
+        "context": "e, 6 8-5 RENE 1 号蔓西莒5米，位县微全北, 南\n过这是第 6 55 "
+      },
+      {
+        "text": " 3米",
+        "page": 115,
+        "source": "ocr",
+        "context": "\nFRR. PRL AR, SEARED 3米及下由黄土， EIA\nfs 6.80 E"
+      },
+      {
+        "text": "9.21 米",
+        "page": 115,
+        "source": "ocr",
+        "context": "ARMAS Hy AE 28, 贡奖\n个9.21 米。仿入有 11 RCI, ORS A\nA"
+      },
+      {
+        "text": "045米",
+        "page": 115,
+        "source": "ocr",
+        "context": "RS A\nA, SABRC 1 要更陷下045米, HAF ENE AEE, BE\nAA"
+      },
+      {
+        "text": " 0 米",
+        "page": 115,
+        "source": "ocr",
+        "context": " I\nFERC 0.7, ALMA RE 0 米, 形基不基规则,而上优生二,知\nHie"
+      },
+      {
+        "text": " 0.35米",
+        "page": 115,
+        "source": "ocr",
+        "context": "HE O18, HDAC WLAR, A 0.35米,，\nSLAM BAIT, SUEUR "
+      },
+      {
+        "text": " 10.7 米",
+        "page": 115,
+        "source": "ocr",
+        "context": "BERANE MRE RES IE NE 10.7 米，上通直面,援土中\nATA ARM MA"
+      },
+      {
+        "text": "51 m",
+        "page": 116,
+        "source": "ocr",
+        "context": "3,0:5,\n28, 6:10 形制,与51 mA\n\nSash BLO RNIEFE, "
+      },
+      {
+        "text": "80 米",
+        "page": 117,
+        "source": "ocr",
+        "context": "HME 8,\nRE 020, PYM O80 米。 ARENAS, A ANAS HAE"
+      },
+      {
+        "text": " 0.8 米",
+        "page": 119,
+        "source": "ocr",
+        "context": "\nSLIP REE, S7RRAERE, 0.8 米的深度, IL 16 Ae AR\nHER"
+      },
+      {
+        "text": " 08 厘米",
+        "page": 129,
+        "source": "ocr",
+        "context": " MU, 1\nFite A.8, RAE 08 厘米。1:89 之 3(间版到式， 3)，与"
+      },
+      {
+        "text": " 0.4 厘米",
+        "page": 131,
+        "source": "ocr",
+        "context": "2\nRMN. FAREED IE .5x 0.4 厘米,一孔距东部移 5.5 OR, AL\nH"
+      },
+      {
+        "text": "\n7              m",
+        "page": 132,
+        "source": "ocr",
+        "context": "eE1 aI\nRet RMRIZ cau\n7              mene ane |W me Re |\n‘"
+      },
+      {
+        "text": "5 m",
+        "page": 132,
+        "source": "ocr",
+        "context": ", EAE 8.2 BOR\n\n区“用士共5 ms, HANI, ARR AAT. SE"
+      },
+      {
+        "text": " 05 米",
+        "page": 134,
+        "source": "ocr",
+        "context": " SMEAR IE 1.6, WHERE 05 米。 MA ER MICA ey\nPAWA"
+      },
+      {
+        "text": " 11.9 厘米",
+        "page": 134,
+        "source": "ocr",
+        "context": "E, AMEE. EBB, WE 10, 11.9 厘米 (加版下到,321加\n一四二,中。形式"
+      },
+      {
+        "text": " 2 m",
+        "page": 136,
+        "source": "ocr",
+        "context": "Mo WORE mR\nLammem 8 2 mL\n\nFa ee FO i a AI a"
+      },
+      {
+        "text": "\n9.6 米",
+        "page": 137,
+        "source": "ocr",
+        "context": " As, AAV I 南北其36， RP\n9.6 米, ENEAREs TERRES JR "
+      },
+      {
+        "text": "\n\n1m",
+        "page": 137,
+        "source": "ocr",
+        "context": "\nLt HIN Be DAREN IPA\n\n1m ARNIS, ARRAN ZAP, 有"
+      },
+      {
+        "text": "   07 m",
+        "page": 139,
+        "source": "ocr",
+        "context": "   18S   68   6   ws   07 mR\ntiar| s | es) as] "
+      },
+      {
+        "text": "   1   m",
+        "page": 139,
+        "source": "ocr",
+        "context": "41.585 |     ar | 16   1   m |下\n1 | ua) aa    大\n"
+      },
+      {
+        "text": "6     m",
+        "page": 139,
+        "source": "ocr",
+        "context": "a} sa | a3 | sa5| 1a6     mom) se | a\n1 jas | m"
+      },
+      {
+        "text": " 016 米",
+        "page": 144,
+        "source": "ocr",
+        "context": "部, 放在局一直雪上,中间的一站下北依的 016 米,距南创的\n0.12 来,做作中加的 3"
+      },
+      {
+        "text": " 18 米",
+        "page": 147,
+        "source": "ocr",
+        "context": " CRM US HACE 234，东西袜 18 米的大坑\nSWFA, 318 FRCL E"
+      },
+      {
+        "text": "60 米",
+        "page": 148,
+        "source": "ocr",
+        "context": "耐量起)\n其构90一100,帘构 50一60 米。\n\n中宇南北全其 16.75, 7 H"
+      },
+      {
+        "text": " 0. 米",
+        "page": 148,
+        "source": "ocr",
+        "context": "有照导一段,长1.6,厚034 MERE 0. 米。\nHAA 8.90, MEE LO, "
+      },
+      {
+        "text": "长1.5 米",
+        "page": 149,
+        "source": "ocr",
+        "context": "CIP ACIACHE 8.55, 门道长1.5 米(轩版变夫人,1 图一大\nOd. 2.3"
+      },
+      {
+        "text": "8米",
+        "page": 149,
+        "source": "ocr",
+        "context": "e SOME, OA, SERA\n提深违8米焦，通到石子峙过时把度已与一元先秦基课度"
+      },
+      {
+        "text": " 0.02 米",
+        "page": 149,
+        "source": "ocr",
+        "context": " 0.28 6 NS SHR, ANIL 0.02 米的\nAe, A 0.06 FOI He "
+      },
+      {
+        "text": " 10.8 米",
+        "page": 151,
+        "source": "ocr",
+        "context": "MLD Ne, AF Hi, REACH 10.8 米， AEF ETE\n“he WRRIRI"
+      },
+      {
+        "text": "1        m",
+        "page": 153,
+        "source": "ocr",
+        "context": "1        mm me MO\n\nLOR, 13 OR,"
+      },
+      {
+        "text": "90米",
+        "page": 154,
+        "source": "ocr",
+        "context": ".8, FUMIE A) KEI 80一90米, 5 AE\nRBS PTs Ac AR"
+      },
+      {
+        "text": " 805m",
+        "page": 157,
+        "source": "ocr",
+        "context": "teob mt t—e0rt,\n(05) 805m SOMMER, HD SON, 90 "
+      },
+      {
+        "text": "8.\n\nm",
+        "page": 250,
+        "source": "ocr",
+        "context": " LAROCHE AID AEB) 5-8.\n\nm1       11712601214 "
+      },
+      {
+        "text": "\n\n1 m",
+        "page": 253,
+        "source": "ocr",
+        "context": "HO\n\n1 me\n\n2. PREM A CD BCH "
+      }
+    ],
+    "石器": [
+      {
+        "text": "石刀",
+        "page": 15,
+        "source": "ocr",
+        "context": "到放失灰中 三楼介能3个 (1:78、\n石刀下片 (1:89) ZAMEBBIE 1"
+      },
+      {
+        "text": "石球",
+        "page": 40,
+        "source": "ocr",
+        "context": "NOR ARS 《图版拾际，26)。这种石球很可能是大\n“eh\n\nQR NC TH "
+      },
+      {
+        "text": "石片",
+        "page": 40,
+        "source": "ocr",
+        "context": "， MBCA\nRULER LUNIA. 石片的大小二不一到普通是长四 究\nBit, "
+      },
+      {
+        "text": "石片",
+        "page": 40,
+        "source": "ocr",
+        "context": "TH EAL LAS AE)\n\n(©) 石片G46:5.147:29) 40 和 1"
+      },
+      {
+        "text": "石刀",
+        "page": 134,
+        "source": "ocr",
+        "context": "8 cy WEIR TIME 1, 单孔石刀 1, ZARDARI Ay PAR\nJ"
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "陶片",
+        "page": 15,
+        "source": "ocr",
+        "context": " Et, se EE\nPUNO, 有少量陶片山士-在洪3.7米处有0.4米见方的\nF"
+      },
+      {
+        "text": "陶片",
+        "page": 34,
+        "source": "ocr",
+        "context": " EAA TA 06 BOR.\n\n人 国陶片”在县蔓中国士了一些加陶片是用混总灰罗\n"
+      },
+      {
+        "text": "陶片",
+        "page": 34,
+        "source": "ocr",
+        "context": "R.\n\n人 国陶片”在县蔓中国士了一些加陶片是用混总灰罗\nFREE, HOH RSI"
+      },
+      {
+        "text": "人骨",
+        "page": 134,
+        "source": "ocr",
+        "context": "e\n文化遗物\n出士的坦物有石器,陶器、上人骨、人、角等5 类。\n\noO 石器\n除基坟"
+      },
+      {
+        "text": "陶片",
+        "page": 163,
+        "source": "ocr",
+        "context": "\n11 BF ELMCID 15. 有孔陶片 353 10s 四是方形器 170C1"
+      }
+    ],
+    "发掘区": [
+      {
+        "text": "第一区",
+        "page": 16,
+        "source": "ocr",
+        "context": "物中上骨就是发现在米以上的符肝.\n\n一认第一区坑的发据方法和瑟钴时所用的一些符号和要可"
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "堆积",
+        "page": 16,
+        "source": "ocr",
+        "context": "A 127),\n\n由第一大坊的坑形和屠式堆积看素，它俱拉不是一个咸东\nBIOGEN,"
+      },
+      {
+        "text": "打破",
+        "page": 136,
+        "source": "ocr",
+        "context": "© MeN EA ASEM @ 被史基区打破。例如第13 225\n对号3 Me TE"
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T3R",
+        "page": 35,
+        "source": "ocr",
+        "context": "N. AT\neR CHEM EAL.\n\nT3RC149:2) AGRE ARLE CA"
+      },
+      {
+        "text": "T2",
+        "page": 40,
+        "source": "ocr",
+        "context": ".85 WO.\n\nOP ATERMLIOT2 《图版检陈,人 ESR TURERA—"
+      },
+      {
+        "text": "T0",
+        "page": 61,
+        "source": "ocr",
+        "context": "MRA, HREM. EAS 290—2T0. pris\nSBC PROG NG 1"
+      },
+      {
+        "text": "T4018",
+        "page": 76,
+        "source": "ocr",
+        "context": " 局形的\n花机两相向,在字的二个。直径 T4018, SABO RO\nCUE.\n\n20:3"
+      },
+      {
+        "text": "T1839",
+        "page": 77,
+        "source": "ocr",
+        "context": " WV BR EAS UAE) CEA T1839,\n142,145 与 16 号等5 B"
+      },
+      {
+        "text": "T2L",
+        "page": 90,
+        "source": "ocr",
+        "context": " ESET DA, ASHE\nSEM AT2L6 MRS\n\nMAR RH— LATLO"
+      },
+      {
+        "text": "T2",
+        "page": 91,
+        "source": "ocr",
+        "context": "me RM Re\n\nSMMAROT2, HMI LTE, MeOH A. R"
+      },
+      {
+        "text": "T118",
+        "page": 94,
+        "source": "ocr",
+        "context": "者。 EASON PATIO 8H), T118 1120, 119, F120 8D\n"
+      },
+      {
+        "text": "T8",
+        "page": 102,
+        "source": "ocr",
+        "context": "上前本角间相距76，平面上诡甩角\n加相距T8，上口寅1.& 器长9 MOA (因版队"
+      },
+      {
+        "text": "T1881",
+        "page": 106,
+        "source": "ocr",
+        "context": " 4,600 eR, FA 8,827 T1881 年1月\n18 TACT AAO ORI"
+      },
+      {
+        "text": "T8C",
+        "page": 130,
+        "source": "ocr",
+        "context": ", Mi 18 MOR\n\nTRAN A T8CHURGAR ER, 24D Me, F"
+      },
+      {
+        "text": "T2050",
+        "page": 139,
+        "source": "ocr",
+        "context": " el mam|m || x\n\nan) T2050) 155 | 41.585 |    "
+      },
+      {
+        "text": "T3740",
+        "page": 155,
+        "source": "ocr",
+        "context": ", MBE IL EN, WERTG\n(T3740) AIM 1 ERE en A ATR"
+      },
+      {
+        "text": "T87C",
+        "page": 238,
+        "source": "ocr",
+        "context": "\nene\n\nee a\n\n76,74, 1T87Che)\n\nA. MPA87CY,) LA"
+      },
+      {
+        "text": "T135",
+        "page": 249,
+        "source": "ocr",
+        "context": "人.方策 1:151(购5) TRAE T135-2.9.CH) YD 8 BENE T"
+      }
+    ],
+    "骨器": [
+      {
+        "text": "骨管",
+        "page": 63,
+        "source": "ocr",
+        "context": "\n12, GIEAEE GAT,\n\n过些骨管是赛在相首上 OOS\n\nPER\n\nASA"
+      }
+    ],
+    "漆器": [
+      {
+        "text": "漆器",
+        "page": 78,
+        "source": "ocr",
+        "context": "TES\n\n在幕中作仿陆划吕的，还有少量的漆器和木品。由认在区\n(Ait ERE PA"
+      }
+    ],
+    "玉器": [
+      {
+        "text": "玉环",
+        "page": 119,
+        "source": "ocr",
+        "context": "\n:41 9 A, 形朵而尺寸略小(峡版玉环;5.6 。\n\nWe CIS CUANE"
+      },
+      {
+        "text": "玉珠",
+        "page": 235,
+        "source": "ocr",
+        "context": ", dhe 6:18、6:8 10. 加玉珠 6:38 之可\nWAVE 6:9 14"
+      }
+    ],
+    "金器": [
+      {
+        "text": "金箔",
+        "page": 121,
+        "source": "ocr",
+        "context": ".\n\na\n\n58\n\n亦在南台,其他由全,金箔,多名,车忆季及较小厅器，多分信在\nML"
+      }
+    ],
+    "建筑结构": [
+      {
+        "text": "门道",
+        "page": 149,
+        "source": "ocr",
+        "context": "\nACIP ACIACHE 8.55, 门道长1.5 米(轩版变夫人,1 图一大\nO"
+      },
+      {
+        "text": "门道",
+        "page": 149,
+        "source": "ocr",
+        "context": "变夫人,1 图一大\nOd. 2.36, 门道帘 1.9 WRAL 08, WERE "
+      }
+    ]
+  }
+}

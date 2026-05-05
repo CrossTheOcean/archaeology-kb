@@ -1,0 +1,1068 @@
+{
+  "name": "山东王因",
+  "file": "山东王因.pdf",
+  "era": "新石器",
+  "culture": "大汶口文化",
+  "processed_pages": 15,
+  "total_entities": 169,
+  "entity_stats": {
+    "遗址名称": 11,
+    "年代": 19,
+    "遗迹类型": 2,
+    "遗迹编号": 96,
+    "陶器": 7,
+    "铜器": 8,
+    "探方编号": 16,
+    "石器": 1,
+    "建筑结构": 1,
+    "遗存类型": 1,
+    "骨器": 2,
+    "测量数据": 1,
+    "材质": 1,
+    "纹饰": 3
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "山东",
+        "page": 2,
+        "source": "ocr",
+        "context": "报告集\n\n考古 学专刊\n丁种第四十五号\n山东王因\n一-一新石器时代焉址发掘报告\n\n中"
+      },
+      {
+        "text": "王因",
+        "page": 2,
+        "source": "ocr",
+        "context": "集\n\n考古 学专刊\n丁种第四十五号\n山东王因\n一-一新石器时代焉址发掘报告\n\n中国社"
+      },
+      {
+        "text": "山东",
+        "page": 4,
+        "source": "ocr",
+        "context": " 简介\n\n本书为 197S一1978 年山东省充州市王因村新石器时代壹址发据报告-\n"
+      },
+      {
+        "text": "王因",
+        "page": 4,
+        "source": "ocr",
+        "context": "书为 197S一1978 年山东省充州市王因村新石器时代壹址发据报告-\n该遗址以北辛"
+      },
+      {
+        "text": "山东",
+        "page": 4,
+        "source": "ocr",
+        "context": "、灰坑以及 899 座大汶口文化基项，是山东也姨全国最大的史前旧地之\n一。 遗址中出"
+      },
+      {
+        "text": "山东",
+        "page": 4,
+        "source": "ocr",
+        "context": "x.\n\n图书在版编目【CIP) 数据\n\n山东王因: 新石器时代直址发据报告“中国社会"
+      },
+      {
+        "text": "王因",
+        "page": 4,
+        "source": "ocr",
+        "context": "\n\n图书在版编目【CIP) 数据\n\n山东王因: 新石器时代直址发据报告“中国社会科学"
+      },
+      {
+        "text": "山东",
+        "page": 4,
+        "source": "ocr",
+        "context": "中… WL. 新石器时代考十-文化遗址-山东-充州市-发据\n报告 IV .K871."
+      },
+      {
+        "text": "山东",
+        "page": 13,
+        "source": "ocr",
+        "context": "                    山东士 A\n图--:从四 M2155 平面图"
+      },
+      {
+        "text": "王因",
+        "page": 15,
+        "source": "ocr",
+        "context": "彩版一\nHER\n彩版三\n彩版四\n\n王因墓地出土的大汶口文化彩陶器\n毛因幕地出十"
+      },
+      {
+        "text": "王因",
+        "page": 15,
+        "source": "ocr",
+        "context": "彩陶器\n毛因幕地出十的大汶口文化彩陶器\n王因幕地出土的大汶口文化彩陶钵\n毛内幕地出土"
+      }
+    ],
+    "年代": [
+      {
+        "text": "新石器时代",
+        "page": 2,
+        "source": "ocr",
+        "context": "学专刊\n丁种第四十五号\n山东王因\n一-一新石器时代焉址发掘报告\n\n中国社会科学院考古研究所"
+      },
+      {
+        "text": "新石器时代",
+        "page": 4,
+        "source": "ocr",
+        "context": "197S一1978 年山东省充州市王因村新石器时代壹址发据报告-\n该遗址以北辛文化《晚期)"
+      },
+      {
+        "text": "大汶口",
+        "page": 4,
+        "source": "ocr",
+        "context": "主，有大量的房\n址、灰坑以及 899 座大汶口文化基项，是山东也姨全国最大的史前旧地之"
+      },
+      {
+        "text": "新石器时代",
+        "page": 4,
+        "source": "ocr",
+        "context": "在版编目【CIP) 数据\n\n山东王因: 新石器时代直址发据报告“中国社会科学院考古研究所编"
+      },
+      {
+        "text": "新石器时代",
+        "page": 4,
+        "source": "ocr",
+        "context": "53-X\n\nLite 了,中… WL. 新石器时代考十-文化遗址-山东-充州市-发据\n报告"
+      },
+      {
+        "text": "元",
+        "page": 4,
+        "source": "ocr",
+        "context": "676 000\n\n定价: 210.00 元\n\n(如有有印装质基问题,我社负责调换("
+      },
+      {
+        "text": "金",
+        "page": 5,
+        "source": "ocr",
+        "context": "此项研究得到国家社会科学基金资助\n本书出版得到中国社会科学院成果出版"
+      },
+      {
+        "text": "金",
+        "page": 5,
+        "source": "ocr",
+        "context": "助\n本书出版得到中国社会科学院成果出版基金资助\n"
+      },
+      {
+        "text": "大汶口",
+        "page": 9,
+        "source": "ocr",
+        "context": "-HEA or (71)\nRHO  中区大汶口文化房基坑位图 eee reer iee"
+      },
+      {
+        "text": "大汶口",
+        "page": 9,
+        "source": "ocr",
+        "context": "ereetanes (85)\nEVO  大汶口文化的石镑 Eee eee er eee"
+      },
+      {
+        "text": "大汶口",
+        "page": 9,
+        "source": "ocr",
+        "context": "eeeteereeed (89)\n图六二大汶口文化的石殉竹轿Ne (91)\nzy 7s"
+      },
+      {
+        "text": "大汶口",
+        "page": 9,
+        "source": "ocr",
+        "context": "竹轿Ne (91)\nzy 7s PY  大汶口文化的石锤 PE BE eS: eevo"
+      },
+      {
+        "text": "大汶口",
+        "page": 10,
+        "source": "ocr",
+        "context": " eee eee (103)\n图七二 ”大汶口文化的条质松土器:pe (104)\nEo"
+      },
+      {
+        "text": "大汶口",
+        "page": 10,
+        "source": "ocr",
+        "context": "Daa ie cr (108)\n图七六“大汶口文化的陶签形本有 (140)\nea te"
+      },
+      {
+        "text": "大汶口",
+        "page": 10,
+        "source": "ocr",
+        "context": "De ee: ee (125)\n图人六”大汶口文化的陶小碟、杯 HIE | SEFL "
+      },
+      {
+        "text": "大汶口",
+        "page": 15,
+        "source": "ocr",
+        "context": "HER\n彩版三\n彩版四\n\n王因墓地出土的大汶口文化彩陶器\n毛因幕地出十的大汶口文化彩陶"
+      },
+      {
+        "text": "大汶口",
+        "page": 15,
+        "source": "ocr",
+        "context": "地出土的大汶口文化彩陶器\n毛因幕地出十的大汶口文化彩陶器\n王因幕地出土的大汶口文化彩陶"
+      },
+      {
+        "text": "大汶口",
+        "page": 15,
+        "source": "ocr",
+        "context": "地出十的大汶口文化彩陶器\n王因幕地出土的大汶口文化彩陶钵\n毛内幕地出土的大汶口文化红陶"
+      },
+      {
+        "text": "大汶口",
+        "page": 15,
+        "source": "ocr",
+        "context": "地出土的大汶口文化彩陶钵\n毛内幕地出土的大汶口文化红陶器\n"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "灰坑",
+        "page": 4,
+        "source": "ocr",
+        "context": "文化〈早期) 遗存为主，有大量的房\n址、灰坑以及 899 座大汶口文化基项，是山东也"
+      },
+      {
+        "text": "灰坑",
+        "page": 8,
+        "source": "ocr",
+        "context": "tte t ernest (19)\n西区灰坑分布平面网 REEE ES (20)\nC"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "K871",
+        "page": 4,
+        "source": "ocr",
+        "context": "遗址-山东-充州市-发据\n报告 IV .K871.13\n\n中国版本图书馆 CIP 数据核"
+      },
+      {
+        "text": "T266",
+        "page": 8,
+        "source": "ocr",
+        "context": "层剖面图et (7)\n北区 44407…T266 、T260 东壁地层前面图 nec c"
+      },
+      {
+        "text": "T260",
+        "page": 8,
+        "source": "ocr",
+        "context": " (7)\n北区 44407…T266 、T260 东壁地层前面图 nec cteee c"
+      },
+      {
+        "text": "T4009",
+        "page": 8,
+        "source": "ocr",
+        "context": "ersene ne ee (7)\nHK T4009 ~ T4012 , T4020 南辟地"
+      },
+      {
+        "text": "T4012",
+        "page": 8,
+        "source": "ocr",
+        "context": "e ee (7)\nHK T4009 ~ T4012 , T4020 南辟地层前面图 wee"
+      },
+      {
+        "text": "T4020",
+        "page": 8,
+        "source": "ocr",
+        "context": "\nHK T4009 ~ T4012 , T4020 南辟地层前面图 weer eee ee"
+      },
+      {
+        "text": "P4017",
+        "page": 8,
+        "source": "ocr",
+        "context": "eee tenes (43)\nPAIK P4017 6G) BREE He 4) FE T"
+      },
+      {
+        "text": "T263",
+        "page": 9,
+        "source": "ocr",
+        "context": "269 柱润分布国本 (77)\n属五五 T263 .T267 柱洞半 Jali et  "
+      },
+      {
+        "text": "T267",
+        "page": 9,
+        "source": "ocr",
+        "context": "分布国本 (77)\n属五五 T263 .T267 柱洞半 Jali et   eee e"
+      },
+      {
+        "text": "T243",
+        "page": 9,
+        "source": "ocr",
+        "context": "rrr es  (78)\nPTC AN T243.T223 REY} A RAEI D>"
+      },
+      {
+        "text": "T223",
+        "page": 9,
+        "source": "ocr",
+        "context": "s  (78)\nPTC AN T243.T223 REY} A RAEI D> PAPE"
+      },
+      {
+        "text": "S41",
+        "page": 10,
+        "source": "ocr",
+        "context": "es (144)\ndp] a wa: “S41 0)) 2a 0 OSES (144)"
+      },
+      {
+        "text": "M2171",
+        "page": 10,
+        "source": "ocr",
+        "context": "ere (150)\nFE --C FR M2171 FE BFR PB cece eect"
+      },
+      {
+        "text": "M2553",
+        "page": 11,
+        "source": "ocr",
+        "context": "\nBARBERA EA\nil.\n>}\n\nM2553 ‘Hid\nM2583 平面图\nM210"
+      },
+      {
+        "text": "M2583",
+        "page": 11,
+        "source": "ocr",
+        "context": "\nil.\n>}\n\nM2553 ‘Hid\nM2583 平面图\nM2102 平面图\nM2621"
+      },
+      {
+        "text": "M2102",
+        "page": 11,
+        "source": "ocr",
+        "context": "2553 ‘Hid\nM2583 平面图\nM2102 平面图\nM2621 平面国\nM2635"
+      },
+      {
+        "text": "M2621",
+        "page": 11,
+        "source": "ocr",
+        "context": "M2583 平面图\nM2102 平面图\nM2621 平面国\nM2635 壮面图\nM2568"
+      },
+      {
+        "text": "M2635",
+        "page": 11,
+        "source": "ocr",
+        "context": "M2102 平面图\nM2621 平面国\nM2635 壮面图\nM2568 平面负\nM404 "
+      },
+      {
+        "text": "M2568",
+        "page": 11,
+        "source": "ocr",
+        "context": "M2621 平面国\nM2635 壮面图\nM2568 平面负\nM404 平血网\nM2616 "
+      },
+      {
+        "text": "M404",
+        "page": 11,
+        "source": "ocr",
+        "context": "M2635 壮面图\nM2568 平面负\nM404 平血网\nM2616 *F 1\nM254"
+      },
+      {
+        "text": "M2616",
+        "page": 11,
+        "source": "ocr",
+        "context": "\nM2568 平面负\nM404 平血网\nM2616 *F 1\nM2549 下面多\nM221"
+      },
+      {
+        "text": "M2549",
+        "page": 11,
+        "source": "ocr",
+        "context": "M404 平血网\nM2616 *F 1\nM2549 下面多\nM2214 半面氏\n\nM220"
+      },
+      {
+        "text": "M2214",
+        "page": 11,
+        "source": "ocr",
+        "context": "2616 *F 1\nM2549 下面多\nM2214 半面氏\n\nM2200 “FIFE\nM2"
+      },
+      {
+        "text": "M2200",
+        "page": 11,
+        "source": "ocr",
+        "context": "2549 下面多\nM2214 半面氏\n\nM2200 “FIFE\nM2289 半面图\nM24"
+      },
+      {
+        "text": "M2289",
+        "page": 11,
+        "source": "ocr",
+        "context": "14 半面氏\n\nM2200 “FIFE\nM2289 半面图\nM2464 *F [ai FA"
+      },
+      {
+        "text": "M2464",
+        "page": 11,
+        "source": "ocr",
+        "context": "200 “FIFE\nM2289 半面图\nM2464 *F [ai FA\n\nM2137 \"H"
+      },
+      {
+        "text": "M2137",
+        "page": 11,
+        "source": "ocr",
+        "context": "面图\nM2464 *F [ai FA\n\nM2137 \"Hild\nM2176 Fal\nM22"
+      },
+      {
+        "text": "M2176",
+        "page": 11,
+        "source": "ocr",
+        "context": "[ai FA\n\nM2137 \"Hild\nM2176 Fal\nM2288 7F i\nM231"
+      },
+      {
+        "text": "M2288",
+        "page": 11,
+        "source": "ocr",
+        "context": "137 \"Hild\nM2176 Fal\nM2288 7F i\nM2318 *¥ ea\nM2"
+      },
+      {
+        "text": "M2318",
+        "page": 11,
+        "source": "ocr",
+        "context": "2176 Fal\nM2288 7F i\nM2318 *¥ ea\nM2458 平面网\nM26"
+      },
+      {
+        "text": "M2458",
+        "page": 11,
+        "source": "ocr",
+        "context": "88 7F i\nM2318 *¥ ea\nM2458 平面网\nM2655 半面网\nM2138"
+      },
+      {
+        "text": "M2655",
+        "page": 11,
+        "source": "ocr",
+        "context": "318 *¥ ea\nM2458 平面网\nM2655 半面网\nM2138 平面向\nM2485"
+      },
+      {
+        "text": "M2138",
+        "page": 11,
+        "source": "ocr",
+        "context": "M2458 平面网\nM2655 半面网\nM2138 平面向\nM2485 3 TA\nM219"
+      },
+      {
+        "text": "M2485",
+        "page": 11,
+        "source": "ocr",
+        "context": "M2655 半面网\nM2138 平面向\nM2485 3 TA\nM2196 T-id\nM26"
+      },
+      {
+        "text": "M2196",
+        "page": 11,
+        "source": "ocr",
+        "context": "2138 平面向\nM2485 3 TA\nM2196 T-id\nM2657 YH\nM2108"
+      },
+      {
+        "text": "M2657",
+        "page": 11,
+        "source": "ocr",
+        "context": "485 3 TA\nM2196 T-id\nM2657 YH\nM2108 平血同\n\nM2659"
+      },
+      {
+        "text": "M2108",
+        "page": 11,
+        "source": "ocr",
+        "context": "M2196 T-id\nM2657 YH\nM2108 平血同\n\nM2659 ‘Via 4\nM"
+      },
+      {
+        "text": "M2659",
+        "page": 11,
+        "source": "ocr",
+        "context": "M2657 YH\nM2108 平血同\n\nM2659 ‘Via 4\nM180 9 mi\nM2"
+      },
+      {
+        "text": "M180",
+        "page": 11,
+        "source": "ocr",
+        "context": "8 平血同\n\nM2659 ‘Via 4\nM180 9 mi\nM282 *F i El\nM"
+      },
+      {
+        "text": "M282",
+        "page": 11,
+        "source": "ocr",
+        "context": "59 ‘Via 4\nM180 9 mi\nM282 *F i El\nM2476 Yi\nM2"
+      },
+      {
+        "text": "M2476",
+        "page": 11,
+        "source": "ocr",
+        "context": "0 9 mi\nM282 *F i El\nM2476 Yi\nM2252 平面图\n\nM2517"
+      },
+      {
+        "text": "M2252",
+        "page": 11,
+        "source": "ocr",
+        "context": "82 *F i El\nM2476 Yi\nM2252 平面图\n\nM2517 hi\nM2130"
+      },
+      {
+        "text": "M2517",
+        "page": 11,
+        "source": "ocr",
+        "context": "M2476 Yi\nM2252 平面图\n\nM2517 hi\nM2130 Yi\nM2230 平"
+      },
+      {
+        "text": "M2130",
+        "page": 11,
+        "source": "ocr",
+        "context": "M2252 平面图\n\nM2517 hi\nM2130 Yi\nM2230 平面图\nM2523 "
+      },
+      {
+        "text": "M2230",
+        "page": 11,
+        "source": "ocr",
+        "context": "\n\nM2517 hi\nM2130 Yi\nM2230 平面图\nM2523 平面图\n\nHAs "
+      },
+      {
+        "text": "M2523",
+        "page": 11,
+        "source": "ocr",
+        "context": "\nM2130 Yi\nM2230 平面图\nM2523 平面图\n\nHAs ZEN\n\n及随项器物"
+      },
+      {
+        "text": "M2394",
+        "page": 11,
+        "source": "ocr",
+        "context": "e Tere.\n\n及随薄器物 eee\n\nM2394 *4 ii S| & BSE ED  "
+      },
+      {
+        "text": "M251",
+        "page": 11,
+        "source": "ocr",
+        "context": "ee teeieeeeneteees\n\nM251 平面图及随基器物 cece ceeee"
+      },
+      {
+        "text": "M2516",
+        "page": 12,
+        "source": "ocr",
+        "context": "O\nA. -六一\n图一六二\n狗一六二\n\nM2516 平面图\nM2240 平面图 ceeee"
+      },
+      {
+        "text": "M2240",
+        "page": 12,
+        "source": "ocr",
+        "context": "一六二\n狗一六二\n\nM2516 平面图\nM2240 平面图 ceeeee ree eee\n"
+      },
+      {
+        "text": "M2129",
+        "page": 12,
+        "source": "ocr",
+        "context": " 平面图 ceeeee ree eee\nM2129 平面图必随莽器物\n\n- (172)\n\n"
+      },
+      {
+        "text": "M2460",
+        "page": 12,
+        "source": "ocr",
+        "context": " 平面图必随莽器物\n\n- (172)\n\nM2460  Y Hs   Pte eee eee"
+      },
+      {
+        "text": "M2478",
+        "page": 12,
+        "source": "ocr",
+        "context": " eee errr rere ery\n\nM2478 平面网政随葬器物\nMI171 平面图及"
+      },
+      {
+        "text": "M178",
+        "page": 12,
+        "source": "ocr",
+        "context": "rer seer reese ees\n\nM178 *F ES Ae Base BE\n\nM"
+      },
+      {
+        "text": "M188",
+        "page": 12,
+        "source": "ocr",
+        "context": "8 *F ES Ae Base BE\n\nM188 平面图及随三器物 ree ee ere"
+      },
+      {
+        "text": "M189",
+        "page": 12,
+        "source": "ocr",
+        "context": "r errr reer re rere\nM189 FTAA Ae SE AE en ee"
+      },
+      {
+        "text": "M2201",
+        "page": 12,
+        "source": "ocr",
+        "context": "AE en ee ee ee cee\n\nM2201 7F ri FS 3 bE AED\nM"
+      },
+      {
+        "text": "M2384",
+        "page": 12,
+        "source": "ocr",
+        "context": "1 7F ri FS 3 bE AED\nM2384 ‘Ta Pl Re GES FE\nM2"
+      },
+      {
+        "text": "M2416",
+        "page": 12,
+        "source": "ocr",
+        "context": "84 ‘Ta Pl Re GES FE\nM2416 “FTI 2 BASE BS 9\nM2"
+      },
+      {
+        "text": "M2371",
+        "page": 12,
+        "source": "ocr",
+        "context": "16 “FTI 2 BASE BS 9\nM2371 ‘Yas! Re BES BSD\nM2"
+      },
+      {
+        "text": "M2493",
+        "page": 12,
+        "source": "ocr",
+        "context": "71 ‘Yas! Re BES BSD\nM2493 平面图及随幕器物\n\nM2143 M21"
+      },
+      {
+        "text": "M2143",
+        "page": 12,
+        "source": "ocr",
+        "context": "BSD\nM2493 平面图及随幕器物\n\nM2143 M2144. 平面图及随项器物 wee"
+      },
+      {
+        "text": "M2144",
+        "page": 12,
+        "source": "ocr",
+        "context": "493 平面图及随幕器物\n\nM2143 M2144. 平面图及随项器物 weec ee c"
+      },
+      {
+        "text": "M2151",
+        "page": 12,
+        "source": "ocr",
+        "context": "e eeeettenee erent\n\nM2151 7F i Be aD\nM2132 *F"
+      },
+      {
+        "text": "M2132",
+        "page": 12,
+        "source": "ocr",
+        "context": "t\n\nM2151 7F i Be aD\nM2132 *F hi AR aE ah\nM240"
+      },
+      {
+        "text": "M2406",
+        "page": 12,
+        "source": "ocr",
+        "context": "2132 *F hi AR aE ah\nM2406 *F iS ba AED\nM232 Y"
+      },
+      {
+        "text": "M232",
+        "page": 12,
+        "source": "ocr",
+        "context": "\nM2406 *F iS ba AED\nM232 Yl 2 HSE AR\nM2284 半"
+      },
+      {
+        "text": "M2284",
+        "page": 12,
+        "source": "ocr",
+        "context": "ED\nM232 Yl 2 HSE AR\nM2284 半面周及随葬器物\nM2363 7F i"
+      },
+      {
+        "text": "M2363",
+        "page": 12,
+        "source": "ocr",
+        "context": "E AR\nM2284 半面周及随葬器物\nM2363 7F iS Re GH SE 849\n"
+      },
+      {
+        "text": "M2534",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n(186)\n(187)\n(187)\n\nM2534 平面图及随基器物 wcrc e cer"
+      },
+      {
+        "text": "M2114",
+        "page": 12,
+        "source": "ocr",
+        "context": "ne erreneeees (189)\nM2114 SE TAI BASE BEI eee"
+      },
+      {
+        "text": "M2442",
+        "page": 12,
+        "source": "ocr",
+        "context": "teen teen eee (190)\nM2442 平面网及随藉器物 wcrc cece "
+      },
+      {
+        "text": "M254",
+        "page": 12,
+        "source": "ocr",
+        "context": "teeter ee eee (190)\nM254 VTR[E] vrecereceeec"
+      },
+      {
+        "text": "M2304",
+        "page": 12,
+        "source": "ocr",
+        "context": "een eseeeenes (199)\nM2304 °F Tat EL RR BFE BE"
+      },
+      {
+        "text": "M2302",
+        "page": 12,
+        "source": "ocr",
+        "context": " tere eee nee (192)\nM2302 ‘Y- TH ES Be BEBE B"
+      },
+      {
+        "text": "M2376",
+        "page": 12,
+        "source": "ocr",
+        "context": "Be BEBE BR pp (193)\nM2376 °F fal PE Be BE SE "
+      },
+      {
+        "text": "M2403",
+        "page": 12,
+        "source": "ocr",
+        "context": "E SE BRD) ppp (194)\nM2403 32 THR] Fe BAPE RSI"
+      },
+      {
+        "text": "M179",
+        "page": 12,
+        "source": "ocr",
+        "context": " BAPE RSI) pp (19S)\nM179 7 THIS BASE BEY cre"
+      },
+      {
+        "text": "M2514",
+        "page": 12,
+        "source": "ocr",
+        "context": "eeesaeaa noes (196)\nM2514 平面图 ceecec tt erer "
+      },
+      {
+        "text": "M2514",
+        "page": 12,
+        "source": "ocr",
+        "context": "ares ec eeeee (198)\nM2514 DARE BSI cect errr "
+      },
+      {
+        "text": "M2155",
+        "page": 13,
+        "source": "ocr",
+        "context": "       山东士 A\n图--:从四 M2155 平面图收随项器物 PN (200)\ne"
+      },
+      {
+        "text": "M359",
+        "page": 13,
+        "source": "ocr",
+        "context": " PN (200)\neS EA eee M359 平面网 eee CSO ECCECOO"
+      },
+      {
+        "text": "M2362",
+        "page": 13,
+        "source": "ocr",
+        "context": "OOSooES (201)\nwe. ~ M2362 平面到  ooeesevoseevoe"
+      },
+      {
+        "text": "M266",
+        "page": 13,
+        "source": "ocr",
+        "context": "eeceooee (201)\nAYA  M266 Sa TBES| POPTTEPTT "
+      },
+      {
+        "text": "M2461",
+        "page": 13,
+        "source": "ocr",
+        "context": "eerie (202)\n图- -ACY M2461 平面图 MBAR  ee (203)\n"
+      },
+      {
+        "text": "M243",
+        "page": 13,
+        "source": "ocr",
+        "context": "MBAR  ee (203)\n图一人二”M243 DEAE) IBOECH) BORE "
+      },
+      {
+        "text": "M2558",
+        "page": 13,
+        "source": "ocr",
+        "context": "e ences (204)\n了加- J M2558 FHS Roe BD  ee ee e"
+      },
+      {
+        "text": "M2489",
+        "page": 13,
+        "source": "ocr",
+        "context": " ters (205)\nFA — AA M2489 平面图及随幕器物 (205)\n图--八"
+      },
+      {
+        "text": "M304",
+        "page": 13,
+        "source": "ocr",
+        "context": "图及随幕器物 (205)\n图--八八  M304 平面图 errr er rere er"
+      },
+      {
+        "text": "M2389",
+        "page": 13,
+        "source": "ocr",
+        "context": "cs es (206)\nVA— FLO M2389 平面图及随厘器物 coon c etr"
+      },
+      {
+        "text": "M2251",
+        "page": 13,
+        "source": "ocr",
+        "context": "eeren rcs (207)\now  M2251 EAA RMA ere eee eer"
+      },
+      {
+        "text": "M2423",
+        "page": 13,
+        "source": "ocr",
+        "context": "eres (208)\nIf—tL— »=M2423 Wit FA Se AE ED eer"
+      },
+      {
+        "text": "M2594",
+        "page": 13,
+        "source": "ocr",
+        "context": " rer (208)\n图 - JU = M2594 ‘FGI AL BR BR BST r"
+      },
+      {
+        "text": "M2298",
+        "page": 13,
+        "source": "ocr",
+        "context": "tens (209)\nfel—FLPG M2298 TA Be SERS  本 (210)"
+      },
+      {
+        "text": "M2436",
+        "page": 13,
+        "source": "ocr",
+        "context": "ERS  本 (210)\n图 -ILR M2436 平面图  ee errr rr err"
+      },
+      {
+        "text": "M2239",
+        "page": 13,
+        "source": "ocr",
+        "context": "re (21 1)\nII— FLAS «M2239 平面图 ee (211)\n图 —Jue"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "环",
+        "page": 4,
+        "source": "ocr",
+        "context": "前生活习俗、埋葬方式、人类体质特征和史前环境提供了重\n要资料。\n\n本书可供考古、历"
+      },
+      {
+        "text": "杯",
+        "page": 10,
+        "source": "ocr",
+        "context": "(125)\n图人六”大汶口文化的陶小碟、杯 HIE | SEFL BR cece "
+      },
+      {
+        "text": "壶",
+        "page": 10,
+        "source": "ocr",
+        "context": "27)\nAACE  KIO 文化的陶双耳壶、陶壶口沿.尊形器等rr (128)\nO"
+      },
+      {
+        "text": "陶壶",
+        "page": 10,
+        "source": "ocr",
+        "context": ")\nAACE  KIO 文化的陶双耳壶、陶壶口沿.尊形器等rr (128)\nOe e"
+      },
+      {
+        "text": "尊",
+        "page": 10,
+        "source": "ocr",
+        "context": "E  KIO 文化的陶双耳壶、陶壶口沿.尊形器等rr (128)\nOe ey am"
+      },
+      {
+        "text": "杯",
+        "page": 14,
+        "source": "ocr",
+        "context": "ee (268)\n图二二七“蔓昔出土的稀杯py (269)\nPL ERE AY E"
+      },
+      {
+        "text": "陶钵",
+        "page": 15,
+        "source": "ocr",
+        "context": "口文化彩陶器\n王因幕地出土的大汶口文化彩陶钵\n毛内幕地出土的大汶口文化红陶器\n"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "环",
+        "page": 4,
+        "source": "ocr",
+        "context": "前生活习俗、埋葬方式、人类体质特征和史前环境提供了重\n要资料。\n\n本书可供考古、历"
+      },
+      {
+        "text": "饰",
+        "page": 9,
+        "source": "ocr",
+        "context": "ce (61)\n苔四五”北部文化的陶片纹饰拓片 eect ene teeter a"
+      },
+      {
+        "text": "杯",
+        "page": 10,
+        "source": "ocr",
+        "context": "(125)\n图人六”大汶口文化的陶小碟、杯 HIE | SEFL BR cece "
+      },
+      {
+        "text": "壶",
+        "page": 10,
+        "source": "ocr",
+        "context": "27)\nAACE  KIO 文化的陶双耳壶、陶壶口沿.尊形器等rr (128)\nO"
+      },
+      {
+        "text": "壶",
+        "page": 10,
+        "source": "ocr",
+        "context": "\nAACE  KIO 文化的陶双耳壶、陶壶口沿.尊形器等rr (128)\nOe e"
+      },
+      {
+        "text": "尊",
+        "page": 10,
+        "source": "ocr",
+        "context": "E  KIO 文化的陶双耳壶、陶壶口沿.尊形器等rr (128)\nOe ey am"
+      },
+      {
+        "text": "杯",
+        "page": 14,
+        "source": "ocr",
+        "context": "ee (268)\n图二二七“蔓昔出土的稀杯py (269)\nPL ERE AY E"
+      },
+      {
+        "text": "钵",
+        "page": 15,
+        "source": "ocr",
+        "context": "文化彩陶器\n王因幕地出土的大汶口文化彩陶钵\n毛内幕地出土的大汶口文化红陶器\n"
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T7",
+        "page": 7,
+        "source": "ocr",
+        "context": "\n附录六 ULAR FEN FE IE T7sywT 4016 PRI ALBERS"
+      },
+      {
+        "text": "T235",
+        "page": 8,
+        "source": "ocr",
+        "context": "neeees (6)\n中区 44230一T235 北辟她层剖面图et (7)\n北区 44"
+      },
+      {
+        "text": "T266",
+        "page": 8,
+        "source": "ocr",
+        "context": "层剖面图et (7)\n北区 44407…T266 、T260 东壁地层前面图 nec c"
+      },
+      {
+        "text": "T260",
+        "page": 8,
+        "source": "ocr",
+        "context": " (7)\n北区 44407…T266 、T260 东壁地层前面图 nec cteee c"
+      },
+      {
+        "text": "T4009",
+        "page": 8,
+        "source": "ocr",
+        "context": "ersene ne ee (7)\nHK T4009 ~ T4012 , T4020 南辟地"
+      },
+      {
+        "text": "T4012",
+        "page": 8,
+        "source": "ocr",
+        "context": "e ee (7)\nHK T4009 ~ T4012 , T4020 南辟地层前面图 wee"
+      },
+      {
+        "text": "T4020",
+        "page": 8,
+        "source": "ocr",
+        "context": "\nHK T4009 ~ T4012 , T4020 南辟地层前面图 weer eee ee"
+      },
+      {
+        "text": "T270Q",
+        "page": 8,
+        "source": "ocr",
+        "context": "( AR BE) pp (10)\n中区 T270Q@ FANE PRB AL HAE HR"
+      },
+      {
+        "text": "T4015H",
+        "page": 8,
+        "source": "ocr",
+        "context": "平面图 ECEOEEEOSS (18)\nT4015H4012 Y # ts or (19)\n"
+      },
+      {
+        "text": "T250F",
+        "page": 9,
+        "source": "ocr",
+        "context": ")\nRoom KIN 文化第一号房基{!T250F2)半.前 曾图pp (74)\nPst "
+      },
+      {
+        "text": "T262F",
+        "page": 9,
+        "source": "ocr",
+        "context": "st = ARR IT SCHERER T262F3) Fe BUTT ee eeesee"
+      },
+      {
+        "text": "T263",
+        "page": 9,
+        "source": "ocr",
+        "context": "269 柱润分布国本 (77)\n属五五 T263 .T267 柱洞半 Jali et  "
+      },
+      {
+        "text": "T267",
+        "page": 9,
+        "source": "ocr",
+        "context": "分布国本 (77)\n属五五 T263 .T267 柱洞半 Jali et   eee e"
+      },
+      {
+        "text": "T243",
+        "page": 9,
+        "source": "ocr",
+        "context": "rrr es  (78)\nPTC AN T243.T223 REY} A RAEI D>"
+      },
+      {
+        "text": "T223",
+        "page": 9,
+        "source": "ocr",
+        "context": "s  (78)\nPTC AN T243.T223 REY} A RAEI D> PAPE"
+      },
+      {
+        "text": "T0",
+        "page": 13,
+        "source": "ocr",
+        "context": "245)\nef\" --PY SESE ST0 (246)\n网二一五  SEH Aoo"
+      }
+    ],
+    "石器": [
+      {
+        "text": "石锤",
+        "page": 9,
+        "source": "ocr",
+        "context": "91)\nzy 7s PY  大汶口文化的石锤 PE BE eS: eevoecvoe"
+      }
+    ],
+    "建筑结构": [
+      {
+        "text": "柱洞",
+        "page": 9,
+        "source": "ocr",
+        "context": "(77)\n属五五 T263 .T267 柱洞半 Jali et   eee eee "
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "陶片",
+        "page": 9,
+        "source": "ocr",
+        "context": "2 ece (61)\n苔四五”北部文化的陶片纹饰拓片 eect ene teeter"
+      }
+    ],
+    "骨器": [
+      {
+        "text": "骨锥",
+        "page": 10,
+        "source": "ocr",
+        "context": " eS (99)\nAEO  AR 文化的骨锥 = Oe, eRe eer C101)"
+      },
+      {
+        "text": "骨针",
+        "page": 14,
+        "source": "ocr",
+        "context": "ees (271)\n(2 | 莫芋出土的骨针.pp (273)\n\n=O BER TA"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": " 9 m",
+        "page": 11,
+        "source": "ocr",
+        "context": "同\n\nM2659 ‘Via 4\nM180 9 mi\nM282 *F i El\nM2476"
+      }
+    ],
+    "材质": [
+      {
+        "text": "红陶",
+        "page": 15,
+        "source": "ocr",
+        "context": "汶口文化彩陶钵\n毛内幕地出土的大汶口文化红陶器\n"
+      }
+    ],
+    "纹饰": [
+      {
+        "text": "彩陶",
+        "page": 15,
+        "source": "ocr",
+        "context": "版三\n彩版四\n\n王因墓地出土的大汶口文化彩陶器\n毛因幕地出十的大汶口文化彩陶器\n王因"
+      },
+      {
+        "text": "彩陶",
+        "page": 15,
+        "source": "ocr",
+        "context": "汶口文化彩陶器\n毛因幕地出十的大汶口文化彩陶器\n王因幕地出土的大汶口文化彩陶钵\n毛内"
+      },
+      {
+        "text": "彩陶",
+        "page": 15,
+        "source": "ocr",
+        "context": "汶口文化彩陶器\n王因幕地出土的大汶口文化彩陶钵\n毛内幕地出土的大汶口文化红陶器\n"
+      }
+    ]
+  }
+}

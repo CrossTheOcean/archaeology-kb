@@ -1,0 +1,4397 @@
+{
+  "name": "唐长安城郊隋唐墓",
+  "file": "唐长安城郊隋唐墓.pdf",
+  "processed_pages": 195,
+  "total_pages": 216,
+  "total_entities": 723,
+  "entity_stats": {
+    "年代": 147,
+    "遗迹编号": 35,
+    "铜器": 198,
+    "遗址名称": 15,
+    "测量数据": 174,
+    "陶器": 90,
+    "遗存类型": 14,
+    "葬具": 11,
+    "金器": 5,
+    "探方编号": 2,
+    "纹饰": 4,
+    "材质": 21,
+    "玉器": 4,
+    "银器": 1,
+    "铁器": 1,
+    "建筑结构": 1
+  },
+  "entities": {
+    "年代": [
+      {
+        "text": "隋",
+        "page": 4,
+        "source": "ocr",
+        "context": "中国科学院考证研究所在西安城郊发闻了六座隋、店墓苦，这六库龟碍\n的随匡器物丰富多彩"
+      },
+      {
+        "text": "唐",
+        "page": 4,
+        "source": "ocr",
+        "context": "六库龟碍\n的随匡器物丰富多彩，为研究聊、唐时期的工艺发展,生产水平,社会生活和忘具"
+      },
+      {
+        "text": "隋",
+        "page": 4,
+        "source": "ocr",
+        "context": "和忘具形态等方面\n提供了实物资料，对研究隋店考古和随唐态史都具有一定的参考意义。\n"
+      },
+      {
+        "text": "唐",
+        "page": 4,
+        "source": "ocr",
+        "context": "方面\n提供了实物资料，对研究隋店考古和随唐态史都具有一定的参考意义。\n\n文物出版社"
+      },
+      {
+        "text": "元",
+        "page": 4,
+        "source": "ocr",
+        "context": "\n一蔬号: 11068。778定价，15元\n"
+      },
+      {
+        "text": "隋",
+        "page": 5,
+        "source": "ocr",
+        "context": "起“隋代李静训在 were\n\n(=) AR\nT"
+      },
+      {
+        "text": "明",
+        "page": 5,
+        "source": "ocr",
+        "context": "p esse cone\n(一)陶傅和用具明器关…\n\nCe) ae\nOAD FR a"
+      },
+      {
+        "text": "元",
+        "page": 6,
+        "source": "ocr",
+        "context": "a> BE,\n二、独孤思教和元氏墓*\n\nRENEE\n) ABH Rei"
+      },
+      {
+        "text": "金",
+        "page": 9,
+        "source": "ocr",
+        "context": "图版目录\n\n金项链\n\n马傅\n\n马傅\n\neen)\n\nai"
+      },
+      {
+        "text": "金",
+        "page": 9,
+        "source": "ocr",
+        "context": "FEE AEG I I Bee TUE\n金、玉人饰器\n\ney PUT IG TRB"
+      },
+      {
+        "text": "金",
+        "page": 9,
+        "source": "ocr",
+        "context": "G TRB ARS\nRBM ARE\n\n人金属器和货币\n\n铀器\n\nBRAS\n\nRte"
+      },
+      {
+        "text": "唐",
+        "page": 13,
+        "source": "ocr",
+        "context": "济和文化中心。这一带除了规异\n宏大的附、唐都城遗址外，在近郊还有大量附、店时期的幕"
+      },
+      {
+        "text": "清",
+        "page": 13,
+        "source": "ocr",
+        "context": "58件，在配合建筑工程中，我们先后发气、清理了隋、店莫莫六座。这六\n库莫全有蔓志，"
+      },
+      {
+        "text": "隋",
+        "page": 13,
+        "source": "ocr",
+        "context": "，在配合建筑工程中，我们先后发气、清理了隋、店莫莫六座。这六\n库莫全有蔓志，共中隋"
+      },
+      {
+        "text": "隋",
+        "page": 13,
+        "source": "ocr",
+        "context": "隋、店莫莫六座。这六\n库莫全有蔓志，共中隋代胡一座，是隋大业四年〈公元 608 年"
+      },
+      {
+        "text": "隋",
+        "page": 13,
+        "source": "ocr",
+        "context": "。这六\n库莫全有蔓志，共中隋代胡一座，是隋大业四年〈公元 608 年) EMM. "
+      },
+      {
+        "text": "元",
+        "page": 13,
+        "source": "ocr",
+        "context": "有蔓志，共中隋代胡一座，是隋大业四年〈公元 608 年) EMM. MME\n西安城"
+      },
+      {
+        "text": "隋",
+        "page": 13,
+        "source": "ocr",
+        "context": "西约一公里的潘家村附近《疼一》、其地处于隋代首都大兴城〔即唐长安城) 体\n社遇万善"
+      },
+      {
+        "text": "唐",
+        "page": 13,
+        "source": "ocr",
+        "context": "附近《疼一》、其地处于隋代首都大兴城〔即唐长安城) 体\n社遇万善尼地之内。蓝证是一"
+      },
+      {
+        "text": "元",
+        "page": 14,
+        "source": "ocr",
+        "context": "据墓志记载，独孤思贞卒于万岁通天二年〈公元 697 年) ，\nHFT CST 69"
+      },
+      {
+        "text": "元",
+        "page": 14,
+        "source": "ocr",
+        "context": "98 年) ， 独孤思敬卒于景龙三年《公元 709 年) ，同年与元碟合\n幕一募〈"
+      },
+      {
+        "text": "元",
+        "page": 14,
+        "source": "ocr",
+        "context": "于景龙三年《公元 709 年) ，同年与元碟合\n幕一募〈元氏卒于仪凰二年) ，长安"
+      },
+      {
+        "text": "元",
+        "page": 14,
+        "source": "ocr",
+        "context": " 709 年) ，同年与元碟合\n幕一募〈元氏卒于仪凰二年) ，长安三年复与元氏迁昔"
+      },
+      {
+        "text": "元",
+        "page": 14,
+        "source": "ocr",
+        "context": "一募〈元氏卒于仪凰二年) ，长安三年复与元氏迁昔于独孤氏之祖荃。杨氏卒于垂拱\n= "
+      },
+      {
+        "text": "唐",
+        "page": 14,
+        "source": "ocr",
+        "context": "座，位于等驾坡村北 800 余米处。此地唐属万年县龙首乡之神鹿坊，西\nMARSA "
+      },
+      {
+        "text": "唐",
+        "page": 14,
+        "source": "ocr",
+        "context": "比较宏大,其中杨思品摹尤为\n庞大，是一般唐幕所不能相比的。各慕虽然都被盗霓过，但仍"
+      },
+      {
+        "text": "隋",
+        "page": 14,
+        "source": "ocr",
+        "context": "但仍保存了大批精美隐俑等随\n葬物品，今与隋李静训蓝一起分别子以介绍。\n\nSAA. "
+      },
+      {
+        "text": "金",
+        "page": 16,
+        "source": "ocr",
+        "context": "头邦向南，面部向\n上而略偏左。头肯顶部有金花发饰(172、\n173) . RW ("
+      },
+      {
+        "text": "金",
+        "page": 16,
+        "source": "ocr",
+        "context": "123%) AhA BS. BLK\n有人金项链一件〈 129 ) 。胸攻下有和白玉"
+      },
+      {
+        "text": "金",
+        "page": 16,
+        "source": "ocr",
+        "context": "b RAL\n丝带直接系在项上。两腕各有人金锡子一件\n《131、135) , AR "
+      },
+      {
+        "text": "隋",
+        "page": 18,
+        "source": "ocr",
+        "context": "证长安城郊隋唐墓\n\n12 Ra EE AR ”15,"
+      },
+      {
+        "text": "唐",
+        "page": 18,
+        "source": "ocr",
+        "context": "证长安城郊隋唐墓\n\n12 Ra EE AR ”15,长"
+      },
+      {
+        "text": "明",
+        "page": 20,
+        "source": "ocr",
+        "context": "，和五樟盖上的齐\n\n石术对刻成精致的九脊明堂形式。梢的底部为碌堂的其天。控的西豆是"
+      },
+      {
+        "text": "隋",
+        "page": 22,
+        "source": "ocr",
+        "context": "筑的发展作参考。\n\n三、随匡器物\n\n这座隋莫不仅有前述礁刻精美、艺术价值极高的石售"
+      },
+      {
+        "text": "隋",
+        "page": 22,
+        "source": "ocr",
+        "context": "高的石售，而且随闫器物也极趟宫。除\n一般隋莫中比较常见的陶俩和少数隐器之处，更有大"
+      },
+      {
+        "text": "金",
+        "page": 22,
+        "source": "ocr",
+        "context": "中比较常见的陶俩和少数隐器之处，更有大批金银器和玻璃器，姿器为数也不\n少，并极精致"
+      },
+      {
+        "text": "金",
+        "page": 22,
+        "source": "ocr",
+        "context": "，并极精致。像这样多的牙霄器和制作精美的金饰品，在过去发括的隋墓中还未发现\n过。因"
+      },
+      {
+        "text": "隋",
+        "page": 22,
+        "source": "ocr",
+        "context": "的牙霄器和制作精美的金饰品，在过去发括的隋墓中还未发现\n过。因此，大值得特别介绍的"
+      },
+      {
+        "text": "明",
+        "page": 22,
+        "source": "ocr",
+        "context": "介绍的。\n\n随硬器物的种类，右陶傅和队制明器、姿器、队器、金银 器、铜铁 器、玉石"
+      },
+      {
+        "text": "金",
+        "page": 22,
+        "source": "ocr",
+        "context": "物的种类，右陶傅和队制明器、姿器、队器、金银 器、铜铁 器、玉石器、\n琉璃器以及骨"
+      },
+      {
+        "text": "明",
+        "page": 22,
+        "source": "ocr",
+        "context": "，有的一号数器。凡是这种情况的，在下面说明中对\n一器两号者，加一“+ \"号! 一号"
+      },
+      {
+        "text": "明",
+        "page": 22,
+        "source": "ocr",
+        "context": "“+ \"号! 一号数器者，而又需要分别说明的，则在器号后加“四?\n等数字以去区别。"
+      },
+      {
+        "text": "明",
+        "page": 22,
+        "source": "ocr",
+        "context": "按器物种类分别介绍。\n\n一) 陶傅和用只明器类\n\n傅类共84件，其中又分人物傅和普"
+      },
+      {
+        "text": "明",
+        "page": 22,
+        "source": "ocr",
+        "context": "类共84件，其中又分人物傅和普俑两部分。明器类，共 6 件。这些器物的位置，\n前文"
+      },
+      {
+        "text": "隋",
+        "page": 22,
+        "source": "ocr",
+        "context": "武士傅的形象.服饰等,与凸安郭家滩出土的隋大业六年姬威蓝之武士全@ ，\n及西安白鹿"
+      },
+      {
+        "text": "隋",
+        "page": 24,
+        "source": "ocr",
+        "context": " 。此俑蹈坐的形式和所执之答，与河南安阳隋开皇十四\nAEE RIT MAR ALL"
+      },
+      {
+        "text": "清",
+        "page": 24,
+        "source": "ocr",
+        "context": "05)。模制，表面似曾施以白粉，已剥落不清。 HIER Be,\n仅具形状，磨与座结"
+      },
+      {
+        "text": "清",
+        "page": 28,
+        "source": "ocr",
+        "context": "M i RE, MAA, CREATE\n清晰。馈高22.7、口径12.3、腹径21"
+      },
+      {
+        "text": "明",
+        "page": 28,
+        "source": "ocr",
+        "context": "。口沿以下斜收成小平底。制造粗糙，跨体有明显的轮制痕迹。 CORRS. NB\n10"
+      },
+      {
+        "text": "金",
+        "page": 28,
+        "source": "ocr",
+        "context": "图版一九，3 、4 ) 。\n\n《四) 人金银器\n\n1.金器 共11件。有项链、金手"
+      },
+      {
+        "text": "金",
+        "page": 28,
+        "source": "ocr",
+        "context": "、4 ) 。\n\n《四) 人金银器\n\n1.金器 共11件。有项链、金手镯、戒指、高足"
+      },
+      {
+        "text": "金",
+        "page": 28,
+        "source": "ocr",
+        "context": "人金银器\n\n1.金器 共11件。有项链、金手镯、戒指、高足杯及发饰等。它们大都保存"
+      },
+      {
+        "text": "金",
+        "page": 28,
+        "source": "ocr",
+        "context": "GRE 工件〈129)。 项链是由28个金质球形饰组成， 球形 上 各伐有10颗\n"
+      },
+      {
+        "text": "金",
+        "page": 28,
+        "source": "ocr",
+        "context": "分左右两组，每组14个，各球之间系肖多股金丝编织的链索\nAGEN. PN SMA,"
+      },
+      {
+        "text": "金",
+        "page": 28,
+        "source": "ocr",
+        "context": "\nFi” Lapis Lazuli) 的金饰，其上附一金环，纽饰两端之钧即纳人环内"
+      },
+      {
+        "text": "金",
+        "page": 28,
+        "source": "ocr",
+        "context": "pis Lazuli) 的金饰，其上附一金环，纽饰两端之钧即纳人环内。 项链的下 "
+      },
+      {
+        "text": "金",
+        "page": 29,
+        "source": "ocr",
+        "context": "p\n共108.75克〈图版几，2)。这对金\n手镯和上述爹硕链，从制作工艺和\nMME"
+      },
+      {
+        "text": "金",
+        "page": 30,
+        "source": "ocr",
+        "context": "《173) 。已残，下有三叉形插， 上为金片，其两端上 eA\n叶状，片中又有二着环"
+      },
+      {
+        "text": "金",
+        "page": 30,
+        "source": "ocr",
+        "context": "中又有二着环。人在郑环上均附插许多六瓣形金花、三角形金尚叶、穿孔小珍珠\n等。并有人"
+      },
+      {
+        "text": "金",
+        "page": 30,
+        "source": "ocr",
+        "context": "。人在郑环上均附插许多六瓣形金花、三角形金尚叶、穿孔小珍珠\n等。并有人金丝编网，上"
+      },
+      {
+        "text": "金",
+        "page": 30,
+        "source": "ocr",
+        "context": "花、三角形金尚叶、穿孔小珍珠\n等。并有人金丝编网，上出小珠之垂饰，但已混乱，不易恢"
+      },
+      {
+        "text": "金",
+        "page": 30,
+        "source": "ocr",
+        "context": "原状〈图版一D，3) 。\n\n《6 》衣饰金化 1A (204). 形似盾形，内为忍"
+      },
+      {
+        "text": "金",
+        "page": 30,
+        "source": "ocr",
+        "context": "贞纹，中夹一多闪之花饰，其侧\n有一齿轮形金化，因残缺，原交案组织情况已不请想〈图版"
+      },
+      {
+        "text": "金",
+        "page": 30,
+        "source": "ocr",
+        "context": "请想〈图版     1) 。\n\n《7)》金饰品“8 件，统编为 222 号。形状全"
+      },
+      {
+        "text": "金",
+        "page": 30,
+        "source": "ocr",
+        "context": "\n保存完整，只是高足已脱落。杯\n的形式与金高是杯 〈1 2 6号) 大\n致相同，杯"
+      },
+      {
+        "text": "隋",
+        "page": 31,
+        "source": "ocr",
+        "context": "x 隋代李况训莫         119°\n\n"
+      },
+      {
+        "text": "元",
+        "page": 31,
+        "source": "ocr",
+        "context": "57内。这枚银币为波斯陈瑞朝捍路斯王(公元457一483年)\n所狼，与过去在西安许"
+      },
+      {
+        "text": "唐",
+        "page": 32,
+        "source": "ocr",
+        "context": "                    唐长安城郊防店划\n\n(1) 1% Geb,"
+      },
+      {
+        "text": "隋",
+        "page": 32,
+        "source": "ocr",
+        "context": "A CAM—O, 5B) 。\n\n(8) 隋五匆，共5枚，分别编为133、181号，"
+      },
+      {
+        "text": "金",
+        "page": 33,
+        "source": "ocr",
+        "context": "作大口，下有假圈足。\n杯的口部内外有有人金镶门滑一周，金滑寅0.6非米。平苦，疝外"
+      },
+      {
+        "text": "金",
+        "page": 33,
+        "source": "ocr",
+        "context": "圈足。\n杯的口部内外有有人金镶门滑一周，金滑寅0.6非米。平苦，疝外略折出。高4."
+      },
+      {
+        "text": "金",
+        "page": 33,
+        "source": "ocr",
+        "context": "、\\H徐5.6、\n底和从2.9赴米。镶人金的重荔约9.4克《图版     Td.\n"
+      },
+      {
+        "text": "明",
+        "page": 33,
+        "source": "ocr",
+        "context": "60, 2262) 。水昌    通体透明，双 股，但较 玉\nUH. 123K, "
+      },
+      {
+        "text": "明",
+        "page": 33,
+        "source": "ocr",
+        "context": "7)，和白玉，器中有次孔，但已残，原状不明。厚2 kOe CER\n\n"
+      },
+      {
+        "text": "明",
+        "page": 34,
+        "source": "ocr",
+        "context": "11, 水晶珠 1 C215) ，通体透明。珠呈楼形，真窗一紧孔。长1.2\\宽1厘"
+      },
+      {
+        "text": "明",
+        "page": 34,
+        "source": "ocr",
+        "context": "AR\n纹。口万和转足后附，其与器身的结痕明显。高12.5，口径，长径5、短径3.7"
+      },
+      {
+        "text": "明",
+        "page": 34,
+        "source": "ocr",
+        "context": "之下部较前者略粗。杯呈带绿之淡蓝色，灶透明。尚 2.4、口\n径2.8、腹从2.6、"
+      },
+      {
+        "text": "隋",
+        "page": 34,
+        "source": "ocr",
+        "context": "如瓶，但仍属玻\n现性。共形状与西安郭家滩隋姬威莫所出之二料杯〈《文物》1959年 "
+      },
+      {
+        "text": "清",
+        "page": 36,
+        "source": "ocr",
+        "context": "及接钱处，尚洁晰可见。闪织法和经纬线也尚清楚，在一\n平方硬米中，经线约36枚，纬线"
+      },
+      {
+        "text": "清",
+        "page": 36,
+        "source": "ocr",
+        "context": "。\n\n4麻布残片”8块《205)。经纬线清楚，织作较粗糙〈图版二六，3 ) 。\n\n"
+      },
+      {
+        "text": "隋",
+        "page": 37,
+        "source": "ocr",
+        "context": "志盖为旺顶式，平迷无纹饰。盖上阳刻篆书“隋左光和禄大夫女墓志”九字【图一\n四) 。"
+      },
+      {
+        "text": "元",
+        "page": 40,
+        "source": "ocr",
+        "context": "。当有时农民大起义已经开始，三年以后〈公元618件)炳帝被杀，短命的附王员旋告\n结"
+      },
+      {
+        "text": "唐",
+        "page": 41,
+        "source": "ocr",
+        "context": " RRAL, ICMR\n保存尚好，足五座唐莫中形制最清楚的一座。此蔓与独孤思区和杨"
+      },
+      {
+        "text": "清",
+        "page": 41,
+        "source": "ocr",
+        "context": " ICMR\n保存尚好，足五座唐莫中形制最清楚的一座。此蔓与独孤思区和杨氏蔓在同一莫"
+      },
+      {
+        "text": "清",
+        "page": 43,
+        "source": "ocr",
+        "context": "AOA\n外，共余各器物放置的情形大体都还清起。\n\nA BRO           "
+      },
+      {
+        "text": "明",
+        "page": 45,
+        "source": "ocr",
+        "context": "骑马乐傅) 。\n\n西豆侈内放置陶俑及共他明器等基50件〈19一75) ，各器排列整"
+      },
+      {
+        "text": "明",
+        "page": 47,
+        "source": "ocr",
+        "context": "\n(>) BEB\n\n随三器物有傅类,用只明器类和装饰品等十祭种。除330粒料珠之外"
+      },
+      {
+        "text": "明",
+        "page": 47,
+        "source": "ocr",
+        "context": "造型以及衣申的制作都非常细致，釉色也很鲜明。\n\n(3》文官俑 >件 (5、6)》。"
+      },
+      {
+        "text": "金",
+        "page": 51,
+        "source": "ocr",
+        "context": "AD 马饰品，“有钢铀、铜香、小铀环和北金的钢禁叶形饰及银质的杏叶形饰物多\n件。\n"
+      },
+      {
+        "text": "元",
+        "page": 53,
+        "source": "ocr",
+        "context": "督虎、杭、简三州刺史，上柱国洛南那公。父元康，\nRe Ae SDE AT CREB"
+      },
+      {
+        "text": "唐",
+        "page": 54,
+        "source": "ocr",
+        "context": ",(北)\n局大将军，附淮州刺史。祖义顺，唐右光禄大夫太仆外泳州都督克、杭、简三州刺"
+      },
+      {
+        "text": "元",
+        "page": 54,
+        "source": "ocr",
+        "context": "督克、杭、简三州刺史上\n柱国洛南禾公。父元康，店左金吾郎将右卫中郎将左请道率。这与"
+      },
+      {
+        "text": "金",
+        "page": 54,
+        "source": "ocr",
+        "context": "简三州刺史上\n柱国洛南禾公。父元康，店左金吾郎将右卫中郎将左请道率。这与《新唐书》"
+      },
+      {
+        "text": "唐",
+        "page": 54,
+        "source": "ocr",
+        "context": "店左金吾郎将右卫中郎将左请道率。这与《新唐书》宁相世系\n表基本相符。世系表起于独孤"
+      },
+      {
+        "text": "隋",
+        "page": 54,
+        "source": "ocr",
+        "context": "卷六，武帝纪下、同书卷三十六肉彦称传和《隋书》卷七十九独孤罗等传内均言及\n独孤永业"
+      },
+      {
+        "text": "元",
+        "page": 54,
+        "source": "ocr",
+        "context": "国，宣政末出为襄州总管。大象 二年\n《公元580年) JFRAME ERS COM"
+      },
+      {
+        "text": "明",
+        "page": 55,
+        "source": "ocr",
+        "context": " — 权才\nMx            明\n|\n8K Bat CF BAD\n\n二、"
+      },
+      {
+        "text": "元",
+        "page": 55,
+        "source": "ocr",
+        "context": " Bat CF BAD\n\n二、独孤思敬和元氏莫\n\n独孤思敬绍是于1956年12月发"
+      },
+      {
+        "text": "元",
+        "page": 55,
+        "source": "ocr",
+        "context": "方焉一层。在东北角处，砌有\n方形小砖台，元氏的墓志〈26》 即放在砖台上，但志益《"
+      },
+      {
+        "text": "明",
+        "page": 59,
+        "source": "ocr",
+        "context": "土蚀，有的 秋己脱\n落，颜色永障，不甚鲜明。四马均立十长方形座板上,它们原米可能饰"
+      },
+      {
+        "text": "元",
+        "page": 59,
+        "source": "ocr",
+        "context": "MA. BE\n\n铅饰品三种\n\nC1) 开元通宝钱 ”长12枚《25》 ，均出在术床"
+      },
+      {
+        "text": "元",
+        "page": 60,
+        "source": "ocr",
+        "context": "RE TH\n(三》紫志\n\n方，独孤思敬与元氏各一。独孤思克的墓志出在甬道内，因盗据"
+      },
+      {
+        "text": "元",
+        "page": 60,
+        "source": "ocr",
+        "context": "在甬道内，因盗据扰丈，志与\n盖分在贞处。元氏的侣志在笋室的南北阳，放在蓄确的台上，"
+      },
+      {
+        "text": "唐",
+        "page": 60,
+        "source": "ocr",
+        "context": "，短缺数字《图二九) 。志文如下:\n\n大唐故朝散大夫行定王府坟独孤府杂墓志铭并序\n"
+      },
+      {
+        "text": "元",
+        "page": 62,
+        "source": "ocr",
+        "context": "第十五下) 中亦无\n思敬之名。按世系表中元恰子仅有思庄、思行二人，而无思敬。今可据"
+      },
+      {
+        "text": "唐",
+        "page": 62,
+        "source": "ocr",
+        "context": "\n志称独孤思黎官为“定王府换”，但在李上唐宗室亲王中，并无封定王者。只有武则\n天之"
+      },
+      {
+        "text": "唐",
+        "page": 62,
+        "source": "ocr",
+        "context": "依器，尚太平公主后于天授中封为定王。《旧唐书》《卷一八三) a th BE fe\n"
+      },
+      {
+        "text": "唐",
+        "page": 62,
+        "source": "ocr",
+        "context": "E BR, Bit, x\n封定王”。《新唐书》《〈卷 二 〇 A) 武依竖传，“天"
+      },
+      {
+        "text": "元",
+        "page": 62,
+        "source": "ocr",
+        "context": "A) TRB ERIE\n\nRE OA 姓元氏，河南洛阳至〈人) ,魏诏成皇帝之后也"
+      },
+      {
+        "text": "明",
+        "page": 62,
+        "source": "ocr",
+        "context": "E, Rt CD) 机，敏情\n\n生知，柔明幼发。性符诗礼，诚无待于七篇! 道人中和"
+      },
+      {
+        "text": "元",
+        "page": 64,
+        "source": "ocr",
+        "context": "元氏厅志文折本(约L/5)\n\n杨氏偶位于独"
+      },
+      {
+        "text": "清",
+        "page": 64,
+        "source": "ocr",
+        "context": " SSE Ni He aR, 形制已不此清楚，今仅就清和得的结\nRST Be\n\n"
+      },
+      {
+        "text": "清",
+        "page": 64,
+        "source": "ocr",
+        "context": "i He aR, 形制已不此清楚，今仅就清和得的结\nRST Be\n\n"
+      },
+      {
+        "text": "元",
+        "page": 68,
+        "source": "ocr",
+        "context": ", FRSA.\n志载杨氏识于重拱三年〈公元687年) ，子长安三年〈公元703年)"
+      },
+      {
+        "text": "元",
+        "page": 68,
+        "source": "ocr",
+        "context": "拱三年〈公元687年) ，子长安三年〈公元703年) 和元氏同时迁磊\n于钢人原。\n"
+      },
+      {
+        "text": "元",
+        "page": 68,
+        "source": "ocr",
+        "context": "7年) ，子长安三年〈公元703年) 和元氏同时迁磊\n于钢人原。\n志称声氏曾祖文伟"
+      },
+      {
+        "text": "唐",
+        "page": 68,
+        "source": "ocr",
+        "context": "称声氏曾祖文伟，祖短,父守思。场繁在《旧唐书》卷七十七有传,《新唐蔬》附\n于杨弘礼"
+      },
+      {
+        "text": "唐",
+        "page": 68,
+        "source": "ocr",
+        "context": "守思。场繁在《旧唐书》卷七十七有传,《新唐蔬》附\n于杨弘礼传。《周节》《〈卷二十二"
+      },
+      {
+        "text": "唐",
+        "page": 68,
+        "source": "ocr",
+        "context": "e\n河, By Mb Hh eH, 为上唐代长安城之西郊所在地 (图一》。此幕曾遗"
+      },
+      {
+        "text": "唐",
+        "page": 68,
+        "source": "ocr",
+        "context": "彩傅的制作和造型，均有很高的艺术水于，是唐代三彩\n癸中有代表性的作品。\n〈一) R"
+      },
+      {
+        "text": "明",
+        "page": 70,
+        "source": "ocr",
+        "context": "2盏米《图版七四，2 ) 。二俑的釉色鲜明，制作非常精歼。\n\n2.文官傅 “只存1"
+      },
+      {
+        "text": "元",
+        "page": 72,
+        "source": "ocr",
+        "context": "俑同〈图版人二，2) 。 3,作 拍击状元 3件〈47、74) 。傅端坐马\n上，两"
+      },
+      {
+        "text": "明",
+        "page": 73,
+        "source": "ocr",
+        "context": "两手所作的砍式，生动有力。各俑不仅釉色鲜明，在制作上也较一般\nUE. ELS TA"
+      },
+      {
+        "text": "唐",
+        "page": 74,
+        "source": "ocr",
+        "context": "                    唐长安城郊隋唐莫\n\n航、有相同，皮带上饰以"
+      },
+      {
+        "text": "隋",
+        "page": 74,
+        "source": "ocr",
+        "context": "               唐长安城郊隋唐莫\n\n航、有相同，皮带上饰以黄色花休，"
+      },
+      {
+        "text": "唐",
+        "page": 74,
+        "source": "ocr",
+        "context": "              唐长安城郊隋唐莫\n\n航、有相同，皮带上饰以黄色花休，并"
+      },
+      {
+        "text": "金",
+        "page": 74,
+        "source": "ocr",
+        "context": "带全为绿色。胸前的\n带上人饰有黄色小铃〈金铃) ，在各金竹之问并饰有带黄点的蓝色流"
+      },
+      {
+        "text": "金",
+        "page": 74,
+        "source": "ocr",
+        "context": "前的\n带上人饰有黄色小铃〈金铃) ，在各金竹之问并饰有带黄点的蓝色流苏。后哦于两侧"
+      },
+      {
+        "text": "唐",
+        "page": 74,
+        "source": "ocr",
+        "context": "侧视，形态生\n动，像这样梢美的马俑在一般唐墓中是罕见的〈彩版三) 。 马高 54."
+      },
+      {
+        "text": "清",
+        "page": 74,
+        "source": "ocr",
+        "context": "志石表面 因剥 包损\n坏，有数字已状别不清。志文行距之间刻栏，纵横各24行，共 5"
+      },
+      {
+        "text": "唐",
+        "page": 74,
+        "source": "ocr",
+        "context": "520 字〈图二七) 。全文\n如下\n\n大唐故云魔将军右领军卫将军上柱国北平县开赂公"
+      },
+      {
+        "text": "元",
+        "page": 76,
+        "source": "ocr",
+        "context": "R /O)\n\nRUE ACR YD. 下元十一年岁 BR AAA BTW EAL,"
+      },
+      {
+        "text": "元",
+        "page": 77,
+        "source": "ocr",
+        "context": "度均有有定制，一品“坟\n高一丈八呈\"(开元二十九年以前的测度,以后义减为一火六尺)"
+      },
+      {
+        "text": "清",
+        "page": 77,
+        "source": "ocr",
+        "context": "，骨下即是淤上，淤士厚达7米多。将淇土\n清除后，于盘室的西侧露出石樟一座〈图版刀口"
+      },
+      {
+        "text": "金",
+        "page": 88,
+        "source": "ocr",
+        "context": "花纹，中问亿刻鳞形纹，并以黑线勾绘，地贴金《必四九，6 ) 。变刀之精\nBRAUE"
+      },
+      {
+        "text": "金",
+        "page": 94,
+        "source": "ocr",
+        "context": "绿   ey\n等色的花纹，野上上并贴\n”金，其装饰较前述各帝\nZR He\n3.其他"
+      },
+      {
+        "text": "唐",
+        "page": 95,
+        "source": "ocr",
+        "context": "以。顶部四周刻卷草流云纹，\n中刻篆书“大唐故枝骑大将军杨公志铬”十二字〈图五三) "
+      },
+      {
+        "text": "元",
+        "page": 95,
+        "source": "ocr",
+        "context": "R\nSRG Ee EE EP BK\n\n开元十八年二月壬寅，村骑大将军杨公，葡于京师"
+      },
+      {
+        "text": "唐",
+        "page": 99,
+        "source": "ocr",
+        "context": "G. BHR. HRS, tbe 研\n帘唐代兵器和服饰的绝好参考资料。\n\nARM."
+      },
+      {
+        "text": "明",
+        "page": 100,
+        "source": "ocr",
+        "context": "乐\n条的出岗以及三彩秋色之鲜明等，者达到了当时隐膏工艺的高度水半。至于"
+      },
+      {
+        "text": "元",
+        "page": 100,
+        "source": "ocr",
+        "context": "，者达到了当时隐膏工艺的高度水半。至于开元 :上八\n{ENS GI, GRIER "
+      },
+      {
+        "text": "清",
+        "page": 100,
+        "source": "ocr",
+        "context": "ALMGREAS. 《西安西郊中堡衬店鞋清理简报》，《考古》1960年3 期。\nC"
+      },
+      {
+        "text": "唐",
+        "page": 101,
+        "source": "ocr",
+        "context": "是1957年发据的，参加此墓发气工作的有唐金浴、张 SE. EB aR AD\n志。"
+      },
+      {
+        "text": "金",
+        "page": 101,
+        "source": "ocr",
+        "context": "1957年发据的，参加此墓发气工作的有唐金浴、张 SE. EB aR AD\n志。店"
+      },
+      {
+        "text": "金",
+        "page": 101,
+        "source": "ocr",
+        "context": "年发拓的，先后参加发气工作的有马得志、陈金菜、闻树屏、\nWER. MAR. PAS"
+      },
+      {
+        "text": "金",
+        "page": 121,
+        "source": "ocr",
+        "context": "图版九 CIX)\n\nEse\n\n金、\n\na\ngE\n=\n=\n下\n时\n=\n=\n"
+      },
+      {
+        "text": "金",
+        "page": 124,
+        "source": "ocr",
+        "context": "133.08\n\n£\n\ntie C62\n\n金属器和货币\n"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "M83",
+        "page": 7,
+        "source": "ocr",
+        "context": "        (32)\nSSF ii M83 22 AT              "
+      },
+      {
+        "text": "S210",
+        "page": 18,
+        "source": "ocr",
+        "context": "PRATER C158). RE\nFA S210 (232, 233) 、作成丛饰的波斯"
+      },
+      {
+        "text": "M10",
+        "page": 19,
+        "source": "ocr",
+        "context": " Re\n\n图五 CheBae See\n\nM10, SURREAL TEE 172, E"
+      },
+      {
+        "text": "M23",
+        "page": 23,
+        "source": "ocr",
+        "context": "\n\nAo AMAA, AMR. 31S M23, 51'S AR CMO, 3,\n4)"
+      },
+      {
+        "text": "H12",
+        "page": 25,
+        "source": "ocr",
+        "context": "GVRESK. RPGR. 12.8, H12,3, BO.7MR AMIE,\nTo\n"
+      },
+      {
+        "text": "M145",
+        "page": 26,
+        "source": "ocr",
+        "context": "RR, AEA Rie\nLER Me. M145, AE 9.3, BPE 14,6、底"
+      },
+      {
+        "text": "M7",
+        "page": 27,
+        "source": "ocr",
+        "context": "\n\n(2) Hebe 20h C37, M7 +148). BIBER, BADAA"
+      },
+      {
+        "text": "S25",
+        "page": 27,
+        "source": "ocr",
+        "context": ".2, BEIZO.6. FRO.9, S25, 49. OSE (AH,\n1, 2."
+      },
+      {
+        "text": "M04",
+        "page": 28,
+        "source": "ocr",
+        "context": "49. B25, MR 4. 1.2, M04 厘米。184 SHH 4.7. AE\n"
+      },
+      {
+        "text": "G2",
+        "page": 31,
+        "source": "ocr",
+        "context": "B, LARAMIE, KM, Fer G2. AMOR B21\nWERE 4k, "
+      },
+      {
+        "text": "S264",
+        "page": 33,
+        "source": "ocr",
+        "context": "SR eee, Fein MERIC. S264. TRO. TED CIAL\nFL, "
+      },
+      {
+        "text": "G1",
+        "page": 33,
+        "source": "ocr",
+        "context": "L, ERB PREM. I72D-S G1, SL. PLZ. EO.\n172国、"
+      },
+      {
+        "text": "M2",
+        "page": 33,
+        "source": "ocr",
+        "context": "SEO.7H AR. 226DK29, M2, OSH R CAMMBIL, 134"
+      },
+      {
+        "text": "M04",
+        "page": 33,
+        "source": "ocr",
+        "context": ". DK2.7, MO3M. DKS. M04 BE\nKe FK2.2, B0.2m "
+      },
+      {
+        "text": "M21",
+        "page": 35,
+        "source": "ocr",
+        "context": "B, WBA\nsit, APG PR. M21 CLA 23. 4k, READ . "
+      },
+      {
+        "text": "M2",
+        "page": 36,
+        "source": "ocr",
+        "context": " SB, CR\nWAM. Hh4.2. M2. eS 厘米。\n\nC6) Bb 24 "
+      },
+      {
+        "text": "M25",
+        "page": 36,
+        "source": "ocr",
+        "context": "EMAT, WILMA. KiE28. M25\nMOR CMR, 4).\n\nOe) 其"
+      },
+      {
+        "text": "K3",
+        "page": 43,
+        "source": "ocr",
+        "context": "RAE PT CARO, 2) . A K3.8, HEMT 2.2, M12.\nA"
+      },
+      {
+        "text": "M12",
+        "page": 43,
+        "source": "ocr",
+        "context": ". A K3.8, HEMT 2.2, M12.\nAim Wi 2. WGK. AGR"
+      },
+      {
+        "text": "D7",
+        "page": 45,
+        "source": "ocr",
+        "context": " ，\nST BSF ABE HN OM D7. NEAR 8 HE C32, 34."
+      },
+      {
+        "text": "F034",
+        "page": 48,
+        "source": "ocr",
+        "context": ". BoE ICL. AUNT\n{if F034 15 7 EY\n\nPERE SHR C"
+      },
+      {
+        "text": "G1",
+        "page": 50,
+        "source": "ocr",
+        "context": "CRAB, 1)»\n\n4effl 9件 G1. 33, 36, 37, 42-45,"
+      },
+      {
+        "text": "G7",
+        "page": 50,
+        "source": "ocr",
+        "context": "52, 56) , RAINY 1 件 G7) , HERZ C60. 61), K"
+      },
+      {
+        "text": "M54",
+        "page": 50,
+        "source": "ocr",
+        "context": " o TERN. 53°92) ERE M54 64S CO RL,\n55 M63S "
+      },
+      {
+        "text": "M05",
+        "page": 50,
+        "source": "ocr",
+        "context": "ES AR. MA LORAOE I, M05. 012 ABR AA. AA\nPEA"
+      },
+      {
+        "text": "M225",
+        "page": 51,
+        "source": "ocr",
+        "context": " OR\nBb, RAH. A RAC. M225, AS, ET. BK CAA, 6)"
+      },
+      {
+        "text": "G17",
+        "page": 51,
+        "source": "ocr",
+        "context": "R. HE\nfh, FPA. 8.2, G17.5, MRR CMA, 4) 。碗03"
+      },
+      {
+        "text": "M16",
+        "page": 51,
+        "source": "ocr",
+        "context": "R, FRR. MK. Wi 5.4, M16, MES\nHK (BIRTA, 3)."
+      },
+      {
+        "text": "F523",
+        "page": 58,
+        "source": "ocr",
+        "context": ", 2), fA\nRIEREALEE. F523 BLK.\n\n(5) PE LAE C3"
+      },
+      {
+        "text": "G2",
+        "page": 70,
+        "source": "ocr",
+        "context": "TA RS RR, OC OT\nBEE G2. 14). LEN 3) 和工个武于俑"
+      },
+      {
+        "text": "G15",
+        "page": 71,
+        "source": "ocr",
+        "context": "ERES DEALER MASA LE G15), AR\nFEL AOK CAMA, "
+      },
+      {
+        "text": "S11",
+        "page": 87,
+        "source": "ocr",
+        "context": "S) 。石刻\nfA Ae RE ALA S11. 7) 〈横刀? )1、\nSRS 1 "
+      },
+      {
+        "text": "M01",
+        "page": 91,
+        "source": "ocr",
+        "context": "LA, 25 AM—-OO, 8) . M01, I7IALAR (PARR ILIL"
+      },
+      {
+        "text": "S12",
+        "page": 92,
+        "source": "ocr",
+        "context": "\nCOR) 和有头部可看出的《6 件) S12 PE FB (GIR Hi RR Ab"
+      },
+      {
+        "text": "M2",
+        "page": 98,
+        "source": "ocr",
+        "context": "(e. GEOCRIL 5 ite a\nM2 o ERS: CRP THRE” MM"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "饰",
+        "page": 8,
+        "source": "ocr",
+        "context": "本及线图*\n由二”石樟直杭窗刻纹及局部纹饰折本”\n四四 石术门侧方柱刻纹拓本\n四五"
+      },
+      {
+        "text": "饰",
+        "page": 9,
+        "source": "ocr",
+        "context": "AEG I I Bee TUE\n金、玉人饰器\n\ney PUT IG TRB ARS"
+      },
+      {
+        "text": "饰",
+        "page": 16,
+        "source": "ocr",
+        "context": "南，面部向\n上而略偏左。头肯顶部有金花发饰(172、\n173) . RW (123"
+      },
+      {
+        "text": "刀",
+        "page": 16,
+        "source": "ocr",
+        "context": " (179), AAD (178) 、钢刀 (207)\nFIR HARD. BOR"
+      },
+      {
+        "text": "杯",
+        "page": 16,
+        "source": "ocr",
+        "context": ": AL CAR: 119.121》、小杯 Bee) 8 ER 0A 10RD O"
+      },
+      {
+        "text": "盘",
+        "page": 18,
+        "source": "ocr",
+        "context": "(153.184) 2 C151) ,银盘〈154) ARAB C155) DH "
+      },
+      {
+        "text": "钵",
+        "page": 18,
+        "source": "ocr",
+        "context": "部附\n近，东侧有资盒一件〈160) 和钢钵一件 157) 2 PRATER C15"
+      },
+      {
+        "text": "饰",
+        "page": 18,
+        "source": "ocr",
+        "context": "S210 (232, 233) 、作成丛饰的波斯银币一枚、小铃二件、钢针一件、坊珀"
+      },
+      {
+        "text": "铃",
+        "page": 18,
+        "source": "ocr",
+        "context": " 233) 、作成丛饰的波斯银币一枚、小铃二件、钢针一件、坊珀饰物一件\nAUD A"
+      },
+      {
+        "text": "饰",
+        "page": 18,
+        "source": "ocr",
+        "context": "的波斯银币一枚、小铃二件、钢针一件、坊珀饰物一件\nAUD AR Hee BH FA"
+      },
+      {
+        "text": "钵",
+        "page": 18,
+        "source": "ocr",
+        "context": "BH FARRER (186) ，也许是钵中演出来的。附近又有铁片\n数块(164."
+      },
+      {
+        "text": "镜",
+        "page": 18,
+        "source": "ocr",
+        "context": " 。北端有一件钢洗 〈161) ，中盛钢镜一面 (162》。镜子下面垫有黄色细纹\n"
+      },
+      {
+        "text": "镜",
+        "page": 18,
+        "source": "ocr",
+        "context": "〈161) ，中盛钢镜一面 (162》。镜子下面垫有黄色细纹\n纸五层。钢洗以北有丝"
+      },
+      {
+        "text": "豆",
+        "page": 20,
+        "source": "ocr",
+        "context": "脊明堂形式。梢的底部为碌堂的其天。控的西豆是-:问 Be 党的\n正面，当心闻宽50"
+      },
+      {
+        "text": "环",
+        "page": 20,
+        "source": "ocr",
+        "context": "，每路五休，但中央近门乡处的一枚门知为门环\nCHRD 所规代，所以每剧仅有24行。"
+      },
+      {
+        "text": "瓶",
+        "page": 20,
+        "source": "ocr",
+        "context": "RA ERE, BRE ABE\n花纹、宝瓶、卷草等纹饰。这种直要窗在诬代\n是常见的"
+      },
+      {
+        "text": "饰",
+        "page": 20,
+        "source": "ocr",
+        "context": ", BRE ABE\n花纹、宝瓶、卷草等纹饰。这种直要窗在诬代\n是常见的，在教煌佛爷"
+      },
+      {
+        "text": "饰",
+        "page": 22,
+        "source": "ocr",
+        "context": "并极精致。像这样多的牙霄器和制作精美的金饰品，在过去发括的隋墓中还未发现\n过。因此"
+      },
+      {
+        "text": "饰",
+        "page": 22,
+        "source": "ocr",
+        "context": "图版二〇) 。\n\n这两件武士傅的形象.服饰等,与凸安郭家滩出土的隋大业六年姬威蓝之"
+      },
+      {
+        "text": "饰",
+        "page": 23,
+        "source": "ocr",
+        "context": "AME, 2) 。95切俑，其\n形状及胡饰等与 59 SH, HBA, 两手执笑作"
+      },
+      {
+        "text": "盘",
+        "page": 25,
+        "source": "ocr",
+        "context": "上伸的把手，把端作映首，双角，张口衔谈之盘口。把为两 条合\nte DEBE HR,"
+      },
+      {
+        "text": "饰",
+        "page": 26,
+        "source": "ocr",
+        "context": "相闻的花纹一周,花纹与118号八本能的纹饰相同。效釉早青灰色，\n釉有开片纹，不及底"
+      },
+      {
+        "text": "饰",
+        "page": 26,
+        "source": "ocr",
+        "context": "上有四耳， FSERRAR,\n下附一回箱饰。耳下有蓄纹一周。底为假围足，底及底上1"
+      },
+      {
+        "text": "瓶",
+        "page": 27,
+        "source": "ocr",
+        "context": ".7厘米《图版一六，2 ) 。\n\n4.冤瓶 ”共3件，造型小巧，保在完整。\n\nC1"
+      },
+      {
+        "text": "饰",
+        "page": 27,
+        "source": "ocr",
+        "context": "左右各衔一忍冬叶，其外绕联珠一周。整个纹饰呈心形，其尖端向上。\n施白釉，有较粗之冰"
+      },
+      {
+        "text": "瓶",
+        "page": 27,
+        "source": "ocr",
+        "context": "，图足及其上 1 WOR 处沟 无 釉。瓶 高\n8.8、口答2.35、芍长径为6,"
+      },
+      {
+        "text": "瓶",
+        "page": 27,
+        "source": "ocr",
+        "context": "、壁原0.5厘米《图版\n一仆，1) 。 瓶的造型新颖，附幕中系初次发现。\n\n(2)"
+      },
+      {
+        "text": "瓶",
+        "page": 27,
+        "source": "ocr",
+        "context": "。和白色釉，有冰裂纹于片，足无镍，白胎。瓶高6.9、腹径3.5、底径 2.6 惠米"
+      },
+      {
+        "text": "杯",
+        "page": 28,
+        "source": "ocr",
+        "context": "器 共11件。有项链、金手镯、戒指、高足杯及发饰等。它们大都保存完好。\n\n(1) "
+      },
+      {
+        "text": "饰",
+        "page": 28,
+        "source": "ocr",
+        "context": "11件。有项链、金手镯、戒指、高足杯及发饰等。它们大都保存完好。\n\n(1) GRE"
+      },
+      {
+        "text": "饰",
+        "page": 28,
+        "source": "ocr",
+        "context": "工件〈129)。 项链是由28个金质球形饰组成， 球形 上 各伐有10颗\n珍珠，现"
+      },
+      {
+        "text": "饰",
+        "page": 28,
+        "source": "ocr",
+        "context": "Fi” Lapis Lazuli) 的金饰，其上附一金环，纽饰两端之钧即纳人环内。"
+      },
+      {
+        "text": "环",
+        "page": 28,
+        "source": "ocr",
+        "context": "is Lazuli) 的金饰，其上附一金环，纽饰两端之钧即纳人环内。 项链的下 端"
+      },
+      {
+        "text": "饰",
+        "page": 28,
+        "source": "ocr",
+        "context": "Lazuli) 的金饰，其上附一金环，纽饰两端之钧即纳人环内。 项链的下 端\nA-"
+      },
+      {
+        "text": "环",
+        "page": 28,
+        "source": "ocr",
+        "context": "的金饰，其上附一金环，纽饰两端之钧即纳人环内。 项链的下 端\nA-BAT, KAR"
+      },
+      {
+        "text": "饰",
+        "page": 29,
+        "source": "ocr",
+        "context": "青绿色辟了现珠的小节相连。\n开口处有一纽饰，…一端为一花扒形\n扣环,上人网小球6个"
+      },
+      {
+        "text": "环",
+        "page": 29,
+        "source": "ocr",
+        "context": "。\n开口处有一纽饰，…一端为一花扒形\n扣环,上人网小球6个，另一端为\n一钧，钩之端"
+      },
+      {
+        "text": "环",
+        "page": 29,
+        "source": "ocr",
+        "context": "另一端为\n一钧，钩之端亦碟珠 1 。钩玉环之\nAAG TTA RFRA CB\nEd"
+      },
+      {
+        "text": "环",
+        "page": 29,
+        "source": "ocr",
+        "context": "1320,\n138》， 形状 相同。 作环形， 环\nZA Sb ABR, SE B"
+      },
+      {
+        "text": "环",
+        "page": 29,
+        "source": "ocr",
+        "context": ",\n138》， 形状 相同。 作环形， 环\nZA Sb ABR, SE Ble\n戒"
+      },
+      {
+        "text": "杯",
+        "page": 29,
+        "source": "ocr",
+        "context": "1 第二行中\nf=) 。\n\n(4) 高足杯 1件 (126) 。\n大口，吕洛外盔，"
+      },
+      {
+        "text": "环",
+        "page": 29,
+        "source": "ocr",
+        "context": "口，吕洛外盔，没有凸站纹一\n周、系由一圆环衬上的。下为商足\n(已脱落》，足中空，作"
+      },
+      {
+        "text": "杯",
+        "page": 30,
+        "source": "ocr",
+        "context": "周。足柄上端先粘焊一圆饼，然后上骨焊合于杯身，今足即由焊合处脱落。杯高 5.7 、"
+      },
+      {
+        "text": "杯",
+        "page": 30,
+        "source": "ocr",
+        "context": "然后上骨焊合于杯身，今足即由焊合处脱落。杯高 5.7 、口\n径5.7、足高3.5、"
+      },
+      {
+        "text": "饰",
+        "page": 30,
+        "source": "ocr",
+        "context": "克弱〈图版一一，8 ) 。\n\n(5) 发饰 1件《173) 。已残，下有三叉形插，"
+      },
+      {
+        "text": "环",
+        "page": 30,
+        "source": "ocr",
+        "context": "金片，其两端上 eA\n叶状，片中又有二着环。人在郑环上均附插许多六瓣形金花、三角形"
+      },
+      {
+        "text": "环",
+        "page": 30,
+        "source": "ocr",
+        "context": "端上 eA\n叶状，片中又有二着环。人在郑环上均附插许多六瓣形金花、三角形金尚叶、穿"
+      },
+      {
+        "text": "饰",
+        "page": 30,
+        "source": "ocr",
+        "context": "小珍珠\n等。并有人金丝编网，上出小珠之垂饰，但已混乱，不易恢复原状〈图版一D，3)"
+      },
+      {
+        "text": "饰",
+        "page": 30,
+        "source": "ocr",
+        "context": "复原状〈图版一D，3) 。\n\n《6 》衣饰金化 1A (204). 形似盾形，内为"
+      },
+      {
+        "text": "饰",
+        "page": 30,
+        "source": "ocr",
+        "context": "，为两条尖端向内的锯贞纹，中夹一多闪之花饰，其侧\n有一齿轮形金化，因残缺，原交案组"
+      },
+      {
+        "text": "饰",
+        "page": 30,
+        "source": "ocr",
+        "context": "想〈图版     1) 。\n\n《7)》金饰品“8 件，统编为 222 号。形状全为"
+      },
+      {
+        "text": "杯",
+        "page": 30,
+        "source": "ocr",
+        "context": "(174)，\n保存完整，只是高足已脱落。杯\n的形式与金高是杯 〈1 2 6号) 大"
+      },
+      {
+        "text": "杯",
+        "page": 30,
+        "source": "ocr",
+        "context": "完整，只是高足已脱落。杯\n的形式与金高是杯 〈1 2 6号) 大\n致相同，杯口及口"
+      },
+      {
+        "text": "杯",
+        "page": 30,
+        "source": "ocr",
+        "context": "金高是杯 〈1 2 6号) 大\n致相同，杯口及口沿下鞋厘米处\n亦各有凸纺纹一周，杯"
+      },
+      {
+        "text": "杯",
+        "page": 30,
+        "source": "ocr",
+        "context": "杯口及口沿下鞋厘米处\n亦各有凸纺纹一周，杯身下焊接\n有高号，足底部呈喇叭口状，足\n"
+      },
+      {
+        "text": "饰",
+        "page": 30,
+        "source": "ocr",
+        "context": "，足底部呈喇叭口状，足\n本中间有人竹节纹饰，足底缘有凸\n楼一周。高 6 .口径5."
+      },
+      {
+        "text": "杯",
+        "page": 30,
+        "source": "ocr",
+        "context": "米【《图版\n—-; 125\n\n(8) 小杯 1 FRC 155),\n口治已残，底部"
+      },
+      {
+        "text": "杯",
+        "page": 30,
+        "source": "ocr",
+        "context": " 155),\n口治已残，底部徽向上由，在杯\n\n"
+      },
+      {
+        "text": "杯",
+        "page": 31,
+        "source": "ocr",
+        "context": "   119°\n\n内底部形成止起之圆形。杯高2.2、蝇径4.4、底径1.8、厚0."
+      },
+      {
+        "text": "瓶",
+        "page": 31,
+        "source": "ocr",
+        "context": "银炉 工件     附于150@@号小次瓶之上,编号为150针。炉口为外折平\n落，"
+      },
+      {
+        "text": "环",
+        "page": 31,
+        "source": "ocr",
+        "context": "已残) ，坊之一端有立耳，另端对称处有一环。炉\n底径1.9厘米《〈图版一一，3) "
+      },
+      {
+        "text": "盘",
+        "page": 31,
+        "source": "ocr",
+        "context": "厘米《〈图版一一，3) 。\n\nC7) 银盘 工件(154) ，口沿稍残。雪之平面呈"
+      },
+      {
+        "text": "盘",
+        "page": 31,
+        "source": "ocr",
+        "context": "，器仅 内收，器 底较器\n吕为小，平底。盘之一端于口沿下有一圆组，上挂一小环，组作"
+      },
+      {
+        "text": "环",
+        "page": 31,
+        "source": "ocr",
+        "context": "平底。盘之一端于口沿下有一圆组，上挂一小环，组作花瓣江。间高 1.3，口\n径: 长"
+      },
+      {
+        "text": "饰",
+        "page": 31,
+        "source": "ocr",
+        "context": "R—-O, 2) 。\n\n(10)》 答形饰 1件 (191)》 , ARARSEH"
+      },
+      {
+        "text": "钵",
+        "page": 31,
+        "source": "ocr",
+        "context": " 3,7 克。它与\n银指中套等一同盛在钢钵〈157内。这枚银币为波斯陈瑞朝捍路斯王"
+      },
+      {
+        "text": "饰",
+        "page": 31,
+        "source": "ocr",
+        "context": "银币的正面为王者肖像，王完后面没有扒蒂形饰物，却换上一对甘直: 冠\n前及顶上各右一"
+      },
+      {
+        "text": "饰",
+        "page": 31,
+        "source": "ocr",
+        "context": "顶上的新月还托一个圆球，户上有一括起的忆饰，验前也增一\n带形饰物，脑后有发天下怪，"
+      },
+      {
+        "text": "饰",
+        "page": 31,
+        "source": "ocr",
+        "context": "球，户上有一括起的忆饰，验前也增一\n带形饰物，脑后有发天下怪，圆周有联陈一周。绕像"
+      },
+      {
+        "text": "钵",
+        "page": 31,
+        "source": "ocr",
+        "context": "，脑后有发天下怪，圆周有联陈一周。绕像有钵罗婆文字,出脸前起为 DIPRU\n字母，"
+      },
+      {
+        "text": "饰",
+        "page": 31,
+        "source": "ocr",
+        "context": "，\n估计此币吉能被用米作为急系在身上的丛饰。除上述银器之外，尚有一些残 馆的银饰\n"
+      },
+      {
+        "text": "饰",
+        "page": 31,
+        "source": "ocr",
+        "context": "丛饰。除上述银器之外，尚有一些残 馆的银饰\ni, BYALA, 195%, ABE"
+      },
+      {
+        "text": "镜",
+        "page": 31,
+        "source": "ocr",
+        "context": ") 钢铁器\n\n1,钢器”有铜尝、钢钉、铀镜、钢锋斗、有和孔钢饰品、铜铃、钢 刀、五"
+      },
+      {
+        "text": "饰",
+        "page": 31,
+        "source": "ocr",
+        "context": "器”有铜尝、钢钉、铀镜、钢锋斗、有和孔钢饰品、铜铃、钢 刀、五 匆 钱 等八\n\n种"
+      },
+      {
+        "text": "铜铃",
+        "page": 31,
+        "source": "ocr",
+        "context": "铜尝、钢钉、铀镜、钢锋斗、有和孔钢饰品、铜铃、钢 刀、五 匆 钱 等八\n\n种，共14"
+      },
+      {
+        "text": "刀",
+        "page": 31,
+        "source": "ocr",
+        "context": "、铀镜、钢锋斗、有和孔钢饰品、铜铃、钢 刀、五 匆 钱 等八\n\n种，共14件。\n\n"
+      },
+      {
+        "text": "饰",
+        "page": 32,
+        "source": "ocr",
+        "context": "(157) ，部分破损。大口，圆底，无纹饰，器表里尼绿锈。高6.5、\n口外径20."
+      },
+      {
+        "text": "镜",
+        "page": 32,
+        "source": "ocr",
+        "context": "C8) BE 【人件(162)，有更纹。镜的边缘有凸屡一周，镜中心为加组，自纽至边"
+      },
+      {
+        "text": "镜",
+        "page": 32,
+        "source": "ocr",
+        "context": "(162)，有更纹。镜的边缘有凸屡一周，镜中心为加组，自纽至边\n缘花纹分为四组，近"
+      },
+      {
+        "text": "锛",
+        "page": 32,
+        "source": "ocr",
+        "context": "着时花纹一则;第三周分为十二格，共中分别锛成十二反动物象，依次向左排列， 最\n外一"
+      },
+      {
+        "text": "饰",
+        "page": 32,
+        "source": "ocr",
+        "context": "象，依次向左排列， 最\n外一周为三角形纹饰。镜径16、纪径2.2、边厚0.7、镜厚"
+      },
+      {
+        "text": "镜",
+        "page": 32,
+        "source": "ocr",
+        "context": "依次向左排列， 最\n外一周为三角形纹饰。镜径16、纪径2.2、边厚0.7、镜厚0."
+      },
+      {
+        "text": "镜",
+        "page": 32,
+        "source": "ocr",
+        "context": "纹饰。镜径16、纪径2.2、边厚0.7、镜厚0.2厘米〈图版一二，1) 。\n\n(4"
+      },
+      {
+        "text": "铜饰",
+        "page": 32,
+        "source": "ocr",
+        "context": "克米《图版一三，3 )。\n\n《5 》有孔铜饰品 工件(196)，保存完整。一端有穿孔"
+      },
+      {
+        "text": "刀",
+        "page": 32,
+        "source": "ocr",
+        "context": "米《〈图版一D，5上) 。\n\n(7) 小刀 1 (207), BRR. WH, A"
+      },
+      {
+        "text": "环",
+        "page": 32,
+        "source": "ocr",
+        "context": ".9厘米《图版一二，3) 。此外，还有钢环〈198、213 》 及铜饰品\n(212"
+      },
+      {
+        "text": "铜饰",
+        "page": 32,
+        "source": "ocr",
+        "context": "。此外，还有钢环〈198、213 》 及铜饰品\n(2125) HF, WRG, Mi"
+      },
+      {
+        "text": "环",
+        "page": 32,
+        "source": "ocr",
+        "context": "1) HW 1件〈134)。因锈蚀把手的环部已断折。 长20.5 厘米〔图版一二，"
+      },
+      {
+        "text": "刀",
+        "page": 33,
+        "source": "ocr",
+        "context": " HD 。\n除以上可看出器形者外，还有铁刀1件 C82), WAR He ERI "
+      },
+      {
+        "text": "杯",
+        "page": 33,
+        "source": "ocr",
+        "context": "而知。\n\nGO) EGS\n\n焉右器类仅玉杯一作属于容器，其余大都是装饰品。按质料分"
+      },
+      {
+        "text": "饰",
+        "page": 33,
+        "source": "ocr",
+        "context": "焉右器类仅玉杯一作属于容器，其余大都是装饰品。按质料分除有玉、石之外，尚\nATR "
+      },
+      {
+        "text": "杯",
+        "page": 33,
+        "source": "ocr",
+        "context": "140)，保存完整，造型、制作均很精美。杯作大口，下有假圈足。\n杯的口部内外有有人"
+      },
+      {
+        "text": "杯",
+        "page": 33,
+        "source": "ocr",
+        "context": "、制作均很精美。杯作大口，下有假圈足。\n杯的口部内外有有人金镶门滑一周，金滑寅0."
+      },
+      {
+        "text": "环",
+        "page": 33,
+        "source": "ocr",
+        "context": "180》 ，成一对，保存完整。白玉制成，环内平外圆，齐面\nSBA. AE2.2, "
+      },
+      {
+        "text": "环",
+        "page": 33,
+        "source": "ocr",
+        "context": "IE, AAEM, (MART, Ha\n环首，出土时在钢钉〈157)内。长4.4、"
+      },
+      {
+        "text": "饰",
+        "page": 33,
+        "source": "ocr",
+        "context": "MI, 1 第4行左1) 。\n\n8.玉人饰 3件 (225僻、加、@@) ，都是白"
+      },
+      {
+        "text": "钵",
+        "page": 34,
+        "source": "ocr",
+        "context": "玉珠“一申共14频〈158)，出土时在钢钵内。珠作扁贺形，中间穿一细孔，\n用铜丝谷"
+      },
+      {
+        "text": "饰",
+        "page": 34,
+        "source": "ocr",
+        "context": "毫米〈图版一D,1左) 。\n\n13。政垢饰 工件《216)，其中部为较细之园轴形，"
+      },
+      {
+        "text": "饰",
+        "page": 34,
+        "source": "ocr",
+        "context": "其中部为较细之园轴形，两端各一半球 形 饰。长2.2大\n米《图版一D，1右下) 。"
+      },
+      {
+        "text": "瓶",
+        "page": 34,
+        "source": "ocr",
+        "context": ".R. RUBLE, Jest.\n\n1,瓶，2件《119、12I) ，保存完整。 "
+      },
+      {
+        "text": "环",
+        "page": 34,
+        "source": "ocr",
+        "context": "，较\n大一端有一孔，大者《 122 ) 环绕洞孔 处 MUR GALE, AAI "
+      },
+      {
+        "text": "杯",
+        "page": 34,
+        "source": "ocr",
+        "context": "1厘米〈图版一四，1 、2) 。\n\n3.杯 2件〈175、176》，完整。175号"
+      },
+      {
+        "text": "杯",
+        "page": 34,
+        "source": "ocr",
+        "context": " 2件〈175、176》，完整。175号杯， AK, WE, A BIB, RAE"
+      },
+      {
+        "text": "杯",
+        "page": 34,
+        "source": "ocr",
+        "context": " 厘米〈图版一四，4 ) 。176 号\n杯，形制与前者同，仪腹之下部较前者略粗。杯"
+      },
+      {
+        "text": "杯",
+        "page": 34,
+        "source": "ocr",
+        "context": "杯，形制与前者同，仪腹之下部较前者略粗。杯呈带绿之淡蓝色，灶透明。尚 2.4、口\n"
+      },
+      {
+        "text": "杯",
+        "page": 34,
+        "source": "ocr",
+        "context": "1.3、厚0.2厘米〈图版一四，5)。二杯的质料不如瓶，但仍属玻\n现性。共形状与西"
+      },
+      {
+        "text": "瓶",
+        "page": 34,
+        "source": "ocr",
+        "context": ".2厘米〈图版一四，5)。二杯的质料不如瓶，但仍属玻\n现性。共形状与西安郭家滩隋姬"
+      },
+      {
+        "text": "杯",
+        "page": 34,
+        "source": "ocr",
+        "context": "性。共形状与西安郭家滩隋姬威莫所出之二料杯〈《文物》1959年 8 期封三，图4 "
+      },
+      {
+        "text": "泡",
+        "page": 35,
+        "source": "ocr",
+        "context": "，似杆形，另端已残。玻瑞呈黄色，有有小气泡。\n残长2.3奋米《图版~〇，1右上) "
+      },
+      {
+        "text": "饰",
+        "page": 35,
+        "source": "ocr",
+        "context": "，作宝珠形,下面已断,可能为其他器物之组饰。五\nBURSA, EPRAR—M, K"
+      },
+      {
+        "text": "铜镜",
+        "page": 36,
+        "source": "ocr",
+        "context": ")。出于石棺内北部钢洗 C161) 中的铜镜 (162) 之下，纸虽已\n柯残变质，但"
+      },
+      {
+        "text": "镜",
+        "page": 36,
+        "source": "ocr",
+        "context": "纹。纸上沾有钢锈。推测此纸可能是包执\n铀镜用的，以防钢镜磨抽。纸残长 6一 9 厘"
+      },
+      {
+        "text": "镜",
+        "page": 36,
+        "source": "ocr",
+        "context": "锈。推测此纸可能是包执\n铀镜用的，以防钢镜磨抽。纸残长 6一 9 厘米、线寅5.5"
+      },
+      {
+        "text": "饰",
+        "page": 37,
+        "source": "ocr",
+        "context": "，在中部比较靠近尖端处，有平行\n的紫色纹饰数道《图版二七，8 左) 。\n\n以上是全"
+      },
+      {
+        "text": "饰",
+        "page": 37,
+        "source": "ocr",
+        "context": "志盖打裂为四块。\n志盖为旺顶式，平迷无纹饰。盖上阳刻篆书“隋左光和禄大夫女墓志”九"
+      },
+      {
+        "text": "矛",
+        "page": 40,
+        "source": "ocr",
+        "context": "映了当财这种情况。大业年间，统治阶级内部矛盾和阶级斗争，日趋激化、李静训\n纸后六年"
+      },
+      {
+        "text": "镜",
+        "page": 44,
+        "source": "ocr",
+        "context": "(17)出在东召附近,其原来位置不详。钢镜1件(18)，\n出在蔓嵌近北克处，这显然"
+      },
+      {
+        "text": "饰",
+        "page": 44,
+        "source": "ocr",
+        "context": "土中出料珠 330 粒〈 04 ) 及石饰等多件，它们原来的位\nEME.\n\nHAR"
+      },
+      {
+        "text": "豆",
+        "page": 45,
+        "source": "ocr",
+        "context": "组为“音声队?”\n(骑马乐傅) 。\n\n西豆侈内放置陶俑及共他明器等基50件〈19一"
+      },
+      {
+        "text": "镜",
+        "page": 46,
+        "source": "ocr",
+        "context": ") ，出于21号\n马傅下边的洪土中。给、镜均很小，当是\nA) MENA LON R"
+      },
+      {
+        "text": "饰",
+        "page": 47,
+        "source": "ocr",
+        "context": "BEB\n\n随三器物有傅类,用只明器类和装饰品等十祭种。除330粒料珠之外,其它共1"
+      },
+      {
+        "text": "饰",
+        "page": 47,
+        "source": "ocr",
+        "context": "领下的两角作卷云形。册为辆黄色，胸部的纹饰及甲的周边\nSERORRGM. AVR "
+      },
+      {
+        "text": "饰",
+        "page": 47,
+        "source": "ocr",
+        "context": " 2; M-, 1). RAMs,\n其服饰形状等与 3A, FULT O AM t"
+      },
+      {
+        "text": "饰",
+        "page": 49,
+        "source": "ocr",
+        "context": "，仅头\n部有的向左篇，有的向右偏斜，而服饰及牵马的姿势等全部相问。 6 人循都是站"
+      },
+      {
+        "text": "饰",
+        "page": 49,
+        "source": "ocr",
+        "context": "\n件都是有须的老年胡俑。4 俑的形状和服饰等相同，全是头戴屿头，身着翻领窗袖的短\n"
+      },
+      {
+        "text": "饰",
+        "page": 49,
+        "source": "ocr",
+        "context": "B BH C15, 18) 上的查叶形装饰相同。从出土的这些实物来看，这6 件马俑"
+      },
+      {
+        "text": "饰",
+        "page": 49,
+        "source": "ocr",
+        "context": "足下无座，通身光消，颈间及胆的\n上部无毛饰。驼23，通身为白续二色币，驼背无任何装"
+      },
+      {
+        "text": "饰",
+        "page": 49,
+        "source": "ocr",
+        "context": "。驼23，通身为白续二色币，驼背无任何装饰〈图版五三，1》 . $425, 27\n"
+      },
+      {
+        "text": "饰",
+        "page": 50,
+        "source": "ocr",
+        "context": "质与\n狂同，为栓茧色釉陶，但表面光素无纹饰。高5厘米(图版五八，) 。\n\nS.2e"
+      },
+      {
+        "text": "饰",
+        "page": 51,
+        "source": "ocr",
+        "context": "A, 3).\n\n4,其他 此项有料珠、玉饰、钢镜和马饰品等\n\n《1) BR 共33"
+      },
+      {
+        "text": "镜",
+        "page": 51,
+        "source": "ocr",
+        "context": "3).\n\n4,其他 此项有料珠、玉饰、钢镜和马饰品等\n\n《1) BR 共330粒《"
+      },
+      {
+        "text": "饰",
+        "page": 51,
+        "source": "ocr",
+        "context": "\n\n4,其他 此项有料珠、玉饰、钢镜和马饰品等\n\n《1) BR 共330粒《04)"
+      },
+      {
+        "text": "镜",
+        "page": 51,
+        "source": "ocr",
+        "context": "C18) 。出于幕室底扰圭中，保存完整。镜的背面为浮起的“海\n兽葡萄纹”。镜的周边"
+      },
+      {
+        "text": "镜",
+        "page": 51,
+        "source": "ocr",
+        "context": "完整。镜的背面为浮起的“海\n兽葡萄纹”。镜的周边及中部各有巴校一岗，镜中心的组为一"
+      },
+      {
+        "text": "镜",
+        "page": 51,
+        "source": "ocr",
+        "context": "兽葡萄纹”。镜的周边及中部各有巴校一岗，镜中心的组为一优耻的怪兽。自纽至边缘\n花纹"
+      },
+      {
+        "text": "环",
+        "page": 51,
+        "source": "ocr",
+        "context": "一周为“海兽葡萄纹”，其中和六只“海曾”环绕着镜纽; 第\n二周为区萄纹间有岛、蝶:"
+      },
+      {
+        "text": "镜",
+        "page": 51,
+        "source": "ocr",
+        "context": "“海兽葡萄纹”，其中和六只“海曾”环绕着镜纽; 第\n二周为区萄纹间有岛、蝶:最外边"
+      },
+      {
+        "text": "镜",
+        "page": 51,
+        "source": "ocr",
+        "context": "区萄纹间有岛、蝶:最外边缘为宝相花一周。镜的直径16.9厘米(赂版六〇,1)。\n\n"
+      },
+      {
+        "text": "饰",
+        "page": 51,
+        "source": "ocr",
+        "context": ".9厘米(赂版六〇,1)。\n\nCAD 马饰品，“有钢铀、铜香、小铀环和北金的钢禁叶"
+      },
+      {
+        "text": "环",
+        "page": 51,
+        "source": "ocr",
+        "context": "\n\nCAD 马饰品，“有钢铀、铜香、小铀环和北金的钢禁叶形饰及银质的杏叶形饰物多\n"
+      },
+      {
+        "text": "饰",
+        "page": 51,
+        "source": "ocr",
+        "context": "，“有钢铀、铜香、小铀环和北金的钢禁叶形饰及银质的杏叶形饰物多\n件。\n\nPH ”3"
+      },
+      {
+        "text": "饰",
+        "page": 51,
+        "source": "ocr",
+        "context": "、小铀环和北金的钢禁叶形饰及银质的杏叶形饰物多\n件。\n\nPH ”3件。其由2 件 "
+      },
+      {
+        "text": "饰",
+        "page": 51,
+        "source": "ocr",
+        "context": "i, LAAT ER Rt ae eB\n饰，但多是碎片，无完整者。\n\n钢环 2H "
+      },
+      {
+        "text": "环",
+        "page": 51,
+        "source": "ocr",
+        "context": " eB\n饰，但多是碎片，无完整者。\n\n钢环 2H COIBD. 018D) 。这两"
+      },
+      {
+        "text": "环",
+        "page": 51,
+        "source": "ocr",
+        "context": "H COIBD. 018D) 。这两什钢环与可叶形银叶及六件大马 博同 出于一\n处"
+      },
+      {
+        "text": "饰",
+        "page": 51,
+        "source": "ocr",
+        "context": "\n六〇,2左上)。以上各器都总马铺上的装饰品，因你结的皮条《或绳类) 腐朽，而散落"
+      },
+      {
+        "text": "饰",
+        "page": 58,
+        "source": "ocr",
+        "context": "WED ，在冠的两侧各布一浮起的乌超形纹饰〈图版六四，2 、3 ) 。身着空宙深绿"
+      },
+      {
+        "text": "饰",
+        "page": 58,
+        "source": "ocr",
+        "context": "\n色神，长至腾间。两车各人有一凸起的入形饰，腕间各塞一简形袋，作为蒋的宽袖，但不\n"
+      },
+      {
+        "text": "饰",
+        "page": 58,
+        "source": "ocr",
+        "context": ")。质为红陶，袁而涂白衣一层，然后彩绘衣饰，亿\nBOHEME. Wik   REA"
+      },
+      {
+        "text": "饰",
+        "page": 59,
+        "source": "ocr",
+        "context": "明。四马均立十长方形座板上,它们原米可能饰有革带类的内络，\n但因离朽均已无在。这四"
+      },
+      {
+        "text": "饰",
+        "page": 59,
+        "source": "ocr",
+        "context": " RRA Ce BE Be. A Be 饰 ZA\n2E, BPE GD) 绘有红、"
+      },
+      {
+        "text": "饰",
+        "page": 59,
+        "source": "ocr",
+        "context": ", BPE GD) 绘有红、黑、白等色纹饰，较上绘有梅花形的花纹。马高91.3、\n"
+      },
+      {
+        "text": "饰",
+        "page": 59,
+        "source": "ocr",
+        "context": "〈图版六七，2 ) 。马俑17，无任何鸣饰，通身为信兰、白、黄等三色\n翘，但釉多已"
+      },
+      {
+        "text": "饰",
+        "page": 59,
+        "source": "ocr",
+        "context": "地上\n再绘以彩色花纹，因已脱落殖尽，其纹饰不详。鲍通商62厘米。\n\n除陶租之外，尚"
+      },
+      {
+        "text": "饰",
+        "page": 59,
+        "source": "ocr",
+        "context": "Z, ERR AR LMA. BE\n\n铅饰品三种\n\nC1) 开元通宝钱 ”长12枚"
+      },
+      {
+        "text": "饰",
+        "page": 60,
+        "source": "ocr",
+        "context": "OEE, BW AMM” 2\n盖四边无纹饰《图二八》。\n\nBHA, Ky ROT "
+      },
+      {
+        "text": "饰",
+        "page": 65,
+        "source": "ocr",
+        "context": "白粉为地，然后于白地之上再绘以各色衣服纹饰，但颜色多已剥落，仅留下\nHE. KR,"
+      },
+      {
+        "text": "豆",
+        "page": 70,
+        "source": "ocr",
+        "context": "及猪、羊、鸡等俏，均出于西侧南边的一个人豆侈由。北边的两个鉴完内未\n出任何器物，仅"
+      },
+      {
+        "text": "环",
+        "page": 71,
+        "source": "ocr",
+        "context": "，星系带，足着革。傅4双手拱举，依5双手环焉腹下。头餐戴性头,束发于项上,侣\nKi"
+      },
+      {
+        "text": "盘",
+        "page": 71,
+        "source": "ocr",
+        "context": "RA, EM. 8 之衣为绿地白花，手持盘，\n盘内盛桃形物。高45.3应米〈图版作"
+      },
+      {
+        "text": "盘",
+        "page": 71,
+        "source": "ocr",
+        "context": " EM. 8 之衣为绿地白花，手持盘，\n盘内盛桃形物。高45.3应米〈图版作品，1"
+      },
+      {
+        "text": "饰",
+        "page": 72,
+        "source": "ocr",
+        "context": "坐马\n上，两手前举作执击状，乐器已失。服饰与上述乐 傅柑同〔图版人三，1 ) 。 "
+      },
+      {
+        "text": "饰",
+        "page": 74,
+        "source": "ocr",
+        "context": " 唐长安城郊隋唐莫\n\n航、有相同，皮带上饰以黄色花休，并在额上和鼻上各研一可时形的"
+      },
+      {
+        "text": "饰",
+        "page": 74,
+        "source": "ocr",
+        "context": "黄色花休，并在额上和鼻上各研一可时形的垂饰。马头徽向左\n侧祝，其形态非常生动。高5"
+      },
+      {
+        "text": "饰",
+        "page": 74,
+        "source": "ocr",
+        "context": "一对，马身全白，炎上蕴有三花。马的较惑装饰较前述 二马 更 为华\n丽，马鞍上披着深"
+      },
+      {
+        "text": "饰",
+        "page": 74,
+        "source": "ocr",
+        "context": "绒竿状“幢泥”，两侧长垂至夏下。头上的状饰和上述二马大体\n相同，惟额上少一可时形的"
+      },
+      {
+        "text": "饰",
+        "page": 74,
+        "source": "ocr",
+        "context": "上述二马大体\n相同，惟额上少一可时形的生饰，但于两耳下的络避上各夭可叶形垂饰一枚。"
+      },
+      {
+        "text": "饰",
+        "page": 74,
+        "source": "ocr",
+        "context": "形的生饰，但于两耳下的络避上各夭可叶形垂饰一枚。额顶上总\n立一继形饰，是前马所没有"
+      },
+      {
+        "text": "饰",
+        "page": 74,
+        "source": "ocr",
+        "context": "上各夭可叶形垂饰一枚。额顶上总\n立一继形饰，是前马所没有的。胸前股后也都络以雏和攻"
+      },
+      {
+        "text": "饰",
+        "page": 74,
+        "source": "ocr",
+        "context": "雏和攻等皮带，带全为绿色。胸前的\n带上人饰有黄色小铃〈金铃) ，在各金竹之问并饰有"
+      },
+      {
+        "text": "铃",
+        "page": 74,
+        "source": "ocr",
+        "context": "带，带全为绿色。胸前的\n带上人饰有黄色小铃〈金铃) ，在各金竹之问并饰有带黄点的蓝"
+      },
+      {
+        "text": "铃",
+        "page": 74,
+        "source": "ocr",
+        "context": "全为绿色。胸前的\n带上人饰有黄色小铃〈金铃) ，在各金竹之问并饰有带黄点的蓝色流苏"
+      },
+      {
+        "text": "饰",
+        "page": 74,
+        "source": "ocr",
+        "context": "人饰有黄色小铃〈金铃) ，在各金竹之问并饰有带黄点的蓝色流苏。后哦于两侧各作\n查叶"
+      },
+      {
+        "text": "饰",
+        "page": 74,
+        "source": "ocr",
+        "context": "黄点的蓝色流苏。后哦于两侧各作\n查叶形垂饰五枚,贡带交结于房上, 交结处饰有可时形"
+      },
+      {
+        "text": "饰",
+        "page": 74,
+        "source": "ocr",
+        "context": "查叶形垂饰五枚,贡带交结于房上, 交结处饰有可时形垂饰四枚。马头癌左侧视，形态生\n"
+      },
+      {
+        "text": "饰",
+        "page": 74,
+        "source": "ocr",
+        "context": "枚,贡带交结于房上, 交结处饰有可时形垂饰四枚。马头癌左侧视，形态生\n动，像这样梢"
+      },
+      {
+        "text": "饰",
+        "page": 74,
+        "source": "ocr",
+        "context": "其形状相同，均立于长方形\n座上，无任何装饰，商度也相同，均为f.2原米〈图版八刀，"
+      },
+      {
+        "text": "刀",
+        "page": 74,
+        "source": "ocr",
+        "context": "装饰，商度也相同，均为f.2原米〈图版八刀，1) 。\n\n14, AVSEAM JE"
+      },
+      {
+        "text": "饰",
+        "page": 74,
+        "source": "ocr",
+        "context": "E (93-102) 。红陶质，无任何装饰。形状、大小等略有不同，\n最高18.3、"
+      },
+      {
+        "text": "刀",
+        "page": 74,
+        "source": "ocr",
+        "context": " 俩\n很多，起上上时大都破碎失散《图版八刀， 3 ) 。\n\n以上120件全系傅类，"
+      },
+      {
+        "text": "盘",
+        "page": 77,
+        "source": "ocr",
+        "context": "淤上，淤士厚达7米多。将淇土\n清除后，于盘室的西侧露出石樟一座〈图版刀口，2 ) "
+      },
+      {
+        "text": "刀",
+        "page": 77,
+        "source": "ocr",
+        "context": "\n清除后，于盘室的西侧露出石樟一座〈图版刀口，2 ) ，在棕站上面西北角处《图版九"
+      },
+      {
+        "text": "饰",
+        "page": 87,
+        "source": "ocr",
+        "context": ".75 ，\n\n娩刻瓦当等装饰\n\n看樟内四壁，除东壁之外，北西南三商的"
+      },
+      {
+        "text": "饰",
+        "page": 87,
+        "source": "ocr",
+        "context": "8是米。在像的周围并刻有莲花、卷草等\n纹饰。\n\n(三》随非器物\n\n在五座店幕中，随"
+      },
+      {
+        "text": "饰",
+        "page": 87,
+        "source": "ocr",
+        "context": "他\n器物出土很少，仪有工作白瓷缸和数件玉饰残\n六。从此警规模之大陶销数量之多等特点"
+      },
+      {
+        "text": "刀",
+        "page": 87,
+        "source": "ocr",
+        "context": "Ae RE ALA S11. 7) 〈横刀? )1、\nSRS 1 CAMILA)."
+      },
+      {
+        "text": "刀",
+        "page": 88,
+        "source": "ocr",
+        "context": "以黑线勾绘，地贴金《必四九，6 ) 。变刀之精\nBRAUER, HEM ee AU"
+      },
+      {
+        "text": "饰",
+        "page": 88,
+        "source": "ocr",
+        "context": "戴峡头，惟后面两脚折系于右上方，此外\n服饰等与倘4全同。这一有刻傅的脸型绞团，背略"
+      },
+      {
+        "text": "刀",
+        "page": 91,
+        "source": "ocr",
+        "context": "委类，已腐朽不在。俑残高52厘米《〈图版刀七，1)。\n(1020, 2&—- BM"
+      },
+      {
+        "text": "尊",
+        "page": 91,
+        "source": "ocr",
+        "context": "》中所载的“总山冒”。俏身车改领袍，外著尊襟。体型高大，效高67理米〔〈图版\n九七"
+      },
+      {
+        "text": "饰",
+        "page": 92,
+        "source": "ocr",
+        "context": "能安于洒\n杆之上) ，均为含模制。未着衣饰，可能原来其有续组类制的胡饰，因腐朽均不"
+      },
+      {
+        "text": "饰",
+        "page": 92,
+        "source": "ocr",
+        "context": "模制。未着衣饰，可能原来其有续组类制的胡饰，因腐朽均不任。这\n群半身女傅的形像大体"
+      },
+      {
+        "text": "盘",
+        "page": 92,
+        "source": "ocr",
+        "context": "\n\n发分梳于两出，在两征问各梳一下垂的登盘，紧地两壮〈图五一，1 》 。这种形式\n"
+      },
+      {
+        "text": "饰",
+        "page": 94,
+        "source": "ocr",
+        "context": "ey\n等色的花纹，野上上并贴\n”金，其装饰较前述各帝\nZR He\n3.其他\nWis"
+      },
+      {
+        "text": "饰",
+        "page": 95,
+        "source": "ocr",
+        "context": "\n\n志盖为最顶式，四杀刻“四神”象，并人饰以卷草流云以。顶部四周刻卷草流云纹，\n中"
+      },
+      {
+        "text": "饰",
+        "page": 95,
+        "source": "ocr",
+        "context": "公志铬”十二字〈图五三) 。志苦四边无纹饰。\n\n志近方形，长88、宽86厘米。志石"
+      },
+      {
+        "text": "饰",
+        "page": 99,
+        "source": "ocr",
+        "context": ". HRS, tbe 研\n帘唐代兵器和服饰的绝好参考资料。\n\nARM. APSR,"
+      },
+      {
+        "text": "铜镜",
+        "page": 172,
+        "source": "ocr",
+        "context": "LX)\n\n2网愉、久及银桔叶形马你等\n\n铜镜及其他\n"
+      }
+    ],
+    "遗址名称": [
+      {
+        "text": "长安",
+        "page": 13,
+        "source": "ocr",
+        "context": "在这里建都。了、册的首都，世界历史名城一长安，即建于今西安市\n区所在地。这里不仅是当"
+      },
+      {
+        "text": "唐长安",
+        "page": 13,
+        "source": "ocr",
+        "context": "附近《疼一》、其地处于隋代首都大兴城〔即唐长安城) 体\n社遇万善尼地之内。蓝证是一年仅"
+      },
+      {
+        "text": "长安",
+        "page": 14,
+        "source": "ocr",
+        "context": "与元碟合\n幕一募〈元氏卒于仪凰二年) ，长安三年复与元氏迁昔于独孤氏之祖荃。杨氏卒于"
+      },
+      {
+        "text": "长安",
+        "page": 18,
+        "source": "ocr",
+        "context": "证长安城郊隋唐墓\n\n12 Ra EE AR ”"
+      },
+      {
+        "text": "壁画",
+        "page": 21,
+        "source": "ocr",
+        "context": " A SMR.\n\n石棺里面四周内辟都绘有壁画，是先用白粉或石灰之类在内壁的表面粉刷一"
+      },
+      {
+        "text": "安阳",
+        "page": 24,
+        "source": "ocr",
+        "context": ")》 。此俑蹈坐的形式和所执之答，与河南安阳隋开皇十四\nAEE RIT MAR AL"
+      },
+      {
+        "text": "唐长安",
+        "page": 32,
+        "source": "ocr",
+        "context": "                    唐长安城郊防店划\n\n(1) 1% Geb, s"
+      },
+      {
+        "text": "长安",
+        "page": 37,
+        "source": "ocr",
+        "context": "集\n成层十二片已实朔十二日庚申，康于京兆长安县休祥里万善道场之内。即于坟\nLM HA"
+      },
+      {
+        "text": "宣帝",
+        "page": 38,
+        "source": "ocr",
+        "context": "IA) . a CER) BOs 尽为网宣帝之女字文\n\nWE. APUG, WEA "
+      },
+      {
+        "text": "洛阳",
+        "page": 53,
+        "source": "ocr",
+        "context": "E AR EE\n\n五韦思贞，宁思丰，河南洛阳人也。木姓刘氏，蕉先出白汉沛献 王。 泊"
+      },
+      {
+        "text": "洛阳",
+        "page": 62,
+        "source": "ocr",
+        "context": "B ERIE\n\nRE OA 姓元氏，河南洛阳至〈人) ,魏诏成皇帝之后也。昔轩辕伯齐"
+      },
+      {
+        "text": "长安",
+        "page": 64,
+        "source": "ocr",
+        "context": "才， 声氏是独\n扳总化的继室，与苞氏同调长安三年二月十七日菲十钢人原。\n\nCS OC"
+      },
+      {
+        "text": "长安",
+        "page": 68,
+        "source": "ocr",
+        "context": "载杨氏识于重拱三年〈公元687年) ，子长安三年〈公元703年) 和元氏同时迁磊\n于"
+      },
+      {
+        "text": "长安",
+        "page": 68,
+        "source": "ocr",
+        "context": "河, By Mb Hh eH, 为上唐代长安城之西郊所在地 (图一》。此幕曾遗族据破"
+      },
+      {
+        "text": "唐长安",
+        "page": 74,
+        "source": "ocr",
+        "context": "                    唐长安城郊隋唐莫\n\n航、有相同，皮带上饰以黄色"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": "50米",
+        "page": 15,
+        "source": "ocr",
+        "context": "蓝的位置，在今西安市玉祥门外西站大街南约50米处《图一)。据幕志称，此莫\nTAM HE"
+      },
+      {
+        "text": " 22米",
+        "page": 15,
+        "source": "ocr",
+        "context": " EI PH A ER\n存的长宽50 x 22米，当是一座建筑物的遗过。幕志称:\n“即于"
+      },
+      {
+        "text": "\n0.6 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "挖掉，其形制不得而知。从现在地表向下控进\n0.6 米,便露出墓室,幕道所填的五花夯士和四局围"
+      },
+      {
+        "text": "85 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "5,\n蔓室处寅1.6，系斜坡式，长 6-85 米。填土经过夯筑，\n夯层厚8 一15 厘米"
+      },
+      {
+        "text": "15 厘米",
+        "page": 15,
+        "source": "ocr",
+        "context": "-85 米。填土经过夯筑，\n夯层厚8 一15 厘米不等。 夯士内夹杂有汉代万 片，近\n墓室"
+      },
+      {
+        "text": "3 厘米",
+        "page": 16,
+        "source": "ocr",
+        "context": ", 470, B26—35, MF 2—3 厘米。这\nMERE LIOUS, NPHAS"
+      },
+      {
+        "text": "               50m",
+        "page": 16,
+        "source": "ocr",
+        "context": "A 10RD ORT 11 NOE\n\n站               50mK\n一一一一一\n"
+      },
+      {
+        "text": "长1.5米",
+        "page": 19,
+        "source": "ocr",
+        "context": "ee\n作粗糙,未经细致加工。樟底由三块各长1.5米的长方形石板拼成，通长2.63、寅1.5"
+      },
+      {
+        "text": "\n0.18米",
+        "page": 19,
+        "source": "ocr",
+        "context": "方形石板拼成，通长2.63、寅1.5、厚\n0.18米。四周有长方形的卯眼10个,以容纳神壁石"
+      },
+      {
+        "text": "2厘米",
+        "page": 19,
+        "source": "ocr",
+        "context": "长和底部相等,宽度较底部东西两侧各缩进约2厘米。这10块乒板每块商1.27、厚0.14"
+      },
+      {
+        "text": "\n0.15米",
+        "page": 19,
+        "source": "ocr",
+        "context": "这10块乒板每块商1.27、厚0.14一\n0.15米-各石间的砌颖没有检卯结构,但和底部相接"
+      },
+      {
+        "text": "10厘米",
+        "page": 19,
+        "source": "ocr",
+        "context": "拭成,盖\n的四边宽出樟获,宽出的尺寸6一10厘米不等。盖通长2.74、宽1.54、厚0."
+      },
+      {
+        "text": "0.16米",
+        "page": 19,
+        "source": "ocr",
+        "context": "厘米不等。盖通长2.74、宽1.54、厚0.16米。这4块石板\n大部分痢已断裂。其中南端的"
+      },
+      {
+        "text": " 2 厘米",
+        "page": 20,
+        "source": "ocr",
+        "context": "E” 12-13, PAIRS. BEE 2 厘米《图版七，2》 。迷内长宽为1.6x 0"
+      },
+      {
+        "text": "57\n米",
+        "page": 20,
+        "source": "ocr",
+        "context": "图版七，2》 。迷内长宽为1.6x 0,57\n米。四鉴距内底各有1.5一2厘米的颖。杭盖"
+      },
+      {
+        "text": "2厘米",
+        "page": 20,
+        "source": "ocr",
+        "context": "x 0,57\n米。四鉴距内底各有1.5一2厘米的颖。杭盖由一块整石雕刻成九将昭堂式屋硕"
+      },
+      {
+        "text": "1.04米",
+        "page": 20,
+        "source": "ocr",
+        "context": "九将昭堂式屋硕-次的长、\n宽为2.31x1.04米，帮在术身上面，四边宽出格身，形成星栓。"
+      },
+      {
+        "text": "宽50厘米",
+        "page": 20,
+        "source": "ocr",
+        "context": "的西豆是-:问 Be 党的\n正面，当心闻宽50厘米，两次间各宽45趾米。石慨上雕刻出大门一"
+      },
+      {
+        "text": "宽15厘米",
+        "page": 20,
+        "source": "ocr",
+        "context": "、宽30王米。为关闭善的板\n门两扇，委剧宽15厘米，各有门负五路，每路五休，但中央近门乡处"
+      },
+      {
+        "text": "宽4 厘米",
+        "page": 20,
+        "source": "ocr",
+        "context": "所规代，所以每剧仅有24行。门的两侧刻有宽4 厘米的门柜住，上有 5.5 厘米\nFE TB"
+      },
+      {
+        "text": " 5.5 厘米",
+        "page": 20,
+        "source": "ocr",
+        "context": "行。门的两侧刻有宽4 厘米的门柜住，上有 5.5 厘米\nFE TB Ailes Ke EAN "
+      },
+      {
+        "text": "48厘米",
+        "page": 20,
+        "source": "ocr",
+        "context": "= AH. (3 》方柱。方柱四根\n高，48厘米，凸出墙面 2.5 厘米。当心间的两\n柱"
+      },
+      {
+        "text": " 2.5 厘米",
+        "page": 20,
+        "source": "ocr",
+        "context": "》方柱。方柱四根\n高，48厘米，凸出墙面 2.5 厘米。当心间的两\n柱宽 11 原米，两次间外"
+      },
+      {
+        "text": "高 8 厘米",
+        "page": 20,
+        "source": "ocr",
+        "context": "14 BOR.\n柱头上想斗宽10一19、高 8 厘米。术斗上置泥\n道构，但无散斗，实际上就是"
+      },
+      {
+        "text": "宽14厘米",
+        "page": 20,
+        "source": "ocr",
+        "context": " LR CB\n头，华棋? ) ，高8 、宽14厘米。每间的正中\n又各阴刻人字典一，上承一散"
+      },
+      {
+        "text": "通高33.5厘米",
+        "page": 22,
+        "source": "ocr",
+        "context": "AA RR. 44 TS\n34、52苇傅通高33.5厘米〈图版二〇) 。\n\n这两件武士傅的形象."
+      },
+      {
+        "text": " 18 厘米",
+        "page": 23,
+        "source": "ocr",
+        "context": "R ME, SH, RE LRA. WH 18 厘米〈图   =, 8) 6 6,\n30, "
+      },
+      {
+        "text": "通高19.5厘米",
+        "page": 23,
+        "source": "ocr",
+        "context": "AB fw\n迹，须部较前述各俑更各前伸。通高19.5厘米《图版二二，2 ) » 55, 65, "
+      },
+      {
+        "text": "高10厘米",
+        "page": 24,
+        "source": "ocr",
+        "context": "原，高10厘米《图版二四，1 )》 。此俑蹈坐的形式和"
+      },
+      {
+        "text": "长28厘米",
+        "page": 24,
+        "source": "ocr",
+        "context": "足直立于长方形板座上，作昂首状。尚18、长28厘米《图版二四， 5). esses\n成一对"
+      },
+      {
+        "text": "长12.5厘米",
+        "page": 24,
+        "source": "ocr",
+        "context": "直立，有长方形板座，形象简单。高9.8、长12.5厘米( 图版二\n四，9) 。\n\n《3) Ef"
+      },
+      {
+        "text": "长8.5厘米",
+        "page": 24,
+        "source": "ocr",
+        "context": "状,造型粗糙,仅具轮廓而已。高\n7,3、长8.5厘米《图版二四，8 ) 。\n\n(4) Mf "
+      },
+      {
+        "text": "长12.5厘米",
+        "page": 24,
+        "source": "ocr",
+        "context": "乳，另一小猪\n伏于大猪身上，形状颇生动。长12.5厘米〈图二四， 3) 。91号俑伏地作卧次，"
+      },
+      {
+        "text": "长8厘米",
+        "page": 24,
+        "source": "ocr",
+        "context": "(46、60) 。 商先长尾。高8.5、长8厘米〈图版二五，\n2) 。\n\nCT) 鸭傅 "
+      },
+      {
+        "text": "0.7 厘米",
+        "page": 24,
+        "source": "ocr",
+        "context": ". HO. 、长11、项宽7.3 、壁厚0.7 厘米\n《图版二五，5) 。27号陶尾较 2 "
+      },
+      {
+        "text": "1.2厘米",
+        "page": 24,
+        "source": "ocr",
+        "context": "同，商 11.5 、项宽\n10.8、壁厚1.2厘米《图版二五，4 )。\n\nC2) PORE"
+      },
+      {
+        "text": "直径9.8厘米",
+        "page": 24,
+        "source": "ocr",
+        "context": "座结合在一起。高 5 、磨直径7 、研座直径9.8厘米〔图版二五， 9 )。\n\n"
+      },
+      {
+        "text": " 0.7 厘米",
+        "page": 26,
+        "source": "ocr",
+        "context": "内\n逢8.5、腹径16、底径9.4、壁厚 0.7 厘米【图版一六，8 ) 0 HOME RSA"
+      },
+      {
+        "text": "底径 8.8 厘米",
+        "page": 26,
+        "source": "ocr",
+        "context": "5, AE 9.3, BPE 14,6、底径 8.8 厘米《图版一人，4 ) 。\n\nSOS, HA"
+      },
+      {
+        "text": " 11.5 厘米",
+        "page": 27,
+        "source": "ocr",
+        "context": " WEPEL.9. 210.9, BER 11.5 厘米〈图版一五，4 ) 。\n\n(2) Heb"
+      },
+      {
+        "text": " 2 厘米",
+        "page": 27,
+        "source": "ocr",
+        "context": " .2, RI, Be\n0.4, fii 2 厘米图版一七， 3 )。\n\n《3 》青密平底"
+      },
+      {
+        "text": "底径6.7厘米",
+        "page": 27,
+        "source": "ocr",
+        "context": "故其色也较深。\n器商7.6、口谷2.6、底径6.7厘米《图版一六，2 ) 。\n\n4.冤瓶 ”共"
+      },
+      {
+        "text": "0.5厘米",
+        "page": 27,
+        "source": "ocr",
+        "context": " .7\\底长径3.9、底短径2.2、壁原0.5厘米《图版\n一仆，1) 。 瓶的造型新颖，附"
+      },
+      {
+        "text": "10.7厘米",
+        "page": 28,
+        "source": "ocr",
+        "context": "2.7、口径12.3、腹径21.5、研径10.7厘米《图版一入，1 ) o ME —\nRR,"
+      },
+      {
+        "text": "底径1.2厘米",
+        "page": 28,
+        "source": "ocr",
+        "context": "制痕迹。 CORRS. NB\n10.5、底径1.2厘米《〈图版一九，5》。\n\nSv ”2件 1"
+      },
+      {
+        "text": "04 厘米",
+        "page": 28,
+        "source": "ocr",
+        "context": "9. B25, MR 4. 1.2, M04 厘米。184 SHH 4.7. AE\n2.5"
+      },
+      {
+        "text": "0.4厘米",
+        "page": 30,
+        "source": "ocr",
+        "context": "，其中加高0,6 、长 径\n0.7、短径0.4厘米。四商0.9、长径0.65、短径0.4厦"
+      },
+      {
+        "text": "0.4厘米",
+        "page": 31,
+        "source": "ocr",
+        "context": "，前端作成一局平匀形。长\n29.5、点答0.4厘米〈风版一二，4) 。\n\n(sd    1"
+      },
+      {
+        "text": "底径1.9厘米",
+        "page": 31,
+        "source": "ocr",
+        "context": "，坊之一端有立耳，另端对称处有一环。炉\n底径1.9厘米《〈图版一一，3) 。\n\nC7) 银盘 "
+      },
+      {
+        "text": "0.1厘米",
+        "page": 31,
+        "source": "ocr",
+        "context": "MO 1a (229号)。直径2.6、厚0.1厘米，重最 3,7 克。它与\n银指中套等一同"
+      },
+      {
+        "text": "0.3厘米",
+        "page": 32,
+        "source": "ocr",
+        "context": " 1 dP4E23,8 WESLEY\n厚0.3厘米〈图版一三，2 ) 。\n\n(2) % 工"
+      },
+      {
+        "text": "0.1厘米",
+        "page": 32,
+        "source": "ocr",
+        "context": "里尼绿锈。高6.5、\n口外径20.5、厚0.1厘米《图版一三，4 》。\n\nC8) BE 【"
+      },
+      {
+        "text": "0.2厘米",
+        "page": 32,
+        "source": "ocr",
+        "context": "。镜径16、纪径2.2、边厚0.7、镜厚0.2厘米〈图版一二，1) 。\n\n(4) 3b 2"
+      },
+      {
+        "text": "长0.5厘米",
+        "page": 32,
+        "source": "ocr",
+        "context": "KHURRADSHA, B16. AW\n长0.5厘米《〈图版一D，5上) 。\n\n(7) 小刀"
+      },
+      {
+        "text": "2 厘米",
+        "page": 32,
+        "source": "ocr",
+        "context": " HH 28 《181) 、二枚为 2,2 厘米,郭、穿相同，都是\n郭宽0.2、你径0."
+      },
+      {
+        "text": "0.9厘米",
+        "page": 32,
+        "source": "ocr",
+        "context": "厘米,郭、穿相同，都是\n郭宽0.2、你径0.9厘米《图版一二，3) 。此外，还有钢环〈19"
+      },
+      {
+        "text": "长20.5 厘米",
+        "page": 32,
+        "source": "ocr",
+        "context": "件〈134)。因锈蚀把手的环部已断折。 长20.5 厘米〔图版一二，\n2) 。\n\n(2) Ht "
+      },
+      {
+        "text": "宽0.6厘米",
+        "page": 33,
+        "source": "ocr",
+        "context": "首，出土时在钢钉〈157)内。长4.4、宽0.6厘米《图版九，芋第5行左) 。\n\nSAR 8"
+      },
+      {
+        "text": "0.4厘米",
+        "page": 33,
+        "source": "ocr",
+        "context": "6.8、上端寅1.5、下端宽1.0、铀径0.4厘米《图版秘，\n1在下) 。\n\nSCARAB"
+      },
+      {
+        "text": "0.2m",
+        "page": 33,
+        "source": "ocr",
+        "context": ". M04 BE\nKe FK2.2, B0.2m kK. SOMA MOR, ABU A"
+      },
+      {
+        "text": "宽1厘米",
+        "page": 34,
+        "source": "ocr",
+        "context": "体透明。珠呈楼形，真窗一紧孔。长1.2\\宽1厘米。\n\n12, 玛玉珠“一申共14频〈15"
+      },
+      {
+        "text": "9.5毫米",
+        "page": 34,
+        "source": "ocr",
+        "context": "制作粗糙，每颗直径11一12.5、厚8一9.5毫米〈图版一D,1左) 。\n\n13。政垢饰 "
+      },
+      {
+        "text": " 1.2 厘米",
+        "page": 34,
+        "source": "ocr",
+        "context": "肩以下微向内收至底。平底，底之中部有一径 1.2 厘米之四\n窝，深入0.2厘米。玻现绿色，出土"
+      },
+      {
+        "text": "0.2厘米",
+        "page": 34,
+        "source": "ocr",
+        "context": "之中部有一径 1.2 厘米之四\n窝，深入0.2厘米。玻现绿色，出土时内抵有液体。高16.3"
+      },
+      {
+        "text": "底径\n5.6厘米",
+        "page": 34,
+        "source": "ocr",
+        "context": "高16.3、口径2.8、腹径 9.8 、底径\n5.6厘米《图版一四，7 ) . 121K, OP"
+      },
+      {
+        "text": "高0.9厘米",
+        "page": 34,
+        "source": "ocr",
+        "context": "7.6，底径，长径7.3、短径4.5，足高0.9厘米〈图版一四，6 ) 。\n\n2.蛋形器 2"
+      },
+      {
+        "text": "0.1厘米",
+        "page": 34,
+        "source": "ocr",
+        "context": "\n为绿色。大者长径6,3、短径4.7、厚0.1厘米，孔略呈三角形,孔径0,4厘米。小者(1"
+      },
+      {
+        "text": "4厘米",
+        "page": 34,
+        "source": "ocr",
+        "context": "7、厚0.1厘米，孔略呈三角形,孔径0,4厘米。小者(170)\n长径5.1、短径3.8"
+      },
+      {
+        "text": "0.1厘米",
+        "page": 34,
+        "source": "ocr",
+        "context": "170)\n长径5.1、短径3.8、和孔径0.1厘米〈图版一四，1 、2) 。\n\n3.杯 2"
+      },
+      {
+        "text": " 0.2 厘米",
+        "page": 34,
+        "source": "ocr",
+        "context": "、口径2.8、腹径2.7、底径1.3、厚 0.2 厘米〈图版一四，4 ) 。176 号\n杯，形"
+      },
+      {
+        "text": "0.2厘米",
+        "page": 34,
+        "source": "ocr",
+        "context": "口\n径2.8、腹从2.6、底径1.3、厚0.2厘米〈图版一四，5)。二杯的质料不如瓶，但仍"
+      },
+      {
+        "text": "0.55厘米",
+        "page": 35,
+        "source": "ocr",
+        "context": " RKO.) .孔径:\n大端0.7、小端0.55厘米【几版一四，8 ) 。\n\n6.杜形器 工"
+      },
+      {
+        "text": "0.8\n厘米",
+        "page": 35,
+        "source": "ocr",
+        "context": "坚空一孔。长1.3一1.5、腹径0.7一0.8\n厘米〔〈图版一人，1 中下) 。\n\n(8) "
+      },
+      {
+        "text": "3 厘米",
+        "page": 35,
+        "source": "ocr",
+        "context": "Pea, ARUN. 20.7, 16-3 厘米〈图版二七，6 ) 。\n\n(2) Ht "
+      },
+      {
+        "text": "宽4.5\n厘米",
+        "page": 35,
+        "source": "ocr",
+        "context": "梳此长而细密，梳背呈 半月形。残长6 、宽4.5\n厘米(图版二七，了中)。\n\n(2) Ai L"
+      },
+      {
+        "text": "宽8.5厘米",
+        "page": 35,
+        "source": "ocr",
+        "context": "宽 5.8 Bk, BBR AS\n11、宽8.5厘米，股及齐部残片长14、宽6.5厘米《〈图"
+      },
+      {
+        "text": "宽6.5厘米",
+        "page": 35,
+        "source": "ocr",
+        "context": "11、宽8.5厘米，股及齐部残片长14、宽6.5厘米《〈图版二七，3 ) o HSN ARA"
+      },
+      {
+        "text": "底径7 厘米",
+        "page": 36,
+        "source": "ocr",
+        "context": "Ph ES\n\n底。残高1.9、腹径7 、底径7 厘米【图版二七， 1 ) 。117四号盒，出"
+      },
+      {
+        "text": "长70厘米",
+        "page": 36,
+        "source": "ocr",
+        "context": "织\n物虽已残档，但可在出是乔成长方形的，长70厘米、宽26一35厘米、施3一5奈米〈图版\n"
+      },
+      {
+        "text": "35厘米",
+        "page": 36,
+        "source": "ocr",
+        "context": "在出是乔成长方形的，长70厘米、宽26一35厘米、施3一5奈米〈图版\n二六，)》 。由于"
+      },
+      {
+        "text": "宽4 厘米",
+        "page": 36,
+        "source": "ocr",
+        "context": ",带的中部织财花数组。带残长12,5、\n宽4 厘米(图版二入,4左) 。\n\n3.丝织品 2"
+      },
+      {
+        "text": " 9 厘米",
+        "page": 36,
+        "source": "ocr",
+        "context": "执\n铀镜用的，以防钢镜磨抽。纸残长 6一 9 厘米、线寅5.5理米《图版二七，2 )。\n\n"
+      },
+      {
+        "text": "39.4厘米",
+        "page": 37,
+        "source": "ocr",
+        "context": "字【图一\n四) 。\n志石为方形，长、宽红39.4厘米。志石刻栏，志文档节，世20行，每行20"
+      },
+      {
+        "text": "长23.6米",
+        "page": 43,
+        "source": "ocr",
+        "context": "隧道两部分，其北端与币道相接成一直线，全长23.6米。\n蔓道的入口《印竖并部分) 在墓道的南"
+      },
+      {
+        "text": "长8.5米",
+        "page": 43,
+        "source": "ocr",
+        "context": "蔓道的入口《印竖并部分) 在墓道的南端，长8.5米，宽1.67米，其上口(即当时地面>\n下"
+      },
+      {
+        "text": "宽1.67米",
+        "page": 43,
+        "source": "ocr",
+        "context": "印竖并部分) 在墓道的南端，长8.5米，宽1.67米，其上口(即当时地面>\n下观在地才0.8"
+      },
+      {
+        "text": "0.8米",
+        "page": 43,
+        "source": "ocr",
+        "context": "67米，其上口(即当时地面>\n下观在地才0.8米-出幕道口〈些并?的北端癌北至币道南H长"
+      },
+      {
+        "text": "长15.1米",
+        "page": 43,
+        "source": "ocr",
+        "context": "米-出幕道口〈些并?的北端癌北至币道南H长15.1米的一段为隧道,隘道\n旺拱券形，高1.7米"
+      },
+      {
+        "text": "高1.7米",
+        "page": 43,
+        "source": "ocr",
+        "context": "15.1米的一段为隧道,隘道\n旺拱券形，高1.7米左右，宽1.67米。蓝道底距现在地表: "
+      },
+      {
+        "text": "宽1.67米",
+        "page": 43,
+        "source": "ocr",
+        "context": "为隧道,隘道\n旺拱券形，高1.7米左右，宽1.67米。蓝道底距现在地表: 南端为1.6、北端"
+      },
+      {
+        "text": "38米",
+        "page": 43,
+        "source": "ocr",
+        "context": "底距现在地表: 南端为1.6、北端10,38米,时\n南尚北低为22度的天坡形〈疼一七，"
+      },
+      {
+        "text": "1.55米",
+        "page": 43,
+        "source": "ocr",
+        "context": "1.34、1,65、1.55、1.80、1.55米，\n各天井的距离由南向北为1.45、1."
+      },
+      {
+        "text": "1.50米",
+        "page": 43,
+        "source": "ocr",
+        "context": "南向北为1.45、1.35、1.30、!1.50米。东西的宽度人致 相同，均为1.7\nRR"
+      },
+      {
+        "text": "3米",
+        "page": 43,
+        "source": "ocr",
+        "context": "RK, Mar eee\n形，坡高处为1,3米《图版三一，2 ) . PARES IC"
+      },
+      {
+        "text": "高1.4米",
+        "page": 43,
+        "source": "ocr",
+        "context": ".86,\n进深1.4、南北长1.35、顶高1.4米〈余一九) 。竖爹口的南侧殉布立 砖，北"
+      },
+      {
+        "text": "通高94厘米",
+        "page": 47,
+        "source": "ocr",
+        "context": " 25 PS,\n1) 。俑之面形端   通高94厘米《图版四四，2 ) 。\n\nCA) BPE"
+      },
+      {
+        "text": "高27\n厘米",
+        "page": 48,
+        "source": "ocr",
+        "context": "。傅身均先施白粉一    后衣绘朱红色。高27\n厘米《图版四六，1 ) 。\n\n风帆傅”共38"
+      },
+      {
+        "text": "63.5厘米",
+        "page": 49,
+        "source": "ocr",
+        "context": "\n器、尾。各马的测度不一，通商59.5一63.5厘米。\n\nSei 4件〈23、25、27、2"
+      },
+      {
+        "text": " 59\n米",
+        "page": 50,
+        "source": "ocr",
+        "context": "PA AHI C49. 50), BEM 59\n米。小者3 Hk C48, 68, 69)"
+      },
+      {
+        "text": "8.7厘米",
+        "page": 50,
+        "source": "ocr",
+        "context": "。但无烟向等。灶高 9 、长11.5、寅8.7厘米《图版五八，1 )。\n\n《4)》陶并栏 "
+      },
+      {
+        "text": "高5厘米",
+        "page": 50,
+        "source": "ocr",
+        "context": "\n狂同，为栓茧色釉陶，但表面光素无纹饰。高5厘米(图版五八，) 。\n\nS.2e BERT"
+      },
+      {
+        "text": "直径16.9厘米",
+        "page": 51,
+        "source": "ocr",
+        "context": "纹间有岛、蝶:最外边缘为宝相花一周。镜的直径16.9厘米(赂版六〇,1)。\n\nCAD 马饰品，“"
+      },
+      {
+        "text": "高7.2厘米",
+        "page": 51,
+        "source": "ocr",
+        "context": "单室内马傅15之侧。 3 个铀大小相同，高7.2厘米《图版六口，2左下)。\n\nMe Hoe."
+      },
+      {
+        "text": "29米",
+        "page": 55,
+        "source": "ocr",
+        "context": "12月发捉的，基位置在上述独孤思贞幕东侧29米处《见图一\n六) o RMB SRCR "
+      },
+      {
+        "text": "3.14米",
+        "page": 55,
+        "source": "ocr",
+        "context": "偏东22座。\n\n幕室的平面旺方形，长宽各3.14米，四点成直线，没有向外凸出的弧诬。墓室四"
+      },
+      {
+        "text": "1.8米",
+        "page": 55,
+        "source": "ocr",
+        "context": "上，抹有白石灰墙皮一呈，但多已剥海。壁尚1.8米。再向上即逐新内 收。因顶\n部衣井，其原"
+      },
+      {
+        "text": "0.23米",
+        "page": 55,
+        "source": "ocr",
+        "context": "形的。\n砖砌的棺床在蓝室的西部，高出莫底0.23米，南北长2.5米，东西宽2米。西侧与幕室"
+      },
+      {
+        "text": "长2.5米",
+        "page": 55,
+        "source": "ocr",
+        "context": "床在蓝室的西部，高出莫底0.23米，南北长2.5米，东西宽2米。西侧与幕室西\n故相接，南北"
+      },
+      {
+        "text": "宽2米",
+        "page": 55,
+        "source": "ocr",
+        "context": "高出莫底0.23米，南北长2.5米，东西宽2米。西侧与幕室西\n故相接，南北两端与兹室南"
+      },
+      {
+        "text": "0.1米",
+        "page": 56,
+        "source": "ocr",
+        "context": "个开在获门\n处，其北巡距莫门之封门砖处仅0.1米，天并上南北长1.12、东西宽 1.34"
+      },
+      {
+        "text": "宽 1.34 米",
+        "page": 56,
+        "source": "ocr",
+        "context": "处仅0.1米，天并上南北长1.12、东西宽 1.34 米。中间的天井\n南北长1.46、东西宽!1"
+      },
+      {
+        "text": "22米",
+        "page": 56,
+        "source": "ocr",
+        "context": "1.46、东西宽!1.4、中北边天并1,22米。南边的一个南北长 1.48、东西宽 1"
+      },
+      {
+        "text": "1.56米",
+        "page": 56,
+        "source": "ocr",
+        "context": "48、东西宽 1.56、\n北至中半的天旧1.56米。在中间和南边的两个天片之间，于摹道的东"
+      },
+      {
+        "text": "宽0.77米",
+        "page": 56,
+        "source": "ocr",
+        "context": "的东西两素上各挖壁爷\n一个。东侧的监郊口宽0.77米，顶已给塌，但还可看出是拱 形，高约1米"
+      },
+      {
+        "text": "1米",
+        "page": 56,
+        "source": "ocr",
+        "context": "7米，顶已给塌，但还可看出是拱 形，高约1米左右，进深\n1.4、南北兵1.5米。 1"
+      },
+      {
+        "text": "1.5米",
+        "page": 56,
+        "source": "ocr",
+        "context": " 形，高约1米左右，进深\n1.4、南北兵1.5米。 1 件高冠稍 C34) 和8 件风幅"
+      },
+      {
+        "text": "宽0.86米",
+        "page": 56,
+        "source": "ocr",
+        "context": "》均出在这一此爷由。与此相对的西台您，口宽0.86米，上部拥塌，高度不详。壁\n侈进深1.12"
+      },
+      {
+        "text": "长1.2米",
+        "page": 56,
+        "source": "ocr",
+        "context": "拥塌，高度不详。壁\n侈进深1.12、南北长1.2米。在此壁爹中仪出残马俑认1件30) 。从"
+      },
+      {
+        "text": "85.2厘米",
+        "page": 56,
+        "source": "ocr",
+        "context": "能形。除脸为白色外，全身均为绿色釉。通摧85.2厘米《图版\n2) 。\nC2) 武士博 2件 "
+      },
+      {
+        "text": "\n106厘米",
+        "page": 58,
+        "source": "ocr",
+        "context": "AE, (eR, HFM TPE hl,\n106厘米【〔图版六三，2 ) 0 SHRM RE"
+      },
+      {
+        "text": "23厘米",
+        "page": 58,
+        "source": "ocr",
+        "context": ") 2 ASSEN, ER Ie\n绘，商23厘米。\n\n《6) RUAN 8 HF (31"
+      },
+      {
+        "text": "长87.5厘米",
+        "page": 59,
+        "source": "ocr",
+        "context": "上绘有梅花形的花纹。马高91.3、\n首尾长87.5厘米〈图版六七，2 ) 。马俑17，无任何鸣"
+      },
+      {
+        "text": "62厘米",
+        "page": 59,
+        "source": "ocr",
+        "context": "色花纹，因已脱落殖尽，其纹饰不详。鲍通商62厘米。\n\n除陶租之外，尚一些陶器残片，因太亿"
+      },
+      {
+        "text": "5厘米",
+        "page": 60,
+        "source": "ocr",
+        "context": "图二八》。\n\nBHA, Ky ROT .5厘米。四边刻眷草纹。志文楷书，共31 行，9"
+      },
+      {
+        "text": "46.8厘米",
+        "page": 62,
+        "source": "ocr",
+        "context": "〈图三DO》 。\n\n志石正方形，长、宽尼46.8厘米。志石四边肇卷草花纹。志文共 23行，5"
+      },
+      {
+        "text": "10米",
+        "page": 64,
+        "source": "ocr",
+        "context": ")\n\n杨氏偶位于独孤思黎幕的东侧，相距仅10米〈见网一六) 。据鉴志记才， 声氏是独\n"
+      },
+      {
+        "text": "宽3米",
+        "page": 65,
+        "source": "ocr",
+        "context": "\n慕室平面呈长方形，南北长3.24、东西宽3米《〈图二二) . ARMA, BREE\n"
+      },
+      {
+        "text": "1.5米",
+        "page": 69,
+        "source": "ocr",
+        "context": "。\n\n获道为斜坡式的隧道，长宽15.2x1.5米。南应距地去约1.8米，北端与甬道平，深"
+      },
+      {
+        "text": "1.8米",
+        "page": 69,
+        "source": "ocr",
+        "context": "道，长宽15.2x1.5米。南应距地去约1.8米，北端与甬道平，深\n约6.8米。葡道的坡"
+      },
+      {
+        "text": "6.8米",
+        "page": 69,
+        "source": "ocr",
+        "context": "应距地去约1.8米，北端与甬道平，深\n约6.8米。葡道的坡度约    CRAM MEGA"
+      },
+      {
+        "text": "21.6厘米",
+        "page": 71,
+        "source": "ocr",
+        "context": "E 执 物 状，左 手下\n垂。商231一21.6厘米《〈图版八一，2 ) 。\n\n(2) 迪骑"
+      },
+      {
+        "text": " 15.2\n厘米",
+        "page": 73,
+        "source": "ocr",
+        "context": "R IS AN, WER. GA. TH 15.2\n厘米《图版人六，3) ffl,     Sh"
+      },
+      {
+        "text": "高39.8厘米",
+        "page": 73,
+        "source": "ocr",
+        "context": "二网性处,类似女妆之闫如。此外与俑1同。高39.8厘米〈 |史版八七，3 )。\n以上五依的形态"
+      },
+      {
+        "text": "高54.3厘米",
+        "page": 74,
+        "source": "ocr",
+        "context": "垂饰。马头徽向左\n侧祝，其形态非常生动。高54.3厘米，首尾长53、“《彩版四) 。\n\n马俑1"
+      },
+      {
+        "text": "18.3厘米",
+        "page": 74,
+        "source": "ocr",
+        "context": "均相同，只是高低路有差别。马高17.3一18.3厘米〈图版八丸，2 ) 。\n\n13, pe "
+      },
+      {
+        "text": "71.5厘米",
+        "page": 74,
+        "source": "ocr",
+        "context": "IS\n六) 。\n\n志和看正方形，长、宽尼71.5厘米。志石四边刻缠枝卷章纹侯。志石表面 因剥"
+      },
+      {
+        "text": " 9 米",
+        "page": 77,
+        "source": "ocr",
+        "context": "封凸的基部直径约30余米，高\n出现在地面 9 米多，其原米高度当不止此。控店制蔓草的封士"
+      },
+      {
+        "text": "7米",
+        "page": 77,
+        "source": "ocr",
+        "context": "\n将封士堆掘去以后,由现在地平面下至0,7米即为店代之地面,深至0.9米时，露出了\n"
+      },
+      {
+        "text": "0.9米",
+        "page": 77,
+        "source": "ocr",
+        "context": "在地平面下至0,7米即为店代之地面,深至0.9米时，露出了\n砖券的墓室顶部。共项部近似圆"
+      },
+      {
+        "text": "1.3米",
+        "page": 77,
+        "source": "ocr",
+        "context": "0 SESE TAREE HPO\n层，厚1.3米。将券顶揭去后，内空 2 米多，骨下即是"
+      },
+      {
+        "text": " 2 米",
+        "page": 77,
+        "source": "ocr",
+        "context": "PO\n层，厚1.3米。将券顶揭去后，内空 2 米多，骨下即是淤上，淤士厚达7米多。将淇土"
+      },
+      {
+        "text": "7米",
+        "page": 77,
+        "source": "ocr",
+        "context": "，内空 2 米多，骨下即是淤上，淤士厚达7米多。将淇土\n清除后，于盘室的西侧露出石樟"
+      },
+      {
+        "text": "0.56米",
+        "page": 77,
+        "source": "ocr",
+        "context": "破坏后堆在\n一起的。石入北端距莫室北壁有0.56米的一段问空，其中填码长方砖。在南边紧乒幕"
+      },
+      {
+        "text": "5.7米",
+        "page": 78,
+        "source": "ocr",
+        "context": "A MIE 《图三八) 。磁室内长、寅各5.7米\n高9.6米，几与当时地面平。方向是北偏"
+      },
+      {
+        "text": "高9.6米",
+        "page": 78,
+        "source": "ocr",
+        "context": " 《图三八) 。磁室内长、寅各5.7米\n高9.6米，几与当时地面平。方向是北偏西5许。\n\n"
+      },
+      {
+        "text": "3.85米",
+        "page": 78,
+        "source": "ocr",
+        "context": "5许。\n\nPERI CHM MIL) 至3.85米处，和疝上即逐渐收缩起券〈图:所)》 。"
+      },
+      {
+        "text": "长5.8米",
+        "page": 78,
+        "source": "ocr",
+        "context": " AMO).\n由获门向南为甬道向南发握了长5.8米\nBAEK, FUR AIRES IC\n"
+      },
+      {
+        "text": " 7 米",
+        "page": 78,
+        "source": "ocr",
+        "context": "洞一处，将甬道之券打穿。从\n擎室内所积的 7 米多厚的诬土和前道内\n]    的洪土都非"
+      },
+      {
+        "text": " 4 米",
+        "page": 78,
+        "source": "ocr",
+        "context": ",\n     Hl       距幕室门 4 米处) 平放志石一(5) ，\n\nrt ° "
+      },
+      {
+        "text": "0.86米",
+        "page": 79,
+        "source": "ocr",
+        "context": " MBL A Ke BE 91.88 x0.86米的石板 ? 块，西侧目\n横排氏、宽各1."
+      },
+      {
+        "text": "25米",
+        "page": 79,
+        "source": "ocr",
+        "context": " 块，西侧目\n横排氏、宽各1.56x1,25米的石板3块。石板厚均为22燥米。榜身是由"
+      },
+      {
+        "text": "高1.3米",
+        "page": 80,
+        "source": "ocr",
+        "context": "RBANS\n\n成东西两面各有石住4根。柱高1.3米,宽、厚为30 x 20H. FER F"
+      },
+      {
+        "text": " 8\n厘米",
+        "page": 80,
+        "source": "ocr",
+        "context": " x 20H. FER FAA, NIG 8\n厘米，直答18砷米。在榨底石板与住相对之处为"
+      },
+      {
+        "text": "直径20厘米",
+        "page": 80,
+        "source": "ocr",
+        "context": "米。在榨底石板与住相对之处为一桦眼，桦眼直径20厘米，深 8 ALK.\nOEM, GHRLA"
+      },
+      {
+        "text": " 2.4米",
+        "page": 80,
+        "source": "ocr",
+        "context": "” DERE.\n盖的长、宽为3.64 x 2.4米，其四边宽出樟壁之外《图四一)。\n\n称的"
+      },
+      {
+        "text": "86厘米",
+        "page": 80,
+        "source": "ocr",
+        "context": "\n\n称的东而是三间朋党的正面，中心间宽为86厘米，两次问各宽82厘米。中心间志有\n关闭的"
+      },
+      {
+        "text": "宽82厘米",
+        "page": 80,
+        "source": "ocr",
+        "context": "朋党的正面，中心间宽为86厘米，两次问各宽82厘米。中心间志有\n关闭的大门一对，两次问各有"
+      },
+      {
+        "text": "高90.5厘米",
+        "page": 80,
+        "source": "ocr",
+        "context": "共结构是: C1) 门在中心问的中央，门高90.5厘米，宽6568厘米。为两\n局关闭关的板门，"
+      },
+      {
+        "text": "宽6568厘米",
+        "page": 80,
+        "source": "ocr",
+        "context": ") 门在中心问的中央，门高90.5厘米，宽6568厘米。为两\n局关闭关的板门，每鹿宽34是米。"
+      },
+      {
+        "text": "3厘米",
+        "page": 80,
+        "source": "ocr",
+        "context": "门的西侧鹿有宽6硕米的门框柱，上有9 .3厘米的门额。阁的长度与中心间宽必等，\nTOO"
+      },
+      {
+        "text": " 50.5厘米",
+        "page": 80,
+        "source": "ocr",
+        "context": " ALA TEP BT A BESS x 50.5厘米。每窗各竖立着1.5 MOR HTT B"
+      },
+      {
+        "text": " 1 米",
+        "page": 87,
+        "source": "ocr",
+        "context": "祭件小型半身女傅之外，高达50\nWAKE 1 米以上的大型隐傅约一百余件，惟因破碎过其，"
+      },
+      {
+        "text": "残高52厘米",
+        "page": 91,
+        "source": "ocr",
+        "context": "，原来可能执有木质的委类，已腐朽不在。俑残高52厘米《〈图版刀七，1)。\n(1020, 2&"
+      },
+      {
+        "text": "高83厘米",
+        "page": 91,
+        "source": "ocr",
+        "context": "(PARR ILIL,\n2 )。傅024高83厘米《图版九九，1 ) 。俑023高76厘米"
+      },
+      {
+        "text": "高76厘米",
+        "page": 91,
+        "source": "ocr",
+        "context": "高83厘米《图版九九，1 ) 。俑023高76厘米〈图版一DO，1 )。俑02，发\n全部往"
+      },
+      {
+        "text": "高53厘米",
+        "page": 91,
+        "source": "ocr",
+        "context": "往上梳，于额项杭成并拢的双医，略向前重。高53厘米〈四版一DO，2 ) 。此外\n有6件女俩"
+      },
+      {
+        "text": "22.5厘米",
+        "page": 92,
+        "source": "ocr",
+        "context": "形式\n的共5件，分大小西种。大者中件，商22.5厘米: 小者2件，高 13 .8 BOK. "
+      },
+      {
+        "text": "高16.5厘米",
+        "page": 92,
+        "source": "ocr",
+        "context": "1件《〈013) (图版一品二，1) 。高16.5厘米〈以下各傅的高度与此相同，\n其尺寸从略)"
+      },
+      {
+        "text": " 60.5厘米",
+        "page": 94,
+        "source": "ocr",
+        "context": "肥高者(018)\n665s We C2) 60.5厘米《图版一口二、一〇四) 。\n以上是修整复"
+      },
+      {
+        "text": " 1\n米",
+        "page": 94,
+        "source": "ocr",
+        "context": "原。从其头和腿部的残片米看，   PTE 1\n米以上。马俑的残片上\nSHS, BE\nAi"
+      },
+      {
+        "text": "1.5厘米",
+        "page": 95,
+        "source": "ocr",
+        "context": " FR, AAI\n的一边有小圆蕊~，孔径1.5厘米。鳃的表 RAMA, A. RA,\nRH"
+      },
+      {
+        "text": "宽86厘米",
+        "page": 95,
+        "source": "ocr",
+        "context": "。志苦四边无纹饰。\n\n志近方形，长88、宽86厘米。志石麻制光平，表面刻栏，纵37行，横3"
+      },
+      {
+        "text": " 70m",
+        "page": 100,
+        "source": "ocr",
+        "context": "RT AER EMD. CHD 1959 70m,\nCREAR C7) D>. CHAM"
+      },
+      {
+        "text": "\n\n1 m",
+        "page": 141,
+        "source": "ocr",
+        "context": " IL CXXIX )\n\nmuah tm\n\n1 ms am\n\n"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "刀",
+        "page": 16,
+        "source": "ocr",
+        "context": " (179), AAD (178) 、钢刀 (207)\nFIR HARD. BOR"
+      },
+      {
+        "text": "杯",
+        "page": 16,
+        "source": "ocr",
+        "context": ": AL CAR: 119.121》、小杯 Bee) 8 ER 0A 10RD O"
+      },
+      {
+        "text": "盘",
+        "page": 18,
+        "source": "ocr",
+        "context": "(153.184) 2 C151) ,银盘〈154) ARAB C155) DH "
+      },
+      {
+        "text": "钵",
+        "page": 18,
+        "source": "ocr",
+        "context": "部附\n近，东侧有资盒一件〈160) 和钢钵一件 157) 2 PRATER C15"
+      },
+      {
+        "text": "钵",
+        "page": 18,
+        "source": "ocr",
+        "context": "BH FARRER (186) ，也许是钵中演出来的。附近又有铁片\n数块(164."
+      },
+      {
+        "text": "豆",
+        "page": 20,
+        "source": "ocr",
+        "context": "脊明堂形式。梢的底部为碌堂的其天。控的西豆是-:问 Be 党的\n正面，当心闻宽50"
+      },
+      {
+        "text": "环",
+        "page": 20,
+        "source": "ocr",
+        "context": "，每路五休，但中央近门乡处的一枚门知为门环\nCHRD 所规代，所以每剧仅有24行。"
+      },
+      {
+        "text": "瓶",
+        "page": 20,
+        "source": "ocr",
+        "context": "RA ERE, BRE ABE\n花纹、宝瓶、卷草等纹饰。这种直要窗在诬代\n是常见的"
+      },
+      {
+        "text": "盘",
+        "page": 25,
+        "source": "ocr",
+        "context": "上伸的把手，把端作映首，双角，张口衔谈之盘口。把为两 条合\nte DEBE HR,"
+      },
+      {
+        "text": "瓶",
+        "page": 27,
+        "source": "ocr",
+        "context": ".7厘米《图版一六，2 ) 。\n\n4.冤瓶 ”共3件，造型小巧，保在完整。\n\nC1"
+      },
+      {
+        "text": "瓶",
+        "page": 27,
+        "source": "ocr",
+        "context": "，图足及其上 1 WOR 处沟 无 釉。瓶 高\n8.8、口答2.35、芍长径为6,"
+      },
+      {
+        "text": "瓶",
+        "page": 27,
+        "source": "ocr",
+        "context": "、壁原0.5厘米《图版\n一仆，1) 。 瓶的造型新颖，附幕中系初次发现。\n\n(2)"
+      },
+      {
+        "text": "瓶",
+        "page": 27,
+        "source": "ocr",
+        "context": "。和白色釉，有冰裂纹于片，足无镍，白胎。瓶高6.9、腹径3.5、底径 2.6 惠米"
+      },
+      {
+        "text": "陶碗",
+        "page": 28,
+        "source": "ocr",
+        "context": "M —JL, 2) 6 deme\n时内有陶碗1件，编号为 6@，详后。\n\nLIDS "
+      },
+      {
+        "text": "碗",
+        "page": 28,
+        "source": "ocr",
+        "context": "H CID) BE\n11@@贸口上 。二碗除大小赂有差异外，其形式、制作全同。碗作"
+      },
+      {
+        "text": "碗",
+        "page": 28,
+        "source": "ocr",
+        "context": "二碗除大小赂有差异外，其形式、制作全同。碗作 Be ME, AC, OB 沿外\n斜"
+      },
+      {
+        "text": "杯",
+        "page": 28,
+        "source": "ocr",
+        "context": "器 共11件。有项链、金手镯、戒指、高足杯及发饰等。它们大都保存完好。\n\n(1) "
+      },
+      {
+        "text": "球",
+        "page": 28,
+        "source": "ocr",
+        "context": "E 工件〈129)。 项链是由28个金质球形饰组成， 球形 上 各伐有10颗\n珍珠"
+      },
+      {
+        "text": "球",
+        "page": 28,
+        "source": "ocr",
+        "context": "9)。 项链是由28个金质球形饰组成， 球形 上 各伐有10颗\n珍珠，现珠多已脱落"
+      },
+      {
+        "text": "球",
+        "page": 28,
+        "source": "ocr",
+        "context": "上 各伐有10颗\n珍珠，现珠多已脱落。爹球分左右两组，每组14个，各球之间系肖多股"
+      },
+      {
+        "text": "球",
+        "page": 28,
+        "source": "ocr",
+        "context": "多已脱落。爹球分左右两组，每组14个，各球之间系肖多股金丝编织的链索\nAGEN. "
+      },
+      {
+        "text": "环",
+        "page": 28,
+        "source": "ocr",
+        "context": "is Lazuli) 的金饰，其上附一金环，纽饰两端之钧即纳人环内。 项链的下 端"
+      },
+      {
+        "text": "环",
+        "page": 28,
+        "source": "ocr",
+        "context": "的金饰，其上附一金环，纽饰两端之钧即纳人环内。 项链的下 端\nA-BAT, KAR"
+      },
+      {
+        "text": "环",
+        "page": 29,
+        "source": "ocr",
+        "context": "。\n开口处有一纽饰，…一端为一花扒形\n扣环,上人网小球6个，另一端为\n一钧，钩之端"
+      },
+      {
+        "text": "球",
+        "page": 29,
+        "source": "ocr",
+        "context": "一纽饰，…一端为一花扒形\n扣环,上人网小球6个，另一端为\n一钧，钩之端亦碟珠 1 "
+      },
+      {
+        "text": "环",
+        "page": 29,
+        "source": "ocr",
+        "context": "另一端为\n一钧，钩之端亦碟珠 1 。钩玉环之\nAAG TTA RFRA CB\nEd"
+      },
+      {
+        "text": "环",
+        "page": 29,
+        "source": "ocr",
+        "context": "1320,\n138》， 形状 相同。 作环形， 环\nZA Sb ABR, SE B"
+      },
+      {
+        "text": "环",
+        "page": 29,
+        "source": "ocr",
+        "context": ",\n138》， 形状 相同。 作环形， 环\nZA Sb ABR, SE Ble\n戒"
+      },
+      {
+        "text": "杯",
+        "page": 29,
+        "source": "ocr",
+        "context": "1 第二行中\nf=) 。\n\n(4) 高足杯 1件 (126) 。\n大口，吕洛外盔，"
+      },
+      {
+        "text": "环",
+        "page": 29,
+        "source": "ocr",
+        "context": "口，吕洛外盔，没有凸站纹一\n周、系由一圆环衬上的。下为商足\n(已脱落》，足中空，作"
+      },
+      {
+        "text": "杯",
+        "page": 30,
+        "source": "ocr",
+        "context": "周。足柄上端先粘焊一圆饼，然后上骨焊合于杯身，今足即由焊合处脱落。杯高 5.7 、"
+      },
+      {
+        "text": "杯",
+        "page": 30,
+        "source": "ocr",
+        "context": "然后上骨焊合于杯身，今足即由焊合处脱落。杯高 5.7 、口\n径5.7、足高3.5、"
+      },
+      {
+        "text": "环",
+        "page": 30,
+        "source": "ocr",
+        "context": "金片，其两端上 eA\n叶状，片中又有二着环。人在郑环上均附插许多六瓣形金花、三角形"
+      },
+      {
+        "text": "环",
+        "page": 30,
+        "source": "ocr",
+        "context": "端上 eA\n叶状，片中又有二着环。人在郑环上均附插许多六瓣形金花、三角形金尚叶、穿"
+      },
+      {
+        "text": "杯",
+        "page": 30,
+        "source": "ocr",
+        "context": "(174)，\n保存完整，只是高足已脱落。杯\n的形式与金高是杯 〈1 2 6号) 大"
+      },
+      {
+        "text": "杯",
+        "page": 30,
+        "source": "ocr",
+        "context": "完整，只是高足已脱落。杯\n的形式与金高是杯 〈1 2 6号) 大\n致相同，杯口及口"
+      },
+      {
+        "text": "杯",
+        "page": 30,
+        "source": "ocr",
+        "context": "金高是杯 〈1 2 6号) 大\n致相同，杯口及口沿下鞋厘米处\n亦各有凸纺纹一周，杯"
+      },
+      {
+        "text": "杯",
+        "page": 30,
+        "source": "ocr",
+        "context": "杯口及口沿下鞋厘米处\n亦各有凸纺纹一周，杯身下焊接\n有高号，足底部呈喇叭口状，足\n"
+      },
+      {
+        "text": "杯",
+        "page": 30,
+        "source": "ocr",
+        "context": "米【《图版\n—-; 125\n\n(8) 小杯 1 FRC 155),\n口治已残，底部"
+      },
+      {
+        "text": "杯",
+        "page": 30,
+        "source": "ocr",
+        "context": " 155),\n口治已残，底部徽向上由，在杯\n\n"
+      },
+      {
+        "text": "杯",
+        "page": 31,
+        "source": "ocr",
+        "context": "   119°\n\n内底部形成止起之圆形。杯高2.2、蝇径4.4、底径1.8、厚0."
+      },
+      {
+        "text": "瓶",
+        "page": 31,
+        "source": "ocr",
+        "context": "银炉 工件     附于150@@号小次瓶之上,编号为150针。炉口为外折平\n落，"
+      },
+      {
+        "text": "环",
+        "page": 31,
+        "source": "ocr",
+        "context": "已残) ，坊之一端有立耳，另端对称处有一环。炉\n底径1.9厘米《〈图版一一，3) "
+      },
+      {
+        "text": "盘",
+        "page": 31,
+        "source": "ocr",
+        "context": "厘米《〈图版一一，3) 。\n\nC7) 银盘 工件(154) ，口沿稍残。雪之平面呈"
+      },
+      {
+        "text": "盘",
+        "page": 31,
+        "source": "ocr",
+        "context": "，器仅 内收，器 底较器\n吕为小，平底。盘之一端于口沿下有一圆组，上挂一小环，组作"
+      },
+      {
+        "text": "环",
+        "page": 31,
+        "source": "ocr",
+        "context": "平底。盘之一端于口沿下有一圆组，上挂一小环，组作花瓣江。间高 1.3，口\n径: 长"
+      },
+      {
+        "text": "钵",
+        "page": 31,
+        "source": "ocr",
+        "context": " 3,7 克。它与\n银指中套等一同盛在钢钵〈157内。这枚银币为波斯陈瑞朝捍路斯王"
+      },
+      {
+        "text": "球",
+        "page": 31,
+        "source": "ocr",
+        "context": "及顶上各右一新月，冠顶上的新月还托一个圆球，户上有一括起的忆饰，验前也增一\n带形饰"
+      },
+      {
+        "text": "钵",
+        "page": 31,
+        "source": "ocr",
+        "context": "，脑后有发天下怪，圆周有联陈一周。绕像有钵罗婆文字,出脸前起为 DIPRU\n字母，"
+      },
+      {
+        "text": "刀",
+        "page": 31,
+        "source": "ocr",
+        "context": "、铀镜、钢锋斗、有和孔钢饰品、铜铃、钢 刀、五 匆 钱 等八\n\n种，共14件。\n\n"
+      },
+      {
+        "text": "刀",
+        "page": 32,
+        "source": "ocr",
+        "context": "米《〈图版一D，5上) 。\n\n(7) 小刀 1 (207), BRR. WH, A"
+      },
+      {
+        "text": "环",
+        "page": 32,
+        "source": "ocr",
+        "context": ".9厘米《图版一二，3) 。此外，还有钢环〈198、213 》 及铜饰品\n(212"
+      },
+      {
+        "text": "环",
+        "page": 32,
+        "source": "ocr",
+        "context": "1) HW 1件〈134)。因锈蚀把手的环部已断折。 长20.5 厘米〔图版一二，"
+      },
+      {
+        "text": "刀",
+        "page": 33,
+        "source": "ocr",
+        "context": " HD 。\n除以上可看出器形者外，还有铁刀1件 C82), WAR He ERI "
+      },
+      {
+        "text": "杯",
+        "page": 33,
+        "source": "ocr",
+        "context": "而知。\n\nGO) EGS\n\n焉右器类仅玉杯一作属于容器，其余大都是装饰品。按质料分"
+      },
+      {
+        "text": "杯",
+        "page": 33,
+        "source": "ocr",
+        "context": "140)，保存完整，造型、制作均很精美。杯作大口，下有假圈足。\n杯的口部内外有有人"
+      },
+      {
+        "text": "杯",
+        "page": 33,
+        "source": "ocr",
+        "context": "、制作均很精美。杯作大口，下有假圈足。\n杯的口部内外有有人金镶门滑一周，金滑寅0."
+      },
+      {
+        "text": "环",
+        "page": 33,
+        "source": "ocr",
+        "context": "180》 ，成一对，保存完整。白玉制成，环内平外圆，齐面\nSBA. AE2.2, "
+      },
+      {
+        "text": "环",
+        "page": 33,
+        "source": "ocr",
+        "context": "IE, AAEM, (MART, Ha\n环首，出土时在钢钉〈157)内。长4.4、"
+      },
+      {
+        "text": "钵",
+        "page": 34,
+        "source": "ocr",
+        "context": "玉珠“一申共14频〈158)，出土时在钢钵内。珠作扁贺形，中间穿一细孔，\n用铜丝谷"
+      },
+      {
+        "text": "球",
+        "page": 34,
+        "source": "ocr",
+        "context": "16)，其中部为较细之园轴形，两端各一半球 形 饰。长2.2大\n米《图版一D，1右"
+      },
+      {
+        "text": "瓶",
+        "page": 34,
+        "source": "ocr",
+        "context": ".R. RUBLE, Jest.\n\n1,瓶，2件《119、12I) ，保存完整。 "
+      },
+      {
+        "text": "环",
+        "page": 34,
+        "source": "ocr",
+        "context": "，较\n大一端有一孔，大者《 122 ) 环绕洞孔 处 MUR GALE, AAI "
+      },
+      {
+        "text": "杯",
+        "page": 34,
+        "source": "ocr",
+        "context": "1厘米〈图版一四，1 、2) 。\n\n3.杯 2件〈175、176》，完整。175号"
+      },
+      {
+        "text": "杯",
+        "page": 34,
+        "source": "ocr",
+        "context": " 2件〈175、176》，完整。175号杯， AK, WE, A BIB, RAE"
+      },
+      {
+        "text": "杯",
+        "page": 34,
+        "source": "ocr",
+        "context": " 厘米〈图版一四，4 ) 。176 号\n杯，形制与前者同，仪腹之下部较前者略粗。杯"
+      },
+      {
+        "text": "杯",
+        "page": 34,
+        "source": "ocr",
+        "context": "杯，形制与前者同，仪腹之下部较前者略粗。杯呈带绿之淡蓝色，灶透明。尚 2.4、口\n"
+      },
+      {
+        "text": "杯",
+        "page": 34,
+        "source": "ocr",
+        "context": "1.3、厚0.2厘米〈图版一四，5)。二杯的质料不如瓶，但仍属玻\n现性。共形状与西"
+      },
+      {
+        "text": "瓶",
+        "page": 34,
+        "source": "ocr",
+        "context": ".2厘米〈图版一四，5)。二杯的质料不如瓶，但仍属玻\n现性。共形状与西安郭家滩隋姬"
+      },
+      {
+        "text": "杯",
+        "page": 34,
+        "source": "ocr",
+        "context": "性。共形状与西安郭家滩隋姬威莫所出之二料杯〈《文物》1959年 8 期封三，图4 "
+      },
+      {
+        "text": "碗",
+        "page": 44,
+        "source": "ocr",
+        "context": ", WMI SH CAMO, 2) 和变碗2件 (010、036)》 、四\nFRE"
+      },
+      {
+        "text": "豆",
+        "page": 45,
+        "source": "ocr",
+        "context": "组为“音声队?”\n(骑马乐傅) 。\n\n西豆侈内放置陶俑及共他明器等基50件〈19一"
+      },
+      {
+        "text": "碗",
+        "page": 51,
+        "source": "ocr",
+        "context": "G17.5, MRR CMA, 4) 。碗036*侈口，\nAORTA, BER, "
+      },
+      {
+        "text": "环",
+        "page": 51,
+        "source": "ocr",
+        "context": "一周为“海兽葡萄纹”，其中和六只“海曾”环绕着镜纽; 第\n二周为区萄纹间有岛、蝶:"
+      },
+      {
+        "text": "环",
+        "page": 51,
+        "source": "ocr",
+        "context": "\n\nCAD 马饰品，“有钢铀、铜香、小铀环和北金的钢禁叶形饰及银质的杏叶形饰物多\n"
+      },
+      {
+        "text": "环",
+        "page": 51,
+        "source": "ocr",
+        "context": " eB\n饰，但多是碎片，无完整者。\n\n钢环 2H COIBD. 018D) 。这两"
+      },
+      {
+        "text": "环",
+        "page": 51,
+        "source": "ocr",
+        "context": "H COIBD. 018D) 。这两什钢环与可叶形银叶及六件大马 博同 出于一\n处"
+      },
+      {
+        "text": "豆",
+        "page": 70,
+        "source": "ocr",
+        "context": "及猪、羊、鸡等俏，均出于西侧南边的一个人豆侈由。北边的两个鉴完内未\n出任何器物，仅"
+      },
+      {
+        "text": "环",
+        "page": 71,
+        "source": "ocr",
+        "context": "，星系带，足着革。傅4双手拱举，依5双手环焉腹下。头餐戴性头,束发于项上,侣\nKi"
+      },
+      {
+        "text": "盘",
+        "page": 71,
+        "source": "ocr",
+        "context": "RA, EM. 8 之衣为绿地白花，手持盘，\n盘内盛桃形物。高45.3应米〈图版作"
+      },
+      {
+        "text": "盘",
+        "page": 71,
+        "source": "ocr",
+        "context": " EM. 8 之衣为绿地白花，手持盘，\n盘内盛桃形物。高45.3应米〈图版作品，1"
+      },
+      {
+        "text": "刀",
+        "page": 74,
+        "source": "ocr",
+        "context": "装饰，商度也相同，均为f.2原米〈图版八刀，1) 。\n\n14, AVSEAM JE"
+      },
+      {
+        "text": "刀",
+        "page": 74,
+        "source": "ocr",
+        "context": " 俩\n很多，起上上时大都破碎失散《图版八刀， 3 ) 。\n\n以上120件全系傅类，"
+      },
+      {
+        "text": "盘",
+        "page": 77,
+        "source": "ocr",
+        "context": "淤上，淤士厚达7米多。将淇土\n清除后，于盘室的西侧露出石樟一座〈图版刀口，2 ) "
+      },
+      {
+        "text": "刀",
+        "page": 77,
+        "source": "ocr",
+        "context": "\n清除后，于盘室的西侧露出石樟一座〈图版刀口，2 ) ，在棕站上面西北角处《图版九"
+      },
+      {
+        "text": "刀",
+        "page": 87,
+        "source": "ocr",
+        "context": "Ae RE ALA S11. 7) 〈横刀? )1、\nSRS 1 CAMILA)."
+      },
+      {
+        "text": "刀",
+        "page": 88,
+        "source": "ocr",
+        "context": "以黑线勾绘，地贴金《必四九，6 ) 。变刀之精\nBRAUER, HEM ee AU"
+      },
+      {
+        "text": "刀",
+        "page": 91,
+        "source": "ocr",
+        "context": "委类，已腐朽不在。俑残高52厘米《〈图版刀七，1)。\n(1020, 2&—- BM"
+      },
+      {
+        "text": "尊",
+        "page": 91,
+        "source": "ocr",
+        "context": "》中所载的“总山冒”。俏身车改领袍，外著尊襟。体型高大，效高67理米〔〈图版\n九七"
+      },
+      {
+        "text": "盘",
+        "page": 92,
+        "source": "ocr",
+        "context": "\n\n发分梳于两出，在两征问各梳一下垂的登盘，紧地两壮〈图五一，1 》 。这种形式\n"
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "织物",
+        "page": 16,
+        "source": "ocr",
+        "context": "座土老面的，还有南端人头攻上的一些草的编织物绕片和一\n些随药品的高出部分。\nBEAR"
+      },
+      {
+        "text": "人骨",
+        "page": 16,
+        "source": "ocr",
+        "context": " BER Cs ENA\n七，1、2 )。人骨昌曾有部分被水冲乱，\n但头骨和四肢还保持"
+      },
+      {
+        "text": "织物",
+        "page": 36,
+        "source": "ocr",
+        "context": " CMR, 4).\n\nOe) 其他\n\n丝织物、纸、贝、蚌光等。\n\n1.丝织物“出村术"
+      },
+      {
+        "text": "织物",
+        "page": 36,
+        "source": "ocr",
+        "context": "他\n\n丝织物、纸、贝、蚌光等。\n\n1.丝织物“出村术内洪土之上〈编号为117癸) ，"
+      },
+      {
+        "text": "织物",
+        "page": 36,
+        "source": "ocr",
+        "context": "施3一5奈米〈图版\n二六，)》 。由于丝织物已罕朽变质，长颜色也已变化，已非原来之色"
+      },
+      {
+        "text": "织物",
+        "page": 36,
+        "source": "ocr",
+        "context": "中的“罗\"。(2 》中\n间   黄色之丝织物数层，质地及织法与上述者同，一平方厘米有"
+      },
+      {
+        "text": "织物",
+        "page": 36,
+        "source": "ocr",
+        "context": "A 线21\n枚。(8)最下为黄色平纹的丝织物数层,在一平方是米中有经线70故、纬线4"
+      },
+      {
+        "text": "织物",
+        "page": 36,
+        "source": "ocr",
+        "context": "常\n紧密,和有光消感。这三件不同颜色的丝织物,可能是衣裙之类的服装。另在一端上而在黑"
+      },
+      {
+        "text": "织物",
+        "page": 36,
+        "source": "ocr",
+        "context": ". AA ZAR, TCT. Ub\n有丝织物残片数片，编为166号。\n\n4麻布残片”"
+      },
+      {
+        "text": "人骨",
+        "page": 37,
+        "source": "ocr",
+        "context": "UDD 。夸长为35、宽16、厚5顾米。人骨架多已腐朽，仅有头营\nFAB NET R"
+      },
+      {
+        "text": "人骨",
+        "page": 44,
+        "source": "ocr",
+        "context": "E GTM, REL RT\n玫和已腐朽的人骨少许。从炉钙来看，当有木棺等基具。\n\n在"
+      },
+      {
+        "text": "人骨",
+        "page": 55,
+        "source": "ocr",
+        "context": " ，并多\n成碎片，这显然是因盗所抗乱的。人骨架已腐行，有少许肢骨散乱 Eth. HA"
+      },
+      {
+        "text": "人骨",
+        "page": 65,
+        "source": "ocr",
+        "context": "傅残片两堆 〈编为12、13) 。药具及人骨均已无存，仅在扰土中拾得铁忆钉数枚，\nB"
+      },
+      {
+        "text": "织物",
+        "page": 138,
+        "source": "ocr",
+        "context": "图版二六 (XXYV1)\n\n丝织物\n"
+      }
+    ],
+    "葬具": [
+      {
+        "text": "石棺",
+        "page": 19,
+        "source": "ocr",
+        "context": "ER, Hee 8 块石\n\n板导成。其中石棺的司刻很精美，不失为一件乞术品。钢将其结"
+      },
+      {
+        "text": "棺",
+        "page": 20,
+        "source": "ocr",
+        "context": "，帮在术身上面，四边宽出格身，形成星栓。棺瘟东坡测下中的简瓦\n上也刻有一行“开者即"
+      },
+      {
+        "text": "石棺",
+        "page": 21,
+        "source": "ocr",
+        "context": "BOK BRAHAM, A SMR.\n\n石棺里面四周内辟都绘有壁画，是先用白粉或石灰"
+      },
+      {
+        "text": "棺",
+        "page": 21,
+        "source": "ocr",
+        "context": "颜料，绘成图画。由于雨水渗人术内，一时期棺中积水，以致莒画脱落。现\n在只能看出一些"
+      },
+      {
+        "text": "石棺",
+        "page": 21,
+        "source": "ocr",
+        "context": "            Bom\naA ”石棺西鉴正视图\n"
+      },
+      {
+        "text": "石棺",
+        "page": 36,
+        "source": "ocr",
+        "context": " 。\n\n6,残纸 二片 (202)。出于石棺内北部钢洗 C161) 中的铜镜 (16"
+      },
+      {
+        "text": "木棺",
+        "page": 44,
+        "source": "ocr",
+        "context": "\n玫和已腐朽的人骨少许。从炉钙来看，当有木棺等基具。\n\n在幕道东壁侈内放置了阳俑 6"
+      },
+      {
+        "text": "棺",
+        "page": 55,
+        "source": "ocr",
+        "context": "的情形米看，顶部可能是方锥形的。\n砖砌的棺床在蓝室的西部，高出莫底0.23米，南北"
+      },
+      {
+        "text": "棺",
+        "page": 55,
+        "source": "ocr",
+        "context": "许肢骨散乱 Eth. HA\n无痕迹，仅在棺床上有铁棺钉数枚，硬具可能是木棺。\n\n甬"
+      },
+      {
+        "text": "棺",
+        "page": 55,
+        "source": "ocr",
+        "context": " Eth. HA\n无痕迹，仅在棺床上有铁棺钉数枚，硬具可能是木棺。\n\n甬道在幕室的"
+      },
+      {
+        "text": "木棺",
+        "page": 55,
+        "source": "ocr",
+        "context": "痕迹，仅在棺床上有铁棺钉数枚，硬具可能是木棺。\n\n甬道在幕室的南侧偏东，为拱形的土洞"
+      }
+    ],
+    "金器": [
+      {
+        "text": "金饰",
+        "page": 22,
+        "source": "ocr",
+        "context": "，并极精致。像这样多的牙霄器和制作精美的金饰品，在过去发括的隋墓中还未发现\n过。因此"
+      },
+      {
+        "text": "金手镯",
+        "page": 28,
+        "source": "ocr",
+        "context": "人金银器\n\n1.金器 共11件。有项链、金手镯、戒指、高足杯及发饰等。它们大都保存完好"
+      },
+      {
+        "text": "金饰",
+        "page": 28,
+        "source": "ocr",
+        "context": "\nFi” Lapis Lazuli) 的金饰，其上附一金环，纽饰两端之钧即纳人环内。"
+      },
+      {
+        "text": "金片",
+        "page": 30,
+        "source": "ocr",
+        "context": "《173) 。已残，下有三叉形插， 上为金片，其两端上 eA\n叶状，片中又有二着环。"
+      },
+      {
+        "text": "金饰",
+        "page": 30,
+        "source": "ocr",
+        "context": "请想〈图版     1) 。\n\n《7)》金饰品“8 件，统编为 222 号。形状全为"
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T19",
+        "page": 23,
+        "source": "ocr",
+        "context": ", RRM, Pea,\nRAED. iMT19.30OR CH=, 1) 。\n\n(4)"
+      },
+      {
+        "text": "T26",
+        "page": 48,
+        "source": "ocr",
+        "context": "等，与\n前述 6 SAMA, HMR. T26uiA CAMEL, 2) © fifi"
+      }
+    ],
+    "纹饰": [
+      {
+        "text": "弦纹",
+        "page": 26,
+        "source": "ocr",
+        "context": "耳并不等距。直口，肩腹之问及让-上各和了弦纹二周。\n肩部刻有禾姑淤一周，共二十四办。"
+      },
+      {
+        "text": "彩绘",
+        "page": 58,
+        "source": "ocr",
+        "context": "〈29)。质为红陶，袁而涂白衣一层，然后彩绘衣饰，亿\nBOHEME. Wik   R"
+      },
+      {
+        "text": "彩陶",
+        "page": 68,
+        "source": "ocr",
+        "context": "。此幕曾遗族据破坏，介食\n出土了大批的三彩陶俑。这批三彩傅的制作和造型，均有很高的艺"
+      },
+      {
+        "text": "彩绘",
+        "page": 90,
+        "source": "ocr",
+        "context": "各俑之服装及马俑的鞍效〈残片》 等，均为彩绘，有\n\n@          5a\n\n图"
+      }
+    ],
+    "材质": [
+      {
+        "text": "红陶",
+        "page": 28,
+        "source": "ocr",
+        "context": "。除两个小陶冰 (153, 184) 是红陶胎外、其它四\n件都是灰陶的。这六件陶器全"
+      },
+      {
+        "text": "灰陶",
+        "page": 28,
+        "source": "ocr",
+        "context": ", 184) 是红陶胎外、其它四\n件都是灰陶的。这六件陶器全足轮制，有显著的轮旋纹章"
+      },
+      {
+        "text": "三彩",
+        "page": 47,
+        "source": "ocr",
+        "context": "，陶全占绝大数多，而且估都足制作精美的“三彩”俑。\n\n1,陶条\n\n陶俑共 144 f"
+      },
+      {
+        "text": "红陶",
+        "page": 49,
+        "source": "ocr",
+        "context": "ied Pa\n宣的东南隅。这 6 傅都是红陶质的，表耐涂有有和白粉一层。它们的形状基"
+      },
+      {
+        "text": "红陶",
+        "page": 49,
+        "source": "ocr",
+        "context": "RA, SAGEM. 1k 4 俑亦\n是红陶质的，表面施白粉一月，所若服装亦施黑绘。"
+      },
+      {
+        "text": "釉陶",
+        "page": 50,
+        "source": "ocr",
+        "context": "字形，下空〈无底》。质与\n狂同，为栓茧色釉陶，但表面光素无纹饰。高5厘米(图版五八，"
+      },
+      {
+        "text": "三彩",
+        "page": 56,
+        "source": "ocr",
+        "context": "ET, ALE AN, 8 im\n贞幕陶三彩俩那样鲜艳多彩。\n\nC1) Bae 2件"
+      },
+      {
+        "text": "红陶",
+        "page": 58,
+        "source": "ocr",
+        "context": "4) 女侍俑 ”只残在1件〈29)。质为红陶，袁而涂白衣一层，然后彩绘衣饰，亿\nBO"
+      },
+      {
+        "text": "三彩",
+        "page": 59,
+        "source": "ocr",
+        "context": "Shi 4件 (15一18》。全是灶陶“三彩”马，惟因长期土蚀，有的 秋己脱\n落，颜"
+      },
+      {
+        "text": "细泥红陶",
+        "page": 59,
+        "source": "ocr",
+        "context": "\n比较常见的，亦好所谓的“塔形鲜”。厂为细泥红陶质，表面施有白粉一层，在白地上\n再绘以彩"
+      },
+      {
+        "text": "红陶",
+        "page": 65,
+        "source": "ocr",
+        "context": "这5俑均已残破,他们的形状完全相同。均为红陶质，表\n面涂有一层白粉为地，然后于白地之"
+      },
+      {
+        "text": "三彩",
+        "page": 68,
+        "source": "ocr",
+        "context": "》。此幕曾遗族据破坏，介食\n出土了大批的三彩陶俑。这批三彩傅的制作和造型，均有很高的"
+      },
+      {
+        "text": "三彩",
+        "page": 68,
+        "source": "ocr",
+        "context": "据破坏，介食\n出土了大批的三彩陶俑。这批三彩傅的制作和造型，均有很高的艺术水于，是唐"
+      },
+      {
+        "text": "三彩",
+        "page": 68,
+        "source": "ocr",
+        "context": "的制作和造型，均有很高的艺术水于，是唐代三彩\n癸中有代表性的作品。\n〈一) RBI "
+      },
+      {
+        "text": "三彩",
+        "page": 70,
+        "source": "ocr",
+        "context": "，原位置已不详，\n但据取出者告知，17件三彩贷中的4件女俑〈7 一10) 和工件牵马"
+      },
+      {
+        "text": "三彩",
+        "page": 73,
+        "source": "ocr",
+        "context": "RO CHIH ERA) »\n\n11, 三彩马俑”共4休《15一18)，成两对。15"
+      },
+      {
+        "text": "红陶",
+        "page": 74,
+        "source": "ocr",
+        "context": "AM JELOFE (93-102) 。红陶质，无任何装饰。形状、大小等略有不同，\n"
+      },
+      {
+        "text": "红陶",
+        "page": 74,
+        "source": "ocr",
+        "context": "ih SPF C116—120) 。均为红陶质。其中猪1 (116) 、羊2\n《11"
+      },
+      {
+        "text": "白瓷",
+        "page": 87,
+        "source": "ocr",
+        "context": "刻傅2件 。其他\n器物出土很少，仪有工作白瓷缸和数件玉饰残\n六。从此警规模之大陶销数"
+      },
+      {
+        "text": "红陶",
+        "page": 90,
+        "source": "ocr",
+        "context": "h o\n\n2.陶全\n\n此昔所出的陶俑全系红陶质。各俑之服装及马俑的鞍效〈残片》 等，"
+      },
+      {
+        "text": "三彩",
+        "page": 100,
+        "source": "ocr",
+        "context": "乐\n条的出岗以及三彩秋色之鲜明等，者达到了当时隐膏工艺的高度"
+      }
+    ],
+    "玉器": [
+      {
+        "text": "玉环",
+        "page": 29,
+        "source": "ocr",
+        "context": "，另一端为\n一钧，钩之端亦碟珠 1 。钩玉环之\nAAG TTA RFRA CB\nEd"
+      },
+      {
+        "text": "玉珠",
+        "page": 34,
+        "source": "ocr",
+        "context": "紧孔。长1.2\\宽1厘米。\n\n12, 玛玉珠“一申共14频〈158)，出土时在钢钵内"
+      },
+      {
+        "text": "玉饰",
+        "page": 51,
+        "source": "ocr",
+        "context": "TA, 3).\n\n4,其他 此项有料珠、玉饰、钢镜和马饰品等\n\n《1) BR 共33"
+      },
+      {
+        "text": "玉饰",
+        "page": 87,
+        "source": "ocr",
+        "context": "其他\n器物出土很少，仪有工作白瓷缸和数件玉饰残\n六。从此警规模之大陶销数量之多等特点"
+      }
+    ],
+    "银器": [
+      {
+        "text": "银饰",
+        "page": 31,
+        "source": "ocr",
+        "context": "的丛饰。除上述银器之外，尚有一些残 馆的银饰\ni, BYALA, 195%, ABE"
+      }
+    ],
+    "铁器": [
+      {
+        "text": "铁刀",
+        "page": 33,
+        "source": "ocr",
+        "context": "A HD 。\n除以上可看出器形者外，还有铁刀1件 C82), WAR He ERI "
+      }
+    ],
+    "建筑结构": [
+      {
+        "text": "门道",
+        "page": 87,
+        "source": "ocr",
+        "context": "间\n的正中，各划一男侍者像，隔着中心间《门道) 南北对立。南边的一个面略 向右 侧视"
+      }
+    ]
+  }
+}

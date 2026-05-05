@@ -1,0 +1,729 @@
+{
+  "name": "敖汉赵宝沟",
+  "file": "敖汉赵宝沟.pdf",
+  "era": "新石器",
+  "culture": "赵宝沟文化",
+  "processed_pages": 13,
+  "total_entities": 115,
+  "entity_stats": {
+    "年代": 21,
+    "遗址名称": 15,
+    "遗迹类型": 8,
+    "遗迹编号": 48,
+    "铜器": 11,
+    "测量数据": 3,
+    "陶器": 4,
+    "发掘区": 4,
+    "石器": 1
+  },
+  "entities": {
+    "年代": [
+      {
+        "text": "新石器时代",
+        "page": 2,
+        "source": "ocr",
+        "context": "专刊\n丁种第五十二号\n\nRR EY\n一一新石器时代聚落\n\n中国社会科学院考古研究所 ”编著"
+      },
+      {
+        "text": "新石器时代",
+        "page": 4,
+        "source": "ocr",
+        "context": "表，利于学者再研究。\n\n本书对于研究中国新石器时代聚落形态、探讨燕山南北长城地带的考古学文"
+      },
+      {
+        "text": "元",
+        "page": 4,
+        "source": "ocr",
+        "context": "考价值。\n\nBEA (CIP) 数据\n\n元汉赵宝沟，新石器时代聚落/中国社会科学院"
+      },
+      {
+        "text": "新石器时代",
+        "page": 4,
+        "source": "ocr",
+        "context": "BEA (CIP) 数据\n\n元汉赵宝沟，新石器时代聚落/中国社会科学院考古研究所编 . 北"
+      },
+      {
+        "text": "新石器时代",
+        "page": 4,
+        "source": "ocr",
+        "context": "0-0\n\nlL. 歼… 工.中心 于. 新石器时代考古-中国 人.K871.13\n中国版本"
+      },
+      {
+        "text": "元",
+        "page": 4,
+        "source": "ocr",
+        "context": ". !一2000册\n\n定价:120.00元\n"
+      },
+      {
+        "text": "新石器时代",
+        "page": 6,
+        "source": "ocr",
+        "context": "新右只时代察落?发掘报告,是我国北方地区新石器时代革市漂到同。\n它全面而系统地报道了考古所"
+      },
+      {
+        "text": "新石器时代",
+        "page": 6,
+        "source": "ocr",
+        "context": "\n\n赵宗沟文化是 80 年代新发现的一支新石器时代文化,极为重要. 赵宝沟文化的陶、右\n器"
+      },
+      {
+        "text": "明",
+        "page": 6,
+        "source": "ocr",
+        "context": ",极为重要. 赵宝沟文化的陶、右\n器物群明显地有别于这一地区已知的考古学文化。本报"
+      },
+      {
+        "text": "新石器时代",
+        "page": 6,
+        "source": "ocr",
+        "context": "化内涵、特征和外延做子界定，对北\n方地区新石器时代文化发展序列的研究具有重要的学术价值。\n"
+      },
+      {
+        "text": "金",
+        "page": 6,
+        "source": "ocr",
+        "context": "特此推荐申请中国社会科学院研究成果出版基金，搜取本书早日出版。\n\n中国社会科学院考"
+      },
+      {
+        "text": "新石器时代",
+        "page": 6,
+        "source": "ocr",
+        "context": "古研究所研究贡 ta\n\n《歼汉赵宝沟一-新石器时代聚落?屁赵室沟文化刀先发现并用以命名的地"
+      },
+      {
+        "text": "明",
+        "page": 6,
+        "source": "ocr",
+        "context": "内容是经过科学发气的资料的全面报道。文字明白，逻辑清楚，居述准傅。\n赵宝沟文化是又"
+      },
+      {
+        "text": "清",
+        "page": 6,
+        "source": "ocr",
+        "context": "科学发气的资料的全面报道。文字明白，逻辑清楚，居述准傅。\n赵宝沟文化是又一次从第统"
+      },
+      {
+        "text": "新石器时代",
+        "page": 6,
+        "source": "ocr",
+        "context": "种新右器时代的普击尝文\n化，对于中国北方新石器时代文化的比较研究具有开拓意义。固其年代跨度"
+      },
+      {
+        "text": "红山",
+        "page": 6,
+        "source": "ocr",
+        "context": "具有开拓意义。固其年代跨度、地域分布与\n红山文化有交错，将对内蒙古长城地带的传统认识"
+      },
+      {
+        "text": "金",
+        "page": 6,
+        "source": "ocr",
+        "context": "郑重推荐申请中鸭社会科学院研究成果出版基金。\n中国社会补学院考古研究所研究间 刘观"
+      },
+      {
+        "text": "新石器时代",
+        "page": 6,
+        "source": "ocr",
+        "context": "\n学术委员会评审意见\n\nCRORE — 新石器时代束落》考古发气报告，资料翔实完整，内勿攻"
+      },
+      {
+        "text": "新石器时代",
+        "page": 6,
+        "source": "ocr",
+        "context": "侯的数十挛房址和其他相关遗迹，对探讨中国新石器时代的聚落形态及小有关的\n学术问题有重要意义"
+      },
+      {
+        "text": "明",
+        "page": 6,
+        "source": "ocr",
+        "context": "宝沟及其村类文化\n遗存的特征和性质，作者明确担出了“赵宝沟文化”的命名 这是 80"
+      },
+      {
+        "text": "金",
+        "page": 6,
+        "source": "ocr",
+        "context": "此推荐申请中国注会科学院\n研究成果出版些金。\n\n中国社会补学院考十研\n\n完所学术委"
+      }
+    ],
+    "遗址名称": [
+      {
+        "text": "赵宝沟",
+        "page": 4,
+        "source": "ocr",
+        "context": "年代距今约 6800 年。该聚落遗址是“赵宝沟文化”的\n命名地，遗存典型而丰富，面积约"
+      },
+      {
+        "text": "赵宝沟",
+        "page": 4,
+        "source": "ocr",
+        "context": "值。\n\nBEA (CIP) 数据\n\n元汉赵宝沟，新石器时代聚落/中国社会科学院考古研究"
+      },
+      {
+        "text": "赵宝沟",
+        "page": 6,
+        "source": "ocr",
+        "context": "专家推荐意见\n\n《均汉赵宝沟-一新右只时代察落?发掘报告,是我国北方"
+      },
+      {
+        "text": "赵宝沟",
+        "page": 6,
+        "source": "ocr",
+        "context": "报道了考古所内繁古队 1986 年在歼汉赵宝沟聚落扯址发所的全部资料，\n\n赵宗沟文化是"
+      },
+      {
+        "text": "赵宝沟",
+        "page": 6,
+        "source": "ocr",
+        "context": "新发现的一支新石器时代文化,极为重要. 赵宝沟文化的陶、右\n器物群明显地有别于这一地区"
+      },
+      {
+        "text": "赵宝沟",
+        "page": 6,
+        "source": "ocr",
+        "context": "者通过对发据资料的改理与\n研究，进一步对赵宝沟文化的命名加以确认，并对文化内涵、特征和"
+      },
+      {
+        "text": "赵宝沟",
+        "page": 6,
+        "source": "ocr",
+        "context": "化发展序列的研究具有重要的学术价值。\n\n赵宝沟聚落遗址的房屋是成排成组的建筑群，与陕西"
+      },
+      {
+        "text": "赵宝沟",
+        "page": 6,
+        "source": "ocr",
+        "context": "会科学院考古研究所研究贡 ta\n\n《歼汉赵宝沟一-新石器时代聚落?屁赵室沟文化刀先发现"
+      },
+      {
+        "text": "赵宝沟",
+        "page": 6,
+        "source": "ocr",
+        "context": "面报道。文字明白，逻辑清楚，居述准傅。\n赵宝沟文化是又一次从第统的细石器文化中识别出来"
+      },
+      {
+        "text": "赵宝沟",
+        "page": 6,
+        "source": "ocr",
+        "context": "报道了中国社会科学陀考古研究所内昆古队对赵宝沟聚落址址的发握收\n获。已揭侯的数十挛房址"
+      },
+      {
+        "text": "赵宝沟",
+        "page": 6,
+        "source": "ocr",
+        "context": "同时出土了一批很有特色的器物群。综合分析赵宝沟及其村类文化\n遗存的特征和性质，作者明确"
+      },
+      {
+        "text": "赵宝沟",
+        "page": 6,
+        "source": "ocr",
+        "context": "文化\n遗存的特征和性质，作者明确担出了“赵宝沟文化”的命名 这是 80 年代中国新有器"
+      },
+      {
+        "text": "赵宝沟",
+        "page": 6,
+        "source": "ocr",
+        "context": "考古具有重要学术价值、\n\n这部发据报告对赵宝沟文化命名地的遗存进行了系统而科学地理和研"
+      },
+      {
+        "text": "赵宝沟",
+        "page": 8,
+        "source": "ocr",
+        "context": "       ~ (214)\n第一节“”赵宝沟文化的命名…              "
+      },
+      {
+        "text": "赵宝沟",
+        "page": 14,
+        "source": "ocr",
+        "context": "图版目录\n\n彩1 赵宝沟聚落遗直全景       32 陶器\n\n"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "房址",
+        "page": 4,
+        "source": "ocr",
+        "context": " 80 RRMA BE. RT 17 座房址、1 个\nBeak. 5 PRL 1 处"
+      },
+      {
+        "text": "房址",
+        "page": 6,
+        "source": "ocr",
+        "context": "宝沟聚落址址的发握收\n获。已揭侯的数十挛房址和其他相关遗迹，对探讨中国新石器时代的聚"
+      },
+      {
+        "text": "房址",
+        "page": 7,
+        "source": "ocr",
+        "context": "第--章“单位遗存详述ee\n一、 第一区房址形制和遗物和ee\n二、第二区房址形制和遗"
+      },
+      {
+        "text": "房址",
+        "page": 7,
+        "source": "ocr",
+        "context": " 第一区房址形制和遗物和ee\n二、第二区房址形制和遗物\n\n第二节 PRET BALA"
+      },
+      {
+        "text": "灰坑",
+        "page": 7,
+        "source": "ocr",
+        "context": "enaseaenae\n一-、 第一  区灰坑形制和中移和ee\n\n、第二区其坊形制和遗"
+      },
+      {
+        "text": "房址",
+        "page": 8,
+        "source": "ocr",
+        "context": "           + (202)\n、房址分类-……               "
+      },
+      {
+        "text": "房址",
+        "page": 8,
+        "source": "ocr",
+        "context": "        +» (202)\n\n三、房址的复原…     seen       "
+      },
+      {
+        "text": "房址",
+        "page": 8,
+        "source": "ocr",
+        "context": "     《218)》\n附表 2 第一区房址统计表“                "
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "K871",
+        "page": 4,
+        "source": "ocr",
+        "context": ".中心 于. 新石器时代考古-中国 人.K871.13\n中国版本图书馆 CIP 数据核字"
+      },
+      {
+        "text": "F2",
+        "page": 10,
+        "source": "ocr",
+        "context": "              … 《9)\nF2 陶器 -……        1)\nF2"
+      },
+      {
+        "text": "F2",
+        "page": 10,
+        "source": "ocr",
+        "context": "陶器-ee        = (14)\nF2 Bay BY cov cer ov e"
+      },
+      {
+        "text": "F2",
+        "page": 10,
+        "source": "ocr",
+        "context": "enens        « (15)\nF2 石器…                "
+      },
+      {
+        "text": "F3",
+        "page": 10,
+        "source": "ocr",
+        "context": "ed    oo       (20)\nF3 my 35        ee    "
+      },
+      {
+        "text": "F3",
+        "page": 10,
+        "source": "ocr",
+        "context": "       ee       23)\nF3 4, ae,  ES         "
+      },
+      {
+        "text": "F6s",
+        "page": 10,
+        "source": "ocr",
+        "context": "               (27)\nF6s-F. WMA         oe e"
+      },
+      {
+        "text": "F6",
+        "page": 10,
+        "source": "ocr",
+        "context": "measenenessnss (29)\nF6 Ble] BH soo ssn see"
+      },
+      {
+        "text": "F6",
+        "page": 10,
+        "source": "ocr",
+        "context": "sarssaenee sae (30)\nF6 陶器 (31)\nF6 陶器      "
+      },
+      {
+        "text": "F6",
+        "page": 10,
+        "source": "ocr",
+        "context": "sae (30)\nF6 陶器 (31)\nF6 陶器        tes      "
+      },
+      {
+        "text": "F6",
+        "page": 10,
+        "source": "ocr",
+        "context": "             + (32)\nF6 石器……               "
+      },
+      {
+        "text": "F7",
+        "page": 10,
+        "source": "ocr",
+        "context": "+ 5)\n下7 内器-     see\nF7 Hage (41)\nF7 (ja --"
+      },
+      {
+        "text": "F7",
+        "page": 10,
+        "source": "ocr",
+        "context": "   see\nF7 Hage (41)\nF7 (ja --             "
+      },
+      {
+        "text": "F7",
+        "page": 10,
+        "source": "ocr",
+        "context": "               (42)\nF7 Age                "
+      },
+      {
+        "text": "F7",
+        "page": 10,
+        "source": "ocr",
+        "context": " ee:         * (43)\nF7 Mage       4\nET 骨蚌器"
+      },
+      {
+        "text": "F8",
+        "page": 11,
+        "source": "ocr",
+        "context": "\n69\n70\n71\n72\n73\n74\n\nF8 陶器-pp\n\nFB 石器-ee\nFoF"
+      },
+      {
+        "text": "F9",
+        "page": 11,
+        "source": "ocr",
+        "context": "p\n\nFB 石器-ee\nFoF. HE\nF9 Pi BE cre tee cee c"
+      },
+      {
+        "text": "F9",
+        "page": 11,
+        "source": "ocr",
+        "context": ".ee   eevee eee eee\nF9 陶器 .ee\nF9 陶器 ee con"
+      },
+      {
+        "text": "F9",
+        "page": 11,
+        "source": "ocr",
+        "context": "e eee eee\nF9 陶器 .ee\nF9 陶器 ee cone\nF9 陶器58)"
+      },
+      {
+        "text": "F9",
+        "page": 11,
+        "source": "ocr",
+        "context": "器 .ee\nF9 陶器 ee cone\nF9 陶器58)\n\nF9 石器、细石器 pp"
+      },
+      {
+        "text": "F9",
+        "page": 11,
+        "source": "ocr",
+        "context": "器 ee cone\nF9 陶器58)\n\nF9 石器、细石器 pp\nF9 Se    "
+      },
+      {
+        "text": "F9",
+        "page": 11,
+        "source": "ocr",
+        "context": "陶器58)\n\nF9 石器、细石器 pp\nF9 Se               oo"
+      },
+      {
+        "text": "F10",
+        "page": 11,
+        "source": "ocr",
+        "context": "图 和ee            oo\nF10 陶器 eee ee\nF13平、 剖面图"
+      },
+      {
+        "text": "F13",
+        "page": 11,
+        "source": "ocr",
+        "context": "eee ee\nF13平、 剖面图 ee\nF13 陶器 aa              "
+      },
+      {
+        "text": "F13",
+        "page": 11,
+        "source": "ocr",
+        "context": "ooovooooeoeroo 【80)\nF13 陶器 ，……\nF13 石器、 ae. "
+      },
+      {
+        "text": "F13",
+        "page": 11,
+        "source": "ocr",
+        "context": "roo 【80)\nF13 陶器 ，……\nF13 石器、 ae. ike ae\nFl4平"
+      },
+      {
+        "text": "F14",
+        "page": 11,
+        "source": "ocr",
+        "context": "Fl4平、剖而殴 -        a\nF14 陶器  eee nea nee nan"
+      },
+      {
+        "text": "F101",
+        "page": 11,
+        "source": "ocr",
+        "context": "iitisiitit ete erry\nF101 平， 剖面图.pe\nF101 陶器，\n"
+      },
+      {
+        "text": "F101",
+        "page": 11,
+        "source": "ocr",
+        "context": "erry\nF101 平， 剖面图.pe\nF101 陶器，\nFl101 石器       "
+      },
+      {
+        "text": "F102",
+        "page": 11,
+        "source": "ocr",
+        "context": "tye SM”) f10 2s pe\n\nF102 石器…  ooooovosssvooo"
+      },
+      {
+        "text": "F103",
+        "page": 11,
+        "source": "ocr",
+        "context": "…\"”，        oo 992)\nF103 陶器 …         re\n\nF1"
+      },
+      {
+        "text": "F103",
+        "page": 11,
+        "source": "ocr",
+        "context": "03 陶器 …         re\n\nF103 陶器…\nF103 陶器…\nF103 石"
+      },
+      {
+        "text": "F103",
+        "page": 11,
+        "source": "ocr",
+        "context": "       re\n\nF103 陶器…\nF103 陶器…\nF103 石器、细石器、骨器…"
+      },
+      {
+        "text": "F103",
+        "page": 11,
+        "source": "ocr",
+        "context": "\n\nF103 陶器…\nF103 陶器…\nF103 石器、细石器、骨器…\n\n"
+      },
+      {
+        "text": "F105",
+        "page": 12,
+        "source": "ocr",
+        "context": " Bog +\nFiod 47 a +\n\nF105 PBS ee\nEl06 Ff, Ami"
+      },
+      {
+        "text": "F106",
+        "page": 12,
+        "source": "ocr",
+        "context": "e\nEl06 Ff, Amiel …\n\nF106 44 By ee\nF106 Fp BR"
+      },
+      {
+        "text": "F106",
+        "page": 12,
+        "source": "ocr",
+        "context": "el …\n\nF106 44 By ee\nF106 Fp BR cee eeeeeeee\n"
+      },
+      {
+        "text": "H2",
+        "page": 12,
+        "source": "ocr",
+        "context": "BR cee eeeeeeee\nHl, H2*4, Wm -\nHL 陶器\nHI fi"
+      },
+      {
+        "text": "H3",
+        "page": 12,
+        "source": "ocr",
+        "context": "snssusssvsceuseses\n\nH3 7, eal -        vee"
+      },
+      {
+        "text": "H3",
+        "page": 12,
+        "source": "ocr",
+        "context": "7, eal -        vee\nH3 BRE. 7 ae, ek ne\nHa"
+      },
+      {
+        "text": "H4",
+        "page": 12,
+        "source": "ocr",
+        "context": " ne\nHa, AREER) ween\nH4 Re\n\nKiol Bye\n陶器类型 ("
+      },
+      {
+        "text": "F104",
+        "page": 12,
+        "source": "ocr",
+        "context": "es sen nas san aes\n\nF104 和器 or\n\n《105)\n《106)\n"
+      },
+      {
+        "text": "F106",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n\n\" CIID\n\nC113)\n\n4)\nF106 Pay BS ee\n\n(115)\n(1"
+      },
+      {
+        "text": "F9",
+        "page": 13,
+        "source": "ocr",
+        "context": "\nSOMA (一)\nSOWA 〈二)\n\nF9 复原图〈二》…\n\nFS 复原图 (三》"
+      },
+      {
+        "text": "F103",
+        "page": 14,
+        "source": "ocr",
+        "context": "       33 网器\n\n彩3 —K F103 遗迹           34 陶器\n"
+      },
+      {
+        "text": "F104",
+        "page": 14,
+        "source": "ocr",
+        "context": "       34 陶器\n\n彩4 —K F104, Fi05 遗迹        35 "
+      },
+      {
+        "text": "F7",
+        "page": 15,
+        "source": "ocr",
+        "context": " : 53一1一9)\nCP) 细石器 (F7@ :57一1一5)\nMBH (F9@ "
+      },
+      {
+        "text": "F9",
+        "page": 15,
+        "source": "ocr",
+        "context": " (F7@ :57一1一5)\nMBH (F9@ : 76一1一14)\nMAG\n\n细石"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "饰",
+        "page": 4,
+        "source": "ocr",
+        "context": "遗物，特别是陶器表面多种多样的几何\n形纹饰独具特色。该报告将所获遗迹、址物按考古单"
+      },
+      {
+        "text": "饰",
+        "page": 4,
+        "source": "ocr",
+        "context": "城地带的考古学文化谱系, 以及对陆\n器纹饰所反映相关问题的认识，都具有重要的参考价"
+      },
+      {
+        "text": "刀",
+        "page": 6,
+        "source": "ocr",
+        "context": "汉赵宝沟一-新石器时代聚落?屁赵室沟文化刀先发现并用以命名的地点的发掩报\n告。报告"
+      },
+      {
+        "text": "环",
+        "page": 7,
+        "source": "ocr",
+        "context": "一节 ”历史沿革与地理环境\n\n第二章 “文化遗物分述\n\n第一节 "
+      },
+      {
+        "text": "饰",
+        "page": 8,
+        "source": "ocr",
+        "context": "2) ee 《220)\nWe 5 陶器纹饰单位统计表 C1) (2)   ne  "
+      },
+      {
+        "text": "饰",
+        "page": 13,
+        "source": "ocr",
+        "context": "“   人\n\n之字形纹拓片\n\n其他陶器纹饰拓片 ee new eee ons oe"
+      },
+      {
+        "text": "饰",
+        "page": 13,
+        "source": "ocr",
+        "context": " eee ons oenee\n其他陶器纹饰拓片 和和和\n石器类型 〈一)\n石器类型"
+      },
+      {
+        "text": "饰",
+        "page": 14,
+        "source": "ocr",
+        "context": "         36 人面像、动物形纹饰\n2 KR              3"
+      },
+      {
+        "text": "饰",
+        "page": 14,
+        "source": "ocr",
+        "context": "            37 陶器器底纹饰\n\n3 KRG             "
+      },
+      {
+        "text": "钵",
+        "page": 14,
+        "source": "ocr",
+        "context": "        52 AF\n\n18 平底钵               53 AF"
+      },
+      {
+        "text": "钵",
+        "page": 14,
+        "source": "ocr",
+        "context": "        54 AF\n\n20 平底钵               55 EF"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": " 787 毫米",
+        "page": 4,
+        "source": "ocr",
+        "context": "1版 1997年11月第1次印刷\n开本: 787 毫米X1092 毫米 1/16 印张: 16"
+      },
+      {
+        "text": "1092 毫米",
+        "page": 4,
+        "source": "ocr",
+        "context": "11月第1次印刷\n开本: 787 毫米X1092 毫米 1/16 印张: 16.75 捅页，5"
+      },
+      {
+        "text": "3 m",
+        "page": 10,
+        "source": "ocr",
+        "context": "d    oo       (20)\nF3 my 35        ee      "
+      }
+    ],
+    "陶器": [
+      {
+        "text": "刀",
+        "page": 6,
+        "source": "ocr",
+        "context": "汉赵宝沟一-新石器时代聚落?屁赵室沟文化刀先发现并用以命名的地点的发掩报\n告。报告"
+      },
+      {
+        "text": "环",
+        "page": 7,
+        "source": "ocr",
+        "context": "一节 ”历史沿革与地理环境\n\n第二章 “文化遗物分述\n\n第一节 "
+      },
+      {
+        "text": "钵",
+        "page": 14,
+        "source": "ocr",
+        "context": "        52 AF\n\n18 平底钵               53 AF"
+      },
+      {
+        "text": "钵",
+        "page": 14,
+        "source": "ocr",
+        "context": "        54 AF\n\n20 平底钵               55 EF"
+      }
+    ],
+    "发掘区": [
+      {
+        "text": "第一区",
+        "page": 7,
+        "source": "ocr",
+        "context": "s\n\n第--章“单位遗存详述ee\n一、 第一区房址形制和遗物和ee\n二、第二区房址形制"
+      },
+      {
+        "text": "第二区",
+        "page": 7,
+        "source": "ocr",
+        "context": "\n一、 第一区房址形制和遗物和ee\n二、第二区房址形制和遗物\n\n第二节 PRET BA"
+      },
+      {
+        "text": "第二区",
+        "page": 7,
+        "source": "ocr",
+        "context": "、 第一  区灰坑形制和中移和ee\n\n、第二区其坊形制和遗物…-\neres re\n\n…"
+      },
+      {
+        "text": "第一区",
+        "page": 8,
+        "source": "ocr",
+        "context": "        《218)》\n附表 2 第一区房址统计表“              "
+      }
+    ],
+    "石器": [
+      {
+        "text": "石磨棒",
+        "page": 15,
+        "source": "ocr",
+        "context": "8\n79\n80\n81\n\n石器\n\naE\n\n石磨棒\n\nOBS. GBS. BA\n\nABE\n"
+      }
+    ]
+  }
+}

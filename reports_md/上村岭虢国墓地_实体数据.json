@@ -1,0 +1,270 @@
+{
+  "name": "上村岭虢国墓地",
+  "file": "上村岭虢国墓地.pdf",
+  "era": "西周-春秋",
+  "culture": "虢国",
+  "processed_pages": 12,
+  "total_entities": 40,
+  "entity_stats": {
+    "年代": 1,
+    "遗迹编号": 27,
+    "测量数据": 9,
+    "陶器": 1,
+    "铜器": 1,
+    "玉器": 1
+  },
+  "entities": {
+    "年代": [
+      {
+        "text": "西周",
+        "page": 3,
+        "source": "ocr",
+        "context": " LIM 655 年名起否所诚),是研究西周和东 AZAR, HOB RS\nSERA"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "M1612",
+        "page": 8,
+        "source": "ocr",
+        "context": "SE -\n\nx, 1601 BH\n£, M1612 号\n\nSR, 95 1631-5 --"
+      },
+      {
+        "text": "M1715",
+        "page": 9,
+        "source": "ocr",
+        "context": "0281\n可”草地全最和|\n1, aC\nM1715, 17\n加              "
+      },
+      {
+        "text": "M8",
+        "page": 10,
+        "source": "ocr",
+        "context": "03:5 9.4, BIE 16.4 (M8) 3.0\nCH 174126 % 12"
+      },
+      {
+        "text": "H8",
+        "page": 10,
+        "source": "ocr",
+        "context": "74126 % 12, MEB19.2(H8) 4。 式1719:4高11.17 M"
+      },
+      {
+        "text": "M119",
+        "page": 10,
+        "source": "ocr",
+        "context": "EIT.6 (8) 5.\n169531 M119, 16.8008) 6: BZ 182"
+      },
+      {
+        "text": "M5",
+        "page": 11,
+        "source": "ocr",
+        "context": "3)\n1. IW AZ 1689732 M5 27.5, BEE 26.8 (13)"
+      },
+      {
+        "text": "M17",
+        "page": 11,
+        "source": "ocr",
+        "context": ".1 BX 1620213 & 21, M17 (HL 13) 6. VR 17   "
+      },
+      {
+        "text": "P82",
+        "page": 12,
+        "source": "ocr",
+        "context": "ste 12, 1% (U8) IT\n\nP82, 082048) 3.8式\nWis, "
+      },
+      {
+        "text": "H82",
+        "page": 12,
+        "source": "ocr",
+        "context": ".1, 5.2\nBi6.2 012)\n\nH82. ms 30.3, m8 19. 30"
+      },
+      {
+        "text": "M0",
+        "page": 12,
+        "source": "ocr",
+        "context": "TAS\nMA SRR IE\n15.9, M0.2(H27) 2\n10.3 (B27 "
+      },
+      {
+        "text": "H27",
+        "page": 12,
+        "source": "ocr",
+        "context": "A SRR IE\n15.9, M0.2(H27) 2\n10.3 (B27 ) 4. M"
+      },
+      {
+        "text": "M16",
+        "page": 12,
+        "source": "ocr",
+        "context": "7) 2\n10.3 (B27 ) 4. M16:       ) 5. 条1785:6"
+      },
+      {
+        "text": "G20",
+        "page": 12,
+        "source": "ocr",
+        "context": ".» tas REE) 109127 (G20) 3. a\n1714218 (BU 2"
+      },
+      {
+        "text": "F102",
+        "page": 13,
+        "source": "ocr",
+        "context": "L 16)\na          Sh F102 号蔓出士的纲武天\ni         "
+      },
+      {
+        "text": "H14",
+        "page": 13,
+        "source": "ocr",
+        "context": "30 高 22.5,\nSBM 5-5, H14,1%0.75 (HL 22) 3. 部"
+      },
+      {
+        "text": "H6",
+        "page": 13,
+        "source": "ocr",
+        "context": "22) 3. 部丹名 10522169 H6 13.4, BH 4.2, 18 7."
+      },
+      {
+        "text": "F428",
+        "page": 13,
+        "source": "ocr",
+        "context": ") 64M 105229 长\n2.6 (F428) 7. SAREE 1952:66-3"
+      },
+      {
+        "text": "P20",
+        "page": 14,
+        "source": "ocr",
+        "context": " 5.5, e108 24 (16)\n\nP20 9.1342 1082254 xy\n2"
+      },
+      {
+        "text": "M202",
+        "page": 14,
+        "source": "ocr",
+        "context": "oy\n(ees Ota) 5.m葡?的\nM202. 10085 10522665.\nFO"
+      },
+      {
+        "text": "P2891",
+        "page": 14,
+        "source": "ocr",
+        "context": "5 (50-21) 10.\n21)\n\n(P2891.2 $4.8 (021) 20.5,\n"
+      },
+      {
+        "text": "P880:4617",
+        "page": 14,
+        "source": "ocr",
+        "context": ") 6 Ariat 105229 32\nP880:4617.2 (5120) 5g\nPRIOR 1"
+      },
+      {
+        "text": "G13",
+        "page": 14,
+        "source": "ocr",
+        "context": "218 6 15.6, BEES 17 G13)\nSSB 1705291 长 5.5 "
+      },
+      {
+        "text": "M21",
+        "page": 14,
+        "source": "ocr",
+        "context": " 2.95 (页 21) 大\n3.1 (M21)\nSk $1705 SSH wma\n1"
+      },
+      {
+        "text": "M6",
+        "page": 14,
+        "source": "ocr",
+        "context": "B18)\n3: TAR 1706399 M6 21.5 BEE 26 (BL AL "
+      },
+      {
+        "text": "G2",
+        "page": 14,
+        "source": "ocr",
+        "context": "06248 $22.2 (BE 20)\nG2 M1711 See RMR RSH M"
+      },
+      {
+        "text": "M1711",
+        "page": 14,
+        "source": "ocr",
+        "context": "48 $22.2 (BE 20)\nG2 M1711 See RMR RSH Mey\n1基底"
+      },
+      {
+        "text": "K6",
+        "page": 15,
+        "source": "ocr",
+        "context": " ,4 (页 22) 9. REA 1\nK6 (B22) 4. 玉环 1810755"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": "82. m",
+        "page": 12,
+        "source": "ocr",
+        "context": "1, 5.2\nBi6.2 012)\n\nH82. ms 30.3, m8 19. 30591"
+      },
+      {
+        "text": "2m",
+        "page": 12,
+        "source": "ocr",
+        "context": "mets 24.5 (50 13)\n\n(2m 23.5, me 22.5 (页1\nB"
+      },
+      {
+        "text": " 3m",
+        "page": 13,
+        "source": "ocr",
+        "context": "5, 口径4.9 (页\n18) 3.18 3m 1052517386 11, BEE "
+      },
+      {
+        "text": " 1708\nm",
+        "page": 13,
+        "source": "ocr",
+        "context": "EE\n1, 第1704 SE\n3. RR 1708\nme 第1704 SHH\nB29, 431"
+      },
+      {
+        "text": " 2m",
+        "page": 14,
+        "source": "ocr",
+        "context": " wos297.1 415.6\n\n(PD 2m t0s2:72 517.3 oy\n(e"
+      },
+      {
+        "text": " 5.m",
+        "page": 14,
+        "source": "ocr",
+        "context": "2 517.3 oy\n(ees Ota) 5.m葡?的\nM202. 10085 1052"
+      },
+      {
+        "text": "7 m",
+        "page": 14,
+        "source": "ocr",
+        "context": " 31) fae 1612:65 下经.7 mo.38 (527) 3 Viste\nM"
+      },
+      {
+        "text": "      2m",
+        "page": 15,
+        "source": "ocr",
+        "context": ", MERE DE HAS) 2. TR      2m 12, £23 (13)       "
+      },
+      {
+        "text": " 3. m",
+        "page": 15,
+        "source": "ocr",
+        "context": "8 7; BERS 21.2 (HAs) 3. me\n1820716 #6 45.6, F"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "环",
+        "page": 15,
+        "source": "ocr",
+        "context": " REA 1\nK6 (B22) 4. 玉环 1810755 WS 1.6 (页 2"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "环",
+        "page": 15,
+        "source": "ocr",
+        "context": " REA 1\nK6 (B22) 4. 玉环 1810755 WS 1.6 (页 2"
+      }
+    ],
+    "玉器": [
+      {
+        "text": "玉环",
+        "page": 15,
+        "source": "ocr",
+        "context": ". REA 1\nK6 (B22) 4. 玉环 1810755 WS 1.6 (页 2"
+      }
+    ]
+  }
+}

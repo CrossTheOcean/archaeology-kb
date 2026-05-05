@@ -1,0 +1,480 @@
+{
+  "name": "汉长安城未央宫",
+  "file": "汉长安城未央宫.pdf",
+  "era": "汉代",
+  "culture": "宫殿遗址",
+  "processed_pages": 15,
+  "total_entities": 73,
+  "entity_stats": {
+    "遗址名称": 16,
+    "遗迹编号": 21,
+    "年代": 11,
+    "层位关系": 14,
+    "遗存类型": 1,
+    "探方编号": 3,
+    "建筑结构": 2,
+    "遗迹类型": 1,
+    "铜器": 3,
+    "陶器": 1
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "西汉",
+        "page": 3,
+        "source": "ocr",
+        "context": "要 HR4e\n\nAf fi 3\n\n本书是西汉首都长安城未央官遗址 1980 年一19"
+      },
+      {
+        "text": "长安",
+        "page": 3,
+        "source": "ocr",
+        "context": "4e\n\nAf fi 3\n\n本书是西汉首都长安城未央官遗址 1980 年一1989 F"
+      },
+      {
+        "text": "长安",
+        "page": 3,
+        "source": "ocr",
+        "context": "rr\n\n图书在版编目(CIP)数扼\n\n汉长安城未史官/中国社会科学院考古研究所编著 "
+      },
+      {
+        "text": "长安",
+        "page": 3,
+        "source": "ocr",
+        "context": "3\n\n[.汉… 工.中… 下.未央官一汉长安城一发掘报告 V.K878. 05\n中国"
+      },
+      {
+        "text": "长安",
+        "page": 4,
+        "source": "ocr",
+        "context": "专家推存意山\n\n《汉长安城末央家 }》是一部报导汉长安城未央店遗"
+      },
+      {
+        "text": "长安",
+        "page": 4,
+        "source": "ocr",
+        "context": "山\n\n《汉长安城末央家 }》是一部报导汉长安城未央店遗址 80 FE CED AT "
+      },
+      {
+        "text": "长安",
+        "page": 4,
+        "source": "ocr",
+        "context": "Ae HR BOOB He\n专辑,也是汉长安城遗址考古工作的第一部正式发掘报告，\n\n"
+      },
+      {
+        "text": "西汉",
+        "page": 4,
+        "source": "ocr",
+        "context": "土的大量文物,其中数万枚刻铭\n骨签是研究西汉中央官赤和各地工官关系的重要资料。\n\n本"
+      },
+      {
+        "text": "长安",
+        "page": 4,
+        "source": "ocr",
+        "context": "会科学院考古研究所研究员 GBA\n\n《汉长安城未央家;一书是中国社会科学院考证人研究"
+      },
+      {
+        "text": "长安",
+        "page": 4,
+        "source": "ocr",
+        "context": "资料。其次,对未央宫的规模,布局及宫城与长安城的中轴线等问题,进行了分析研究,并阐\n"
+      },
+      {
+        "text": "长安",
+        "page": 4,
+        "source": "ocr",
+        "context": "员 ”重凡人\n\nAZ Na VE\n\n《汉长安城未央宫;发掘报告是我国汉代考古学上的一"
+      },
+      {
+        "text": "长安",
+        "page": 4,
+        "source": "ocr",
+        "context": "代考古学上的一项值得重视的新成果。\n\n汉长安城是西汉王朝的都城,可与欧洲的罗马并列为"
+      },
+      {
+        "text": "西汉",
+        "page": 4,
+        "source": "ocr",
+        "context": "上的一项值得重视的新成果。\n\n汉长安城是西汉王朝的都城,可与欧洲的罗马并列为当时全世"
+      },
+      {
+        "text": "长安",
+        "page": 4,
+        "source": "ocr",
+        "context": "为当时全世界最著名的国际都会未\n央宫是汉长安城内的主要宫城,是西汉王朝的政治中枢所在"
+      },
+      {
+        "text": "西汉",
+        "page": 4,
+        "source": "ocr",
+        "context": "际都会未\n央宫是汉长安城内的主要宫城,是西汉王朝的政治中枢所在。在汉长安城的考古工作"
+      },
+      {
+        "text": "长安",
+        "page": 4,
+        "source": "ocr",
+        "context": "主要宫城,是西汉王朝的政治中枢所在。在汉长安城的考古工作中,未\n央宫遗址的勘探和发据"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "K878",
+        "page": 3,
+        "source": "ocr",
+        "context": "… 下.未央官一汉长安城一发掘报告 V.K878. 05\n中国版本图书馆 CIP 数据核"
+      },
+      {
+        "text": "T2",
+        "page": 9,
+        "source": "ocr",
+        "context": "] BE pe\n一三”宣城西南角楼遗址 T2 东壁剖面图 ………\n一四 es Ae "
+      },
+      {
+        "text": "T1",
+        "page": 10,
+        "source": "ocr",
+        "context": "DETR 7 ot AH ++\n\nak T1 EER ~\n\nTot TE FA BA"
+      },
+      {
+        "text": "M2",
+        "page": 10,
+        "source": "ocr",
+        "context": "e\njee TE WS BABE IE M2 平面图pe\n遗址早期堆积出土土坏和和砖"
+      },
+      {
+        "text": "T4",
+        "page": 11,
+        "source": "ocr",
+        "context": "ER Tr 4 Fi FA\nA Rok T4 北壁前面图 …\n\n椒房典配磺遗址平面图"
+      },
+      {
+        "text": "P14",
+        "page": 11,
+        "source": "ocr",
+        "context": "oeooocociooossoeos (P14)\n\nHET 3S BRE GEE TI"
+      },
+      {
+        "text": "F2",
+        "page": 14,
+        "source": "ocr",
+        "context": "官署遗址东院 下2\n\n中央官署遗址东院 F2\n\n中央官署遗址东院 F3\n\n中央官署遗"
+      },
+      {
+        "text": "F3",
+        "page": 14,
+        "source": "ocr",
+        "context": "官署遗址东院 F2\n\n中央官署遗址东院 F3\n\n中央官署遗址东院 F3\n\n中央官署遗"
+      },
+      {
+        "text": "F3",
+        "page": 14,
+        "source": "ocr",
+        "context": "官署遗址东院 F3\n\n中央官署遗址东院 F3\n\n中央官署遗址东院北排房屋\nHe ee"
+      },
+      {
+        "text": "F4",
+        "page": 14,
+        "source": "ocr",
+        "context": "东院北排房屋\nHe ee Bt ARE F4\n\nHes ahh et Bit DE "
+      },
+      {
+        "text": "F5",
+        "page": 14,
+        "source": "ocr",
+        "context": "ahh et Bit DE AR ee F5\n\n中央官署遗址东院 F 6\n\n中央官署"
+      },
+      {
+        "text": "F6",
+        "page": 14,
+        "source": "ocr",
+        "context": "署遗址东院 F 6\n\n中央官署遗址东院 F6\n\n中央官署遗址东院 F6\n\n中央官署遗"
+      },
+      {
+        "text": "F6",
+        "page": 14,
+        "source": "ocr",
+        "context": "官署遗址东院 F6\n\n中央官署遗址东院 F6\n\n中央官署遗址东院 F7\n\nRE Si"
+      },
+      {
+        "text": "F7",
+        "page": 14,
+        "source": "ocr",
+        "context": "官署遗址东院 F6\n\n中央官署遗址东院 F7\n\nRE Si OL FRB HE a "
+      },
+      {
+        "text": "F8",
+        "page": 14,
+        "source": "ocr",
+        "context": "官署遗址东院二号天井\n中央官署遗址西院 F8\n\n中央官署遗址西院 F8、F9\n中央官"
+      },
+      {
+        "text": "F8",
+        "page": 14,
+        "source": "ocr",
+        "context": "官署遗址西院 F8\n\n中央官署遗址西院 F8、F9\n中央官署遗址西院 F9\n\n中央官"
+      },
+      {
+        "text": "F9",
+        "page": 14,
+        "source": "ocr",
+        "context": "址西院 F8\n\n中央官署遗址西院 F8、F9\n中央官署遗址西院 F9\n\n中央官署遗址"
+      },
+      {
+        "text": "F9",
+        "page": 14,
+        "source": "ocr",
+        "context": "遗址西院 F8、F9\n中央官署遗址西院 F9\n\n中央官署遗址西院 F9\n\n中央官署遗"
+      },
+      {
+        "text": "F9",
+        "page": 14,
+        "source": "ocr",
+        "context": "官署遗址西院 F9\n\n中央官署遗址西院 F9\n\n中央官署遗址西院 FO 北侧坡道\n中"
+      },
+      {
+        "text": "F4",
+        "page": 14,
+        "source": "ocr",
+        "context": "Hp Ry A OL AG HE se F4 和下12一F15\nrf ake er "
+      },
+      {
+        "text": "F14",
+        "page": 14,
+        "source": "ocr",
+        "context": "遗址西院Fl13\n\n中上央官署遗址西院 F14\n\n中央官署遗址西院F15\n\n中央官署遗"
+      }
+    ],
+    "年代": [
+      {
+        "text": "西汉",
+        "page": 3,
+        "source": "ocr",
+        "context": "要 HR4e\n\nAf fi 3\n\n本书是西汉首都长安城未央官遗址 1980 年一19"
+      },
+      {
+        "text": "元",
+        "page": 3,
+        "source": "ocr",
+        "context": "“〈全二册)\n国内定价，240. 00 元\n"
+      },
+      {
+        "text": "清",
+        "page": 4,
+        "source": "ocr",
+        "context": "宫门.守砍及有关官署的考古材料,基本上搞清\n了未央宫的规模和总体布局,资料翔实可靠"
+      },
+      {
+        "text": "西汉",
+        "page": 4,
+        "source": "ocr",
+        "context": "土的大量文物,其中数万枚刻铭\n骨签是研究西汉中央官赤和各地工官关系的重要资料。\n\n本"
+      },
+      {
+        "text": "金",
+        "page": 4,
+        "source": "ocr",
+        "context": "学术意\n义。建议给予中国社会科学院出版基金资助 。\n\n一一中国社会科学院考古研究所"
+      },
+      {
+        "text": "金",
+        "page": 4,
+        "source": "ocr",
+        "context": "项人斌究成果,请给予中国社会科学院出版基金资助。\n\n一中国社会科学院考古研究所研究"
+      },
+      {
+        "text": "西汉",
+        "page": 4,
+        "source": "ocr",
+        "context": "上的一项值得重视的新成果。\n\n汉长安城是西汉王朝的都城,可与欧洲的罗马并列为当时全世"
+      },
+      {
+        "text": "西汉",
+        "page": 4,
+        "source": "ocr",
+        "context": "际都会未\n央宫是汉长安城内的主要宫城,是西汉王朝的政治中枢所在。在汉长安城的考古工作"
+      },
+      {
+        "text": "明",
+        "page": 4,
+        "source": "ocr",
+        "context": "对未央\n宫遗址所作勘探,发掘的收获。在究明未央宫的规模和总体布局的基础上,报告的编"
+      },
+      {
+        "text": "金",
+        "page": 7,
+        "source": "ocr",
+        "context": "4\n\n附录\n\n_  角楼建筑遗址出土铁器金相鉴定报告:ee ooooooooooo"
+      },
+      {
+        "text": "金",
+        "page": 8,
+        "source": "ocr",
+        "context": "pp\n一〇未央宫各遗址出土遗物所见陶文、金文登记表和\n\n(271)\n\nses (2"
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "堆积",
+        "page": 6,
+        "source": "ocr",
+        "context": "d.\n= MEHR ia\nSp 早期建筑堆积层出士遗物…\n_   (ied PS c"
+      },
+      {
+        "text": "堆积",
+        "page": 10,
+        "source": "ocr",
+        "context": "ABE IE M2 平面图pe\n遗址早期堆积出土土坏和和砖拓本.pp\n遗址早期堆积出"
+      },
+      {
+        "text": "堆积",
+        "page": 10,
+        "source": "ocr",
+        "context": "期堆积出土土坏和和砖拓本.pp\n遗址早期堆积出土板瓦戳印文字拓本pe\n遗址早期堆积出"
+      },
+      {
+        "text": "堆积",
+        "page": 10,
+        "source": "ocr",
+        "context": "期堆积出土板瓦戳印文字拓本pe\n遗址早期堆积出土瓦当拓本pe\n遗址早期堆积出土陶器和"
+      },
+      {
+        "text": "堆积",
+        "page": 10,
+        "source": "ocr",
+        "context": "\n遗址早期堆积出土瓦当拓本pe\n遗址早期堆积出土陶器和玉器pp\n遗址早期堆积出土陶博"
+      },
+      {
+        "text": "堆积",
+        "page": 10,
+        "source": "ocr",
+        "context": "遗址早期堆积出土陶器和玉器pp\n遗址早期堆积出土陶博局拓本pp\n昌 TT (172)"
+      },
+      {
+        "text": "堆积",
+        "page": 10,
+        "source": "ocr",
+        "context": "s cen seeaneons\n遗址早期堆积出土铜器ppp\n遗址早期堆积出土钱币拓本"
+      },
+      {
+        "text": "堆积",
+        "page": 10,
+        "source": "ocr",
+        "context": "s\n遗址早期堆积出土铜器ppp\n遗址早期堆积出土钱币拓本.pp\n遗址早期堆积出土封泥"
+      },
+      {
+        "text": "堆积",
+        "page": 10,
+        "source": "ocr",
+        "context": "遗址早期堆积出土钱币拓本.pp\n遗址早期堆积出土封泥拓本.pp\n遗址晚期堆积出土瓦当"
+      },
+      {
+        "text": "堆积",
+        "page": 10,
+        "source": "ocr",
+        "context": "遗址早期堆积出土封泥拓本.pp\n遗址晚期堆积出土瓦当拓本.pe\n遗址晚期堆积出土瓦当"
+      },
+      {
+        "text": "堆积",
+        "page": 10,
+        "source": "ocr",
+        "context": "遗址晚期堆积出土瓦当拓本.pe\n遗址晚期堆积出土瓦当拓本pp\n\n遗址早期堆积出土铁妖"
+      },
+      {
+        "text": "堆积",
+        "page": 10,
+        "source": "ocr",
+        "context": "遗址晚期堆积出土瓦当拓本pp\n\n遗址早期堆积出土铁妖……\n\n(68)\n” (70)\n"
+      },
+      {
+        "text": "堆积",
+        "page": 11,
+        "source": "ocr",
+        "context": "\n\n九八\n\n少府〈或所辖官署) 遗址晚期堆积出土陶器等pp\n\n少府 〈或所辖官车) "
+      },
+      {
+        "text": "堆积",
+        "page": 11,
+        "source": "ocr",
+        "context": "等pp\n\n少府 〈或所辖官车) 遗址晚期堆积出土铁杀…\n\nSi ARTE RACAL"
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "兽骨",
+        "page": 8,
+        "source": "ocr",
+        "context": " cee tes\n\n中央官署建筑遗址出土兽骨鉴定报告pp\n中史官署建筑遗址出土骨签光"
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T2",
+        "page": 9,
+        "source": "ocr",
+        "context": "] BE pe\n一三”宣城西南角楼遗址 T2 东壁剖面图 ………\n一四 es Ae "
+      },
+      {
+        "text": "T1",
+        "page": 10,
+        "source": "ocr",
+        "context": "DETR 7 ot AH ++\n\nak T1 EER ~\n\nTot TE FA BA"
+      },
+      {
+        "text": "T4",
+        "page": 11,
+        "source": "ocr",
+        "context": "ER Tr 4 Fi FA\nA Rok T4 北壁前面图 …\n\n椒房典配磺遗址平面图"
+      }
+    ],
+    "建筑结构": [
+      {
+        "text": "门道",
+        "page": 9,
+        "source": "ocr",
+        "context": "宫城南宫墙探沟东壁前面图pp\n七”北宫门门道试据探方南壁剖面图ep\n\n(6)\n\n- "
+      },
+      {
+        "text": "柱洞",
+        "page": 9,
+        "source": "ocr",
+        "context": " ATR] pe\n\n三二B 中央官署遗址柱洞、础石分布图 pp\n三四“中央官署遗址出"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "水井",
+        "page": 11,
+        "source": "ocr",
+        "context": ")\n\n椒房典遗址平面图.pe\n椒房典遗址水井平、裔面图.ee\nOk ee whe e"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "饰",
+        "page": 11,
+        "source": "ocr",
+        "context": "遗址平面图.……\n\n椒房磺遗址出土方砖纹饰拓本…\n椒房有典遗址出土空 Oe Cit"
+      },
+      {
+        "text": "饰",
+        "page": 11,
+        "source": "ocr",
+        "context": "E] pp\nBYE A 区遗址出士方砖纹饰拓本pe\nAYRE A 区遗址出土板瓦、"
+      },
+      {
+        "text": "豆",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n\nEy Sok PH pF Hae\n\n豆城西南角楼遗址\n宣城西丙角楼遗址\n\n宫城"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "豆",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n\nEy Sok PH pF Hae\n\n豆城西南角楼遗址\n宣城西丙角楼遗址\n\n宫城"
+      }
+    ]
+  }
+}

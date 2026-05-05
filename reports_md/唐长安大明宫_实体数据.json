@@ -1,0 +1,144 @@
+{
+  "name": "唐长安大明宫",
+  "file": "唐长安大明宫.pdf",
+  "era": "唐代",
+  "culture": "宫殿建筑",
+  "processed_pages": 15,
+  "total_entities": 20,
+  "entity_stats": {
+    "遗址名称": 4,
+    "年代": 12,
+    "铜器": 1,
+    "测量数据": 3
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "大明宫",
+        "page": 4,
+        "source": "ocr",
+        "context": "内 容 担 要\n\n大明宫遗址在仿西安城北革公里的龙首闷上，中国科"
+      },
+      {
+        "text": "长安",
+        "page": 12,
+        "source": "ocr",
+        "context": "谍的经济、妇化都有高度的发展。贰时的首都长安\n城,饰是至国的政治、轻六和文化的中心,"
+      },
+      {
+        "text": "长安",
+        "page": 12,
+        "source": "ocr",
+        "context": "e I YT ld TT EY 3\n\n有长安城始建论隋开皇二年(公元 582 2B)"
+      },
+      {
+        "text": "长安",
+        "page": 12,
+        "source": "ocr",
+        "context": "二年(公元 582 2B) AE KB 长安 ，亚加以修建和\nPitt. TER R"
+      }
+    ],
+    "年代": [
+      {
+        "text": "明",
+        "page": 4,
+        "source": "ocr",
+        "context": "内 容 担 要\n\n大明宫遗址在仿西安城北革公里的龙首闷上，中国"
+      },
+      {
+        "text": "元",
+        "page": 4,
+        "source": "ocr",
+        "context": "\n\n” ALAR SE AC 1.80 元\n"
+      },
+      {
+        "text": "元",
+        "page": 6,
+        "source": "ocr",
+        "context": "(一)殿址的其探及分价和930\n1. 合元有砌及宣政、些宕等脱的位囊30\n\n2. "
+      },
+      {
+        "text": "唐",
+        "page": 12,
+        "source": "ocr",
+        "context": "让 言\n\n唐代是我国封建社会的全盛时期,谍的经济、妇"
+      },
+      {
+        "text": "隋",
+        "page": 12,
+        "source": "ocr",
+        "context": " ld TT EY 3\n\n有长安城始建论隋开皇二年(公元 582 2B) AE K"
+      },
+      {
+        "text": "元",
+        "page": 12,
+        "source": "ocr",
+        "context": "EY 3\n\n有长安城始建论隋开皇二年(公元 582 2B) AE KB 长安 ，亚"
+      },
+      {
+        "text": "明",
+        "page": 12,
+        "source": "ocr",
+        "context": "R\nif, RGA Bae,\n\n因此,天明富是研究唐代客殿建策的重要对象。\n\n中国"
+      },
+      {
+        "text": "唐",
+        "page": 12,
+        "source": "ocr",
+        "context": " RGA Bae,\n\n因此,天明富是研究唐代客殿建策的重要对象。\n\n中国科学院考二"
+      },
+      {
+        "text": "明",
+        "page": 12,
+        "source": "ocr",
+        "context": "所用 1957 年 3 月组成工作除到大明富进行勘察,准备发据。轻\nSH 3 个多"
+      },
+      {
+        "text": "明",
+        "page": 12,
+        "source": "ocr",
+        "context": "RE i KI\n马得志等19 Ao\n\n大明富的工作,至 1959 年 5 ABER"
+      },
+      {
+        "text": "明",
+        "page": 13,
+        "source": "ocr",
+        "context": "\nBI\n\n109\n\nao 套\n\n=\"\n\n明\n\n大\n\n图 一\n"
+      },
+      {
+        "text": "明",
+        "page": 15,
+        "source": "ocr",
+        "context": "破坏较多 ,但城基的下部大体还都衔接。大明客南面的正月一一\n+P} JEL FY "
+      }
+    ],
+    "铜器": [
+      {
+        "text": "饰",
+        "page": 12,
+        "source": "ocr",
+        "context": "妇化都有高度的发展。贰时的首都长安\n城,饰是至国的政治、轻六和文化的中心,也是当时"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": " 500 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "Y AES 2256 K, 在南部有将近 500 米的一段, LECH ZHEN, AYER"
+      },
+      {
+        "text": " 130 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "FR, BR\n在中部葡缺了有 110 和 130 米的两段外,其余人告能衔接,但都埋在地下。"
+      },
+      {
+        "text": " 2 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "a, PASE eS HE BLE TA 2 米多。\n\n另外,在富城内 EE STcRU"
+      }
+    ]
+  }
+}

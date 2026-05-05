@@ -1,0 +1,1047 @@
+{
+  "name": "张家坡西周墓地",
+  "file": "张家坡西周墓地.pdf",
+  "era": "西周",
+  "culture": "西周墓葬",
+  "processed_pages": 15,
+  "total_entities": 166,
+  "entity_stats": {
+    "探方编号": 3,
+    "遗迹编号": 85,
+    "陶器": 2,
+    "铜器": 8,
+    "年代": 45,
+    "遗址名称": 3,
+    "遗迹类型": 9,
+    "层位关系": 4,
+    "漆器": 1,
+    "葬具": 1,
+    "纹饰": 2,
+    "建筑结构": 1,
+    "玉器": 2
+  },
+  "entities": {
+    "探方编号": [
+      {
+        "text": "T3",
+        "page": 1,
+        "source": "ocr",
+        "context": "KM ER NE Rie «ts tr T3   -. ©  ee 大 oS 册攻民"
+      },
+      {
+        "text": "T1",
+        "page": 10,
+        "source": "ocr",
+        "context": "] mS en ne (9)\n探方 85T1 AE Ay FY A SR BE EA"
+      },
+      {
+        "text": "T2",
+        "page": 10,
+        "source": "ocr",
+        "context": " ee ee ne (10)\n探沟 &6T2 MZ Ay | A FG a SH e"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "F877",
+        "page": 1,
+        "source": "ocr",
+        "context": " 大 -.F   oe ee bo 0 F877 8                  "
+      },
+      {
+        "text": "F5",
+        "page": 1,
+        "source": "ocr",
+        "context": "       e 45\". ° 2   F5,\" et ee Fe aoe 8  A"
+      },
+      {
+        "text": "F429",
+        "page": 1,
+        "source": "ocr",
+        "context": ", Tf  司 十 i # . rer F429 Fsa ff  rl  i st) ="
+      },
+      {
+        "text": "G8",
+        "page": 1,
+        "source": "ocr",
+        "context": "fT ca * ©    set t+ G8\nstale              "
+      },
+      {
+        "text": "S18",
+        "page": 1,
+        "source": "ocr",
+        "context": ", a  ae Lew *  * *, S18 8\n‘ iy 5 te Oy Ss a"
+      },
+      {
+        "text": "G2",
+        "page": 1,
+        "source": "ocr",
+        "context": "              ev ts G2 pay arr «a? a A Pt "
+      },
+      {
+        "text": "T3",
+        "page": 1,
+        "source": "ocr",
+        "context": "KM ER NE Rie «ts tr T3   -. ©  ee 大 oS 册攻民"
+      },
+      {
+        "text": "P28",
+        "page": 1,
+        "source": "ocr",
+        "context": " ae re FS. oy yg oe P28 十 + !\n:  ia & 大-证 f"
+      },
+      {
+        "text": "K878",
+        "page": 4,
+        "source": "ocr",
+        "context": "OS S-ASRRA-BRPG OV. K878.8\n中国版本图书馆 CIP 数据核字("
+      },
+      {
+        "text": "M152",
+        "page": 9,
+        "source": "ocr",
+        "context": "-so (418 )\nmk Be UY M152 出士西周芝的鉴定  oo (447)\n"
+      },
+      {
+        "text": "H2",
+        "page": 10,
+        "source": "ocr",
+        "context": "a BE oo (13)\n西周灰坑 8$H2 平面、训面图 pe  (14)\nPo "
+      },
+      {
+        "text": "M157",
+        "page": 10,
+        "source": "ocr",
+        "context": " My #8 over ve (15)\nM157 平面、剖面图 (17)\nM157 PS"
+      },
+      {
+        "text": "M157",
+        "page": 10,
+        "source": "ocr",
+        "context": "5)\nM157 平面、剖面图 (17)\nM157 PS Be A ri PR] Seem"
+      },
+      {
+        "text": "M157",
+        "page": 10,
+        "source": "ocr",
+        "context": " eee eeeennees (18)\nM157 ACEP PF al k pS Bi "
+      },
+      {
+        "text": "S7",
+        "page": 10,
+        "source": "ocr",
+        "context": " ACEP PF al k pS Bi S7 45 As Senet eee eee"
+      },
+      {
+        "text": "M157",
+        "page": 10,
+        "source": "ocr",
+        "context": "nts een eeeees (19)\nM157 南墓道出土的彩绘方木 sosivoos"
+      },
+      {
+        "text": "M152",
+        "page": 10,
+        "source": "ocr",
+        "context": "oooooooooooe。 (21 )\nM152 平面图 ee ee ee ra (23"
+      },
+      {
+        "text": "M152",
+        "page": 10,
+        "source": "ocr",
+        "context": "面图 ee ee ee ra (23)\nM152 *Al i eee eee eee h"
+      },
+      {
+        "text": "M168",
+        "page": 10,
+        "source": "ocr",
+        "context": "reeeeteneeneee (23)\nM168 平面、 襄面图 ee ee ee er"
+      },
+      {
+        "text": "M170",
+        "page": 10,
+        "source": "ocr",
+        "context": "面图 ee ee ee er (26)\nM170 平面、 训面图 eee ee eee "
+      },
+      {
+        "text": "M170",
+        "page": 10,
+        "source": "ocr",
+        "context": "eee eee en ern (28)\nM170 平面图 ov (29 )\nM170 R"
+      },
+      {
+        "text": "M170",
+        "page": 10,
+        "source": "ocr",
+        "context": ")\nM170 平面图 ov (29 )\nM170 Rel zz 、 头晒结构图 esiv"
+      },
+      {
+        "text": "M170",
+        "page": 10,
+        "source": "ocr",
+        "context": "oosvovvovvvvv， (31)\nM170 内柜上的彩绘图案 ee (33 )\nM"
+      },
+      {
+        "text": "M170",
+        "page": 10,
+        "source": "ocr",
+        "context": "0 内柜上的彩绘图案 ee (33 )\nM170 填土中随葬的铜车马器RN (35)\nM"
+      },
+      {
+        "text": "M1",
+        "page": 10,
+        "source": "ocr",
+        "context": "0 填土中随葬的铜车马器RN (35)\nM1 AAS. Jr ZA rs FS vs"
+      },
+      {
+        "text": "M121",
+        "page": 10,
+        "source": "ocr",
+        "context": "Jr ZA rs FS vs (37)\nM121 AZ i FEI ee ee ee e"
+      },
+      {
+        "text": "M121",
+        "page": 10,
+        "source": "ocr",
+        "context": "ee ee ee ee ee (39)\nM121 FE BER MH LA RARE S"
+      },
+      {
+        "text": "M163",
+        "page": 10,
+        "source": "ocr",
+        "context": "LA RARE SED oo (40)\nM163 Re 3 We Ty PRI We ("
+      },
+      {
+        "text": "M163",
+        "page": 10,
+        "source": "ocr",
+        "context": " We Ty PRI We (42 )\nM163 Py RE OLY ae Cee n "
+      },
+      {
+        "text": "M163",
+        "page": 10,
+        "source": "ocr",
+        "context": "e ebeeeneeetes (43)\nM163 南端二层台上的随苦器物 ooooovs"
+      },
+      {
+        "text": "M165",
+        "page": 10,
+        "source": "ocr",
+        "context": "ooovvooov vv。， (44)\nM165 平面图 We (45)\nM196 AG"
+      },
+      {
+        "text": "M196",
+        "page": 10,
+        "source": "ocr",
+        "context": "4)\nM165 平面图 We (45)\nM196 AG LAS BS ee ee ee "
+      },
+      {
+        "text": "M196",
+        "page": 10,
+        "source": "ocr",
+        "context": "ee ee ee ee ee (47)\nM196 KROES LEE MAE ane R"
+      },
+      {
+        "text": "M196",
+        "page": 10,
+        "source": "ocr",
+        "context": "nceenevessenes (48)\nM196 ARS LS Baas PERSTET"
+      },
+      {
+        "text": "M196",
+        "page": 10,
+        "source": "ocr",
+        "context": "e Teer ree ye (48)\n\nM196 BBS LEESWAA dome c "
+      },
+      {
+        "text": "M196",
+        "page": 11,
+        "source": "ocr",
+        "context": "\n69\n70\n71\n72\n73\n74\n\nM196 | QRS Sk oe | re (4"
+      },
+      {
+        "text": "M199",
+        "page": 11,
+        "source": "ocr",
+        "context": "QRS Sk oe | re (49)\nM199 樟盖平面图 .pp (50)\nM199"
+      },
+      {
+        "text": "M199",
+        "page": 11,
+        "source": "ocr",
+        "context": "M199 樟盖平面图 .pp (50)\nM199 平面、  Al ey  oo (50)"
+      },
+      {
+        "text": "M211",
+        "page": 11,
+        "source": "ocr",
+        "context": "平面、  Al ey  oo (50)\nM211 平面、 训面图 overroioioe"
+      },
+      {
+        "text": "M140",
+        "page": 11,
+        "source": "ocr",
+        "context": "M2S3 平面、剖面图 Ne (52)\nM140, M141 打破关系图 RN (53)"
+      },
+      {
+        "text": "M141",
+        "page": 11,
+        "source": "ocr",
+        "context": "面、剖面图 Ne (52)\nM140, M141 打破关系图 RN (53)\nM140 "
+      },
+      {
+        "text": "M140",
+        "page": 11,
+        "source": "ocr",
+        "context": " M141 打破关系图 RN (53)\nM140 平面、 Al fi FS a a (5"
+      },
+      {
+        "text": "M145",
+        "page": 11,
+        "source": "ocr",
+        "context": "、 Al fi FS a a (54)\nM145 平面、 襄面图 seeoecevoiv"
+      },
+      {
+        "text": "M145",
+        "page": 11,
+        "source": "ocr",
+        "context": "ooo ov vv。。.。， (55)\nM145 樟盖上随葬器物分布图 pp (56)\n"
+      },
+      {
+        "text": "M166",
+        "page": 11,
+        "source": "ocr",
+        "context": " 樟盖上随葬器物分布图 pp (56)\nM166 平面图 eee ee cece ewe"
+      },
+      {
+        "text": "M216",
+        "page": 11,
+        "source": "ocr",
+        "context": "eneseeessreyes (57)\nM216 平面名 ce (58)\nM315 平面"
+      },
+      {
+        "text": "M315",
+        "page": 11,
+        "source": "ocr",
+        "context": "7)\nM216 平面名 ce (58)\nM315 平面图 COO e eee e mer"
+      },
+      {
+        "text": "M320",
+        "page": 11,
+        "source": "ocr",
+        "context": "ucnnceteeeeees (59)\nM320 平面图 eeeeeosevseeooo"
+      },
+      {
+        "text": "M322",
+        "page": 11,
+        "source": "ocr",
+        "context": "ooooooooo os， (60 )\nM322 平面图 eeoeeoovoooosie"
+      },
+      {
+        "text": "M326",
+        "page": 11,
+        "source": "ocr",
+        "context": "vssvoovoov vs， (61)\nM326 平面图 ppp， (62)\nM347 "
+      },
+      {
+        "text": "M347",
+        "page": 11,
+        "source": "ocr",
+        "context": "\nM326 平面图 ppp， (62)\nM347 平面图 ppp (63)\nM370 平"
+      },
+      {
+        "text": "M370",
+        "page": 11,
+        "source": "ocr",
+        "context": ")\nM347 平面图 ppp (63)\nM370 平面图 eveeeeeevoviseo"
+      },
+      {
+        "text": "M381",
+        "page": 11,
+        "source": "ocr",
+        "context": "oooooovv vs，s， (63)\nM381. M382 打破关系和 M382 平面"
+      },
+      {
+        "text": "M382",
+        "page": 11,
+        "source": "ocr",
+        "context": "vv vs，s， (63)\nM381. M382 打破关系和 M382 平面图 eter"
+      },
+      {
+        "text": "M382",
+        "page": 11,
+        "source": "ocr",
+        "context": "3)\nM381. M382 打破关系和 M382 平面图 eter ee teeta e"
+      },
+      {
+        "text": "M398",
+        "page": 11,
+        "source": "ocr",
+        "context": "eeseesecesecs  (64)\nM398 平面图 Ne (65)\nM257 平面"
+      },
+      {
+        "text": "M257",
+        "page": 11,
+        "source": "ocr",
+        "context": "4)\nM398 平面图 Ne (65)\nM257 平面图 oo (65)\nM262 平面"
+      },
+      {
+        "text": "M262",
+        "page": 11,
+        "source": "ocr",
+        "context": "5)\nM257 平面图 oo (65)\nM262 平面图 eee eee ee ee e"
+      },
+      {
+        "text": "M183",
+        "page": 11,
+        "source": "ocr",
+        "context": "eacureeecesane (66)\nM183 平面、 训面图 Sa vv。 (68 "
+      },
+      {
+        "text": "M183",
+        "page": 11,
+        "source": "ocr",
+        "context": "面、 训面图 Sa vv。 (68 )\nM183 洞室平面图 overveseeeivv"
+      },
+      {
+        "text": "M215",
+        "page": 11,
+        "source": "ocr",
+        "context": "ooovooooio vv， (69)\nM215 平面、 放面图 OEE emcee e"
+      },
+      {
+        "text": "M259",
+        "page": 11,
+        "source": "ocr",
+        "context": "eeeeseeececeas (71)\nM259 平面、 襄面图 ee (72)\nM13"
+      },
+      {
+        "text": "M136",
+        "page": 11,
+        "source": "ocr",
+        "context": "259 平面、 襄面图 ee (72)\nM136 平面、 训面图 pp (73)\nM14"
+      },
+      {
+        "text": "M141",
+        "page": 11,
+        "source": "ocr",
+        "context": "136 平面、 训面图 pp (73)\nM141 平面、 +4 i DORR eee c"
+      },
+      {
+        "text": "M275",
+        "page": 11,
+        "source": "ocr",
+        "context": "resoeesucecens (74)\nM275 平面、 谢面图 voicevoooco"
+      },
+      {
+        "text": "M284",
+        "page": 11,
+        "source": "ocr",
+        "context": "oooooooooooooo (75)\nM284 AF Ty, PAPE PR pp ("
+      },
+      {
+        "text": "M285",
+        "page": 11,
+        "source": "ocr",
+        "context": "Ty, PAPE PR pp (76)\nM285 平面、 训面图 reverseiiei"
+      },
+      {
+        "text": "M313",
+        "page": 11,
+        "source": "ocr",
+        "context": "eoooooooooo oo (77)\nM313 车马坑平面图 pp (79)\nM155"
+      },
+      {
+        "text": "M155",
+        "page": 11,
+        "source": "ocr",
+        "context": "M313 车马坑平面图 pp (79)\nM155 车马坑平面、 PA TH FE] pp"
+      },
+      {
+        "text": "M155",
+        "page": 11,
+        "source": "ocr",
+        "context": "、 PA TH FE] pp (81)\nM155 车马坑第开号车箱遗迹图 pp (82 "
+      },
+      {
+        "text": "M104",
+        "page": 11,
+        "source": "ocr",
+        "context": "马坑第开号车箱遗迹图 pp (82 )\nM104 车马坑平面图 pp (83)\nM104"
+      },
+      {
+        "text": "M104",
+        "page": 11,
+        "source": "ocr",
+        "context": "M104 车马坑平面图 pp (83)\nM104 车马坑出土马络头结构图 ev (84)"
+      },
+      {
+        "text": "M153",
+        "page": 11,
+        "source": "ocr",
+        "context": "车马坑出土马络头结构图 ev (84)\nM153 与坑平面图 pp (85)\nM154 "
+      },
+      {
+        "text": "M154",
+        "page": 11,
+        "source": "ocr",
+        "context": "\nM153 与坑平面图 pp (85)\nM154 ESE AE TAT. FHT PR]"
+      },
+      {
+        "text": "M264",
+        "page": 11,
+        "source": "ocr",
+        "context": "AT. FHT PR] pp (86)\nM264 与坑平面图 pe (87)\n"
+      },
+      {
+        "text": "M192",
+        "page": 12,
+        "source": "ocr",
+        "context": "TK AR ES PE Jal SH\n\nM192 蕊坑平面、 诈面图 9 (89 )\nM"
+      },
+      {
+        "text": "M94",
+        "page": 12,
+        "source": "ocr",
+        "context": "2 蕊坑平面、 诈面图 9 (89 )\nM94 马坑平面、癌面图4 (90)\nM340"
+      },
+      {
+        "text": "M340",
+        "page": 12,
+        "source": "ocr",
+        "context": "\nM94 马坑平面、癌面图4 (90)\nM340 Hit iy . Al eg Ree "
+      },
+      {
+        "text": "M241",
+        "page": 12,
+        "source": "ocr",
+        "context": " ees sastesens (91)\nM241 马坑平面、 4) i ES ov (9"
+      },
+      {
+        "text": "L75",
+        "page": 14,
+        "source": "ocr",
+        "context": "170\n17]\n172\n173\n174\nL75\n176\n177\n178\n179\n180"
+      },
+      {
+        "text": "L99",
+        "page": 15,
+        "source": "ocr",
+        "context": "197\n198\nL99\n200\n201\n202\n203\n204"
+      },
+      {
+        "text": "M303:01",
+        "page": 15,
+        "source": "ocr",
+        "context": " vereeens (256)\nREE M303:01 玉面幕图  oo (257)\nBEE "
+      },
+      {
+        "text": "M303",
+        "page": 15,
+        "source": "ocr",
+        "context": " 玉面幕图  oo (257)\nBEE M303: 01 TE BES UE pp (2"
+      },
+      {
+        "text": "M216:12",
+        "page": 15,
+        "source": "ocr",
+        "context": "nneneetees (261)\nkB M216:12 HH ee ed  wo eee et"
+      },
+      {
+        "text": "M320:12",
+        "page": 15,
+        "source": "ocr",
+        "context": "ccens (262 )\ni A ih M320:12 i +  Omen eee meee "
+      }
+    ],
+    "陶器": [
+      {
+        "text": "环",
+        "page": 1,
+        "source": "ocr",
+        "context": "e     站 a a te   a’ 环 .  — =   四下  7? a 届"
+      },
+      {
+        "text": "环",
+        "page": 15,
+        "source": "ocr",
+        "context": "er errr (264)\nKE.  玉环和玉和 ne ene eee ee re"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "环",
+        "page": 1,
+        "source": "ocr",
+        "context": "e     站 a a te   a’ 环 .  — =   四下  7? a 届"
+      },
+      {
+        "text": "钟",
+        "page": 13,
+        "source": "ocr",
+        "context": "EY Wt AS oo (164)\n条编钟 voce tee cence cnn "
+      },
+      {
+        "text": "钟",
+        "page": 13,
+        "source": "ocr",
+        "context": "ae EEE eeE (165)\n和铜编钟铭文拓本 ov (166 )\n铜编钟铭文"
+      },
+      {
+        "text": "钟",
+        "page": 13,
+        "source": "ocr",
+        "context": "铜编钟铭文拓本 ov (166 )\n铜编钟铭文拓本 vv (167)\n‘al FA"
+      },
+      {
+        "text": "饰",
+        "page": 13,
+        "source": "ocr",
+        "context": ")\nal (Pi RR (200)\n铜衡饰和铜较\n"
+      },
+      {
+        "text": "饰",
+        "page": 14,
+        "source": "ocr",
+        "context": "ieee serene (212)\n钢熙饰 加 (213)\nFes (214)\n有"
+      },
+      {
+        "text": "环",
+        "page": 15,
+        "source": "ocr",
+        "context": "er errr (264)\nKE.  玉环和玉和 ne ene eee ee re"
+      },
+      {
+        "text": "饰",
+        "page": 15,
+        "source": "ocr",
+        "context": "neseeences (274)\n玉柄形饰 vvevoseoovvviovoviv"
+      }
+    ],
+    "年代": [
+      {
+        "text": "明",
+        "page": 1,
+        "source": "ocr",
+        "context": "= au  wo '= « eS ed 明 恒 ik   i @ on 刘，量 4"
+      },
+      {
+        "text": "明",
+        "page": 1,
+        "source": "ocr",
+        "context": " al, ae 下才 a eo   a 明 及二各 重              "
+      },
+      {
+        "text": "唐",
+        "page": 1,
+        "source": "ocr",
+        "context": "* i ee ay A 5* ae 曾硬唐  4 ae) eee 2 sy we "
+      },
+      {
+        "text": "西周",
+        "page": 4,
+        "source": "ocr",
+        "context": "所在陕西长安县张家坡村发掘了 390\n座西周墓苦、车马坑和马坑，其中包括四座带幕道的"
+      },
+      {
+        "text": "西周",
+        "page": 4,
+        "source": "ocr",
+        "context": "\n本书分为〈一) 前言; (二) 张家坡西周墓地的地层; (=) 西周幕葬类型; ("
+      },
+      {
+        "text": "西周",
+        "page": 4,
+        "source": "ocr",
+        "context": "(二) 张家坡西周墓地的地层; (=) 西周幕葬类型; (四)\n出土遗物; (五) "
+      },
+      {
+        "text": "西周",
+        "page": 4,
+        "source": "ocr",
+        "context": "\n\n图书在版编目(CIP)数据\n\n张家圾西周墓地/中国社会科学院考古全究所编著. -"
+      },
+      {
+        "text": "元",
+        "page": 4,
+        "source": "ocr",
+        "context": "/K +317\nBAH: 298.00 元\n"
+      },
+      {
+        "text": "金",
+        "page": 5,
+        "source": "ocr",
+        "context": "本报告为\n全国“八五”社会科学基金资助项目\n"
+      },
+      {
+        "text": "西周",
+        "page": 6,
+        "source": "ocr",
+        "context": "推存意见\n\n1983 年一1986 年在西周丰乐遗址范围内的张家坡村发掘的一批幕葬，"
+      },
+      {
+        "text": "西周",
+        "page": 6,
+        "source": "ocr",
+        "context": "址范围内的张家坡村发掘的一批幕葬，是全究西周考古\n和有历史的重要资料。与过去已发表的"
+      },
+      {
+        "text": "西周",
+        "page": 6,
+        "source": "ocr",
+        "context": "批资料进行全面整理和系统研究 ，对于推进西周考古和有历史的\nBIE, IA BEA "
+      },
+      {
+        "text": "西周",
+        "page": 6,
+        "source": "ocr",
+        "context": "院考十研究所研究员”王世民\n\n4《张家坡西周幕地》 发掘报告是考古研究所汗西队 19"
+      },
+      {
+        "text": "西周",
+        "page": 6,
+        "source": "ocr",
+        "context": "6 年在陕西省长安县张\n家坡村一市发掘的西周幕葬的考古学专刊。上述地区在西周都城丰京"
+      },
+      {
+        "text": "西周",
+        "page": 6,
+        "source": "ocr",
+        "context": "市发掘的西周幕葬的考古学专刊。上述地区在西周都城丰京范围之内，20 世纪 80\nTR"
+      },
+      {
+        "text": "西周",
+        "page": 6,
+        "source": "ocr",
+        "context": "0 座，其中有带幕道的大莫 4 座，\n为西周王朝重臣井叔家族的幕。幕群内出土的青铜礼"
+      },
+      {
+        "text": "西周",
+        "page": 6,
+        "source": "ocr",
+        "context": "等种类比较齐全，有的\nAAR, ，是研究西周钢髓的重要资料。玉器出土数量多，并有不少"
+      },
+      {
+        "text": "西周",
+        "page": 6,
+        "source": "ocr",
+        "context": "贡献为: (1) 发现了以井叔墓为代表的西周贵族墓地，对研究西周的族磊\n提供了可和针"
+      },
+      {
+        "text": "西周",
+        "page": 6,
+        "source": "ocr",
+        "context": "现了以井叔墓为代表的西周贵族墓地，对研究西周的族磊\n提供了可和针依据，也为研究西周的"
+      },
+      {
+        "text": "西周",
+        "page": 6,
+        "source": "ocr",
+        "context": "究西周的族磊\n提供了可和针依据，也为研究西周的礼制提供了丰富资料。(2) 报告依据随"
+      },
+      {
+        "text": "清",
+        "page": 6,
+        "source": "ocr",
+        "context": "丰富资料。(2) 报告依据随葬陶器与年代清楚\n的有馈至铀第的共存关系，对西周的文化"
+      },
+      {
+        "text": "西周",
+        "page": 6,
+        "source": "ocr",
+        "context": "器与年代清楚\n的有馈至铀第的共存关系，对西周的文化分期与年代作了系统论述。(3) 出"
+      },
+      {
+        "text": "西周",
+        "page": 6,
+        "source": "ocr",
+        "context": "。(3) 出土的大量实物资\n料对于人研只西周的经济、文化发展水平，尤其对研究西周的手"
+      },
+      {
+        "text": "西周",
+        "page": 6,
+        "source": "ocr",
+        "context": "研只西周的经济、文化发展水平，尤其对研究西周的手工业与礼制具有重要意义。\n\n丰销遗址"
+      },
+      {
+        "text": "西周",
+        "page": 6,
+        "source": "ocr",
+        "context": "业与礼制具有重要意义。\n\n丰销遗址对研究西周文化具有特殊的重要性，此报告对研究西周的"
+      },
+      {
+        "text": "西周",
+        "page": 6,
+        "source": "ocr",
+        "context": "究西周文化具有特殊的重要性，此报告对研究西周的考古学、历史学，具\n有重要意义。\n\n一"
+      },
+      {
+        "text": "西周",
+        "page": 6,
+        "source": "ocr",
+        "context": "”郑振香\n\n等术委员会评审意见\n\n张家坡西周幕地位于陕西省长安县丰久遗址内，年代从西"
+      },
+      {
+        "text": "西周",
+        "page": 6,
+        "source": "ocr",
+        "context": "周幕地位于陕西省长安县丰久遗址内，年代从西周初年一直延续到西周未年，\n我所从 195"
+      },
+      {
+        "text": "西周",
+        "page": 6,
+        "source": "ocr",
+        "context": "安县丰久遗址内，年代从西周初年一直延续到西周未年，\n我所从 1956 年开始发掘，至"
+      },
+      {
+        "text": "西周",
+        "page": 6,
+        "source": "ocr",
+        "context": "，至今发掘的幕苦总数已达千座，这对于了解西周时期的苦俗及西\nAEM ASABE EY"
+      },
+      {
+        "text": "西周",
+        "page": 6,
+        "source": "ocr",
+        "context": "书材料的准确性，分析的深刻性。\n\n张家坡西周幕葬出土的随苦品十分丰富，本报告的出版，"
+      },
+      {
+        "text": "西周",
+        "page": 7,
+        "source": "ocr",
+        "context": "   HU本 (1)\n第二音   张家坡西周草地的地层 Lene cnceectec"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 7,
+        "source": "ocr",
+        "context": "节   文化遗存 SS (11)\nar 仰韶文化下存 4 (11)\n\n一   西周文化遗"
+      },
+      {
+        "text": "西周",
+        "page": 7,
+        "source": "ocr",
+        "context": " 仰韶文化下存 4 (11)\n\n一   西周文化遗存    nme ante e e"
+      },
+      {
+        "text": "西周",
+        "page": 7,
+        "source": "ocr",
+        "context": "nceeees  (14)\n第三音   西周曹芋淆弄 c cece eee ceee"
+      },
+      {
+        "text": "西周",
+        "page": 8,
+        "source": "ocr",
+        "context": "                 张家坡西周幕地\n\n四“车马器.|  (185)\n五"
+      },
+      {
+        "text": "西周",
+        "page": 8,
+        "source": "ocr",
+        "context": "necenes  (339)\n-对张家坡西周募苦分期研究的回顾ppp  (339)\n"
+      },
+      {
+        "text": "西周",
+        "page": 9,
+        "source": "ocr",
+        "context": "8 )\nmk Be UY M152 出士西周芝的鉴定  oo (447)\nREP A"
+      },
+      {
+        "text": "西周",
+        "page": 9,
+        "source": "ocr",
+        "context": " + Ae  vs  (450)\n张家坡西周募所出樟、棺板材树种鉴定  ov (45"
+      },
+      {
+        "text": "西周",
+        "page": 9,
+        "source": "ocr",
+        "context": "板材树种鉴定  ov (456)\n张家坡西周莫所出网强鉴定 于  (457)\nBR "
+      },
+      {
+        "text": "西周",
+        "page": 10,
+        "source": "ocr",
+        "context": " eeene ee es (1)\n张家坡西周草地历次发据位置图 eee eee ee"
+      },
+      {
+        "text": "西周",
+        "page": 10,
+        "source": "ocr",
+        "context": "(5)\n1983 年一1986 年张家坡西周草地南区墓芋坑位图 RN (7)\n探方 "
+      },
+      {
+        "text": "仰韶文化",
+        "page": 10,
+        "source": "ocr",
+        "context": " ee eee eee ee (10)\n仰韶文化厌坑 8SHI3 平面、  襄面图vv "
+      },
+      {
+        "text": "西周",
+        "page": 10,
+        "source": "ocr",
+        "context": "8 wLY, a BE oo (13)\n西周灰坑 8$H2 平面、训面图 pe  ("
+      },
+      {
+        "text": "西周",
+        "page": 14,
+        "source": "ocr",
+        "context": "188\n189\n190\n19}\n\n张家坡西周墓地\n\n9 (202 )\nOO (203"
+      }
+    ],
+    "遗址名称": [
+      {
+        "text": "长安",
+        "page": 4,
+        "source": "ocr",
+        "context": "986 年中国社会科学院考古研究所在陕西长安县张家坡村发掘了 390\n座西周墓苦、车"
+      },
+      {
+        "text": "长安",
+        "page": 6,
+        "source": "ocr",
+        "context": "西队 1983 年一1986 年在陕西省长安县张\n家坡村一市发掘的西周幕葬的考古学专"
+      },
+      {
+        "text": "长安",
+        "page": 6,
+        "source": "ocr",
+        "context": "员会评审意见\n\n张家坡西周幕地位于陕西省长安县丰久遗址内，年代从西周初年一直延续到西"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "车马坑",
+        "page": 4,
+        "source": "ocr",
+        "context": "安县张家坡村发掘了 390\n座西周墓苦、车马坑和马坑，其中包括四座带幕道的井权董。出土"
+      },
+      {
+        "text": "车马坑",
+        "page": 7,
+        "source": "ocr",
+        "context": " 2 | pe (68)\n\n第四节   车马坑和了马坑 sosoooeivvvooei"
+      },
+      {
+        "text": "车马坑",
+        "page": 8,
+        "source": "ocr",
+        "context": "eneees  (368)\n第六节   车马坑和马坑的年代seeveesessveos"
+      },
+      {
+        "text": "灰坑",
+        "page": 10,
+        "source": "ocr",
+        "context": "wLY, a BE oo (13)\n西周灰坑 8$H2 平面、训面图 pe  (14"
+      },
+      {
+        "text": "车马坑",
+        "page": 11,
+        "source": "ocr",
+        "context": "oooooo oo (77)\nM313 车马坑平面图 pp (79)\nM155 车马坑"
+      },
+      {
+        "text": "车马坑",
+        "page": 11,
+        "source": "ocr",
+        "context": "车马坑平面图 pp (79)\nM155 车马坑平面、 PA TH FE] pp (81"
+      },
+      {
+        "text": "车马坑",
+        "page": 11,
+        "source": "ocr",
+        "context": "TH FE] pp (81)\nM155 车马坑第开号车箱遗迹图 pp (82 )\nM1"
+      },
+      {
+        "text": "车马坑",
+        "page": 11,
+        "source": "ocr",
+        "context": "车箱遗迹图 pp (82 )\nM104 车马坑平面图 pp (83)\nM104 车马坑"
+      },
+      {
+        "text": "车马坑",
+        "page": 11,
+        "source": "ocr",
+        "context": "车马坑平面图 pp (83)\nM104 车马坑出土马络头结构图 ev (84)\nM15"
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "堆积",
+        "page": 7,
+        "source": "ocr",
+        "context": "ecesens (8)\n第一节   地层堆积eS 和和于 (8 )\n第二节   文化"
+      },
+      {
+        "text": "打破",
+        "page": 8,
+        "source": "ocr",
+        "context": "  (339)\n一   对本次发据的莫匡打破关系的分析   oo  (339)\n第二"
+      },
+      {
+        "text": "打破",
+        "page": 11,
+        "source": "ocr",
+        "context": " Ne (52)\nM140, M141 打破关系图 RN (53)\nM140 平面、"
+      },
+      {
+        "text": "打破",
+        "page": 11,
+        "source": "ocr",
+        "context": "，s， (63)\nM381. M382 打破关系和 M382 平面图 eter ee"
+      }
+    ],
+    "漆器": [
+      {
+        "text": "漆器",
+        "page": 8,
+        "source": "ocr",
+        "context": "e re rere  (308)\n\n二”漆器遗存.4  (308)\n=   al Y"
+      }
+    ],
+    "葬具": [
+      {
+        "text": "棺",
+        "page": 9,
+        "source": "ocr",
+        "context": "vs  (450)\n张家坡西周募所出樟、棺板材树种鉴定  ov (456)\n张家坡"
+      }
+    ],
+    "纹饰": [
+      {
+        "text": "彩绘",
+        "page": 10,
+        "source": "ocr",
+        "context": "ees (19)\nM157 南墓道出土的彩绘方木 sosivoosooeoveioe"
+      },
+      {
+        "text": "彩绘",
+        "page": 10,
+        "source": "ocr",
+        "context": "vvvv， (31)\nM170 内柜上的彩绘图案 ee (33 )\nM170 填土中"
+      }
+    ],
+    "建筑结构": [
+      {
+        "text": "二层台",
+        "page": 10,
+        "source": "ocr",
+        "context": "neeetes (43)\nM163 南端二层台上的随苦器物 ooooovsiieivv"
+      }
+    ],
+    "玉器": [
+      {
+        "text": "玉环",
+        "page": 15,
+        "source": "ocr",
+        "context": "eer errr (264)\nKE.  玉环和玉和 ne ene eee ee re"
+      },
+      {
+        "text": "玉管",
+        "page": 15,
+        "source": "ocr",
+        "context": "re eer en ors (265)\n玉管、  EK AI AK BA ee (2"
+      }
+    ]
+  }
+}

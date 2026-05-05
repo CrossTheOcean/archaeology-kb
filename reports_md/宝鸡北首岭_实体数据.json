@@ -1,0 +1,669 @@
+{
+  "name": "宝鸡北首岭",
+  "file": "宝鸡北首岭.pdf",
+  "era": "新石器",
+  "culture": "仰韶文化",
+  "processed_pages": 14,
+  "total_entities": 104,
+  "entity_stats": {
+    "年代": 20,
+    "遗迹编号": 21,
+    "遗址名称": 30,
+    "铜器": 6,
+    "遗存类型": 4,
+    "探方编号": 5,
+    "陶器": 5,
+    "纹饰": 3,
+    "测量数据": 6,
+    "遗迹类型": 2,
+    "层位关系": 2
+  },
+  "entities": {
+    "年代": [
+      {
+        "text": "元",
+        "page": 2,
+        "source": "ocr",
+        "context": "8*1111 LH (x) 5°80\n\n元\n元\n"
+      },
+      {
+        "text": "元",
+        "page": 2,
+        "source": "ocr",
+        "context": "1111 LH (x) 5°80\n\n元\n元\n"
+      },
+      {
+        "text": "新石器时代",
+        "page": 6,
+        "source": "ocr",
+        "context": "SAC nen aed\n\n附录一  宝鸡新石器时代人骨的研究报告 ee\n附录二“宝鸡北首岭"
+      },
+      {
+        "text": "新石器时代",
+        "page": 6,
+        "source": "ocr",
+        "context": "人骨的研究报告 ee\n附录二“宝鸡北首岭新石器时代遗址中的动物骨能ren\n附录三”宝鸡北首"
+      },
+      {
+        "text": "新石器时代",
+        "page": 6,
+        "source": "ocr",
+        "context": "址中的动物骨能ren\n附录三”宝鸡北首岭新石器时代址址中颜料的X 射线分析 ore\n附录四"
+      },
+      {
+        "text": "新石器时代",
+        "page": 13,
+        "source": "ocr",
+        "context": "HER. Ali. TH. ei\n\n宝鸡新石器时代男性头骨\n\n宝鸡新石器时代女性头骨\n\n宝"
+      },
+      {
+        "text": "新石器时代",
+        "page": 13,
+        "source": "ocr",
+        "context": " ei\n\n宝鸡新石器时代男性头骨\n\n宝鸡新石器时代女性头骨\n\n宝鸡北首岭新石器时代遗址动物"
+      },
+      {
+        "text": "新石器时代",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n\n宝鸡新石器时代女性头骨\n\n宝鸡北首岭新石器时代遗址动物骨难\n宝鸡北首岭新石器时代遗三动"
+      },
+      {
+        "text": "新石器时代",
+        "page": 13,
+        "source": "ocr",
+        "context": "北首岭新石器时代遗址动物骨难\n宝鸡北首岭新石器时代遗三动物骨骸\n宝鸡北首岭新石器时代遗此动"
+      },
+      {
+        "text": "新石器时代",
+        "page": 13,
+        "source": "ocr",
+        "context": "北首岭新石器时代遗三动物骨骸\n宝鸡北首岭新石器时代遗此动物肯通\n宝鸡北首岭新石器时代址址动"
+      },
+      {
+        "text": "新石器时代",
+        "page": 13,
+        "source": "ocr",
+        "context": "北首岭新石器时代遗此动物肯通\n宝鸡北首岭新石器时代址址动物骨骸\n宝鸡北首岭新石器时代示址颜"
+      },
+      {
+        "text": "新石器时代",
+        "page": 13,
+        "source": "ocr",
+        "context": "北首岭新石器时代址址动物骨骸\n宝鸡北首岭新石器时代示址颜料X 射线粉未照相\n宝鸡不首岭新石"
+      },
+      {
+        "text": "新石器时代",
+        "page": 13,
+        "source": "ocr",
+        "context": "时代示址颜料X 射线粉未照相\n宝鸡不首岭新石器时代遗址颜料X 射线粉末照相\n"
+      },
+      {
+        "text": "秦",
+        "page": 14,
+        "source": "ocr",
+        "context": "区文\n化、交通的枢组地带之一。宝鸡市南距秦岭，北倚渭北黄士台坂，神水自西而东瀛经市"
+      },
+      {
+        "text": "清",
+        "page": 14,
+        "source": "ocr",
+        "context": "居民比较理想的生话区域。到目前为止，已在清河两岸的斗鸡台、福林\n1. HAA. B"
+      },
+      {
+        "text": "金",
+        "page": 14,
+        "source": "ocr",
+        "context": "Fee AY\nWA SiR) 。造址高出金陵\n河河床约30米， 南北长约\n300米"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "ocr",
+        "context": "。其后，陕西省文物管理委员会、西北文\n物清理队和中国科学院考古研究所宝鸡发气队等单"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "ocr",
+        "context": "积共4500平\n方米。为了保护遗迹和和弄清遗址建筑群的关系，此阶段的发气，一清理到"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "ocr",
+        "context": "和弄清遗址建筑群的关系，此阶段的发气，一清理到房址就停止下\n控，所以大多数探方发掘"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "ocr",
+        "context": "27平方米。此阶段发气目的是为了进一步弄清遗址的平面 布 局\n和地层关系，特别是为"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "H62",
+        "page": 4,
+        "source": "ocr",
+        "context": "e 04 090 OF ben Fee H62 Dee BOE BNE 408 FEN"
+      },
+      {
+        "text": "F0d",
+        "page": 6,
+        "source": "ocr",
+        "context": " NOE EE ane HOE OOD F0d BOs $80 O94 COS OOe"
+      },
+      {
+        "text": "T110",
+        "page": 7,
+        "source": "ocr",
+        "context": "LOE One oes COO 280\nT110. TILL, T115, T1117 "
+      },
+      {
+        "text": "T115",
+        "page": 7,
+        "source": "ocr",
+        "context": "COO 280\nT110. TILL, T115, T1117 fe BE RATE a"
+      },
+      {
+        "text": "T1117",
+        "page": 7,
+        "source": "ocr",
+        "context": "0\nT110. TILL, T115, T1117 fe BE RATE awe cee "
+      },
+      {
+        "text": "F238",
+        "page": 7,
+        "source": "ocr",
+        "context": "see ene ens vec nee\nF238, FA136 Fy o00 one a"
+      },
+      {
+        "text": "F35",
+        "page": 7,
+        "source": "ocr",
+        "context": " a40 sus won nen ce\nF35°F   soe sec eon ae\n"
+      },
+      {
+        "text": "F3357",
+        "page": 7,
+        "source": "ocr",
+        "context": "ces ene ons nee aoe\nF3357 ii.  BI ave coc oso"
+      },
+      {
+        "text": "H15",
+        "page": 8,
+        "source": "ocr",
+        "context": " ara serene see ees\nH15 *F. TRG , BAD Pel o"
+      },
+      {
+        "text": "G00",
+        "page": 8,
+        "source": "ocr",
+        "context": "ene see soeone\n\nHON G00 OUe nes SER ONS DOE"
+      },
+      {
+        "text": "S08",
+        "page": 8,
+        "source": "ocr",
+        "context": "ene wen Poe ene Nas S08 S04 000 600000 060 "
+      },
+      {
+        "text": "S04",
+        "page": 8,
+        "source": "ocr",
+        "context": "wen Poe ene Nas S08 S04 000 600000 060 vue "
+      },
+      {
+        "text": "M276",
+        "page": 9,
+        "source": "ocr",
+        "context": " sj Bl ove eres\n\nCO M276 SE iA PE] cor eee c"
+      },
+      {
+        "text": "M248",
+        "page": 9,
+        "source": "ocr",
+        "context": " ece\n\n==\nAN\na\naN\nFS M248 3f- Hh] Fh] eee vee"
+      },
+      {
+        "text": "M426",
+        "page": 9,
+        "source": "ocr",
+        "context": " see stere tet\n\nACA M426 3E. Ti] Fi] cee ne "
+      },
+      {
+        "text": "S00",
+        "page": 9,
+        "source": "ocr",
+        "context": "ce nen eee\n\nE00 Den S00 ane 40 608 259 Han "
+      },
+      {
+        "text": "M1",
+        "page": 10,
+        "source": "ocr",
+        "context": "ecnsnes ces eee see\nM1 6 OF fae FE Bay AS "
+      },
+      {
+        "text": "M36",
+        "page": 10,
+        "source": "ocr",
+        "context": " one ans ane en ene\nM36 1 FUE SE Bip BELA Z"
+      },
+      {
+        "text": "M376",
+        "page": 10,
+        "source": "ocr",
+        "context": "nsue beveae one ace\nM376 BY Bay FE FL YZ coe"
+      },
+      {
+        "text": "M24",
+        "page": 10,
+        "source": "ocr",
+        "context": " one oan sae ene ns\nM24 8 pity Hh SH FL oe "
+      },
+      {
+        "text": "M1",
+        "page": 10,
+        "source": "ocr",
+        "context": "s see oes cannes ae\nM1 4O FFs hij SEAL 2H,"
+      }
+    ],
+    "遗址名称": [
+      {
+        "text": "宝鸡",
+        "page": 6,
+        "source": "ocr",
+        "context": "l SAC nen aed\n\n附录一  宝鸡新石器时代人骨的研究报告 ee\n附录二“"
+      },
+      {
+        "text": "宝鸡",
+        "page": 6,
+        "source": "ocr",
+        "context": "新石器时代人骨的研究报告 ee\n附录二“宝鸡北首岭新石器时代遗址中的动物骨能ren\n"
+      },
+      {
+        "text": "北首岭",
+        "page": 6,
+        "source": "ocr",
+        "context": "器时代人骨的研究报告 ee\n附录二“宝鸡北首岭新石器时代遗址中的动物骨能ren\n附录三"
+      },
+      {
+        "text": "宝鸡",
+        "page": 6,
+        "source": "ocr",
+        "context": "石器时代遗址中的动物骨能ren\n附录三”宝鸡北首岭新石器时代址址中颜料的X 射线分析"
+      },
+      {
+        "text": "北首岭",
+        "page": 6,
+        "source": "ocr",
+        "context": "时代遗址中的动物骨能ren\n附录三”宝鸡北首岭新石器时代址址中颜料的X 射线分析 or"
+      },
+      {
+        "text": "宝鸡",
+        "page": 6,
+        "source": "ocr",
+        "context": "址中颜料的X 射线分析 ore\n附录四“宝鸡北首岭仰韶幕葛登记表 coe cer c"
+      },
+      {
+        "text": "北首岭",
+        "page": 6,
+        "source": "ocr",
+        "context": "颜料的X 射线分析 ore\n附录四“宝鸡北首岭仰韶幕葛登记表 coe cer cen "
+      },
+      {
+        "text": "北首岭",
+        "page": 7,
+        "source": "ocr",
+        "context": " fll Tl\n\n插 Al A ox\n\n北首岭 遗址发掘 Kee FE] ses en"
+      },
+      {
+        "text": "北首岭",
+        "page": 11,
+        "source": "ocr",
+        "context": "”陶索\nAt i AS BEAL Sh\n北首岭遗址外最\n居住遗存\n居住遗存\n居住遗存\n"
+      },
+      {
+        "text": "宝鸡",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n\nHER. Ali. TH. ei\n\n宝鸡新石器时代男性头骨\n\n宝鸡新石器时代女性"
+      },
+      {
+        "text": "宝鸡",
+        "page": 13,
+        "source": "ocr",
+        "context": "H. ei\n\n宝鸡新石器时代男性头骨\n\n宝鸡新石器时代女性头骨\n\n宝鸡北首岭新石器时"
+      },
+      {
+        "text": "宝鸡",
+        "page": 13,
+        "source": "ocr",
+        "context": "代男性头骨\n\n宝鸡新石器时代女性头骨\n\n宝鸡北首岭新石器时代遗址动物骨难\n宝鸡北首岭"
+      },
+      {
+        "text": "北首岭",
+        "page": 13,
+        "source": "ocr",
+        "context": "性头骨\n\n宝鸡新石器时代女性头骨\n\n宝鸡北首岭新石器时代遗址动物骨难\n宝鸡北首岭新石器"
+      },
+      {
+        "text": "宝鸡",
+        "page": 13,
+        "source": "ocr",
+        "context": "骨\n\n宝鸡北首岭新石器时代遗址动物骨难\n宝鸡北首岭新石器时代遗三动物骨骸\n宝鸡北首岭"
+      },
+      {
+        "text": "北首岭",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n宝鸡北首岭新石器时代遗址动物骨难\n宝鸡北首岭新石器时代遗三动物骨骸\n宝鸡北首岭新石器"
+      },
+      {
+        "text": "宝鸡",
+        "page": 13,
+        "source": "ocr",
+        "context": "骨难\n宝鸡北首岭新石器时代遗三动物骨骸\n宝鸡北首岭新石器时代遗此动物肯通\n宝鸡北首岭"
+      },
+      {
+        "text": "北首岭",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n宝鸡北首岭新石器时代遗三动物骨骸\n宝鸡北首岭新石器时代遗此动物肯通\n宝鸡北首岭新石器"
+      },
+      {
+        "text": "宝鸡",
+        "page": 13,
+        "source": "ocr",
+        "context": "骨骸\n宝鸡北首岭新石器时代遗此动物肯通\n宝鸡北首岭新石器时代址址动物骨骸\n宝鸡北首岭"
+      },
+      {
+        "text": "北首岭",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n宝鸡北首岭新石器时代遗此动物肯通\n宝鸡北首岭新石器时代址址动物骨骸\n宝鸡北首岭新石器"
+      },
+      {
+        "text": "宝鸡",
+        "page": 13,
+        "source": "ocr",
+        "context": "肯通\n宝鸡北首岭新石器时代址址动物骨骸\n宝鸡北首岭新石器时代示址颜料X 射线粉未照相"
+      },
+      {
+        "text": "北首岭",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n宝鸡北首岭新石器时代址址动物骨骸\n宝鸡北首岭新石器时代示址颜料X 射线粉未照相\n宝鸡"
+      },
+      {
+        "text": "宝鸡",
+        "page": 13,
+        "source": "ocr",
+        "context": "首岭新石器时代示址颜料X 射线粉未照相\n宝鸡不首岭新石器时代遗址颜料X 射线粉末照相"
+      },
+      {
+        "text": "宝鸡",
+        "page": 14,
+        "source": "ocr",
+        "context": "我国西北地区文\n化、交通的枢组地带之一。宝鸡市南距秦岭，北倚渭北黄士台坂，神水自西而"
+      },
+      {
+        "text": "北首岭",
+        "page": 14,
+        "source": "ocr",
+        "context": "Meh (FC\n{hilt TF «\n\n北首岭遗址是一处内容\n丰富、保存较好的仰究文化"
+      },
+      {
+        "text": "宝鸡",
+        "page": 14,
+        "source": "ocr",
+        "context": "文化\n村落遗址【图版一、二) o\n它位于宝鸡市区的东北部，\n南跑油河约立公里，座落在"
+      },
+      {
+        "text": "宝鸡",
+        "page": 14,
+        "source": "ocr",
+        "context": "0000平方米,主要部\n分在龙泉中学〈原宝鸡市四\n中) Beh AL. alt hk"
+      },
+      {
+        "text": "北首岭",
+        "page": 15,
+        "source": "ocr",
+        "context": " er th, RPT AB ER.\n\n北首岭遗址是解放后宝鸡市文化局发现的。其后，陕"
+      },
+      {
+        "text": "宝鸡",
+        "page": 15,
+        "source": "ocr",
+        "context": "PT AB ER.\n\n北首岭遗址是解放后宝鸡市文化局发现的。其后，陕西省文物管理委员"
+      },
+      {
+        "text": "宝鸡",
+        "page": 15,
+        "source": "ocr",
+        "context": "、西北文\n物清理队和中国科学院考古研究所宝鸡发气队等单位在这里进行过调查。1958年"
+      },
+      {
+        "text": "宝鸡",
+        "page": 15,
+        "source": "ocr",
+        "context": "位在这里进行过调查。1958年8 月，\n宝鸡市一中押史教师李培基向文化局建议，希望对"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "饰",
+        "page": 6,
+        "source": "ocr",
+        "context": " ，。陶器 cconsse\n\nC=) 装饰唱和ee nen ene nan sen"
+      },
+      {
+        "text": "盘",
+        "page": 8,
+        "source": "ocr",
+        "context": " vee cee cee eve\n石研磨盘、   棒        ea eaes"
+      },
+      {
+        "text": "瓶",
+        "page": 12,
+        "source": "ocr",
+        "context": "\nBey a\nBij a2.\nRe,\n陶瓶\nBig\nBig ft\n\n"
+      },
+      {
+        "text": "环",
+        "page": 13,
+        "source": "ocr",
+        "context": "WHE. Te. ARS\n\n陶刍、纺轮、环等\n\nHER. Ali. TH. ei\n"
+      },
+      {
+        "text": "盆",
+        "page": 14,
+        "source": "ocr",
+        "context": "a 言\n\n室允市位于关中盆地西部，是陕西省西部的一个重要城市，也是"
+      },
+      {
+        "text": "饰",
+        "page": 15,
+        "source": "ocr",
+        "context": "900余件，其它生活用具、生产工具及装\n饰品等遗物共5000余件。\n\n第一阶段发拨"
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "人骨",
+        "page": 6,
+        "source": "ocr",
+        "context": "en aed\n\n附录一  宝鸡新石器时代人骨的研究报告 ee\n附录二“宝鸡北首岭新石"
+      },
+      {
+        "text": "陶片",
+        "page": 13,
+        "source": "ocr",
+        "context": "e AE\n\nBR. WAR. Ai\n\n彩陶片\n\n彩陶片\n\n彩陶片\n\nBij = E."
+      },
+      {
+        "text": "陶片",
+        "page": 13,
+        "source": "ocr",
+        "context": "\nBR. WAR. Ai\n\n彩陶片\n\n彩陶片\n\n彩陶片\n\nBij = E.R\n\nUA"
+      },
+      {
+        "text": "陶片",
+        "page": 13,
+        "source": "ocr",
+        "context": "WAR. Ai\n\n彩陶片\n\n彩陶片\n\n彩陶片\n\nBij = E.R\n\nUAE Sm "
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T4",
+        "page": 7,
+        "source": "ocr",
+        "context": "s ave cae\n第 TV SR 77T4  平面 [El ore er one "
+      },
+      {
+        "text": "T5",
+        "page": 7,
+        "source": "ocr",
+        "context": " nen cer cas\n第开发据区78T5 FE Tif Eel oe ove c"
+      },
+      {
+        "text": "T110",
+        "page": 7,
+        "source": "ocr",
+        "context": "LOE One oes COO 280\nT110. TILL, T115, T1117 "
+      },
+      {
+        "text": "T115",
+        "page": 7,
+        "source": "ocr",
+        "context": "COO 280\nT110. TILL, T115, T1117 fe BE RATE a"
+      },
+      {
+        "text": "T1117",
+        "page": 7,
+        "source": "ocr",
+        "context": "0\nT110. TILL, T115, T1117 fe BE RATE awe cee "
+      }
+    ],
+    "陶器": [
+      {
+        "text": "盘",
+        "page": 8,
+        "source": "ocr",
+        "context": " vee cee cee eve\n石研磨盘、   棒        ea eaes"
+      },
+      {
+        "text": "陶瓶",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n\nBey a\nBij a2.\nRe,\n陶瓶\nBig\nBig ft\n\n"
+      },
+      {
+        "text": "纺轮",
+        "page": 13,
+        "source": "ocr",
+        "context": "e\n\nWHE. Te. ARS\n\n陶刍、纺轮、环等\n\nHER. Ali. TH. e"
+      },
+      {
+        "text": "环",
+        "page": 13,
+        "source": "ocr",
+        "context": "WHE. Te. ARS\n\n陶刍、纺轮、环等\n\nHER. Ali. TH. ei\n"
+      },
+      {
+        "text": "盆",
+        "page": 14,
+        "source": "ocr",
+        "context": "a 言\n\n室允市位于关中盆地西部，是陕西省西部的一个重要城市，也是"
+      }
+    ],
+    "纹饰": [
+      {
+        "text": "彩陶",
+        "page": 13,
+        "source": "ocr",
+        "context": "ae AE\n\nBR. WAR. Ai\n\n彩陶片\n\n彩陶片\n\n彩陶片\n\nBij = E"
+      },
+      {
+        "text": "彩陶",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n\nBR. WAR. Ai\n\n彩陶片\n\n彩陶片\n\n彩陶片\n\nBij = E.R\n\nU"
+      },
+      {
+        "text": "彩陶",
+        "page": 13,
+        "source": "ocr",
+        "context": " WAR. Ai\n\n彩陶片\n\n彩陶片\n\n彩陶片\n\nBij = E.R\n\nUAE Sm"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": "1000\n米",
+        "page": 14,
+        "source": "ocr",
+        "context": "区有两级河旁阶地。第二级阶地 宽200一1000\n米，上履10一15米厚的商土和砂质粘土，地"
+      },
+      {
+        "text": "15米",
+        "page": 14,
+        "source": "ocr",
+        "context": "阶地 宽200一1000\n米，上履10一15米厚的商土和砂质粘土，地势平坦，距水近，地"
+      },
+      {
+        "text": "30米",
+        "page": 14,
+        "source": "ocr",
+        "context": "WA SiR) 。造址高出金陵\n河河床约30米， 南北长约\n300米，东西宽约200米"
+      },
+      {
+        "text": "\n300米",
+        "page": 14,
+        "source": "ocr",
+        "context": "造址高出金陵\n河河床约30米， 南北长约\n300米，东西宽约200米，面\n积约达60000"
+      },
+      {
+        "text": "200米",
+        "page": 14,
+        "source": "ocr",
+        "context": "约30米， 南北长约\n300米，东西宽约200米，面\n积约达60000平方米,主要部\n分"
+      },
+      {
+        "text": "1.5米",
+        "page": 15,
+        "source": "ocr",
+        "context": "停止下\n控，所以大多数探方发掘深度仅1一1.5米，米挖到生土。\n\n第二和阶段的发所是从1"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "房址",
+        "page": 15,
+        "source": "ocr",
+        "context": "遗址建筑群的关系，此阶段的发气，一清理到房址就停止下\n控，所以大多数探方发掘深度仅1"
+      },
+      {
+        "text": "灰坑",
+        "page": 15,
+        "source": "ocr",
+        "context": "面积计4727平方米，共发现骨址50座、灰坑75个、密4座、排\n水沟2道、灶境2个、"
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "生土",
+        "page": 15,
+        "source": "ocr",
+        "context": "大多数探方发掘深度仅1一1.5米，米挖到生土。\n\n第二和阶段的发所是从1977年10"
+      },
+      {
+        "text": "生土",
+        "page": 15,
+        "source": "ocr",
+        "context": "时期遗存的面铝，所以大部分探方都挖到\n了生土。\n\n前后两个阶段的发拓面积计4727平"
+      }
+    ]
+  }
+}

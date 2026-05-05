@@ -1,0 +1,1083 @@
+{
+  "name": "定陵",
+  "file": "定陵.pdf",
+  "era": "明代",
+  "culture": "万历皇帝陵寝",
+  "processed_pages": 15,
+  "total_entities": 173,
+  "entity_stats": {
+    "年代": 85,
+    "遗存类型": 2,
+    "葬具": 11,
+    "陶器": 18,
+    "铜器": 37,
+    "玉器": 4,
+    "金器": 1,
+    "遗迹类型": 1,
+    "地层": 1,
+    "遗迹编号": 10,
+    "铁器": 3
+  },
+  "entities": {
+    "年代": [
+      {
+        "text": "金",
+        "page": 1,
+        "source": "ocr",
+        "context": "隧道门(二)砖隧道 (=) 石隧道(四)金刚墙 (五)甬 道 (六)前 RCD) "
+      },
+      {
+        "text": "金",
+        "page": 2,
+        "source": "ocr",
+        "context": "、金\nCOW 注( 2二 C2 TR   C"
+      },
+      {
+        "text": "金",
+        "page": 2,
+        "source": "ocr",
+        "context": "( 一)唾 过(3)盘( -四)镶花梨木金太 (一五)杯 (一六)慢 (七)久珠宝"
+      },
+      {
+        "text": "金",
+        "page": 2,
+        "source": "ocr",
+        "context": "JURE (OVE (LK 顶 (二二)金 锭 (二三)金 饼 (二四)吉祥如意”"
+      },
+      {
+        "text": "金",
+        "page": 2,
+        "source": "ocr",
+        "context": "E (LK 顶 (二二)金 锭 (二三)金 饼 (二四)吉祥如意”\n\nHC A) "
+      },
+      {
+        "text": "金",
+        "page": 3,
+        "source": "ocr",
+        "context": "(一)灸宝梅花金管 (=) 镶珠宝花蝶金环 (三)系珠石"
+      },
+      {
+        "text": "金",
+        "page": 3,
+        "source": "ocr",
+        "context": "(一)灸宝梅花金管 (=) 镶珠宝花蝶金环 (三)系珠石金环 (四)棕”帽 (五"
+      },
+      {
+        "text": "金",
+        "page": 3,
+        "source": "ocr",
+        "context": "管 (=) 镶珠宝花蝶金环 (三)系珠石金环 (四)棕”帽 (五)网中匣 (六)素"
+      },
+      {
+        "text": "金",
+        "page": 3,
+        "source": "ocr",
+        "context": "巾 (七)纱 巾\nONS 带 (九)首饰金饰件 (一D)首饰玉饰件\n\n(IE 石 "
+      },
+      {
+        "text": "金",
+        "page": 3,
+        "source": "ocr",
+        "context": "RE Ear\n(BKB (二)\n四、镶宝金版…\n\n…、铜 镜\n利…\n报\n\n四、\n、"
+      },
+      {
+        "text": "金",
+        "page": 4,
+        "source": "ocr",
+        "context": "记表\n附表一四 缂丝品登记表\n附表一五 金器登记表\n附表一六 金锭登记表\n附表一七"
+      },
+      {
+        "text": "金",
+        "page": 4,
+        "source": "ocr",
+        "context": "登记表\n附表一五 金器登记表\n附表一六 金锭登记表\n附表一七 吉祥如意金钱重量登记"
+      },
+      {
+        "text": "金",
+        "page": 4,
+        "source": "ocr",
+        "context": "附表一六 金锭登记表\n附表一七 吉祥如意金钱重量登记表\n附表一八 消灾延寿金钱重量"
+      },
+      {
+        "text": "金",
+        "page": 4,
+        "source": "ocr",
+        "context": "祥如意金钱重量登记表\n附表一八 消灾延寿金钱重量登记表\nWN 银锭登记表\n附表二〇"
+      },
+      {
+        "text": "明",
+        "page": 4,
+        "source": "ocr",
+        "context": "量登记表\nWN 银锭登记表\n附表二〇 锡明器登记表\n附表二一 青花梅瓶登记表\n附表"
+      },
+      {
+        "text": "明",
+        "page": 4,
+        "source": "ocr",
+        "context": "一三 玉料登记表 …\n附表一四 五供及长明灯石座尺寸登记表\n附表一五 随磊什物箱登"
+      },
+      {
+        "text": "明",
+        "page": 5,
+        "source": "ocr",
+        "context": "LBM RICK -\n\n附录:\n\n附录 明十三陵边墙山口的建置，\n附录二 明定陵营"
+      },
+      {
+        "text": "明",
+        "page": 5,
+        "source": "ocr",
+        "context": "附录 明十三陵边墙山口的建置，\n附录二 明定陵营建大事记             "
+      },
+      {
+        "text": "明",
+        "page": 5,
+        "source": "ocr",
+        "context": "             的\n\n附录三 明万历帝及其两后的口腔情况        "
+      },
+      {
+        "text": "明",
+        "page": 5,
+        "source": "ocr",
+        "context": "       ++ (342)\n附录四 明定陵出土的纺织品 ……\n附录五 明定陵出"
+      },
+      {
+        "text": "明",
+        "page": 5,
+        "source": "ocr",
+        "context": "录四 明定陵出土的纺织品 ……\n附录五 明定陵出土刺绣百子衣的鉴定报告 …………\n"
+      },
+      {
+        "text": "明",
+        "page": 5,
+        "source": "ocr",
+        "context": "刺绣百子衣的鉴定报告 …………\n附录六 明定陵出土十二章福寿如意缂丝家服鉴定报告\n"
+      },
+      {
+        "text": "金",
+        "page": 5,
+        "source": "ocr",
+        "context": "鉴定报告\n附录七 柿蒂形龙云记通袖龙衫织金、孔洗羽妆花罗龙袍料织造技术鉴定\n附录八"
+      },
+      {
+        "text": "明",
+        "page": 5,
+        "source": "ocr",
+        "context": "孔洗羽妆花罗龙袍料织造技术鉴定\n附录八 明定陵出土冠服、首饰等工艺报告\n附录九 明"
+      },
+      {
+        "text": "明",
+        "page": 5,
+        "source": "ocr",
+        "context": "明定陵出土冠服、首饰等工艺报告\n附录九 明定陵出土部分宝玉石的鉴定\n附录一CQ 明"
+      },
+      {
+        "text": "明",
+        "page": 5,
+        "source": "ocr",
+        "context": "明定陵出土部分宝玉石的鉴定\n附录一CQ 明定陵出土木质品鉴定 …\n附录-一 明定俱"
+      },
+      {
+        "text": "明",
+        "page": 5,
+        "source": "ocr",
+        "context": "Q 明定陵出土木质品鉴定 …\n附录-一 明定俱玄宫内长明灯油及蜡烛的鉴定\n附录一二"
+      },
+      {
+        "text": "明",
+        "page": 5,
+        "source": "ocr",
+        "context": "木质品鉴定 …\n附录-一 明定俱玄宫内长明灯油及蜡烛的鉴定\n附录一二 明定陵帝后头"
+      },
+      {
+        "text": "明",
+        "page": 5,
+        "source": "ocr",
+        "context": "俱玄宫内长明灯油及蜡烛的鉴定\n附录一二 明定陵帝后头发的分析报告 ono\n\n"
+      },
+      {
+        "text": "金",
+        "page": 7,
+        "source": "ocr",
+        "context": "七箱器物分布图(第 Sed)\n图六五 织金妆伦龙衫级直身龙李料W248:1展开裁剪"
+      },
+      {
+        "text": "金",
+        "page": 7,
+        "source": "ocr",
+        "context": "剪式样及拼接成胡示意图\n图和AUA) 织金妆人花龙袜级直身龙袍料W248: 1并 "
+      },
+      {
+        "text": "金",
+        "page": 7,
+        "source": "ocr",
+        "context": "及下摆两侧接片纹样\nPAN NCB) 织金妆伦龙实级直身龙想料W248:1纹相\nP"
+      },
+      {
+        "text": "金",
+        "page": 7,
+        "source": "ocr",
+        "context": "料W248:1纹相\nPEA ACC) 织金妆伦龙衫级直身龙息料W248:1大胡裤及"
+      },
+      {
+        "text": "金",
+        "page": 7,
+        "source": "ocr",
+        "context": "(5.6 ) 纹样\nPANN CD) 织金妆花龙补级直身龙侈料W248:1胡摆(7"
+      },
+      {
+        "text": "金",
+        "page": 7,
+        "source": "ocr",
+        "context": "7、8)纹样 ……\nPENN CE) 织金妆花龙衫级直身龙想料W248:1衣袖(1"
+      },
+      {
+        "text": "金",
+        "page": 7,
+        "source": "ocr",
+        "context": "248:1衣袖(11 )纹样\n图人七。织金妆花万宰级龙杷料W260展开裁前式样及拼"
+      },
+      {
+        "text": "金",
+        "page": 7,
+        "source": "ocr",
+        "context": "展开裁前式样及拼接成衣\n图六八(A) 织金妆化龙宰级龙翁料W260前后襟肩通宙及大"
+      },
+      {
+        "text": "金",
+        "page": 7,
+        "source": "ocr",
+        "context": "0前后襟肩通宙及大襟\nPRANAB) 织金妆花龙宰级龙袍料W260前后襟肩通袖及小"
+      },
+      {
+        "text": "金",
+        "page": 7,
+        "source": "ocr",
+        "context": "襟 (8、10) 纹样\n图穴八(C) 组金妆花龙宰级龙杷料W260龙衫(1、4)纹"
+      },
+      {
+        "text": "金",
+        "page": 8,
+        "source": "ocr",
+        "context": "图LO(C) 织金站伦龙实级龙人肥料W280龙补(1、8)"
+      },
+      {
+        "text": "金",
+        "page": 8,
+        "source": "ocr",
+        "context": "          (59)\n图七四 织金妆花缓匹料]59纹样“         "
+      },
+      {
+        "text": "金",
+        "page": 8,
+        "source": "ocr",
+        "context": "           (60)\n图七入组金妆伦双狂纹纱虑料W97纹村       "
+      },
+      {
+        "text": "金",
+        "page": 8,
+        "source": "ocr",
+        "context": "O BIORDS\n\nJew AW254\n金此料J30纹样\nCHW LL9ECHE\n"
+      },
+      {
+        "text": "金",
+        "page": 9,
+        "source": "ocr",
+        "context": "四团龙圆领炎龙袍W375后视式样\n五 织金级弹丝八团龙圆领灾龙袍W89: 2地纹…"
+      },
+      {
+        "text": "金",
+        "page": 9,
+        "source": "ocr",
+        "context": "绣四财龙贺领拓龙袍W375地纹\n'七”织金继绊丝八田龙圆领炎龙想W89: 7地纹\n"
+      },
+      {
+        "text": "金",
+        "page": 10,
+        "source": "ocr",
+        "context": "\n\n惕组立领女炎胡D39后视式样 …\n织金妆楷给立领女炎女D16前襟右片及对襟贴边"
+      },
+      {
+        "text": "金",
+        "page": 10,
+        "source": "ocr",
+        "context": "女炎女D16前襟右片及对襟贴边纹样\n\n织金妆花织立领女炎不D16直袖纹样\n织金妆花"
+      },
+      {
+        "text": "金",
+        "page": 10,
+        "source": "ocr",
+        "context": "\n织金妆花织立领女炎不D16直袖纹样\n织金妆花组立领女炎胡D16地纹\n绿改机立领女"
+      },
+      {
+        "text": "金",
+        "page": 10,
+        "source": "ocr",
+        "context": "           * (103)\n织金妆花织方领女炎胡D47: 1      "
+      },
+      {
+        "text": "金",
+        "page": 11,
+        "source": "ocr",
+        "context": "L RR ED LOOSE\n\nSAN 织金罗裙D26式样 …\n\n-九八_红纳凯J6"
+      },
+      {
+        "text": "金",
+        "page": 11,
+        "source": "ocr",
+        "context": "八_红纳凯J69:6纹样\n\n-OO ”织金妆花缓据D22纹样 …\nLO (A) S"
+      },
+      {
+        "text": "金",
+        "page": 11,
+        "source": "ocr",
+        "context": "9: 1 SCRE\n:DO “(B) 织金妆花级袜D19:1 上衫纹样\n-DO “"
+      },
+      {
+        "text": "金",
+        "page": 11,
+        "source": "ocr",
+        "context": "19:1 上衫纹样\n-DO “(C) 织金妆花缓裙D19:1下补纹样\n-DO 织金"
+      },
+      {
+        "text": "金",
+        "page": 11,
+        "source": "ocr",
+        "context": "金妆花缓裙D19:1下补纹样\n-DO 织金妆花缓裙 D 1931地纹\n-DO : "
+      },
+      {
+        "text": "金",
+        "page": 11,
+        "source": "ocr",
+        "context": "花缓裙 D 1931地纹\n-DO : 织金妆伦纳裙D 28:1地纹，\n\n[Oh 8"
+      },
+      {
+        "text": "金",
+        "page": 11,
+        "source": "ocr",
+        "context": "，\n\n[Oh 8 KAW …\n(ON 织金锦绥W405\n\nCOW, W300 -\n"
+      },
+      {
+        "text": "金",
+        "page": 11,
+        "source": "ocr",
+        "context": "头船形鞋J] 131和炎袜本12\n: 织金组夹被W178式样 …         "
+      },
+      {
+        "text": "金",
+        "page": 12,
+        "source": "ocr",
+        "context": "图二一五 ”织金妆花组夹被W298纹样\n图二-六(A) "
+      },
+      {
+        "text": "金",
+        "page": 12,
+        "source": "ocr",
+        "context": "花组夹被W298纹样\n图二-六(A) 织金妆花织丝绵被W163上段纹样“\n图二. "
+      },
+      {
+        "text": "金",
+        "page": 12,
+        "source": "ocr",
+        "context": "163上段纹样“\n图二. -六(B) 织金妆花级丝编被W163下段纹样\n图二一七 "
+      },
+      {
+        "text": "金",
+        "page": 12,
+        "source": "ocr",
+        "context": "缂丝膝袜W406:15纹样\nP= HO 金酒注W19各部位纹样\n图二五一 金表W9"
+      },
+      {
+        "text": "金",
+        "page": 12,
+        "source": "ocr",
+        "context": "HO 金酒注W19各部位纹样\n图二五一 金表W9各部位纹样 …\n图二五二“金器铭文"
+      },
+      {
+        "text": "金",
+        "page": 12,
+        "source": "ocr",
+        "context": "五一 金表W9各部位纹样 …\n图二五二“金器铭文拓片(原大:\n\n= 金、银器铭文摹"
+      },
+      {
+        "text": "金",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n图二五二“金器铭文拓片(原大:\n\n= 金、银器铭文摹本-\n金星等瓶W191各部位"
+      },
+      {
+        "text": "金",
+        "page": 12,
+        "source": "ocr",
+        "context": "拓片(原大:\n\n= 金、银器铭文摹本-\n金星等瓶W191各部位纹样ee\n\n"
+      },
+      {
+        "text": "金",
+        "page": 13,
+        "source": "ocr",
+        "context": "RW LOGHEE ER RA -\n下型金盆W106纹样拓片\n1 型金使W103各"
+      },
+      {
+        "text": "金",
+        "page": 13,
+        "source": "ocr",
+        "context": "A -\n下型金盆W106纹样拓片\n1 型金使W103各部位纹样\n下型2式金爹W10"
+      },
+      {
+        "text": "金",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n1 型金使W103各部位纹样\n下型2式金爹W101纹样及铭文华本，\n型金使D6:"
+      },
+      {
+        "text": "金",
+        "page": 13,
+        "source": "ocr",
+        "context": "下型2式金爹W101纹样及铭文华本，\n型金使D6:3各部位纹样及粉扑“\n金激击W1"
+      },
+      {
+        "text": "金",
+        "page": 13,
+        "source": "ocr",
+        "context": "本，\n型金使D6:3各部位纹样及粉扑“\n金激击W105各部位纹样及锁文蔡本\n金唾索"
+      },
+      {
+        "text": "金",
+        "page": 13,
+        "source": "ocr",
+        "context": "“\n金激击W105各部位纹样及锁文蔡本\n金唾索W227各部位纹样\n金殴了49各部位"
+      },
+      {
+        "text": "金",
+        "page": 13,
+        "source": "ocr",
+        "context": "样及锁文蔡本\n金唾索W227各部位纹样\n金殴了49各部位纹样…\n\n下型1式金锭铭文"
+      },
+      {
+        "text": "金",
+        "page": 13,
+        "source": "ocr",
+        "context": "纹样\n金殴了49各部位纹样…\n\n下型1式金锭铭文拓片\n由型1式金锭馈文拓片\nBHA"
+      },
+      {
+        "text": "金",
+        "page": 13,
+        "source": "ocr",
+        "context": "纹样…\n\n下型1式金锭铭文拓片\n由型1式金锭馈文拓片\nBHA RR Be\nHLA "
+      },
+      {
+        "text": "明",
+        "page": 13,
+        "source": "ocr",
+        "context": " UR ER SCH\nTOFS AH\n长明灯部件2009:\n钢明器…\n铜明器\n钢明"
+      },
+      {
+        "text": "明",
+        "page": 13,
+        "source": "ocr",
+        "context": "TOFS AH\n长明灯部件2009:\n钢明器…\n铜明器\n钢明器\n\nFERRE\n\nN"
+      },
+      {
+        "text": "明",
+        "page": 13,
+        "source": "ocr",
+        "context": "AH\n长明灯部件2009:\n钢明器…\n铜明器\n钢明器\n\nFERRE\n\nNV AE "
+      },
+      {
+        "text": "明",
+        "page": 13,
+        "source": "ocr",
+        "context": "明灯部件2009:\n钢明器…\n铜明器\n钢明器\n\nFERRE\n\nNV AE HBT "
+      },
+      {
+        "text": "金",
+        "page": 13,
+        "source": "ocr",
+        "context": "ARW3 3 GE REY\n下杯W18及金托盘纹相\nATR iE\nRAAT TE "
+      },
+      {
+        "text": "明",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n北京北郊, 昌平县境内的天寿山大, 是明代十三个皇帝的陵\n莫区, 总称明十三陵,"
+      },
+      {
+        "text": "明",
+        "page": 15,
+        "source": "ocr",
+        "context": "大, 是明代十三个皇帝的陵\n莫区, 总称明十三陵, 南距北京48公里。定陵, 是明"
+      },
+      {
+        "text": "明",
+        "page": 15,
+        "source": "ocr",
+        "context": "明十三陵, 南距北京48公里。定陵, 是明代神宗万历皇\n帝的陵幕, 为明十三陵之一"
+      },
+      {
+        "text": "明",
+        "page": 15,
+        "source": "ocr",
+        "context": "定陵, 是明代神宗万历皇\n帝的陵幕, 为明十三陵之一。除神宗外, 同莫有孝端王皇后"
+      },
+      {
+        "text": "明",
+        "page": 15,
+        "source": "ocr",
+        "context": "长) 等人, 联名上书国务院, 请求发掘明代成\n祖永乐皇帝的陵划一一长陵。这-请求"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "ocr",
+        "context": "; 至1958年7月, 结束玄官内的器物清理工\n作。 前后费时两年又两个月, 用工"
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "织物",
+        "page": 1,
+        "source": "ocr",
+        "context": " (43)\n\n第一节 ”纺织品和胡物\n、织物品种…\n\n四、刺绣……\nCOR AR C"
+      },
+      {
+        "text": "织物",
+        "page": 4,
+        "source": "ocr",
+        "context": "附表一二 垫袜登记表 …\n附表一三 刺绣织物登记表\n附表一四 缂丝品登记表\n附表一五"
+      }
+    ],
+    "葬具": [
+      {
+        "text": "棺",
+        "page": 1,
+        "source": "ocr",
+        "context": "RC 〈- -〇) 右配典\n\n第四章帝后棺樟、幕式与随葬器物分布概况 ee (22"
+      },
+      {
+        "text": "棺",
+        "page": 5,
+        "source": "ocr",
+        "context": "(二) 孝端后棺内外随非器物登记表 “\n(三) 孝靖后棺"
+      },
+      {
+        "text": "棺",
+        "page": 5,
+        "source": "ocr",
+        "context": "棺内外随非器物登记表 “\n(三) 孝靖后棺内外随莫器物登记表\n(四) RAFT A"
+      },
+      {
+        "text": "棺",
+        "page": 7,
+        "source": "ocr",
+        "context": "〈工一区为分图编号)\n图二七”后典万访帝棺樟及随菲器物分布图 (图三六分图下) …"
+      },
+      {
+        "text": "棺",
+        "page": 7,
+        "source": "ocr",
+        "context": "六分图下) ………\n\n图三八_后由学端后棺停及随芋器物分布图 (图三六分图N)\n图"
+      },
+      {
+        "text": "棺",
+        "page": 15,
+        "source": "ocr",
+        "context": "。玄宫内前典、 中殿、后典分别编号。帝后棺樟内外出土器\n物从墓主编叶。随草器物箱单"
+      },
+      {
+        "text": "棺",
+        "page": 15,
+        "source": "ocr",
+        "context": "号起; 后典由300]1号起。 万历\n帝棺内出土物代号为W, 标本号依次为W1、W"
+      },
+      {
+        "text": "棺",
+        "page": 15,
+        "source": "ocr",
+        "context": "标本号依次为WwW1、WW2……。孝端后棺内出\n土物代号为D, 棺外出土物代号为D"
+      },
+      {
+        "text": "棺",
+        "page": 15,
+        "source": "ocr",
+        "context": "W2……。孝端后棺内出\n土物代号为D, 棺外出土物代号为DW。孝靖后棺内出土物代号"
+      },
+      {
+        "text": "棺",
+        "page": 15,
+        "source": "ocr",
+        "context": "代号为D, 棺外出土物代号为DW。孝靖后棺内出土物代号\nBY, 棺外出土物代号为J"
+      },
+      {
+        "text": "棺",
+        "page": 15,
+        "source": "ocr",
+        "context": "号为DW。孝靖后棺内出土物代号\nBY, 棺外出土物代号为JW。随莫器物箱代号为X,"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "盆",
+        "page": 2,
+        "source": "ocr",
+        "context": "OB CE) 提梁饶〈八)带柄饶 (九)盆 (--O)\n\nBC Di 直( 一)唾"
+      },
+      {
+        "text": "盘",
+        "page": 2,
+        "source": "ocr",
+        "context": ")\n\nBC Di 直( 一)唾 过(3)盘( -四)镶花梨木金太 (一五)杯 (一"
+      },
+      {
+        "text": "杯",
+        "page": 2,
+        "source": "ocr",
+        "context": "(3)盘( -四)镶花梨木金太 (一五)杯 (一六)慢 (七)久珠宝桃形\n\nAR "
+      },
+      {
+        "text": "盆",
+        "page": 2,
+        "source": "ocr",
+        "context": " (四)水 桶 (五)水 勺 (六)水 盆 (七)唾 OE 之\nGU) COVA "
+      },
+      {
+        "text": "刀",
+        "page": 2,
+        "source": "ocr",
+        "context": "RH CAO AO Ui EP CO) 刀(二 RRO BON 夭\n( 3)酒 r"
+      },
+      {
+        "text": "盘",
+        "page": 2,
+        "source": "ocr",
+        "context": "Kft\nCR ORO -3)汤鼓( 由)盘(五碟 ONR (HE 子 (一人)香 "
+      },
+      {
+        "text": "瓶",
+        "page": 2,
+        "source": "ocr",
+        "context": " BRR ( :)香炉右座〈四)烛台、香瓶石座 CE) AR PAT\n      "
+      },
+      {
+        "text": "环",
+        "page": 3,
+        "source": "ocr",
+        "context": "(一)灸宝梅花金管 (=) 镶珠宝花蝶金环 (三)系珠石金环 (四)棕”帽 (五)"
+      },
+      {
+        "text": "环",
+        "page": 3,
+        "source": "ocr",
+        "context": " (=) 镶珠宝花蝶金环 (三)系珠石金环 (四)棕”帽 (五)网中匣 (六)素网"
+      },
+      {
+        "text": "瓶",
+        "page": 4,
+        "source": "ocr",
+        "context": "附表二〇 锡明器登记表\n附表二一 青花梅瓶登记表\n附表一三 玉料登记表 …\n附表一"
+      },
+      {
+        "text": "刀",
+        "page": 7,
+        "source": "ocr",
+        "context": "闻端后榨樟北侧随毕器物分布图{ 图\n图五刀 PARAM EAR 《第一居)\n图AO"
+      },
+      {
+        "text": "刀",
+        "page": 8,
+        "source": "ocr",
+        "context": "                7\n\n局刀四\n二九天\n图刀信N\nFULL RIOR"
+      },
+      {
+        "text": "刀",
+        "page": 8,
+        "source": "ocr",
+        "context": "        7\n\n局刀四\n二九天\n图刀信N\nFULL RIOR D598 FF"
+      },
+      {
+        "text": "瓶",
+        "page": 12,
+        "source": "ocr",
+        "context": "原大:\n\n= 金、银器铭文摹本-\n金星等瓶W191各部位纹样ee\n\n"
+      },
+      {
+        "text": "盆",
+        "page": 13,
+        "source": "ocr",
+        "context": "W LOGHEE ER RA -\n下型金盆W106纹样拓片\n1 型金使W103各部"
+      },
+      {
+        "text": "盘",
+        "page": 13,
+        "source": "ocr",
+        "context": "HLA J ATER RH BAS\n\n银盘] 39SAE RRA\n银耽] 48各部"
+      },
+      {
+        "text": "杯",
+        "page": 13,
+        "source": "ocr",
+        "context": " ah\nKARW3 3 GE REY\n下杯W18及金托盘纹相\nATR iE\nRAA"
+      },
+      {
+        "text": "盘",
+        "page": 13,
+        "source": "ocr",
+        "context": "W3 3 GE REY\n下杯W18及金托盘纹相\nATR iE\nRAAT TE IR"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "盆",
+        "page": 2,
+        "source": "ocr",
+        "context": "OB CE) 提梁饶〈八)带柄饶 (九)盆 (--O)\n\nBC Di 直( 一)唾"
+      },
+      {
+        "text": "盘",
+        "page": 2,
+        "source": "ocr",
+        "context": ")\n\nBC Di 直( 一)唾 过(3)盘( -四)镶花梨木金太 (一五)杯 (一"
+      },
+      {
+        "text": "杯",
+        "page": 2,
+        "source": "ocr",
+        "context": "(3)盘( -四)镶花梨木金太 (一五)杯 (一六)慢 (七)久珠宝桃形\n\nAR "
+      },
+      {
+        "text": "盆",
+        "page": 2,
+        "source": "ocr",
+        "context": " (四)水 桶 (五)水 勺 (六)水 盆 (七)唾 OE 之\nGU) COVA "
+      },
+      {
+        "text": "刀",
+        "page": 2,
+        "source": "ocr",
+        "context": "RH CAO AO Ui EP CO) 刀(二 RRO BON 夭\n( 3)酒 r"
+      },
+      {
+        "text": "盘",
+        "page": 2,
+        "source": "ocr",
+        "context": "Kft\nCR ORO -3)汤鼓( 由)盘(五碟 ONR (HE 子 (一人)香 "
+      },
+      {
+        "text": "瓶",
+        "page": 2,
+        "source": "ocr",
+        "context": " BRR ( :)香炉右座〈四)烛台、香瓶石座 CE) AR PAT\n      "
+      },
+      {
+        "text": "饰",
+        "page": 2,
+        "source": "ocr",
+        "context": "           + (197)\n靖饰 ……                 "
+      },
+      {
+        "text": "环",
+        "page": 3,
+        "source": "ocr",
+        "context": "(一)灸宝梅花金管 (=) 镶珠宝花蝶金环 (三)系珠石金环 (四)棕”帽 (五)"
+      },
+      {
+        "text": "环",
+        "page": 3,
+        "source": "ocr",
+        "context": " (=) 镶珠宝花蝶金环 (三)系珠石金环 (四)棕”帽 (五)网中匣 (六)素网"
+      },
+      {
+        "text": "饰",
+        "page": 3,
+        "source": "ocr",
+        "context": "网巾 (七)纱 巾\nONS 带 (九)首饰金饰件 (一D)首饰玉饰件\n\n(IE 石"
+      },
+      {
+        "text": "饰",
+        "page": 3,
+        "source": "ocr",
+        "context": " (七)纱 巾\nONS 带 (九)首饰金饰件 (一D)首饰玉饰件\n\n(IE 石 ("
+      },
+      {
+        "text": "饰",
+        "page": 3,
+        "source": "ocr",
+        "context": "ONS 带 (九)首饰金饰件 (一D)首饰玉饰件\n\n(IE 石 (二)珍 珠\n第八"
+      },
+      {
+        "text": "饰",
+        "page": 3,
+        "source": "ocr",
+        "context": "S 带 (九)首饰金饰件 (一D)首饰玉饰件\n\n(IE 石 (二)珍 珠\n第八节”"
+      },
+      {
+        "text": "饰",
+        "page": 3,
+        "source": "ocr",
+        "context": "E 石 (二)珍 珠\n第八节”冠、带和修饰\n\n{ )玉革带(二)大碌带\n=. SO"
+      },
+      {
+        "text": "镜",
+        "page": 3,
+        "source": "ocr",
+        "context": "KB (二)\n四、镶宝金版…\n\n…、铜 镜\n利…\n报\n\n四、\n、圆\n\n第-O\n\n梳"
+      },
+      {
+        "text": "饰",
+        "page": 4,
+        "source": "ocr",
+        "context": "表一 丝织匹料、袍料登记表\n\n附表二 服饰及被袜登记表 …\n附表三 讼服登记表 …"
+      },
+      {
+        "text": "瓶",
+        "page": 4,
+        "source": "ocr",
+        "context": "附表二〇 锡明器登记表\n附表二一 青花梅瓶登记表\n附表一三 玉料登记表 …\n附表一"
+      },
+      {
+        "text": "饰",
+        "page": 4,
+        "source": "ocr",
+        "context": "九 ia et IC\n附表二O 孝端后首饰登记表 …\n附表-: 学靖后首饰登记表("
+      },
+      {
+        "text": "饰",
+        "page": 4,
+        "source": "ocr",
+        "context": "孝端后首饰登记表 …\n附表-: 学靖后首饰登记表(靖饰 )\n附表二一 EMA ON"
+      },
+      {
+        "text": "饰",
+        "page": 4,
+        "source": "ocr",
+        "context": "记表 …\n附表-: 学靖后首饰登记表(靖饰 )\n附表二一 EMA ON RHE R"
+      },
+      {
+        "text": "饰",
+        "page": 4,
+        "source": "ocr",
+        "context": "ICK\n长右、珍珠登记表\n=四 入佩及玉饰件登记表 +\n附表二五“万庆通宝\"重量登"
+      },
+      {
+        "text": "饰",
+        "page": 5,
+        "source": "ocr",
+        "context": "织造技术鉴定\n附录八 明定陵出土冠服、首饰等工艺报告\n附录九 明定陵出土部分宝玉石"
+      },
+      {
+        "text": "饰",
+        "page": 7,
+        "source": "ocr",
+        "context": " thi FR\n\n图在六学靖后尸体头部首饰分布图……\n图下七 学靖后尸体下热被上随"
+      },
+      {
+        "text": "刀",
+        "page": 7,
+        "source": "ocr",
+        "context": "闻端后榨樟北侧随毕器物分布图{ 图\n图五刀 PARAM EAR 《第一居)\n图AO"
+      },
+      {
+        "text": "刀",
+        "page": 8,
+        "source": "ocr",
+        "context": "                7\n\n局刀四\n二九天\n图刀信N\nFULL RIOR"
+      },
+      {
+        "text": "刀",
+        "page": 8,
+        "source": "ocr",
+        "context": "        7\n\n局刀四\n二九天\n图刀信N\nFULL RIOR D598 FF"
+      },
+      {
+        "text": "瓶",
+        "page": 12,
+        "source": "ocr",
+        "context": "原大:\n\n= 金、银器铭文摹本-\n金星等瓶W191各部位纹样ee\n\n"
+      },
+      {
+        "text": "盆",
+        "page": 13,
+        "source": "ocr",
+        "context": "W LOGHEE ER RA -\n下型金盆W106纹样拓片\n1 型金使W103各部"
+      },
+      {
+        "text": "盘",
+        "page": 13,
+        "source": "ocr",
+        "context": "HLA J ATER RH BAS\n\n银盘] 39SAE RRA\n银耽] 48各部"
+      },
+      {
+        "text": "杯",
+        "page": 13,
+        "source": "ocr",
+        "context": " ah\nKARW3 3 GE REY\n下杯W18及金托盘纹相\nATR iE\nRAA"
+      },
+      {
+        "text": "盘",
+        "page": 13,
+        "source": "ocr",
+        "context": "W3 3 GE REY\n下杯W18及金托盘纹相\nATR iE\nRAAT TE IR"
+      },
+      {
+        "text": "饰",
+        "page": 14,
+        "source": "ocr",
+        "context": "W32:1复原图\n\n工型1]式玉带W75饰件及复原图\n\n工型1式玉带W160铭文拓"
+      },
+      {
+        "text": "饰",
+        "page": 14,
+        "source": "ocr",
+        "context": "60铭文拓本:\n\n四型1式玉带X17:6饰件及复原图\n型玉佩X14:5饰件\n\n玉圭"
+      },
+      {
+        "text": "饰",
+        "page": 14,
+        "source": "ocr",
+        "context": "X17:6饰件及复原图\n型玉佩X14:5饰件\n\n玉圭拓本…\n\nBEX29F, MM"
+      },
+      {
+        "text": "铜镜",
+        "page": 14,
+        "source": "ocr",
+        "context": "玉圭拓本…\n\nBEX29F, MMA\n\n铜镜D3拓本(1/2)\n\nET) EWA) "
+      },
+      {
+        "text": "饰",
+        "page": 14,
+        "source": "ocr",
+        "context": "2)\n\nET) EWA) X20:2及精饰件纹样\nSX 20: 9A\n铁铠甲片X2"
+      }
+    ],
+    "玉器": [
+      {
+        "text": "玉饰",
+        "page": 3,
+        "source": "ocr",
+        "context": "NS 带 (九)首饰金饰件 (一D)首饰玉饰件\n\n(IE 石 (二)珍 珠\n第八节”"
+      },
+      {
+        "text": "玉饰",
+        "page": 4,
+        "source": "ocr",
+        "context": "RICK\n长右、珍珠登记表\n=四 入佩及玉饰件登记表 +\n附表二五“万庆通宝\"重量登"
+      },
+      {
+        "text": "玉佩",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n四型1式玉带X17:6饰件及复原图\n型玉佩X14:5饰件\n\n玉圭拓本…\n\nBEX2"
+      },
+      {
+        "text": "玉圭",
+        "page": 14,
+        "source": "ocr",
+        "context": "6饰件及复原图\n型玉佩X14:5饰件\n\n玉圭拓本…\n\nBEX29F, MMA\n\n铜镜"
+      }
+    ],
+    "金器": [
+      {
+        "text": "金饰",
+        "page": 3,
+        "source": "ocr",
+        "context": "巾 (七)纱 巾\nONS 带 (九)首饰金饰件 (一D)首饰玉饰件\n\n(IE 石 ("
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "水井",
+        "page": 6,
+        "source": "ocr",
+        "context": "平面图…\n宝城顶部排水设施平、\n\n宝城排水井及涵洞剖面图-\n涵洞出水口平、剖、立面|"
+      }
+    ],
+    "地层": [
+      {
+        "text": "第三层",
+        "page": 7,
+        "source": "ocr",
+        "context": "h FL\nfat         己体上第三层随非器物分布图\n图在         岂"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "D598",
+        "page": 8,
+        "source": "ocr",
+        "context": "\n二九天\n图刀信N\nFULL RIOR D598 FF +\nKU BLAU D9\nPUL"
+      },
+      {
+        "text": "D9",
+        "page": 8,
+        "source": "ocr",
+        "context": "R D598 FF +\nKU BLAU D9\nPUL YER W261\nIq OO "
+      },
+      {
+        "text": "D1",
+        "page": 10,
+        "source": "ocr",
+        "context": "八(B) BURA HEMEL SUK D1 NG BEEF\n)\n\n柳黄绫贺领中单W"
+      },
+      {
+        "text": "J55",
+        "page": 10,
+        "source": "ocr",
+        "context": "WAR CEE -\n\nFB EH 4K J55: OSCE\nBEB TM ASS: B"
+      },
+      {
+        "text": "J82",
+        "page": 10,
+        "source": "ocr",
+        "context": "\nBLE HE IT HM HK AC J82 LORE\nPRERACIL DY LO"
+      },
+      {
+        "text": "J92",
+        "page": 10,
+        "source": "ocr",
+        "context": "女炎胡]J55纹样 …\n绿组方领女炎胡]J92: 1纹样\n绿绫方领女炎衣J85女里纹样"
+      },
+      {
+        "text": "J74",
+        "page": 11,
+        "source": "ocr",
+        "context": "19:3纹样\n-八五 SRI HAAR J74: 2纹样\nNAS REN MAIR I"
+      },
+      {
+        "text": "S64",
+        "page": 11,
+        "source": "ocr",
+        "context": "5:13纹样，\n\nNO BEI ACH S64 SF\n\nIN BRST PEARED "
+      },
+      {
+        "text": "D2",
+        "page": 11,
+        "source": "ocr",
+        "context": "E\nSLO Hitt 22 HR OR D2 SCRE …\nJL (A) BOR B"
+      },
+      {
+        "text": "D118",
+        "page": 12,
+        "source": "ocr",
+        "context": "ELE EW 2970\nPSR ee) D118: LE\n图二一 SCG HT) 167"
+      }
+    ],
+    "铁器": [
+      {
+        "text": "铁铠甲",
+        "page": 14,
+        "source": "ocr",
+        "context": "0:2及精饰件纹样\nSX 20: 9A\n铁铠甲片X20:11式样\n铁甲上圆护X20:1"
+      },
+      {
+        "text": "铁铠甲",
+        "page": 14,
+        "source": "ocr",
+        "context": ":11式样\n铁甲上圆护X20:11纹样\n铁铠甲片X20:11横排编缀方法示意图\n铁铠甲"
+      },
+      {
+        "text": "铁铠甲",
+        "page": 14,
+        "source": "ocr",
+        "context": "铁铠甲片X20:11横排编缀方法示意图\n铁铠甲片X20:11纵排编级方法示意图\n\nRA"
+      }
+    ]
+  }
+}

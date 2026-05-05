@@ -1,0 +1,3141 @@
+{
+  "name": "蒙城尉迟寺",
+  "file": "蒙城尉迟寺.pdf",
+  "era": "新石器",
+  "culture": "大汶口文化",
+  "processed_pages": 15,
+  "total_entities": 515,
+  "entity_stats": {
+    "遗迹类型": 78,
+    "遗迹编号": 131,
+    "层位关系": 2,
+    "陶器": 40,
+    "铜器": 38,
+    "年代": 180,
+    "遗址名称": 23,
+    "建筑结构": 3,
+    "遗存类型": 3,
+    "探方编号": 12,
+    "蚌器": 3,
+    "测量数据": 1,
+    "纹饰": 1
+  },
+  "entities": {
+    "遗迹类型": [
+      {
+        "text": "基址",
+        "page": 1,
+        "source": "ocr",
+        "context": "S S28 0, Mae 24\n三”建筑基址类型 pp 32\n四 “房址的功能及出土"
+      },
+      {
+        "text": "房址",
+        "page": 1,
+        "source": "ocr",
+        "context": "4\n三”建筑基址类型 pp 32\n四 “房址的功能及出土器物 ppp 81\n五“建筑"
+      },
+      {
+        "text": "基址",
+        "page": 1,
+        "source": "ocr",
+        "context": "的功能及出土器物 ppp 81\n五“建筑基址废弃原因ee 95\n第三节 ”其他遗迹 "
+      },
+      {
+        "text": "灰坑",
+        "page": 2,
+        "source": "ocr",
+        "context": "81\n\n第一节 ”遗遂ee 281\n一 灰坑及乱葬坑Wooooosoooooooov"
+      },
+      {
+        "text": "基址",
+        "page": 2,
+        "source": "ocr",
+        "context": "345\n附表一“尉迟寺遗址大汶口文化排房基址登记表尼ee 345\n附表二“尉迟夺遗址"
+      },
+      {
+        "text": "房址",
+        "page": 2,
+        "source": "ocr",
+        "context": "345\n附表二“尉迟夺遗址大汶口文化排房房址柱洞登记下pp 357\n附表三”尉迟寺和"
+      },
+      {
+        "text": "基址",
+        "page": 2,
+        "source": "ocr",
+        "context": "\n附表三”尉迟寺和遗址大汶口文化排房建筑基址出土器物登记表ee 374\n附表四“尉迟"
+      },
+      {
+        "text": "灰坑",
+        "page": 2,
+        "source": "ocr",
+        "context": "物登记表ee 374\n附表四“尉迟寺遗址灰坑与乱苦坑登记表和 379\n附表五”尉迟寺"
+      },
+      {
+        "text": "基址",
+        "page": 4,
+        "source": "ocr",
+        "context": "vooooovoo\nIVK1~4 号建筑基址平面分布图 本 20\nII区10号11 "
+      },
+      {
+        "text": "基址",
+        "page": 4,
+        "source": "ocr",
+        "context": "布图 本 20\nII区10号11 号建筑基址平面分布图 ore eee e ette"
+      },
+      {
+        "text": "基址",
+        "page": 4,
+        "source": "ocr",
+        "context": "r eres 21\n1K 6~9 号建筑基址平面分布图pp 22\nI1K5 号建筑基"
+      },
+      {
+        "text": "基址",
+        "page": 4,
+        "source": "ocr",
+        "context": "址平面分布图pp 22\nI1K5 号建筑基址平面分布图 oo 23\n2 号建筑基址("
+      },
+      {
+        "text": "基址",
+        "page": 4,
+        "source": "ocr",
+        "context": "筑基址平面分布图 oo 23\n2 号建筑基址(F8一Fl13)地势图  oo 24\n"
+      },
+      {
+        "text": "基址",
+        "page": 4,
+        "source": "ocr",
+        "context": "8一Fl13)地势图  oo 24\n建筑基址各部位结构剖面图 oo 26\n门槛结构复"
+      },
+      {
+        "text": "基址",
+        "page": 4,
+        "source": "ocr",
+        "context": "ooooooooooooy\n\n9 号建筑基址(F28一F29)平、痢面图  站\nF2"
+      },
+      {
+        "text": "基址",
+        "page": 4,
+        "source": "ocr",
+        "context": "F29平,剖面图及出土器物\n\n8 号建筑基址(F30一F31)平、剖面图  Pree"
+      },
+      {
+        "text": "基址",
+        "page": 4,
+        "source": "ocr",
+        "context": "nssnsseessens\n\n7 号建筑基址(F32一F33)平剖面图 see e "
+      },
+      {
+        "text": "基址",
+        "page": 5,
+        "source": "ocr",
+        "context": "图 67\n图 68\n图 69\n\n6号建筑基址(F34一F3$)平.剖面图及出土器物 "
+      },
+      {
+        "text": "基址",
+        "page": 5,
+        "source": "ocr",
+        "context": "剖面图及出土器物 ee49\n10 号建筑基址(F42一F43)平 \\剖面图 ov 5"
+      },
+      {
+        "text": "基址",
+        "page": 5,
+        "source": "ocr",
+        "context": "Fl18平.剖面图及出土器物\n1 号建筑基址(Fl19一F23)平.剖面图 ，\n1 "
+      },
+      {
+        "text": "基址",
+        "page": 5,
+        "source": "ocr",
+        "context": "19一F23)平.剖面图 ，\n1 号建筑基址(F19一F23)复原图图 …\nFl9 "
+      },
+      {
+        "text": "基址",
+        "page": 5,
+        "source": "ocr",
+        "context": "、训面图及出土器物 PP\n\n11 号建筑基址(F44一F48)平、剖面图\nF44一F"
+      },
+      {
+        "text": "基址",
+        "page": 5,
+        "source": "ocr",
+        "context": "oooooeeeeooooe\n2 号建筑基址(F8一Fl13)平 .剖面图\n2 号建"
+      },
+      {
+        "text": "基址",
+        "page": 5,
+        "source": "ocr",
+        "context": "F8一Fl13)平 .剖面图\n2 号建筑基址(F8一F13)复原图 PP\n\nF8平."
+      },
+      {
+        "text": "墓葬",
+        "page": 6,
+        "source": "ocr",
+        "context": "7 主要出土器物组合\n[区大汶口文化晚期墓葬 .灰坑分布图.0 98\nII区大汶口文"
+      },
+      {
+        "text": "灰坑",
+        "page": 6,
+        "source": "ocr",
+        "context": "出土器物组合\n[区大汶口文化晚期墓葬 .灰坑分布图.0 98\nII区大汶口文化晚期\\"
+      },
+      {
+        "text": "灰坑",
+        "page": 6,
+        "source": "ocr",
+        "context": "分布图.0 98\nII区大汶口文化晚期\\灰坑分布图\nJI区大汶口文化晚期墓葬 、灰坑"
+      },
+      {
+        "text": "墓葬",
+        "page": 6,
+        "source": "ocr",
+        "context": "化晚期\\灰坑分布图\nJI区大汶口文化晚期墓葬 、灰坑分布图 pp 101\nIV区大汶"
+      },
+      {
+        "text": "灰坑",
+        "page": 6,
+        "source": "ocr",
+        "context": "灰坑分布图\nJI区大汶口文化晚期墓葬 、灰坑分布图 pp 101\nIV区大汶口文化晚"
+      },
+      {
+        "text": "墓葬",
+        "page": 6,
+        "source": "ocr",
+        "context": "布图 pp 101\nIV区大汶口文化晚期墓葬 .厌坑分布图 pp 102\nV区大汶口"
+      },
+      {
+        "text": "灰坑",
+        "page": 6,
+        "source": "ocr",
+        "context": " 、厌坑分布图 RN 102\n大汶口文化灰坑平 前面图 EEEEESEEESSOOO"
+      },
+      {
+        "text": "灰坑",
+        "page": 6,
+        "source": "ocr",
+        "context": "OOOOOOOOSS 103\n大汶口文化灰坑平 ,前面图 EOE 104\nFBC S"
+      },
+      {
+        "text": "祭祀坑",
+        "page": 6,
+        "source": "ocr",
+        "context": "seeeeeeees 112\n大汶口文化祭祀坑平 剖面图(JS2 JS3) ee 11"
+      },
+      {
+        "text": "墓葬",
+        "page": 8,
+        "source": "ocr",
+        "context": "47 基本器物组合 ppp\n\n大汶口文化墓葬平 剖面图(M188)\n\nMI188 基"
+      },
+      {
+        "text": "墓葬",
+        "page": 8,
+        "source": "ocr",
+        "context": "e EF 剖面图(M53)\n\n大汶口文化墓葬平 剖面图(M70)\n\n大汶口文化墓葬平"
+      },
+      {
+        "text": "墓葬",
+        "page": 8,
+        "source": "ocr",
+        "context": "化墓葬平 剖面图(M70)\n\n大汶口文化墓葬平、剖面图(M126)\n\nM126 基本"
+      },
+      {
+        "text": "墓葬",
+        "page": 8,
+        "source": "ocr",
+        "context": " 基本器物组合 pp 212\n大汶口文化墓葬平、剖面图(M190 、M192》 pp"
+      },
+      {
+        "text": "墓葬",
+        "page": 8,
+        "source": "ocr",
+        "context": "eseseeeees 228\n大汶口文化墓葬平 .剖面图(M155、.M215)\n\n"
+      },
+      {
+        "text": "墓葬",
+        "page": 9,
+        "source": "ocr",
+        "context": "化墓莫平、剖面图(M51)\n\n大汶口文化墓葬平 剖面图(M169)\n大汶口文化幕莫平"
+      },
+      {
+        "text": "墓葬",
+        "page": 9,
+        "source": "ocr",
+        "context": "化幕莫平.剖面图(M106)\n大汶口文化墓葬平 剖面图(M134)\nM134 基本器"
+      },
+      {
+        "text": "灰坑",
+        "page": 10,
+        "source": "ocr",
+        "context": "ib cet A\nELS A\n\n龙山文化灰坑平 .剖面图 …\n\n龙山文化灰坑平、剖面"
+      },
+      {
+        "text": "灰坑",
+        "page": 10,
+        "source": "ocr",
+        "context": "龙山文化灰坑平 .剖面图 …\n\n龙山文化灰坑平、剖面图\n\nFE WL SCALE E"
+      },
+      {
+        "text": "墓葬",
+        "page": 10,
+        "source": "ocr",
+        "context": "6 、M123) pp 289\n龙山文化墓葬平 .剖面图(M39 、M66) pp "
+      },
+      {
+        "text": "基址",
+        "page": 11,
+        "source": "ocr",
+        "context": "向东摄)\nF33 的室内柱\n\n1 号建筑基址 (FIO~F23) (由东向西摄)\n大"
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": "布局和遗迹分布情况\n\n亚区探方布局和建筑基址分布情况\n\nKMN区、V区建筑基址发掘情"
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": "和建筑基址分布情况\n\nKMN区、V区建筑基址发掘情况\n\n大汶口文化建筑基址室内倒塌堆"
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": "、V区建筑基址发掘情况\n\n大汶口文化建筑基址室内倒塌堆积\n\n大汶口文化建筑基址内墙加"
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": "化建筑基址室内倒塌堆积\n\n大汶口文化建筑基址内墙加工情况\n\n大汶口文化建筑基址(Fl"
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": "化建筑基址内墙加工情况\n\n大汶口文化建筑基址(Fl1 与 F12,Fl16 与 F1"
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": "l16 与 F17)隔墙\n大汶口文化建筑基址(F9、F23)房门\n\n大汶口文化建筑基"
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": "址(F9、F23)房门\n\n大汶口文化建筑基址(F20)室内柱及挡火墙\n大这口文化建筑"
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": "(F20)室内柱及挡火墙\n大这口文化建筑基址(F20、F21)居住面\n大汶口文化建筑"
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": "(F20、F21)居住面\n大汶口文化建筑基址(F28、F37)灶台\n\n大这口文化8 "
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": "7)灶台\n\n大这口文化8 号一9 号建筑基址\n\n大汶口文化建筑基址(F20 与 F2"
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": "8 号一9 号建筑基址\n\n大汶口文化建筑基址(F20 与 F21、F28 与 F29"
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": "F28 与 F29)隔墙\n大汶口文化建筑基址(F20、F33)房门内侧台阶\n大汶口文"
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": "0、F33)房门内侧台阶\n大汶口文化建筑基址室内情况\n\n大汶口文化7号.5 号建筑基"
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": "址室内情况\n\n大汶口文化7号.5 号建筑基址\n\n大汶口文化 10 号建筑基址\n\nAM"
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": " 号建筑基址\n\n大汶口文化 10 号建筑基址\n\nAMO Mk 3 号建筑基址\n\n大汶"
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": " 号建筑基址\n\nAMO Mk 3 号建筑基址\n\n大汶口文化 3 号建筑基址\nAMAR"
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": "3 号建筑基址\n\n大汶口文化 3 号建筑基址\nAMAR 3 号建筑基址\n\n大汶口文化"
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": "化 3 号建筑基址\nAMAR 3 号建筑基址\n\n大汶口文化建筑基址(FI10、F18"
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": "MAR 3 号建筑基址\n\n大汶口文化建筑基址(FI10、F18)内墙壁柱\n大汶口文化"
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": "0、F18)内墙壁柱\n大汶口文化工号建筑基址\n\n大汶口文化1 号建筑基址\n\n大汶口文"
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": "文化工号建筑基址\n\n大汶口文化1 号建筑基址\n\n大汶口文化1号建筑基址\n\n大汶口文化"
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": "文化1 号建筑基址\n\n大汶口文化1号建筑基址\n\n大汶口文化 11 号建筑基址\n\n大汶"
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": "1号建筑基址\n\n大汶口文化 11 号建筑基址\n\n大汶口文化 2 号建筑基址\n\n大汶口"
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": "1 号建筑基址\n\n大汶口文化 2 号建筑基址\n\n大汶口文化 2 号建筑基址\nAMAR"
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": "2 号建筑基址\n\n大汶口文化 2 号建筑基址\nAMAR 2 号建筑基址\n\n大这口文化"
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": "化 2 号建筑基址\nAMAR 2 号建筑基址\n\n大这口文化 2 号建筑基址\nAMAR"
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": "2 号建筑基址\n\n大这口文化 2 号建筑基址\nAMAR SS\n\n大汶口文化陶里\n\n大"
+      },
+      {
+        "text": "墓葬",
+        "page": 14,
+        "source": "ocr",
+        "context": "”大汶口文化墓匡\n\n图版77 大汶口文化墓葬\n\n图版78 ADA LRH\n\n图版79"
+      },
+      {
+        "text": "墓葬",
+        "page": 14,
+        "source": "ocr",
+        "context": "大汶口文化墓芋\n\n图版 84 大汶口文化墓葬及葬具上的刻划符号\n图版 85 大汶口文"
+      },
+      {
+        "text": "墓葬",
+        "page": 14,
+        "source": "ocr",
+        "context": "葬具上的刻划符号\n图版 85 大汶口文化墓葬及三具上的刻划符号\n图版 86 AMO "
+      },
+      {
+        "text": "墓葬",
+        "page": 14,
+        "source": "ocr",
+        "context": " MERAH\n\n图版 87 ”大汶口文化墓葬\n\n图版 88 AMO HE\n图版 89"
+      },
+      {
+        "text": "墓葬",
+        "page": 14,
+        "source": "ocr",
+        "context": " AMO HE\n图版 899 大汶口文化墓葬\n图版 90 大汶口文化墓葬\n图版 91"
+      },
+      {
+        "text": "墓葬",
+        "page": 14,
+        "source": "ocr",
+        "context": " 大汶口文化墓葬\n图版 90 大汶口文化墓葬\n图版 91 大汶口文化陶易\n图版 92"
+      },
+      {
+        "text": "墓葬",
+        "page": 14,
+        "source": "ocr",
+        "context": "化玉、石.骨器\n图版 102 大汶口文化墓葬 RST\n图版 103 龙山文化陶易 ."
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "S28",
+        "page": 1,
+        "source": "ocr",
+        "context": "点 ee 18\nME =: 7 PSS S28 0, Mae 24\n三”建筑基址类型 "
+      },
+      {
+        "text": "T3709",
+        "page": 4,
+        "source": "ocr",
+        "context": "掘范围及排房布局图 .pe 5\nI 区 T3709 ~ T3710 南壁地层剖面图  oo"
+      },
+      {
+        "text": "T3710",
+        "page": 4,
+        "source": "ocr",
+        "context": "图 .pe 5\nI 区 T3709 ~ T3710 南壁地层剖面图  oo 8\n[区 T2"
+      },
+      {
+        "text": "T4111",
+        "page": 4,
+        "source": "ocr",
+        "context": " Jt BE he Al i\nIV K T4111~74311 西壁地层剖面图\n\n解剖围沟"
+      },
+      {
+        "text": "F2",
+        "page": 4,
+        "source": "ocr",
+        "context": "围沟剖面图 T400A~ T400H\n\nF2 平、剖面图 ooooooooooooo"
+      },
+      {
+        "text": "F20",
+        "page": 4,
+        "source": "ocr",
+        "context": "构剖面图 oo 26\n门槛结构复原图\n\nF20 灶台复原图 ee 29\n建筑结构展示图"
+      },
+      {
+        "text": "F28",
+        "page": 4,
+        "source": "ocr",
+        "context": "图 ee 29\n建筑结构展示图 oo\n\nF28 灶台复原图 oooooeoovsooo"
+      },
+      {
+        "text": "F30",
+        "page": 4,
+        "source": "ocr",
+        "context": "eee seer eee eee ey\nF30 平、剖面图及出土器物  ooovovo"
+      },
+      {
+        "text": "F31",
+        "page": 4,
+        "source": "ocr",
+        "context": "ooooooooooooooosooo\nF31 WAAR  Seem eee neer"
+      },
+      {
+        "text": "F32",
+        "page": 4,
+        "source": "ocr",
+        "context": "seesseeeeserenes 41\nF32 SF: FA MY A BSI cce"
+      },
+      {
+        "text": "F37",
+        "page": 5,
+        "source": "ocr",
+        "context": "eesessee 45\n5 3 dt (F37 ~ F38) ¥ 剖面图  aeeoo"
+      },
+      {
+        "text": "F38",
+        "page": 5,
+        "source": "ocr",
+        "context": "ee 45\n5 3 dt (F37 ~ F38) ¥ 剖面图  aeeooeoeese"
+      },
+      {
+        "text": "F42",
+        "page": 5,
+        "source": "ocr",
+        "context": "42一F43)平 \\剖面图 ov 51\nF42 平、剖面图及出土器物 ooeeeses"
+      },
+      {
+        "text": "F43",
+        "page": 5,
+        "source": "ocr",
+        "context": "eseesoeseeseeoee 82\nF43 平、剖面图及出土器物\n4 SER tt"
+      },
+      {
+        "text": "F24",
+        "page": 5,
+        "source": "ocr",
+        "context": "、剖面图及出土器物\n4 SER tt (F24~F27)¥ Was PPUTTTITI"
+      },
+      {
+        "text": "F27",
+        "page": 5,
+        "source": "ocr",
+        "context": "及出土器物\n4 SER tt (F24~F27)¥ Was PPUTTTITITITI"
+      },
+      {
+        "text": "S6",
+        "page": 5,
+        "source": "ocr",
+        "context": "eseeeeseeeseeosoese S6\nF26一F27平、剂面图及出土器物 e"
+      },
+      {
+        "text": "F18",
+        "page": 5,
+        "source": "ocr",
+        "context": "ooe3y 57\n3 SBR (FI4~F18)4 WHA eee e eee e n"
+      },
+      {
+        "text": "F15",
+        "page": 5,
+        "source": "ocr",
+        "context": "es 58\nFl14平剖面图及出土器物\nF15 平 .剖面图及出土器物\nF16 平、痢"
+      },
+      {
+        "text": "F16",
+        "page": 5,
+        "source": "ocr",
+        "context": "土器物\nF15 平 .剖面图及出土器物\nF16 平、痢面图及出土器物\nF17 ¥ .剖"
+      },
+      {
+        "text": "F17",
+        "page": 5,
+        "source": "ocr",
+        "context": "出土器物\nF16 平、痢面图及出土器物\nF17 ¥ .剖面图及出土器物\nFl18平.剖"
+      },
+      {
+        "text": "F21",
+        "page": 5,
+        "source": "ocr",
+        "context": "eeeeeeeeeeeeeeeeeee\nF21 平、齐面图及出土器物  eeeeeee"
+      },
+      {
+        "text": "F10",
+        "page": 5,
+        "source": "ocr",
+        "context": "oosooosoooeoooooeoe\nF10 平、剖面图及出土器物 wesososs"
+      },
+      {
+        "text": "F11",
+        "page": 5,
+        "source": "ocr",
+        "context": "seeeooosoooooeooooe\nF11 平、齐面图及出土器物\nF12一F13 "
+      },
+      {
+        "text": "F39",
+        "page": 5,
+        "source": "ocr",
+        "context": "oooooeoeoooooooeewe\nF39 平、襄面图及出土器物 Socooooo"
+      },
+      {
+        "text": "F28",
+        "page": 5,
+        "source": "ocr",
+        "context": "sooooooooooooooooo。\nF28 主要出土器物组合\nF30 主要出土器物"
+      },
+      {
+        "text": "F30",
+        "page": 5,
+        "source": "ocr",
+        "context": "ooooo。\nF28 主要出土器物组合\nF30 主要出土器物组合\nF31 主要出土器物"
+      },
+      {
+        "text": "F31",
+        "page": 5,
+        "source": "ocr",
+        "context": "出土器物组合\nF30 主要出土器物组合\nF31 主要出土器物组合 …:\nF33 主要出"
+      },
+      {
+        "text": "F33",
+        "page": 5,
+        "source": "ocr",
+        "context": "物组合\nF31 主要出土器物组合 …:\nF33 主要出土器物组合\nF42 主要出土器物"
+      },
+      {
+        "text": "F42",
+        "page": 5,
+        "source": "ocr",
+        "context": "物组合 …:\nF33 主要出土器物组合\nF42 主要出土器物组合\n\n"
+      },
+      {
+        "text": "F34",
+        "page": 6,
+        "source": "ocr",
+        "context": "\n图 104\n图 105\n图 106\n\nF34 主要出土器物组合\nF25 主要出土器物"
+      },
+      {
+        "text": "F25",
+        "page": 6,
+        "source": "ocr",
+        "context": "图 106\n\nF34 主要出土器物组合\nF25 主要出土器物组合\nFIS 主要出土器物"
+      },
+      {
+        "text": "F20",
+        "page": 6,
+        "source": "ocr",
+        "context": "出土器物组合\nFIS 主要出土器物组合\nF20 主要出土器物组合\nF46 主要出土器物"
+      },
+      {
+        "text": "F46",
+        "page": 6,
+        "source": "ocr",
+        "context": "出土器物组合\nF20 主要出土器物组合\nF46 主要出土器物组合\nF9 主要出土器物组"
+      },
+      {
+        "text": "F9",
+        "page": 6,
+        "source": "ocr",
+        "context": "出土器物组合\nF46 主要出土器物组合\nF9 主要出土器物组合\nF37 主要出土器物"
+      },
+      {
+        "text": "F37",
+        "page": 6,
+        "source": "ocr",
+        "context": "要出土器物组合\nF9 主要出土器物组合\nF37 主要出土器物组合\n[区大汶口文化晚期墓"
+      },
+      {
+        "text": "S1",
+        "page": 6,
+        "source": "ocr",
+        "context": "\nFDC SCAG PALE .剖面图(S1、S2) pe 109\n大汶口文化兽坑平"
+      },
+      {
+        "text": "S2",
+        "page": 6,
+        "source": "ocr",
+        "context": "C SCAG PALE .剖面图(S1、S2) pe 109\n大汶口文化兽坑平、剖面"
+      },
+      {
+        "text": "S3",
+        "page": 6,
+        "source": "ocr",
+        "context": "pe 109\n大汶口文化兽坑平、剖面图(S3 、S4) cecceceeeeeeee"
+      },
+      {
+        "text": "S4",
+        "page": 6,
+        "source": "ocr",
+        "context": "09\n大汶口文化兽坑平、剖面图(S3 、S4) cecceceeeeeeeeeeee"
+      },
+      {
+        "text": "S7",
+        "page": 6,
+        "source": "ocr",
+        "context": "es 111\n大这口文化兽坑平.剖面图(S7》 ceveeeeceeeeeeceee"
+      },
+      {
+        "text": "M15",
+        "page": 8,
+        "source": "ocr",
+        "context": "ii \"\n\n大汶口文化幕葛平 .剖面图(M15)\n\n大汶口文化幕葬平 .剖面图(M63"
+      },
+      {
+        "text": "M63",
+        "page": 8,
+        "source": "ocr",
+        "context": "M15)\n\n大汶口文化幕葬平 .剖面图(M63)\n\n大汶口文化幕莫平 .剖面图(M65"
+      },
+      {
+        "text": "M65",
+        "page": 8,
+        "source": "ocr",
+        "context": "M63)\n\n大汶口文化幕莫平 .剖面图(M65)\n\n大汶口文化幕莫平 .剖面图(M67"
+      },
+      {
+        "text": "M67",
+        "page": 8,
+        "source": "ocr",
+        "context": "M65)\n\n大汶口文化幕莫平 .剖面图(M67)\n\nM67 基本器物组合 站pp\n\n大"
+      },
+      {
+        "text": "M67",
+        "page": 8,
+        "source": "ocr",
+        "context": "大汶口文化幕莫平 .剖面图(M67)\n\nM67 基本器物组合 站pp\n\n大汶口文化幕葛"
+      },
+      {
+        "text": "M188",
+        "page": 8,
+        "source": "ocr",
+        "context": "合 ppp\n\n大汶口文化墓葬平 剖面图(M188)\n\nMI188 基本器物组合 ppp\n"
+      },
+      {
+        "text": "M53",
+        "page": 8,
+        "source": "ocr",
+        "context": " ppp\nAOC See EF 剖面图(M53)\n\n大汶口文化墓葬平 剖面图(M70)"
+      },
+      {
+        "text": "M70",
+        "page": 8,
+        "source": "ocr",
+        "context": "(M53)\n\n大汶口文化墓葬平 剖面图(M70)\n\n大汶口文化墓葬平、剖面图(M126"
+      },
+      {
+        "text": "M126",
+        "page": 8,
+        "source": "ocr",
+        "context": "(M70)\n\n大汶口文化墓葬平、剖面图(M126)\n\nM126 基本器物组合 PP\n\n大"
+      },
+      {
+        "text": "M126",
+        "page": 8,
+        "source": "ocr",
+        "context": "大汶口文化墓葬平、剖面图(M126)\n\nM126 基本器物组合 PP\n\n大汶口文化幕苦平"
+      },
+      {
+        "text": "M136",
+        "page": 8,
+        "source": "ocr",
+        "context": "器物组合 PP\n\n大汶口文化幕苦平面图(M136) pp\nM136 基本器物组合 ee\n"
+      },
+      {
+        "text": "M136",
+        "page": 8,
+        "source": "ocr",
+        "context": "大汶口文化幕苦平面图(M136) pp\nM136 基本器物组合 ee\nFC SCALE "
+      },
+      {
+        "text": "M141",
+        "page": 8,
+        "source": "ocr",
+        "context": " ee\nFC SCALE BE 剖面图(M141、MI171)》 pp 211\nM141"
+      },
+      {
+        "text": "M141",
+        "page": 8,
+        "source": "ocr",
+        "context": "M141、MI171)》 pp 211\nM141 基本器物组合 oooooooooooe"
+      },
+      {
+        "text": "M190",
+        "page": 8,
+        "source": "ocr",
+        "context": "pp 212\n大汶口文化墓葬平、剖面图(M190 、M192》 pp 213\nM190 "
+      },
+      {
+        "text": "M192",
+        "page": 8,
+        "source": "ocr",
+        "context": "\n大汶口文化墓葬平、剖面图(M190 、M192》 pp 213\nM190 基本器物组合"
+      },
+      {
+        "text": "M190",
+        "page": 8,
+        "source": "ocr",
+        "context": "(M190 、M192》 pp 213\nM190 基本器物组合 ceeeeceeeese"
+      },
+      {
+        "text": "M19",
+        "page": 8,
+        "source": "ocr",
+        "context": "\nFBC CAL BE REE 剖面图(M19 M25) pp 215\nM25 基本器"
+      },
+      {
+        "text": "M25",
+        "page": 8,
+        "source": "ocr",
+        "context": " CAL BE REE 剖面图(M19 M25) pp 215\nM25 基本器物组合 "
+      },
+      {
+        "text": "M25",
+        "page": 8,
+        "source": "ocr",
+        "context": "剖面图(M19 M25) pp 215\nM25 基本器物组合 .pp 216\nFW C"
+      },
+      {
+        "text": "M111",
+        "page": 8,
+        "source": "ocr",
+        "context": " Ce BE FEE .剖面图(MS7、M111、M122 7) 217\n大汶口文化幕项"
+      },
+      {
+        "text": "M122",
+        "page": 8,
+        "source": "ocr",
+        "context": "E FEE .剖面图(MS7、M111、M122 7) 217\n大汶口文化幕项平、前面图"
+      },
+      {
+        "text": "M127",
+        "page": 8,
+        "source": "ocr",
+        "context": "7) 217\n大汶口文化幕项平、前面图(M127、M145、M152) pp 219\n大"
+      },
+      {
+        "text": "M145",
+        "page": 8,
+        "source": "ocr",
+        "context": "7\n大汶口文化幕项平、前面图(M127、M145、M152) pp 219\n大汶口文化幕"
+      },
+      {
+        "text": "M152",
+        "page": 8,
+        "source": "ocr",
+        "context": "文化幕项平、前面图(M127、M145、M152) pp 219\n大汶口文化幕苦平、剖面"
+      },
+      {
+        "text": "M159",
+        "page": 8,
+        "source": "ocr",
+        "context": "pp 219\n大汶口文化幕苦平、剖面图(M159 M163) pp 220\nFBC CA"
+      },
+      {
+        "text": "M163",
+        "page": 8,
+        "source": "ocr",
+        "context": "9\n大汶口文化幕苦平、剖面图(M159 M163) pp 220\nFBC CALE EE"
+      },
+      {
+        "text": "M179",
+        "page": 8,
+        "source": "ocr",
+        "context": "C CALE EE FH TT FA (M179 M202) PN 221\nFDC SC"
+      },
+      {
+        "text": "M202",
+        "page": 8,
+        "source": "ocr",
+        "context": "E EE FH TT FA (M179 M202) PN 221\nFDC SCA BE "
+      },
+      {
+        "text": "M71",
+        "page": 8,
+        "source": "ocr",
+        "context": "DC SCA BE BEE HT I (M71. M84. M197) pp 223\n"
+      },
+      {
+        "text": "M84",
+        "page": 8,
+        "source": "ocr",
+        "context": "A BE BEE HT I (M71. M84. M197) pp 223\nFRY S"
+      },
+      {
+        "text": "M197",
+        "page": 8,
+        "source": "ocr",
+        "context": "BEE HT I (M71. M84. M197) pp 223\nFRY SCALE F"
+      },
+      {
+        "text": "M96",
+        "page": 8,
+        "source": "ocr",
+        "context": "\nFRY SCALE FEE .剖面图(M96) pp 224\n大汶口文化莫大平、剖面"
+      },
+      {
+        "text": "M128",
+        "page": 8,
+        "source": "ocr",
+        "context": "pp 224\n大汶口文化莫大平、剖面图(M128、M140 、M199) pp 225\n"
+      },
+      {
+        "text": "M140",
+        "page": 8,
+        "source": "ocr",
+        "context": "4\n大汶口文化莫大平、剖面图(M128、M140 、M199) pp 225\nFBC S"
+      },
+      {
+        "text": "M199",
+        "page": 8,
+        "source": "ocr",
+        "context": "化莫大平、剖面图(M128、M140 、M199) pp 225\nFBC SC BE F"
+      },
+      {
+        "text": "M1109",
+        "page": 8,
+        "source": "ocr",
+        "context": "C BE FES PA TAT FA (M1109) vo eeeeeeece reece"
+      },
+      {
+        "text": "M162",
+        "page": 8,
+        "source": "ocr",
+        "context": "pp 227\n大汶口文化墓草平 剖面图(M162、M168、M170 M177) -se"
+      },
+      {
+        "text": "M168",
+        "page": 8,
+        "source": "ocr",
+        "context": "7\n大汶口文化墓草平 剖面图(M162、M168、M170 M177) -sererse"
+      },
+      {
+        "text": "M170",
+        "page": 8,
+        "source": "ocr",
+        "context": "文化墓草平 剖面图(M162、M168、M170 M177) -sererseseree"
+      },
+      {
+        "text": "M177",
+        "page": 8,
+        "source": "ocr",
+        "context": " 剖面图(M162、M168、M170 M177) -serersesereeeeses"
+      },
+      {
+        "text": "M155",
+        "page": 8,
+        "source": "ocr",
+        "context": "s 228\n大汶口文化墓葬平 .剖面图(M155、.M215)\n\nM215 基本器物组合"
+      },
+      {
+        "text": "M215",
+        "page": 8,
+        "source": "ocr",
+        "context": "大汶口文化墓葬平 .剖面图(M155、.M215)\n\nM215 基本器物组合 pe\nM1"
+      },
+      {
+        "text": "M215",
+        "page": 8,
+        "source": "ocr",
+        "context": "平 .剖面图(M155、.M215)\n\nM215 基本器物组合 pe\nM155 基本器物"
+      },
+      {
+        "text": "M155",
+        "page": 8,
+        "source": "ocr",
+        "context": "15)\n\nM215 基本器物组合 pe\nM155 基本器物组合 ppp\nFEW SOA "
+      },
+      {
+        "text": "M97",
+        "page": 8,
+        "source": "ocr",
+        "context": "\nFEW SOA RE FEE 前面图(M97) pp\n\n"
+      },
+      {
+        "text": "M94",
+        "page": 9,
+        "source": "ocr",
+        "context": "图 217\n\n大汶口文化幕葬平 剖面图(M94、M212)  aaeeeeeesese"
+      },
+      {
+        "text": "M212",
+        "page": 9,
+        "source": "ocr",
+        "context": "7\n\n大汶口文化幕葬平 剖面图(M94、M212)  aaeeeeeeseseeoees"
+      },
+      {
+        "text": "M51",
+        "page": 9,
+        "source": "ocr",
+        "context": "ee 232\n大汶口文化墓莫平、剖面图(M51)\n\n大汶口文化墓葬平 剖面图(M169"
+      },
+      {
+        "text": "M169",
+        "page": 9,
+        "source": "ocr",
+        "context": "(M51)\n\n大汶口文化墓葬平 剖面图(M169)\n大汶口文化幕莫平 .剖面图(M102"
+      },
+      {
+        "text": "M102",
+        "page": 9,
+        "source": "ocr",
+        "context": "M169)\n大汶口文化幕莫平 .剖面图(M102)\nMI102 基本器物组合 pe\n大汶"
+      },
+      {
+        "text": "M106",
+        "page": 9,
+        "source": "ocr",
+        "context": "物组合 pe\n大汶口文化幕莫平.剖面图(M106)\n大汶口文化墓葬平 剖面图(M134)"
+      },
+      {
+        "text": "M134",
+        "page": 9,
+        "source": "ocr",
+        "context": "(M106)\n大汶口文化墓葬平 剖面图(M134)\nM134 基本器物组合\n\nM162 "
+      },
+      {
+        "text": "M134",
+        "page": 9,
+        "source": "ocr",
+        "context": "\n大汶口文化墓葬平 剖面图(M134)\nM134 基本器物组合\n\nM162 基本器物组合"
+      },
+      {
+        "text": "M162",
+        "page": 9,
+        "source": "ocr",
+        "context": "(M134)\nM134 基本器物组合\n\nM162 基本器物组合\n\nAWG CHF .剖面"
+      },
+      {
+        "text": "M103",
+        "page": 9,
+        "source": "ocr",
+        "context": "本器物组合\n\nAWG CHF .剖面图(M103)\nM103 基本器物组合 eseeoo"
+      },
+      {
+        "text": "M103",
+        "page": 9,
+        "source": "ocr",
+        "context": "\nAWG CHF .剖面图(M103)\nM103 基本器物组合 eseeooooosse"
+      },
+      {
+        "text": "M194",
+        "page": 9,
+        "source": "ocr",
+        "context": "oooeoo\n大汶口文化幕葬平 剖面图(M194)\n大汶口文化幕芋平 剖面图(M72.M"
+      },
+      {
+        "text": "M72",
+        "page": 9,
+        "source": "ocr",
+        "context": "(M194)\n大汶口文化幕芋平 剖面图(M72.M187)\nMI187 基本器物组合 "
+      },
+      {
+        "text": "M187",
+        "page": 9,
+        "source": "ocr",
+        "context": "4)\n大汶口文化幕芋平 剖面图(M72.M187)\nMI187 基本器物组合 pp\nAW"
+      },
+      {
+        "text": "M8",
+        "page": 9,
+        "source": "ocr",
+        "context": "C FG HOE .剖面图(Ml116、M8)\nKG Xb Be EY .剖面图(M"
+      },
+      {
+        "text": "M91",
+        "page": 9,
+        "source": "ocr",
+        "context": "8)\nKG Xb Be EY .剖面图(M91、M100)\n\nRMA 3 eRe EF"
+      },
+      {
+        "text": "M100",
+        "page": 9,
+        "source": "ocr",
+        "context": "G Xb Be EY .剖面图(M91、M100)\n\nRMA 3 eRe EF .剖面图"
+      },
+      {
+        "text": "M154",
+        "page": 9,
+        "source": "ocr",
+        "context": "\n\nRMA 3 eRe EF .剖面图(M154、M195)\n大汶口文化陶刻符号拓片\n大"
+      },
+      {
+        "text": "M195",
+        "page": 9,
+        "source": "ocr",
+        "context": " 3 eRe EF .剖面图(M154、M195)\n大汶口文化陶刻符号拓片\n大汶口文化陶"
+      },
+      {
+        "text": "M36",
+        "page": 10,
+        "source": "ocr",
+        "context": "FE WL SCALE EE .剖面图(M36 、M123) pp 289\n龙山文化墓"
+      },
+      {
+        "text": "M123",
+        "page": 10,
+        "source": "ocr",
+        "context": " SCALE EE .剖面图(M36 、M123) pp 289\n龙山文化墓葬平 .剖面"
+      },
+      {
+        "text": "M39",
+        "page": 10,
+        "source": "ocr",
+        "context": "pp 289\n龙山文化墓葬平 .剖面图(M39 、M66) pp 290\n龙山文化幕草"
+      },
+      {
+        "text": "M66",
+        "page": 10,
+        "source": "ocr",
+        "context": "9\n龙山文化墓葬平 .剖面图(M39 、M66) pp 290\n龙山文化幕草平 ,前面"
+      },
+      {
+        "text": "M43",
+        "page": 10,
+        "source": "ocr",
+        "context": "pp 290\n龙山文化幕草平 ,前面图(M43) vvssssesseescsssse"
+      },
+      {
+        "text": "F33",
+        "page": 11,
+        "source": "ocr",
+        "context": "\nKK区的长排排房建筑 〈由西向东摄)\nF33 的室内柱\n\n1 号建筑基址 (FIO~"
+      },
+      {
+        "text": "F23",
+        "page": 11,
+        "source": "ocr",
+        "context": " 的室内柱\n\n1 号建筑基址 (FIO~F23) (由东向西摄)\n大汶口文化彩绘及陶刻"
+      },
+      {
+        "text": "F12",
+        "page": 12,
+        "source": "ocr",
+        "context": "情况\n\n大汶口文化建筑基址(Fl1 与 F12,Fl16 与 F17)隔墙\n大汶口文化"
+      },
+      {
+        "text": "F17",
+        "page": 12,
+        "source": "ocr",
+        "context": "基址(Fl1 与 F12,Fl16 与 F17)隔墙\n大汶口文化建筑基址(F9、F23"
+      },
+      {
+        "text": "F9",
+        "page": 12,
+        "source": "ocr",
+        "context": " 与 F17)隔墙\n大汶口文化建筑基址(F9、F23)房门\n\n大汶口文化建筑基址(F"
+      },
+      {
+        "text": "F23",
+        "page": 12,
+        "source": "ocr",
+        "context": "F17)隔墙\n大汶口文化建筑基址(F9、F23)房门\n\n大汶口文化建筑基址(F20)室"
+      },
+      {
+        "text": "F20",
+        "page": 12,
+        "source": "ocr",
+        "context": "9、F23)房门\n\n大汶口文化建筑基址(F20)室内柱及挡火墙\n大这口文化建筑基址(F"
+      },
+      {
+        "text": "F20",
+        "page": 12,
+        "source": "ocr",
+        "context": "0)室内柱及挡火墙\n大这口文化建筑基址(F20、F21)居住面\n大汶口文化建筑基址(F"
+      },
+      {
+        "text": "F21",
+        "page": 12,
+        "source": "ocr",
+        "context": "柱及挡火墙\n大这口文化建筑基址(F20、F21)居住面\n大汶口文化建筑基址(F28、F"
+      },
+      {
+        "text": "F28",
+        "page": 12,
+        "source": "ocr",
+        "context": "0、F21)居住面\n大汶口文化建筑基址(F28、F37)灶台\n\n大这口文化8 号一9 "
+      },
+      {
+        "text": "F37",
+        "page": 12,
+        "source": "ocr",
+        "context": "1)居住面\n大汶口文化建筑基址(F28、F37)灶台\n\n大这口文化8 号一9 号建筑基"
+      },
+      {
+        "text": "F20",
+        "page": 12,
+        "source": "ocr",
+        "context": "一9 号建筑基址\n\n大汶口文化建筑基址(F20 与 F21、F28 与 F29)隔墙\n"
+      },
+      {
+        "text": "F21",
+        "page": 12,
+        "source": "ocr",
+        "context": "基址\n\n大汶口文化建筑基址(F20 与 F21、F28 与 F29)隔墙\n大汶口文化建"
+      },
+      {
+        "text": "F28",
+        "page": 12,
+        "source": "ocr",
+        "context": "大汶口文化建筑基址(F20 与 F21、F28 与 F29)隔墙\n大汶口文化建筑基址("
+      },
+      {
+        "text": "F29",
+        "page": 12,
+        "source": "ocr",
+        "context": "筑基址(F20 与 F21、F28 与 F29)隔墙\n大汶口文化建筑基址(F20、F3"
+      },
+      {
+        "text": "F20",
+        "page": 12,
+        "source": "ocr",
+        "context": " 与 F29)隔墙\n大汶口文化建筑基址(F20、F33)房门内侧台阶\n大汶口文化建筑基"
+      },
+      {
+        "text": "F33",
+        "page": 12,
+        "source": "ocr",
+        "context": "29)隔墙\n大汶口文化建筑基址(F20、F33)房门内侧台阶\n大汶口文化建筑基址室内情"
+      },
+      {
+        "text": "F18",
+        "page": 12,
+        "source": "ocr",
+        "context": "筑基址\n\n大汶口文化建筑基址(FI10、F18)内墙壁柱\n大汶口文化工号建筑基址\n\n大"
+      },
+      {
+        "text": "S1",
+        "page": 13,
+        "source": "ocr",
+        "context": "版 48\n图版 49\n图版 $0\n图版 S1\n图版 $2\n图版 53\n图版 54\n图"
+      },
+      {
+        "text": "S7",
+        "page": 13,
+        "source": "ocr",
+        "context": "图版 54\n图版 5\n图版 56\n图版 S7\n图版 $8\n图版 59\n图版 60\n图"
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "堆积",
+        "page": 1,
+        "source": "ocr",
+        "context": "seeoeseseoee 13\n二 沟内堆积 oo 14\n三”围沟的时代及其功能 c"
+      },
+      {
+        "text": "堆积",
+        "page": 12,
+        "source": "ocr",
+        "context": "址发掘情况\n\n大汶口文化建筑基址室内倒塌堆积\n\n大汶口文化建筑基址内墙加工情况\n\n大"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "环",
+        "page": 1,
+        "source": "ocr",
+        "context": "目    录\n前 言\n第一章 地理环境与工作概况 ooeeeoeseeeee"
+      },
+      {
+        "text": "环",
+        "page": 1,
+        "source": "ocr",
+        "context": "eoeeeeeeeee 1\n第一节 地理环境和遗址概况 ooooooooooooo"
+      },
+      {
+        "text": "环",
+        "page": 2,
+        "source": "ocr",
+        "context": "seeeaae 313\n\n第一节 ”生态环境和经济形态 PP 313\n一 自然生态"
+      },
+      {
+        "text": "环",
+        "page": 2,
+        "source": "ocr",
+        "context": "境和经济形态 PP 313\n一 自然生态环境的特点oooovoooooooovoo"
+      },
+      {
+        "text": "环",
+        "page": 3,
+        "source": "ocr",
+        "context": "析报生ee\n尉迟寺遗址匹粉数据与古代植被环境研究\n尉迟寺遗址大汶口文化出土标本分析"
+      },
+      {
+        "text": "陶鼎",
+        "page": 6,
+        "source": "ocr",
+        "context": "大这口文化陶电 pp 124\n大这口文化陶鼎Ne 125\n大这口文化陶易  ooeo"
+      },
+      {
+        "text": "壶",
+        "page": 7,
+        "source": "ocr",
+        "context": "BE .陶额pp 139\n大汶口文化长颈壶                    "
+      },
+      {
+        "text": "壶",
+        "page": 7,
+        "source": "ocr",
+        "context": "10 ee) So 143\n大汶口文化背壶 ,大高柄杯 145\n大汶口文化小高柄杯"
+      },
+      {
+        "text": "杯",
+        "page": 7,
+        "source": "ocr",
+        "context": " So 143\n大汶口文化背壶 ,大高柄杯 145\n大汶口文化小高柄杯      "
+      },
+      {
+        "text": "杯",
+        "page": 7,
+        "source": "ocr",
+        "context": "壶 ,大高柄杯 145\n大汶口文化小高柄杯                    "
+      },
+      {
+        "text": "陶杯",
+        "page": 7,
+        "source": "ocr",
+        "context": "      sees 146\n大这口文化陶杯 单耳杯                "
+      },
+      {
+        "text": "杯",
+        "page": 7,
+        "source": "ocr",
+        "context": " sees 146\n大这口文化陶杯 单耳杯                    "
+      },
+      {
+        "text": "陶盆",
+        "page": 7,
+        "source": "ocr",
+        "context": "a! 4. mies 151\n大汶口文化陶盆\n大汶口文化陶碗\n大汶口文化陶钵\nKEG"
+      },
+      {
+        "text": "陶碗",
+        "page": 7,
+        "source": "ocr",
+        "context": "es 151\n大汶口文化陶盆\n大汶口文化陶碗\n大汶口文化陶钵\nKEG CA Bd\n大"
+      },
+      {
+        "text": "陶钵",
+        "page": 7,
+        "source": "ocr",
+        "context": "汶口文化陶盆\n大汶口文化陶碗\n大汶口文化陶钵\nKEG CA Bd\n大汶口文化陶算\n大"
+      },
+      {
+        "text": "陶纺轮",
+        "page": 7,
+        "source": "ocr",
+        "context": "汶口文化器盖\n大汶口文化陶拍\n大汶口文化陶纺轮 pe\nFRC SCAG DT HE p"
+      },
+      {
+        "text": "刀",
+        "page": 7,
+        "source": "ocr",
+        "context": "rccca BER EAS\n大汶口文化蚌刀、皇镶 PN\n大汶口文化蚌器 weeee"
+      },
+      {
+        "text": "陶豆",
+        "page": 9,
+        "source": "ocr",
+        "context": "            oo\n大汶口文化陶豆\n大汶口文化陶豆\n大汶口文化陶豆\n大汶口"
+      },
+      {
+        "text": "陶豆",
+        "page": 9,
+        "source": "ocr",
+        "context": "    oo\n大汶口文化陶豆\n大汶口文化陶豆\n大汶口文化陶豆\n大汶口文化陶帮\n大汶口"
+      },
+      {
+        "text": "陶豆",
+        "page": 9,
+        "source": "ocr",
+        "context": "汶口文化陶豆\n大汶口文化陶豆\n大汶口文化陶豆\n大汶口文化陶帮\n大汶口文化陶壶、\n大汶"
+      },
+      {
+        "text": "陶壶",
+        "page": 9,
+        "source": "ocr",
+        "context": "汶口文化陶豆\n大汶口文化陶帮\n大汶口文化陶壶、\n大汶口文化背壶           "
+      },
+      {
+        "text": "壶",
+        "page": 9,
+        "source": "ocr",
+        "context": "文化陶帮\n大汶口文化陶壶、\n大汶口文化背壶                    "
+      },
+      {
+        "text": "杯",
+        "page": 9,
+        "source": "ocr",
+        "context": "         266\n大汶口文化高柄杯 Doves nccccen ce cc"
+      },
+      {
+        "text": "陶杯",
+        "page": 9,
+        "source": "ocr",
+        "context": "           269\n大汶口文化陶杯 ………                "
+      },
+      {
+        "text": "陶盆",
+        "page": 9,
+        "source": "ocr",
+        "context": "           270\n大汶口文化陶盆 .陶碗                "
+      },
+      {
+        "text": "陶碗",
+        "page": 9,
+        "source": "ocr",
+        "context": "       270\n大汶口文化陶盆 .陶碗                    "
+      },
+      {
+        "text": "陶盆",
+        "page": 10,
+        "source": "ocr",
+        "context": "龙山文化陶器\n\n龙山文化陶器\n\n龙山文化陶盆\n\n龙山文化陶器\n\n龙山文化器盖\n\n龙山"
+      },
+      {
+        "text": "陶豆",
+        "page": 13,
+        "source": "ocr",
+        "context": "e BE\n\n大汶口文化陶器\n\n大汶口文化陶豆\n\n大汶口文化陶豆\n\n大汶口文化陶豆\nA"
+      },
+      {
+        "text": "陶豆",
+        "page": 13,
+        "source": "ocr",
+        "context": "文化陶器\n\n大汶口文化陶豆\n\n大汶口文化陶豆\n\n大汶口文化陶豆\nAMA\nABA Ab"
+      },
+      {
+        "text": "陶豆",
+        "page": 13,
+        "source": "ocr",
+        "context": "文化陶豆\n\n大汶口文化陶豆\n\n大汶口文化陶豆\nAMA\nABA Ab we\nFBC C"
+      },
+      {
+        "text": "杯",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n大汶口文化背壹\nKUO\n大汶口文化高柄杯\nKC SCE ALTE FF\n大汶口文"
+      },
+      {
+        "text": "杯",
+        "page": 13,
+        "source": "ocr",
+        "context": " SCE ALTE FF\n大汶口文化简形杯、.折腹杯、小陶杯\n大汶口文化陶盆\n\n大"
+      },
+      {
+        "text": "杯",
+        "page": 13,
+        "source": "ocr",
+        "context": "ALTE FF\n大汶口文化简形杯、.折腹杯、小陶杯\n大汶口文化陶盆\n\n大汶口文化陶"
+      },
+      {
+        "text": "陶杯",
+        "page": 13,
+        "source": "ocr",
+        "context": "E FF\n大汶口文化简形杯、.折腹杯、小陶杯\n大汶口文化陶盆\n\n大汶口文化陶盆\nFW"
+      },
+      {
+        "text": "陶盆",
+        "page": 13,
+        "source": "ocr",
+        "context": "文化简形杯、.折腹杯、小陶杯\n大汶口文化陶盆\n\n大汶口文化陶盆\nFW AL Bld "
+      },
+      {
+        "text": "陶盆",
+        "page": 13,
+        "source": "ocr",
+        "context": "杯、小陶杯\n大汶口文化陶盆\n\n大汶口文化陶盆\nFW AL Bld Bl\n大汶口文化陶"
+      },
+      {
+        "text": "陶碗",
+        "page": 13,
+        "source": "ocr",
+        "context": "盆\nFW AL Bld Bl\n大汶口文化陶碗、陶钵\nKC ASCE BS\n\n大汶口文"
+      },
+      {
+        "text": "陶钵",
+        "page": 13,
+        "source": "ocr",
+        "context": "W AL Bld Bl\n大汶口文化陶碗、陶钵\nKC ASCE BS\n\n大汶口文化陶算"
+      },
+      {
+        "text": "陶纺轮",
+        "page": 13,
+        "source": "ocr",
+        "context": "文化陶器盖\n大汶口文化陶拍\n\n大汶口文化陶纺轮\n大汶口文化陶器\n\n大这口文化石器\n\n大"
+      },
+      {
+        "text": "陶盆",
+        "page": 14,
+        "source": "ocr",
+        "context": " ADCO Ae\n图版 99 大汶口文化陶盆.陶器盖\n图版 100 AWOL MK\n"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "环",
+        "page": 1,
+        "source": "ocr",
+        "context": "目    录\n前 言\n第一章 地理环境与工作概况 ooeeeoeseeeee"
+      },
+      {
+        "text": "环",
+        "page": 1,
+        "source": "ocr",
+        "context": "eoeeeeeeeee 1\n第一节 地理环境和遗址概况 ooooooooooooo"
+      },
+      {
+        "text": "环",
+        "page": 2,
+        "source": "ocr",
+        "context": "seeeaae 313\n\n第一节 ”生态环境和经济形态 PP 313\n一 自然生态"
+      },
+      {
+        "text": "环",
+        "page": 2,
+        "source": "ocr",
+        "context": "境和经济形态 PP 313\n一 自然生态环境的特点oooovoooooooovoo"
+      },
+      {
+        "text": "环",
+        "page": 3,
+        "source": "ocr",
+        "context": "析报生ee\n尉迟寺遗址匹粉数据与古代植被环境研究\n尉迟寺遗址大汶口文化出土标本分析"
+      },
+      {
+        "text": "鼎",
+        "page": 6,
+        "source": "ocr",
+        "context": "这口文化陶电 pp 124\n大这口文化陶鼎Ne 125\n大这口文化陶易  ooeo"
+      },
+      {
+        "text": "壶",
+        "page": 7,
+        "source": "ocr",
+        "context": "BE .陶额pp 139\n大汶口文化长颈壶                    "
+      },
+      {
+        "text": "壶",
+        "page": 7,
+        "source": "ocr",
+        "context": "10 ee) So 143\n大汶口文化背壶 ,大高柄杯 145\n大汶口文化小高柄杯"
+      },
+      {
+        "text": "杯",
+        "page": 7,
+        "source": "ocr",
+        "context": " So 143\n大汶口文化背壶 ,大高柄杯 145\n大汶口文化小高柄杯      "
+      },
+      {
+        "text": "杯",
+        "page": 7,
+        "source": "ocr",
+        "context": "壶 ,大高柄杯 145\n大汶口文化小高柄杯                    "
+      },
+      {
+        "text": "杯",
+        "page": 7,
+        "source": "ocr",
+        "context": "     sees 146\n大这口文化陶杯 单耳杯                "
+      },
+      {
+        "text": "杯",
+        "page": 7,
+        "source": "ocr",
+        "context": " sees 146\n大这口文化陶杯 单耳杯                    "
+      },
+      {
+        "text": "盆",
+        "page": 7,
+        "source": "ocr",
+        "context": "! 4. mies 151\n大汶口文化陶盆\n大汶口文化陶碗\n大汶口文化陶钵\nKEG"
+      },
+      {
+        "text": "钵",
+        "page": 7,
+        "source": "ocr",
+        "context": "口文化陶盆\n大汶口文化陶碗\n大汶口文化陶钵\nKEG CA Bd\n大汶口文化陶算\n大"
+      },
+      {
+        "text": "铃",
+        "page": 7,
+        "source": "ocr",
+        "context": "器 oo\n\nKW SA Pd BA .陶铃.陶支座\n大汶口文化石镀\nFW DTS "
+      },
+      {
+        "text": "锛",
+        "page": 7,
+        "source": "ocr",
+        "context": "eees\n\n大汶口文化石铸\n\n大汶口文化锛形石模\\石羡\nRBA MAT) AR\nK"
+      },
+      {
+        "text": "刀",
+        "page": 7,
+        "source": "ocr",
+        "context": "rccca BER EAS\n大汶口文化蚌刀、皇镶 PN\n大汶口文化蚌器 weeee"
+      },
+      {
+        "text": "豆",
+        "page": 9,
+        "source": "ocr",
+        "context": "           oo\n大汶口文化陶豆\n大汶口文化陶豆\n大汶口文化陶豆\n大汶口"
+      },
+      {
+        "text": "豆",
+        "page": 9,
+        "source": "ocr",
+        "context": "   oo\n大汶口文化陶豆\n大汶口文化陶豆\n大汶口文化陶豆\n大汶口文化陶帮\n大汶口"
+      },
+      {
+        "text": "豆",
+        "page": 9,
+        "source": "ocr",
+        "context": "口文化陶豆\n大汶口文化陶豆\n大汶口文化陶豆\n大汶口文化陶帮\n大汶口文化陶壶、\n大汶"
+      },
+      {
+        "text": "壶",
+        "page": 9,
+        "source": "ocr",
+        "context": "口文化陶豆\n大汶口文化陶帮\n大汶口文化陶壶、\n大汶口文化背壶           "
+      },
+      {
+        "text": "壶",
+        "page": 9,
+        "source": "ocr",
+        "context": "文化陶帮\n大汶口文化陶壶、\n大汶口文化背壶                    "
+      },
+      {
+        "text": "杯",
+        "page": 9,
+        "source": "ocr",
+        "context": "         266\n大汶口文化高柄杯 Doves nccccen ce cc"
+      },
+      {
+        "text": "杯",
+        "page": 9,
+        "source": "ocr",
+        "context": "          269\n大汶口文化陶杯 ………                "
+      },
+      {
+        "text": "盆",
+        "page": 9,
+        "source": "ocr",
+        "context": "          270\n大汶口文化陶盆 .陶碗                "
+      },
+      {
+        "text": "饰",
+        "page": 10,
+        "source": "ocr",
+        "context": "seeeessny291\n龙出文化陶片纹饰拓片 站pp293\n龙山文化陶器\n\n龙山"
+      },
+      {
+        "text": "盆",
+        "page": 10,
+        "source": "ocr",
+        "context": "山文化陶器\n\n龙山文化陶器\n\n龙山文化陶盆\n\n龙山文化陶器\n\n龙山文化器盖\n\n龙山"
+      },
+      {
+        "text": "豆",
+        "page": 13,
+        "source": "ocr",
+        "context": " BE\n\n大汶口文化陶器\n\n大汶口文化陶豆\n\n大汶口文化陶豆\n\n大汶口文化陶豆\nA"
+      },
+      {
+        "text": "豆",
+        "page": 13,
+        "source": "ocr",
+        "context": "化陶器\n\n大汶口文化陶豆\n\n大汶口文化陶豆\n\n大汶口文化陶豆\nAMA\nABA Ab"
+      },
+      {
+        "text": "豆",
+        "page": 13,
+        "source": "ocr",
+        "context": "化陶豆\n\n大汶口文化陶豆\n\n大汶口文化陶豆\nAMA\nABA Ab we\nFBC C"
+      },
+      {
+        "text": "杯",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n大汶口文化背壹\nKUO\n大汶口文化高柄杯\nKC SCE ALTE FF\n大汶口文"
+      },
+      {
+        "text": "杯",
+        "page": 13,
+        "source": "ocr",
+        "context": " SCE ALTE FF\n大汶口文化简形杯、.折腹杯、小陶杯\n大汶口文化陶盆\n\n大"
+      },
+      {
+        "text": "杯",
+        "page": 13,
+        "source": "ocr",
+        "context": "ALTE FF\n大汶口文化简形杯、.折腹杯、小陶杯\n大汶口文化陶盆\n\n大汶口文化陶"
+      },
+      {
+        "text": "杯",
+        "page": 13,
+        "source": "ocr",
+        "context": " FF\n大汶口文化简形杯、.折腹杯、小陶杯\n大汶口文化陶盆\n\n大汶口文化陶盆\nFW"
+      },
+      {
+        "text": "盆",
+        "page": 13,
+        "source": "ocr",
+        "context": "化简形杯、.折腹杯、小陶杯\n大汶口文化陶盆\n\n大汶口文化陶盆\nFW AL Bld "
+      },
+      {
+        "text": "盆",
+        "page": 13,
+        "source": "ocr",
+        "context": "、小陶杯\n大汶口文化陶盆\n\n大汶口文化陶盆\nFW AL Bld Bl\n大汶口文化陶"
+      },
+      {
+        "text": "钵",
+        "page": 13,
+        "source": "ocr",
+        "context": " AL Bld Bl\n大汶口文化陶碗、陶钵\nKC ASCE BS\n\n大汶口文化陶算"
+      },
+      {
+        "text": "盆",
+        "page": 14,
+        "source": "ocr",
+        "context": "ADCO Ae\n图版 99 大汶口文化陶盆.陶器盖\n图版 100 AWOL MK\n"
+      }
+    ],
+    "年代": [
+      {
+        "text": "大汶口",
+        "page": 1,
+        "source": "ocr",
+        "context": "seeseeeeeenes 6\n第二章 大汶口文化晚期遗存 ooeoooeoeeeoe"
+      },
+      {
+        "text": "龙山文化",
+        "page": 2,
+        "source": "ocr",
+        "context": "esesessses 277\n\n第三章 龙山文化遗存 wenoooeoooosooose"
+      },
+      {
+        "text": "大汶口",
+        "page": 2,
+        "source": "ocr",
+        "context": "济形态.pe 314\n\n第二节 ”尉迟寺大汶口文化晚期遗存\n二 文化性质及年代oooo"
+      },
+      {
+        "text": "大汶口",
+        "page": 2,
+        "source": "ocr",
+        "context": "\n附。囊pt 345\n附表一“尉迟寺遗址大汶口文化排房基址登记表尼ee 345\n附表二"
+      },
+      {
+        "text": "大汶口",
+        "page": 2,
+        "source": "ocr",
+        "context": "登记表尼ee 345\n附表二“尉迟夺遗址大汶口文化排房房址柱洞登记下pp 357\n附表"
+      },
+      {
+        "text": "大汶口",
+        "page": 2,
+        "source": "ocr",
+        "context": "登记下pp 357\n附表三”尉迟寺和遗址大汶口文化排房建筑基址出土器物登记表ee 37"
+      },
+      {
+        "text": "大汶口",
+        "page": 2,
+        "source": "ocr",
+        "context": "苦坑登记表和 379\n附表五”尉迟寺遗址大汶口文化晚期墓项登记表和ee 386\n"
+      },
+      {
+        "text": "新石器时代",
+        "page": 3,
+        "source": "ocr",
+        "context": "尉迟寺新石器时代墓地人人骨的观察与鉴定…\n\n尉迟寺遗址动"
+      },
+      {
+        "text": "大汶口",
+        "page": 3,
+        "source": "ocr",
+        "context": "址匹粉数据与古代植被环境研究\n尉迟寺遗址大汶口文化出土标本分析报告症ee 456\n尉迟"
+      },
+      {
+        "text": "大汶口",
+        "page": 6,
+        "source": "ocr",
+        "context": "器物组合\nF37 主要出土器物组合\n[区大汶口文化晚期墓葬 .灰坑分布图.0 98\nI"
+      },
+      {
+        "text": "大汶口",
+        "page": 6,
+        "source": "ocr",
+        "context": "晚期墓葬 .灰坑分布图.0 98\nII区大汶口文化晚期\\灰坑分布图\nJI区大汶口文化晚"
+      },
+      {
+        "text": "大汶口",
+        "page": 6,
+        "source": "ocr",
+        "context": "II区大汶口文化晚期\\灰坑分布图\nJI区大汶口文化晚期墓葬 、灰坑分布图 pp 101"
+      },
+      {
+        "text": "大汶口",
+        "page": 6,
+        "source": "ocr",
+        "context": "墓葬 、灰坑分布图 pp 101\nIV区大汶口文化晚期墓葬 .厌坑分布图 pp 102"
+      },
+      {
+        "text": "大汶口",
+        "page": 6,
+        "source": "ocr",
+        "context": "期墓葬 .厌坑分布图 pp 102\nV区大汶口文化晚期幕苦 、厌坑分布图 RN 102"
+      },
+      {
+        "text": "大汶口",
+        "page": 6,
+        "source": "ocr",
+        "context": "化晚期幕苦 、厌坑分布图 RN 102\n大汶口文化灰坑平 前面图 EEEEESEEES"
+      },
+      {
+        "text": "大汶口",
+        "page": 6,
+        "source": "ocr",
+        "context": "OOOOOOOOOOOOOSS 103\n大汶口文化灰坑平 ,前面图 EOE 104\nF"
+      },
+      {
+        "text": "大汶口",
+        "page": 6,
+        "source": "ocr",
+        "context": " .剖面图(S1、S2) pe 109\n大汶口文化兽坑平、剖面图(S3 、S4) ce"
+      },
+      {
+        "text": "大汶口",
+        "page": 6,
+        "source": "ocr",
+        "context": "eeeseeeeeeeeens 110\n大汶口文化兽坑平前面图(SS SG) ceec"
+      },
+      {
+        "text": "大汶口",
+        "page": 6,
+        "source": "ocr",
+        "context": "eeeeeseeeeeeees 112\n大汶口文化祭祀坑平 剖面图(JS2 JS3) "
+      },
+      {
+        "text": "大汶口",
+        "page": 6,
+        "source": "ocr",
+        "context": "enseesesenseees 114\n大汶口文化隐纹拓片 neeec cere ee"
+      },
+      {
+        "text": "大汶口",
+        "page": 6,
+        "source": "ocr",
+        "context": "nesesseaeeeenes 117\n大汶口文化陶纹拓片(T3828侠1) ceee"
+      },
+      {
+        "text": "大汶口",
+        "page": 6,
+        "source": "ocr",
+        "context": "eeeeeeeeeeseees 118\n大汶口文化刻划符号拓片(JS4 1》 119\n"
+      },
+      {
+        "text": "大汶口",
+        "page": 6,
+        "source": "ocr",
+        "context": "oeoooooooecooo。 127\n大汶口文化陶甸ee 128\n大汶口文化陶缸pe"
+      },
+      {
+        "text": "大汶口",
+        "page": 6,
+        "source": "ocr",
+        "context": "。 127\n大汶口文化陶甸ee 128\n大汶口文化陶缸pe 130\n大汶口文化陶缸pe"
+      },
+      {
+        "text": "大汶口",
+        "page": 6,
+        "source": "ocr",
+        "context": "e 128\n大汶口文化陶缸pe 130\n大汶口文化陶缸pe 131\n大汶口文化陶饶与陶"
+      },
+      {
+        "text": "大汶口",
+        "page": 6,
+        "source": "ocr",
+        "context": "e 130\n大汶口文化陶缸pe 131\n大汶口文化陶饶与陶香 oseoessesoes"
+      },
+      {
+        "text": "大汶口",
+        "page": 6,
+        "source": "ocr",
+        "context": "oooooooooooooeo 133\n大汶口文化大口德 和 135\nFe) ae p"
+      },
+      {
+        "text": "大汶口",
+        "page": 7,
+        "source": "ocr",
+        "context": " SCAG DBE .陶额pp 139\n大汶口文化长颈壶               "
+      },
+      {
+        "text": "大汶口",
+        "page": 7,
+        "source": "ocr",
+        "context": "eA 30510 ee) So 143\n大汶口文化背壶 ,大高柄杯 145\n大汶口文化"
+      },
+      {
+        "text": "大汶口",
+        "page": 7,
+        "source": "ocr",
+        "context": "3\n大汶口文化背壶 ,大高柄杯 145\n大汶口文化小高柄杯              "
+      },
+      {
+        "text": "大汶口",
+        "page": 7,
+        "source": "ocr",
+        "context": " Gab a! 4. mies 151\n大汶口文化陶盆\n大汶口文化陶碗\n大汶口文化陶钵"
+      },
+      {
+        "text": "大汶口",
+        "page": 7,
+        "source": "ocr",
+        "context": "4. mies 151\n大汶口文化陶盆\n大汶口文化陶碗\n大汶口文化陶钵\nKEG CA "
+      },
+      {
+        "text": "大汶口",
+        "page": 7,
+        "source": "ocr",
+        "context": "151\n大汶口文化陶盆\n大汶口文化陶碗\n大汶口文化陶钵\nKEG CA Bd\n大汶口文化"
+      },
+      {
+        "text": "大汶口",
+        "page": 7,
+        "source": "ocr",
+        "context": "碗\n大汶口文化陶钵\nKEG CA Bd\n大汶口文化陶算\n大汶口文化器盖\n大汶口文化器盖"
+      },
+      {
+        "text": "大汶口",
+        "page": 7,
+        "source": "ocr",
+        "context": "钵\nKEG CA Bd\n大汶口文化陶算\n大汶口文化器盖\n大汶口文化器盖\n大汶口文化陶拍"
+      },
+      {
+        "text": "大汶口",
+        "page": 7,
+        "source": "ocr",
+        "context": " Bd\n大汶口文化陶算\n大汶口文化器盖\n大汶口文化器盖\n大汶口文化陶拍\n大汶口文化陶纺"
+      },
+      {
+        "text": "大汶口",
+        "page": 7,
+        "source": "ocr",
+        "context": "化陶算\n大汶口文化器盖\n大汶口文化器盖\n大汶口文化陶拍\n大汶口文化陶纺轮 pe\nFRC"
+      },
+      {
+        "text": "大汶口",
+        "page": 7,
+        "source": "ocr",
+        "context": "化器盖\n大汶口文化器盖\n大汶口文化陶拍\n大汶口文化陶纺轮 pe\nFRC SCAG DT"
+      },
+      {
+        "text": "大汶口",
+        "page": 7,
+        "source": "ocr",
+        "context": "\nFRC SCAG DT HE pp\n\n大汶口文化陶器 oo\n\nKW SA Pd BA"
+      },
+      {
+        "text": "大汶口",
+        "page": 7,
+        "source": "ocr",
+        "context": "KW SA Pd BA .陶铃.陶支座\n大汶口文化石镀\nFW DTS FRE ee\n大"
+      },
+      {
+        "text": "大汶口",
+        "page": 7,
+        "source": "ocr",
+        "context": "口文化石镀\nFW DTS FRE ee\n大汶口文化石铸 vce eeeeceeeee "
+      },
+      {
+        "text": "大汶口",
+        "page": 7,
+        "source": "ocr",
+        "context": "terete eter eeeees\n\n大汶口文化石铸\n\n大汶口文化锛形石模\\石羡\nR"
+      },
+      {
+        "text": "大汶口",
+        "page": 7,
+        "source": "ocr",
+        "context": "er eeeees\n\n大汶口文化石铸\n\n大汶口文化锛形石模\\石羡\nRBA MAT) A"
+      },
+      {
+        "text": "大汶口",
+        "page": 7,
+        "source": "ocr",
+        "context": "eeeeeenees\nKO LE RE\n大汶口文化骨器 eee\npe Geb a) a"
+      },
+      {
+        "text": "大汶口",
+        "page": 7,
+        "source": "ocr",
+        "context": "ece\nFDC SL BE BR pe\n大汶口文化蚌铲 PPPISTTITITTITT"
+      },
+      {
+        "text": "大汶口",
+        "page": 7,
+        "source": "ocr",
+        "context": "Trier errr eee rete\n大汶口文化蚌铲 ooeeeeeeeoeeeee"
+      },
+      {
+        "text": "大汶口",
+        "page": 7,
+        "source": "ocr",
+        "context": "ccccocrccca BER EAS\n大汶口文化蚌刀、皇镶 PN\n大汶口文化蚌器 w"
+      },
+      {
+        "text": "大汶口",
+        "page": 7,
+        "source": "ocr",
+        "context": "R EAS\n大汶口文化蚌刀、皇镶 PN\n大汶口文化蚌器 weeeeeeeeeoeoeo"
+      },
+      {
+        "text": "大汶口",
+        "page": 8,
+        "source": "ocr",
+        "context": "179\n图 180\n\n，Xxii \"\n\n大汶口文化幕葛平 .剖面图(M15)\n\n大汶口"
+      },
+      {
+        "text": "大汶口",
+        "page": 8,
+        "source": "ocr",
+        "context": "大汶口文化幕葛平 .剖面图(M15)\n\n大汶口文化幕葬平 .剖面图(M63)\n\n大汶口"
+      },
+      {
+        "text": "大汶口",
+        "page": 8,
+        "source": "ocr",
+        "context": "大汶口文化幕葬平 .剖面图(M63)\n\n大汶口文化幕莫平 .剖面图(M65)\n\n大汶口"
+      },
+      {
+        "text": "大汶口",
+        "page": 8,
+        "source": "ocr",
+        "context": "大汶口文化幕莫平 .剖面图(M65)\n\n大汶口文化幕莫平 .剖面图(M67)\n\nM67"
+      },
+      {
+        "text": "大汶口",
+        "page": 8,
+        "source": "ocr",
+        "context": "7)\n\nM67 基本器物组合 站pp\n\n大汶口文化幕葛平 .剖面图CM147)\n\nMI"
+      },
+      {
+        "text": "大汶口",
+        "page": 8,
+        "source": "ocr",
+        "context": "\n\nMI147 基本器物组合 ppp\n\n大汶口文化墓葬平 剖面图(M188)\n\nMI1"
+      },
+      {
+        "text": "大汶口",
+        "page": 8,
+        "source": "ocr",
+        "context": "OC See EF 剖面图(M53)\n\n大汶口文化墓葬平 剖面图(M70)\n\n大汶口文"
+      },
+      {
+        "text": "大汶口",
+        "page": 8,
+        "source": "ocr",
+        "context": "\n大汶口文化墓葬平 剖面图(M70)\n\n大汶口文化墓葬平、剖面图(M126)\n\nM12"
+      },
+      {
+        "text": "大汶口",
+        "page": 8,
+        "source": "ocr",
+        "context": "6)\n\nM126 基本器物组合 PP\n\n大汶口文化幕苦平面图(M136) pp\nM13"
+      },
+      {
+        "text": "大汶口",
+        "page": 8,
+        "source": "ocr",
+        "context": "MI171 基本器物组合 pp 212\n大汶口文化墓葬平、剖面图(M190 、M192"
+      },
+      {
+        "text": "大汶口",
+        "page": 8,
+        "source": "ocr",
+        "context": "S7、M111、M122 7) 217\n大汶口文化幕项平、前面图(M127、M145、"
+      },
+      {
+        "text": "大汶口",
+        "page": 8,
+        "source": "ocr",
+        "context": "7、M145、M152) pp 219\n大汶口文化幕苦平、剖面图(M159 M163)"
+      },
+      {
+        "text": "大汶口",
+        "page": 8,
+        "source": "ocr",
+        "context": "EE .剖面图(M96) pp 224\n大汶口文化莫大平、剖面图(M128、M140 "
+      },
+      {
+        "text": "大汶口",
+        "page": 8,
+        "source": "ocr",
+        "context": "I109 基本器物组合 ppp 227\n大汶口文化墓草平 剖面图(M162、M168、"
+      },
+      {
+        "text": "大汶口",
+        "page": 8,
+        "source": "ocr",
+        "context": "ereeeeseseeeees 228\n大汶口文化墓葬平 .剖面图(M155、.M21"
+      },
+      {
+        "text": "大汶口",
+        "page": 9,
+        "source": "ocr",
+        "context": "\n图 215\n图 216\n图 217\n\n大汶口文化幕葬平 剖面图(M94、M212) "
+      },
+      {
+        "text": "大汶口",
+        "page": 9,
+        "source": "ocr",
+        "context": "asssesessseoeee 232\n大汶口文化墓莫平、剖面图(M51)\n\n大汶口文"
+      },
+      {
+        "text": "大汶口",
+        "page": 9,
+        "source": "ocr",
+        "context": "\n大汶口文化墓莫平、剖面图(M51)\n\n大汶口文化墓葬平 剖面图(M169)\n大汶口文"
+      },
+      {
+        "text": "大汶口",
+        "page": 9,
+        "source": "ocr",
+        "context": "\n大汶口文化墓葬平 剖面图(M169)\n大汶口文化幕莫平 .剖面图(M102)\nMI1"
+      },
+      {
+        "text": "大汶口",
+        "page": 9,
+        "source": "ocr",
+        "context": "02)\nMI102 基本器物组合 pe\n大汶口文化幕莫平.剖面图(M106)\n大汶口文"
+      },
+      {
+        "text": "大汶口",
+        "page": 9,
+        "source": "ocr",
+        "context": "\n大汶口文化幕莫平.剖面图(M106)\n大汶口文化墓葬平 剖面图(M134)\nM134"
+      },
+      {
+        "text": "大汶口",
+        "page": 9,
+        "source": "ocr",
+        "context": "oooeoeeoeoooooooeoo\n大汶口文化幕葬平 剖面图(M194)\n大汶口文"
+      },
+      {
+        "text": "大汶口",
+        "page": 9,
+        "source": "ocr",
+        "context": "\n大汶口文化幕葬平 剖面图(M194)\n大汶口文化幕芋平 剖面图(M72.M187)\n"
+      },
+      {
+        "text": "大汶口",
+        "page": 9,
+        "source": "ocr",
+        "context": " EF .剖面图(M154、M195)\n大汶口文化陶刻符号拓片\n大汶口文化陶里 eee"
+      },
+      {
+        "text": "大汶口",
+        "page": 9,
+        "source": "ocr",
+        "context": "4、M195)\n大汶口文化陶刻符号拓片\n大汶口文化陶里 eeeeeeeeeeeee\n大"
+      },
+      {
+        "text": "大汶口",
+        "page": 9,
+        "source": "ocr",
+        "context": "口文化陶里 eeeeeeeeeeeee\n大汶口文化陶易\n大汶口文化陶易\nevap ai"
+      },
+      {
+        "text": "大汶口",
+        "page": 9,
+        "source": "ocr",
+        "context": "eeeeeeeeeee\n大汶口文化陶易\n大汶口文化陶易\nevap aia 1     "
+      },
+      {
+        "text": "大汶口",
+        "page": 9,
+        "source": "ocr",
+        "context": "oooeoooooooeooeeoos\n大汶口文化大口丛 aeeeeeesooseee"
+      },
+      {
+        "text": "大汶口",
+        "page": 9,
+        "source": "ocr",
+        "context": "                 oo\n大汶口文化陶豆\n大汶口文化陶豆\n大汶口文化陶豆"
+      },
+      {
+        "text": "大汶口",
+        "page": 9,
+        "source": "ocr",
+        "context": "         oo\n大汶口文化陶豆\n大汶口文化陶豆\n大汶口文化陶豆\n大汶口文化陶帮"
+      },
+      {
+        "text": "大汶口",
+        "page": 9,
+        "source": "ocr",
+        "context": " oo\n大汶口文化陶豆\n大汶口文化陶豆\n大汶口文化陶豆\n大汶口文化陶帮\n大汶口文化陶壶"
+      },
+      {
+        "text": "大汶口",
+        "page": 9,
+        "source": "ocr",
+        "context": "化陶豆\n大汶口文化陶豆\n大汶口文化陶豆\n大汶口文化陶帮\n大汶口文化陶壶、\n大汶口文化背"
+      },
+      {
+        "text": "大汶口",
+        "page": 9,
+        "source": "ocr",
+        "context": "化陶豆\n大汶口文化陶豆\n大汶口文化陶帮\n大汶口文化陶壶、\n大汶口文化背壶       "
+      },
+      {
+        "text": "大汶口",
+        "page": 9,
+        "source": "ocr",
+        "context": "陶豆\n大汶口文化陶帮\n大汶口文化陶壶、\n大汶口文化背壶                "
+      },
+      {
+        "text": "大汶口",
+        "page": 9,
+        "source": "ocr",
+        "context": "                266\n大汶口文化高柄杯 Doves nccccen "
+      },
+      {
+        "text": "大汶口",
+        "page": 9,
+        "source": "ocr",
+        "context": "                269\n大汶口文化陶杯 ………            "
+      },
+      {
+        "text": "大汶口",
+        "page": 9,
+        "source": "ocr",
+        "context": "                270\n大汶口文化陶盆 .陶碗            "
+      },
+      {
+        "text": "大汶口",
+        "page": 10,
+        "source": "ocr",
+        "context": "8\n 239\n图 240\n图 241\n\n大汶口文化器盖 SEF FRE 站 273\nA"
+      },
+      {
+        "text": "龙山文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "280\nib cet A\nELS A\n\n龙山文化灰坑平 .剖面图 …\n\n龙山文化灰坑平、"
+      },
+      {
+        "text": "龙山文化",
+        "page": 10,
+        "source": "ocr",
+        "context": " A\n\n龙山文化灰坑平 .剖面图 …\n\n龙山文化灰坑平、剖面图\n\nFE WL SCALE"
+      },
+      {
+        "text": "龙山文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "图(M36 、M123) pp 289\n龙山文化墓葬平 .剖面图(M39 、M66) p"
+      },
+      {
+        "text": "龙山文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "面图(M39 、M66) pp 290\n龙山文化幕草平 ,前面图(M43) vvssss"
+      },
+      {
+        "text": "龙山文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "1\n龙出文化陶片纹饰拓片 站pp293\n龙山文化陶器\n\n龙山文化陶器\n\n龙山文化陶器\n\n"
+      },
+      {
+        "text": "龙山文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "纹饰拓片 站pp293\n龙山文化陶器\n\n龙山文化陶器\n\n龙山文化陶器\n\n龙山文化陶器\n\n"
+      },
+      {
+        "text": "龙山文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "293\n龙山文化陶器\n\n龙山文化陶器\n\n龙山文化陶器\n\n龙山文化陶器\n\n龙山文化陶盆\n\n"
+      },
+      {
+        "text": "龙山文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "陶器\n\n龙山文化陶器\n\n龙山文化陶器\n\n龙山文化陶器\n\n龙山文化陶盆\n\n龙山文化陶器\n\n"
+      },
+      {
+        "text": "龙山文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "陶器\n\n龙山文化陶器\n\n龙山文化陶器\n\n龙山文化陶盆\n\n龙山文化陶器\n\n龙山文化器盖\n\n"
+      },
+      {
+        "text": "龙山文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "陶器\n\n龙山文化陶器\n\n龙山文化陶盆\n\n龙山文化陶器\n\n龙山文化器盖\n\n龙山文化陶器\n\n"
+      },
+      {
+        "text": "龙山文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "陶器\n\n龙山文化陶盆\n\n龙山文化陶器\n\n龙山文化器盖\n\n龙山文化陶器\n\n龙山文化石器\n\n"
+      },
+      {
+        "text": "龙山文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "陶盆\n\n龙山文化陶器\n\n龙山文化器盖\n\n龙山文化陶器\n\n龙山文化石器\n\nEW HLA\n\n"
+      },
+      {
+        "text": "龙山文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "陶器\n\n龙山文化器盖\n\n龙山文化陶器\n\n龙山文化石器\n\nEW HLA\n\n龙山 文化骨、蚌"
+      },
+      {
+        "text": "大汶口",
+        "page": 10,
+        "source": "ocr",
+        "context": "\n龙山 文化骨、蚌器   本  310\n大汶口文化一段至三段及龙山文化主要器物对照图 "
+      },
+      {
+        "text": "龙山文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "  本  310\n大汶口文化一段至三段及龙山文化主要器物对照图 pp 322\n"
+      },
+      {
+        "text": "大汶口",
+        "page": 11,
+        "source": "ocr",
+        "context": "址 (FIO~F23) (由东向西摄)\n大汶口文化彩绘及陶刻符号\n\n大汶口文化陶刻符号"
+      },
+      {
+        "text": "大汶口",
+        "page": 11,
+        "source": "ocr",
+        "context": "东向西摄)\n大汶口文化彩绘及陶刻符号\n\n大汶口文化陶刻符号\n\n尉迟寺遗址出土的陶器\n尉"
+      },
+      {
+        "text": "大汶口",
+        "page": 12,
+        "source": "ocr",
+        "context": "况\n\nKMN区、V区建筑基址发掘情况\n\n大汶口文化建筑基址室内倒塌堆积\n\n大汶口文化建"
+      },
+      {
+        "text": "大汶口",
+        "page": 12,
+        "source": "ocr",
+        "context": "况\n\n大汶口文化建筑基址室内倒塌堆积\n\n大汶口文化建筑基址内墙加工情况\n\n大汶口文化建"
+      },
+      {
+        "text": "大汶口",
+        "page": 12,
+        "source": "ocr",
+        "context": "积\n\n大汶口文化建筑基址内墙加工情况\n\n大汶口文化建筑基址(Fl1 与 F12,Fl1"
+      },
+      {
+        "text": "大汶口",
+        "page": 12,
+        "source": "ocr",
+        "context": "与 F12,Fl16 与 F17)隔墙\n大汶口文化建筑基址(F9、F23)房门\n\n大汶"
+      },
+      {
+        "text": "大汶口",
+        "page": 12,
+        "source": "ocr",
+        "context": "汶口文化建筑基址(F9、F23)房门\n\n大汶口文化建筑基址(F20)室内柱及挡火墙\n大"
+      },
+      {
+        "text": "大汶口",
+        "page": 12,
+        "source": "ocr",
+        "context": "口文化建筑基址(F20、F21)居住面\n大汶口文化建筑基址(F28、F37)灶台\n\n大"
+      },
+      {
+        "text": "大汶口",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n\n大这口文化8 号一9 号建筑基址\n\n大汶口文化建筑基址(F20 与 F21、F28"
+      },
+      {
+        "text": "大汶口",
+        "page": 12,
+        "source": "ocr",
+        "context": " 与 F21、F28 与 F29)隔墙\n大汶口文化建筑基址(F20、F33)房门内侧台"
+      },
+      {
+        "text": "大汶口",
+        "page": 12,
+        "source": "ocr",
+        "context": "建筑基址(F20、F33)房门内侧台阶\n大汶口文化建筑基址室内情况\n\n大汶口文化7号."
+      },
+      {
+        "text": "大汶口",
+        "page": 12,
+        "source": "ocr",
+        "context": "内侧台阶\n大汶口文化建筑基址室内情况\n\n大汶口文化7号.5 号建筑基址\n\n大汶口文化 "
+      },
+      {
+        "text": "大汶口",
+        "page": 12,
+        "source": "ocr",
+        "context": "况\n\n大汶口文化7号.5 号建筑基址\n\n大汶口文化 10 号建筑基址\n\nAMO Mk "
+      },
+      {
+        "text": "大汶口",
+        "page": 12,
+        "source": "ocr",
+        "context": "基址\n\nAMO Mk 3 号建筑基址\n\n大汶口文化 3 号建筑基址\nAMAR 3 号建"
+      },
+      {
+        "text": "大汶口",
+        "page": 12,
+        "source": "ocr",
+        "context": "号建筑基址\nAMAR 3 号建筑基址\n\n大汶口文化建筑基址(FI10、F18)内墙壁柱"
+      },
+      {
+        "text": "大汶口",
+        "page": 12,
+        "source": "ocr",
+        "context": "化建筑基址(FI10、F18)内墙壁柱\n大汶口文化工号建筑基址\n\n大汶口文化1 号建筑"
+      },
+      {
+        "text": "大汶口",
+        "page": 12,
+        "source": "ocr",
+        "context": "8)内墙壁柱\n大汶口文化工号建筑基址\n\n大汶口文化1 号建筑基址\n\n大汶口文化1号建筑"
+      },
+      {
+        "text": "大汶口",
+        "page": 12,
+        "source": "ocr",
+        "context": "建筑基址\n\n大汶口文化1 号建筑基址\n\n大汶口文化1号建筑基址\n\n大汶口文化 11 号"
+      },
+      {
+        "text": "大汶口",
+        "page": 12,
+        "source": "ocr",
+        "context": "号建筑基址\n\n大汶口文化1号建筑基址\n\n大汶口文化 11 号建筑基址\n\n大汶口文化 2"
+      },
+      {
+        "text": "大汶口",
+        "page": 12,
+        "source": "ocr",
+        "context": "基址\n\n大汶口文化 11 号建筑基址\n\n大汶口文化 2 号建筑基址\n\n大汶口文化 2 "
+      },
+      {
+        "text": "大汶口",
+        "page": 12,
+        "source": "ocr",
+        "context": "筑基址\n\n大汶口文化 2 号建筑基址\n\n大汶口文化 2 号建筑基址\nAMAR 2 号建"
+      },
+      {
+        "text": "大汶口",
+        "page": 12,
+        "source": "ocr",
+        "context": "文化 2 号建筑基址\nAMAR SS\n\n大汶口文化陶里\n\n大汶口文化陶里\n"
+      },
+      {
+        "text": "大汶口",
+        "page": 12,
+        "source": "ocr",
+        "context": "址\nAMAR SS\n\n大汶口文化陶里\n\n大汶口文化陶里\n"
+      },
+      {
+        "text": "大汶口",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n图版 67\n图版 68\n图版 69\n\n大汶口文化陶易\n\n大汶口文化陶铅\nFBC 3C"
+      },
+      {
+        "text": "大汶口",
+        "page": 13,
+        "source": "ocr",
+        "context": " 68\n图版 69\n\n大汶口文化陶易\n\n大汶口文化陶铅\nFBC 3C 4 Bid AE"
+      },
+      {
+        "text": "大汶口",
+        "page": 13,
+        "source": "ocr",
+        "context": "E Pid\nKW FAG Be BE\n\n大汶口文化陶器\n\n大汶口文化陶豆\n\n大汶口文化"
+      },
+      {
+        "text": "大汶口",
+        "page": 13,
+        "source": "ocr",
+        "context": "FAG Be BE\n\n大汶口文化陶器\n\n大汶口文化陶豆\n\n大汶口文化陶豆\n\n大汶口文化"
+      },
+      {
+        "text": "大汶口",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n\n大汶口文化陶器\n\n大汶口文化陶豆\n\n大汶口文化陶豆\n\n大汶口文化陶豆\nAMA\nAB"
+      },
+      {
+        "text": "大汶口",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n\n大汶口文化陶豆\n\n大汶口文化陶豆\n\n大汶口文化陶豆\nAMA\nABA Ab we\nF"
+      },
+      {
+        "text": "大汶口",
+        "page": 13,
+        "source": "ocr",
+        "context": " Cb ae TE ES\nRU ETE\n大汶口文化背壹\nKUO\n大汶口文化高柄杯\nKC"
+      },
+      {
+        "text": "大汶口",
+        "page": 13,
+        "source": "ocr",
+        "context": "\nRU ETE\n大汶口文化背壹\nKUO\n大汶口文化高柄杯\nKC SCE ALTE FF"
+      },
+      {
+        "text": "大汶口",
+        "page": 13,
+        "source": "ocr",
+        "context": "化高柄杯\nKC SCE ALTE FF\n大汶口文化简形杯、.折腹杯、小陶杯\n大汶口文化"
+      },
+      {
+        "text": "大汶口",
+        "page": 13,
+        "source": "ocr",
+        "context": "F\n大汶口文化简形杯、.折腹杯、小陶杯\n大汶口文化陶盆\n\n大汶口文化陶盆\nFW AL "
+      },
+      {
+        "text": "大汶口",
+        "page": 13,
+        "source": "ocr",
+        "context": "杯、.折腹杯、小陶杯\n大汶口文化陶盆\n\n大汶口文化陶盆\nFW AL Bld Bl\n大汶"
+      },
+      {
+        "text": "大汶口",
+        "page": 13,
+        "source": "ocr",
+        "context": "汶口文化陶盆\nFW AL Bld Bl\n大汶口文化陶碗、陶钵\nKC ASCE BS\n\n"
+      },
+      {
+        "text": "大汶口",
+        "page": 13,
+        "source": "ocr",
+        "context": "文化陶碗、陶钵\nKC ASCE BS\n\n大汶口文化陶算\n\n大汶口文化陶器盖\n大汶口文化"
+      },
+      {
+        "text": "大汶口",
+        "page": 13,
+        "source": "ocr",
+        "context": "C ASCE BS\n\n大汶口文化陶算\n\n大汶口文化陶器盖\n大汶口文化陶器盖\n大汶口文化"
+      },
+      {
+        "text": "大汶口",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n\n大汶口文化陶算\n\n大汶口文化陶器盖\n大汶口文化陶器盖\n大汶口文化陶拍\n\n大汶口文化"
+      },
+      {
+        "text": "大汶口",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n\n大汶口文化陶器盖\n大汶口文化陶器盖\n大汶口文化陶拍\n\n大汶口文化陶纺轮\n大汶口文化"
+      },
+      {
+        "text": "大汶口",
+        "page": 13,
+        "source": "ocr",
+        "context": "盖\n大汶口文化陶器盖\n大汶口文化陶拍\n\n大汶口文化陶纺轮\n大汶口文化陶器\n\n大这口文化"
+      },
+      {
+        "text": "大汶口",
+        "page": 13,
+        "source": "ocr",
+        "context": "盖\n大汶口文化陶拍\n\n大汶口文化陶纺轮\n大汶口文化陶器\n\n大这口文化石器\n\n大汶口文化"
+      },
+      {
+        "text": "大汶口",
+        "page": 13,
+        "source": "ocr",
+        "context": "轮\n大汶口文化陶器\n\n大这口文化石器\n\n大汶口文化石器\n\n大汶口文化石器\n\n大汶口文化"
+      },
+      {
+        "text": "大汶口",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n\n大这口文化石器\n\n大汶口文化石器\n\n大汶口文化石器\n\n大汶口文化石链、玉器\n大汶口"
+      },
+      {
+        "text": "大汶口",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n\n大汶口文化石器\n\n大汶口文化石器\n\n大汶口文化石链、玉器\n大汶口文化骨器\n\n* x"
+      },
+      {
+        "text": "大汶口",
+        "page": 13,
+        "source": "ocr",
+        "context": "大汶口文化石器\n\n大汶口文化石链、玉器\n大汶口文化骨器\n\n* xvii *\n"
+      },
+      {
+        "text": "大汶口",
+        "page": 14,
+        "source": "ocr",
+        "context": "图版70 大汶口文化骨链\n\n图版71 大汶口文化骨、角、"
+      },
+      {
+        "text": "大汶口",
+        "page": 14,
+        "source": "ocr",
+        "context": "图版70 大汶口文化骨链\n\n图版71 大汶口文化骨、角、牙器\n图版 72 ”大汶口文"
+      },
+      {
+        "text": "大汶口",
+        "page": 14,
+        "source": "ocr",
+        "context": " 大汶口文化骨、角、牙器\n图版 72 ”大汶口文化蚌器\n\n图版73 大汶口文化蚌链\n\n"
+      },
+      {
+        "text": "大汶口",
+        "page": 14,
+        "source": "ocr",
+        "context": "版 72 ”大汶口文化蚌器\n\n图版73 大汶口文化蚌链\n\n图版74 大汶口文化幕三\n\n"
+      },
+      {
+        "text": "大汶口",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n图版73 大汶口文化蚌链\n\n图版74 大汶口文化幕三\n\n图版75 ABCA CRE\n"
+      },
+      {
+        "text": "大汶口",
+        "page": 14,
+        "source": "ocr",
+        "context": "版75 ABCA CRE\n图版 76 ”大汶口文化墓匡\n\n图版77 大汶口文化墓葬\n\n"
+      },
+      {
+        "text": "大汶口",
+        "page": 14,
+        "source": "ocr",
+        "context": "版 76 ”大汶口文化墓匡\n\n图版77 大汶口文化墓葬\n\n图版78 ADA LRH\n\n"
+      },
+      {
+        "text": "大汶口",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n图版78 ADA LRH\n\n图版79 大汶口文化莫大\n图版 80 大汶口文化墓三\n\n"
+      },
+      {
+        "text": "大汶口",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n图版79 大汶口文化莫大\n图版 80 大汶口文化墓三\n\n图版 81 大汶口文化墓三\n"
+      },
+      {
+        "text": "大汶口",
+        "page": 14,
+        "source": "ocr",
+        "context": "版 80 大汶口文化墓三\n\n图版 81 大汶口文化墓三\n图版 82 大汶口文化陶刻符号"
+      },
+      {
+        "text": "大汶口",
+        "page": 14,
+        "source": "ocr",
+        "context": "图版 81 大汶口文化墓三\n图版 82 大汶口文化陶刻符号\n图版 83 大汶口文化墓芋"
+      },
+      {
+        "text": "大汶口",
+        "page": 14,
+        "source": "ocr",
+        "context": " 82 大汶口文化陶刻符号\n图版 83 大汶口文化墓芋\n\n图版 84 大汶口文化墓葬及"
+      },
+      {
+        "text": "大汶口",
+        "page": 14,
+        "source": "ocr",
+        "context": "版 83 大汶口文化墓芋\n\n图版 84 大汶口文化墓葬及葬具上的刻划符号\n图版 85 "
+      },
+      {
+        "text": "大汶口",
+        "page": 14,
+        "source": "ocr",
+        "context": "文化墓葬及葬具上的刻划符号\n图版 85 大汶口文化墓葬及三具上的刻划符号\n图版 86 "
+      },
+      {
+        "text": "大汶口",
+        "page": 14,
+        "source": "ocr",
+        "context": "6 AMO MERAH\n\n图版 87 ”大汶口文化墓葬\n\n图版 88 AMO HE\n图"
+      },
+      {
+        "text": "大汶口",
+        "page": 14,
+        "source": "ocr",
+        "context": "图版 88 AMO HE\n图版 899 大汶口文化墓葬\n图版 90 大汶口文化墓葬\n图"
+      },
+      {
+        "text": "大汶口",
+        "page": 14,
+        "source": "ocr",
+        "context": "版 899 大汶口文化墓葬\n图版 90 大汶口文化墓葬\n图版 91 大汶口文化陶易\n图"
+      },
+      {
+        "text": "大汶口",
+        "page": 14,
+        "source": "ocr",
+        "context": "图版 90 大汶口文化墓葬\n图版 91 大汶口文化陶易\n图版 922 ”大汶口文化陶易"
+      },
+      {
+        "text": "大汶口",
+        "page": 14,
+        "source": "ocr",
+        "context": " 91 大汶口文化陶易\n图版 922 ”大汶口文化陶易\n图版 93 大汶口文化陶器\n图"
+      },
+      {
+        "text": "大汶口",
+        "page": 14,
+        "source": "ocr",
+        "context": " 922 ”大汶口文化陶易\n图版 93 大汶口文化陶器\n图版 94 大汶口文化陶饶\n\n"
+      },
+      {
+        "text": "大汶口",
+        "page": 14,
+        "source": "ocr",
+        "context": "图版 93 大汶口文化陶器\n图版 94 大汶口文化陶饶\n\n图版95 KMARLKAE\n"
+      },
+      {
+        "text": "大汶口",
+        "page": 14,
+        "source": "ocr",
+        "context": "95 KMARLKAE\n图版 9%6 ”大汶口文化大口丛、直壁缸\n图版 97 ABCA"
+      },
+      {
+        "text": "大汶口",
+        "page": 14,
+        "source": "ocr",
+        "context": "图版 98 ADCO Ae\n图版 99 大汶口文化陶盆.陶器盖\n图版 100 AWOL"
+      },
+      {
+        "text": "大汶口",
+        "page": 14,
+        "source": "ocr",
+        "context": " 大这口文化玉、石.骨器\n图版 102 大汶口文化墓葬 RST\n图版 103 龙山文化"
+      },
+      {
+        "text": "龙山文化",
+        "page": 14,
+        "source": "ocr",
+        "context": " 大汶口文化墓葬 RST\n图版 103 龙山文化陶易 .陶饶\n图版 104 龙山文化陶器"
+      },
+      {
+        "text": "龙山文化",
+        "page": 14,
+        "source": "ocr",
+        "context": "3 龙山文化陶易 .陶饶\n图版 104 龙山文化陶器\n图版 105 龙山文化陶器\n图版 "
+      },
+      {
+        "text": "龙山文化",
+        "page": 14,
+        "source": "ocr",
+        "context": "版 104 龙山文化陶器\n图版 105 龙山文化陶器\n图版 106 ”龙山文化陶器\n\n*"
+      },
+      {
+        "text": "龙山文化",
+        "page": 14,
+        "source": "ocr",
+        "context": " 105 龙山文化陶器\n图版 106 ”龙山文化陶器\n\n* xviii *\n\n"
+      },
+      {
+        "text": "龙山文化",
+        "page": 15,
+        "source": "ocr",
+        "context": " 112\n图版 113\n图版 114\n\n龙山文化陶器\n\n龙山文化陶器\n\n龙山文化石链\n\n"
+      },
+      {
+        "text": "龙山文化",
+        "page": 15,
+        "source": "ocr",
+        "context": "113\n图版 114\n\n龙山文化陶器\n\n龙山文化陶器\n\n龙山文化石链\n\n龙山文化骨器\n\n"
+      },
+      {
+        "text": "龙山文化",
+        "page": 15,
+        "source": "ocr",
+        "context": "14\n\n龙山文化陶器\n\n龙山文化陶器\n\n龙山文化石链\n\n龙山文化骨器\n\nRUA MA\n\n"
+      },
+      {
+        "text": "龙山文化",
+        "page": 15,
+        "source": "ocr",
+        "context": "陶器\n\n龙山文化陶器\n\n龙山文化石链\n\n龙山文化骨器\n\nRUA MA\n\n大汶口文化人和骨"
+      },
+      {
+        "text": "大汶口",
+        "page": 15,
+        "source": "ocr",
+        "context": "石链\n\n龙山文化骨器\n\nRUA MA\n\n大汶口文化人和骨\n\n大汶口文化人骨拔牙现象\n植"
+      },
+      {
+        "text": "大汶口",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n\nRUA MA\n\n大汶口文化人和骨\n\n大汶口文化人骨拔牙现象\n植物硅酸体\n"
+      }
+    ],
+    "遗址名称": [
+      {
+        "text": "尉迟寺",
+        "page": 2,
+        "source": "ocr",
+        "context": "ooooooooos 274\n\n第七节 尉迟寺大这口文化的发展阶段 oaseeeeee"
+      },
+      {
+        "text": "尉迟寺",
+        "page": 2,
+        "source": "ocr",
+        "context": "oooooooove 311\n\n第四章 尉迟寺新石器文化遗存考察 aeaueaeeue"
+      },
+      {
+        "text": "尉迟寺",
+        "page": 2,
+        "source": "ocr",
+        "context": "oeooooovoeeev 313\n二“尉迟寺新石器遗存的经济形态.pe 314\n\n第"
+      },
+      {
+        "text": "尉迟寺",
+        "page": 2,
+        "source": "ocr",
+        "context": "存的经济形态.pe 314\n\n第二节 ”尉迟寺大汶口文化晚期遗存\n二 文化性质及年代o"
+      },
+      {
+        "text": "皖北",
+        "page": 2,
+        "source": "ocr",
+        "context": "四节 相关问题的讨论 ER 335\n一，皖北地区新石器文化发展序列:ee 335\n="
+      },
+      {
+        "text": "尉迟寺",
+        "page": 2,
+        "source": "ocr",
+        "context": "区新石器文化发展序列:ee 335\n= 尉迟寺遗址发握的意义及提出的问题oosoooo"
+      },
+      {
+        "text": "尉迟寺",
+        "page": 2,
+        "source": "ocr",
+        "context": " 340\n\n附。囊pt 345\n附表一“尉迟寺遗址大汶口文化排房基址登记表尼ee 34"
+      },
+      {
+        "text": "尉迟寺",
+        "page": 2,
+        "source": "ocr",
+        "context": "排房房址柱洞登记下pp 357\n附表三”尉迟寺和遗址大汶口文化排房建筑基址出土器物登记"
+      },
+      {
+        "text": "尉迟寺",
+        "page": 2,
+        "source": "ocr",
+        "context": "基址出土器物登记表ee 374\n附表四“尉迟寺遗址灰坑与乱苦坑登记表和 379\n附表五"
+      },
+      {
+        "text": "尉迟寺",
+        "page": 2,
+        "source": "ocr",
+        "context": "址灰坑与乱苦坑登记表和 379\n附表五”尉迟寺遗址大汶口文化晚期墓项登记表和ee 38"
+      },
+      {
+        "text": "尉迟寺",
+        "page": 3,
+        "source": "ocr",
+        "context": "尉迟寺新石器时代墓地人人骨的观察与鉴定…\n\n尉"
+      },
+      {
+        "text": "尉迟寺",
+        "page": 3,
+        "source": "ocr",
+        "context": "寺新石器时代墓地人人骨的观察与鉴定…\n\n尉迟寺遗址动物骨骼研究报生ee\n尉迟寺遗址植物"
+      },
+      {
+        "text": "尉迟寺",
+        "page": 3,
+        "source": "ocr",
+        "context": "定…\n\n尉迟寺遗址动物骨骼研究报生ee\n尉迟寺遗址植物硅酸体分析报生ee\n尉迟寺遗址匹"
+      },
+      {
+        "text": "尉迟寺",
+        "page": 3,
+        "source": "ocr",
+        "context": "ee\n尉迟寺遗址植物硅酸体分析报生ee\n尉迟寺遗址匹粉数据与古代植被环境研究\n尉迟寺遗"
+      },
+      {
+        "text": "尉迟寺",
+        "page": 3,
+        "source": "ocr",
+        "context": "\n尉迟寺遗址匹粉数据与古代植被环境研究\n尉迟寺遗址大汶口文化出土标本分析报告症ee 4"
+      },
+      {
+        "text": "尉迟寺",
+        "page": 3,
+        "source": "ocr",
+        "context": "汶口文化出土标本分析报告症ee 456\n尉迟寺遗址石器原料鉴定报告\n\n"
+      },
+      {
+        "text": "皖北",
+        "page": 4,
+        "source": "ocr",
+        "context": "\n图 31\n图 32\n\n\"vin \"\n\n皖北新石器遗存分布图 coreeeeseee"
+      },
+      {
+        "text": "尉迟寺",
+        "page": 4,
+        "source": "ocr",
+        "context": "eeesseeesseeeeens 1\n尉迟寺遗址位置图 .ee  2\n\n尉迟寺遗址地"
+      },
+      {
+        "text": "尉迟寺",
+        "page": 4,
+        "source": "ocr",
+        "context": " 1\n尉迟寺遗址位置图 .ee  2\n\n尉迟寺遗址地形 .发掘范围及围沟位置图 pp "
+      },
+      {
+        "text": "尉迟寺",
+        "page": 11,
+        "source": "ocr",
+        "context": "\n彩版 11\n彩版 12\n\n彩版目录\n\n尉迟寺遗址全貌 〈由北向南摄)\n\n1 & 19"
+      },
+      {
+        "text": "尉迟寺",
+        "page": 11,
+        "source": "ocr",
+        "context": "彩绘及陶刻符号\n\n大汶口文化陶刻符号\n\n尉迟寺遗址出土的陶器\n尉迟寺遗址出土的玉、骨器"
+      },
+      {
+        "text": "尉迟寺",
+        "page": 11,
+        "source": "ocr",
+        "context": "口文化陶刻符号\n\n尉迟寺遗址出土的陶器\n尉迟寺遗址出土的玉、骨器\n\n“xe\n"
+      },
+      {
+        "text": "尉迟寺",
+        "page": 12,
+        "source": "ocr",
+        "context": " 32\n\n。Xxvi 。\n\n图版目录\n\n尉迟寺遗址全狐(由西向东摄)\n\n工区探方布局和"
+      }
+    ],
+    "建筑结构": [
+      {
+        "text": "柱洞",
+        "page": 2,
+        "source": "ocr",
+        "context": "5\n附表二“尉迟夺遗址大汶口文化排房房址柱洞登记下pp 357\n附表三”尉迟寺和遗址"
+      },
+      {
+        "text": "居住面",
+        "page": 12,
+        "source": "ocr",
+        "context": "墙\n大这口文化建筑基址(F20、F21)居住面\n大汶口文化建筑基址(F28、F37)灶"
+      },
+      {
+        "text": "台阶",
+        "page": 12,
+        "source": "ocr",
+        "context": "口文化建筑基址(F20、F33)房门内侧台阶\n大汶口文化建筑基址室内情况\n\n大汶口文"
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "人骨",
+        "page": 3,
+        "source": "ocr",
+        "context": "尉迟寺新石器时代墓地人人骨的观察与鉴定…\n\n尉迟寺遗址动物骨骼研究"
+      },
+      {
+        "text": "陶片",
+        "page": 10,
+        "source": "ocr",
+        "context": "neeseeeessny291\n龙出文化陶片纹饰拓片 站pp293\n龙山文化陶器\n\n"
+      },
+      {
+        "text": "人骨",
+        "page": 15,
+        "source": "ocr",
+        "context": " MA\n\n大汶口文化人和骨\n\n大汶口文化人骨拔牙现象\n植物硅酸体\n"
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T3709",
+        "page": 4,
+        "source": "ocr",
+        "context": "掘范围及排房布局图 .pe 5\nI 区 T3709 ~ T3710 南壁地层剖面图  oo"
+      },
+      {
+        "text": "T3710",
+        "page": 4,
+        "source": "ocr",
+        "context": "图 .pe 5\nI 区 T3709 ~ T3710 南壁地层剖面图  oo 8\n[区 T2"
+      },
+      {
+        "text": "T2906",
+        "page": 4,
+        "source": "ocr",
+        "context": "10 南壁地层剖面图  oo 8\n[区 T2906一T2907 南壁地层前面图 ceecc"
+      },
+      {
+        "text": "T2907",
+        "page": 4,
+        "source": "ocr",
+        "context": "层剖面图  oo 8\n[区 T2906一T2907 南壁地层前面图 ceecceescee"
+      },
+      {
+        "text": "T4012",
+        "page": 4,
+        "source": "ocr",
+        "context": "ssessseeseees 8\n\n开区 T4012一T4015 北壁地层剖面图\nM&K T"
+      },
+      {
+        "text": "T4015",
+        "page": 4,
+        "source": "ocr",
+        "context": "eeseees 8\n\n开区 T4012一T4015 北壁地层剖面图\nM&K T2823一T"
+      },
+      {
+        "text": "T2823",
+        "page": 4,
+        "source": "ocr",
+        "context": "2一T4015 北壁地层剖面图\nM&K T2823一T2825 Jt BE he Al i"
+      },
+      {
+        "text": "T2825",
+        "page": 4,
+        "source": "ocr",
+        "context": "5 北壁地层剖面图\nM&K T2823一T2825 Jt BE he Al i\nIV K "
+      },
+      {
+        "text": "T4111",
+        "page": 4,
+        "source": "ocr",
+        "context": " Jt BE he Al i\nIV K T4111~74311 西壁地层剖面图\n\n解剖围沟"
+      },
+      {
+        "text": "T400A",
+        "page": 4,
+        "source": "ocr",
+        "context": "剖围沟的探方平面图 ee\n\n围沟剖面图 T400A~ T400H\n\nF2 平、剖面图 oo"
+      },
+      {
+        "text": "T400H",
+        "page": 4,
+        "source": "ocr",
+        "context": "面图 ee\n\n围沟剖面图 T400A~ T400H\n\nF2 平、剖面图 ooooooooo"
+      },
+      {
+        "text": "T3828",
+        "page": 6,
+        "source": "ocr",
+        "context": "eenes 117\n大汶口文化陶纹拓片(T3828侠1) ceeeeeeeeeeeeees"
+      }
+    ],
+    "蚌器": [
+      {
+        "text": "蚌铲",
+        "page": 7,
+        "source": "ocr",
+        "context": "DC SL BE BR pe\n大汶口文化蚌铲 PPPISTTITITTITTTTTT"
+      },
+      {
+        "text": "蚌铲",
+        "page": 7,
+        "source": "ocr",
+        "context": " errr eee rete\n大汶口文化蚌铲 ooeeeeeeeoeeeeeseoe"
+      },
+      {
+        "text": "蚌刀",
+        "page": 7,
+        "source": "ocr",
+        "context": "crccca BER EAS\n大汶口文化蚌刀、皇镶 PN\n大汶口文化蚌器 weeee"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": " 4. m",
+        "page": 7,
+        "source": "ocr",
+        "context": "  ses 150\nDey Gab a! 4. mies 151\n大汶口文化陶盆\n大汶口文"
+      }
+    ],
+    "纹饰": [
+      {
+        "text": "彩绘",
+        "page": 11,
+        "source": "ocr",
+        "context": "O~F23) (由东向西摄)\n大汶口文化彩绘及陶刻符号\n\n大汶口文化陶刻符号\n\n尉迟"
+      }
+    ]
+  }
+}

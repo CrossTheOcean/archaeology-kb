@@ -1,0 +1,552 @@
+{
+  "name": "双砣子与岗上",
+  "file": "双砣子与岗上.pdf",
+  "era": "新石器",
+  "culture": "辽东史前文化",
+  "processed_pages": 15,
+  "total_entities": 86,
+  "entity_stats": {
+    "遗址名称": 32,
+    "遗迹类型": 7,
+    "年代": 9,
+    "层位关系": 4,
+    "铜器": 10,
+    "探方编号": 1,
+    "遗迹编号": 21,
+    "遗存类型": 2
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "岗上",
+        "page": 4,
+        "source": "ocr",
+        "context": " FHV THRAHRMMET.\n军山、岗上、楼上、卧龙泉和和尹家村等六处新石器时代"
+      },
+      {
+        "text": "辽东",
+        "page": 4,
+        "source": "ocr",
+        "context": "墓葬的考古报\n告, 这是新中国成立以来在辽东规模最大的一次考古工作。 通过这次发掘工"
+      },
+      {
+        "text": "辽东",
+        "page": 4,
+        "source": "ocr",
+        "context": "家村一、二期文化的谱系序列和断代标准,对辽东史前\n文化的序列和源流进行了系统的分析。"
+      },
+      {
+        "text": "辽东",
+        "page": 4,
+        "source": "ocr",
+        "context": "丁种第四十九号\nWie sy 5b\n一一辽东史前文化的发现和研究\n中国社会科学院考古"
+      },
+      {
+        "text": "辽东",
+        "page": 8,
+        "source": "ocr",
+        "context": "a\n\n五、讨      本\naR    辽东史前文化的序列和源流\n一、层位关系和文化"
+      },
+      {
+        "text": "岗上",
+        "page": 9,
+        "source": "ocr",
+        "context": "岗上莫地莫三登记表.和9\n\n英文提要 cec"
+      },
+      {
+        "text": "岗上",
+        "page": 11,
+        "source": "ocr",
+        "context": " ens\nWEE 1) M1 出土陶器\n岗上、楼上莫地附近地形图 coecee ee"
+      },
+      {
+        "text": "岗上",
+        "page": 11,
+        "source": "ocr",
+        "context": "ensaeanecea nee eee\n岗上摹地探方位置图 cae en cee c"
+      },
+      {
+        "text": "岗上",
+        "page": 11,
+        "source": "ocr",
+        "context": "oooeseooeooooeioeo。\n岗上墓地平面图 coe eee cee ec"
+      },
+      {
+        "text": "岗上",
+        "page": 11,
+        "source": "ocr",
+        "context": "sarecasaneasecieaes\n岗上草地及遗址堆积剖面图 pp\n岗上M7 平"
+      },
+      {
+        "text": "岗上",
+        "page": 11,
+        "source": "ocr",
+        "context": "aes\n岗上草地及遗址堆积剖面图 pp\n岗上M7 平、痢面图 cecece cee "
+      },
+      {
+        "text": "岗上",
+        "page": 11,
+        "source": "ocr",
+        "context": "cneanesesceeseeaes\n\n岗上M6、M11、M4平、齐面图\n\n岗上莫地"
+      },
+      {
+        "text": "岗上",
+        "page": 11,
+        "source": "ocr",
+        "context": "\n\n岗上M6、M11、M4平、齐面图\n\n岗上莫地出土陶器 cee eee cee c"
+      },
+      {
+        "text": "岗上",
+        "page": 11,
+        "source": "ocr",
+        "context": "ecee ane eee nee cs\n岗上摹地出土铜、石器 cee cee cee"
+      },
+      {
+        "text": "岗上",
+        "page": 11,
+        "source": "ocr",
+        "context": " eres ans erenee es\n岗上莫地出土石、骨器 cee eeecee "
+      },
+      {
+        "text": "岗上",
+        "page": 11,
+        "source": "ocr",
+        "context": "eaer ase enneee ans\n岗上墓地出土铜、骨器 cee cee cee"
+      },
+      {
+        "text": "岗上",
+        "page": 11,
+        "source": "ocr",
+        "context": " ees aeseescen ces\n\n岗上墓地出土骨、陶、石、贝饰\n\n岗上摹地封士"
+      },
+      {
+        "text": "岗上",
+        "page": 11,
+        "source": "ocr",
+        "context": "es\n\n岗上墓地出土骨、陶、石、贝饰\n\n岗上摹地封士出土铜、石器 ……\n岗上遗址出土"
+      },
+      {
+        "text": "岗上",
+        "page": 11,
+        "source": "ocr",
+        "context": "贝饰\n\n岗上摹地封士出土铜、石器 ……\n岗上遗址出土陶器 cee sce cee c"
+      },
+      {
+        "text": "岗上",
+        "page": 11,
+        "source": "ocr",
+        "context": " cen enn ees eeeees\n岗上遗址出土石器 ceceee cee ce"
+      },
+      {
+        "text": "辽东",
+        "page": 12,
+        "source": "ocr",
+        "context": "eereteecesteseesees\n辽东史前遗存碳十四年代对照表 〈经树轮校正 "
+      },
+      {
+        "text": "岗上",
+        "page": 14,
+        "source": "ocr",
+        "context": "w 〈M1) 积石冢出土陶、石天\n四九”岗上幕地发掘后情况 CARL\nEO bees"
+      },
+      {
+        "text": "岗上",
+        "page": 14,
+        "source": "ocr",
+        "context": "D\n\nR= MLM (ABA)\n\n五四“岗上幕地墓葬\n\nAh whee eH\n\nAA"
+      },
+      {
+        "text": "岗上",
+        "page": 14,
+        "source": "ocr",
+        "context": " eH\n\nAA Ree tet\n\n五七”岗上幕地出土陶器\n\n五八，岗上幕地出土青铀短"
+      },
+      {
+        "text": "岗上",
+        "page": 14,
+        "source": "ocr",
+        "context": "et\n\n五七”岗上幕地出土陶器\n\n五八，岗上幕地出土青铀短剑|\n\nAIL Mh ee"
+      },
+      {
+        "text": "岗上",
+        "page": 14,
+        "source": "ocr",
+        "context": "h ee te. AL Wat\n\nKO 岗上墓地 (M1) 出土铜块\n\nA mht "
+      },
+      {
+        "text": "岗上",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n\nFAG pe Eee PR\n\n六五”岗上幕地出土珠饰\n\n六六“”岗上墓地出土珠饰"
+      },
+      {
+        "text": "岗上",
+        "page": 14,
+        "source": "ocr",
+        "context": "R\n\n六五”岗上幕地出土珠饰\n\n六六“”岗上墓地出土珠饰\n\n六七“岗上摹地封十及扰土"
+      },
+      {
+        "text": "岗上",
+        "page": 14,
+        "source": "ocr",
+        "context": "饰\n\n六六“”岗上墓地出土珠饰\n\n六七“岗上摹地封十及扰土出土遗物\n六八_“岗上幕地"
+      },
+      {
+        "text": "岗上",
+        "page": 14,
+        "source": "ocr",
+        "context": "七“岗上摹地封十及扰土出土遗物\n六八_“岗上幕地封士出土陶片\n\n六九“岗上遗址房址 "
+      },
+      {
+        "text": "岗上",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n六八_“岗上幕地封士出土陶片\n\n六九“岗上遗址房址 (F1) 〈由东向西)\nEO "
+      },
+      {
+        "text": "岗上",
+        "page": 15,
+        "source": "ocr",
+        "context": "bat GE Hy sb Bj Fr\n\n岗上遗址出土陶、石、骨器\n\nBy Ee DE"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "墓葬",
+        "page": 4,
+        "source": "ocr",
+        "context": "和尹家村等六处新石器时代至青铜时代遗址和墓葬的考古报\n告, 这是新中国成立以来在辽东"
+      },
+      {
+        "text": "房址",
+        "page": 10,
+        "source": "ocr",
+        "context": "4 西壁前面图pp\n(6)\n\n双花子东坡房址分布图pp\nMLHE FC FIS—F1"
+      },
+      {
+        "text": "房址",
+        "page": 13,
+        "source": "ocr",
+        "context": "图版目录\n\n双古子第一期文化房址和灶坑\n\n双花子第一期文化房址的木标痕迹"
+      },
+      {
+        "text": "房址",
+        "page": 13,
+        "source": "ocr",
+        "context": "第一期文化房址和灶坑\n\n双花子第一期文化房址的木标痕迹\nWHET FB = HA s"
+      },
+      {
+        "text": "墓葬",
+        "page": 14,
+        "source": "ocr",
+        "context": "= MLM (ABA)\n\n五四“岗上幕地墓葬\n\nAh whee eH\n\nAA Ree"
+      },
+      {
+        "text": "房址",
+        "page": 14,
+        "source": "ocr",
+        "context": "“岗上幕地封士出土陶片\n\n六九“岗上遗址房址 (F1) 〈由东向西)\nEO be b"
+      },
+      {
+        "text": "墓葬",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n楼上幕地幕葬 〈由西向东)\n\n楼上墓地墓葬 〈由南向北)\nPb Boh BeBe "
+      }
+    ],
+    "年代": [
+      {
+        "text": "新石器时代",
+        "page": 4,
+        "source": "ocr",
+        "context": "军山、岗上、楼上、卧龙泉和和尹家村等六处新石器时代至青铜时代遗址和墓葬的考古报\n告, 这是"
+      },
+      {
+        "text": "辽",
+        "page": 4,
+        "source": "ocr",
+        "context": "墓葬的考古报\n告, 这是新中国成立以来在辽东规模最大的一次考古工作。 通过这次发掘"
+      },
+      {
+        "text": "辽",
+        "page": 4,
+        "source": "ocr",
+        "context": "家村一、二期文化的谱系序列和断代标准,对辽东史前\n文化的序列和源流进行了系统的分析"
+      },
+      {
+        "text": "辽",
+        "page": 4,
+        "source": "ocr",
+        "context": "丁种第四十九号\nWie sy 5b\n一一辽东史前文化的发现和研究\n中国社会科学院考"
+      },
+      {
+        "text": "元",
+        "page": 4,
+        "source": "ocr",
+        "context": "9/K + 70\n\n定价: 85.00 元\n"
+      },
+      {
+        "text": "金",
+        "page": 5,
+        "source": "ocr",
+        "context": "此项出版受国家社会科学基金资助\n"
+      },
+      {
+        "text": "明",
+        "page": 8,
+        "source": "ocr",
+        "context": "aes ne\n. BF\n\n(四) 时代不明的墓芋RN\n四、遗物.和ee\n\n(一) "
+      },
+      {
+        "text": "辽",
+        "page": 8,
+        "source": "ocr",
+        "context": "a\n\n五、讨      本\naR    辽东史前文化的序列和源流\n一、层位关系和文"
+      },
+      {
+        "text": "辽",
+        "page": 12,
+        "source": "ocr",
+        "context": "eereteecesteseesees\n辽东史前遗存碳十四年代对照表 〈经树轮校正"
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "堆积",
+        "page": 7,
+        "source": "ocr",
+        "context": "eeeeeseeeseeese\n\n1地层堆积与送迹.…\n(二) 遗物 ，………\n\nB"
+      },
+      {
+        "text": "堆积",
+        "page": 11,
+        "source": "ocr",
+        "context": "aneasecieaes\n岗上草地及遗址堆积剖面图 pp\n岗上M7 平、痢面图 ce"
+      },
+      {
+        "text": "堆积",
+        "page": 11,
+        "source": "ocr",
+        "context": "e cen enenesens\n楼上莫地堆积剖面图\n楼上 MI C11\n楼上 MQ "
+      },
+      {
+        "text": "堆积",
+        "page": 12,
+        "source": "ocr",
+        "context": "八三\n八四\n八五\n八六\n\n邦家村遗址地层堆积剖面图pp\nFYRERF HA, H12"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "饰",
+        "page": 7,
+        "source": "ocr",
+        "context": "青铜器 .pp\n3. 石器和ee\n5.装饰品\n\n6. HE:\n\n1. 陶器…\n2."
+      },
+      {
+        "text": "饰",
+        "page": 7,
+        "source": "ocr",
+        "context": "…           7\n4,   装饰品  seoeeeeeseeeseees"
+      },
+      {
+        "text": "饰",
+        "page": 7,
+        "source": "ocr",
+        "context": " ，………\n\nBE 楼上\n\n4.  .装饰吕\n\nsi A AE in\n2. 石器 "
+      },
+      {
+        "text": "饰",
+        "page": 11,
+        "source": "ocr",
+        "context": "n ces\n\n岗上墓地出土骨、陶、石、贝饰\n\n岗上摹地封士出土铜、石器 ……\n岗上"
+      },
+      {
+        "text": "铜饰",
+        "page": 11,
+        "source": "ocr",
+        "context": "楼上 M6 11s\n楼上墓地出土陶、石、铜饰和pe\n楼上莫地出土陶、石、铜器区pp\n"
+      },
+      {
+        "text": "饰",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n\n一八_，双花子第一期文化石、骨器和蛤饰\n一九 REF BHA a\n\n=O DE"
+      },
+      {
+        "text": "饰",
+        "page": 14,
+        "source": "ocr",
+        "context": "e Eee PR\n\n六五”岗上幕地出土珠饰\n\n六六“”岗上墓地出土珠饰\n\n六七“岗"
+      },
+      {
+        "text": "饰",
+        "page": 14,
+        "source": "ocr",
+        "context": "上幕地出土珠饰\n\n六六“”岗上墓地出土珠饰\n\n六七“岗上摹地封十及扰土出土遗物\n六"
+      },
+      {
+        "text": "饰",
+        "page": 15,
+        "source": "ocr",
+        "context": "R IR] PD\n\n楼上墓地出土陶器和珠饰\n\n楼上墓地出土珠饰\n\n楼上墓地出土铜、"
+      },
+      {
+        "text": "饰",
+        "page": 15,
+        "source": "ocr",
+        "context": "楼上墓地出土陶器和珠饰\n\n楼上墓地出土珠饰\n\n楼上墓地出土铜、石器\n\n楼上幕地封士"
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T4",
+        "page": 10,
+        "source": "ocr",
+        "context": "\n五\n一一一\n\n插图目录\n\n双花子下2、T4 西壁前面图pp\n(6)\n\n双花子东坡房"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "T4",
+        "page": 10,
+        "source": "ocr",
+        "context": "\n五\n一一一\n\n插图目录\n\n双花子下2、T4 西壁前面图pp\n(6)\n\n双花子东坡房"
+      },
+      {
+        "text": "F16",
+        "page": 10,
+        "source": "ocr",
+        "context": "房址分布图pp\nMLHE FC FIS—F16 SE, FATAL ER PP\nAX "
+      },
+      {
+        "text": "H10",
+        "page": 10,
+        "source": "ocr",
+        "context": " FATAL ER PP\nAX HEF H10 FE, FATA ppp\n(11])\n"
+      },
+      {
+        "text": "F2",
+        "page": 10,
+        "source": "ocr",
+        "context": "sesase (14)\n\nRAE Fe F2 考址平、前面图  coe ene ee"
+      },
+      {
+        "text": "F7",
+        "page": 10,
+        "source": "ocr",
+        "context": "A eta 5 A vs\n\nDUE F F7-F. FAT\n\nSHEF Fo. Rl"
+      },
+      {
+        "text": "M1",
+        "page": 11,
+        "source": "ocr",
+        "context": "eenn eee ens\nWEE 1) M1 出土陶器\n岗上、楼上莫地附近地形图 c"
+      },
+      {
+        "text": "M11",
+        "page": 11,
+        "source": "ocr",
+        "context": "esesceeseeaes\n\n岗上M6、M11、M4平、齐面图\n\n岗上莫地出土陶器 c"
+      },
+      {
+        "text": "M6",
+        "page": 11,
+        "source": "ocr",
+        "context": "C11\n楼上 MQ 平面图本ee\n楼上 M6 11s\n楼上墓地出土陶、石、铜饰和pe"
+      },
+      {
+        "text": "M4",
+        "page": 11,
+        "source": "ocr",
+        "context": "p\n卧龙泉摹地平、谢面图:ee\n卧龙泉 M4 平面图\n卧龙泉蔓地出土铜、石器.pp\n"
+      },
+      {
+        "text": "H12",
+        "page": 12,
+        "source": "ocr",
+        "context": "层堆积剖面图pp\nFYRERF HA, H12 SE, FARR pp\nFAK] M3"
+      },
+      {
+        "text": "M3",
+        "page": 12,
+        "source": "ocr",
+        "context": "12 SE, FARR pp\nFAK] M3, M12, M8 >,  HATE  "
+      },
+      {
+        "text": "M12",
+        "page": 12,
+        "source": "ocr",
+        "context": "E, FARR pp\nFAK] M3, M12, M8 >,  HATE  oo\n\n站"
+      },
+      {
+        "text": "M8",
+        "page": 12,
+        "source": "ocr",
+        "context": "RR pp\nFAK] M3, M12, M8 >,  HATE  oo\n\n站    "
+      },
+      {
+        "text": "M1",
+        "page": 14,
+        "source": "ocr",
+        "context": "子青铜短剑墓出土遗物\n\n四二“将军山 (M1) 积石冢发掘后情况 〈由南向北)\n三“"
+      },
+      {
+        "text": "M1",
+        "page": 14,
+        "source": "ocr",
+        "context": "掘后情况 〈由南向北)\n三“将军山 〈(M1) 积石冢出土陶器\n四四“将军山 〈M1"
+      },
+      {
+        "text": "M1",
+        "page": 14,
+        "source": "ocr",
+        "context": "M1) 积石冢出土陶器\n四四“将军山 〈M1) 积石冢出土陶器\n四五“将军山 〈(M"
+      },
+      {
+        "text": "M1",
+        "page": 14,
+        "source": "ocr",
+        "context": "1) 积石冢出土陶器\n四五“将军山 〈(M1) 积石冢出土陶器.\n四六“将军山 〈M"
+      },
+      {
+        "text": "M1",
+        "page": 14,
+        "source": "ocr",
+        "context": "1) 积石冢出土陶器.\n四六“将军山 〈M1) 积石冢出土陶器\nMt 4 (Ml) "
+      },
+      {
+        "text": "M1",
+        "page": 14,
+        "source": "ocr",
+        "context": ") 积石冢出土陶、玉器\nMy. Aw 〈M1) 积石冢出土陶、石天\n四九”岗上幕地发"
+      },
+      {
+        "text": "M1",
+        "page": 14,
+        "source": "ocr",
+        "context": "e. AL Wat\n\nKO 岗上墓地 (M1) 出土铜块\n\nA mht As\n\nWo"
+      },
+      {
+        "text": "F1",
+        "page": 14,
+        "source": "ocr",
+        "context": "地封士出土陶片\n\n六九“岗上遗址房址 (F1) 〈由东向西)\nEO be bath "
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "陶片",
+        "page": 14,
+        "source": "ocr",
+        "context": "及扰土出土遗物\n六八_“岗上幕地封士出土陶片\n\n六九“岗上遗址房址 (F1) 〈由东"
+      },
+      {
+        "text": "陶片",
+        "page": 15,
+        "source": "ocr",
+        "context": "瑚家村第一期文化陶器\n\n尹家村第一期文化陶片.\n\n尹家村第一期文化陶、石器\n\n尹家村"
+      }
+    ]
+  }
+}

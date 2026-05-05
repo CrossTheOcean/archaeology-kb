@@ -1,0 +1,3131 @@
+{
+  "name": "三门峡漕运遗迹",
+  "file": "三门峡漕运遗迹.pdf",
+  "processed_pages": 109,
+  "total_pages": 189,
+  "total_entities": 515,
+  "entity_stats": {
+    "年代": 178,
+    "遗迹类型": 5,
+    "遗迹编号": 45,
+    "遗址名称": 24,
+    "陶器": 9,
+    "探方编号": 48,
+    "测量数据": 192,
+    "铜器": 9,
+    "层位关系": 4,
+    "遗存类型": 1
+  },
+  "entities": {
+    "年代": [
+      {
+        "text": "隋",
+        "page": 6,
+        "source": "ocr",
+        "context": "三 *& 8 em\n\n也隋唐时期…\n+.北宋以后…\n\n附儿一: 河"
+      },
+      {
+        "text": "唐",
+        "page": 6,
+        "source": "ocr",
+        "context": "三 *& 8 em\n\n也隋唐时期…\n+.北宋以后…\n\n附儿一: 河心"
+      },
+      {
+        "text": "宋",
+        "page": 6,
+        "source": "ocr",
+        "context": " *& 8 em\n\n也隋唐时期…\n+.北宋以后…\n\n附儿一: 河心讲岛的仰韶、龙山"
+      },
+      {
+        "text": "元",
+        "page": 7,
+        "source": "ocr",
+        "context": "河        北岸二楼首\n\nWa\n并元新河南北端出人口及中段\n开元新河及其东全"
+      },
+      {
+        "text": "元",
+        "page": 7,
+        "source": "ocr",
+        "context": "\n\nWa\n并元新河南北端出人口及中段\n开元新河及其东全楼道\n\n"
+      },
+      {
+        "text": "元",
+        "page": 8,
+        "source": "ocr",
+        "context": "ATOS ML DRL OLA\n套臣”开元新河西岸基址工柱穴\n\nAe pCR\n\n套"
+      },
+      {
+        "text": "元",
+        "page": 8,
+        "source": "ocr",
+        "context": "岸基址工柱穴\n\nAe pCR\n\n套肆”开元新河东岸题齐\n\n:伍。 开元新河东岸题记"
+      },
+      {
+        "text": "元",
+        "page": 8,
+        "source": "ocr",
+        "context": "\n\n套肆”开元新河东岸题齐\n\n:伍。 开元新河东岸题记\n\nMe\n\n212 TUL "
+      },
+      {
+        "text": "明",
+        "page": 11,
+        "source": "ocr",
+        "context": "多大石碗然柱立河心:有些在河面以下;成篇明科;一\n部份则高出河面成篇岛几。最大的是"
+      },
+      {
+        "text": "唐",
+        "page": 11,
+        "source": "ocr",
+        "context": "岛原来与河岸相过，\n是咎岛的形状,只是在唐代开驶了开元新河后才和和鬼       "
+      },
+      {
+        "text": "元",
+        "page": 11,
+        "source": "ocr",
+        "context": "相过，\n是咎岛的形状,只是在唐代开驶了开元新河后才和和鬼       样,孤立论河"
+      },
+      {
+        "text": "元",
+        "page": 11,
+        "source": "ocr",
+        "context": "和鬼       样,孤立论河心。 在开元\n新河没有开整以前,鬼,圳二岛兹列河心,"
+      },
+      {
+        "text": "明",
+        "page": 11,
+        "source": "ocr",
+        "context": "1 RR\n俯超二人在此投到和平、甘露\\景明\\真岗、犯章、重拱\\政和,内定等年代的摩"
+      },
+      {
+        "text": "元",
+        "page": 12,
+        "source": "ocr",
+        "context": "售经碎裂。\n\n尘查报告分篇“古楼道\"“开元新河\"'北岸障道奥东西仿址\"“摩炭题鹿与"
+      },
+      {
+        "text": "元",
+        "page": 15,
+        "source": "ocr",
+        "context": "据遗存的过三类和孔眼,坛将梓上的木构与此元的                   "
+      },
+      {
+        "text": "三国",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n请吏作一示意图(图六)。 水径注上记载三国际期诸笠栈。。。 园五 aL RR\n道的"
+      },
+      {
+        "text": "三国",
+        "page": 18,
+        "source": "ocr",
+        "context": "Stet\n\n侧壁上有题记 2 段,其一局三国时期。\n从本段北端狠策向北约 30 余米"
+      },
+      {
+        "text": "元",
+        "page": 18,
+        "source": "ocr",
+        "context": "\n从本段北端狠策向北约 30 余米序抵开元新河南口。天一带是较平和级的斜坡,殉夫何"
+      },
+      {
+        "text": "明",
+        "page": 23,
+        "source": "ocr",
+        "context": "| oe        ES      明\n| o| 9             "
+      },
+      {
+        "text": "元",
+        "page": 24,
+        "source": "ocr",
+        "context": "13) 15\n打破T3 (时器天年一 公元260 | 13 | 13, 1/16,"
+      },
+      {
+        "text": "明",
+        "page": 26,
+        "source": "ocr",
+        "context": "课        zz         明        ibe] 高 | 袖 |"
+      },
+      {
+        "text": "唐",
+        "page": 27,
+        "source": "ocr",
+        "context": "东西长(稍偶) ,市北型-|\n\n侧壁上有唐代季拱北宋至和与明代等时代的王刻6段。\n"
+      },
+      {
+        "text": "宋",
+        "page": 27,
+        "source": "ocr",
+        "context": "偶) ,市北型-|\n\n侧壁上有唐代季拱北宋至和与明代等时代的王刻6段。\n\n全段的实"
+      },
+      {
+        "text": "明",
+        "page": 27,
+        "source": "ocr",
+        "context": "市北型-|\n\n侧壁上有唐代季拱北宋至和与明代等时代的王刻6段。\n\n全段的实测情况见"
+      },
+      {
+        "text": "明",
+        "page": 27,
+        "source": "ocr",
+        "context": "Bj  | mae |e |e\n\n2  明\n\n1    30   16 | FLo"
+      },
+      {
+        "text": "明",
+        "page": 29,
+        "source": "ocr",
+        "context": "\nineRaENE 1.4 米,使用法不明.| 15 | 13 | 14 | 18"
+      },
+      {
+        "text": "元",
+        "page": 32,
+        "source": "ocr",
+        "context": " 7G ATTIAT» AUT DAL\n元新河北口外的一座小岛造对,中隔 4一5 "
+      },
+      {
+        "text": "明",
+        "page": 35,
+        "source": "ocr",
+        "context": "| 径 | m       &     明       ww | 径 | we  "
+      },
+      {
+        "text": "元",
+        "page": 39,
+        "source": "ocr",
+        "context": "K ACARD. | 过段栈道的南端和开元新河北\n口相连 (BATCH ABE E"
+      },
+      {
+        "text": "秦",
+        "page": 41,
+        "source": "ocr",
+        "context": " GETTY 5, JOH 2 段是西亚秦始的纪年。\n\n全段实测情况\nC3) BR"
+      },
+      {
+        "text": "元",
+        "page": 42,
+        "source": "ocr",
+        "context": "A, RAE,  而在支宗时期整通了开\n元狐河以德,似不再在楼道上多花工夫了。和后"
+      },
+      {
+        "text": "清",
+        "page": 42,
+        "source": "ocr",
+        "context": "R Ge EURASIA” 的尘 句,很清楚的说明了过一情况。\nPG AASB U"
+      },
+      {
+        "text": "明",
+        "page": 42,
+        "source": "ocr",
+        "context": " EURASIA” 的尘 句,很清楚的说明了过一情况。\nPG AASB UL PE"
+      },
+      {
+        "text": "明",
+        "page": 42,
+        "source": "ocr",
+        "context": "比较短的年代内同\nAFH,\n\nTD 大四明儿一: mse,\n\n一23 一\n"
+      },
+      {
+        "text": "东汉",
+        "page": 43,
+        "source": "ocr",
+        "context": "怖楼道开束时间的下限。题询中年代最早的是东汉和平元年(公元150\n年) 的一段(人出"
+      },
+      {
+        "text": "元",
+        "page": 43,
+        "source": "ocr",
+        "context": "束时间的下限。题询中年代最早的是东汉和平元年(公元150\n年) 的一段(人出段 T"
+      },
+      {
+        "text": "元",
+        "page": 43,
+        "source": "ocr",
+        "context": "下限。题询中年代最早的是东汉和平元年(公元150\n年) 的一段(人出段 T5); "
+      },
+      {
+        "text": "唐",
+        "page": 43,
+        "source": "ocr",
+        "context": "aR BE LER\n的3段,在人可段上:唐代的4段,在人克段和人页段上; 北宋的2"
+      },
+      {
+        "text": "宋",
+        "page": 43,
+        "source": "ocr",
+        "context": "上:唐代的4段,在人克段和人页段上; 北宋的2 BR, 在人了 VBE ES\n代的"
+      },
+      {
+        "text": "宋",
+        "page": 43,
+        "source": "ocr",
+        "context": " 其余各段题麟年代不缮。 过些题询,除北宋和与明代的 3 Bee\n风景的是也外,大"
+      },
+      {
+        "text": "明",
+        "page": 43,
+        "source": "ocr",
+        "context": "各段题麟年代不缮。 过些题询,除北宋和与明代的 3 Bee\n风景的是也外,大狗都是"
+      },
+      {
+        "text": "东汉",
+        "page": 43,
+        "source": "ocr",
+        "context": "。根据诞些题列,可以知道人门槛\n道至远在东汉桓帝时期已经开竖,此和后一直到唐代, M"
+      },
+      {
+        "text": "唐",
+        "page": 43,
+        "source": "ocr",
+        "context": "至远在东汉桓帝时期已经开竖,此和后一直到唐代, MAE. IR AT\n段，    "
+      },
+      {
+        "text": "元",
+        "page": 43,
+        "source": "ocr",
+        "context": "EME LED RAB TAS): “(元年四月) BPR OR, WE\n(刘邦)"
+      },
+      {
+        "text": "金",
+        "page": 43,
+        "source": "ocr",
+        "context": "  ae ORG EA 一句，知道孔眼在金代以前就有。 而再从\nBEM ES [Z"
+      },
+      {
+        "text": "隋",
+        "page": 44,
+        "source": "ocr",
+        "context": "局限於此。\n\n至於牛鼻形壁孔，旭局疑作是隋唐时期加获的，因入在房山小西天藏权洞中第"
+      },
+      {
+        "text": "唐",
+        "page": 44,
+        "source": "ocr",
+        "context": "限於此。\n\n至於牛鼻形壁孔，旭局疑作是隋唐时期加获的，因入在房山小西天藏权洞中第五"
+      },
+      {
+        "text": "清",
+        "page": 44,
+        "source": "ocr",
+        "context": "A AC HR”\n\n但是,今天已礁以分辨清楚了。\n\na\n\nBTA\nRe\n\n240%"
+      },
+      {
+        "text": "元",
+        "page": 47,
+        "source": "ocr",
+        "context": "R RAL HS RT\n1 新 月\n\n开元新河是在人站北面的岩石中取出(图版武制，"
+      },
+      {
+        "text": "元",
+        "page": 50,
+        "source": "ocr",
+        "context": "=     Li    元    新    河\n\n在开元新河东辟樟"
+      },
+      {
+        "text": "元",
+        "page": 50,
+        "source": "ocr",
+        "context": "i    元    新    河\n\n在开元新河东辟樟道的北端以北 16 米处，河身"
+      },
+      {
+        "text": "元",
+        "page": 50,
+        "source": "ocr",
+        "context": "ANG ATER\n\n(2) 基址工\n\n开元新河西岸(即人门岛)的南定\n部有一片平地"
+      },
+      {
+        "text": "元",
+        "page": 50,
+        "source": "ocr",
+        "context": ".7\n\n米,其排列情况如国二五。 另在开元\nPUT HEHE ES, AIBA) "
+      },
+      {
+        "text": "明",
+        "page": 50,
+        "source": "ocr",
+        "context": "参壹,1;图二五)。\n\n(3) 基址工\n明元新河西岸的北企部,亦有一\n片平地。平地"
+      },
+      {
+        "text": "元",
+        "page": 50,
+        "source": "ocr",
+        "context": "壹,1;图二五)。\n\n(3) 基址工\n明元新河西岸的北企部,亦有一\n片平地。平地上"
+      },
+      {
+        "text": "元",
+        "page": 50,
+        "source": "ocr",
+        "context": "有 8 个平底贺形柱穴\n粗成一排。 在开元新河东岸岸饮, 也\nF底柱穴与此相对。写"
+      },
+      {
+        "text": "元",
+        "page": 50,
+        "source": "ocr",
+        "context": "RCRIT, AATEC\n\n图二六。 开元新河北址工平面天\n\n部分遗物可能是宁\n\n"
+      },
+      {
+        "text": "元",
+        "page": 51,
+        "source": "ocr",
+        "context": "ED WES FLAR)He\n\n“自(并元) 新并河东口(按: MASA, BER"
+      },
+      {
+        "text": "元",
+        "page": 51,
+        "source": "ocr",
+        "context": "b= Me; ee REE 外定只五\n\n元符中,大水司三站,一\n\n"
+      },
+      {
+        "text": "明",
+        "page": 52,
+        "source": "ocr",
+        "context": "AE\n殿一盘(疾版僚陵,1)。殿内外还有明清以降的碑记 14 通。成化山\n“BEM"
+      },
+      {
+        "text": "清",
+        "page": 52,
+        "source": "ocr",
+        "context": "E\n殿一盘(疾版僚陵,1)。殿内外还有明清以降的碑记 14 通。成化山\n“BEM,"
+      },
+      {
+        "text": "元",
+        "page": 52,
+        "source": "ocr",
+        "context": "EE PLR, RAMEY AGA s 元至元大年,者\n民王成表征修之; BIE "
+      },
+      {
+        "text": "元",
+        "page": 52,
+        "source": "ocr",
+        "context": " PLR, RAMEY AGA s 元至元大年,者\n民王成表征修之; BIE A "
+      },
+      {
+        "text": "金",
+        "page": 52,
+        "source": "ocr",
+        "context": " Ee SLABS EIDL, 大多是在金、元或\nFEW ZR, ADE A FI"
+      },
+      {
+        "text": "元",
+        "page": 52,
+        "source": "ocr",
+        "context": "e SLABS EIDL, 大多是在金、元或\nFEW ZR, ADE A FIR "
+      },
+      {
+        "text": "唐",
+        "page": 52,
+        "source": "ocr",
+        "context": " MR, AA\nFAB, REA.\n前述唐、 罕灰层在人门岛的最高案, ELE “"
+      },
+      {
+        "text": "唐",
+        "page": 53,
+        "source": "ocr",
+        "context": "三、 北岸陆道全东西食址\n\n唐代并元让一年,售在三门北岸难山开道 18"
+      },
+      {
+        "text": "元",
+        "page": 53,
+        "source": "ocr",
+        "context": "三、 北岸陆道全东西食址\n\n唐代并元让一年,售在三门北岸难山开道 18 FE"
+      },
+      {
+        "text": "元",
+        "page": 53,
+        "source": "ocr",
+        "context": " REALE OE\n仁路名签污粮。德宗真元时期，又加修一条走回空车的上路吕。 过 "
+      },
+      {
+        "text": "唐",
+        "page": 53,
+        "source": "ocr",
+        "context": "R\n图二七 MRA) 。 外,还有少量的唐     盗质相同的器物,全在陕县\n\n的"
+      },
+      {
+        "text": "唐",
+        "page": 53,
+        "source": "ocr",
+        "context": "     盗质相同的器物,全在陕县\n\n的唐、宋昔中出土。五片和次片是散刻在第\n上,"
+      },
+      {
+        "text": "宋",
+        "page": 53,
+        "source": "ocr",
+        "context": "   盗质相同的器物,全在陕县\n\n的唐、宋昔中出土。五片和次片是散刻在第\n上,其范"
+      },
+      {
+        "text": "唐",
+        "page": 54,
+        "source": "ocr",
+        "context": "GHG, HO ALERTS 18 里,唐代的 1 里篇 540 米口,折合今日华"
+      },
+      {
+        "text": "唐",
+        "page": 54,
+        "source": "ocr",
+        "context": "以西 3.4 里左右。下念\n遗址时代饶局唐代, 里程亦大体符合, 而其地名双似与售"
+      },
+      {
+        "text": "唐",
+        "page": 54,
+        "source": "ocr",
+        "context": "道路。二一带因受黄河衡刷,地形释化较大,唐代\nBRAVE,          SH"
+      },
+      {
+        "text": "唐",
+        "page": 54,
+        "source": "ocr",
+        "context": "aeHR “HAR”\n的情况不符,也不是唐代谷道。唯一保留着唐代华道的部分,只是三"
+      },
+      {
+        "text": "唐",
+        "page": 54,
+        "source": "ocr",
+        "context": "\n的情况不符,也不是唐代谷道。唯一保留着唐代华道的部分,只是三门峡地区内短短的一\n"
+      },
+      {
+        "text": "金",
+        "page": 54,
+        "source": "ocr",
+        "context": "版肆抢, 2)。 题烈的年代，T35 篇金代，T30一32 与\nT34 大狗需北来"
+      },
+      {
+        "text": "金",
+        "page": 54,
+        "source": "ocr",
+        "context": "，T30一32 与\nT34 大狗需北来或金代,其允是明代门。道路饶然早於是歼,或序"
+      },
+      {
+        "text": "明",
+        "page": 54,
+        "source": "ocr",
+        "context": "2 与\nT34 大狗需北来或金代,其允是明代门。道路饶然早於是歼,或序唐代敬道。而"
+      },
+      {
+        "text": "唐",
+        "page": 54,
+        "source": "ocr",
+        "context": "代,其允是明代门。道路饶然早於是歼,或序唐代敬道。而且在它东\nTOPE AG NS"
+      },
+      {
+        "text": "元",
+        "page": 54,
+        "source": "ocr",
+        "context": "坡,形似山峡,其两壁岩石错落的\n形状和开元新河河双相同, 极似同一时代的手法〈图版"
+      },
+      {
+        "text": "元",
+        "page": 56,
+        "source": "ocr",
+        "context": "正始,以正始作年喧有三砍:曹魏帮王芳(公元240一\n24928) (ME BSR "
+      },
+      {
+        "text": "北魏",
+        "page": 56,
+        "source": "ocr",
+        "context": "BSR (ATE 407一409 年)和北魏宣武帝(公元 504一508 年)。过段"
+      },
+      {
+        "text": "元",
+        "page": 56,
+        "source": "ocr",
+        "context": "E 407一409 年)和北魏宣武帝(公元 504一508 年)。过段题草,字存\n"
+      },
+      {
+        "text": "三国",
+        "page": 56,
+        "source": "ocr",
+        "context": "后税则在昔容宝时期已囊失中原,所以应当是三国时期的题剂(拓\non\n(3) AV EE"
+      },
+      {
+        "text": "元",
+        "page": 57,
+        "source": "ocr",
+        "context": "门 峡 油 到 遗 踊\n\n武帝年号 (公元 280一289 年)。\nT3: “AU"
+      },
+      {
+        "text": "元",
+        "page": 57,
+        "source": "ocr",
+        "context": "乃丁天成,罗是丁书才的字，其题名示见於开元新河雨岸(开西\nT5、开东T19、开东T"
+      },
+      {
+        "text": "唐",
+        "page": 57,
+        "source": "ocr",
+        "context": "片估一三)。题歼中的\"朝散\n大夫\"是险,唐,北泉与金代官制中的文散官,据此可知坊元"
+      },
+      {
+        "text": "金",
+        "page": 57,
+        "source": "ocr",
+        "context": "。题歼中的\"朝散\n大夫\"是险,唐,北泉与金代官制中的文散官,据此可知坊元代以前的题"
+      },
+      {
+        "text": "元",
+        "page": 57,
+        "source": "ocr",
+        "context": "唐,北泉与金代官制中的文散官,据此可知坊元代以前的题记\n\nT11:\"君子之\"\"刊惑"
+      },
+      {
+        "text": "北魏",
+        "page": 58,
+        "source": "ocr",
+        "context": "T CASTE 354—355 年) ,北魏文成帝(公元 460一465 ccna "
+      },
+      {
+        "text": "元",
+        "page": 58,
+        "source": "ocr",
+        "context": " 354—355 年) ,北魏文成帝(公元 460一465 ccna an\nHb,"
+      },
+      {
+        "text": "春秋",
+        "page": 58,
+        "source": "ocr",
+        "context": "         山东省。山东\n的平除在春秋时期属查国。左，            "
+      },
+      {
+        "text": "唐",
+        "page": 59,
+        "source": "ocr",
+        "context": "OR”\n是残留下的痕中(拓片杀二O〇)。唐代初年, SPUN EIR, BULA,"
+      },
+      {
+        "text": "明",
+        "page": 59,
+        "source": "ocr",
+        "context": "RATE        府。\nT7:“景明四年三月十大日\"。\nSABE 1 行。字"
+      },
+      {
+        "text": "明",
+        "page": 59,
+        "source": "ocr",
+        "context": "行。字径狗 2,通高 20 厘米。其中\"明\"字在“四年\"2字右侧, (LL SET"
+      },
+      {
+        "text": "明",
+        "page": 59,
+        "source": "ocr",
+        "context": "ET AR\nHIRO).\nTs:  “景明，全a\nSIE 1 行。字径 6 IAO"
+      },
+      {
+        "text": "明",
+        "page": 59,
+        "source": "ocr",
+        "context": "LET 7、T 8 SIAL, 亦应局景明时期\nPRIN HGR 09),\nT11"
+      },
+      {
+        "text": "唐",
+        "page": 60,
+        "source": "ocr",
+        "context": "  teseFHee\nRy 人\n: “大唐重拱四年]正月十大日,上4柱国马大访当]"
+      },
+      {
+        "text": "元",
+        "page": 61,
+        "source": "ocr",
+        "context": ": HORI), EWR\n的题名膛见帮开元新河东岸(开东下 18)。“提举三站莹迷"
+      },
+      {
+        "text": "宋",
+        "page": 61,
+        "source": "ocr",
+        "context": "岸(开东下 18)。“提举三站莹迷\"是北宋发在三门的清迷官,如\n货\"第四十五(北京"
+      },
+      {
+        "text": "清",
+        "page": 61,
+        "source": "ocr",
+        "context": "18)。“提举三站莹迷\"是北宋发在三门的清迷官,如\n货\"第四十五(北京图书馆景印徐"
+      },
+      {
+        "text": "宋",
+        "page": 62,
+        "source": "ocr",
+        "context": "米 GR BRDD IL). FALE\n宋、金的题名。\n工10:\"转修武校]奸]\""
+      },
+      {
+        "text": "金",
+        "page": 62,
+        "source": "ocr",
+        "context": "GR BRDD IL). FALE\n宋、金的题名。\n工10:\"转修武校]奸]\"。\n"
+      },
+      {
+        "text": "明",
+        "page": 62,
+        "source": "ocr",
+        "context": "20 厘米(拓片录五O)。\n下11:“大明洪武十年二月初几日,索]中书省差团合郭项"
+      },
+      {
+        "text": "明",
+        "page": 62,
+        "source": "ocr",
+        "context": "12:\"口如,向春响答惠民、吴1口、方簿明自集津齐外公香是、少融是院。] …\n…广"
+      },
+      {
+        "text": "明",
+        "page": 63,
+        "source": "ocr",
+        "context": ",似乱“禾\"旁,则上油年号必篇宣和。考秋明的题名还有并东T 18，亦\nDAES. "
+      },
+      {
+        "text": "金",
+        "page": 63,
+        "source": "ocr",
+        "context": "2 字只残\n存下中部,但确保\"定\"字。在金.元二代,武散官中均有“ 广威将军\"一衔"
+      },
+      {
+        "text": "元",
+        "page": 63,
+        "source": "ocr",
+        "context": "字只残\n存下中部,但确保\"定\"字。在金.元二代,武散官中均有“ 广威将军\"一衔,而"
+      },
+      {
+        "text": "宋",
+        "page": 63,
+        "source": "ocr",
+        "context": "通寅 62 厘米 (拓片隶五九)。 在北宋未至南\nRAEN RUE RIM, 题名"
+      },
+      {
+        "text": "元",
+        "page": 64,
+        "source": "ocr",
+        "context": " 0\n籍碑叫售列其名; 其事略可参陆心源元入辣人传父四〈光糙陆氏家鹿本) SLA\n"
+      },
+      {
+        "text": "明",
+        "page": 64,
+        "source": "ocr",
+        "context": ",分别烈在两处岩属上 (拓片录太七)。皇明\n\nDE.\n\nPBC,         "
+      },
+      {
+        "text": "金",
+        "page": 64,
+        "source": "ocr",
+        "context": "\n\nE翰在洪武十七年游三四，则约坊北来或金代所够。\n (1) &    IP EL"
+      },
+      {
+        "text": "明",
+        "page": 65,
+        "source": "ocr",
+        "context": " 43,通宽 28 厘米(拓片录太九)。明代自洪武七年起，\nSY BRE\", 所以"
+      },
+      {
+        "text": "明",
+        "page": 65,
+        "source": "ocr",
+        "context": " 2。\n昭王锡、j吴行中勉|道,方喝伙J明。宣和庚子季春六有日同游| \"。\n。字径"
+      },
+      {
+        "text": "元",
+        "page": 65,
+        "source": "ocr",
+        "context": "j游此,口水势甚口,j口目王国国口题,部元之捧砚\"。\n行书7 行,左行。字径钓 8"
+      },
+      {
+        "text": "宋",
+        "page": 65,
+        "source": "ocr",
+        "context": ".65,通宽 65 厘米(拓片录七四)。宋代有王对字定国，\n篇元入\nEEE, BU"
+      },
+      {
+        "text": "元",
+        "page": 65,
+        "source": "ocr",
+        "context": "米(拓片录七四)。宋代有王对字定国，\n篇元入\nEEE, BUN A, CARN, "
+      },
+      {
+        "text": "明",
+        "page": 65,
+        "source": "ocr",
+        "context": "0, 通寅 70 厘米(拓片全七五)。 明史矢二〇:\nSEAN HESS EIR "
+      },
+      {
+        "text": "宋",
+        "page": 66,
+        "source": "ocr",
+        "context": "65,通宽 76 厘米(拓片录七六)。\n宋廷优坊正德大年进士,正德八年至十二年\"清"
+      },
+      {
+        "text": "清",
+        "page": 66,
+        "source": "ocr",
+        "context": "宋廷优坊正德大年进士,正德八年至十二年\"清军山西\" 口,置鹿正是彼时所留。\n\nT "
+      },
+      {
+        "text": "金",
+        "page": 66,
+        "source": "ocr",
+        "context": "TOL, | BUN PAGE CE] 金门\n山上| 。\n\nSY 7 行,左行。字"
+      },
+      {
+        "text": "唐",
+        "page": 66,
+        "source": "ocr",
+        "context": "米 (图版参肆, 4; 拓片全七八)。盛唐\n时期称人门篇金门,金代改名人门,而至明"
+      },
+      {
+        "text": "金",
+        "page": 66,
+        "source": "ocr",
+        "context": " 4; 拓片全七八)。盛唐\n时期称人门篇金门,金代改名人门,而至明洪武时期已不知夜"
+      },
+      {
+        "text": "金",
+        "page": 66,
+        "source": "ocr",
+        "context": " 拓片全七八)。盛唐\n时期称人门篇金门,金代改名人门,而至明洪武时期已不知夜叉站与"
+      },
+      {
+        "text": "明",
+        "page": 66,
+        "source": "ocr",
+        "context": "唐\n时期称人门篇金门,金代改名人门,而至明洪武时期已不知夜叉站与金门命名的由来中\n"
+      },
+      {
+        "text": "金",
+        "page": 66,
+        "source": "ocr",
+        "context": "代改名人门,而至明洪武时期已不知夜叉站与金门命名的由来中\n是金代以前的题记;而其字"
+      },
+      {
+        "text": "金",
+        "page": 66,
+        "source": "ocr",
+        "context": "武时期已不知夜叉站与金门命名的由来中\n是金代以前的题记;而其字体不类唐人书风,或需"
+      },
+      {
+        "text": "唐",
+        "page": 66,
+        "source": "ocr",
+        "context": "的由来中\n是金代以前的题记;而其字体不类唐人书风,或需北末所鲍。\n\n:永乐元年四月"
+      },
+      {
+        "text": "元",
+        "page": 66,
+        "source": "ocr",
+        "context": "体不类唐人书风,或需北末所鲍。\n\n:永乐元年四月]初坟日,]内宣口同在口口口口口到"
+      },
+      {
+        "text": "金",
+        "page": 67,
+        "source": "ocr",
+        "context": "ERAS)\nT32:\"“南款乐山,|北紫金山] ”。\nJOR 2 47. SPAN"
+      },
+      {
+        "text": "明",
+        "page": 67,
+        "source": "ocr",
+        "context": "53，通宽 33 厘米(拓片全八四)。 明昌精深野先生\n矢十六秽底柱刀(嘉靖三十四"
+      },
+      {
+        "text": "金",
+        "page": 67,
+        "source": "ocr",
+        "context": "昌刊本):\n\n到中便提到“至险\n\n所裔紫金山,乃指人门左岸一带的山举。\n733: "
+      },
+      {
+        "text": "金",
+        "page": 67,
+        "source": "ocr",
+        "context": "赣州等地昔“义军\"锁压西南族少数民族,而金未则在中原\n一带招募\"义军\"企图穆延七喘"
+      },
+      {
+        "text": "金",
+        "page": 67,
+        "source": "ocr",
+        "context": ",所以过段题列据\"前解州义备\"一句,知坊金末所留。\nSRE 4行,左行。字径锡7,"
+      },
+      {
+        "text": "金",
+        "page": 67,
+        "source": "ocr",
+        "context": "AI ME, BET PLL RE, 千金告有]垂堂戒,星我胡, 局向此\n\n[1]"
+      },
+      {
+        "text": "唐",
+        "page": 68,
+        "source": "ocr",
+        "context": " 90，通宽 55 厘米(拓片录九二)。唐代经常修治三\nIe, SEER B= P"
+      },
+      {
+        "text": "元",
+        "page": 68,
+        "source": "ocr",
+        "context": ", 通宽 40 厘米。\nTS: “丁丁上元j口王且】。\n\nSER 2 行,左行。字"
+      },
+      {
+        "text": "清",
+        "page": 69,
+        "source": "ocr",
+        "context": "] 高邮州州利\n朱国标,条建莆田人。j大清乾隆三十二年春月 日]\"。\nSOR SA"
+      },
+      {
+        "text": "清",
+        "page": 69,
+        "source": "ocr",
+        "context": " MEL aE, 漫道可」 通舟。」 大清康\nBARE ERK, | MORALS"
+      },
+      {
+        "text": "唐",
+        "page": 70,
+        "source": "ocr",
+        "context": "+\n谓之底柱。柱之上流不百步日三站。 当唐虞秋,活水洱温,九有一埃，,民其急著,成"
+      },
+      {
+        "text": "唐",
+        "page": 70,
+        "source": "ocr",
+        "context": "而民无壬鹏，府事修治而世\n享其利奖。以故唐天宝二年车民梁友仁,三惟函关门之动宋, "
+      },
+      {
+        "text": "宋",
+        "page": 70,
+        "source": "ocr",
+        "context": "以故唐天宝二年车民梁友仁,三惟函关门之动宋, 始构腐於柱、 门之北\n山引元至元大年"
+      },
+      {
+        "text": "元",
+        "page": 70,
+        "source": "ocr",
+        "context": "关门之动宋, 始构腐於柱、 门之北\n山引元至元大年, 者民王成责稳修之; 至正二十"
+      },
+      {
+        "text": "元",
+        "page": 70,
+        "source": "ocr",
+        "context": "之动宋, 始构腐於柱、 门之北\n山引元至元大年, 者民王成责稳修之; 至正二十六年"
+      },
+      {
+        "text": "元",
+        "page": 70,
+        "source": "ocr",
+        "context": "之; 至正二十六年， 李良甫重修之; 既元末世内兵\nBE MASSE TM AE "
+      },
+      {
+        "text": "元",
+        "page": 72,
+        "source": "ocr",
+        "context": "世永地' 者何在?和途速疯于斯,则有若开元\naL RELL SPA Fe ER B"
+      },
+      {
+        "text": "清",
+        "page": 73,
+        "source": "ocr",
+        "context": "L I 染司刑、梁建\n孝、]妆德合。|大清道      FE BL, M090\" "
+      },
+      {
+        "text": "唐",
+        "page": 76,
+        "source": "ocr",
+        "context": " ARDC Get Ry 同时,又找到了唐代的\nDer A ee GN eee C"
+      },
+      {
+        "text": "春秋",
+        "page": 77,
+        "source": "ocr",
+        "context": "魄。\n\n1. 地名沿划\n信公二年:\n\n在春秋时期,已经把三门峡叶做三站,如\n\n“RA"
+      },
+      {
+        "text": "金",
+        "page": 77,
+        "source": "ocr",
+        "context": "0, PH i eS Bs» ACPA\n金门与夜叉门二名逐渐丢人门奥圳门所代替-和"
+      },
+      {
+        "text": "明",
+        "page": 77,
+        "source": "ocr",
+        "context": "与夜叉门二名逐渐丢人门奥圳门所代替-和皇明文衡等三十一王蛤\n\n"
+      },
+      {
+        "text": "明",
+        "page": 78,
+        "source": "ocr",
+        "context": "AER EL AE, BENS, 大狗在明代以后，\nHS ICEE Sh 119 "
+      },
+      {
+        "text": "金",
+        "page": 78,
+        "source": "ocr",
+        "context": "E RBI FCHE HLT\n\n此外:在金代以后，远售名杭糙训乱老君炉,开元新河乱"
+      },
+      {
+        "text": "元",
+        "page": 78,
+        "source": "ocr",
+        "context": "外:在金代以后，远售名杭糙训乱老君炉,开元新河乱公主河。 FEN SE OS SE"
+      },
+      {
+        "text": "宋",
+        "page": 78,
+        "source": "ocr",
+        "context": "ELIA” See PLAT\n\n芬楼景印宋黄善夫刊本)。\n\ncay    Fe D"
+      },
+      {
+        "text": "北魏",
+        "page": 80,
+        "source": "ocr",
+        "context": "工程,在当时只能是一个美根的幻想而已。\n北魏时期,三四峡水过不通。在孝文帝脖者洛阳合"
+      },
+      {
+        "text": "元",
+        "page": 81,
+        "source": "ocr",
+        "context": ", TNA\n\n3. Me HE a\n\n公元 577 $y ACNE ACH BE "
+      },
+      {
+        "text": "元",
+        "page": 81,
+        "source": "ocr",
+        "context": "BENIN PD MEI FT +\n\n公元 589-46 ACHAT BRBML,"
+      },
+      {
+        "text": "唐",
+        "page": 82,
+        "source": "ocr",
+        "context": "石的船焦通过三门(据人可段耻6),揭开了唐代在:\n\nMS We SE fy\n\nAy"
+      },
+      {
+        "text": "元",
+        "page": 82,
+        "source": "ocr",
+        "context": "E TORRE MINA). 所以伦显厌元年起, AT AE EST\n唐会要矢八十"
+      },
+      {
+        "text": "唐",
+        "page": 82,
+        "source": "ocr",
+        "context": "所以伦显厌元年起, AT AE EST\n唐会要矢八十七:\n\n“显庆元年十月,苑面西"
+      },
+      {
+        "text": "元",
+        "page": 82,
+        "source": "ocr",
+        "context": "AE EST\n唐会要矢八十七:\n\n“显庆元年十月,苑面西辟褚朗请开底柱三门,整山架"
+      },
+      {
+        "text": "唐",
+        "page": 83,
+        "source": "ocr",
+        "context": "BELLA\nA     四年便告天折。新唐书汰五十三食货志:\n\n“SRAEAT A"
+      },
+      {
+        "text": "元",
+        "page": 83,
+        "source": "ocr",
+        "context": "\n国货也极雄厚，在过两种条件转合下，训并元二十九年冬迁行了一项规模极乱互大的工\nA"
+      },
+      {
+        "text": "明",
+        "page": 84,
+        "source": "ocr",
+        "context": "宝中,上以三站(按:“门\"字据二古栓最印明刊百川纤海本博)河道险束，污到对\n奴,乃"
+      },
+      {
+        "text": "元",
+        "page": 84,
+        "source": "ocr",
+        "context": "ee\nALRENEAL, TEU —\n并元初每年篇作二万石,以后逐\nWAI, BA"
+      },
+      {
+        "text": "唐",
+        "page": 85,
+        "source": "ocr",
+        "context": "—\n般只有数十万石上\n\n德宗建中二年起,唐王朝相机与李正\n\nai:\n\nse ENE"
+      },
+      {
+        "text": "宋",
+        "page": 86,
+        "source": "ocr",
+        "context": "L MA A A\n\nHHT 0\n4, 北宋以和后\n\nSOB FBLA ACT HU"
+      },
+      {
+        "text": "元",
+        "page": 87,
+        "source": "ocr",
+        "context": ", SLAG T\n\n故。\n至仁宗时期,趋元昊自称皇希,立国西夏, CEA RET "
+      },
+      {
+        "text": "唐",
+        "page": 88,
+        "source": "ocr",
+        "context": "天顺、弘治年间\n建议实行\"倒售\"之法(即唐代分节转运之法)来增加漠到。但没有实行。"
+      },
+      {
+        "text": "元",
+        "page": 88,
+        "source": "ocr",
+        "context": "IE AT Lo 或谓古有月河(按:指开元新河),今石奢中此无形影可求\"。\nSEC"
+      },
+      {
+        "text": "唐",
+        "page": 89,
+        "source": "ocr",
+        "context": "段群外的试航妈录,使我们可进一步晾解小、唐时期三门尿弟的情况， 写襄明故代咕认\n三"
+      },
+      {
+        "text": "明",
+        "page": 89,
+        "source": "ocr",
+        "context": "一步晾解小、唐时期三门尿弟的情况， 写襄明故代咕认\n三站水程郁险的言论,契非访张。"
+      },
+      {
+        "text": "唐",
+        "page": 90,
+        "source": "ocr",
+        "context": "下的经验的基础上,改堆栈道。\n\n二.隆、唐时期”由亦东南地区径济的发展，汪运粮大大"
+      },
+      {
+        "text": "元",
+        "page": 90,
+        "source": "ocr",
+        "context": "的楼滋，\n另外又并整了北岸十信里际道和并元新河。\n\nSARI RS Ae EWHI"
+      },
+      {
+        "text": "清",
+        "page": 91,
+        "source": "ocr",
+        "context": "(i 清 eC 中\n\n附录二: 河心诸岛的仰韶."
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "基址",
+        "page": 8,
+        "source": "ocr",
+        "context": "ML DRL OLA\n套臣”开元新河西岸基址工柱穴\n\nAe pCR\n\n套肆”开元新河"
+      },
+      {
+        "text": "基址",
+        "page": 50,
+        "source": "ocr",
+        "context": "以前所如\n\nANG ATER\n\n(2) 基址工\n\n开元新河西岸(即人门岛)的南定\n部"
+      },
+      {
+        "text": "基址",
+        "page": 50,
+        "source": "ocr",
+        "context": "中(图版参壹,1;图二五)。\n\n(3) 基址工\n明元新河西岸的北企部,亦有一\n片平地"
+      },
+      {
+        "text": "基址",
+        "page": 51,
+        "source": "ocr",
+        "context": "门 峡 注 到 得 中\n\n基址工柱穴登甩表 《单位起厘米)\n\n司局光 "
+      },
+      {
+        "text": "基址",
+        "page": 52,
+        "source": "ocr",
+        "context": "恰又分\n作在周围,所以过是本认奥并化寺的基址上无疑。但是,那一个是开化寺,那一个是函"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "S20",
+        "page": 9,
+        "source": "ocr",
+        "context": "\nATK 2B it SCT +++\n\nS20 BER SCT\nATG RAPE AR"
+      },
+      {
+        "text": "T2",
+        "page": 12,
+        "source": "ocr",
+        "context": "EAS A IEE TL, AVIRE T2, AVIRE TS, AVIEE TH"
+      },
+      {
+        "text": "T7",
+        "page": 12,
+        "source": "ocr",
+        "context": "TS, AVIEE TO, AVIBE T7, AVIBETS, AVIEET9, "
+      },
+      {
+        "text": "T3",
+        "page": 12,
+        "source": "ocr",
+        "context": "9, AVIEE TIL, AVIEE T3, bP\nT2, DAME T3(矢见下"
+      },
+      {
+        "text": "T2",
+        "page": 12,
+        "source": "ocr",
+        "context": "E TIL, AVIEE T3, bP\nT2, DAME T3(矢见下文“摩央是列导"
+      },
+      {
+        "text": "T3",
+        "page": 12,
+        "source": "ocr",
+        "context": "IEE T3, bP\nT2, DAME T3(矢见下文“摩央是列导碑记”)。 另外,"
+      },
+      {
+        "text": "G38",
+        "page": 24,
+        "source": "ocr",
+        "context": ", ZETA EP RE EAR\nAS G38, PHT SRR A, BELA V "
+      },
+      {
+        "text": "D4",
+        "page": 38,
+        "source": "ocr",
+        "context": "     各    Ld        D4        wy\n\n1   5   "
+      },
+      {
+        "text": "T5",
+        "page": 43,
+        "source": "ocr",
+        "context": "元年(公元150\n年) 的一段(人出段 T5); Jt, SL AAVA 9 Be "
+      },
+      {
+        "text": "T5",
+        "page": 43,
+        "source": "ocr",
+        "context": "上, 6 号方形公孔打破了甘露五年题取(T5)。\n     ae ORG EA 一句"
+      },
+      {
+        "text": "T12",
+        "page": 51,
+        "source": "ocr",
+        "context": "UER AHR, BZN” (BANE T12).,\n\n“POT WF WIN ACA"
+      },
+      {
+        "text": "T8",
+        "page": 51,
+        "source": "ocr",
+        "context": "G Ae = HAH HRCA VBE T8)5\nDA Be A AN AT 1 段"
+      },
+      {
+        "text": "T35",
+        "page": 54,
+        "source": "ocr",
+        "context": "所够刻(图版肆抢, 2)。 题烈的年代，T35 篇金代，T30一32 与\nT34 大狗"
+      },
+      {
+        "text": "T34",
+        "page": 54,
+        "source": "ocr",
+        "context": "年代，T35 篇金代，T30一32 与\nT34 大狗需北来或金代,其允是明代门。道路饶"
+      },
+      {
+        "text": "T2",
+        "page": 56,
+        "source": "ocr",
+        "context": "ER 12 BOKGHIT SEX).\nT2: “a Boke | 7648 IF)"
+      },
+      {
+        "text": "T3",
+        "page": 57,
+        "source": "ocr",
+        "context": "帝年号 (公元 280一289 年)。\nT3: “AUER AMM eee A”.\n"
+      },
+      {
+        "text": "T4",
+        "page": 57,
+        "source": "ocr",
+        "context": "S MAA, 33 TRIER) 0\n\nT4: “Ho\nSE 12, 8 4 DR "
+      },
+      {
+        "text": "T8",
+        "page": 57,
+        "source": "ocr",
+        "context": "3, WOR SHIT BR— O)o\nT8: “OTF NGS MERIC. | "
+      },
+      {
+        "text": "T5",
+        "page": 57,
+        "source": "ocr",
+        "context": "才的字，其题名示见於开元新河雨岸(开西\nT5、开东T19、开东T38)。\n\nTo: "
+      },
+      {
+        "text": "T11",
+        "page": 57,
+        "source": "ocr",
+        "context": "中的文散官,据此可知坊元代以前的题记\n\nT11:\"君子之\"\"刊惑得口口笔\"\"十居同口九"
+      },
+      {
+        "text": "T1",
+        "page": 57,
+        "source": "ocr",
+        "context": "RI HSK) 0\n(4) 人页段题鹿\nT1:“大康二年,]j木贺口偷、j石工天同造"
+      },
+      {
+        "text": "D6",
+        "page": 58,
+        "source": "ocr",
+        "context": "O CEBLRE: EER, NIRA D6”\n\nmaker ARE BTM a\n\n"
+      },
+      {
+        "text": "T7",
+        "page": 59,
+        "source": "ocr",
+        "context": "AF, ARATE        府。\nT7:“景明四年三月十大日\"。\nSABE 1"
+      },
+      {
+        "text": "T10",
+        "page": 59,
+        "source": "ocr",
+        "context": " AF ALA A RAPE, HEA\nT10:\" ROMS AHAB\".\nDEI A"
+      },
+      {
+        "text": "T11",
+        "page": 59,
+        "source": "ocr",
+        "context": "局景明时期\nPRIN HGR 09),\nT11:“不篇公涉此]闪者非忠臣,j需私涉此内"
+      },
+      {
+        "text": "T4",
+        "page": 61,
+        "source": "ocr",
+        "context": "狗都是那软工程中留下的(拓片录三八)c\nT4: “三日\"。\nPEL FT. PUB "
+      },
+      {
+        "text": "T3",
+        "page": 63,
+        "source": "ocr",
+        "context": " 5H 26 MDRGR HERE).\nT3:  “CRORE Ae DE 9 Be"
+      },
+      {
+        "text": "T14",
+        "page": 64,
+        "source": "ocr",
+        "context": "A)o\n\n张保源的题名温有并东T 8。\nT14:“忠j孝上 >\nSea, “ARSE "
+      },
+      {
+        "text": "T15",
+        "page": 65,
+        "source": "ocr",
+        "context": "三 门 we wm\nT15:\"“陕洛捕塞石灶和公美到j此。敲知庚子"
+      },
+      {
+        "text": "T17",
+        "page": 65,
+        "source": "ocr",
+        "context": "\nSY BRE\", 所以在此修建会房。\nT17:“陈锡 RO BEE\".\n通高 50 "
+      },
+      {
+        "text": "T21",
+        "page": 65,
+        "source": "ocr",
+        "context": "93，通宽\n110厘米(拓片录七三)o\nT21 FOS. FOIOGZ tte OO "
+      },
+      {
+        "text": "T28",
+        "page": 66,
+        "source": "ocr",
+        "context": "120 厘米(图版套伍,3)(未拓)o\nT28 ALA IA ASABE ACRE o"
+      },
+      {
+        "text": "M2",
+        "page": 66,
+        "source": "ocr",
+        "context": "3D A LJ”\n\nSE 4 FAR. M2 FPA, MY 35 厘米, ENKI"
+      },
+      {
+        "text": "T32",
+        "page": 67,
+        "source": "ocr",
+        "context": "高 70 EDK GRIT ERAS)\nT32:\"“南款乐山,|北紫金山] ”。\nJO"
+      },
+      {
+        "text": "T32",
+        "page": 67,
+        "source": "ocr",
+        "context": " ERR SEMAN AC, CNEL\nT32—T 34 LIER LE, 其字体又都"
+      },
+      {
+        "text": "T37",
+        "page": 67,
+        "source": "ocr",
+        "context": "高 41,通寅 34 ORG RA ©\nT37:\"加靖乙卯冬备,]宇内」大观。j陈斐书"
+      },
+      {
+        "text": "T2",
+        "page": 68,
+        "source": "ocr",
+        "context": "S AT\" EDL, ER RHEE,\nT2      FLA bo SUAS\nJR"
+      },
+      {
+        "text": "T3",
+        "page": 69,
+        "source": "ocr",
+        "context": "5 厘米(疼版臣壹,4:拓片鱼九四)o\nT3: “天     本险, Be) HEM"
+      },
+      {
+        "text": "T6",
+        "page": 72,
+        "source": "ocr",
+        "context": "RAC A ADH Bw) OD BB\nT6,\n\n“RANTLE TIRE” LLU"
+      },
+      {
+        "text": "S65",
+        "page": 72,
+        "source": "ocr",
+        "context": "C 449, Pet:\n\n‘      S65 FUR) Blo JF UA HGH "
+      },
+      {
+        "text": "M090",
+        "page": 73,
+        "source": "ocr",
+        "context": "德合。|大清道      FE BL, M090\" 9\n“WATE AMIR MAS R"
+      },
+      {
+        "text": "P24",
+        "page": 77,
+        "source": "ocr",
+        "context": "I EE PHC 25), yan a\nP24 BAY )SL SPC AN EAM "
+      },
+      {
+        "text": "T2",
+        "page": 80,
+        "source": "ocr",
+        "context": "AGE, MP TS, tas 人工段 T2 CERI), AVERT 3 ESE\n"
+      },
+      {
+        "text": "M9",
+        "page": 157,
+        "source": "ocr",
+        "context": "AVRIL VD Up i M9 Cat HEF TA)        "
+      },
+      {
+        "text": "T267",
+        "page": 180,
+        "source": "ocr",
+        "context": "CRS AEE\n\n4. be V25, T267\n"
+      }
+    ],
+    "遗址名称": [
+      {
+        "text": "三门峡",
+        "page": 11,
+        "source": "ocr",
+        "context": "ES —\n段,两岸夹山,是峡谷的形势。到三门峡, lays ROR 4 2 JOE S"
+      },
+      {
+        "text": "三门峡",
+        "page": 11,
+        "source": "ocr",
+        "context": " 10 月24 日,黄河水岩考古工作除在三门峡水康区进行调查时，考古研究所\n夏亚副所长"
+      },
+      {
+        "text": "三门峡",
+        "page": 13,
+        "source": "ocr",
+        "context": "焦主要从此通\n58, 因此,自汉代以来在三门峡开苑的槛道, 其主要部分是在人门左岸， "
+      },
+      {
+        "text": "北朝",
+        "page": 15,
+        "source": "ocr",
+        "context": "的结构。\n\n此外,在楼道侧璧上还有大多是北朝时期的题名刻字一段。 过种侧壁上的石刻题"
+      },
+      {
+        "text": "陕县",
+        "page": 53,
+        "source": "ocr",
+        "context": "有少量的唐     盗质相同的器物,全在陕县\n\n的唐、宋昔中出土。五片和次片是散刻在"
+      },
+      {
+        "text": "三门峡",
+        "page": 54,
+        "source": "ocr",
+        "context": "假定瑶岩遗址确保集津念故址，则盒遗址应在三门峡以西 3.4 里左右。下念\n遗址时代饶局"
+      },
+      {
+        "text": "三门峡",
+        "page": 54,
+        "source": "ocr",
+        "context": "唐代谷道。唯一保留着唐代华道的部分,只是三门峡地区内短短的一\n段。\n\n在三门峡地区的过"
+      },
+      {
+        "text": "三门峡",
+        "page": 54,
+        "source": "ocr",
+        "context": "分,只是三门峡地区内短短的一\n段。\n\n在三门峡地区的过段小道旁过的右岩上,有开、东、T"
+      },
+      {
+        "text": "北朝",
+        "page": 56,
+        "source": "ocr",
+        "context": "行, PAE 4, 通高 8 厘米, 似北朝笔跨(拓片录一)。相同的题名膛见人论人了"
+      },
+      {
+        "text": "北魏",
+        "page": 56,
+        "source": "ocr",
+        "context": "BSR (ATE 407一409 年)和北魏宣武帝(公元 504一508 年)。过段"
+      },
+      {
+        "text": "北朝",
+        "page": 56,
+        "source": "ocr",
+        "context": "508 年)。过段题草,字存\n分总,不类北朝碑版,而后税则在昔容宝时期已囊失中原,所"
+      },
+      {
+        "text": "北魏",
+        "page": 58,
+        "source": "ocr",
+        "context": "T CASTE 354—355 年) ,北魏文成帝(公元 460一465 ccna "
+      },
+      {
+        "text": "山东",
+        "page": 58,
+        "source": "ocr",
+        "context": "一                   山东省。山东\n的平除在春秋时期属查国。左， "
+      },
+      {
+        "text": "山东",
+        "page": 58,
+        "source": "ocr",
+        "context": "                山东省。山东\n的平除在春秋时期属查国。左，     "
+      },
+      {
+        "text": "三门峡",
+        "page": 77,
+        "source": "ocr",
+        "context": " A OR, 企图征服过一天险。人\n们在三门峡进行的活动可以疝是需通济到而与自然进行门"
+      },
+      {
+        "text": "三门峡",
+        "page": 77,
+        "source": "ocr",
+        "context": "名沿划\n信公二年:\n\n在春秋时期,已经把三门峡叶做三站,如\n\n“RADAR, ACH,"
+      },
+      {
+        "text": "宣帝",
+        "page": 79,
+        "source": "ocr",
+        "context": "AART ARTY”\n这些计划失败后,到宣帝时, LALIT A AN NR, FO"
+      },
+      {
+        "text": "北魏",
+        "page": 80,
+        "source": "ocr",
+        "context": "工程,在当时只能是一个美根的幻想而已。\n北魏时期,三四峡水过不通。在孝文帝脖者洛阳合"
+      },
+      {
+        "text": "洛阳",
+        "page": 80,
+        "source": "ocr",
+        "context": "\n北魏时期,三四峡水过不通。在孝文帝脖者洛阳合,陕州以西的租调，是从陆路车逐\n\nXA"
+      },
+      {
+        "text": "洛阳",
+        "page": 82,
+        "source": "ocr",
+        "context": "。因而，京师需要输太的租绸，日丛增多。但洛阳至陕州，\n“PE FADES, SRE "
+      },
+      {
+        "text": "长安",
+        "page": 85,
+        "source": "ocr",
+        "context": "PEA, TA ART\n德宗且售含皇股出长安,洪带停顿。 ROTTER ee LSI"
+      },
+      {
+        "text": "三门峡",
+        "page": 87,
+        "source": "ocr",
+        "context": "-三门峡演 @ om oD\naS REE” OO"
+      },
+      {
+        "text": "宁夏",
+        "page": 88,
+        "source": "ocr",
+        "context": "三百万石失注江\n漠河,角苹西,自陕西转交宁夏、河州。\"\n\nBER AN ps Hb "
+      },
+      {
+        "text": "三门峡",
+        "page": 89,
+        "source": "ocr",
+        "context": "CSD ”由亦治钱技术的发展，揭并了修风三门峡的序幕。但对地形、\n水情缺乏认哉,以乱只"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "碗",
+        "page": 11,
+        "source": "ocr",
+        "context": "\n坚硬的岩石上街出了河醒,却留下许多大石碗然柱立河心:有些在河面以下;成篇明科;一"
+      },
+      {
+        "text": "豆",
+        "page": 35,
+        "source": "ocr",
+        "context": "    51    9    5 | 与豆孔 30 对正。\n4 [a    8 |"
+      },
+      {
+        "text": "盘",
+        "page": 52,
+        "source": "ocr",
+        "context": "ROY A LATENT, EAE\n殿一盘(疾版僚陵,1)。殿内外还有明清以降的碑"
+      },
+      {
+        "text": "环",
+        "page": 53,
+        "source": "ocr",
+        "context": "程据当地农民口述),使有一小片台地,三面环山，\nPATRI AK, ESLER C"
+      },
+      {
+        "text": "刀",
+        "page": 67,
+        "source": "ocr",
+        "context": "全八四)。 明昌精深野先生\n矢十六秽底柱刀(嘉靖三十四年于德昌刊本):\n\n到中便提"
+      },
+      {
+        "text": "刀",
+        "page": 71,
+        "source": "ocr",
+        "context": "大|尹\n甘泉开公志、嗓利洛川戎公哉借彰宜刀而邓以铝,故名之。铝日:北山芒若,河水汤"
+      },
+      {
+        "text": "刀",
+        "page": 75,
+        "source": "ocr",
+        "context": "迹,作此刀。广德二年鹿，\nZL, PAIR — I"
+      },
+      {
+        "text": "盘",
+        "page": 90,
+        "source": "ocr",
+        "context": "的理想。解放以后,党和政府,贷半公国人民盘订和实现着\n次仿的治黄规划,工人阶级正在"
+      },
+      {
+        "text": "刀",
+        "page": 92,
+        "source": "ocr",
+        "context": "用页岩婴成,形基略不规划,孔由两面织透,刀部\n夺帮(图版肆臣,1)。 过些石器和陶"
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T2",
+        "page": 12,
+        "source": "ocr",
+        "context": "EAS A IEE TL, AVIRE T2, AVIRE TS, AVIEE TH"
+      },
+      {
+        "text": "T7",
+        "page": 12,
+        "source": "ocr",
+        "context": "TS, AVIEE TO, AVIBE T7, AVIBETS, AVIEET9, "
+      },
+      {
+        "text": "T9",
+        "page": 12,
+        "source": "ocr",
+        "context": "E T7, AVIBETS, AVIEET9, AVIEE TIL, AVIEE T"
+      },
+      {
+        "text": "T3",
+        "page": 12,
+        "source": "ocr",
+        "context": "9, AVIEE TIL, AVIEE T3, bP\nT2, DAME T3(矢见下"
+      },
+      {
+        "text": "T2",
+        "page": 12,
+        "source": "ocr",
+        "context": "E TIL, AVIEE T3, bP\nT2, DAME T3(矢见下文“摩央是列导"
+      },
+      {
+        "text": "T3",
+        "page": 12,
+        "source": "ocr",
+        "context": "IEE T3, bP\nT2, DAME T3(矢见下文“摩央是列导碑记”)。 另外,"
+      },
+      {
+        "text": "T3",
+        "page": 24,
+        "source": "ocr",
+        "context": "。     212) 13) 15\n打破T3 (时器天年一 公元260 | 13 |"
+      },
+      {
+        "text": "T5",
+        "page": 43,
+        "source": "ocr",
+        "context": "元年(公元150\n年) 的一段(人出段 T5); Jt, SL AAVA 9 Be "
+      },
+      {
+        "text": "T5",
+        "page": 43,
+        "source": "ocr",
+        "context": "上, 6 号方形公孔打破了甘露五年题取(T5)。\n     ae ORG EA 一句"
+      },
+      {
+        "text": "T12",
+        "page": 51,
+        "source": "ocr",
+        "context": "UER AHR, BZN” (BANE T12).,\n\n“POT WF WIN ACA"
+      },
+      {
+        "text": "T8",
+        "page": 51,
+        "source": "ocr",
+        "context": "G Ae = HAH HRCA VBE T8)5\nDA Be A AN AT 1 段"
+      },
+      {
+        "text": "T27",
+        "page": 54,
+        "source": "ocr",
+        "context": "峡地区的过段小道旁过的右岩上,有开、东、T27一35 BRR, MRE, RAE\n道路"
+      },
+      {
+        "text": "T35",
+        "page": 54,
+        "source": "ocr",
+        "context": "所够刻(图版肆抢, 2)。 题烈的年代，T35 篇金代，T30一32 与\nT34 大狗"
+      },
+      {
+        "text": "T30",
+        "page": 54,
+        "source": "ocr",
+        "context": ", 2)。 题烈的年代，T35 篇金代，T30一32 与\nT34 大狗需北来或金代,其"
+      },
+      {
+        "text": "T34",
+        "page": 54,
+        "source": "ocr",
+        "context": "年代，T35 篇金代，T30一32 与\nT34 大狗需北来或金代,其允是明代门。道路饶"
+      },
+      {
+        "text": "T2",
+        "page": 56,
+        "source": "ocr",
+        "context": "ER 12 BOKGHIT SEX).\nT2: “a Boke | 7648 IF)"
+      },
+      {
+        "text": "T3",
+        "page": 57,
+        "source": "ocr",
+        "context": "帝年号 (公元 280一289 年)。\nT3: “AUER AMM eee A”.\n"
+      },
+      {
+        "text": "T4",
+        "page": 57,
+        "source": "ocr",
+        "context": "S MAA, 33 TRIER) 0\n\nT4: “Ho\nSE 12, 8 4 DR "
+      },
+      {
+        "text": "T8",
+        "page": 57,
+        "source": "ocr",
+        "context": "3, WOR SHIT BR— O)o\nT8: “OTF NGS MERIC. | "
+      },
+      {
+        "text": "T5",
+        "page": 57,
+        "source": "ocr",
+        "context": "才的字，其题名示见於开元新河雨岸(开西\nT5、开东T19、开东T38)。\n\nTo: "
+      },
+      {
+        "text": "T19",
+        "page": 57,
+        "source": "ocr",
+        "context": "题名示见於开元新河雨岸(开西\nT5、开东T19、开东T38)。\n\nTo: “PP”\n\n"
+      },
+      {
+        "text": "T38",
+        "page": 57,
+        "source": "ocr",
+        "context": "元新河雨岸(开西\nT5、开东T19、开东T38)。\n\nTo: “PP”\n\nFELR P"
+      },
+      {
+        "text": "T11",
+        "page": 57,
+        "source": "ocr",
+        "context": "中的文散官,据此可知坊元代以前的题记\n\nT11:\"君子之\"\"刊惑得口口笔\"\"十居同口九"
+      },
+      {
+        "text": "T1",
+        "page": 57,
+        "source": "ocr",
+        "context": "RI HSK) 0\n(4) 人页段题鹿\nT1:“大康二年,]j木贺口偷、j石工天同造"
+      },
+      {
+        "text": "T7",
+        "page": 59,
+        "source": "ocr",
+        "context": "AF, ARATE        府。\nT7:“景明四年三月十大日\"。\nSABE 1"
+      },
+      {
+        "text": "T10",
+        "page": 59,
+        "source": "ocr",
+        "context": " AF ALA A RAPE, HEA\nT10:\" ROMS AHAB\".\nDEI A"
+      },
+      {
+        "text": "T11",
+        "page": 59,
+        "source": "ocr",
+        "context": "局景明时期\nPRIN HGR 09),\nT11:“不篇公涉此]闪者非忠臣,j需私涉此内"
+      },
+      {
+        "text": "T7",
+        "page": 60,
+        "source": "ocr",
+        "context": "E\nHo JIE ATA Bs\nSGM6T7e4T. PES 厘米,未尾 SER F"
+      },
+      {
+        "text": "T4",
+        "page": 61,
+        "source": "ocr",
+        "context": "狗都是那软工程中留下的(拓片录三八)c\nT4: “三日\"。\nPEL FT. PUB "
+      },
+      {
+        "text": "T3",
+        "page": 63,
+        "source": "ocr",
+        "context": " 5H 26 MDRGR HERE).\nT3:  “CRORE Ae DE 9 Be"
+      },
+      {
+        "text": "T14",
+        "page": 64,
+        "source": "ocr",
+        "context": "A)o\n\n张保源的题名温有并东T 8。\nT14:“忠j孝上 >\nSea, “ARSE "
+      },
+      {
+        "text": "T15",
+        "page": 65,
+        "source": "ocr",
+        "context": "三 门 we wm\nT15:\"“陕洛捕塞石灶和公美到j此。敲知庚子"
+      },
+      {
+        "text": "T17",
+        "page": 65,
+        "source": "ocr",
+        "context": "\nSY BRE\", 所以在此修建会房。\nT17:“陈锡 RO BEE\".\n通高 50 "
+      },
+      {
+        "text": "T8",
+        "page": 65,
+        "source": "ocr",
+        "context": "米(拓片杀七二)。丁天成的题记逮有人了段T8、\nPAT 5, BST 38 SBE."
+      },
+      {
+        "text": "T21",
+        "page": 65,
+        "source": "ocr",
+        "context": "93，通宽\n110厘米(拓片录七三)o\nT21 FOS. FOIOGZ tte OO "
+      },
+      {
+        "text": "T28",
+        "page": 66,
+        "source": "ocr",
+        "context": "120 厘米(图版套伍,3)(未拓)o\nT28 ALA IA ASABE ACRE o"
+      },
+      {
+        "text": "T32",
+        "page": 67,
+        "source": "ocr",
+        "context": "高 70 EDK GRIT ERAS)\nT32:\"“南款乐山,|北紫金山] ”。\nJO"
+      },
+      {
+        "text": "T32",
+        "page": 67,
+        "source": "ocr",
+        "context": " ERR SEMAN AC, CNEL\nT32—T 34 LIER LE, 其字体又都"
+      },
+      {
+        "text": "T37",
+        "page": 67,
+        "source": "ocr",
+        "context": "高 41,通寅 34 ORG RA ©\nT37:\"加靖乙卯冬备,]宇内」大观。j陈斐书"
+      },
+      {
+        "text": "T3",
+        "page": 67,
+        "source": "ocr",
+        "context": "堂戒,星我胡, 局向此\n\n[1] 参开来T3作[2] 所引念史兵志。\n\n一52一\n"
+      },
+      {
+        "text": "T2",
+        "page": 68,
+        "source": "ocr",
+        "context": "S AT\" EDL, ER RHEE,\nT2      FLA bo SUAS\nJR"
+      },
+      {
+        "text": "T3",
+        "page": 69,
+        "source": "ocr",
+        "context": "5 厘米(疼版臣壹,4:拓片鱼九四)o\nT3: “天     本险, Be) HEM"
+      },
+      {
+        "text": "T6",
+        "page": 72,
+        "source": "ocr",
+        "context": "RAC A ADH Bw) OD BB\nT6,\n\n“RANTLE TIRE” LLU"
+      },
+      {
+        "text": "T2",
+        "page": 80,
+        "source": "ocr",
+        "context": "AGE, MP TS, tas 人工段 T2 CERI), AVERT 3 ESE\n"
+      },
+      {
+        "text": "T7",
+        "page": 81,
+        "source": "ocr",
+        "context": "BE MCHN Ap MIM RERICT7, TS, To) 却反映出当时\nBe "
+      },
+      {
+        "text": "T11",
+        "page": 88,
+        "source": "ocr",
+        "context": "e OE LE = PATS, (扎开西T11 SUD T 27 )， ME RAT "
+      },
+      {
+        "text": "T20",
+        "page": 88,
+        "source": "ocr",
+        "context": "府事中害大夫则口口来三门巡视河道(氛并东T20);四十二年至四\nFEF, HEIR A"
+      },
+      {
+        "text": "T267",
+        "page": 180,
+        "source": "ocr",
+        "context": "CRS AEE\n\n4. be V25, T267\n"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": "长 625 米",
+        "page": 13,
+        "source": "ocr",
+        "context": "CES ARIE R TT REE\n地延长 625 米左右。人门岛一带河岸的高程在 283—2"
+      },
+      {
+        "text": "298 米",
+        "page": 13,
+        "source": "ocr",
+        "context": "米左右。人门岛一带河岸的高程在 283—298 米之间(用黄河流域规划委员会\n1955 年"
+      },
+      {
+        "text": "287 米",
+        "page": 13,
+        "source": "ocr",
+        "context": "TA. BERRA RE\n282.7 —287 米之间,平日露出於河面上, BEAVIS "
+      },
+      {
+        "text": " 282 米",
+        "page": 13,
+        "source": "ocr",
+        "context": " TT ARE, Ben KEY\n水面在 282 米左右需标准,过 10 多米,所以在岸上无"
+      },
+      {
+        "text": " 48 米",
+        "page": 13,
+        "source": "ocr",
+        "context": "REE RICH) ACT Bee AY 48 米。 底部台得很平, 5 A225 284"
+      },
+      {
+        "text": "\n284.8 米",
+        "page": 13,
+        "source": "ocr",
+        "context": "部台得很平, 5 A225 284.5—\n284.8 米: ISAS 0.2一2 KAN, AE"
+      },
+      {
+        "text": " 1.2 米",
+        "page": 13,
+        "source": "ocr",
+        "context": " ISAS 0.2一2 KAN, AEE 1.2 米左右;宽度仅 20 厘米的地方大概是由於"
+      },
+      {
+        "text": " 20 厘米",
+        "page": 13,
+        "source": "ocr",
+        "context": "KAN, AEE 1.2 米左右;宽度仅 20 厘米的地方大概是由於一部\n分根河的岩石崩落所"
+      },
+      {
+        "text": "11米",
+        "page": 14,
+        "source": "ocr",
+        "context": "LOK, HAL A BOREAS\n3一11米。 当时可能是在各孔间\nAESOP: D"
+      },
+      {
+        "text": " 1.4 米",
+        "page": 14,
+        "source": "ocr",
+        "context": "I, Mn 14、15、16 三孔就只在 1.4 米的长度内; 间距最\n大的如孔1 与孔 2"
+      },
+      {
+        "text": " 3.7 米",
+        "page": 14,
+        "source": "ocr",
+        "context": "; 间距最\n大的如孔1 与孔 2， 45 3.7 米。\n\n根据其它各段道上未完成的方形壁孔,"
+      },
+      {
+        "text": " 30 厘米",
+        "page": 15,
+        "source": "ocr",
+        "context": "               商出楼进中 30 厘米。\nAB, RDA, 2,\n\n© EL:"
+      },
+      {
+        "text": " 20 米",
+        "page": 16,
+        "source": "ocr",
+        "context": "图七。\n\n(2) 人工段\n\n在人工段以北 20 米左右。 楼道选的沙潍上有许多崩落的筷石，"
+      },
+      {
+        "text": "长 54 米",
+        "page": 16,
+        "source": "ocr",
+        "context": " (图版陵，2、4; 图版菠，4)。\n双长 54 米。樟道底寅 0.2一2 米, 一般在 1"
+      },
+      {
+        "text": "2 米",
+        "page": 16,
+        "source": "ocr",
+        "context": ")。\n双长 54 米。樟道底寅 0.2一2 米, 一般在 1.2 米左右: RFRA "
+      },
+      {
+        "text": " 1.2 米",
+        "page": 16,
+        "source": "ocr",
+        "context": " 米。樟道底寅 0.2一2 米, 一般在 1.2 米左右: RFRA 284一285.5 米"
+      },
+      {
+        "text": "285.5 米",
+        "page": 16,
+        "source": "ocr",
+        "context": "在 1.2 米左右: RFRA 284一285.5 米。顶高 2.5 米\n左右。\n\n公段共有和"
+      },
+      {
+        "text": "高 2.5 米",
+        "page": 16,
+        "source": "ocr",
+        "context": ": RFRA 284一285.5 米。顶高 2.5 米\n左右。\n\n公段共有和牛鼻形壁孔 10 "
+      },
+      {
+        "text": "13.3 米",
+        "page": 16,
+        "source": "ocr",
+        "context": "和牛鼻形壁孔 10 个,间距篇 2.4一13.3 米。\n\nFTES FLSA , MIPEA"
+      },
+      {
+        "text": "7.3 米",
+        "page": 16,
+        "source": "ocr",
+        "context": "S FLSA , MIPEAS 0.3一7.3 米。其间距在 4 米以上的,中间必有需顺架"
+      },
+      {
+        "text": " 4 米",
+        "page": 16,
+        "source": "ocr",
+        "context": "IPEAS 0.3一7.3 米。其间距在 4 米以上的,中间必有需顺架木染才能\n越过的小"
+      },
+      {
+        "text": " 4 米",
+        "page": 16,
+        "source": "ocr",
+        "context": " ,也就是说各根横慎的木梁,一般的间距在 4 米以内。\n\n底孔共27 个。\n\n一6一\n\n"
+      },
+      {
+        "text": " 36 米",
+        "page": 20,
+        "source": "ocr",
+        "context": "\nPARA) SAR RO , BLE) 36 米,遗存底孔 29 个。 中间有缺口处， "
+      },
+      {
+        "text": " 27 米",
+        "page": 20,
+        "source": "ocr",
+        "context": "13 SIME\n\n在人亚段的西北方,相距 27 米。 APH ES DETAR SER A"
+      },
+      {
+        "text": " 5米",
+        "page": 22,
+        "source": "ocr",
+        "context": "(图版丛，5; 图版捡壹,4)。全段长仅 5米余。底宽\n0.8一1.5 米,高程在 2"
+      },
+      {
+        "text": "1.5 米",
+        "page": 22,
+        "source": "ocr",
+        "context": ",4)。全段长仅 5米余。底宽\n0.8一1.5 米,高程在 284.5 米左右。顶部不显著"
+      },
+      {
+        "text": " 284.5 米",
+        "page": 22,
+        "source": "ocr",
+        "context": "5米余。底宽\n0.8一1.5 米,高程在 284.5 米左右。顶部不显著,高狗 1.5 米。侍段"
+      },
+      {
+        "text": " 1.5 米",
+        "page": 22,
+        "source": "ocr",
+        "context": "在 284.5 米左右。顶部不显著,高狗 1.5 米。侍段没有孔眼和题齐。\n\n其实测情况见图"
+      },
+      {
+        "text": " 1 米",
+        "page": 22,
+        "source": "ocr",
+        "context": "S) AVE\n\nEAD BEML AMR 1 米多。 形状同人工段。 全段长需 25 米"
+      },
+      {
+        "text": " 25 米",
+        "page": 22,
+        "source": "ocr",
+        "context": "R 1 米多。 形状同人工段。 全段长需 25 米。底宽一般在 1.2一\n1.4 K2EA"
+      },
+      {
+        "text": " 2.8 米",
+        "page": 22,
+        "source": "ocr",
+        "context": "EAT , HOA — ABBE, ME 2.8 米，而最窗的地方公 0.2 米。 其高程篇"
+      },
+      {
+        "text": " 0.2 米",
+        "page": 22,
+        "source": "ocr",
+        "context": "BE, ME 2.8 米，而最窗的地方公 0.2 米。 其高程篇 234一284.7\n米。顶"
+      },
+      {
+        "text": "284.7\n米",
+        "page": 22,
+        "source": "ocr",
+        "context": "地方公 0.2 米。 其高程篇 234一284.7\n米。顶高自 1 至 3.8 米不等。 楼道"
+      },
+      {
+        "text": " 3.8 米",
+        "page": 22,
+        "source": "ocr",
+        "context": " 234一284.7\n米。顶高自 1 至 3.8 米不等。 楼道中间有一段 3米多的缺口,雨"
+      },
+      {
+        "text": " 3米",
+        "page": 22,
+        "source": "ocr",
+        "context": "1 至 3.8 米不等。 楼道中间有一段 3米多的缺口,雨旁各有四档(底孔 7一12)"
+      },
+      {
+        "text": "7.6 米",
+        "page": 23,
+        "source": "ocr",
+        "context": "段共有牛鼻形辟孔7 个,间距 0.9 一7.6 米，\nAV EE RIN BOR (is "
+      },
+      {
+        "text": " 1.5米",
+        "page": 24,
+        "source": "ocr",
+        "context": "S 0.15 —2.5 9K, AMEE 1.5米左右;高程坊 284.5一284.9 米"
+      },
+      {
+        "text": "284.9 米",
+        "page": 24,
+        "source": "ocr",
+        "context": "EE 1.5米左右;高程坊 284.5一284.9 米。楼道顶高 2.5一\n3 米,其西端长网"
+      },
+      {
+        "text": "\n3 米",
+        "page": 24,
+        "source": "ocr",
+        "context": ".5一284.9 米。楼道顶高 2.5一\n3 米,其西端长网 3.5 米的一段没有顶部,"
+      },
+      {
+        "text": " 3.5 米",
+        "page": 24,
+        "source": "ocr",
+        "context": "。楼道顶高 2.5一\n3 米,其西端长网 3.5 米的一段没有顶部,其余地方顶部保存以好(图"
+      },
+      {
+        "text": " 23 厘米",
+        "page": 24,
+        "source": "ocr",
+        "context": "           |  |\nASHE 23 厘米。     212) 13) 15\n打破"
+      },
+      {
+        "text": "长 35 米",
+        "page": 26,
+        "source": "ocr",
+        "context": " J» BEAL EE ACRE\n\n公段长 35 米,形状同上段。中间有一段长狗 4.5 K"
+      },
+      {
+        "text": "2.1米",
+        "page": 26,
+        "source": "ocr",
+        "context": " MIE TOA, 楼道底寅篇 0.2一2.1米,一般在\n1.2 来左右;高程篇 283"
+      },
+      {
+        "text": "284.5 米",
+        "page": 26,
+        "source": "ocr",
+        "context": "在\n1.2 来左右;高程篇 283.5一284.5 米。公段西个部篇阶形,大顶部:其余部分顶部"
+      },
+      {
+        "text": " 1.5 米",
+        "page": 26,
+        "source": "ocr",
+        "context": "AW TBE, 过些入痕一般鸭高出楼道底 1.5 米(参见图版拾陆) ,正和和当时丈夫们\nJ"
+      },
+      {
+        "text": "9.15 米",
+        "page": 26,
+        "source": "ocr",
+        "context": "鼻形辟孔 6 个, 各孔间距 3.55一9.15 米。 另有一牛鼻形孔在楼道底， 三\n不底孔"
+      },
+      {
+        "text": "3.6米",
+        "page": 26,
+        "source": "ocr",
+        "context": "SEALIE 25 个,间距篇 0.2一3.6米。\nAVS ARABI C1 MAD\nj"
+      },
+      {
+        "text": "9 m",
+        "page": 26,
+        "source": "ocr",
+        "context": "SALAH, JL M-      8,9 mi | 22) 47 | 40) 8 |"
+      },
+      {
+        "text": " 25 厘米",
+        "page": 26,
+        "source": "ocr",
+        "context": "| 了| 7|10| 8 | 高出楼道研 25 厘米。              24 | "
+      },
+      {
+        "text": " 1.5 米",
+        "page": 26,
+        "source": "ocr",
+        "context": "7) 8) 13 | PGW SRENE 1.5 米。\n13 | 24 | 26 | 18 "
+      },
+      {
+        "text": "2.5 米",
+        "page": 27,
+        "source": "ocr",
+        "context": ".\nAE 29 Ko RIE 0.15—2.5 米,一般在 1.7 米左右;高程坊 284"
+      },
+      {
+        "text": " 1.7 米",
+        "page": 27,
+        "source": "ocr",
+        "context": "o RIE 0.15—2.5 米,一般在 1.7 米左右;高程坊 284.5一285.4 米"
+      },
+      {
+        "text": "285.4 米",
+        "page": 27,
+        "source": "ocr",
+        "context": "在 1.7 米左右;高程坊 284.5一285.4 米。 在本\n段的起端一一靠近岛尖的拐角卡,"
+      },
+      {
+        "text": "1米",
+        "page": 27,
+        "source": "ocr",
+        "context": "痕迹,磨痕一般高出道\nFEA) 0.5一1米〈图版拾陆)。\n\nBSA SUCRE A"
+      },
+      {
+        "text": "6.5 米",
+        "page": 27,
+        "source": "ocr",
+        "context": "UCRE AL 9 个,各孔间距篇 1一6.5 米〈其中孔5 与孔 6, 孔 8 与孔9 "
+      },
+      {
+        "text": " 0m",
+        "page": 28,
+        "source": "ocr",
+        "context": "一        ww      ESE 0mm 0\n\n(@Bx)\n\nae      "
+      },
+      {
+        "text": "2.4 米",
+        "page": 29,
+        "source": "ocr",
+        "context": "ASE 22 个。各和孔间距篇 0.3一2.4 米(孔 7 ARETE, BATA Do "
+      },
+      {
+        "text": " 287.5 米",
+        "page": 29,
+        "source": "ocr",
+        "context": ") 位置在靠近岛尖转角不的陡壁上,高程篇 287.5 米左右,低於栈道底 5 米多,河水稍\n\n误"
+      },
+      {
+        "text": " 5 米",
+        "page": 29,
+        "source": "ocr",
+        "context": ",高程篇 287.5 米左右,低於栈道底 5 米多,河水稍\n\n误,序没入水面,不知怎样使"
+      },
+      {
+        "text": " 1.4 米",
+        "page": 29,
+        "source": "ocr",
+        "context": "a1 | a0 | 4\nineRaENE 1.4 米,使用法不明.| 15 | 13 | 1"
+      },
+      {
+        "text": "5 米",
+        "page": 30,
+        "source": "ocr",
+        "context": "孔可安\nWE:     二段的长葛 3一5 米的木梁。 全段长过 115 米。 形状略"
+      },
+      {
+        "text": " 115 米",
+        "page": 30,
+        "source": "ocr",
+        "context": "二段的长葛 3一5 米的木梁。 全段长过 115 米。 形状略同上段, 唯西南端长狗\n10 "
+      },
+      {
+        "text": "\n10 米",
+        "page": 30,
+        "source": "ocr",
+        "context": "15 米。 形状略同上段, 唯西南端长狗\n10 米的一段有1.7一2.5 米高的顶部。此不"
+      },
+      {
+        "text": "2.5 米",
+        "page": 30,
+        "source": "ocr",
+        "context": " 唯西南端长狗\n10 米的一段有1.7一2.5 米高的顶部。此不河岸似原来朗坊阶形 ”开双"
+      },
+      {
+        "text": "41.9 米",
+        "page": 30,
+        "source": "ocr",
+        "context": " AL 21 个, PBEAS 0.1一41.9 米。 SCHEME Hie SE AY A"
+      },
+      {
+        "text": " 10 米",
+        "page": 30,
+        "source": "ocr",
+        "context": "LTISL,  FLERME MS TE 10 米以内。另有 20,21 — FUR a\n"
+      },
+      {
+        "text": "10米",
+        "page": 30,
+        "source": "ocr",
+        "context": "\n\n+ AFZAL     Qe ，，，10米\n6 eR\n\ni= ABT Sci i\n"
+      },
+      {
+        "text": "5 米",
+        "page": 31,
+        "source": "ocr",
+        "context": "13。\n划正试孔54。\n\n商则相道底 .5 米，风齐弄一方 | 34         "
+      },
+      {
+        "text": "55厘米",
+        "page": 31,
+        "source": "ocr",
+        "context": "| 34           高由楼道旗55厘米，风出吕一方\nHATE         "
+      },
+      {
+        "text": "1.3米",
+        "page": 31,
+        "source": "ocr",
+        "context": "          HOR\n\n高出楼道寿1.3米,央列痢一<卜”            "
+      },
+      {
+        "text": " 40 厘米",
+        "page": 32,
+        "source": "ocr",
+        "context": "、\niia (BUR). 运段地方,寅伴 40 厘米, BRIE FA ARE RTO RC"
+      },
+      {
+        "text": " 20m",
+        "page": 32,
+        "source": "ocr",
+        "context": "E FOAE 1 个)，      It 20m\n\n\"eA FEES FORRES   "
+      },
+      {
+        "text": "5 米",
+        "page": 32,
+        "source": "ocr",
+        "context": "\n元新河北口外的一座小岛造对,中隔 4一5 米的河道。 BLES) 60 米,形状略同"
+      },
+      {
+        "text": " 60 米",
+        "page": 32,
+        "source": "ocr",
+        "context": "对,中隔 4一5 米的河道。 BLES) 60 米,形状略同上让(图\n版蒜拾，!、2)。楼"
+      },
+      {
+        "text": " 502m",
+        "page": 35,
+        "source": "ocr",
+        "context": "   87 | 6 | 5 | seit 502m\n\n一23一\n"
+      },
+      {
+        "text": "6.2 米",
+        "page": 36,
+        "source": "ocr",
+        "context": "\n方形壁孔共 20 个,间距篇 0.4一6.2 米。\n\nAX SARAH BIER 《单位"
+      },
+      {
+        "text": " 54 厘米",
+        "page": 36,
+        "source": "ocr",
+        "context": "| a1 | 24\n\n5 | 高生机道让 54 厘米。\n15 | 16 | 14\n10\n\n三"
+      },
+      {
+        "text": " 9 米",
+        "page": 38,
+        "source": "ocr",
+        "context": "SATE DIS A, GBS , IT 9 米多宽的河道通\nTERE EM ANB; "
+      },
+      {
+        "text": " 6 厘米",
+        "page": 38,
+        "source": "ocr",
+        "context": "大小极相近,长网 6,袖多 2，\nTEN 6 厘米,常常三\\四个或七\\八个成排的在一起(图"
+      },
+      {
+        "text": " 2\n米",
+        "page": 38,
+        "source": "ocr",
+        "context": "类的性翌，它们大体成需平行的雨排, 相距 2\n米左右,在岛中心通过; 过些底孔的位置, "
+      },
+      {
+        "text": " 9 厘米",
+        "page": 38,
+        "source": "ocr",
+        "context": "    3     | 在底孔4 Iba 9 厘米监,普列成--排。\n和6 | 3   5"
+      },
+      {
+        "text": " 6.5 m",
+        "page": 38,
+        "source": "ocr",
+        "context": " | 2 | 5 | 548 semis 6.5 mae,         pnt\ns   "
+      },
+      {
+        "text": "17 米",
+        "page": 39,
+        "source": "ocr",
+        "context": "有牛鼻形壁孔 8 个, 间距篇 0.8一17 米。 孔6 与孔 7 CAA AITRRE"
+      },
+      {
+        "text": " 17 米",
+        "page": 39,
+        "source": "ocr",
+        "context": "孔6 与孔 7 CAA AITRRERS 17 米， 过\nAYERS A, ABREU, "
+      },
+      {
+        "text": "7.5 米",
+        "page": 39,
+        "source": "ocr",
+        "context": "SEALSE 23 个, 间距 0.5一7.5 米。 各孔间距一般和在 4 OKA, (B"
+      },
+      {
+        "text": " 32 厘米",
+        "page": 43,
+        "source": "ocr",
+        "context": "(开排印本)中著估的宽靖牙尺,当时一尺入 32 厘米，\n四十丈折合今日尺度篇 128米，而人"
+      },
+      {
+        "text": " 128米",
+        "page": 43,
+        "source": "ocr",
+        "context": "尺入 32 厘米，\n四十丈折合今日尺度篇 128米，而人门初道全长却有625米,从柬到尾都"
+      },
+      {
+        "text": "625米",
+        "page": 43,
+        "source": "ocr",
+        "context": "今日尺度篇 128米，而人门初道全长却有625米,从柬到尾都有孔眼,可知嘉靖\n工程所整石"
+      },
+      {
+        "text": " 2 m",
+        "page": 43,
+        "source": "ocr",
+        "context": "\n的工程是什么?\n\n[CD Sra cm 2 mA,\n\n一29一\n"
+      },
+      {
+        "text": "\n286 米",
+        "page": 44,
+        "source": "ocr",
+        "context": "TARE SEMPRE, 其底部的高程在\n286 米左右。 BRA APL\nRE, FEA\n"
+      },
+      {
+        "text": "长 12米",
+        "page": 44,
+        "source": "ocr",
+        "context": "相同， 亦篇凹档形。 但没有孔眼。全\n受长 12米。底宽0.5一1.4米,其高程在\n286"
+      },
+      {
+        "text": "1.4米",
+        "page": 44,
+        "source": "ocr",
+        "context": "没有孔眼。全\n受长 12米。底宽0.5一1.4米,其高程在\n286 米左右。 顶高 2 "
+      },
+      {
+        "text": "\n286 米",
+        "page": 44,
+        "source": "ocr",
+        "context": " 12米。底宽0.5一1.4米,其高程在\n286 米左右。 顶高 2 Ko BEM\nWT, "
+      },
+      {
+        "text": " 63 米",
+        "page": 46,
+        "source": "ocr",
+        "context": "中\n\n(2) Sa Be\n\n从鬼工段向北 63 米,朗过本段南端。 BLE 50 BOK "
+      },
+      {
+        "text": "236\n米",
+        "page": 46,
+        "source": "ocr",
+        "context": "OK KEANE FAAS 285.4—236\n米。顶高 2 米左右。其形状和上段相同,也"
+      },
+      {
+        "text": "高 2 米",
+        "page": 46,
+        "source": "ocr",
+        "context": "E FAAS 285.4—236\n米。顶高 2 米左右。其形状和上段相同,也没有孔眼。示庄"
+      },
+      {
+        "text": "30 厘米",
+        "page": 46,
+        "source": "ocr",
+        "context": "特别狭窄,无法站立。写的底部,宽篱 0一30 厘米(在一部分地方, 底部已完全\nJBL) "
+      },
+      {
+        "text": "8 米",
+        "page": 47,
+        "source": "ocr",
+        "context": "公长 280 GRR, 河身寅度假 6一8 米左右，河底高程在 278 米左右,河身高"
+      },
+      {
+        "text": " 278 米",
+        "page": 47,
+        "source": "ocr",
+        "context": " 河身寅度假 6一8 米左右，河底高程在 278 米左右,河身高\n度(部河底与河岸的距雌) "
+      },
+      {
+        "text": "10 米",
+        "page": 47,
+        "source": "ocr",
+        "context": "高\n度(部河底与河岸的距雌) 25 5一10 米。 宪的南台陡立，上口比河底稍寅(一般寅"
+      },
+      {
+        "text": "80\n厘米",
+        "page": 47,
+        "source": "ocr",
+        "context": "南台陡立，上口比河底稍寅(一般寅 60一80\n厘米)。 WiMRARIIE SHE ARA"
+      },
+      {
+        "text": "长\n7 米",
+        "page": 47,
+        "source": "ocr",
+        "context": "舍新站的大口,在做近北端的地方有一缺口,长\n7 米。中间有5 RSENS Jr Hy TA"
+      },
+      {
+        "text": "\n7 米",
+        "page": 47,
+        "source": "ocr",
+        "context": "), BRL AC LE NE AG a\n7 米答,高程在 286 ke AzATS W"
+      },
+      {
+        "text": " 2 米",
+        "page": 47,
+        "source": "ocr",
+        "context": "在 286 ke AzATS WG AY 2 米。底寅绝 1 米，但向外倾斜, 故宣际可"
+      },
+      {
+        "text": " 1 米",
+        "page": 47,
+        "source": "ocr",
+        "context": " AzATS WG AY 2 米。底寅绝 1 米，但向外倾斜, 故宣际可站立不不\nAP "
+      },
+      {
+        "text": " 16 米",
+        "page": 50,
+        "source": "ocr",
+        "context": "   河\n\n在开元新河东辟樟道的北端以北 16 米处，河身雨双的上口有互相对正的方形孔眼:"
+      },
+      {
+        "text": "46 厘米",
+        "page": 50,
+        "source": "ocr",
+        "context": "\n62 个: 方形的共5 个,径 30一46 厘米\nCORR FERN, 1);圆形的共5"
+      },
+      {
+        "text": "28 厘米",
+        "page": 50,
+        "source": "ocr",
+        "context": ", 1);圆形的共57 个,径 12\n一28 厘米(图版套忒, 2.3,4)。 全部\n\nC"
+      },
+      {
+        "text": " 15.7\n\n米",
+        "page": 50,
+        "source": "ocr",
+        "context": "GED REAL IS 20.2，东西篇 15.7\n\n米,其排列情况如国二五。 另在开元\nPUT"
+      },
+      {
+        "text": " 20 厘米",
+        "page": 50,
+        "source": "ocr",
+        "context": "元\nPUT HEHE ES, AIBA) 20 厘米的\nAER 6     WR—HE, R"
+      },
+      {
+        "text": "30 米",
+        "page": 53,
+        "source": "ocr",
+        "context": "r RH AY 100, 南北狗 20—30 米,紧拨河\n\n(1) Bk — eA 3 "
+      },
+      {
+        "text": " 540 米",
+        "page": 54,
+        "source": "ocr",
+        "context": "ALERTS 18 里,唐代的 1 里篇 540 米口,折合今日华里,篇 19.5\n里左右。"
+      },
+      {
+        "text": "通高 8 厘米",
+        "page": 56,
+        "source": "ocr",
+        "context": "U’.\nSRB 1 行, PAE 4, 通高 8 厘米, 似北朝笔跨(拓片录一)。相同的题名膛"
+      },
+      {
+        "text": "通高 23 厘米",
+        "page": 56,
+        "source": "ocr",
+        "context": "\nAMES AE\" 5\nPASH 6, 通高 23 厘米(图版拾壹，3; THIER). AME"
+      },
+      {
+        "text": " 130 厘米",
+        "page": 57,
+        "source": "ocr",
+        "context": "TR. APR 5, UM 30,500 130 厘米。因\n漫泪过其,行数奥字数车不可计，只能"
+      },
+      {
+        "text": " 74 厘米",
+        "page": 57,
+        "source": "ocr",
+        "context": "TGR, PMCS, A 72, ILA 74 厘米。 PAPI TRE RL, THE\nR"
+      },
+      {
+        "text": " 50 厘米",
+        "page": 57,
+        "source": "ocr",
+        "context": "TBR ML RICE) LAT, 相距 50 厘米。\nSEPA DAA , RI HSK)"
+      },
+      {
+        "text": "宽 16 厘米",
+        "page": 57,
+        "source": "ocr",
+        "context": "AGF PABA 4, 通高 17, 通宽 16 厘米。次行第 2 PL\" DE”, 但很模糊"
+      },
+      {
+        "text": "宽 19 厘米",
+        "page": 58,
+        "source": "ocr",
+        "context": "s “PUBAY 3, 通高 22, 通宽 19 厘米。 AE FAO” 2 BER,\n\nHE"
+      },
+      {
+        "text": "宽 30\n厘米",
+        "page": 58,
+        "source": "ocr",
+        "context": "TBR PRO 5S, SiS 40,通宽 30\n厘米 CIDR - 70) 0 “RR” 字"
+      },
+      {
+        "text": "宽 35 厘米",
+        "page": 59,
+        "source": "ocr",
+        "context": ". HABA 4, SHAS 30, 通宽 35 厘米。在第 6行“百\"字上原有一 露”\n字必"
+      },
+      {
+        "text": "通高 20 厘米",
+        "page": 59,
+        "source": "ocr",
+        "context": "大日\"。\nSABE 1 行。字径狗 2,通高 20 厘米。其中\"明\"字在“四年\"2字右侧, (L"
+      },
+      {
+        "text": "通高 28 厘米",
+        "page": 59,
+        "source": "ocr",
+        "context": "\".\nDEI AF. PRAY 2.5，通高 28 厘米。 BASU LET 7、T 8 SIA"
+      },
+      {
+        "text": "通高48厘米",
+        "page": 60,
+        "source": "ocr",
+        "context": "“三站名”\nSR 1 行。字径锡 15，通高48厘米(拓片录二太)。过应是一段馈刻的标题\nT"
+      },
+      {
+        "text": "宽 135 厘米",
+        "page": 60,
+        "source": "ocr",
+        "context": ",左行。字径构 20, 通高 343，通宽 135 厘米。 GEL RSET, 或媳就\nSL L"
+      },
+      {
+        "text": " 3 厘米",
+        "page": 60,
+        "source": "ocr",
+        "context": "4T. PES 厘米,未尾 SER FG 3 厘米, 通高 35， 通宽 38 厘米(图\n"
+      },
+      {
+        "text": "宽 38 厘米",
+        "page": 60,
+        "source": "ocr",
+        "context": "ER FG 3 厘米, 通高 35， 通宽 38 厘米(图\nWet, 3; HIF\nT 4: "
+      },
+      {
+        "text": " 15 厘米",
+        "page": 60,
+        "source": "ocr",
+        "context": "EET 3 EE 6 PELE, SME 15 厘米,末 2行\n$246 REN, 15 1"
+      },
+      {
+        "text": " 12 厘米",
+        "page": 60,
+        "source": "ocr",
+        "context": "厘米,末 2行\n$246 REN, 15 12 厘米,通高 120， 通宽 120 OKGR"
+      },
+      {
+        "text": "通高 14 厘米",
+        "page": 61,
+        "source": "ocr",
+        "context": "RE”.\nSG 1450 PNY 6, 通高 14 厘米(拓片尔三三)。\n《7) AMBLER\n"
+      },
+      {
+        "text": "宽 26 厘米",
+        "page": 61,
+        "source": "ocr",
+        "context": " 6行,左行。字径狗4,通高 36， 通宽 26 厘米。 人篇麻沥过花, 不得卒苇 (拓片\n="
+      },
+      {
+        "text": "高 10 厘米",
+        "page": 61,
+        "source": "ocr",
+        "context": "……\nPPE LAT. PRM 3, 现高 10 厘米(拓片录三六)o\nT 2: “局\"。\nS"
+      },
+      {
+        "text": " 11 厘米",
+        "page": 61,
+        "source": "ocr",
+        "context": "\nT 2: “局\"。\nSH 1 字。字径 11 厘米(拓片估三七)。\n下3:“春始\"\n分书 "
+      },
+      {
+        "text": "通高 9 厘米",
+        "page": 61,
+        "source": "ocr",
+        "context": "e PRED, AERA APA 4, 通高 9 厘米。泰始三年起,都匠柴\n世带什了5 EAR"
+      },
+      {
+        "text": "通高8厘米",
+        "page": 61,
+        "source": "ocr",
+        "context": "日\"。\nPEL FT. PUB 3.5,通高8厘米(拓片儿三九)o\nT 5: “BE”.\n"
+      },
+      {
+        "text": "宽 20 厘米",
+        "page": 61,
+        "source": "ocr",
+        "context": " 3 行,右行。字径胸 5,通高 43通宽 20 厘米(图版参参， 3: HORI), EWR"
+      },
+      {
+        "text": " 16 厘米",
+        "page": 62,
+        "source": "ocr",
+        "context": "= A+ AR\".\n“5 BUA, AE 16 厘米, 位题剂起首。以下 2 行分列其下, "
+      },
+      {
+        "text": "宽 19 厘米",
+        "page": 62,
+        "source": "ocr",
+        "context": " 9 NDR. TEKS\n通高 60,通宽 19 厘米。“富\"字疑坟焉存的题名(图版僚僚, 4"
+      },
+      {
+        "text": " 85 厘米",
+        "page": 62,
+        "source": "ocr",
+        "context": "左行。字径赐 12，通高 95， MRC 85 厘米(拓片全四五)。工天成的题名膛\n有了并东"
+      },
+      {
+        "text": "宽\n90 厘米",
+        "page": 62,
+        "source": "ocr",
+        "context": " FERRARA 30,通高 150，通宽\n90 厘米(拓片录四大)。这段题刑, 在平阳府志及"
+      },
+      {
+        "text": " 32 厘米",
+        "page": 62,
+        "source": "ocr",
+        "context": "” OU BRE AY 20, JERE 32 厘米: 通商\n100, 通宽 140 厘米。"
+      },
+      {
+        "text": "宽 140 厘米",
+        "page": 62,
+        "source": "ocr",
+        "context": "ERE 32 厘米: 通商\n100, 通宽 140 厘米。 从字体冉察, WADA Me IRL"
+      },
+      {
+        "text": " 8 m",
+        "page": 62,
+        "source": "ocr",
+        "context": " IRED\\). BRAUER\nWHET 8 m。\nTos COA | HEB S| C"
+      },
+      {
+        "text": "宽 170厘米",
+        "page": 62,
+        "source": "ocr",
+        "context": "HEAT. PMU 28，通高 90,通宽 170厘米 GR BRDD IL). FALE\n宋"
+      },
+      {
+        "text": "宽 20 厘米",
+        "page": 62,
+        "source": "ocr",
+        "context": "2 行,左行。字径购 8，通高 35，通宽 20 厘米(拓片录五O)。\n下11:“大明洪武十年"
+      },
+      {
+        "text": "宽 34 厘米",
+        "page": 63,
+        "source": "ocr",
+        "context": " 行,左行。字径移 8, 通高 66,通宽 34 厘米(拓片朱五二)。“庚子\" 上一字左旁\n笛"
+      },
+      {
+        "text": " 160 厘米",
+        "page": 63,
+        "source": "ocr",
+        "context": "SRE, “NIE? 2 PRR, HY 160 厘米,其余 2 FPR 10 DK, HE "
+      },
+      {
+        "text": "通高 350 厘米",
+        "page": 63,
+        "source": "ocr",
+        "context": " DK, HE Se ze PF\n方; 通高 350 厘米。 SHELM RIT ORT PA T"
+      },
+      {
+        "text": " 62 厘米",
+        "page": 63,
+        "source": "ocr",
+        "context": ". PANY 12，通高 100, 通寅 62 厘米 (拓片隶五九)。 在北宋未至南\nRAE"
+      },
+      {
+        "text": "宽 140 厘米",
+        "page": 64,
+        "source": "ocr",
+        "context": ", AY 14 EDK.\n通高 40，通宽 140 厘米(拓片估太三)。\n\nTs EMR | A"
+      },
+      {
+        "text": "宽 110 厘米",
+        "page": 64,
+        "source": "ocr",
+        "context": "E. PREY 16, 通高 130，通宽 110 厘米(图版套伍,2; HRT BR A)o\n"
+      },
+      {
+        "text": " 168 厘米",
+        "page": 64,
+        "source": "ocr",
+        "context": "Sea, “ARSE 150,“考\"字径 168 厘米,分别烈在两处岩属上 (拓片录太七)。皇"
+      },
+      {
+        "text": "宽 35 厘米",
+        "page": 65,
+        "source": "ocr",
+        "context": " 4行,左行。字径钩 8，通高 50，通宽 35 厘米(阁版参伍,1;拓片录大八)o\n下16:"
+      },
+      {
+        "text": "宽 28 厘米",
+        "page": 65,
+        "source": "ocr",
+        "context": "5 行,左行。字径狗 5,通高 43,通宽 28 厘米(拓片录太九)。明代自洪武七年起，\nSY"
+      },
+      {
+        "text": "通高 50 厘米",
+        "page": 65,
+        "source": "ocr",
+        "context": "房。\nT17:“陈锡 RO BEE\".\n通高 50 厘米(拓片估七D)。饮仁的题名温有开东下 2"
+      },
+      {
+        "text": "宽 98 厘米",
+        "page": 65,
+        "source": "ocr",
+        "context": "| \"。\n。字径网 12,通高 70,通宽 98 厘米(拓片儿七一)。王昭的题名膛有\n的题名还"
+      },
+      {
+        "text": "通高 80 厘米",
+        "page": 65,
+        "source": "ocr",
+        "context": "\nSRM 147, FABRA 20, 通高 80 厘米(拓片杀七二)。丁天成的题记逮有人了段T"
+      },
+      {
+        "text": " 13厘米",
+        "page": 65,
+        "source": "ocr",
+        "context": "E 1147, 247. GM PRAY 13厘米: Be Je aI ALY 5厘米; "
+      },
+      {
+        "text": " 5厘米",
+        "page": 65,
+        "source": "ocr",
+        "context": "Y 13厘米: Be Je aI ALY 5厘米; 通高 93，通宽\n110厘米(拓片录"
+      },
+      {
+        "text": "宽\n110厘米",
+        "page": 65,
+        "source": "ocr",
+        "context": " aI ALY 5厘米; 通高 93，通宽\n110厘米(拓片录七三)o\nT21 FOS. FO"
+      },
+      {
+        "text": "宽 65 厘米",
+        "page": 65,
+        "source": "ocr",
+        "context": "7 行,左行。字径钓 8,通高.65,通宽 65 厘米(拓片录七四)。宋代有王对字定国，\n篇元"
+      },
+      {
+        "text": " 70 厘米",
+        "page": 65,
+        "source": "ocr",
+        "context": "行,左行。字径鸭16,通高 80, 通寅 70 厘米(拓片全七五)。 明史矢二〇:\nSEAN"
+      },
+      {
+        "text": " 12 厘米",
+        "page": 66,
+        "source": "ocr",
+        "context": "从】 。\n\nJRE 6 行,右行。字径胸 12 厘米,未 2 行较小,通高 65,通宽 76"
+      },
+      {
+        "text": "宽 76 厘米",
+        "page": 66,
+        "source": "ocr",
+        "context": "2 厘米,未 2 行较小,通高 65,通宽 76 厘米(拓片录七六)。\n宋廷优坊正德大年进士,"
+      },
+      {
+        "text": " 16 厘米",
+        "page": 66,
+        "source": "ocr",
+        "context": "较大,径约 30 DK, SORA EY 16 厘米:通高 890，通\nA 80 厘米。首行"
+      },
+      {
+        "text": " 80 厘米",
+        "page": 66,
+        "source": "ocr",
+        "context": " EY 16 厘米:通高 890，通\nA 80 厘米。首行“函功出\" 3 PMR, ATS "
+      },
+      {
+        "text": "宽 60厘米",
+        "page": 66,
+        "source": "ocr",
+        "context": "7 行,左行。字径罗 9,通高 60,通宽 60厘米 (图版参肆, 4; 拓片全七八)。盛唐"
+      },
+      {
+        "text": "宽 36 厘米",
+        "page": 66,
+        "source": "ocr",
+        "context": "6 行,左行。字径狗 6,通高 45,通宽 36 厘米(图版参拜， 4; 拓片全七九)。过段\n"
+      },
+      {
+        "text": " 120 厘米",
+        "page": 66,
+        "source": "ocr",
+        "context": "     499, iy BU C394 120 厘米(图版套伍,3)(未拓)o\nT28 AL"
+      },
+      {
+        "text": " 35 厘米",
+        "page": 66,
+        "source": "ocr",
+        "context": "SE 4 FAR. M2 FPA, MY 35 厘米, ENKI RD, BAY 15; 通"
+      },
+      {
+        "text": " 15 厘米",
+        "page": 66,
+        "source": "ocr",
+        "context": "35 NDR, WEIR; 鲜乱小字,径 15 厘米。\n\n通高 120, 通宽 100 KG"
+      },
+      {
+        "text": "宽 33 厘米",
+        "page": 67,
+        "source": "ocr",
+        "context": "47. SPAN 10, 通高 53，通宽 33 厘米(拓片全八四)。 明昌精深野先生\n矢十六"
+      },
+      {
+        "text": "宽 30 厘米",
+        "page": 67,
+        "source": "ocr",
+        "context": " T. PAB AY 3,通高 34，通宽 30 厘米(拓片\n尔八七)。北来时期合在荆湖路赣州"
+      },
+      {
+        "text": " 38 厘米",
+        "page": 67,
+        "source": "ocr",
+        "context": " 47,2277. PM 2 行大字,径 38 厘米,左右上下款小字, 径 10 厘米，通高"
+      },
+      {
+        "text": " 10 厘米",
+        "page": 67,
+        "source": "ocr",
+        "context": "字,径 38 厘米,左右上下款小字, 径 10 厘米，通高 83，\n通宽 108 厘米(拓片"
+      },
+      {
+        "text": "宽 108 厘米",
+        "page": 67,
+        "source": "ocr",
+        "context": "小字, 径 10 厘米，通高 83，\n通宽 108 厘米(拓片录八九)。\n738: REE EA"
+      },
+      {
+        "text": " 100 米",
+        "page": 68,
+        "source": "ocr",
+        "context": "ER RC RU TERE a LORY 100 米的路劳,其实\nELSE      ，附三"
+      },
+      {
+        "text": "宽 55 厘米",
+        "page": 68,
+        "source": "ocr",
+        "context": " 行,左行。字径移 18，通高 90，通宽 55 厘米(拓片录九二)。唐代经常修治三\nIe, "
+      },
+      {
+        "text": "宽 80 厘米",
+        "page": 68,
+        "source": "ocr",
+        "context": "ABAY 22, SHAG 135, 通宽 80 厘米。\nae ane comet ee\n\nS"
+      },
+      {
+        "text": "宽 40 厘米",
+        "page": 68,
+        "source": "ocr",
+        "context": " AT. PMR 9, 通高 72, 通宽 40 厘米。\nTS: “丁丁上元j口王且】。\n\nS"
+      },
+      {
+        "text": "宽 50 厘米",
+        "page": 68,
+        "source": "ocr",
+        "context": " 行,左行。字径鸭 18,通高 65，通宽 50 厘米。\n下6:“鲁甫\"。\n\nBCR 147."
+      },
+      {
+        "text": " 40 厘米",
+        "page": 68,
+        "source": "ocr",
+        "context": "\n\nBCR 147. PM 13, 3% 40 厘米。\n\n5. Sil FOF HE Hi "
+      },
+      {
+        "text": " 50 厘米",
+        "page": 69,
+        "source": "ocr",
+        "context": "SRSEIIL” 8 字极大, BLK) 50 厘米; SERRE A\n狗 18 厘米。通高"
+      },
+      {
+        "text": " 18 厘米",
+        "page": 69,
+        "source": "ocr",
+        "context": "LK) 50 厘米; SERRE A\n狗 18 厘米。通高 390,，通宽 170 DK C"
+      },
+      {
+        "text": " 55 厘米",
+        "page": 69,
+        "source": "ocr",
+        "context": "AGT. PRIS, 通高 55, HI 55 厘米(疼版臣壹,4:拓片鱼九四)o\nT3: "
+      },
+      {
+        "text": " 4 厘米",
+        "page": 69,
+        "source": "ocr",
+        "context": "PAY 8 JDK ROK ASE HY 4 厘米。  通商 67，通宽 85\n厘米(阁版"
+      },
+      {
+        "text": "宽 85\n厘米",
+        "page": 69,
+        "source": "ocr",
+        "context": "SE HY 4 厘米。  通商 67，通宽 85\n厘米(阁版起壹,4;拓片全九五)。碑传集矢六"
+      },
+      {
+        "text": " 12 厘米",
+        "page": 69,
+        "source": "ocr",
+        "context": "R, “ERE” + PRR, BAS) 12 厘米,烈於全篇上部。其儿 14 行题名,左行"
+      },
+      {
+        "text": " 6 厘米",
+        "page": 69,
+        "source": "ocr",
+        "context": "。其儿 14 行题名,左行,字\n$849 6 厘米。通高 130,通寅 110 EDK. "
+      },
+      {
+        "text": "通高 55厘米",
+        "page": 69,
+        "source": "ocr",
+        "context": "DE RAK 2 行,在上述题名旁过 ,通高 55厘米，\n 所以附三於此(拓片录九六)。\n\n“"
+      },
+      {
+        "text": " 68 厘米",
+        "page": 71,
+        "source": "ocr",
+        "context": " HBR-O—).\n6G 176, HE 68 厘米。 HCP REL Aa UE Se A"
+      },
+      {
+        "text": "宽 60 厘米",
+        "page": 71,
+        "source": "ocr",
+        "context": ",4;拓片录一二)\n\nBRE 107, 宽 60 厘米。第3行                "
+      }
+    ],
+    "铜器": [
+      {
+        "text": "饰",
+        "page": 14,
+        "source": "ocr",
+        "context": "IASES CIB, 5. 7).\n楼道饰狭窄,又很滑溜, 必须加屋木构，才可沽少"
+      },
+      {
+        "text": "豆",
+        "page": 35,
+        "source": "ocr",
+        "context": "    51    9    5 | 与豆孔 30 对正。\n4 [a    8 |"
+      },
+      {
+        "text": "盘",
+        "page": 52,
+        "source": "ocr",
+        "context": "ROY A LATENT, EAE\n殿一盘(疾版僚陵,1)。殿内外还有明清以降的碑"
+      },
+      {
+        "text": "环",
+        "page": 53,
+        "source": "ocr",
+        "context": "程据当地农民口述),使有一小片台地,三面环山，\nPATRI AK, ESLER C"
+      },
+      {
+        "text": "刀",
+        "page": 67,
+        "source": "ocr",
+        "context": "全八四)。 明昌精深野先生\n矢十六秽底柱刀(嘉靖三十四年于德昌刊本):\n\n到中便提"
+      },
+      {
+        "text": "刀",
+        "page": 71,
+        "source": "ocr",
+        "context": "大|尹\n甘泉开公志、嗓利洛川戎公哉借彰宜刀而邓以铝,故名之。铝日:北山芒若,河水汤"
+      },
+      {
+        "text": "刀",
+        "page": 75,
+        "source": "ocr",
+        "context": "迹,作此刀。广德二年鹿，\nZL, PAIR — I"
+      },
+      {
+        "text": "盘",
+        "page": 90,
+        "source": "ocr",
+        "context": "的理想。解放以后,党和政府,贷半公国人民盘订和实现着\n次仿的治黄规划,工人阶级正在"
+      },
+      {
+        "text": "刀",
+        "page": 92,
+        "source": "ocr",
+        "context": "用页岩婴成,形基略不规划,孔由两面织透,刀部\n夺帮(图版肆臣,1)。 过些石器和陶"
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "打破",
+        "page": 24,
+        "source": "ocr",
+        "context": "厘米。     212) 13) 15\n打破T3 (时器天年一 公元260 | 13"
+      },
+      {
+        "text": "打破",
+        "page": 43,
+        "source": "ocr",
+        "context": "\".\n\n图 在人出段上, 6 号方形公孔打破了甘露五年题取(T5)。\n     ae"
+      },
+      {
+        "text": "打破",
+        "page": 54,
+        "source": "ocr",
+        "context": "一35 BRR, MRE, RAE\n道路打破，应篇修路以后所够刻(图版肆抢, 2)。"
+      },
+      {
+        "text": "堆积",
+        "page": 91,
+        "source": "ocr",
+        "context": "WEB\n\n3\na. Fy\n\n在岛顶有文化堆积。据所控十方,其地层剖面4\nee Bry"
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "陶片",
+        "page": 92,
+        "source": "ocr",
+        "context": "(图版肆忒,2-4)。还有直片艇禾的泥质陶片(图版妇\nWES), ARELMEM, "
+      }
+    ]
+  }
+}

@@ -1,0 +1,1410 @@
+{
+  "name": "安阳殷墟郭家庄商代墓葬",
+  "file": "安阳殷墟郭家庄商代墓葬.pdf",
+  "era": "商代",
+  "culture": "殷墟",
+  "processed_pages": 14,
+  "total_entities": 228,
+  "entity_stats": {
+    "遗址名称": 43,
+    "遗迹编号": 86,
+    "年代": 39,
+    "遗迹类型": 14,
+    "铜器": 30,
+    "层位关系": 1,
+    "葬具": 1,
+    "陶器": 12,
+    "建筑结构": 1,
+    "骨器": 1
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "安阳",
+        "page": 4,
+        "source": "ocr",
+        "context": "\n\n本书刊载的是中国社会科学院考古研究所安阳工作队 1982 年一1992 SEE "
+      },
+      {
+        "text": "安阳",
+        "page": 4,
+        "source": "ocr",
+        "context": "参考。\n\n图书在版编目{CIPj;数据\n安阳股妃郭家庄商代基头/中国社会科学院考古研"
+      },
+      {
+        "text": "郭家庄",
+        "page": 4,
+        "source": "ocr",
+        "context": "\n图书在版编目{CIPj;数据\n安阳股妃郭家庄商代基头/中国社会科学院考古研究所缩鞭."
+      },
+      {
+        "text": "安阳",
+        "page": 6,
+        "source": "ocr",
+        "context": "在 20 世纪\n80 年代一90 年代对安阳扔墟进行的一项重要发气的研究报告。收入这"
+      },
+      {
+        "text": "妇好墓",
+        "page": 6,
+        "source": "ocr",
+        "context": "土了大批译铜器\n具，是继 70 年代发现妇好墓后的又一项重要发现。这项工作，对深入研究"
+      },
+      {
+        "text": "郭家庄",
+        "page": 6,
+        "source": "ocr",
+        "context": "葛、车马坑等商代时期遗存的研究报告。\n\n郭家庄这批幕莫资料丰富并相当重要。简言之，其一"
+      },
+      {
+        "text": "妇好墓",
+        "page": 6,
+        "source": "ocr",
+        "context": "识。  + BEB 1976 年著名的\n妇好墓发现以来股运发据中又一项重要收获。其二，"
+      },
+      {
+        "text": "安阳",
+        "page": 7,
+        "source": "ocr",
+        "context": "学术委员会评审意见\n\n《安阳殷墟郭家庄商代基项》考古报告，刊裁了近 "
+      },
+      {
+        "text": "殷墟",
+        "page": 7,
+        "source": "ocr",
+        "context": "学术委员会评审意见\n\n《安阳殷墟郭家庄商代基项》考古报告，刊裁了近 20"
+      },
+      {
+        "text": "郭家庄",
+        "page": 7,
+        "source": "ocr",
+        "context": "学术委员会评审意见\n\n《安阳殷墟郭家庄商代基项》考古报告，刊裁了近 200 座"
+      },
+      {
+        "text": "郭家庄",
+        "page": 7,
+        "source": "ocr",
+        "context": "，有助于复原和清楚认\n识其全狐。股翅南部郭家庄幕地的发气，对了解股域布局和该幕地的性质"
+      },
+      {
+        "text": "郭家庄",
+        "page": 9,
+        "source": "ocr",
+        "context": "\n(179)\n(180)\n(186)\n\n郭家庄商代划藉登记表\nM160 AAR DMR"
+      },
+      {
+        "text": "郭家庄",
+        "page": 10,
+        "source": "ocr",
+        "context": "AED H ES\n\n插图目录\n\n安虽息趟郭家庄商代墓地位置示意图\n郭家庄请代幕地分区图"
+      },
+      {
+        "text": "郭家庄",
+        "page": 10,
+        "source": "ocr",
+        "context": "录\n\n安虽息趟郭家庄商代墓地位置示意图\n郭家庄请代幕地分区图             "
+      },
+      {
+        "text": "郭家庄",
+        "page": 10,
+        "source": "ocr",
+        "context": "                (2)\n郭家庄商代幕地中区、南区幕磊分布图      "
+      },
+      {
+        "text": "郭家庄",
+        "page": 10,
+        "source": "ocr",
+        "context": "             + (12)\n郭家庄商代幕其出土网责“           "
+      },
+      {
+        "text": "郭家庄",
+        "page": 10,
+        "source": "ocr",
+        "context": "             > (36)\n郭家庄商代莫非出土铀器纹饰拓本 …\n\n"
+      },
+      {
+        "text": "郭家庄",
+        "page": 11,
+        "source": "ocr",
+        "context": "neaee teeter eneeee\n郭家庄商代墓昔出土铜器纹饰拓本 -\nBBR E"
+      },
+      {
+        "text": "郭家庄",
+        "page": 11,
+        "source": "ocr",
+        "context": "REAKRERLTASBE, NF -\n郭家庄商代墓项出土铀泡、管和刻刀等 eee O"
+      },
+      {
+        "text": "郭家庄",
+        "page": 11,
+        "source": "ocr",
+        "context": "铀泡、管和刻刀等 eee Oe eee\n郭家庄商代墓草出土铜三角形器\n郭家庄商代墓草出"
+      },
+      {
+        "text": "郭家庄",
+        "page": 11,
+        "source": "ocr",
+        "context": " eee\n郭家庄商代墓草出土铜三角形器\n郭家庄商代墓草出土夯石、石局和购网坠等\n郭家庄"
+      },
+      {
+        "text": "郭家庄",
+        "page": 11,
+        "source": "ocr",
+        "context": "郭家庄商代墓草出土夯石、石局和购网坠等\n郭家庄商代莫非出土玉兽头、牛头和鸟等 ……\n郭"
+      },
+      {
+        "text": "郭家庄",
+        "page": 11,
+        "source": "ocr",
+        "context": "庄商代莫非出土玉兽头、牛头和鸟等 ……\n郭家庄商代蔓草出土骨已、甸和笋等\nBREAKE"
+      },
+      {
+        "text": "郭家庄",
+        "page": 14,
+        "source": "ocr",
+        "context": "0 hts\nBARE M160 Ht\n\n郭家庄车马坑 MS2\n\nRE M50\n\nBRE"
+      },
+      {
+        "text": "郭家庄",
+        "page": 14,
+        "source": "ocr",
+        "context": "ERA +R\nSREBRSRL LAR\n郭家庄商代划莫出土铜戈\n\nHS RE wg R"
+      },
+      {
+        "text": "郭家庄",
+        "page": 14,
+        "source": "ocr",
+        "context": "\nBRE M160 柠室器物出土情况\n\n郭家庄 M160 th +A MHRA. KB"
+      },
+      {
+        "text": "郭家庄",
+        "page": 14,
+        "source": "ocr",
+        "context": "M160 th +A MHRA. KB\n郭家庄 M160 HLA.\nBRE M160 "
+      },
+      {
+        "text": "郭家庄",
+        "page": 14,
+        "source": "ocr",
+        "context": "LA.\nBRE M160 出土铀方尊\n\n郭家庄 M160 Hh + A\n\nBRE MO"
+      },
+      {
+        "text": "郭家庄",
+        "page": 14,
+        "source": "ocr",
+        "context": "AM\n\nWR M160 出土铜盘、锁\n\n郭家庄 M160 LAT MEA. F\nBRE"
+      },
+      {
+        "text": "郭家庄",
+        "page": 15,
+        "source": "ocr",
+        "context": " + RS\nRREARE RH +E\n\n郭家庄商代莫非出土铜铃 RAHA\n郭家庄商代莫"
+      },
+      {
+        "text": "郭家庄",
+        "page": 15,
+        "source": "ocr",
+        "context": "E\n\n郭家庄商代莫非出土铜铃 RAHA\n郭家庄商代莫大出土铜锛、刻刀和泡等\n郭家庄商代"
+      },
+      {
+        "text": "郭家庄",
+        "page": 15,
+        "source": "ocr",
+        "context": "A\n郭家庄商代莫大出土铜锛、刻刀和泡等\n郭家庄商代墓萌出土才三角形器\n\n郭家庄商代墓昔"
+      },
+      {
+        "text": "郭家庄",
+        "page": 15,
+        "source": "ocr",
+        "context": "和泡等\n郭家庄商代墓萌出土才三角形器\n\n郭家庄商代墓昔出土石狂 RAS\n郭家庄商代墓葛"
+      },
+      {
+        "text": "郭家庄",
+        "page": 15,
+        "source": "ocr",
+        "context": "形器\n\n郭家庄商代墓昔出土石狂 RAS\n郭家庄商代墓葛出土玉虎、牛头和鸟等\n郭家庄商代"
+      },
+      {
+        "text": "郭家庄",
+        "page": 15,
+        "source": "ocr",
+        "context": "S\n郭家庄商代墓葛出土玉虎、牛头和鸟等\n郭家庄商代莫非出土斑瑛、环和管等\nRREARE"
+      },
+      {
+        "text": "郭家庄",
+        "page": 15,
+        "source": "ocr",
+        "context": "\nRREARRH H+ EH, AWS\n郭家庄 M160\n\n郭家庄 M160 ht.\n"
+      },
+      {
+        "text": "郭家庄",
+        "page": 15,
+        "source": "ocr",
+        "context": "+ EH, AWS\n郭家庄 M160\n\n郭家庄 M160 ht.\n郭家庄 ML60 出"
+      },
+      {
+        "text": "郭家庄",
+        "page": 15,
+        "source": "ocr",
+        "context": " M160\n\n郭家庄 M160 ht.\n郭家庄 ML60 出土氢有盖提梁易\nRRE M"
+      },
+      {
+        "text": "郭家庄",
+        "page": 15,
+        "source": "ocr",
+        "context": "Aa\n\nSRE M160 Ht se\n\n郭家庄 M160 th + 44H. LAP\n"
+      },
+      {
+        "text": "郭家庄",
+        "page": 15,
+        "source": "ocr",
+        "context": "M160 th + 44H. LAP\n\n郭家庄 M160 i Hs AE\n\n郭家庄 M"
+      },
+      {
+        "text": "郭家庄",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n\n郭家庄 M160 i Hs AE\n\n郭家庄 M160 Ht MAES. WAL\nB"
+      },
+      {
+        "text": "郭家庄",
+        "page": 15,
+        "source": "ocr",
+        "context": " WAL\nBRA M160 出土钢角\n\n郭家庄 M160 hh EAR\n\nBRE M1"
+      },
+      {
+        "text": "郭家庄",
+        "page": 15,
+        "source": "ocr",
+        "context": "RE M160 出土铜锛 、铲和铃等\n\n郭家庄 M160 HLERM, SRF\nBRE"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "K878",
+        "page": 4,
+        "source": "ocr",
+        "context": "D.RR-RMRS-AB-RA WV .K878.85\n中国版本图书馆 CIP 数据核字"
+      },
+      {
+        "text": "M160",
+        "page": 6,
+        "source": "ocr",
+        "context": "当完整地反映了这一墓地的埋基情况，其中 M160 中出土了大批译铜器\n具，是继 70 年"
+      },
+      {
+        "text": "M160",
+        "page": 6,
+        "source": "ocr",
+        "context": "批幕莫资料丰富并相当重要。简言之，其一，M160 是一座股起发据中十分罕\n见的未经次扰、"
+      },
+      {
+        "text": "M160",
+        "page": 7,
+        "source": "ocr",
+        "context": "藉、陪昔坑的资料和研\n究成果。其中，以 M160 贵族幕为重点，此座募内随菲青铜器近 3"
+      },
+      {
+        "text": "M52",
+        "page": 9,
+        "source": "ocr",
+        "context": "…\n一 第一组陪莫坑…\n(—) #35 M52\n(=) 车马坑 M58\n\n马坑 M51"
+      },
+      {
+        "text": "M58",
+        "page": 9,
+        "source": "ocr",
+        "context": "(—) #35 M52\n(=) 车马坑 M58\n\n马坑 M51\n二 ROAR\n(一) "
+      },
+      {
+        "text": "M51",
+        "page": 9,
+        "source": "ocr",
+        "context": "M52\n(=) 车马坑 M58\n\n马坑 M51\n二 ROAR\n(一) 车马坑 M146"
+      },
+      {
+        "text": "M146",
+        "page": 9,
+        "source": "ocr",
+        "context": " M51\n二 ROAR\n(一) 车马坑 M146\n(=) 车马坑 M147\n(=) Bt"
+      },
+      {
+        "text": "M147",
+        "page": 9,
+        "source": "ocr",
+        "context": "一) 车马坑 M146\n(=) 车马坑 M147\n(=) Bt ML43 …\n《四) 羊"
+      },
+      {
+        "text": "M148",
+        "page": 9,
+        "source": "ocr",
+        "context": "=) Bt ML43 …\n《四) 羊十 M148\n\n… (127)\n(127)\n(127"
+      },
+      {
+        "text": "M160",
+        "page": 9,
+        "source": "ocr",
+        "context": ")\n(186)\n\n郭家庄商代划藉登记表\nM160 AAR DMR “\nMI160 Fal"
+      },
+      {
+        "text": "M160",
+        "page": 9,
+        "source": "ocr",
+        "context": " IK A He a ve HE TP\nM160 REP RBA …\nM160 MAF "
+      },
+      {
+        "text": "M160",
+        "page": 9,
+        "source": "ocr",
+        "context": "E TP\nM160 REP RBA …\nM160 MAF BCR …\n\nww\n\n(191"
+      },
+      {
+        "text": "M50",
+        "page": 10,
+        "source": "ocr",
+        "context": "               (10)\nM50 棺上填土中的狗骨 ，         "
+      },
+      {
+        "text": "M172",
+        "page": 10,
+        "source": "ocr",
+        "context": "               (11)\nM172 平面图及耳室毅面图 -        "
+      },
+      {
+        "text": "M160",
+        "page": 11,
+        "source": "ocr",
+        "context": "EBRAHLEXS, EH MMB -\nM160 平 Am\nM160 二层台上殉人及出土"
+      },
+      {
+        "text": "M160",
+        "page": 11,
+        "source": "ocr",
+        "context": " EH MMB -\nM160 平 Am\nM160 二层台上殉人及出土器先分布图 ……\nM"
+      },
+      {
+        "text": "M160",
+        "page": 11,
+        "source": "ocr",
+        "context": "……\nMI160 MSU BPM +o\nM160 Sth + 5}\nM160 th -£"
+      },
+      {
+        "text": "M160",
+        "page": 11,
+        "source": "ocr",
+        "context": "PM +o\nM160 Sth + 5}\nM160 th -£ 44% iB aH\n\nM1"
+      },
+      {
+        "text": "M160",
+        "page": 11,
+        "source": "ocr",
+        "context": "60 th -£ 44% iB aH\n\nM160 a. RACHA\nM160 tH + "
+      },
+      {
+        "text": "M160",
+        "page": 11,
+        "source": "ocr",
+        "context": "B aH\n\nM160 a. RACHA\nM160 tH + A\n\n"
+      },
+      {
+        "text": "M160",
+        "page": 12,
+        "source": "ocr",
+        "context": "rscseeteeesses (BD)\nM160 ch +4897 M4 SHH AK\n"
+      },
+      {
+        "text": "M4",
+        "page": 12,
+        "source": "ocr",
+        "context": " (BD)\nM160 ch +4897 M4 SHH AK\nM160 oh + $6"
+      },
+      {
+        "text": "M160",
+        "page": 12,
+        "source": "ocr",
+        "context": " ch +4897 M4 SHH AK\nM160 oh + $64 2 He 2    "
+      },
+      {
+        "text": "M160",
+        "page": 12,
+        "source": "ocr",
+        "context": "               (84)\nM160 H+ AER. BAAR S     "
+      },
+      {
+        "text": "M160",
+        "page": 12,
+        "source": "ocr",
+        "context": "MI160 出土铀方莫 ee (86)\nM160 出土钢方尊纹饰拓本          "
+      },
+      {
+        "text": "M160",
+        "page": 12,
+        "source": "ocr",
+        "context": "               (88)\nM160 th tf …            "
+      },
+      {
+        "text": "M160",
+        "page": 12,
+        "source": "ocr",
+        "context": "             + (90)\nM160 Hy ARRON FE A cee c"
+      },
+      {
+        "text": "M160",
+        "page": 12,
+        "source": "ocr",
+        "context": "MI169 HEGEL ee (QZ)\nM160 Ht £461 8 St HE    "
+      },
+      {
+        "text": "M160",
+        "page": 12,
+        "source": "ocr",
+        "context": "               (93)\nM160 Ht …               "
+      },
+      {
+        "text": "M160",
+        "page": 12,
+        "source": "ocr",
+        "context": "               (95)\nM160 i +497 aE          "
+      },
+      {
+        "text": "M160",
+        "page": 12,
+        "source": "ocr",
+        "context": "               (96)\nM160 # AB.              "
+      },
+      {
+        "text": "M160",
+        "page": 12,
+        "source": "ocr",
+        "context": "               (98)\nM160 ih +: 64 25 9. 94 A"
+      },
+      {
+        "text": "M160",
+        "page": 12,
+        "source": "ocr",
+        "context": "               (99)\nM160 sh +: 4877 OL      "
+      },
+      {
+        "text": "M160",
+        "page": 12,
+        "source": "ocr",
+        "context": "            … (100)\nM160 HE HAM. MHBRAK -   "
+      },
+      {
+        "text": "M160",
+        "page": 12,
+        "source": "ocr",
+        "context": "              (101)\nM160 出土钢斗、盘和方形器 ree     "
+      },
+      {
+        "text": "M160",
+        "page": 12,
+        "source": "ocr",
+        "context": "           ++ (103)\nM160 84 ABE cere        "
+      },
+      {
+        "text": "M160",
+        "page": 12,
+        "source": "ocr",
+        "context": "              (104)\nM160 ii + Hie 6% HAC    "
+      },
+      {
+        "text": "M160",
+        "page": 12,
+        "source": "ocr",
+        "context": "            » (105)\nM160 ib AR oeeerece este"
+      },
+      {
+        "text": "M160",
+        "page": 12,
+        "source": "ocr",
+        "context": "              (108)\nM160 th +               "
+      },
+      {
+        "text": "M160",
+        "page": 12,
+        "source": "ocr",
+        "context": "              (109)\nM160 it + 958           "
+      },
+      {
+        "text": "M160",
+        "page": 13,
+        "source": "ocr",
+        "context": "110\n1a\n112\n113\n114\n\nM160 出土琅钱纹饰拓本\nM160 HtER,"
+      },
+      {
+        "text": "M160",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n114\n\nM160 出土琅钱纹饰拓本\nM160 HtER, R-\nM160 ih + "
+      },
+      {
+        "text": "M160",
+        "page": 13,
+        "source": "ocr",
+        "context": "钱纹饰拓本\nM160 HtER, R-\nM160 ih + EHH hi, FAI IT"
+      },
+      {
+        "text": "M160",
+        "page": 13,
+        "source": "ocr",
+        "context": "、蝉和刻刀等纹饰拓本 ee (118)\nM160 Ht HB, RFR -\nM160 d"
+      },
+      {
+        "text": "M160",
+        "page": 13,
+        "source": "ocr",
+        "context": ")\nM160 Ht HB, RFR -\nM160 d+ PG, A\nBH MS2 平面图"
+      },
+      {
+        "text": "M52",
+        "page": 13,
+        "source": "ocr",
+        "context": " 、衡后视图ppp (128)\nERR M52 出土乌杆头 、喜和是环等\n车马境 M5"
+      },
+      {
+        "text": "M52",
+        "page": 13,
+        "source": "ocr",
+        "context": "52 出土乌杆头 、喜和是环等\n车马境 M52 Ht St, AS\n车马坑 M58 平"
+      },
+      {
+        "text": "M58",
+        "page": 13,
+        "source": "ocr",
+        "context": "境 M52 Ht St, AS\n车马坑 M58 平面国 -er\n车马坑 M146 平面"
+      },
+      {
+        "text": "M146",
+        "page": 13,
+        "source": "ocr",
+        "context": "车马坑 M58 平面国 -er\n车马坑 M146 平面图 、车子侧视图与后视图\n车马坑 "
+      },
+      {
+        "text": "M146",
+        "page": 13,
+        "source": "ocr",
+        "context": " 平面图 、车子侧视图与后视图\n车马坑 M146 衡饰分布围 vee eer eset "
+      },
+      {
+        "text": "M146",
+        "page": 13,
+        "source": "ocr",
+        "context": "r eset ee cerns\n车马坑 M146 出土铜泡、骨管和圳环等ee (142)"
+      },
+      {
+        "text": "M147",
+        "page": 13,
+        "source": "ocr",
+        "context": "、骨管和圳环等ee (142)\n车马坑 M147 平面图、车子俩视图与后视图、衡前视图 "
+      },
+      {
+        "text": "M147",
+        "page": 13,
+        "source": "ocr",
+        "context": "、衡前视图 ppp (hdd)\n车马坑 M147 HES BH. %\nSRA MI47 "
+      },
+      {
+        "text": "M143",
+        "page": 13,
+        "source": "ocr",
+        "context": "A MI47 HEM. BHAA\n马坑 M143 平、齐面图 verre\n羊坑 M148"
+      },
+      {
+        "text": "M148",
+        "page": 13,
+        "source": "ocr",
+        "context": "M143 平、齐面图 verre\n羊坑 M148 1 He  泡和镜等 Ce\n\n"
+      },
+      {
+        "text": "M160",
+        "page": 14,
+        "source": "ocr",
+        "context": "13\n#14\n#15\n#16\n\nBRE M160\n\nBARE M160 hts\nBARE"
+      },
+      {
+        "text": "M160",
+        "page": 14,
+        "source": "ocr",
+        "context": "#16\n\nBRE M160\n\nBARE M160 hts\nBARE M160 Ht\n\n郭"
+      },
+      {
+        "text": "M160",
+        "page": 14,
+        "source": "ocr",
+        "context": "\nBARE M160 hts\nBARE M160 Ht\n\n郭家庄车马坑 MS2\n\nRE "
+      },
+      {
+        "text": "M50",
+        "page": 14,
+        "source": "ocr",
+        "context": " Ht\n\n郭家庄车马坑 MS2\n\nRE M50\n\nBREAKS +e\nSBR AE G"
+      },
+      {
+        "text": "M160",
+        "page": 14,
+        "source": "ocr",
+        "context": "SREMABH +h. OT\n\nBRE M160 柠室器物出土情况\n\n郭家庄 M160 "
+      },
+      {
+        "text": "M160",
+        "page": 14,
+        "source": "ocr",
+        "context": " M160 柠室器物出土情况\n\n郭家庄 M160 th +A MHRA. KB\n郭家庄 "
+      },
+      {
+        "text": "M160",
+        "page": 14,
+        "source": "ocr",
+        "context": " th +A MHRA. KB\n郭家庄 M160 HLA.\nBRE M160 出土铀方尊"
+      },
+      {
+        "text": "M160",
+        "page": 14,
+        "source": "ocr",
+        "context": "B\n郭家庄 M160 HLA.\nBRE M160 出土铀方尊\n\n郭家庄 M160 Hh "
+      },
+      {
+        "text": "M160",
+        "page": 14,
+        "source": "ocr",
+        "context": "BRE M160 出土铀方尊\n\n郭家庄 M160 Hh + A\n\nBRE MOO H+,"
+      },
+      {
+        "text": "M160",
+        "page": 14,
+        "source": "ocr",
+        "context": "A\n\nBRE MOO H+,\nWARE M160 bt AM\n\nWR M160 出土铜盘"
+      },
+      {
+        "text": "M160",
+        "page": 14,
+        "source": "ocr",
+        "context": "WARE M160 bt AM\n\nWR M160 出土铜盘、锁\n\n郭家庄 M160 LA"
+      },
+      {
+        "text": "M160",
+        "page": 14,
+        "source": "ocr",
+        "context": "WR M160 出土铜盘、锁\n\n郭家庄 M160 LAT MEA. F\nBRE M160"
+      },
+      {
+        "text": "M160",
+        "page": 14,
+        "source": "ocr",
+        "context": "M160 LAT MEA. F\nBRE M160 Ht RR, RAE\n\n&\nMARR\n"
+      },
+      {
+        "text": "M160",
+        "page": 15,
+        "source": "ocr",
+        "context": "ARRH H+ EH, AWS\n郭家庄 M160\n\n郭家庄 M160 ht.\n郭家庄 M"
+      },
+      {
+        "text": "M160",
+        "page": 15,
+        "source": "ocr",
+        "context": ", AWS\n郭家庄 M160\n\n郭家庄 M160 ht.\n郭家庄 ML60 出土氢有盖提"
+      },
+      {
+        "text": "M160",
+        "page": 15,
+        "source": "ocr",
+        "context": "庄 ML60 出土氢有盖提梁易\nRRE M160 H+ Ae, WS\n\nBARE M16"
+      },
+      {
+        "text": "M160",
+        "page": 15,
+        "source": "ocr",
+        "context": "160 H+ Ae, WS\n\nBARE M160 Hts, w\n\nBRE M160 Ht"
+      },
+      {
+        "text": "M160",
+        "page": 15,
+        "source": "ocr",
+        "context": "RE M160 Hts, w\n\nBRE M160 Ht Aa\n\nSRE M160 Ht "
+      },
+      {
+        "text": "M160",
+        "page": 15,
+        "source": "ocr",
+        "context": "BRE M160 Ht Aa\n\nSRE M160 Ht se\n\n郭家庄 M160 th "
+      },
+      {
+        "text": "M160",
+        "page": 15,
+        "source": "ocr",
+        "context": "SRE M160 Ht se\n\n郭家庄 M160 th + 44H. LAP\n\n郭家庄 "
+      },
+      {
+        "text": "M160",
+        "page": 15,
+        "source": "ocr",
+        "context": " th + 44H. LAP\n\n郭家庄 M160 i Hs AE\n\n郭家庄 M160 H"
+      },
+      {
+        "text": "M160",
+        "page": 15,
+        "source": "ocr",
+        "context": "庄 M160 i Hs AE\n\n郭家庄 M160 Ht MAES. WAL\nBRA M1"
+      },
+      {
+        "text": "M160",
+        "page": 15,
+        "source": "ocr",
+        "context": "60 Ht MAES. WAL\nBRA M160 出土钢角\n\n郭家庄 M160 hh E"
+      },
+      {
+        "text": "M160",
+        "page": 15,
+        "source": "ocr",
+        "context": "\nBRA M160 出土钢角\n\n郭家庄 M160 hh EAR\n\nBRE M160 出土"
+      },
+      {
+        "text": "M160",
+        "page": 15,
+        "source": "ocr",
+        "context": "家庄 M160 hh EAR\n\nBRE M160 出土铜大刀、艺\n\nBRE M160 H"
+      },
+      {
+        "text": "M160",
+        "page": 15,
+        "source": "ocr",
+        "context": "E M160 出土铜大刀、艺\n\nBRE M160 HLA\n\nRARE M160 Ht, "
+      },
+      {
+        "text": "M160",
+        "page": 15,
+        "source": "ocr",
+        "context": "\nBRE M160 HLA\n\nRARE M160 Ht, +S Be\nBRE MiCOK"
+      },
+      {
+        "text": "M160",
+        "page": 15,
+        "source": "ocr",
+        "context": " MiCOK ts, MARS\nBRE M160 出土铜锛 、铲和铃等\n\n郭家庄 M16"
+      },
+      {
+        "text": "M160",
+        "page": 15,
+        "source": "ocr",
+        "context": "160 出土铜锛 、铲和铃等\n\n郭家庄 M160 HLERM, SRF\nBRE M1OO"
+      },
+      {
+        "text": "M160",
+        "page": 15,
+        "source": "ocr",
+        "context": "\nBRE MOLE. GMBH\nBRE M160 出土玉蝉、普形饰和长方形饰等\n加家庄 "
+      }
+    ],
+    "年代": [
+      {
+        "text": "商代",
+        "page": 4,
+        "source": "ocr",
+        "context": "在版编目{CIPj;数据\n安阳股妃郭家庄商代基头/中国社会科学院考古研究所缩鞭.\n北"
+      },
+      {
+        "text": "金",
+        "page": 5,
+        "source": "ocr",
+        "context": "本报告出版得到\n中国社会科学院出版基金部分资助\n"
+      },
+      {
+        "text": "商代",
+        "page": 6,
+        "source": "ocr",
+        "context": "后的又一项重要发现。这项工作，对深入研究商代的埋磊制度、\n家族结构、科技发展〈商代车"
+      },
+      {
+        "text": "商代",
+        "page": 6,
+        "source": "ocr",
+        "context": "究商代的埋磊制度、\n家族结构、科技发展〈商代车制、商代青钢铸造业等发展) 水平以及投"
+      },
+      {
+        "text": "商代",
+        "page": 6,
+        "source": "ocr",
+        "context": "磊制度、\n家族结构、科技发展〈商代车制、商代青钢铸造业等发展) 水平以及投直布局等等"
+      },
+      {
+        "text": "清",
+        "page": 6,
+        "source": "ocr",
+        "context": "果的基础上对这批材\n料作出恰当评价，论点清楚，论据充足，因而具有极高学术价值。\n\n"
+      },
+      {
+        "text": "商代",
+        "page": 6,
+        "source": "ocr",
+        "context": "发气到的近 200 BE\n莫葛、车马坑等商代时期遗存的研究报告。\n\n郭家庄这批幕莫资"
+      },
+      {
+        "text": "商代",
+        "page": 6,
+        "source": "ocr",
+        "context": "起发据中十分罕\n见的未经次扰、保存完整的商代贵族墓，随非青铜器 290 多件，青铜兵"
+      },
+      {
+        "text": "清",
+        "page": 6,
+        "source": "ocr",
+        "context": "整者做了科学 、细致的复原研究，从而比较清楚地揭示出商代马车的面狐。\n\n发气者通过"
+      },
+      {
+        "text": "商代",
+        "page": 6,
+        "source": "ocr",
+        "context": " 、细致的复原研究，从而比较清楚地揭示出商代马车的面狐。\n\n发气者通过对这批资料的整"
+      },
+      {
+        "text": "商代",
+        "page": 6,
+        "source": "ocr",
+        "context": "统\n的报道; 还以这批资料为出发点，对于商代晚期的埋莫制度，青铜器的组合、形制、分期"
+      },
+      {
+        "text": "商代",
+        "page": 6,
+        "source": "ocr",
+        "context": "面提出一系列新见解。以上二方\n面，都成为商代考古的新的重要参考系，具有较高的学术价值"
+      },
+      {
+        "text": "商代",
+        "page": 6,
+        "source": "ocr",
+        "context": "、研究方面都具有较高水准基础上完成的一部商代\n考古新作。\n\n一一中国社会科学院考古研"
+      },
+      {
+        "text": "殷墟",
+        "page": 7,
+        "source": "ocr",
+        "context": "学术委员会评审意见\n\n《安阳殷墟郭家庄商代基项》考古报告，刊裁了近 20"
+      },
+      {
+        "text": "商代",
+        "page": 7,
+        "source": "ocr",
+        "context": "学术委员会评审意见\n\n《安阳殷墟郭家庄商代基项》考古报告，刊裁了近 200 座商代"
+      },
+      {
+        "text": "商代",
+        "page": 7,
+        "source": "ocr",
+        "context": "商代基项》考古报告，刊裁了近 200 座商代幕藉、陪昔坑的资料和研\n究成果。其中，以"
+      },
+      {
+        "text": "商代",
+        "page": 7,
+        "source": "ocr",
+        "context": "兵器种类多样，\n钢礼器还多有铭文，对研究商代埋苦制度，青铜器组合、分期、铸造技术等具"
+      },
+      {
+        "text": "商代",
+        "page": 7,
+        "source": "ocr",
+        "context": " 1976 年股墟妇好摹之后又一座重要的商代\n墓莫。车马坑保存完好，揭示了商代马车的"
+      },
+      {
+        "text": "商代",
+        "page": 7,
+        "source": "ocr",
+        "context": "重要的商代\n墓莫。车马坑保存完好，揭示了商代马车的结构、车马饰具的用途等，有助于复原"
+      },
+      {
+        "text": "清",
+        "page": 7,
+        "source": "ocr",
+        "context": "车的结构、车马饰具的用途等，有助于复原和清楚认\n识其全狐。股翅南部郭家庄幕地的发气"
+      },
+      {
+        "text": "商代",
+        "page": 7,
+        "source": "ocr",
+        "context": "系统整理、论证和研究 ，是\n一部高水平的商代考古新著。\n\n一一中国社会科学院考古研究"
+      },
+      {
+        "text": "商代",
+        "page": 9,
+        "source": "ocr",
+        "context": "79)\n(180)\n(186)\n\n郭家庄商代划藉登记表\nM160 AAR DMR “"
+      },
+      {
+        "text": "商代",
+        "page": 10,
+        "source": "ocr",
+        "context": " H ES\n\n插图目录\n\n安虽息趟郭家庄商代墓地位置示意图\n郭家庄请代幕地分区图  "
+      },
+      {
+        "text": "商代",
+        "page": 10,
+        "source": "ocr",
+        "context": "             (2)\n郭家庄商代幕地中区、南区幕磊分布图        "
+      },
+      {
+        "text": "商代",
+        "page": 10,
+        "source": "ocr",
+        "context": "          + (12)\n郭家庄商代幕其出土网责“             "
+      },
+      {
+        "text": "商代",
+        "page": 10,
+        "source": "ocr",
+        "context": "          > (36)\n郭家庄商代莫非出土铀器纹饰拓本 …\n\n"
+      },
+      {
+        "text": "商代",
+        "page": 11,
+        "source": "ocr",
+        "context": "ee teeter eneeee\n郭家庄商代墓昔出土铜器纹饰拓本 -\nBBR EE "
+      },
+      {
+        "text": "商代",
+        "page": 11,
+        "source": "ocr",
+        "context": "KRERLTASBE, NF -\n郭家庄商代墓项出土铀泡、管和刻刀等 eee Oe "
+      },
+      {
+        "text": "商代",
+        "page": 11,
+        "source": "ocr",
+        "context": "管和刻刀等 eee Oe eee\n郭家庄商代墓草出土铜三角形器\n郭家庄商代墓草出土夯"
+      },
+      {
+        "text": "商代",
+        "page": 11,
+        "source": "ocr",
+        "context": "e\n郭家庄商代墓草出土铜三角形器\n郭家庄商代墓草出土夯石、石局和购网坠等\n郭家庄商代"
+      },
+      {
+        "text": "商代",
+        "page": 11,
+        "source": "ocr",
+        "context": "商代墓草出土夯石、石局和购网坠等\n郭家庄商代莫非出土玉兽头、牛头和鸟等 ……\n郭家庄"
+      },
+      {
+        "text": "商代",
+        "page": 11,
+        "source": "ocr",
+        "context": "莫非出土玉兽头、牛头和鸟等 ……\n郭家庄商代蔓草出土骨已、甸和笋等\nBREAKER "
+      },
+      {
+        "text": "商代",
+        "page": 14,
+        "source": "ocr",
+        "context": " +R\nSREBRSRL LAR\n郭家庄商代划莫出土铜戈\n\nHS RE wg RB\n"
+      },
+      {
+        "text": "商代",
+        "page": 15,
+        "source": "ocr",
+        "context": "RS\nRREARE RH +E\n\n郭家庄商代莫非出土铜铃 RAHA\n郭家庄商代莫大出"
+      },
+      {
+        "text": "商代",
+        "page": 15,
+        "source": "ocr",
+        "context": "郭家庄商代莫非出土铜铃 RAHA\n郭家庄商代莫大出土铜锛、刻刀和泡等\n郭家庄商代墓萌"
+      },
+      {
+        "text": "商代",
+        "page": 15,
+        "source": "ocr",
+        "context": "家庄商代莫大出土铜锛、刻刀和泡等\n郭家庄商代墓萌出土才三角形器\n\n郭家庄商代墓昔出土"
+      },
+      {
+        "text": "商代",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n郭家庄商代墓萌出土才三角形器\n\n郭家庄商代墓昔出土石狂 RAS\n郭家庄商代墓葛出土"
+      },
+      {
+        "text": "商代",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n郭家庄商代墓昔出土石狂 RAS\n郭家庄商代墓葛出土玉虎、牛头和鸟等\n郭家庄商代莫非"
+      },
+      {
+        "text": "商代",
+        "page": 15,
+        "source": "ocr",
+        "context": "家庄商代墓葛出土玉虎、牛头和鸟等\n郭家庄商代莫非出土斑瑛、环和管等\nRREARER "
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "车马坑",
+        "page": 6,
+        "source": "ocr",
+        "context": "间在当地发气到的近 200 BE\n莫葛、车马坑等商代时期遗存的研究报告。\n\n郭家庄这批"
+      },
+      {
+        "text": "车马坑",
+        "page": 6,
+        "source": "ocr",
+        "context": "重要收获。其二，在墓地范围内发据到成组的车马坑，并\n对其中保存完整者做了科学 、细致的"
+      },
+      {
+        "text": "车马坑",
+        "page": 6,
+        "source": "ocr",
+        "context": "的埋莫制度，青铜器的组合、形制、分期，\n车马坑的排列、组合及其与主墓的关系、马车的结构"
+      },
+      {
+        "text": "车马坑",
+        "page": 7,
+        "source": "ocr",
+        "context": "年股墟妇好摹之后又一座重要的商代\n墓莫。车马坑保存完好，揭示了商代马车的结构、车马饰具"
+      },
+      {
+        "text": "车马坑",
+        "page": 9,
+        "source": "ocr",
+        "context": "莫坑…\n(—) #35 M52\n(=) 车马坑 M58\n\n马坑 M51\n二 ROAR\n"
+      },
+      {
+        "text": "车马坑",
+        "page": 9,
+        "source": "ocr",
+        "context": "\n\n马坑 M51\n二 ROAR\n(一) 车马坑 M146\n(=) 车马坑 M147\n("
+      },
+      {
+        "text": "车马坑",
+        "page": 9,
+        "source": "ocr",
+        "context": "AR\n(一) 车马坑 M146\n(=) 车马坑 M147\n(=) Bt ML43 …\n"
+      },
+      {
+        "text": "车马坑",
+        "page": 13,
+        "source": "ocr",
+        "context": "等\n车马境 M52 Ht St, AS\n车马坑 M58 平面国 -er\n车马坑 M14"
+      },
+      {
+        "text": "车马坑",
+        "page": 13,
+        "source": "ocr",
+        "context": " AS\n车马坑 M58 平面国 -er\n车马坑 M146 平面图 、车子侧视图与后视图"
+      },
+      {
+        "text": "车马坑",
+        "page": 13,
+        "source": "ocr",
+        "context": "M146 平面图 、车子侧视图与后视图\n车马坑 M146 衡饰分布围 vee eer "
+      },
+      {
+        "text": "车马坑",
+        "page": 13,
+        "source": "ocr",
+        "context": "e eer eset ee cerns\n车马坑 M146 出土铜泡、骨管和圳环等ee "
+      },
+      {
+        "text": "车马坑",
+        "page": 13,
+        "source": "ocr",
+        "context": "出土铜泡、骨管和圳环等ee (142)\n车马坑 M147 平面图、车子俩视图与后视图、"
+      },
+      {
+        "text": "车马坑",
+        "page": 13,
+        "source": "ocr",
+        "context": "与后视图、衡前视图 ppp (hdd)\n车马坑 M147 HES BH. %\nSRA "
+      },
+      {
+        "text": "车马坑",
+        "page": 14,
+        "source": "ocr",
+        "context": "ts\nBARE M160 Ht\n\n郭家庄车马坑 MS2\n\nRE M50\n\nBREAKS"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "饰",
+        "page": 7,
+        "source": "ocr",
+        "context": "马坑保存完好，揭示了商代马车的结构、车马饰具的用途等，有助于复原和清楚认\n识其全狐"
+      },
+      {
+        "text": "饰",
+        "page": 10,
+        "source": "ocr",
+        "context": " > (36)\n郭家庄商代莫非出土铀器纹饰拓本 …\n\n"
+      },
+      {
+        "text": "饰",
+        "page": 11,
+        "source": "ocr",
+        "context": " eneeee\n郭家庄商代墓昔出土铜器纹饰拓本 -\nBBR EE AR ER ee"
+      },
+      {
+        "text": "泡",
+        "page": 11,
+        "source": "ocr",
+        "context": "SBE, NF -\n郭家庄商代墓项出土铀泡、管和刻刀等 eee Oe eee\n郭家"
+      },
+      {
+        "text": "刀",
+        "page": 11,
+        "source": "ocr",
+        "context": "NF -\n郭家庄商代墓项出土铀泡、管和刻刀等 eee Oe eee\n郭家庄商代墓草"
+      },
+      {
+        "text": "尊",
+        "page": 12,
+        "source": "ocr",
+        "context": "方莫 ee (86)\nM160 出土钢方尊纹饰拓本                "
+      },
+      {
+        "text": "饰",
+        "page": 12,
+        "source": "ocr",
+        "context": " ee (86)\nM160 出土钢方尊纹饰拓本                  "
+      },
+      {
+        "text": "盘",
+        "page": 12,
+        "source": "ocr",
+        "context": "    (101)\nM160 出土钢斗、盘和方形器 ree            "
+      },
+      {
+        "text": "饰",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n113\n114\n\nM160 出土琅钱纹饰拓本\nM160 HtER, R-\nM16"
+      },
+      {
+        "text": "刀",
+        "page": 13,
+        "source": "ocr",
+        "context": "AI IT\nML6O 出土玉牛 、蝉和刻刀等纹饰拓本 ee (118)\nM160 "
+      },
+      {
+        "text": "饰",
+        "page": 13,
+        "source": "ocr",
+        "context": "IT\nML6O 出土玉牛 、蝉和刻刀等纹饰拓本 ee (118)\nM160 Ht "
+      },
+      {
+        "text": "环",
+        "page": 13,
+        "source": "ocr",
+        "context": ")\nERR M52 出土乌杆头 、喜和是环等\n车马境 M52 Ht St, AS\n"
+      },
+      {
+        "text": "饰",
+        "page": 13,
+        "source": "ocr",
+        "context": "车子侧视图与后视图\n车马坑 M146 衡饰分布围 vee eer eset ee "
+      },
+      {
+        "text": "铜泡",
+        "page": 13,
+        "source": "ocr",
+        "context": "ee cerns\n车马坑 M146 出土铜泡、骨管和圳环等ee (142)\n车马坑 "
+      },
+      {
+        "text": "环",
+        "page": 13,
+        "source": "ocr",
+        "context": "s\n车马坑 M146 出土铜泡、骨管和圳环等ee (142)\n车马坑 M147 平"
+      },
+      {
+        "text": "泡",
+        "page": 13,
+        "source": "ocr",
+        "context": "verre\n羊坑 M148 1 He  泡和镜等 Ce\n\n"
+      },
+      {
+        "text": "镜",
+        "page": 13,
+        "source": "ocr",
+        "context": "rre\n羊坑 M148 1 He  泡和镜等 Ce\n\n"
+      },
+      {
+        "text": "铜戈",
+        "page": 14,
+        "source": "ocr",
+        "context": "EBRSRL LAR\n郭家庄商代划莫出土铜戈\n\nHS RE wg RB\n\n图版目录\n"
+      },
+      {
+        "text": "尊",
+        "page": 14,
+        "source": "ocr",
+        "context": "0 HLA.\nBRE M160 出土铀方尊\n\n郭家庄 M160 Hh + A\n\nB"
+      },
+      {
+        "text": "铜盘",
+        "page": 14,
+        "source": "ocr",
+        "context": "60 bt AM\n\nWR M160 出土铜盘、锁\n\n郭家庄 M160 LAT MEA"
+      },
+      {
+        "text": "铜铃",
+        "page": 15,
+        "source": "ocr",
+        "context": "ARE RH +E\n\n郭家庄商代莫非出土铜铃 RAHA\n郭家庄商代莫大出土铜锛、刻刀"
+      },
+      {
+        "text": "铜锛",
+        "page": 15,
+        "source": "ocr",
+        "context": "非出土铜铃 RAHA\n郭家庄商代莫大出土铜锛、刻刀和泡等\n郭家庄商代墓萌出土才三角形"
+      },
+      {
+        "text": "刀",
+        "page": 15,
+        "source": "ocr",
+        "context": "铃 RAHA\n郭家庄商代莫大出土铜锛、刻刀和泡等\n郭家庄商代墓萌出土才三角形器\n\n"
+      },
+      {
+        "text": "泡",
+        "page": 15,
+        "source": "ocr",
+        "context": "RAHA\n郭家庄商代莫大出土铜锛、刻刀和泡等\n郭家庄商代墓萌出土才三角形器\n\n郭家"
+      },
+      {
+        "text": "环",
+        "page": 15,
+        "source": "ocr",
+        "context": "虎、牛头和鸟等\n郭家庄商代莫非出土斑瑛、环和管等\nRREARER BLE, RRS"
+      },
+      {
+        "text": "刀",
+        "page": 15,
+        "source": "ocr",
+        "context": "h EAR\n\nBRE M160 出土铜大刀、艺\n\nBRE M160 HLA\n\nRA"
+      },
+      {
+        "text": "铜锛",
+        "page": 15,
+        "source": "ocr",
+        "context": "ts, MARS\nBRE M160 出土铜锛 、铲和铃等\n\n郭家庄 M160 HLE"
+      },
+      {
+        "text": "铃",
+        "page": 15,
+        "source": "ocr",
+        "context": "RS\nBRE M160 出土铜锛 、铲和铃等\n\n郭家庄 M160 HLERM, S"
+      },
+      {
+        "text": "饰",
+        "page": 15,
+        "source": "ocr",
+        "context": "MBH\nBRE M160 出土玉蝉、普形饰和长方形饰等\n加家庄 MOOKLHH,."
+      },
+      {
+        "text": "饰",
+        "page": 15,
+        "source": "ocr",
+        "context": "RE M160 出土玉蝉、普形饰和长方形饰等\n加家庄 MOOKLHH,. GBAT"
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "堆积",
+        "page": 8,
+        "source": "ocr",
+        "context": "      -- (70)\n(一) 地层堆积                    "
+      }
+    ],
+    "葬具": [
+      {
+        "text": "棺",
+        "page": 10,
+        "source": "ocr",
+        "context": "           (10)\nM50 棺上填土中的狗骨 ，           "
+      }
+    ],
+    "陶器": [
+      {
+        "text": "刀",
+        "page": 11,
+        "source": "ocr",
+        "context": "NF -\n郭家庄商代墓项出土铀泡、管和刻刀等 eee Oe eee\n郭家庄商代墓草"
+      },
+      {
+        "text": "网坠",
+        "page": 11,
+        "source": "ocr",
+        "context": "角形器\n郭家庄商代墓草出土夯石、石局和购网坠等\n郭家庄商代莫非出土玉兽头、牛头和鸟等"
+      },
+      {
+        "text": "尊",
+        "page": 12,
+        "source": "ocr",
+        "context": "方莫 ee (86)\nM160 出土钢方尊纹饰拓本                "
+      },
+      {
+        "text": "盘",
+        "page": 12,
+        "source": "ocr",
+        "context": "    (101)\nM160 出土钢斗、盘和方形器 ree            "
+      },
+      {
+        "text": "刀",
+        "page": 13,
+        "source": "ocr",
+        "context": "AI IT\nML6O 出土玉牛 、蝉和刻刀等纹饰拓本 ee (118)\nM160 "
+      },
+      {
+        "text": "环",
+        "page": 13,
+        "source": "ocr",
+        "context": ")\nERR M52 出土乌杆头 、喜和是环等\n车马境 M52 Ht St, AS\n"
+      },
+      {
+        "text": "环",
+        "page": 13,
+        "source": "ocr",
+        "context": "s\n车马坑 M146 出土铜泡、骨管和圳环等ee (142)\n车马坑 M147 平"
+      },
+      {
+        "text": "尊",
+        "page": 14,
+        "source": "ocr",
+        "context": "0 HLA.\nBRE M160 出土铀方尊\n\n郭家庄 M160 Hh + A\n\nB"
+      },
+      {
+        "text": "盘",
+        "page": 14,
+        "source": "ocr",
+        "context": "0 bt AM\n\nWR M160 出土铜盘、锁\n\n郭家庄 M160 LAT MEA"
+      },
+      {
+        "text": "刀",
+        "page": 15,
+        "source": "ocr",
+        "context": "铃 RAHA\n郭家庄商代莫大出土铜锛、刻刀和泡等\n郭家庄商代墓萌出土才三角形器\n\n"
+      },
+      {
+        "text": "环",
+        "page": 15,
+        "source": "ocr",
+        "context": "虎、牛头和鸟等\n郭家庄商代莫非出土斑瑛、环和管等\nRREARER BLE, RRS"
+      },
+      {
+        "text": "刀",
+        "page": 15,
+        "source": "ocr",
+        "context": "h EAR\n\nBRE M160 出土铜大刀、艺\n\nBRE M160 HLA\n\nRA"
+      }
+    ],
+    "建筑结构": [
+      {
+        "text": "二层台",
+        "page": 11,
+        "source": "ocr",
+        "context": "MB -\nM160 平 Am\nM160 二层台上殉人及出土器先分布图 ……\nMI160"
+      }
+    ],
+    "骨器": [
+      {
+        "text": "骨管",
+        "page": 13,
+        "source": "ocr",
+        "context": "cerns\n车马坑 M146 出土铜泡、骨管和圳环等ee (142)\n车马坑 M14"
+      }
+    ]
+  }
+}

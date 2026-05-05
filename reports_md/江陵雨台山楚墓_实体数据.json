@@ -1,0 +1,582 @@
+{
+  "name": "江陵雨台山楚墓",
+  "file": "江陵雨台山楚墓.pdf",
+  "era": "战国",
+  "culture": "楚国墓葬",
+  "processed_pages": 15,
+  "total_entities": 90,
+  "entity_stats": {
+    "年代": 9,
+    "铜器": 17,
+    "遗存类型": 1,
+    "遗迹编号": 31,
+    "葬具": 14,
+    "陶器": 9,
+    "纹饰": 1,
+    "玉器": 2,
+    "遗址名称": 1,
+    "测量数据": 5
+  },
+  "entities": {
+    "年代": [
+      {
+        "text": "元",
+        "page": 3,
+        "source": "ocr",
+        "context": "\n_     。     (精)9.60元\n统一书号，11068。1178 定价("
+      },
+      {
+        "text": "明",
+        "page": 4,
+        "source": "ocr",
+        "context": "n ces eve\n(—)    综合说明 wee sae coe cee cee"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "ocr",
+        "context": "OLB RR 〈图版一，上) 。\n\n这次清理的五百余座楚幕，位于雨台山的南部，地势"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "ocr",
+        "context": "百余座楚幕，位于雨台山的南部，地势较低，清理前是一片稻田和疯\n地。它的东面和西面均"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "ocr",
+        "context": "和西面均临长湖,南面距长湖约1.5公里。清理区东西长1050、南北宽80米，\n幕药"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "ocr",
+        "context": "批幕匡得到妥状保护并及时配合工程 进\n行清理，纪南城文物保护与考古发掘领导小组和荆"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "ocr",
+        "context": "地指挥部\n的统一领导下，对这批幕葬进行了清理 〈图版一，下) 。清理工作从1975"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "ocr",
+        "context": "对这批幕葬进行了清理 〈图版一，下) 。清理工作从1975年11月中旬开\n始，到1"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "ocr",
+        "context": "长1050、南北宽80米的河道断面上，夺清理中小型\n幕莫554座。在报告编写过程中"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "饰",
+        "page": 5,
+        "source": "ocr",
+        "context": "\n\n胎质与制法.…。…。ov。\n色彩与纹饰.ee\nDR IE ose cesses"
+      },
+      {
+        "text": "饰",
+        "page": 8,
+        "source": "ocr",
+        "context": "e cos ces eve\n\n陶器彩绘纹饰…\n\n[lig Gj oa0 00 ev"
+      },
+      {
+        "text": "豆",
+        "page": 8,
+        "source": "ocr",
+        "context": "one nee see sees\n\n陶盖豆、豆     eee\n\n@\nfig FE"
+      },
+      {
+        "text": "豆",
+        "page": 8,
+        "source": "ocr",
+        "context": "e nee see sees\n\n陶盖豆、豆     eee\n\n@\nfig FE N"
+      },
+      {
+        "text": "铜戈",
+        "page": 9,
+        "source": "ocr",
+        "context": "八七\n图八八\n图八九\n图九〇\n图九一\n\n铜戈馈纹拓 本。oooesoeeeeoee。"
+      },
+      {
+        "text": "杯",
+        "page": 9,
+        "source": "ocr",
+        "context": " Bk. bes\n\nHi SRK\n\n铜票杯、鸡首饰、蛇形圈饰、器盖…\n\nHR aS"
+      },
+      {
+        "text": "饰",
+        "page": 9,
+        "source": "ocr",
+        "context": " bes\n\nHi SRK\n\n铜票杯、鸡首饰、蛇形圈饰、器盖…\n\nHR aS EX "
+      },
+      {
+        "text": "饰",
+        "page": 9,
+        "source": "ocr",
+        "context": "\nHi SRK\n\n铜票杯、鸡首饰、蛇形圈饰、器盖…\n\nHR aS EX Mihi "
+      },
+      {
+        "text": "杯",
+        "page": 11,
+        "source": "ocr",
+        "context": "85\n陶敦\nMasi. HI we\n\n耳杯387:3 (#)\n\nit\n"
+      },
+      {
+        "text": "铜镜",
+        "page": 12,
+        "source": "ocr",
+        "context": "器\n\nHet #9. AUT]. BR\n铜镜等\n\nAJ. by ob. EMAAR "
+      },
+      {
+        "text": "斧",
+        "page": 12,
+        "source": "ocr",
+        "context": "e] 3B\n\n铜杂器\n\n钢勾等及铁熏、和斧\nWR. MAAS\n读耳杯\n\neH\n\n读"
+      },
+      {
+        "text": "杯",
+        "page": 12,
+        "source": "ocr",
+        "context": "勾等及铁熏、和斧\nWR. MAAS\n读耳杯\n\neH\n\n读耳杯\n\nue pp\n\nRE"
+      },
+      {
+        "text": "杯",
+        "page": 12,
+        "source": "ocr",
+        "context": "WR. MAAS\n读耳杯\n\neH\n\n读耳杯\n\nue pp\n\nRE\n\nRE\n"
+      },
+      {
+        "text": "环",
+        "page": 13,
+        "source": "ocr",
+        "context": "\nA A\n\nA ffi\n\nEE. A\n玉环、管，料管\n\n玉佩饰等\n\nEA. BUR"
+      },
+      {
+        "text": "饰",
+        "page": 13,
+        "source": "ocr",
+        "context": "i\n\nEE. A\n玉环、管，料管\n\n玉佩饰等\n\nEA. BUR. WH\ni at\n"
+      },
+      {
+        "text": "豆",
+        "page": 14,
+        "source": "ocr",
+        "context": "芋之   一全\n‘Ss #i  =\n\n-豆                    "
+      },
+      {
+        "text": "环",
+        "page": 14,
+        "source": "ocr",
+        "context": "社雨台大队境内。它的东\n面和南面为长湖所环绕;西部距衷钞公路约芋公里上 西南邻近楚"
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "织物",
+        "page": 5,
+        "source": "ocr",
+        "context": ". BH. A. Ba\n丝织品.ee\n麻织物。。eoe oooeeoeseoeses"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "S06",
+        "page": 6,
+        "source": "ocr",
+        "context": "(〈128)\n二、  SEAR oes S06 COS ASS CES ESS CHS"
+      },
+      {
+        "text": "M75",
+        "page": 7,
+        "source": "ocr",
+        "context": "oeveesoeeoooie。\n(2) M75—235, 557. 55G cvccc"
+      },
+      {
+        "text": "M236",
+        "page": 7,
+        "source": "ocr",
+        "context": "cee cee cee cee\n€3) M236—454, 549, 550. 551."
+      },
+      {
+        "text": "M455",
+        "page": 7,
+        "source": "ocr",
+        "context": "vee cee cee cee\n(4) M455—548, 552. 553. S55 "
+      },
+      {
+        "text": "S55",
+        "page": 7,
+        "source": "ocr",
+        "context": "M455—548, 552. 553. S55 Gecccccccccee cee c"
+      },
+      {
+        "text": "M554",
+        "page": 7,
+        "source": "ocr",
+        "context": "ee ces cen ese cone\nM554 500 5 门板 elec cee v"
+      },
+      {
+        "text": "M554",
+        "page": 7,
+        "source": "ocr",
+        "context": "ee ces ce cee cece\n\nM554 404% BEBE GE SY AR "
+      },
+      {
+        "text": "M1",
+        "page": 8,
+        "source": "ocr",
+        "context": "\na\n\n|\nOF\n®\n\n播 A AR\n\nM1 76RGHESE, BA BRBESE"
+      },
+      {
+        "text": "M323",
+        "page": 8,
+        "source": "ocr",
+        "context": "e sen erene ene en\n\nM323 4 #8 24 #4) BG BE t"
+      },
+      {
+        "text": "M245",
+        "page": 8,
+        "source": "ocr",
+        "context": "t OE TE] Ee one owe\nM245 HAE SE, BY) 面 [Roce"
+      },
+      {
+        "text": "M245",
+        "page": 8,
+        "source": "ocr",
+        "context": "e see ces cen eens\n\nM245 35 FE Jy BH BE TELA"
+      },
+      {
+        "text": "M4204",
+        "page": 8,
+        "source": "ocr",
+        "context": "oe vee ces coe cee\n\nM4204 FETE. 2A BE BE ELS)"
+      },
+      {
+        "text": "M1834",
+        "page": 8,
+        "source": "ocr",
+        "context": "cnccnn ace cee ene\n\nM1834 FESE. PA BE TAR TE "
+      },
+      {
+        "text": "M2147",
+        "page": 8,
+        "source": "ocr",
+        "context": "es sos ace coe ees\n\nM2147, # 面 Ale\n\nM463棺梓平、训"
+      },
+      {
+        "text": "M354",
+        "page": 8,
+        "source": "ocr",
+        "context": "\n\nM354樟盖板 平 面 图.ce\n\nM354 FS EE By Be BE SY A"
+      },
+      {
+        "text": "M555",
+        "page": 8,
+        "source": "ocr",
+        "context": "coe cee cas cce cee\nM555 Fel BE We Ba BE GS "
+      },
+      {
+        "text": "L888",
+        "page": 9,
+        "source": "ocr",
+        "context": "OOF SLE SEE PEE OLE L888\n\nWEIG a. HE\n\nAE OO "
+      },
+      {
+        "text": "S08",
+        "page": 9,
+        "source": "ocr",
+        "context": "898\n\nTAS EE oes  OG S08 O60 COB 604 OSe  ee"
+      },
+      {
+        "text": "S88",
+        "page": 9,
+        "source": "ocr",
+        "context": " ee ¢e8 668 06\n\n#00 S88 See tes\n\nFOS SHS SH"
+      },
+      {
+        "text": "M89",
+        "page": 10,
+        "source": "ocr",
+        "context": "e cee serves sense\n\nM89 }H -L fig BS ove co"
+      },
+      {
+        "text": "M4634",
+        "page": 11,
+        "source": "ocr",
+        "context": "况\n棺樟及人和骨出土情况\nHARARE\nM4634 FE he RAE a HH ER\nB"
+      },
+      {
+        "text": "M557",
+        "page": 15,
+        "source": "ocr",
+        "context": "西之间为填地，无蔓昔。M75一M235、M557、M558分布在第二岗 地 上。\nM22"
+      },
+      {
+        "text": "M236",
+        "page": 15,
+        "source": "ocr",
+        "context": "西之间的汗地上分布有少量 vb RE. M236—454, M549—551, M554"
+      },
+      {
+        "text": "M549",
+        "page": 15,
+        "source": "ocr",
+        "context": "少量 vb RE. M236—454, M549—551, M554\n分布在第三岗地上。"
+      },
+      {
+        "text": "M554",
+        "page": 15,
+        "source": "ocr",
+        "context": "M236—454, M549—551, M554\n分布在第三岗地上。M438以东至M53"
+      },
+      {
+        "text": "M552",
+        "page": 15,
+        "source": "ocr",
+        "context": "工程停工，没有发掘。M455一M548、M552、M553、M556分布\n在第四岗地上 "
+      },
+      {
+        "text": "M553",
+        "page": 15,
+        "source": "ocr",
+        "context": "没有发掘。M455一M548、M552、M553、M556分布\n在第四岗地上 〈图二，("
+      },
+      {
+        "text": "M555",
+        "page": 15,
+        "source": "ocr",
+        "context": "973年本馆在雨台山北部发掘的一座幕 (M555)\n和1976年11月南京大学考古专业学"
+      },
+      {
+        "text": "M556",
+        "page": 15,
+        "source": "ocr",
+        "context": "学员在雨台山原河道工程区发掘的三座幕 (M556、M557\nM558) ，和总计558座"
+      },
+      {
+        "text": "M557",
+        "page": 15,
+        "source": "ocr",
+        "context": "山原河道工程区发掘的三座幕 (M556、M557\nM558) ，和总计558座墓。\n\n太"
+      },
+      {
+        "text": "M558",
+        "page": 15,
+        "source": "ocr",
+        "context": "程区发掘的三座幕 (M556、M557\nM558) ，和总计558座墓。\n\n太一一一一一"
+      }
+    ],
+    "葬具": [
+      {
+        "text": "棺",
+        "page": 7,
+        "source": "ocr",
+        "context": "e cee cee cece\n\nM179棺樟及随葬品分布 FE By Pel ce"
+      },
+      {
+        "text": "棺",
+        "page": 7,
+        "source": "ocr",
+        "context": " cee seston cee\nM419棺樟及随葬品分布平面 Eo] cee ee"
+      },
+      {
+        "text": "棺",
+        "page": 7,
+        "source": "ocr",
+        "context": " cee cee vee see\nM99棺樟及随葬品分布平面 Lh] cee ce"
+      },
+      {
+        "text": "棺",
+        "page": 7,
+        "source": "ocr",
+        "context": "e cenece\nM554樟室分板平面及棺樟 剖面 [Efene cnn ccc "
+      },
+      {
+        "text": "棺",
+        "page": 7,
+        "source": "ocr",
+        "context": "efore coe eee\n\nMI159棺樟平、剖及随莫品 分 布 Fl\n\nM16"
+      },
+      {
+        "text": "棺",
+        "page": 7,
+        "source": "ocr",
+        "context": "Fl\n\nM169门板结构图…\n\nM169棺樟平、章及随葬品分布 平面图…\n\n(15"
+      },
+      {
+        "text": "棺",
+        "page": 8,
+        "source": "ocr",
+        "context": "con cee cee cvs\n\nM89棺樟平、章及随葬品分布平面 Pelee o"
+      },
+      {
+        "text": "棺",
+        "page": 8,
+        "source": "ocr",
+        "context": "M2147, # 面 Ale\n\nM463棺梓平、训及随葬品分布 平面 Pel ne"
+      },
+      {
+        "text": "棺",
+        "page": 11,
+        "source": "ocr",
+        "context": ":21 (AD\n发据工地\nM555封十及棺樟出土情况\n棺梓出土情况\n棺樟出土情况\n"
+      },
+      {
+        "text": "棺",
+        "page": 11,
+        "source": "ocr",
+        "context": "\n发据工地\nM555封十及棺樟出土情况\n棺梓出土情况\n棺樟出土情况\n棺樟及随葬品出"
+      },
+      {
+        "text": "棺",
+        "page": 11,
+        "source": "ocr",
+        "context": "555封十及棺樟出土情况\n棺梓出土情况\n棺樟出土情况\n棺樟及随葬品出土情况\n棺樟及"
+      },
+      {
+        "text": "棺",
+        "page": 11,
+        "source": "ocr",
+        "context": "樟出土情况\n棺梓出土情况\n棺樟出土情况\n棺樟及随葬品出土情况\n棺樟及人和骨出土情况"
+      },
+      {
+        "text": "棺",
+        "page": 11,
+        "source": "ocr",
+        "context": "况\n棺樟出土情况\n棺樟及随葬品出土情况\n棺樟及人和骨出土情况\n棺樟及人和骨出土情况"
+      },
+      {
+        "text": "棺",
+        "page": 11,
+        "source": "ocr",
+        "context": "及随葬品出土情况\n棺樟及人和骨出土情况\n棺樟及人和骨出土情况\nHARARE\nM46"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "豆",
+        "page": 8,
+        "source": "ocr",
+        "context": "one nee see sees\n\n陶盖豆、豆     eee\n\n@\nfig FE"
+      },
+      {
+        "text": "豆",
+        "page": 8,
+        "source": "ocr",
+        "context": "e nee see sees\n\n陶盖豆、豆     eee\n\n@\nfig FE N"
+      },
+      {
+        "text": "杯",
+        "page": 9,
+        "source": "ocr",
+        "context": " Bk. bes\n\nHi SRK\n\n铜票杯、鸡首饰、蛇形圈饰、器盖…\n\nHR aS"
+      },
+      {
+        "text": "杯",
+        "page": 11,
+        "source": "ocr",
+        "context": "85\n陶敦\nMasi. HI we\n\n耳杯387:3 (#)\n\nit\n"
+      },
+      {
+        "text": "杯",
+        "page": 12,
+        "source": "ocr",
+        "context": "勾等及铁熏、和斧\nWR. MAAS\n读耳杯\n\neH\n\n读耳杯\n\nue pp\n\nRE"
+      },
+      {
+        "text": "杯",
+        "page": 12,
+        "source": "ocr",
+        "context": "WR. MAAS\n读耳杯\n\neH\n\n读耳杯\n\nue pp\n\nRE\n\nRE\n"
+      },
+      {
+        "text": "环",
+        "page": 13,
+        "source": "ocr",
+        "context": "\nA A\n\nA ffi\n\nEE. A\n玉环、管，料管\n\n玉佩饰等\n\nEA. BUR"
+      },
+      {
+        "text": "豆",
+        "page": 14,
+        "source": "ocr",
+        "context": "芋之   一全\n‘Ss #i  =\n\n-豆                    "
+      },
+      {
+        "text": "环",
+        "page": 14,
+        "source": "ocr",
+        "context": "社雨台大队境内。它的东\n面和南面为长湖所环绕;西部距衷钞公路约芋公里上 西南邻近楚"
+      }
+    ],
+    "纹饰": [
+      {
+        "text": "彩绘",
+        "page": 8,
+        "source": "ocr",
+        "context": " cee cos ces eve\n\n陶器彩绘纹饰…\n\n[lig Gj oa0 00 "
+      }
+    ],
+    "玉器": [
+      {
+        "text": "玉环",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n\nA A\n\nA ffi\n\nEE. A\n玉环、管，料管\n\n玉佩饰等\n\nEA. BUR"
+      },
+      {
+        "text": "玉佩",
+        "page": 13,
+        "source": "ocr",
+        "context": "ffi\n\nEE. A\n玉环、管，料管\n\n玉佩饰等\n\nEA. BUR. WH\ni at"
+      }
+    ],
+    "遗址名称": [
+      {
+        "text": "岗上",
+        "page": 15,
+        "source": "ocr",
+        "context": "第四岗地上 〈图二，(1)一(4)) 。岗上的莫不仅分布密集，而且多埋莫较大的莫，一"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": "33米",
+        "page": 15,
+        "source": "ocr",
+        "context": "拔为68 6K, AAA\n部较低，海拔约33米。东西最宽处约 6 公里，南北长约5公里"
+      },
+      {
+        "text": "宽80米",
+        "page": 15,
+        "source": "ocr",
+        "context": "约1.5公里。清理区东西长1050、南北宽80米，\n幕药多分布在南北走同的四道岗地上。由"
+      },
+      {
+        "text": "30厘米",
+        "page": 15,
+        "source": "ocr",
+        "context": "上。墓匡密集的地方，两墓间的最近距离仅约30厘米。\n\n二、发气经过\n\n1975年11月，"
+      },
+      {
+        "text": "宽80米",
+        "page": 15,
+        "source": "ocr",
+        "context": "纪南城内的三岔河,河道全长2000多米，宽80米。动工初期，在河道的断面\n上先后暴露出中"
+      },
+      {
+        "text": "宽80米",
+        "page": 15,
+        "source": "ocr",
+        "context": "6年1月赴旬结束。在东西长1050、南北宽80米的河道断面上，夺清理中小型\n幕莫554座"
+      }
+    ]
+  }
+}

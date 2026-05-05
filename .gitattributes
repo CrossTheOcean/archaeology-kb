@@ -1,0 +1,5 @@
+# PDF原始文件走LFS（3GB总量）
+pdf_raw/** filter=lfs diff=lfs merge=lfs -text
+
+# 关系数据大文件走LFS
+output/relations_all_reports.json filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,981 @@
+{
+  "name": "宁夏灵武窑",
+  "file": "宁夏灵武窑.pdf",
+  "era": "西夏",
+  "culture": "瓷窑遗址",
+  "processed_pages": 15,
+  "total_entities": 158,
+  "entity_stats": {
+    "遗址名称": 9,
+    "遗迹编号": 4,
+    "陶器": 54,
+    "铜器": 68,
+    "年代": 13,
+    "探方编号": 9,
+    "测量数据": 1
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "宁夏",
+        "page": 4,
+        "source": "ocr",
+        "context": "内蒙队于 1984 年至 1986 年在宁夏回族自治区灵武县磁窗\nSERA, 发现西"
+      },
+      {
+        "text": "宁夏",
+        "page": 5,
+        "source": "ocr",
+        "context": "专家推荐意见\n\n《宁夏灵武窗发掘报告》是 1984一1986 "
+      },
+      {
+        "text": "宁夏",
+        "page": 5,
+        "source": "ocr",
+        "context": "发掘报告》是 1984一1986 年发掘宁夏灵武县磁窗堡西夏瓷窑址的考古报告。该\n遗"
+      },
+      {
+        "text": "宁夏",
+        "page": 5,
+        "source": "ocr",
+        "context": "国社会科学院考古研究所研究员 Bt\n\n《宁夏灵武窖发掘报告, 是中国社会科学院考古研"
+      },
+      {
+        "text": "宁夏",
+        "page": 5,
+        "source": "ocr",
+        "context": "在 1984一1986 年正式科学发掘\n宁夏灵武具磁窗堡瓷窗遗址的报告专集。\n\n宁夏"
+      },
+      {
+        "text": "宁夏",
+        "page": 5,
+        "source": "ocr",
+        "context": "宁夏灵武具磁窗堡瓷窗遗址的报告专集。\n\n宁夏灵武窗是西夏王国的瓷密遗址. 西夏王国立"
+      },
+      {
+        "text": "宁夏",
+        "page": 5,
+        "source": "ocr",
+        "context": "是我国近年以来资窗考古的重要收获。\n\n《宁夏灵武窗发据报告》在全新资料的基础上提出了"
+      },
+      {
+        "text": "宁夏",
+        "page": 5,
+        "source": "ocr",
+        "context": "研究员 ELA\n学术委员会评审意见\n\n《宁夏灵武窗发掘报告》资料是全新的,填补了中国"
+      },
+      {
+        "text": "宁夏",
+        "page": 9,
+        "source": "ocr",
+        "context": "插 图目录\n\n宁夏回族自治区西夏窗址分布图pp (2)\n探"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "K876",
+        "page": 4,
+        "source": "ocr",
+        "context": "国一西夏(1038一\n1227) V. K876. 35\n\n中国版本图书馆CPP 数据核"
+      },
+      {
+        "text": "T7",
+        "page": 9,
+        "source": "ocr",
+        "context": " PA] TAT FR] pe (Q)\nT7 东壁地层痢面图(10)\nT1O 北壁地"
+      },
+      {
+        "text": "Y2",
+        "page": 9,
+        "source": "ocr",
+        "context": "谢面) pe (15)\n一四 (2)  Y2 剖面图 pp (17)\n一六 T7F2"
+      },
+      {
+        "text": "Y4",
+        "page": 9,
+        "source": "ocr",
+        "context": " AERCHTIR cee 《37)\n\nY4 aE 剖面图.pp (12) ;\n"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "环",
+        "page": 4,
+        "source": "ocr",
+        "context": "西夏瓷器及残片,填补\n了中国陶瓷史上的缺环与空白; 其中以白釉和噜刻花器物最具特色"
+      },
+      {
+        "text": "环",
+        "page": 5,
+        "source": "ocr",
+        "context": "武窗的发据与研究填补了中\n国陶瓷史上的缺环和空白，是我国近年以来资窗考古的重要收获"
+      },
+      {
+        "text": "环",
+        "page": 5,
+        "source": "ocr",
+        "context": "告》资料是全新的,填补了中国陶次史上的缺环和空白, 是近年来我国资\n窗考古的一项重"
+      },
+      {
+        "text": "环",
+        "page": 6,
+        "source": "ocr",
+        "context": "章 ALA ST SLAP\n\n节 ”地理环境…\n节 ”历史沿革…\n节\n\n第二章 地"
+      },
+      {
+        "text": "碗",
+        "page": 9,
+        "source": "ocr",
+        "context": "(28)\n三二“一期文化“折沿硫、高圈足碗pp (33)\n三三”一期文化“折腹盘、"
+      },
+      {
+        "text": "盘",
+        "page": 9,
+        "source": "ocr",
+        "context": "足碗pp (33)\n三三”一期文化“折腹盘、折沿盘、曲腹莽pe (34)\n=  一"
+      },
+      {
+        "text": "盘",
+        "page": 9,
+        "source": "ocr",
+        "context": " (33)\n三三”一期文化“折腹盘、折沿盘、曲腹莽pe (34)\n=  一期文化“"
+      },
+      {
+        "text": "瓶",
+        "page": 10,
+        "source": "ocr",
+        "context": "re ee\n= (44)\n《45)\n\n经瓶及腹部纹饰展开图 cen ene cee"
+      },
+      {
+        "text": "瓶",
+        "page": 10,
+        "source": "ocr",
+        "context": " rier rere errr Tr\n经瓶腹部纹饰展开图 eeeeseeeeeee"
+      },
+      {
+        "text": "瓶",
+        "page": 10,
+        "source": "ocr",
+        "context": "epeesewgneeweeseea\n经瓶腹部纹饰展开图 eeoooooooooo"
+      },
+      {
+        "text": "瓶",
+        "page": 10,
+        "source": "ocr",
+        "context": "ocooooveoooovoooos\n经瓶及腹部纹饰展开图  Pre rr rr "
+      },
+      {
+        "text": "瓶",
+        "page": 10,
+        "source": "ocr",
+        "context": "rTiiriiriTeri rire\n经瓶及腹部纹饰展开图 seeeessseoe"
+      },
+      {
+        "text": "钵",
+        "page": 10,
+        "source": "ocr",
+        "context": "(62)\n\n丛口沿纹饰展开图 pe\n敏口钵及纹饰展开图 pp\n浅腹钵、  折沿钵、"
+      },
+      {
+        "text": "钵",
+        "page": 10,
+        "source": "ocr",
+        "context": "图 pe\n敏口钵及纹饰展开图 pp\n浅腹钵、  折沿钵、  mens eeeeee"
+      },
+      {
+        "text": "钵",
+        "page": 10,
+        "source": "ocr",
+        "context": "口钵及纹饰展开图 pp\n浅腹钵、  折沿钵、  mens eeeeeeeseses"
+      },
+      {
+        "text": "瓶",
+        "page": 10,
+        "source": "ocr",
+        "context": "oesioceosoeooseos\n\n经瓶腹部纹饰展开图 ，\n经瓶腹部纹饰展开图 "
+      },
+      {
+        "text": "瓶",
+        "page": 10,
+        "source": "ocr",
+        "context": "oseos\n\n经瓶腹部纹饰展开图 ，\n经瓶腹部纹饰展开图 ，\n\n经瓶纹饰残片 …'"
+      },
+      {
+        "text": "瓶",
+        "page": 10,
+        "source": "ocr",
+        "context": "展开图 ，\n经瓶腹部纹饰展开图 ，\n\n经瓶纹饰残片 …'\n\nLAE -\n\na\n\nD"
+      },
+      {
+        "text": "杯",
+        "page": 10,
+        "source": "ocr",
+        "context": "TET ie pe it ene\n\n高足杯、深腹杯、 NE seeees\n\n(39"
+      },
+      {
+        "text": "杯",
+        "page": 10,
+        "source": "ocr",
+        "context": "ie pe it ene\n\n高足杯、深腹杯、 NE seeees\n\n(39)\n(4"
+      },
+      {
+        "text": "刀",
+        "page": 11,
+        "source": "ocr",
+        "context": " …\n测温具 ，\n模子 -\n\n铀片、骨刻刀、骨容器等 ……\n\n折腹盘、曲腹盘…\n\n"
+      },
+      {
+        "text": "盘",
+        "page": 11,
+        "source": "ocr",
+        "context": "\n\n铀片、骨刻刀、骨容器等 ……\n\n折腹盘、曲腹盘…\n\n秃发、著发、戴风帆人塑像\n"
+      },
+      {
+        "text": "盘",
+        "page": 11,
+        "source": "ocr",
+        "context": "、骨刻刀、骨容器等 ……\n\n折腹盘、曲腹盘…\n\n秃发、著发、戴风帆人塑像\n\n二期文"
+      },
+      {
+        "text": "盘",
+        "page": 11,
+        "source": "ocr",
+        "context": " ES\n\nwee\nAl AR AA. 轮盘等…\n\n4\n\nmae ee  oo\n\n="
+      },
+      {
+        "text": "钵",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n\n双耳匀、单耳能、仙………和9\n\n敏口钵、浅采钵、楼是重生\n\nEAA HRT A"
+      },
+      {
+        "text": "钵",
+        "page": 12,
+        "source": "ocr",
+        "context": "匀、单耳能、仙………和9\n\n敏口钵、浅采钵、楼是重生\n\nEAA HRT A\n\n高足"
+      },
+      {
+        "text": "杯",
+        "page": 12,
+        "source": "ocr",
+        "context": "、楼是重生\n\nEAA HRT A\n\n高足杯、深腹杯、小杯…\n放\n\nWet. Rae"
+      },
+      {
+        "text": "杯",
+        "page": 12,
+        "source": "ocr",
+        "context": "生\n\nEAA HRT A\n\n高足杯、深腹杯、小杯…\n放\n\nWet. Rae kT "
+      },
+      {
+        "text": "杯",
+        "page": 12,
+        "source": "ocr",
+        "context": "EAA HRT A\n\n高足杯、深腹杯、小杯…\n放\n\nWet. Rae kT ae."
+      },
+      {
+        "text": "钵",
+        "page": 12,
+        "source": "ocr",
+        "context": " iene\nBLS. WK. RA\n\n匣钵…         os ee\n\nBe "
+      },
+      {
+        "text": "碗",
+        "page": 12,
+        "source": "ocr",
+        "context": ". Pa\nV2 ee Awe i:\n\n顶碗、顶盘、   和            "
+      },
+      {
+        "text": "盘",
+        "page": 12,
+        "source": "ocr",
+        "context": "a\nV2 ee Awe i:\n\n顶碗、顶盘、   和               "
+      },
+      {
+        "text": "瓶",
+        "page": 12,
+        "source": "ocr",
+        "context": "字形窜具、支又、垫条…\n\n伪。\n小口双耳瓶、饶、 eee Ta\n\n(115)\n(1"
+      },
+      {
+        "text": "瓶",
+        "page": 14,
+        "source": "ocr",
+        "context": "期文化\n\n图版目录\n\n一号罕炉\n小口深腹瓶、经瓶\nhi\n\nEe. MA. RE\n\n"
+      },
+      {
+        "text": "瓶",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n\n图版目录\n\n一号罕炉\n小口深腹瓶、经瓶\nhi\n\nEe. MA. RE\n\n灵武磁"
+      },
+      {
+        "text": "碗",
+        "page": 14,
+        "source": "ocr",
+        "context": "BE\nBO Bi\nHH AS Be\n曲腹碗残片\n\nHH SS BE\n\nHy SL\n"
+      },
+      {
+        "text": "盘",
+        "page": 14,
+        "source": "ocr",
+        "context": "\nTHs Bi\n\nDr AS 2\n\n折沿盘\n\n曲腹盘\n\nBT BE Gh\n\n斜壁盆"
+      },
+      {
+        "text": "盘",
+        "page": 14,
+        "source": "ocr",
+        "context": "Bi\n\nDr AS 2\n\n折沿盘\n\n曲腹盘\n\nBT BE Gh\n\n斜壁盆纹饰残片\n"
+      },
+      {
+        "text": "盆",
+        "page": 14,
+        "source": "ocr",
+        "context": "盘\n\n曲腹盘\n\nBT BE Gh\n\n斜壁盆纹饰残片\n斜壁盆纹饰残片\nHe FS Z"
+      },
+      {
+        "text": "盆",
+        "page": 14,
+        "source": "ocr",
+        "context": "BT BE Gh\n\n斜壁盆纹饰残片\n斜壁盆纹饰残片\nHe FS Zt\n曲腹盆残片\n"
+      },
+      {
+        "text": "盆",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n斜壁盆纹饰残片\nHe FS Zt\n曲腹盆残片\n扇过\n\nhe\n\nJed es eA"
+      },
+      {
+        "text": "碗",
+        "page": 14,
+        "source": "ocr",
+        "context": "过\n\nhe\n\nJed es eA\n\n层口碗\n\n"
+      },
+      {
+        "text": "瓶",
+        "page": 15,
+        "source": "ocr",
+        "context": "\ni az\nia Iz\nia\nBAA\n经瓶\n经瓶\nSi\n经瓶\n经瓶\n经瓶\n经瓶\n经"
+      },
+      {
+        "text": "瓶",
+        "page": 15,
+        "source": "ocr",
+        "context": "az\nia Iz\nia\nBAA\n经瓶\n经瓶\nSi\n经瓶\n经瓶\n经瓶\n经瓶\n经瓶\n经"
+      },
+      {
+        "text": "瓶",
+        "page": 15,
+        "source": "ocr",
+        "context": "Iz\nia\nBAA\n经瓶\n经瓶\nSi\n经瓶\n经瓶\n经瓶\n经瓶\n经瓶\n经瓶纹饰残片\n"
+      },
+      {
+        "text": "瓶",
+        "page": 15,
+        "source": "ocr",
+        "context": "ia\nBAA\n经瓶\n经瓶\nSi\n经瓶\n经瓶\n经瓶\n经瓶\n经瓶\n经瓶纹饰残片\n经瓶纹"
+      },
+      {
+        "text": "瓶",
+        "page": 15,
+        "source": "ocr",
+        "context": "BAA\n经瓶\n经瓶\nSi\n经瓶\n经瓶\n经瓶\n经瓶\n经瓶\n经瓶纹饰残片\n经瓶纹饰残片"
+      },
+      {
+        "text": "瓶",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n经瓶\n经瓶\nSi\n经瓶\n经瓶\n经瓶\n经瓶\n经瓶\n经瓶纹饰残片\n经瓶纹饰残片\n\nT"
+      },
+      {
+        "text": "瓶",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n经瓶\nSi\n经瓶\n经瓶\n经瓶\n经瓶\n经瓶\n经瓶纹饰残片\n经瓶纹饰残片\n\nTE O"
+      },
+      {
+        "text": "瓶",
+        "page": 15,
+        "source": "ocr",
+        "context": "\nSi\n经瓶\n经瓶\n经瓶\n经瓶\n经瓶\n经瓶纹饰残片\n经瓶纹饰残片\n\nTE OK\nF"
+      },
+      {
+        "text": "瓶",
+        "page": 15,
+        "source": "ocr",
+        "context": "经瓶\n经瓶\n经瓶\n经瓶\n经瓶纹饰残片\n经瓶纹饰残片\n\nTE OK\nFEHR. PD"
+      },
+      {
+        "text": "钵",
+        "page": 15,
+        "source": "ocr",
+        "context": " 1 Si\n#&. 4\nSK ok\n敛口钵\nPRIS. LEK. Be\ntrie "
+      },
+      {
+        "text": "杯",
+        "page": 15,
+        "source": "ocr",
+        "context": "LEK. Be\ntrie &\n=\n\n高足杯、\n深腹杯\n&. “tt. fast. "
+      },
+      {
+        "text": "杯",
+        "page": 15,
+        "source": "ocr",
+        "context": "Be\ntrie &\n=\n\n高足杯、\n深腹杯\n&. “tt. fast. RE\n炉\n"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "环",
+        "page": 4,
+        "source": "ocr",
+        "context": "西夏瓷器及残片,填补\n了中国陶瓷史上的缺环与空白; 其中以白釉和噜刻花器物最具特色"
+      },
+      {
+        "text": "饰",
+        "page": 4,
+        "source": "ocr",
+        "context": "\n州窗系的强烈影响。而西夏瓷器的造型和纹饰则部分地反映出西夏王国党项族的生活习俗，"
+      },
+      {
+        "text": "环",
+        "page": 5,
+        "source": "ocr",
+        "context": "武窗的发据与研究填补了中\n国陶瓷史上的缺环和空白，是我国近年以来资窗考古的重要收获"
+      },
+      {
+        "text": "环",
+        "page": 5,
+        "source": "ocr",
+        "context": "告》资料是全新的,填补了中国陶次史上的缺环和空白, 是近年来我国资\n窗考古的一项重"
+      },
+      {
+        "text": "环",
+        "page": 6,
+        "source": "ocr",
+        "context": "章 ALA ST SLAP\n\n节 ”地理环境…\n节 ”历史沿革…\n节\n\n第二章 地"
+      },
+      {
+        "text": "饰",
+        "page": 7,
+        "source": "ocr",
+        "context": "\n第一节 ”器物成形.pe\n第二节 ”装饰技法.pe\n第三节 ”纹饰.8\n\n第六章"
+      },
+      {
+        "text": "饰",
+        "page": 7,
+        "source": "ocr",
+        "context": "\n第二节 ”装饰技法.pe\n第三节 ”纹饰.8\n\n第六章 ”结语\n\n一“工艺渊源…"
+      },
+      {
+        "text": "盘",
+        "page": 9,
+        "source": "ocr",
+        "context": "足碗pp (33)\n三三”一期文化“折腹盘、折沿盘、曲腹莽pe (34)\n=  一"
+      },
+      {
+        "text": "盘",
+        "page": 9,
+        "source": "ocr",
+        "context": " (33)\n三三”一期文化“折腹盘、折沿盘、曲腹莽pe (34)\n=  一期文化“"
+      },
+      {
+        "text": "瓶",
+        "page": 10,
+        "source": "ocr",
+        "context": "re ee\n= (44)\n《45)\n\n经瓶及腹部纹饰展开图 cen ene cee"
+      },
+      {
+        "text": "饰",
+        "page": 10,
+        "source": "ocr",
+        "context": "\n= (44)\n《45)\n\n经瓶及腹部纹饰展开图 cen ene ceece ee"
+      },
+      {
+        "text": "瓶",
+        "page": 10,
+        "source": "ocr",
+        "context": " rier rere errr Tr\n经瓶腹部纹饰展开图 eeeeseeeeeee"
+      },
+      {
+        "text": "饰",
+        "page": 10,
+        "source": "ocr",
+        "context": "r rere errr Tr\n经瓶腹部纹饰展开图 eeeeseeeeeeeeses"
+      },
+      {
+        "text": "瓶",
+        "page": 10,
+        "source": "ocr",
+        "context": "epeesewgneeweeseea\n经瓶腹部纹饰展开图 eeoooooooooo"
+      },
+      {
+        "text": "饰",
+        "page": 10,
+        "source": "ocr",
+        "context": "sewgneeweeseea\n经瓶腹部纹饰展开图 eeooooooooooooeo"
+      },
+      {
+        "text": "瓶",
+        "page": 10,
+        "source": "ocr",
+        "context": "ocooooveoooovoooos\n经瓶及腹部纹饰展开图  Pre rr rr "
+      },
+      {
+        "text": "饰",
+        "page": 10,
+        "source": "ocr",
+        "context": "oveoooovoooos\n经瓶及腹部纹饰展开图  Pre rr rr rrr r"
+      },
+      {
+        "text": "瓶",
+        "page": 10,
+        "source": "ocr",
+        "context": "rTiiriiriTeri rire\n经瓶及腹部纹饰展开图 seeeessseoe"
+      },
+      {
+        "text": "饰",
+        "page": 10,
+        "source": "ocr",
+        "context": "iiriTeri rire\n经瓶及腹部纹饰展开图 seeeessseoeseser"
+      },
+      {
+        "text": "饰",
+        "page": 10,
+        "source": "ocr",
+        "context": "eeeeeees  (62)\n\n丛口沿纹饰展开图 pe\n敏口钵及纹饰展开图 pp\n"
+      },
+      {
+        "text": "钵",
+        "page": 10,
+        "source": "ocr",
+        "context": "(62)\n\n丛口沿纹饰展开图 pe\n敏口钵及纹饰展开图 pp\n浅腹钵、  折沿钵、"
+      },
+      {
+        "text": "饰",
+        "page": 10,
+        "source": "ocr",
+        "context": ")\n\n丛口沿纹饰展开图 pe\n敏口钵及纹饰展开图 pp\n浅腹钵、  折沿钵、  m"
+      },
+      {
+        "text": "钵",
+        "page": 10,
+        "source": "ocr",
+        "context": "图 pe\n敏口钵及纹饰展开图 pp\n浅腹钵、  折沿钵、  mens eeeeee"
+      },
+      {
+        "text": "钵",
+        "page": 10,
+        "source": "ocr",
+        "context": "口钵及纹饰展开图 pp\n浅腹钵、  折沿钵、  mens eeeeeeeseses"
+      },
+      {
+        "text": "瓶",
+        "page": 10,
+        "source": "ocr",
+        "context": "oesioceosoeooseos\n\n经瓶腹部纹饰展开图 ，\n经瓶腹部纹饰展开图 "
+      },
+      {
+        "text": "饰",
+        "page": 10,
+        "source": "ocr",
+        "context": "oceosoeooseos\n\n经瓶腹部纹饰展开图 ，\n经瓶腹部纹饰展开图 ，\n\n经"
+      },
+      {
+        "text": "瓶",
+        "page": 10,
+        "source": "ocr",
+        "context": "oseos\n\n经瓶腹部纹饰展开图 ，\n经瓶腹部纹饰展开图 ，\n\n经瓶纹饰残片 …'"
+      },
+      {
+        "text": "饰",
+        "page": 10,
+        "source": "ocr",
+        "context": "s\n\n经瓶腹部纹饰展开图 ，\n经瓶腹部纹饰展开图 ，\n\n经瓶纹饰残片 …'\n\nLA"
+      },
+      {
+        "text": "瓶",
+        "page": 10,
+        "source": "ocr",
+        "context": "展开图 ，\n经瓶腹部纹饰展开图 ，\n\n经瓶纹饰残片 …'\n\nLAE -\n\na\n\nD"
+      },
+      {
+        "text": "饰",
+        "page": 10,
+        "source": "ocr",
+        "context": "图 ，\n经瓶腹部纹饰展开图 ，\n\n经瓶纹饰残片 …'\n\nLAE -\n\na\n\nDUR"
+      },
+      {
+        "text": "杯",
+        "page": 10,
+        "source": "ocr",
+        "context": "TET ie pe it ene\n\n高足杯、深腹杯、 NE seeees\n\n(39"
+      },
+      {
+        "text": "杯",
+        "page": 10,
+        "source": "ocr",
+        "context": "ie pe it ene\n\n高足杯、深腹杯、 NE seeees\n\n(39)\n(4"
+      },
+      {
+        "text": "刀",
+        "page": 11,
+        "source": "ocr",
+        "context": " …\n测温具 ，\n模子 -\n\n铀片、骨刻刀、骨容器等 ……\n\n折腹盘、曲腹盘…\n\n"
+      },
+      {
+        "text": "盘",
+        "page": 11,
+        "source": "ocr",
+        "context": "\n\n铀片、骨刻刀、骨容器等 ……\n\n折腹盘、曲腹盘…\n\n秃发、著发、戴风帆人塑像\n"
+      },
+      {
+        "text": "盘",
+        "page": 11,
+        "source": "ocr",
+        "context": "、骨刻刀、骨容器等 ……\n\n折腹盘、曲腹盘…\n\n秃发、著发、戴风帆人塑像\n\n二期文"
+      },
+      {
+        "text": "盘",
+        "page": 11,
+        "source": "ocr",
+        "context": " ES\n\nwee\nAl AR AA. 轮盘等…\n\n4\n\nmae ee  oo\n\n="
+      },
+      {
+        "text": "饰",
+        "page": 12,
+        "source": "ocr",
+        "context": "cene ses cacees\n深腹缸纹饰展开图.pp\n\n双耳匀、单耳能、仙………"
+      },
+      {
+        "text": "钵",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n\n双耳匀、单耳能、仙………和9\n\n敏口钵、浅采钵、楼是重生\n\nEAA HRT A"
+      },
+      {
+        "text": "钵",
+        "page": 12,
+        "source": "ocr",
+        "context": "匀、单耳能、仙………和9\n\n敏口钵、浅采钵、楼是重生\n\nEAA HRT A\n\n高足"
+      },
+      {
+        "text": "杯",
+        "page": 12,
+        "source": "ocr",
+        "context": "、楼是重生\n\nEAA HRT A\n\n高足杯、深腹杯、小杯…\n放\n\nWet. Rae"
+      },
+      {
+        "text": "杯",
+        "page": 12,
+        "source": "ocr",
+        "context": "生\n\nEAA HRT A\n\n高足杯、深腹杯、小杯…\n放\n\nWet. Rae kT "
+      },
+      {
+        "text": "杯",
+        "page": 12,
+        "source": "ocr",
+        "context": "EAA HRT A\n\n高足杯、深腹杯、小杯…\n放\n\nWet. Rae kT ae."
+      },
+      {
+        "text": "钵",
+        "page": 12,
+        "source": "ocr",
+        "context": " iene\nBLS. WK. RA\n\n匣钵…         os ee\n\nBe "
+      },
+      {
+        "text": "盘",
+        "page": 12,
+        "source": "ocr",
+        "context": "a\nV2 ee Awe i:\n\n顶碗、顶盘、   和               "
+      },
+      {
+        "text": "瓶",
+        "page": 12,
+        "source": "ocr",
+        "context": "字形窜具、支又、垫条…\n\n伪。\n小口双耳瓶、饶、 eee Ta\n\n(115)\n(1"
+      },
+      {
+        "text": "瓶",
+        "page": 14,
+        "source": "ocr",
+        "context": "期文化\n\n图版目录\n\n一号罕炉\n小口深腹瓶、经瓶\nhi\n\nEe. MA. RE\n\n"
+      },
+      {
+        "text": "瓶",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n\n图版目录\n\n一号罕炉\n小口深腹瓶、经瓶\nhi\n\nEe. MA. RE\n\n灵武磁"
+      },
+      {
+        "text": "盘",
+        "page": 14,
+        "source": "ocr",
+        "context": "\nTHs Bi\n\nDr AS 2\n\n折沿盘\n\n曲腹盘\n\nBT BE Gh\n\n斜壁盆"
+      },
+      {
+        "text": "盘",
+        "page": 14,
+        "source": "ocr",
+        "context": "Bi\n\nDr AS 2\n\n折沿盘\n\n曲腹盘\n\nBT BE Gh\n\n斜壁盆纹饰残片\n"
+      },
+      {
+        "text": "盆",
+        "page": 14,
+        "source": "ocr",
+        "context": "盘\n\n曲腹盘\n\nBT BE Gh\n\n斜壁盆纹饰残片\n斜壁盆纹饰残片\nHe FS Z"
+      },
+      {
+        "text": "饰",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n曲腹盘\n\nBT BE Gh\n\n斜壁盆纹饰残片\n斜壁盆纹饰残片\nHe FS Zt\n"
+      },
+      {
+        "text": "盆",
+        "page": 14,
+        "source": "ocr",
+        "context": "BT BE Gh\n\n斜壁盆纹饰残片\n斜壁盆纹饰残片\nHe FS Zt\n曲腹盆残片\n"
+      },
+      {
+        "text": "饰",
+        "page": 14,
+        "source": "ocr",
+        "context": " BE Gh\n\n斜壁盆纹饰残片\n斜壁盆纹饰残片\nHe FS Zt\n曲腹盆残片\n扇过"
+      },
+      {
+        "text": "盆",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n斜壁盆纹饰残片\nHe FS Zt\n曲腹盆残片\n扇过\n\nhe\n\nJed es eA"
+      },
+      {
+        "text": "瓶",
+        "page": 15,
+        "source": "ocr",
+        "context": "\ni az\nia Iz\nia\nBAA\n经瓶\n经瓶\nSi\n经瓶\n经瓶\n经瓶\n经瓶\n经"
+      },
+      {
+        "text": "瓶",
+        "page": 15,
+        "source": "ocr",
+        "context": "az\nia Iz\nia\nBAA\n经瓶\n经瓶\nSi\n经瓶\n经瓶\n经瓶\n经瓶\n经瓶\n经"
+      },
+      {
+        "text": "瓶",
+        "page": 15,
+        "source": "ocr",
+        "context": "Iz\nia\nBAA\n经瓶\n经瓶\nSi\n经瓶\n经瓶\n经瓶\n经瓶\n经瓶\n经瓶纹饰残片\n"
+      },
+      {
+        "text": "瓶",
+        "page": 15,
+        "source": "ocr",
+        "context": "ia\nBAA\n经瓶\n经瓶\nSi\n经瓶\n经瓶\n经瓶\n经瓶\n经瓶\n经瓶纹饰残片\n经瓶纹"
+      },
+      {
+        "text": "瓶",
+        "page": 15,
+        "source": "ocr",
+        "context": "BAA\n经瓶\n经瓶\nSi\n经瓶\n经瓶\n经瓶\n经瓶\n经瓶\n经瓶纹饰残片\n经瓶纹饰残片"
+      },
+      {
+        "text": "瓶",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n经瓶\n经瓶\nSi\n经瓶\n经瓶\n经瓶\n经瓶\n经瓶\n经瓶纹饰残片\n经瓶纹饰残片\n\nT"
+      },
+      {
+        "text": "瓶",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n经瓶\nSi\n经瓶\n经瓶\n经瓶\n经瓶\n经瓶\n经瓶纹饰残片\n经瓶纹饰残片\n\nTE O"
+      },
+      {
+        "text": "瓶",
+        "page": 15,
+        "source": "ocr",
+        "context": "\nSi\n经瓶\n经瓶\n经瓶\n经瓶\n经瓶\n经瓶纹饰残片\n经瓶纹饰残片\n\nTE OK\nF"
+      },
+      {
+        "text": "饰",
+        "page": 15,
+        "source": "ocr",
+        "context": "i\n经瓶\n经瓶\n经瓶\n经瓶\n经瓶\n经瓶纹饰残片\n经瓶纹饰残片\n\nTE OK\nFEH"
+      },
+      {
+        "text": "瓶",
+        "page": 15,
+        "source": "ocr",
+        "context": "经瓶\n经瓶\n经瓶\n经瓶\n经瓶纹饰残片\n经瓶纹饰残片\n\nTE OK\nFEHR. PD"
+      },
+      {
+        "text": "饰",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n经瓶\n经瓶\n经瓶\n经瓶纹饰残片\n经瓶纹饰残片\n\nTE OK\nFEHR. PDR "
+      },
+      {
+        "text": "钵",
+        "page": 15,
+        "source": "ocr",
+        "context": " 1 Si\n#&. 4\nSK ok\n敛口钵\nPRIS. LEK. Be\ntrie "
+      },
+      {
+        "text": "杯",
+        "page": 15,
+        "source": "ocr",
+        "context": "LEK. Be\ntrie &\n=\n\n高足杯、\n深腹杯\n&. “tt. fast. "
+      },
+      {
+        "text": "杯",
+        "page": 15,
+        "source": "ocr",
+        "context": "Be\ntrie &\n=\n\n高足杯、\n深腹杯\n&. “tt. fast. RE\n炉\n"
+      }
+    ],
+    "年代": [
+      {
+        "text": "清",
+        "page": 4,
+        "source": "ocr",
+        "context": "磁窗\nSERA, 发现西夏窗炉 3 座、清代窗炉 1 座, 西复作坊8 座、元代作"
+      },
+      {
+        "text": "元",
+        "page": 4,
+        "source": "ocr",
+        "context": "座、清代窗炉 1 座, 西复作坊8 座、元代作坊 1座; 出土次器、\nTA. 窗具"
+      },
+      {
+        "text": "元",
+        "page": 4,
+        "source": "ocr",
+        "context": "定出该窗址的时代: 始烧于西\n夏中期，在元代继续生产，到明清时期衰落 。\n\n西夏时"
+      },
+      {
+        "text": "明",
+        "page": 4,
+        "source": "ocr",
+        "context": ": 始烧于西\n夏中期，在元代继续生产，到明清时期衰落 。\n\n西夏时期的窗址和瓷器以"
+      },
+      {
+        "text": "清",
+        "page": 4,
+        "source": "ocr",
+        "context": " 始烧于西\n夏中期，在元代继续生产，到明清时期衰落 。\n\n西夏时期的窗址和瓷器以往"
+      },
+      {
+        "text": "明",
+        "page": 4,
+        "source": "ocr",
+        "context": "白; 其中以白釉和噜刻花器物最具特色, 明显地受到定窗系和磁\n州窗系的强烈影响。而"
+      },
+      {
+        "text": "元",
+        "page": 4,
+        "source": "ocr",
+        "context": "0 FH\nRIA dH: 130.00 元\n"
+      },
+      {
+        "text": "宋",
+        "page": 5,
+        "source": "ocr",
+        "context": "密遗址. 西夏王国立国约 190 年 与宋、辽、金同时)，1227 年成\n志思汗灭"
+      },
+      {
+        "text": "辽",
+        "page": 5,
+        "source": "ocr",
+        "context": "址. 西夏王国立国约 190 年 与宋、辽、金同时)，1227 年成\n志思汗灭西夏"
+      },
+      {
+        "text": "金",
+        "page": 5,
+        "source": "ocr",
+        "context": " 西夏王国立国约 190 年 与宋、辽、金同时)，1227 年成\n志思汗灭西夏，其"
+      },
+      {
+        "text": "清",
+        "page": 5,
+        "source": "ocr",
+        "context": "该报告资料详实，论述有据，文图并茂，逻辑清楚 ，准确无误，意义重\n大。故特此推荐。"
+      },
+      {
+        "text": "清",
+        "page": 5,
+        "source": "ocr",
+        "context": "图版资料丰富翔实，通过分析与研究，基本搞清了西夏资窍和西夏瓷\n的内涵和特征，揭示了"
+      },
+      {
+        "text": "金",
+        "page": 11,
+        "source": "ocr",
+        "context": "eea (80)\n\nMAR BINRE 金刚桂、 SELES were rrr\n<"
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T7",
+        "page": 9,
+        "source": "ocr",
+        "context": " PA] TAT FR] pe (Q)\nT7 东壁地层痢面图(10)\nT1O 北壁地"
+      },
+      {
+        "text": "T1O",
+        "page": 9,
+        "source": "ocr",
+        "context": " (Q)\nT7 东壁地层痢面图(10)\nT1O 北壁地层剖面图 pp (1])\n\not"
+      },
+      {
+        "text": "T7F",
+        "page": 9,
+        "source": "ocr",
+        "context": "  Y2 剖面图 pp (17)\n一六 T7F2 平、 剖面图 (9)\n一七 TllF"
+      },
+      {
+        "text": "T9F",
+        "page": 9,
+        "source": "ocr",
+        "context": "l平、剖面图 pe ( 2] )\nTC T9F1平、裔面图 pp (23)\n二一 T9"
+      },
+      {
+        "text": "T9F",
+        "page": 9,
+        "source": "ocr",
+        "context": "9F1平、裔面图 pp (23)\n二一 T9F1IC1平、剂面图 pp (24)\n工二"
+      },
+      {
+        "text": "T9F",
+        "page": 9,
+        "source": "ocr",
+        "context": "IC1平、剂面图 pp (24)\n工二 T9FIC2平、谢面图 pp (24)\n二四 "
+      },
+      {
+        "text": "T2F",
+        "page": 9,
+        "source": "ocr",
+        "context": "IC2平、谢面图 pp (24)\n二四 T2FIC1, C2 Ey, FARR PN "
+      },
+      {
+        "text": "T7F",
+        "page": 9,
+        "source": "ocr",
+        "context": "y, FARR PN (26)\nTPR T7F1 BEES, PAT creer ce"
+      },
+      {
+        "text": "T8F",
+        "page": 9,
+        "source": "ocr",
+        "context": "ecns cesses (27)\n二七 T8F1平、痢面图 pp (28)\n三二“一期"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": "\n\n4\n\nm",
+        "page": 11,
+        "source": "ocr",
+        "context": "\n\nwee\nAl AR AA. 轮盘等…\n\n4\n\nmae ee  oo\n\n= (77)\n… "
+      }
+    ]
+  }
+}

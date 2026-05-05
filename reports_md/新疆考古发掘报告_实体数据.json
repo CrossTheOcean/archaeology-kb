@@ -1,0 +1,672 @@
+{
+  "name": "新疆考古发掘报告",
+  "file": "新疆考古发掘报告.pdf",
+  "era": "新石器-青铜",
+  "culture": "西域",
+  "processed_pages": 15,
+  "total_entities": 103,
+  "entity_stats": {
+    "遗址名称": 12,
+    "遗迹编号": 6,
+    "年代": 18,
+    "遗迹类型": 7,
+    "探方编号": 8,
+    "遗存类型": 17,
+    "陶器": 2,
+    "铜器": 8,
+    "地层": 4,
+    "层位关系": 7,
+    "石器": 1,
+    "材质": 1,
+    "测量数据": 10,
+    "土样特征": 2
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "新疆",
+        "page": 4,
+        "source": "ocr",
+        "context": "Eg: FESR\n\n新疆考古发气报告\n\n(1957一1958)\n"
+      },
+      {
+        "text": "新疆",
+        "page": 5,
+        "source": "ocr",
+        "context": "tm BH\n中，出土遗物比较丰富，为研究新疆考古和新疆历史提供了重要资料。\n\n"
+      },
+      {
+        "text": "新疆",
+        "page": 5,
+        "source": "ocr",
+        "context": "\n中，出土遗物比较丰富，为研究新疆考古和新疆历史提供了重要资料。\n\n"
+      },
+      {
+        "text": "吐鲁番",
+        "page": 6,
+        "source": "ocr",
+        "context": "veosee ( 14 )\n(一) ”了吐鲁番圩子十城 crore ccc cee c"
+      },
+      {
+        "text": "新疆",
+        "page": 7,
+        "source": "ocr",
+        "context": "800 vee see oe\n—-s\n\n新疆考古发掘报告\n\n《二》   E mK P"
+      },
+      {
+        "text": "新疆",
+        "page": 9,
+        "source": "ocr",
+        "context": "                    新疆考古发掘报告\n\n(=)   遗物 。  "
+      },
+      {
+        "text": "吐鲁番",
+        "page": 11,
+        "source": "ocr",
+        "context": "器、小考及巴里提石人子乡采集的陶片\n伊犁吐鲁番圩子古城出土的器物\n\n伊旬磨河古城、海努"
+      },
+      {
+        "text": "壁画",
+        "page": 12,
+        "source": "ocr",
+        "context": "泥塑像头部\n\n老者明屋沟北遗址出土的佛教壁画\n\n磊者明屋沟北遗址出土的泥塑冠饰及草时"
+      },
+      {
+        "text": "六朝",
+        "page": 12,
+        "source": "ocr",
+        "context": "的泥夏残件\n\n库车苏巴什二城内出土的汉及六朝钢钱\n\n库车苏巴什古城内、外出土的六朝铜"
+      },
+      {
+        "text": "六朝",
+        "page": 12,
+        "source": "ocr",
+        "context": "及六朝钢钱\n\n库车苏巴什古城内、外出土的六朝铜钱\n\n库车苏巴什十城内出土的唐代铜钱\n"
+      },
+      {
+        "text": "新疆",
+        "page": 13,
+        "source": "ocr",
+        "context": "新疆考古发所报告\n\nKO\n\nK=\n八四\n八五"
+      },
+      {
+        "text": "岗上",
+        "page": 14,
+        "source": "ocr",
+        "context": "6 公里，位于舌不拉村西约1公里一个黄土岗上。\n土岗南北向，作椭圆形，面获一层黑沙俩"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "F648",
+        "page": 7,
+        "source": "ocr",
+        "context": " FET OEE OFS CER CO F648 OF\n\nOS OF B9O 68G P"
+      },
+      {
+        "text": "M1",
+        "page": 10,
+        "source": "ocr",
+        "context": "NES eB ALE AE As ，\n\nM1 12F [Ep PR] ecw coe"
+      },
+      {
+        "text": "T1",
+        "page": 10,
+        "source": "ocr",
+        "context": "cee toe cers\n苏巴什西夺区 T1. T2. T6. T8 平面图    "
+      },
+      {
+        "text": "T2",
+        "page": 10,
+        "source": "ocr",
+        "context": "toe cers\n苏巴什西夺区 T1. T2. T6. T8 平面图     ooe"
+      },
+      {
+        "text": "T6",
+        "page": 10,
+        "source": "ocr",
+        "context": "cers\n苏巴什西夺区 T1. T2. T6. T8 平面图     ooee 00"
+      },
+      {
+        "text": "T8",
+        "page": 10,
+        "source": "ocr",
+        "context": "\n苏巴什西夺区 T1. T2. T6. T8 平面图     ooee 000 ce"
+      }
+    ],
+    "年代": [
+      {
+        "text": "明",
+        "page": 7,
+        "source": "ocr",
+        "context": "n\n\n2909 0808\n\n(一) “”明屋试据简况 ovo coe oe coe"
+      },
+      {
+        "text": "明",
+        "page": 8,
+        "source": "ocr",
+        "context": "r sens\n- € 62)\n\n=.  明 FAL 2s a 5 9 VA Sik"
+      },
+      {
+        "text": "明",
+        "page": 12,
+        "source": "ocr",
+        "context": "HK Ell ll\n\n五六\n五七\n\n帮者明屋沟南遗址出十的泥塑建筑零件\n\n务者明屋"
+      },
+      {
+        "text": "明",
+        "page": 12,
+        "source": "ocr",
+        "context": "者明屋沟南遗址出十的泥塑建筑零件\n\n务者明屋沟北遗址出士的森件\n\n徐老明屋沟北遗址"
+      },
+      {
+        "text": "明",
+        "page": 12,
+        "source": "ocr",
+        "context": "件\n\n务者明屋沟北遗址出士的森件\n\n徐老明屋沟北遗址出土的泥塑像头部\n\n老者明屋沟"
+      },
+      {
+        "text": "明",
+        "page": 12,
+        "source": "ocr",
+        "context": "徐老明屋沟北遗址出土的泥塑像头部\n\n老者明屋沟北遗址出土的佛教壁画\n\n磊者明屋沟北"
+      },
+      {
+        "text": "明",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n老者明屋沟北遗址出土的佛教壁画\n\n磊者明屋沟北遗址出土的泥塑冠饰及草时\n\n用者明"
+      },
+      {
+        "text": "明",
+        "page": 12,
+        "source": "ocr",
+        "context": "明屋沟北遗址出土的泥塑冠饰及草时\n\n用者明屋沟北遗址出士的丝织帐慢残鹤(图版三〇,"
+      },
+      {
+        "text": "明",
+        "page": 12,
+        "source": "ocr",
+        "context": "织帐慢残鹤(图版三〇,5的展开图)\n焉者明屋沟北遗址出土的工具等\n\n大者明屋沟北遗"
+      },
+      {
+        "text": "明",
+        "page": 12,
+        "source": "ocr",
+        "context": ")\n焉者明屋沟北遗址出土的工具等\n\n大者明屋沟北遗址出士的铺地砖、陶范等\n智者明屋"
+      },
+      {
+        "text": "明",
+        "page": 12,
+        "source": "ocr",
+        "context": "者明屋沟北遗址出士的铺地砖、陶范等\n智者明屋沟北遗址出土的范\nHEHE SE. k"
+      },
+      {
+        "text": "明",
+        "page": 12,
+        "source": "ocr",
+        "context": "旬兹城内、外遗址中出土的铜、铁器\n\n库车明田阿达古城内出士的佛经残纸\n\n库车明田阿"
+      },
+      {
+        "text": "明",
+        "page": 12,
+        "source": "ocr",
+        "context": "库车明田阿达古城内出士的佛经残纸\n\n库车明田阿达古城内出土的佛经及佛坐像印本\n库车"
+      },
+      {
+        "text": "明",
+        "page": 12,
+        "source": "ocr",
+        "context": "田阿达古城内出土的佛经及佛坐像印本\n库车明田阿达古城内出土的汉文残纸\n\n库车明田阿"
+      },
+      {
+        "text": "明",
+        "page": 12,
+        "source": "ocr",
+        "context": "库车明田阿达古城内出土的汉文残纸\n\n库车明田阿达十城内出土的泥塑残件\n\n崭车明田阿"
+      },
+      {
+        "text": "明",
+        "page": 12,
+        "source": "ocr",
+        "context": "库车明田阿达十城内出土的泥塑残件\n\n崭车明田阿达十城出土的陶器、砖瓦等\n\n库车大黑"
+      },
+      {
+        "text": "唐",
+        "page": 12,
+        "source": "ocr",
+        "context": "出土的六朝铜钱\n\n库车苏巴什十城内出土的唐代铜钱\n"
+      },
+      {
+        "text": "明",
+        "page": 14,
+        "source": "ocr",
+        "context": "厚1.8一2.2米不等。堆积可分两层，上明由于四\n面园墙倒提，主要是十未块和洪土，"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "城墙",
+        "page": 8,
+        "source": "ocr",
+        "context": "ce\n\n第四章”库车地区\n\n《一)   城墙遗迹 coe coe coe cae c"
+      },
+      {
+        "text": "城墙",
+        "page": 14,
+        "source": "ocr",
+        "context": "两面残墙，东西对峙，可能与古城有关。十城城墙分筑，或用土坯又\nH. RABRBREE"
+      },
+      {
+        "text": "城墙",
+        "page": 14,
+        "source": "ocr",
+        "context": "可能是后来农民取肥时堆积拉圾之所。在南\n城墙外侧有两间房址，中间有缺口相通，墙壁保存"
+      },
+      {
+        "text": "房址",
+        "page": 14,
+        "source": "ocr",
+        "context": "取肥时堆积拉圾之所。在南\n城墙外侧有两间房址，中间有缺口相通，墙壁保存尚完整〈图二)"
+      },
+      {
+        "text": "房址",
+        "page": 14,
+        "source": "ocr",
+        "context": "孔料珠。\n\nT2位于南墙外，开在靠东边的房址内〈图二) ，面积3 .5米 x 3.7"
+      },
+      {
+        "text": "房址",
+        "page": 14,
+        "source": "ocr",
+        "context": "二) ，面积3 .5米 x 3.7米。该房址墙、房\n基都露出地面，房址内堆积西高东低"
+      },
+      {
+        "text": "房址",
+        "page": 14,
+        "source": "ocr",
+        "context": " 3.7米。该房址墙、房\n基都露出地面，房址内堆积西高东低，厚1.8一2.2米不等。"
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T1",
+        "page": 10,
+        "source": "ocr",
+        "context": "cee toe cers\n苏巴什西夺区 T1. T2. T6. T8 平面图    "
+      },
+      {
+        "text": "T2",
+        "page": 10,
+        "source": "ocr",
+        "context": "toe cers\n苏巴什西夺区 T1. T2. T6. T8 平面图     ooe"
+      },
+      {
+        "text": "T6",
+        "page": 10,
+        "source": "ocr",
+        "context": "cers\n苏巴什西夺区 T1. T2. T6. T8 平面图     ooee 00"
+      },
+      {
+        "text": "T8",
+        "page": 10,
+        "source": "ocr",
+        "context": "\n苏巴什西夺区 T1. T2. T6. T8 平面图     ooee 000 ce"
+      },
+      {
+        "text": "T3",
+        "page": 10,
+        "source": "ocr",
+        "context": " cer O00 vee\n苏巴什西考区了T3、T4平面图 cee cee cee c"
+      },
+      {
+        "text": "T4",
+        "page": 10,
+        "source": "ocr",
+        "context": "r O00 vee\n苏巴什西考区了T3、T4平面图 cee cee cee cee "
+      },
+      {
+        "text": "T13",
+        "page": 10,
+        "source": "ocr",
+        "context": " (100)\nDA $7 SAL LK T13北壁剖面图 one ove cor oe"
+      },
+      {
+        "text": "T2",
+        "page": 14,
+        "source": "ocr",
+        "context": "片红陶片，在第三层出一蓝色穿孔料珠。\n\nT2位于南墙外，开在靠东边的房址内〈图二) "
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "陶片",
+        "page": 11,
+        "source": "ocr",
+        "context": "器物\n\n哈密老不拉村十城遗址与莫匡所出的陶片\n\n哈密伊吾盐池乡古城遗址出土的石器\n\n"
+      },
+      {
+        "text": "陶片",
+        "page": 11,
+        "source": "ocr",
+        "context": "址出土的石器、小考及巴里提石人子乡采集的陶片\n伊犁吐鲁番圩子古城出土的器物\n\n伊旬磨"
+      },
+      {
+        "text": "陶片",
+        "page": 11,
+        "source": "ocr",
+        "context": "的器物\n\n伊旬磨河古城、海努克古城所出的陶片、钢器残件等\n伊犁阿力麻里城所出的石刻等"
+      },
+      {
+        "text": "陶片",
+        "page": 11,
+        "source": "ocr",
+        "context": "里城所出的石刻等\n\n伊犁海努克十城所出的陶片等\n\nFt Bd Be THF Hs R"
+      },
+      {
+        "text": "陶片",
+        "page": 12,
+        "source": "ocr",
+        "context": "址出土的陶器\n\n库车苏巴什十城遗址出土的陶片\n\n库车苏巴什古城遗址出土的陶片\n\n库车"
+      },
+      {
+        "text": "陶片",
+        "page": 12,
+        "source": "ocr",
+        "context": "址出土的陶片\n\n库车苏巴什古城遗址出土的陶片\n\n库车苏巴什十城内出土的泥夏残件\n\n库"
+      },
+      {
+        "text": "陶片",
+        "page": 13,
+        "source": "ocr",
+        "context": "土的红群\n\n库车哈拉墩北区遗址出土的早期陶片\n\n库车哈拉墩北区遗址出土的早期陶片\n\n"
+      },
+      {
+        "text": "陶片",
+        "page": 13,
+        "source": "ocr",
+        "context": "早期陶片\n\n库车哈拉墩北区遗址出土的早期陶片\n\n库车哈拉墩北区遗址出土的早期陶片\n\n"
+      },
+      {
+        "text": "陶片",
+        "page": 13,
+        "source": "ocr",
+        "context": "早期陶片\n\n库车哈拉墩北区遗址出土的早期陶片\n\n库车哈拉墩北区遗址出土的早期陶片等\n"
+      },
+      {
+        "text": "陶片",
+        "page": 13,
+        "source": "ocr",
+        "context": "早期陶片\n\n库车哈拉墩北区遗址出土的早期陶片等\n\n库车哈拉墩北区遗址出土的早期石器\n"
+      },
+      {
+        "text": "陶片",
+        "page": 13,
+        "source": "ocr",
+        "context": "期陶器等\n\n库车哈拉墩北区遗址出土的晚期陶片\n\n库车哈拉墩北区遗址出土的晚期铜钱\n\n"
+      },
+      {
+        "text": "兽骨",
+        "page": 14,
+        "source": "ocr",
+        "context": " BH-KS. eH\n群众说，窗穴里皆是兽骨、陶片和灰土等，可能是后来农民取肥时堆积"
+      },
+      {
+        "text": "陶片",
+        "page": 14,
+        "source": "ocr",
+        "context": "-KS. eH\n群众说，窗穴里皆是兽骨、陶片和灰土等，可能是后来农民取肥时堆积拉圾之"
+      },
+      {
+        "text": "陶片",
+        "page": 14,
+        "source": "ocr",
+        "context": "情况外，在古城内外地面上还\n散布有零星的陶片，以及石磨盘和兽骨片等。\n\n在调查的基础"
+      },
+      {
+        "text": "兽骨",
+        "page": 14,
+        "source": "ocr",
+        "context": "地面上还\n散布有零星的陶片，以及石磨盘和兽骨片等。\n\n在调查的基础上于古城内外试握了"
+      },
+      {
+        "text": "陶片",
+        "page": 14,
+        "source": "ocr",
+        "context": "1 米。遗物极少，仅\n在第二晨发现两片红陶片，在第三层出一蓝色穿孔料珠。\n\nT2位于"
+      },
+      {
+        "text": "陶片",
+        "page": 14,
+        "source": "ocr",
+        "context": "土，其中夹杂一些砂砾、牛羊装、角骨及小碎陶片等，\n可能有些是近代的堆积，厚约1米左右"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "陶盆",
+        "page": 12,
+        "source": "ocr",
+        "context": "城出土的遗物\n\n库车苏巴什十城遗址出土的陶盆\n\n库车苏巴什十城遗址出土的陶器\n\n库车"
+      },
+      {
+        "text": "盘",
+        "page": 14,
+        "source": "ocr",
+        "context": "内外地面上还\n散布有零星的陶片，以及石磨盘和兽骨片等。\n\n在调查的基础上于古城内外"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "饰",
+        "page": 12,
+        "source": "ocr",
+        "context": "佛教壁画\n\n磊者明屋沟北遗址出土的泥塑冠饰及草时\n\n用者明屋沟北遗址出士的丝织帐慢"
+      },
+      {
+        "text": "盆",
+        "page": 12,
+        "source": "ocr",
+        "context": "出土的遗物\n\n库车苏巴什十城遗址出土的陶盆\n\n库车苏巴什十城遗址出土的陶器\n\n库车"
+      },
+      {
+        "text": "铜饰",
+        "page": 13,
+        "source": "ocr",
+        "context": "A\nAE\n八八\n\n库车苏巴什十城内出土的铜饰\n\n库车苏巴什十城内出土的铜饰\n\n库车苏"
+      },
+      {
+        "text": "铜饰",
+        "page": 13,
+        "source": "ocr",
+        "context": "城内出土的铜饰\n\n库车苏巴什十城内出土的铜饰\n\n库车苏巴什十城内、外出土的钢饰\n\n库"
+      },
+      {
+        "text": "饰",
+        "page": 13,
+        "source": "ocr",
+        "context": "土的铜饰\n\n库车苏巴什十城内、外出土的钢饰\n\n库车苏巴什十城内、外出土的钢、铁器\n"
+      },
+      {
+        "text": "饰",
+        "page": 13,
+        "source": "ocr",
+        "context": "、珀璃等器\n库车苏巴什十城内、外出土的石饰唱等\n\n库车苏巴什十城内、外出土的木、骨"
+      },
+      {
+        "text": "饰",
+        "page": 13,
+        "source": "ocr",
+        "context": "钱\n\n库车哈拉墩北区遗址出土的晚期铜、铁饰件\n"
+      },
+      {
+        "text": "盘",
+        "page": 14,
+        "source": "ocr",
+        "context": "内外地面上还\n散布有零星的陶片，以及石磨盘和兽骨片等。\n\n在调查的基础上于古城内外"
+      }
+    ],
+    "地层": [
+      {
+        "text": "第一层",
+        "page": 14,
+        "source": "ocr",
+        "context": "米。探沟内堆积已被\n扰乱，大致可分四层。第一层是表土:第二层为褐色动土夹灰士;第三层黄"
+      },
+      {
+        "text": "第二层",
+        "page": 14,
+        "source": "ocr",
+        "context": "已被\n扰乱，大致可分四层。第一层是表土:第二层为褐色动土夹灰士;第三层黄土夹沙子;\n第"
+      },
+      {
+        "text": "第三层",
+        "page": 14,
+        "source": "ocr",
+        "context": "。第一层是表土:第二层为褐色动土夹灰士;第三层黄土夹沙子;\n第四蝴红黄色土，质细坚实，"
+      },
+      {
+        "text": "第三层",
+        "page": 14,
+        "source": "ocr",
+        "context": "遗物极少，仅\n在第二晨发现两片红陶片，在第三层出一蓝色穿孔料珠。\n\nT2位于南墙外，开"
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "堆积",
+        "page": 14,
+        "source": "ocr",
+        "context": "兽骨、陶片和灰土等，可能是后来农民取肥时堆积拉圾之所。在南\n城墙外侧有两间房址，中间"
+      },
+      {
+        "text": "堆积",
+        "page": 14,
+        "source": "ocr",
+        "context": "南墙，面积为 2 米 x 2 米。探沟内堆积已被\n扰乱，大致可分四层。第一层是表土:"
+      },
+      {
+        "text": "堆积",
+        "page": 14,
+        "source": "ocr",
+        "context": "黄色土，质细坚实，可能是原始文化层。四层堆积共深 1.1 米。遗物极少，仅\n在第二晨"
+      },
+      {
+        "text": "堆积",
+        "page": 14,
+        "source": "ocr",
+        "context": "7米。该房址墙、房\n基都露出地面，房址内堆积西高东低，厚1.8一2.2米不等。堆积可"
+      },
+      {
+        "text": "堆积",
+        "page": 14,
+        "source": "ocr",
+        "context": "内堆积西高东低，厚1.8一2.2米不等。堆积可分两层，上明由于四\n面园墙倒提，主要是"
+      },
+      {
+        "text": "堆积",
+        "page": 14,
+        "source": "ocr",
+        "context": "装、角骨及小碎陶片等，\n可能有些是近代的堆积，厚约1米左右。下层平均厚0.5米，堆积"
+      },
+      {
+        "text": "堆积",
+        "page": 14,
+        "source": "ocr",
+        "context": "堆积，厚约1米左右。下层平均厚0.5米，堆积物 LL ES, BEES OK\n"
+      }
+    ],
+    "石器": [
+      {
+        "text": "石磨盘",
+        "page": 14,
+        "source": "ocr",
+        "context": "古城内外地面上还\n散布有零星的陶片，以及石磨盘和兽骨片等。\n\n在调查的基础上于古城内外"
+      }
+    ],
+    "材质": [
+      {
+        "text": "红陶",
+        "page": 14,
+        "source": "ocr",
+        "context": ".1 米。遗物极少，仅\n在第二晨发现两片红陶片，在第三层出一蓝色穿孔料珠。\n\nT2位"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": "60米",
+        "page": 14,
+        "source": "ocr",
+        "context": "座落在黄土岗的北端，略呈长方展，面积约为60米 x 50米。城址北墙与东\n墙已倒塌，西"
+      },
+      {
+        "text": " 50米",
+        "page": 14,
+        "source": "ocr",
+        "context": "岗的北端，略呈长方展，面积约为60米 x 50米。城址北墙与东\n墙已倒塌，西墙和南墙保存"
+      },
+      {
+        "text": " 2 米",
+        "page": 14,
+        "source": "ocr",
+        "context": "西南角〈图二》 ，邻靠西墙与南墙，面积为 2 米 x 2 米。探沟内堆积已被\n扰乱，大致"
+      },
+      {
+        "text": " 2 米",
+        "page": 14,
+        "source": "ocr",
+        "context": "》 ，邻靠西墙与南墙，面积为 2 米 x 2 米。探沟内堆积已被\n扰乱，大致可分四层。第"
+      },
+      {
+        "text": "深 1.1 米",
+        "page": 14,
+        "source": "ocr",
+        "context": "，质细坚实，可能是原始文化层。四层堆积共深 1.1 米。遗物极少，仅\n在第二晨发现两片红陶片，"
+      },
+      {
+        "text": "5米",
+        "page": 14,
+        "source": "ocr",
+        "context": "开在靠东边的房址内〈图二) ，面积3 .5米 x 3.7米。该房址墙、房\n基都露出地"
+      },
+      {
+        "text": " 3.7米",
+        "page": 14,
+        "source": "ocr",
+        "context": "边的房址内〈图二) ，面积3 .5米 x 3.7米。该房址墙、房\n基都露出地面，房址内堆积"
+      },
+      {
+        "text": "2.2米",
+        "page": 14,
+        "source": "ocr",
+        "context": "露出地面，房址内堆积西高东低，厚1.8一2.2米不等。堆积可分两层，上明由于四\n面园墙倒"
+      },
+      {
+        "text": "1米",
+        "page": 14,
+        "source": "ocr",
+        "context": "小碎陶片等，\n可能有些是近代的堆积，厚约1米左右。下层平均厚0.5米，堆积物 LL "
+      },
+      {
+        "text": "0.5米",
+        "page": 14,
+        "source": "ocr",
+        "context": "些是近代的堆积，厚约1米左右。下层平均厚0.5米，堆积物 LL ES, BEES OK\n"
+      }
+    ],
+    "土样特征": [
+      {
+        "text": "灰土",
+        "page": 14,
+        "source": "ocr",
+        "context": ". eH\n群众说，窗穴里皆是兽骨、陶片和灰土等，可能是后来农民取肥时堆积拉圾之所。在"
+      },
+      {
+        "text": "灰土",
+        "page": 14,
+        "source": "ocr",
+        "context": "有的是近代人饲\n养性口之所，有的虽是古代灰土层，但被扰乱了。除上述情况外，在古城内外"
+      }
+    ]
+  }
+}

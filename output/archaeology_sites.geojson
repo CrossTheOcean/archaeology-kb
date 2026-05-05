@@ -1,0 +1,1197 @@
+{
+  "type": "FeatureCollection",
+  "name": "Archaeology_Sites_Dingzhong",
+  "description": "《考古学专刊·丁种》71本报告遗址分布",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.78,
+          34.7
+        ]
+      },
+      "properties": {
+        "name": "偃师二里头",
+        "province": "河南",
+        "era": "夏商",
+        "entity_count": 15509,
+        "marker_color": "#e67e22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.32,
+          36.12
+        ]
+      },
+      "properties": {
+        "name": "安阳殷墟小屯建筑遗存",
+        "province": "河南",
+        "era": "夏商",
+        "entity_count": 4940,
+        "marker_color": "#e67e22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.32,
+          36.12
+        ]
+      },
+      "properties": {
+        "name": "安阳殷墟花园庄东地商代墓葬",
+        "province": "河南",
+        "era": "夏商",
+        "entity_count": 7690,
+        "marker_color": "#e67e22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.32,
+          36.12
+        ]
+      },
+      "properties": {
+        "name": "安阳殷墟郭家庄商代墓葬",
+        "province": "河南",
+        "era": "夏商",
+        "entity_count": 4544,
+        "marker_color": "#e67e22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.68,
+          34.77
+        ]
+      },
+      "properties": {
+        "name": "郑州二里岗",
+        "province": "河南",
+        "era": "夏商",
+        "entity_count": 2392,
+        "marker_color": "#e67e22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.32,
+          36.12
+        ]
+      },
+      "properties": {
+        "name": "殷虚妇好墓",
+        "province": "河南",
+        "era": "夏商",
+        "entity_count": 1609,
+        "marker_color": "#e67e22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.2,
+          34.8
+        ]
+      },
+      "properties": {
+        "name": "庙底沟与三里桥",
+        "province": "河南",
+        "era": "新石器时代",
+        "entity_count": 1749,
+        "marker_color": "#e74c3c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.18,
+          34.75
+        ]
+      },
+      "properties": {
+        "name": "上村岭虢国墓地",
+        "province": "河南",
+        "era": "西周",
+        "entity_count": 125,
+        "marker_color": "#f1c40f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.2,
+          34.8
+        ]
+      },
+      "properties": {
+        "name": "三门峡漕运遗迹",
+        "province": "河南",
+        "era": "待定",
+        "entity_count": 515,
+        "marker_color": "#95a5a6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.78,
+          35.15
+        ]
+      },
+      "properties": {
+        "name": "临猗程村墓地",
+        "province": "山西",
+        "era": "东周",
+        "entity_count": 8969,
+        "marker_color": "#2ecc71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.02,
+          34.75
+        ]
+      },
+      "properties": {
+        "name": "巩县铁生沟",
+        "province": "河南",
+        "era": "秦汉",
+        "entity_count": 250,
+        "marker_color": "#3498db"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.68,
+          35.47
+        ]
+      },
+      "properties": {
+        "name": "辉县发掘报告",
+        "province": "河南",
+        "era": "战国",
+        "entity_count": 522,
+        "marker_color": "#95a5a6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.45,
+          34.62
+        ]
+      },
+      "properties": {
+        "name": "洛阳中州路",
+        "province": "河南",
+        "era": "东周",
+        "entity_count": 2100,
+        "marker_color": "#2ecc71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.45,
+          34.62
+        ]
+      },
+      "properties": {
+        "name": "洛阳发掘报告",
+        "province": "河南",
+        "era": "东周",
+        "entity_count": 1334,
+        "marker_color": "#2ecc71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.18,
+          34.72
+        ]
+      },
+      "properties": {
+        "name": "陕县东周汉墓",
+        "province": "河南",
+        "era": "东周",
+        "entity_count": 4594,
+        "marker_color": "#2ecc71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.38,
+          43.05
+        ]
+      },
+      "properties": {
+        "name": "大甸子",
+        "province": "河南",
+        "era": "新石器时代",
+        "entity_count": 4196,
+        "marker_color": "#e74c3c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.45,
+          34.62
+        ]
+      },
+      "properties": {
+        "name": "北魏洛阳永宁寺",
+        "province": "河南",
+        "era": "魏晋南北朝",
+        "entity_count": 6828,
+        "marker_color": "#9b59b6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.88,
+          34.3
+        ]
+      },
+      "properties": {
+        "name": "汉长安城未央宫",
+        "province": "陕西",
+        "era": "秦汉",
+        "entity_count": 12988,
+        "marker_color": "#3498db"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.88,
+          34.3
+        ]
+      },
+      "properties": {
+        "name": "汉长安城武库",
+        "province": "江苏",
+        "era": "秦汉",
+        "entity_count": 4862,
+        "marker_color": "#3498db"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.95,
+          34.3
+        ]
+      },
+      "properties": {
+        "name": "唐长安大明宫",
+        "province": "陕西",
+        "era": "隋唐",
+        "entity_count": 578,
+        "marker_color": "#1abc9c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.9,
+          34.3
+        ]
+      },
+      "properties": {
+        "name": "唐长安城郊隋唐墓",
+        "province": "陕西",
+        "era": "隋唐",
+        "entity_count": 723,
+        "marker_color": "#1abc9c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.05,
+          34.28
+        ]
+      },
+      "properties": {
+        "name": "西安半坡",
+        "province": "陕西",
+        "era": "新石器时代",
+        "entity_count": 2107,
+        "marker_color": "#e74c3c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.05,
+          34.28
+        ]
+      },
+      "properties": {
+        "name": "西安郊区隋唐墓",
+        "province": "陕西",
+        "era": "隋唐",
+        "entity_count": 1302,
+        "marker_color": "#1abc9c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4,
+          39.9
+        ]
+      },
+      "properties": {
+        "name": "西汉礼制建筑遗址",
+        "province": "北京",
+        "era": "秦汉",
+        "entity_count": 5307,
+        "marker_color": "#3498db"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.8,
+          34.3
+        ]
+      },
+      "properties": {
+        "name": "张家坡西周墓地",
+        "province": "陕西",
+        "era": "西周",
+        "entity_count": 13599,
+        "marker_color": "#f1c40f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.75,
+          34.3
+        ]
+      },
+      "properties": {
+        "name": "沣西发掘报告",
+        "province": "陕西",
+        "era": "西周",
+        "entity_count": 4524,
+        "marker_color": "#f1c40f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.22,
+          34.35
+        ]
+      },
+      "properties": {
+        "name": "宝鸡北首岭",
+        "province": "陕西",
+        "era": "新石器时代",
+        "entity_count": 3070,
+        "marker_color": "#e74c3c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.72,
+          34.52
+        ]
+      },
+      "properties": {
+        "name": "华县泉护村",
+        "province": "陕西",
+        "era": "新石器时代",
+        "entity_count": 139,
+        "marker_color": "#e74c3c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.72,
+          34.52
+        ]
+      },
+      "properties": {
+        "name": "元君庙仰韶墓地",
+        "province": "陕西",
+        "era": "新石器时代",
+        "entity_count": 1880,
+        "marker_color": "#e74c3c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.08,
+          35.05
+        ]
+      },
+      "properties": {
+        "name": "南邠州碾子坡",
+        "province": "陕西",
+        "era": "新石器时代",
+        "entity_count": 11231,
+        "marker_color": "#e74c3c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.18,
+          34.28
+        ]
+      },
+      "properties": {
+        "name": "武功发掘报告",
+        "province": "陕西",
+        "era": "待定",
+        "entity_count": 2510,
+        "marker_color": "#95a5a6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.05,
+          34.3
+        ]
+      },
+      "properties": {
+        "name": "汉杜陵陵园遗址",
+        "province": "陕西",
+        "era": "秦汉",
+        "entity_count": 0,
+        "marker_color": "#3498db"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.38,
+          31.72
+        ]
+      },
+      "properties": {
+        "name": "曾侯乙墓",
+        "province": "湖北",
+        "era": "东周",
+        "entity_count": 10222,
+        "marker_color": "#2ecc71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.78,
+          32.58
+        ]
+      },
+      "properties": {
+        "name": "青龙泉与大寺",
+        "province": "湖北",
+        "era": "新石器时代",
+        "entity_count": 10437,
+        "marker_color": "#e74c3c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.12,
+          31.02
+        ]
+      },
+      "properties": {
+        "name": "京山屈家岭",
+        "province": "湖北",
+        "era": "新石器时代",
+        "entity_count": 3232,
+        "marker_color": "#e74c3c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.78,
+          32.15
+        ]
+      },
+      "properties": {
+        "name": "枣阳雕龙碑",
+        "province": "湖北",
+        "era": "新石器时代",
+        "entity_count": 9133,
+        "marker_color": "#e74c3c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.2,
+          30.35
+        ]
+      },
+      "properties": {
+        "name": "江陵雨台山楚墓",
+        "province": "湖北",
+        "era": "东周",
+        "entity_count": 3115,
+        "marker_color": "#2ecc71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.88,
+          30.4
+        ]
+      },
+      "properties": {
+        "name": "鄂城六朝墓",
+        "province": "湖北",
+        "era": "魏晋南北朝",
+        "entity_count": 13109,
+        "marker_color": "#9b59b6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.15,
+          35.08
+        ]
+      },
+      "properties": {
+        "name": "滕州前掌大墓地",
+        "province": "山东",
+        "era": "新石器时代",
+        "entity_count": 14605,
+        "marker_color": "#e74c3c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.08,
+          35.92
+        ]
+      },
+      "properties": {
+        "name": "山东王因",
+        "province": "山东",
+        "era": "新石器时代",
+        "entity_count": 8153,
+        "marker_color": "#e74c3c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0,
+          36.28
+        ]
+      },
+      "properties": {
+        "name": "胶县三里河",
+        "province": "山东",
+        "era": "新石器时代",
+        "entity_count": 3200,
+        "marker_color": "#e74c3c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.62,
+          39.55
+        ]
+      },
+      "properties": {
+        "name": "双砣子与岗上",
+        "province": "山东",
+        "era": "新石器时代",
+        "entity_count": 4385,
+        "marker_color": "#e74c3c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0,
+          37.0
+        ]
+      },
+      "properties": {
+        "name": "胶东半岛贝丘遗址",
+        "province": "山东",
+        "era": "新石器时代",
+        "entity_count": 0,
+        "marker_color": "#e74c3c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.55,
+          33.28
+        ]
+      },
+      "properties": {
+        "name": "蒙城尉迟寺",
+        "province": "安徽",
+        "era": "新石器时代",
+        "entity_count": 16630,
+        "marker_color": "#e74c3c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.55,
+          33.28
+        ]
+      },
+      "properties": {
+        "name": "蒙城尉迟寺第二部",
+        "province": "安徽",
+        "era": "新石器时代",
+        "entity_count": 16226,
+        "marker_color": "#e74c3c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.72,
+          34.58
+        ]
+      },
+      "properties": {
+        "name": "师赵村与西山坪",
+        "province": "甘肃",
+        "era": "新石器时代",
+        "entity_count": 8871,
+        "marker_color": "#e74c3c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.68,
+          35.55
+        ]
+      },
+      "properties": {
+        "name": "徐家碾寺洼文化墓地",
+        "province": "甘肃",
+        "era": "西周",
+        "entity_count": 4475,
+        "marker_color": "#f1c40f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.18,
+          44.02
+        ]
+      },
+      "properties": {
+        "name": "北庭高昌回鹘佛寺遗址",
+        "province": "甘肃",
+        "era": "待定",
+        "entity_count": 3920,
+        "marker_color": "#95a5a6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.24,
+          40.29
+        ]
+      },
+      "properties": {
+        "name": "定陵",
+        "province": "北京",
+        "era": "秦汉",
+        "entity_count": 5735,
+        "marker_color": "#3498db"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.28,
+          39.82
+        ]
+      },
+      "properties": {
+        "name": "北京大葆台汉墓",
+        "province": "北京",
+        "era": "秦汉",
+        "entity_count": 2143,
+        "marker_color": "#3498db"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.0,
+          28.2
+        ]
+      },
+      "properties": {
+        "name": "长沙发掘报告",
+        "province": "湖南",
+        "era": "东周",
+        "entity_count": 617,
+        "marker_color": "#2ecc71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.02,
+          28.2
+        ]
+      },
+      "properties": {
+        "name": "长沙马王堆一号汉墓",
+        "province": "湖南",
+        "era": "秦汉",
+        "entity_count": 1321,
+        "marker_color": "#3498db"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.02,
+          28.2
+        ]
+      },
+      "properties": {
+        "name": "长沙马王堆一号汉墓上册",
+        "province": "湖南",
+        "era": "秦汉",
+        "entity_count": 1321,
+        "marker_color": "#3498db"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.3,
+          23.12
+        ]
+      },
+      "properties": {
+        "name": "广州汉墓",
+        "province": "广东",
+        "era": "东周",
+        "entity_count": 7348,
+        "marker_color": "#2ecc71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.28,
+          23.15
+        ]
+      },
+      "properties": {
+        "name": "西汉南越王墓",
+        "province": "广东",
+        "era": "秦汉",
+        "entity_count": 108,
+        "marker_color": "#3498db"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.28,
+          23.15
+        ]
+      },
+      "properties": {
+        "name": "西汉南越王墓下册",
+        "province": "广东",
+        "era": "秦汉",
+        "entity_count": 108,
+        "marker_color": "#3498db"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.32,
+          38.95
+        ]
+      },
+      "properties": {
+        "name": "满城汉墓",
+        "province": "河北",
+        "era": "秦汉",
+        "entity_count": 227,
+        "marker_color": "#3498db"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.32,
+          38.95
+        ]
+      },
+      "properties": {
+        "name": "满城汉墓下册",
+        "province": "河北",
+        "era": "秦汉",
+        "entity_count": 227,
+        "marker_color": "#3498db"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.38,
+          36.38
+        ]
+      },
+      "properties": {
+        "name": "磁县湾张北朝壁画墓",
+        "province": "河北",
+        "era": "魏晋南北朝",
+        "entity_count": 2356,
+        "marker_color": "#9b59b6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.62,
+          35.22
+        ]
+      },
+      "properties": {
+        "name": "夏县东下冯",
+        "province": "山西",
+        "era": "夏商",
+        "entity_count": 5243,
+        "marker_color": "#e67e22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.72,
+          49.22
+        ]
+      },
+      "properties": {
+        "name": "哈克遗址",
+        "province": "内蒙古",
+        "era": "新石器时代",
+        "entity_count": 9272,
+        "marker_color": "#e74c3c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.88,
+          42.28
+        ]
+      },
+      "properties": {
+        "name": "敖汉赵宝沟",
+        "province": "内蒙古",
+        "era": "新石器时代",
+        "entity_count": 4571,
+        "marker_color": "#e74c3c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.33,
+          38.1
+        ]
+      },
+      "properties": {
+        "name": "宁夏灵武窑",
+        "province": "宁夏",
+        "era": "魏晋南北朝",
+        "entity_count": 6612,
+        "marker_color": "#9b59b6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.62,
+          43.82
+        ]
+      },
+      "properties": {
+        "name": "新疆考古发掘报告",
+        "province": "新疆",
+        "era": "待定",
+        "entity_count": 3794,
+        "marker_color": "#95a5a6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.0,
+          40.0
+        ]
+      },
+      "properties": {
+        "name": "塔里木盆地考古记",
+        "province": "新疆",
+        "era": "待定",
+        "entity_count": 211,
+        "marker_color": "#95a5a6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.18,
+          42.95
+        ]
+      },
+      "properties": {
+        "name": "吐鲁番考古记",
+        "province": "新疆",
+        "era": "待定",
+        "entity_count": 7,
+        "marker_color": "#95a5a6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.18,
+          31.15
+        ]
+      },
+      "properties": {
+        "name": "昌都卡若",
+        "province": "西藏",
+        "era": "新石器时代",
+        "entity_count": 3809,
+        "marker_color": "#e74c3c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.12,
+          36.5
+        ]
+      },
+      "properties": {
+        "name": "青海柳湾",
+        "province": "青海",
+        "era": "新石器时代",
+        "entity_count": 5686,
+        "marker_color": "#e74c3c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.15,
+          30.25
+        ]
+      },
+      "properties": {
+        "name": "南宋官窑",
+        "province": "浙江",
+        "era": "宋元明清",
+        "entity_count": 912,
+        "marker_color": "#34495e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.07,
+          30.67
+        ]
+      },
+      "properties": {
+        "name": "前蜀王建墓",
+        "province": "四川",
+        "era": "宋元明清",
+        "entity_count": 444,
+        "marker_color": "#34495e"
+      }
+    }
+  ]
+}

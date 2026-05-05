@@ -1,0 +1,1233 @@
+{
+  "name": "胶县三里河",
+  "file": "胶县三里河.pdf",
+  "era": "新石器",
+  "culture": "大汶口-龙山",
+  "processed_pages": 14,
+  "total_entities": 197,
+  "entity_stats": {
+    "陶器": 9,
+    "铜器": 10,
+    "遗址名称": 23,
+    "年代": 88,
+    "遗迹类型": 3,
+    "探方编号": 24,
+    "遗迹编号": 20,
+    "石器": 1,
+    "建筑结构": 1,
+    "遗存类型": 1,
+    "测量数据": 13,
+    "层位关系": 2,
+    "材质": 2
+  },
+  "entities": {
+    "陶器": [
+      {
+        "text": "环",
+        "page": 5,
+        "source": "ocr",
+        "context": "-          一、地理环境 …-\n二、工作经过 ，……\n\nRDI"
+      },
+      {
+        "text": "刀",
+        "page": 8,
+        "source": "ocr",
+        "context": "图 …\n龙山文化遗址石器\n龙山文化遗址石刀 …\n龙山文化遗址石器 ，\n\n龙山文化遗"
+      },
+      {
+        "text": "环",
+        "page": 13,
+        "source": "ocr",
+        "context": "山文化陶器\n\n龙山文化陶器\n\n龙山文化幕环陶器\n\n龙山文化幕葬陶器\nKURKBH\n"
+      },
+      {
+        "text": "陶杯",
+        "page": 13,
+        "source": "ocr",
+        "context": " Ee as AB\n龙山文化幕三薄胎高柄陶杯\n龙山文化M203薄胎高柄陶杯\nalee"
+      },
+      {
+        "text": "陶杯",
+        "page": 13,
+        "source": "ocr",
+        "context": "三薄胎高柄陶杯\n龙山文化M203薄胎高柄陶杯\nalee es AC\n龙山文化M210"
+      },
+      {
+        "text": "环",
+        "page": 14,
+        "source": "ocr",
+        "context": "Ss ”地理环境与工作经过\n\n三里河泪址位于山东省胶县"
+      },
+      {
+        "text": "环",
+        "page": 14,
+        "source": "ocr",
+        "context": "面积50 000平方米左右。\n\n一、地理环境\n\n了胶县地处山东半岛胶菜平原。胶菜平"
+      },
+      {
+        "text": "环",
+        "page": 14,
+        "source": "ocr",
+        "context": "0公里处为黄海的胶州湾，了胶荣河及其支流环绕\n和于附近《图--，图版- ) 。遗址"
+      },
+      {
+        "text": "盘",
+        "page": 15,
+        "source": "ocr",
+        "context": "牙，\n残余的随硬陶器有龙山文化的黑陶三足盘和墨陶续等。根据这些现象，我们推刷这里可"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "环",
+        "page": 5,
+        "source": "ocr",
+        "context": "-          一、地理环境 …-\n二、工作经过 ，……\n\nRDI"
+      },
+      {
+        "text": "刀",
+        "page": 8,
+        "source": "ocr",
+        "context": "图 …\n龙山文化遗址石器\n龙山文化遗址石刀 …\n龙山文化遗址石器 ，\n\n龙山文化遗"
+      },
+      {
+        "text": "饰",
+        "page": 9,
+        "source": "ocr",
+        "context": "、骨、角、陶器\n龙山文化莫绿玉器和绿松石饰…\nFelice M208 FRE WE"
+      },
+      {
+        "text": "环",
+        "page": 13,
+        "source": "ocr",
+        "context": "山文化陶器\n\n龙山文化陶器\n\n龙山文化幕环陶器\n\n龙山文化幕葬陶器\nKURKBH\n"
+      },
+      {
+        "text": "杯",
+        "page": 13,
+        "source": "ocr",
+        "context": "Ee as AB\n龙山文化幕三薄胎高柄陶杯\n龙山文化M203薄胎高柄陶杯\nalee"
+      },
+      {
+        "text": "杯",
+        "page": 13,
+        "source": "ocr",
+        "context": "薄胎高柄陶杯\n龙山文化M203薄胎高柄陶杯\nalee es AC\n龙山文化M210"
+      },
+      {
+        "text": "环",
+        "page": 14,
+        "source": "ocr",
+        "context": "Ss ”地理环境与工作经过\n\n三里河泪址位于山东省胶县"
+      },
+      {
+        "text": "环",
+        "page": 14,
+        "source": "ocr",
+        "context": "面积50 000平方米左右。\n\n一、地理环境\n\n了胶县地处山东半岛胶菜平原。胶菜平"
+      },
+      {
+        "text": "环",
+        "page": 14,
+        "source": "ocr",
+        "context": "0公里处为黄海的胶州湾，了胶荣河及其支流环绕\n和于附近《图--，图版- ) 。遗址"
+      },
+      {
+        "text": "盘",
+        "page": 15,
+        "source": "ocr",
+        "context": "牙，\n残余的随硬陶器有龙山文化的黑陶三足盘和墨陶续等。根据这些现象，我们推刷这里可"
+      }
+    ],
+    "遗址名称": [
+      {
+        "text": "三里河",
+        "page": 6,
+        "source": "ocr",
+        "context": "胶甚三里河\n\na kK\n\n一、大汶口文化 …\n\n("
+      },
+      {
+        "text": "三里河",
+        "page": 7,
+        "source": "ocr",
+        "context": "、文化遗存之间的关系问题 …\n《一) “三里河遗址药大汶口文化和龙山文化的关系问题 《"
+      },
+      {
+        "text": "三里河",
+        "page": 7,
+        "source": "ocr",
+        "context": "             本\n\n附录一”三里河遗址植物种籽鉴定报告\n附录三里河入址出土"
+      },
+      {
+        "text": "三里河",
+        "page": 7,
+        "source": "ocr",
+        "context": "附录一”三里河遗址植物种籽鉴定报告\n附录三里河入址出土的鱼表、鱼扒鉴定报告 ………\n附"
+      },
+      {
+        "text": "三里河",
+        "page": 7,
+        "source": "ocr",
+        "context": "土的鱼表、鱼扒鉴定报告 ………\n附录三 三里河遗址出土的贝壳等鉴定报告 …………:\n附"
+      },
+      {
+        "text": "三里河",
+        "page": 7,
+        "source": "ocr",
+        "context": "土的贝壳等鉴定报告 …………:\n附录四“三里河进址部分残石器岩石性质鉴定报告 ，   "
+      },
+      {
+        "text": "三里河",
+        "page": 7,
+        "source": "ocr",
+        "context": "定报告 ，        .\n附录五  三里河和遗址龙山文化铀器鉴定报告 Nee Ab"
+      },
+      {
+        "text": "三里河",
+        "page": 8,
+        "source": "ocr",
+        "context": "遗址骨、第、牙、陶器 ，\n\n插图目录\n\n三里河和遗址地理位置图 ……\"\n遗址地形和发掘"
+      },
+      {
+        "text": "胶县",
+        "page": 12,
+        "source": "ocr",
+        "context": "8            胶县三里河               <\n"
+      },
+      {
+        "text": "三里河",
+        "page": 12,
+        "source": "ocr",
+        "context": "8            胶县三里河               <\n图版二"
+      },
+      {
+        "text": "三里河",
+        "page": 14,
+        "source": "ocr",
+        "context": "Ss ”地理环境与工作经过\n\n三里河泪址位于山东省胶县城南约2公里北三里河村"
+      },
+      {
+        "text": "山东",
+        "page": 14,
+        "source": "ocr",
+        "context": " ”地理环境与工作经过\n\n三里河泪址位于山东省胶县城南约2公里北三里河村西河旁高地上"
+      },
+      {
+        "text": "胶县",
+        "page": 14,
+        "source": "ocr",
+        "context": "理环境与工作经过\n\n三里河泪址位于山东省胶县城南约2公里北三里河村西河旁高地上，南北"
+      },
+      {
+        "text": "三里河",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n三里河泪址位于山东省胶县城南约2公里北三里河村西河旁高地上，南北长约250、\n东西宽"
+      },
+      {
+        "text": "胶县",
+        "page": 14,
+        "source": "ocr",
+        "context": "000平方米左右。\n\n一、地理环境\n\n了胶县地处山东半岛胶菜平原。胶菜平原位于胶东地"
+      },
+      {
+        "text": "山东",
+        "page": 14,
+        "source": "ocr",
+        "context": "方米左右。\n\n一、地理环境\n\n了胶县地处山东半岛胶菜平原。胶菜平原位于胶东地区的低习"
+      },
+      {
+        "text": "胶东",
+        "page": 14,
+        "source": "ocr",
+        "context": "了胶县地处山东半岛胶菜平原。胶菜平原位于胶东地区的低习、乒陵和和鲁中南地区的\n中山、"
+      },
+      {
+        "text": "中山",
+        "page": 14,
+        "source": "ocr",
+        "context": "于胶东地区的低习、乒陵和和鲁中南地区的\n中山、低山、丘陵之间，由白浪河、滩河、胶莱河"
+      },
+      {
+        "text": "三里河",
+        "page": 15,
+        "source": "ocr",
+        "context": "R, RRA. HHH, WARE.\n\n三里河遗址文化层之下的生土层，有的地质工作者认"
+      },
+      {
+        "text": "山东",
+        "page": 15,
+        "source": "ocr",
+        "context": "生活资料。\n\n二、工作经过\n\n1959年山东大学历史系对三里河造址普作过调查) ，1"
+      },
+      {
+        "text": "三里河",
+        "page": 15,
+        "source": "ocr",
+        "context": "、工作经过\n\n1959年山东大学历史系对三里河造址普作过调查) ，1973年替和197"
+      },
+      {
+        "text": "山东",
+        "page": 15,
+        "source": "ocr",
+        "context": "，1973年替和1974年害考古研究\n所山东队会同潍坊地区艺术馆又进行了两次复查，发"
+      },
+      {
+        "text": "山东",
+        "page": 15,
+        "source": "ocr",
+        "context": "资料.根据这一主要目的*于是,考古研究所山东队和潍坊地区艺\n术馆共同组成考古发掘队,"
+      }
+    ],
+    "年代": [
+      {
+        "text": "大汶口",
+        "page": 6,
+        "source": "ocr",
+        "context": "胶甚三里河\n\na kK\n\n一、大汶口文化 …\n\n(一)\n《二)\n《三)\n《四"
+      },
+      {
+        "text": "龙山文化",
+        "page": 7,
+        "source": "ocr",
+        "context": "面貌 …，\n(一) ARASH\n《二) 龙山文化的文化面狐“\n\n二、文化遗存之间的关系问"
+      },
+      {
+        "text": "大汶口",
+        "page": 7,
+        "source": "ocr",
+        "context": "间的关系问题 …\n《一) “三里河遗址药大汶口文化和龙山文化的关系问题 《477\n(二"
+      },
+      {
+        "text": "龙山文化",
+        "page": 7,
+        "source": "ocr",
+        "context": " …\n《一) “三里河遗址药大汶口文化和龙山文化的关系问题 《477\n(二) 大汶马文化"
+      },
+      {
+        "text": "龙山文化",
+        "page": 7,
+        "source": "ocr",
+        "context": "关系问题 《477\n(二) 大汶马文化和龙山文化的居住遗址和\n\nBREN RLHRRA "
+      },
+      {
+        "text": "大汶口",
+        "page": 7,
+        "source": "ocr",
+        "context": "的关系问题 “\n《一) ”与鲁中南地区的大汶口文化和龙山文化的关系\n(=) ”与潍坊姚"
+      },
+      {
+        "text": "龙山文化",
+        "page": 7,
+        "source": "ocr",
+        "context": "“\n《一) ”与鲁中南地区的大汶口文化和龙山文化的关系\n(=) ”与潍坊姚官庄遗址的关系"
+      },
+      {
+        "text": "大汶口",
+        "page": 7,
+        "source": "ocr",
+        "context": "\n\n中、社会性质的探讨“\n\n附表~ . 大汶口文化墓葬登记表 ，           "
+      },
+      {
+        "text": "龙山文化",
+        "page": 7,
+        "source": "ocr",
+        "context": "       .\n附录五  三里河和遗址龙山文化铀器鉴定报告 Nee Abe er te"
+      },
+      {
+        "text": "龙山文化",
+        "page": 8,
+        "source": "ocr",
+        "context": "\n图六\n\n图二四\n图二五\n净二六\n\n六 龙山文化遗址骨、第、牙、陶器 ，\n\n插图目录\n\n"
+      },
+      {
+        "text": "大汶口",
+        "page": 8,
+        "source": "ocr",
+        "context": "残铜钻形器和T21@@残铜钻形器…\n工区大汶口文化遗迹分布图 “\n\nE区大汶口文化遗迹"
+      },
+      {
+        "text": "大汶口",
+        "page": 8,
+        "source": "ocr",
+        "context": "…\n工区大汶口文化遗迹分布图 “\n\nE区大汶口文化遗迹分布图 …\n大汶口文化F201和"
+      },
+      {
+        "text": "大汶口",
+        "page": 8,
+        "source": "ocr",
+        "context": "图 “\n\nE区大汶口文化遗迹分布图 …\n大汶口文化F201和HH203平剖面图ee\n大"
+      },
+      {
+        "text": "大汶口",
+        "page": 8,
+        "source": "ocr",
+        "context": "口文化F201和HH203平剖面图ee\n大汶口文化建筑遗迹和龙出文化柱洞结构图 …'\n"
+      },
+      {
+        "text": "大汶口",
+        "page": 8,
+        "source": "ocr",
+        "context": "文化建筑遗迹和龙出文化柱洞结构图 …'\n大汶口文化了227幼猪发现情况\n大汶口文化遗址"
+      },
+      {
+        "text": "大汶口",
+        "page": 8,
+        "source": "ocr",
+        "context": " …'\n大汶口文化了227幼猪发现情况\n大汶口文化遗址石、骨、角、陶器 …\n工区龙山文"
+      },
+      {
+        "text": "龙山文化",
+        "page": 8,
+        "source": "ocr",
+        "context": "大汶口文化遗址石、骨、角、陶器 …\n工区龙山文化遗迹分布图 …\n工区龙山文化遗迹分布图 "
+      },
+      {
+        "text": "龙山文化",
+        "page": 8,
+        "source": "ocr",
+        "context": "器 …\n工区龙山文化遗迹分布图 …\n工区龙山文化遗迹分布图 …\n龙山文化遗址石器\n龙山文"
+      },
+      {
+        "text": "龙山文化",
+        "page": 8,
+        "source": "ocr",
+        "context": "分布图 …\n工区龙山文化遗迹分布图 …\n龙山文化遗址石器\n龙山文化遗址石刀 …\n龙山文化"
+      },
+      {
+        "text": "龙山文化",
+        "page": 8,
+        "source": "ocr",
+        "context": "山文化遗迹分布图 …\n龙山文化遗址石器\n龙山文化遗址石刀 …\n龙山文化遗址石器 ，\n\n龙"
+      },
+      {
+        "text": "龙山文化",
+        "page": 8,
+        "source": "ocr",
+        "context": "龙山文化遗址石器\n龙山文化遗址石刀 …\n龙山文化遗址石器 ，\n\n龙山文化遗址陶器 …\n龙"
+      },
+      {
+        "text": "龙山文化",
+        "page": 8,
+        "source": "ocr",
+        "context": "化遗址石刀 …\n龙山文化遗址石器 ，\n\n龙山文化遗址陶器 …\n龙山文化遗址陶器\nAROS"
+      },
+      {
+        "text": "龙山文化",
+        "page": 8,
+        "source": "ocr",
+        "context": "化遗址石器 ，\n\n龙山文化遗址陶器 …\n龙山文化遗址陶器\nAROSHM1367 HB\nA"
+      },
+      {
+        "text": "大汶口",
+        "page": 8,
+        "source": "ocr",
+        "context": "367 HB\nARON M2217 A\n大汶口文化幕葬石器 ……，\nKRORKBERA"
+      },
+      {
+        "text": "大汶口",
+        "page": 9,
+        "source": "ocr",
+        "context": "SCHL RR NE\nABCA ER\n\n大汶口文化幕葬陶器…\nFACT SCH EE "
+      },
+      {
+        "text": "龙山文化",
+        "page": 9,
+        "source": "ocr",
+        "context": "BH\nAROMMCBAHM RR,\nI区龙山文化墓地的建筑坦迹…'\n龙山文化M244平面"
+      },
+      {
+        "text": "龙山文化",
+        "page": 9,
+        "source": "ocr",
+        "context": "RR,\nI区龙山文化墓地的建筑坦迹…'\n龙山文化M244平面男\n龙山文化M132平面图-"
+      },
+      {
+        "text": "龙山文化",
+        "page": 9,
+        "source": "ocr",
+        "context": "的建筑坦迹…'\n龙山文化M244平面男\n龙山文化M132平面图-\n龙山文化M260一26"
+      },
+      {
+        "text": "龙山文化",
+        "page": 9,
+        "source": "ocr",
+        "context": "244平面男\n龙山文化M132平面图-\n龙山文化M260一263平面图-\n龙由文化M24"
+      },
+      {
+        "text": "龙山文化",
+        "page": 9,
+        "source": "ocr",
+        "context": "3平面图-\n龙由文化M240平面图…'\n龙山文化M214平面图\n龙山文化莫音石、骨、角、"
+      },
+      {
+        "text": "龙山文化",
+        "page": 9,
+        "source": "ocr",
+        "context": "40平面图…'\n龙山文化M214平面图\n龙山文化莫音石、骨、角、陶器\n龙山文化莫绿玉器和"
+      },
+      {
+        "text": "龙山文化",
+        "page": 9,
+        "source": "ocr",
+        "context": "4平面图\n龙山文化莫音石、骨、角、陶器\n龙山文化莫绿玉器和绿松石饰…\nFelice M2"
+      },
+      {
+        "text": "龙山文化",
+        "page": 9,
+        "source": "ocr",
+        "context": "FU HB\nFew A Be Pa *\n龙山文化墓葬陶器…”…\n\n"
+      },
+      {
+        "text": "大汶口",
+        "page": 10,
+        "source": "ocr",
+        "context": "图六六\n图六七\n\n图六八(A) 大汶口文化M2110平面图……\n图六八(B) "
+      },
+      {
+        "text": "大汶口",
+        "page": 10,
+        "source": "ocr",
+        "context": "文化M2110平面图……\n图六八(B) 大汶口文化M2110主村随葬器物\n\nBAA\n图"
+      },
+      {
+        "text": "龙山文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "加七二\n图七三\n图七四\n\n图七五(A) 龙山文化M2124平面图\nPAB) 龙正文化M2"
+      },
+      {
+        "text": "龙山文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "物\n\n型七六\n图七七\n图七八\n图七九\n\n龙山文化慕闫陶器…\nFESO SER\nFEAL "
+      },
+      {
+        "text": "大汶口",
+        "page": 10,
+        "source": "ocr",
+        "context": "RIICIEM 24937 Hi AE\n大汶口文化M279平面图和随葬器物…\n大汶口文"
+      },
+      {
+        "text": "大汶口",
+        "page": 10,
+        "source": "ocr",
+        "context": "\n大汶口文化M279平面图和随葬器物…\n大汶口文化M2112平面图和随薄器物…\n大汶口"
+      },
+      {
+        "text": "大汶口",
+        "page": 10,
+        "source": "ocr",
+        "context": "大汶口文化M2112平面图和随薄器物…\n大汶口文化M130平面加和随匡陶器\n龙山文化M"
+      },
+      {
+        "text": "龙山文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "…\n大汶口文化M130平面加和随匡陶器\n龙山文化M2108随葬陶器和\n龙山文化M223平"
+      },
+      {
+        "text": "龙山文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "随匡陶器\n龙山文化M2108随葬陶器和\n龙山文化M223平面图和随旨陶器、\n\nFeu A"
+      },
+      {
+        "text": "龙山文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "027 fl ABs HE BY aE\n龙山文化M299平面图和随匡陶器…\n龙山文化M2"
+      },
+      {
+        "text": "龙山文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "E\n龙山文化M299平面图和随匡陶器…\n龙山文化M2100平面图和将芋陶器…\n大汶口文化"
+      },
+      {
+        "text": "大汶口",
+        "page": 10,
+        "source": "ocr",
+        "context": "\n龙山文化M2100平面图和将芋陶器…\n大汶口文化和龙山文化陶器竟汗变种\n\n"
+      },
+      {
+        "text": "龙山文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "2100平面图和将芋陶器…\n大汶口文化和龙山文化陶器竟汗变种\n\n"
+      },
+      {
+        "text": "大汶口",
+        "page": 11,
+        "source": "ocr",
+        "context": "A ASA ROR ICR BY AT\n大汶口文化石钱\n\n大汶口文化石、玉、骨、牙器和"
+      },
+      {
+        "text": "大汶口",
+        "page": 11,
+        "source": "ocr",
+        "context": " ICR BY AT\n大汶口文化石钱\n\n大汶口文化石、玉、骨、牙器和龙山文化幕间玉器\n"
+      },
+      {
+        "text": "龙山文化",
+        "page": 11,
+        "source": "ocr",
+        "context": "文化石钱\n\n大汶口文化石、玉、骨、牙器和龙山文化幕间玉器\nARAXRKLABHE    "
+      },
+      {
+        "text": "大汶口",
+        "page": 11,
+        "source": "ocr",
+        "context": "AL AE\nAROXKEKE, AB\n\n大汶口文化石、骨、角、陶器\n\nARO RH B"
+      },
+      {
+        "text": "龙山文化",
+        "page": 11,
+        "source": "ocr",
+        "context": "石、骨、角、陶器\n\nARO RH BA\n龙山文化黄铜器、石器和角器\n龙山文化石器    "
+      },
+      {
+        "text": "龙山文化",
+        "page": 11,
+        "source": "ocr",
+        "context": "RH BA\n龙山文化黄铜器、石器和角器\n龙山文化石器     本1\n\n龙山文化骨、角、旦"
+      },
+      {
+        "text": "龙山文化",
+        "page": 11,
+        "source": "ocr",
+        "context": "器和角器\n龙山文化石器     本1\n\n龙山文化骨、角、旦器\n\n大汶口文化遗址陶器\n\nA"
+      },
+      {
+        "text": "大汶口",
+        "page": 11,
+        "source": "ocr",
+        "context": "    本1\n\n龙山文化骨、角、旦器\n\n大汶口文化遗址陶器\n\nARH RHR\n\n"
+      },
+      {
+        "text": "大汶口",
+        "page": 12,
+        "source": "ocr",
+        "context": "             <\n图版二七 大汶口文化陶器\n\nBRIA ARORA\n图版二"
+      },
+      {
+        "text": "大汶口",
+        "page": 12,
+        "source": "ocr",
+        "context": "三九 ARATE TM AE\n\n图版四〇大汶口文化幕闫陶器\nPR ARR\nPR ARO"
+      },
+      {
+        "text": "大汶口",
+        "page": 12,
+        "source": "ocr",
+        "context": "八_大这口文化M105陶器\n图版四九 ”大汶口文化M250陶颖\nREO 大汶口文化M2"
+      },
+      {
+        "text": "大汶口",
+        "page": 12,
+        "source": "ocr",
+        "context": "四九 ”大汶口文化M250陶颖\nREO 大汶口文化M250陶器\n图版五一“大汶口文化M"
+      },
+      {
+        "text": "大汶口",
+        "page": 12,
+        "source": "ocr",
+        "context": "EO 大汶口文化M250陶器\n图版五一“大汶口文化M259陶器\nBRAM 大汶口文化M"
+      },
+      {
+        "text": "大汶口",
+        "page": 12,
+        "source": "ocr",
+        "context": "五一“大汶口文化M259陶器\nBRAM 大汶口文化M259、M216陶口\n图版五三”大"
+      },
+      {
+        "text": "大汶口",
+        "page": 12,
+        "source": "ocr",
+        "context": "品文化M216、M282陶器\n本版五四“大汶口文化M229、M259陶器\n园版五五 大"
+      },
+      {
+        "text": "大汶口",
+        "page": 12,
+        "source": "ocr",
+        "context": "口文化M229、M259陶器\n园版五五 大汶口文化M216、M282陶器\n图版五六 大"
+      },
+      {
+        "text": "大汶口",
+        "page": 12,
+        "source": "ocr",
+        "context": "口文化M216、M282陶器\n图版五六 大汶口文化M282陶器\n\n图版五七”龙山文化遗"
+      },
+      {
+        "text": "龙山文化",
+        "page": 12,
+        "source": "ocr",
+        "context": "六 大汶口文化M282陶器\n\n图版五七”龙山文化遗址陶器                "
+      },
+      {
+        "text": "龙山文化",
+        "page": 13,
+        "source": "ocr",
+        "context": "八八\n\n图版目录\n\n尼山文化遗址陶器\n\n龙山文化遗址陶器\n\n龙山文化遗址陶器\n\n龙山文化"
+      },
+      {
+        "text": "龙山文化",
+        "page": 13,
+        "source": "ocr",
+        "context": "尼山文化遗址陶器\n\n龙山文化遗址陶器\n\n龙山文化遗址陶器\n\n龙山文化T202@@和H10"
+      },
+      {
+        "text": "龙山文化",
+        "page": 13,
+        "source": "ocr",
+        "context": "龙山文化遗址陶器\n\n龙山文化遗址陶器\n\n龙山文化T202@@和H103陶器\n尼山文化摹磊"
+      },
+      {
+        "text": "龙山文化",
+        "page": 13,
+        "source": "ocr",
+        "context": "器\n尼山文化摹磊陶器\n\n尼山文化陶器\n\n龙山文化陶器\n\n龙山文化幕环陶器\n\n龙山文化幕葬"
+      },
+      {
+        "text": "龙山文化",
+        "page": 13,
+        "source": "ocr",
+        "context": "陶器\n\n尼山文化陶器\n\n龙山文化陶器\n\n龙山文化幕环陶器\n\n龙山文化幕葬陶器\nKURKB"
+      },
+      {
+        "text": "龙山文化",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n\n龙山文化陶器\n\n龙山文化幕环陶器\n\n龙山文化幕葬陶器\nKURKBH\nRWS BS\nF"
+      },
+      {
+        "text": "龙山文化",
+        "page": 13,
+        "source": "ocr",
+        "context": "te eH BF\n\n尼山文化幕闽陶器\n\n龙山文化墓葬陶器\n\nBUC SHEMET\nFUR"
+      },
+      {
+        "text": "龙山文化",
+        "page": 13,
+        "source": "ocr",
+        "context": "S\nHe Se fk Ee as AB\n龙山文化幕三薄胎高柄陶杯\n龙山文化M203薄胎高"
+      },
+      {
+        "text": "龙山文化",
+        "page": 13,
+        "source": "ocr",
+        "context": " as AB\n龙山文化幕三薄胎高柄陶杯\n龙山文化M203薄胎高柄陶杯\nalee es A"
+      },
+      {
+        "text": "龙山文化",
+        "page": 13,
+        "source": "ocr",
+        "context": "03薄胎高柄陶杯\nalee es AC\n龙山文化M210、M298陶器\n龙山文化M210"
+      },
+      {
+        "text": "龙山文化",
+        "page": 13,
+        "source": "ocr",
+        "context": " AC\n龙山文化M210、M298陶器\n龙山文化M210陶器\n\n龙山文化M280、M27"
+      },
+      {
+        "text": "龙山文化",
+        "page": 13,
+        "source": "ocr",
+        "context": "、M298陶器\n龙山文化M210陶器\n\n龙山文化M280、M271、M2113陶器\n龙山"
+      },
+      {
+        "text": "龙山文化",
+        "page": 13,
+        "source": "ocr",
+        "context": "文化M280、M271、M2113陶器\n龙山文化M2113陶器\n龙山文化M222陶器\n\n"
+      },
+      {
+        "text": "龙山文化",
+        "page": 13,
+        "source": "ocr",
+        "context": "M2113陶器\n龙山文化M2113陶器\n龙山文化M222陶器\n\n龙山文化M298、M10"
+      },
+      {
+        "text": "龙山文化",
+        "page": 13,
+        "source": "ocr",
+        "context": "M2113陶器\n龙山文化M222陶器\n\n龙山文化M298、M106陶器\n龙山文化M106"
+      },
+      {
+        "text": "龙山文化",
+        "page": 13,
+        "source": "ocr",
+        "context": "陶器\n\n龙山文化M298、M106陶器\n龙山文化M106陶器\n\n"
+      },
+      {
+        "text": "龙山文化",
+        "page": 15,
+        "source": "ocr",
+        "context": "术馆又进行了两次复查，发现有类汶口文化和龙山文化的陶\n片，断崖上还暴露有居住造迹和墓藉。"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "ocr",
+        "context": "片，断崖上还暴露有居住造迹和墓藉。当时只清理了一座残基，划主人手中握有狂牙，\n残余"
+      },
+      {
+        "text": "龙山文化",
+        "page": 15,
+        "source": "ocr",
+        "context": "，划主人手中握有狂牙，\n残余的随硬陶器有龙山文化的黑陶三足盘和墨陶续等。根据这些现象，我"
+      },
+      {
+        "text": "龙山文化",
+        "page": 15,
+        "source": "ocr",
+        "context": "。根据这些现象，我们推刷这里可\n能是一处龙山文化幕地。还 发 现 有大汶口文化的中物，估"
+      },
+      {
+        "text": "大汶口",
+        "page": 15,
+        "source": "ocr",
+        "context": "可\n能是一处龙山文化幕地。还 发 现 有大汶口文化的中物，估计还可能有释压关系的文化\n"
+      },
+      {
+        "text": "龙山文化",
+        "page": 15,
+        "source": "ocr",
+        "context": "的文化\n层。据此,我们认为发据这个遗址对龙山文化莫莫的了解和认识,以及探讨它与大汶吕文\n"
+      },
+      {
+        "text": "明",
+        "page": 15,
+        "source": "ocr",
+        "context": "0平方米，发现的遗迹和遗物相当丰富。地层明显可分为上、下两层， 下\n\nVD) 《根"
+      },
+      {
+        "text": "龙山文化",
+        "page": 15,
+        "source": "ocr",
+        "context": " 下\n\nVD) 《根据--张声面寻找到的龙山文化租直?8 《文史挡》1963年2期。\n\n"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "墓葬",
+        "page": 7,
+        "source": "ocr",
+        "context": "会性质的探讨“\n\n附表~ . 大汶口文化墓葬登记表 ，               "
+      },
+      {
+        "text": "墓葬",
+        "page": 9,
+        "source": "ocr",
+        "context": "B\nFew A Be Pa *\n龙山文化墓葬陶器…”…\n\n"
+      },
+      {
+        "text": "墓葬",
+        "page": 13,
+        "source": "ocr",
+        "context": "H BF\n\n尼山文化幕闽陶器\n\n龙山文化墓葬陶器\n\nBUC SHEMET\nFUR t"
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T21",
+        "page": 8,
+        "source": "ocr",
+        "context": "剖面图\n\nTI10@@陶片、残铜钻形器和T21@@残铜钻形器…\n工区大汶口文化遗迹分布"
+      },
+      {
+        "text": "T202",
+        "page": 13,
+        "source": "ocr",
+        "context": "遗址陶器\n\n龙山文化遗址陶器\n\n龙山文化T202@@和H103陶器\n尼山文化摹磊陶器\n\n"
+      },
+      {
+        "text": "T100",
+        "page": 15,
+        "source": "ocr",
+        "context": "大沟之南，开5米 x 5米的探方十六个〈T100一T108、T110\n一T113、T12"
+      },
+      {
+        "text": "T108",
+        "page": 15,
+        "source": "ocr",
+        "context": "开5米 x 5米的探方十六个〈T100一T108、T110\n一T113、T121一T12"
+      },
+      {
+        "text": "T110",
+        "page": 15,
+        "source": "ocr",
+        "context": " 5米的探方十六个〈T100一T108、T110\n一T113、T121一T123) ，又"
+      },
+      {
+        "text": "T113",
+        "page": 15,
+        "source": "ocr",
+        "context": "十六个〈T100一T108、T110\n一T113、T121一T123) ，又在 T区的东"
+      },
+      {
+        "text": "T121",
+        "page": 15,
+        "source": "ocr",
+        "context": "100一T108、T110\n一T113、T121一T123) ，又在 T区的东北部开3米"
+      },
+      {
+        "text": "T123",
+        "page": 15,
+        "source": "ocr",
+        "context": "108、T110\n一T113、T121一T123) ，又在 T区的东北部开3米 x 2米"
+      },
+      {
+        "text": "T1",
+        "page": 15,
+        "source": "ocr",
+        "context": "区的东北部开3米 x 2米的探沟四条 〈T1、T2、T7、\nT8) ，加上部分探方的"
+      },
+      {
+        "text": "T2",
+        "page": 15,
+        "source": "ocr",
+        "context": "北部开3米 x 2米的探沟四条 〈T1、T2、T7、\nT8) ，加上部分探方的扩方，"
+      },
+      {
+        "text": "T7",
+        "page": 15,
+        "source": "ocr",
+        "context": "3米 x 2米的探沟四条 〈T1、T2、T7、\nT8) ，加上部分探方的扩方，共发掘"
+      },
+      {
+        "text": "T8",
+        "page": 15,
+        "source": "ocr",
+        "context": " 2米的探沟四条 〈T1、T2、T7、\nT8) ，加上部分探方的扩方，共发掘440平"
+      },
+      {
+        "text": "T201",
+        "page": 15,
+        "source": "ocr",
+        "context": "单,办比开6米 x 6米的探方二十三个(T201一T210、\nT212一T222、T23"
+      },
+      {
+        "text": "T210",
+        "page": 15,
+        "source": "ocr",
+        "context": "6米 x 6米的探方二十三个(T201一T210、\nT212一T222、T233、T24"
+      },
+      {
+        "text": "T212",
+        "page": 15,
+        "source": "ocr",
+        "context": "米的探方二十三个(T201一T210、\nT212一T222、T233、T244) ，又有"
+      },
+      {
+        "text": "T222",
+        "page": 15,
+        "source": "ocr",
+        "context": "十三个(T201一T210、\nT212一T222、T233、T244) ，又有5米 x "
+      },
+      {
+        "text": "T233",
+        "page": 15,
+        "source": "ocr",
+        "context": "201一T210、\nT212一T222、T233、T244) ，又有5米 x 2米的探沟"
+      },
+      {
+        "text": "T244",
+        "page": 15,
+        "source": "ocr",
+        "context": "210、\nT212一T222、T233、T244) ，又有5米 x 2米的探沟一条 (T"
+      },
+      {
+        "text": "T21",
+        "page": 15,
+        "source": "ocr",
+        "context": "4) ，又有5米 x 2米的探沟一条 (T21) ，加上扩方部分，共\n发气930平方米"
+      },
+      {
+        "text": "T303",
+        "page": 15,
+        "source": "ocr",
+        "context": " 面积较小,开5米 x5米的探方有两个(T303、T304)，\n10米 x 5米的探沟三"
+      },
+      {
+        "text": "T304",
+        "page": 15,
+        "source": "ocr",
+        "context": ",开5米 x5米的探方有两个(T303、T304)，\n10米 x 5米的探沟三条 〈T3"
+      },
+      {
+        "text": "T301",
+        "page": 15,
+        "source": "ocr",
+        "context": "04)，\n10米 x 5米的探沟三条 〈T301、T302、T305) (AX) ，共发"
+      },
+      {
+        "text": "T302",
+        "page": 15,
+        "source": "ocr",
+        "context": "10米 x 5米的探沟三条 〈T301、T302、T305) (AX) ，共发据200平"
+      },
+      {
+        "text": "T305",
+        "page": 15,
+        "source": "ocr",
+        "context": " 5米的探沟三条 〈T301、T302、T305) (AX) ，共发据200平方米。三区"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "M2217",
+        "page": 8,
+        "source": "ocr",
+        "context": "\nAROSHM1367 HB\nARON M2217 A\n大汶口文化幕葬石器 ……，\nKRO"
+      },
+      {
+        "text": "M208",
+        "page": 9,
+        "source": "ocr",
+        "context": "文化莫绿玉器和绿松石饰…\nFelice M208 FRE WERE\nFU ARIES B"
+      },
+      {
+        "text": "M1",
+        "page": 10,
+        "source": "ocr",
+        "context": "n enc coe cones\nAMO M1 26% HA A AH a aS\nAB"
+      },
+      {
+        "text": "M7557",
+        "page": 10,
+        "source": "ocr",
+        "context": "6% HA A AH a aS\nABO M7557 A A BASE PBR\n\nARIIC"
+      },
+      {
+        "text": "M1027",
+        "page": 10,
+        "source": "ocr",
+        "context": "23平面图和随旨陶器、\n\nFeu Ak M1027 fl ABs HE BY aE\n龙山文"
+      },
+      {
+        "text": "M211",
+        "page": 11,
+        "source": "ocr",
+        "context": "E            ‘\nABCC M211 088 $f BEAL AE\nAROX"
+      },
+      {
+        "text": "M271",
+        "page": 13,
+        "source": "ocr",
+        "context": "山文化M210陶器\n\n龙山文化M280、M271、M2113陶器\n龙山文化M2113陶器"
+      },
+      {
+        "text": "T110",
+        "page": 15,
+        "source": "ocr",
+        "context": " 5米的探方十六个〈T100一T108、T110\n一T113、T121一T123) ，又"
+      },
+      {
+        "text": "T1",
+        "page": 15,
+        "source": "ocr",
+        "context": "区的东北部开3米 x 2米的探沟四条 〈T1、T2、T7、\nT8) ，加上部分探方的"
+      },
+      {
+        "text": "T2",
+        "page": 15,
+        "source": "ocr",
+        "context": "北部开3米 x 2米的探沟四条 〈T1、T2、T7、\nT8) ，加上部分探方的扩方，"
+      },
+      {
+        "text": "T7",
+        "page": 15,
+        "source": "ocr",
+        "context": "3米 x 2米的探沟四条 〈T1、T2、T7、\nT8) ，加上部分探方的扩方，共发掘"
+      },
+      {
+        "text": "T8",
+        "page": 15,
+        "source": "ocr",
+        "context": " 2米的探沟四条 〈T1、T2、T7、\nT8) ，加上部分探方的扩方，共发掘440平"
+      },
+      {
+        "text": "T233",
+        "page": 15,
+        "source": "ocr",
+        "context": "201一T210、\nT212一T222、T233、T244) ，又有5米 x 2米的探沟"
+      },
+      {
+        "text": "T244",
+        "page": 15,
+        "source": "ocr",
+        "context": "210、\nT212一T222、T233、T244) ，又有5米 x 2米的探沟一条 (T"
+      },
+      {
+        "text": "T21",
+        "page": 15,
+        "source": "ocr",
+        "context": "4) ，又有5米 x 2米的探沟一条 (T21) ，加上扩方部分，共\n发气930平方米"
+      },
+      {
+        "text": "T303",
+        "page": 15,
+        "source": "ocr",
+        "context": " 面积较小,开5米 x5米的探方有两个(T303、T304)，\n10米 x 5米的探沟三"
+      },
+      {
+        "text": "T304",
+        "page": 15,
+        "source": "ocr",
+        "context": ",开5米 x5米的探方有两个(T303、T304)，\n10米 x 5米的探沟三条 〈T3"
+      },
+      {
+        "text": "T301",
+        "page": 15,
+        "source": "ocr",
+        "context": "04)，\n10米 x 5米的探沟三条 〈T301、T302、T305) (AX) ，共发"
+      },
+      {
+        "text": "T302",
+        "page": 15,
+        "source": "ocr",
+        "context": "10米 x 5米的探沟三条 〈T301、T302、T305) (AX) ，共发据200平"
+      },
+      {
+        "text": "T305",
+        "page": 15,
+        "source": "ocr",
+        "context": " 5米的探沟三条 〈T301、T302、T305) (AX) ，共发据200平方米。三区"
+      }
+    ],
+    "石器": [
+      {
+        "text": "石刀",
+        "page": 8,
+        "source": "ocr",
+        "context": "布图 …\n龙山文化遗址石器\n龙山文化遗址石刀 …\n龙山文化遗址石器 ，\n\n龙山文化遗"
+      }
+    ],
+    "建筑结构": [
+      {
+        "text": "柱洞",
+        "page": 8,
+        "source": "ocr",
+        "context": "剖面图ee\n大汶口文化建筑遗迹和龙出文化柱洞结构图 …'\n大汶口文化了227幼猪发现"
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "陶片",
+        "page": 8,
+        "source": "ocr",
+        "context": "和发掘坑位图\n地层剖面图\n\nTI10@@陶片、残铜钻形器和T21@@残铜钻形器…\n工"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": "200米",
+        "page": 14,
+        "source": "ocr",
+        "context": "西河旁高地上，南北长约250、\n东西宽约200米 ，面积50 000平方米左右。\n\n一、"
+      },
+      {
+        "text": "5米",
+        "page": 15,
+        "source": "ocr",
+        "context": "K\n在遗址南部，即一条东西向大沟之南，开5米 x 5米的探方十六个〈T100一T10"
+      },
+      {
+        "text": " 5米",
+        "page": 15,
+        "source": "ocr",
+        "context": "址南部，即一条东西向大沟之南，开5米 x 5米的探方十六个〈T100一T108、T11"
+      },
+      {
+        "text": "3米",
+        "page": 15,
+        "source": "ocr",
+        "context": "21一T123) ，又在 T区的东北部开3米 x 2米的探沟四条 〈T1、T2、T7"
+      },
+      {
+        "text": " 2米",
+        "page": 15,
+        "source": "ocr",
+        "context": "123) ，又在 T区的东北部开3米 x 2米的探沟四条 〈T1、T2、T7、\nT8)"
+      },
+      {
+        "text": "6米",
+        "page": 15,
+        "source": "ocr",
+        "context": "，这里幕关密集，但地层堆积较简单,办比开6米 x 6米的探方二十三个(T201一T2"
+      },
+      {
+        "text": " 6米",
+        "page": 15,
+        "source": "ocr",
+        "context": "关密集，但地层堆积较简单,办比开6米 x 6米的探方二十三个(T201一T210、\nT"
+      },
+      {
+        "text": "5米",
+        "page": 15,
+        "source": "ocr",
+        "context": "一T222、T233、T244) ，又有5米 x 2米的探沟一条 (T21) ，加上"
+      },
+      {
+        "text": " 2米",
+        "page": 15,
+        "source": "ocr",
+        "context": "2、T233、T244) ，又有5米 x 2米的探沟一条 (T21) ，加上扩方部分，"
+      },
+      {
+        "text": "5米",
+        "page": 15,
+        "source": "ocr",
+        "context": "平方米，下区在遗址的西部, 面积较小,开5米 x5米的探方有两个(T303、T304"
+      },
+      {
+        "text": "5米",
+        "page": 15,
+        "source": "ocr",
+        "context": "下区在遗址的西部, 面积较小,开5米 x5米的探方有两个(T303、T304)，\n1"
+      },
+      {
+        "text": "\n10米",
+        "page": 15,
+        "source": "ocr",
+        "context": "5米的探方有两个(T303、T304)，\n10米 x 5米的探沟三条 〈T301、T30"
+      },
+      {
+        "text": " 5米",
+        "page": 15,
+        "source": "ocr",
+        "context": "两个(T303、T304)，\n10米 x 5米的探沟三条 〈T301、T302、T30"
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "生土",
+        "page": 15,
+        "source": "ocr",
+        "context": ", WARE.\n\n三里河遗址文化层之下的生土层，有的地质工作者认为属于海相沉积，据此"
+      },
+      {
+        "text": "堆积",
+        "page": 15,
+        "source": "ocr",
+        "context": "东西向大沟 之\n北，这里幕关密集，但地层堆积较简单,办比开6米 x 6米的探方二十三"
+      }
+    ],
+    "材质": [
+      {
+        "text": "硬陶",
+        "page": 15,
+        "source": "ocr",
+        "context": "一座残基，划主人手中握有狂牙，\n残余的随硬陶器有龙山文化的黑陶三足盘和墨陶续等。根据"
+      },
+      {
+        "text": "黑陶",
+        "page": 15,
+        "source": "ocr",
+        "context": "中握有狂牙，\n残余的随硬陶器有龙山文化的黑陶三足盘和墨陶续等。根据这些现象，我们推刷"
+      }
+    ]
+  }
+}

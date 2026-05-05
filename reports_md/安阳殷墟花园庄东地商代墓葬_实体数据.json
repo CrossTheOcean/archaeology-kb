@@ -1,0 +1,1947 @@
+{
+  "name": "安阳殷墟花园庄东地商代墓葬",
+  "file": "安阳殷墟花园庄东地商代墓葬.pdf",
+  "era": "商代",
+  "culture": "殷墟",
+  "processed_pages": 14,
+  "total_entities": 316,
+  "entity_stats": {
+    "年代": 16,
+    "遗址名称": 42,
+    "遗迹编号": 181,
+    "遗迹类型": 7,
+    "铜器": 34,
+    "探方编号": 2,
+    "陶器": 19,
+    "遗存类型": 2,
+    "地层": 4,
+    "建筑结构": 3,
+    "石器": 1,
+    "玉器": 4,
+    "葬具": 1
+  },
+  "entities": {
+    "年代": [
+      {
+        "text": "商代",
+        "page": 2,
+        "source": "ocr",
+        "context": "\nZe Be oe FE bed ER\n商代莫大\n\n中国社会科学院考古研究所 ”编著"
+      },
+      {
+        "text": "商代",
+        "page": 4,
+        "source": "ocr",
+        "context": "002 年在河南省安阳市花园庄东地发气的商代墓莫及其研究成果。花园\n庄东地发握区位于"
+      },
+      {
+        "text": "商代",
+        "page": 4,
+        "source": "ocr",
+        "context": "编目(CIP) 数据\n安阳丙远花园庄东地商代幕葛/中国社会科学院考古研究所编著 一北"
+      },
+      {
+        "text": "元",
+        "page": 4,
+        "source": "ocr",
+        "context": ":582 000\n定价: 228.00 元\n《如有印装项量问题，我社负责调换《〈科"
+      },
+      {
+        "text": "金",
+        "page": 5,
+        "source": "ocr",
+        "context": "得到\n中国社会科学院 B 类重大课题\n资金支持\n"
+      },
+      {
+        "text": "金",
+        "page": 6,
+        "source": "ocr",
+        "context": "\nHae ICP 检测 M54 青铜器合金成分 …                "
+      },
+      {
+        "text": "金",
+        "page": 6,
+        "source": "ocr",
+        "context": "\n附表八 XRF 检测 M54 青铜器合金成分 …                "
+      },
+      {
+        "text": "金",
+        "page": 6,
+        "source": "ocr",
+        "context": "277)\n附表九”M5S4 出土青铜礼器金相组织                 "
+      },
+      {
+        "text": "金",
+        "page": 6,
+        "source": "ocr",
+        "context": "\n附表十 ICP 检测 M60 青铜器合金成分 …                "
+      },
+      {
+        "text": "金",
+        "page": 7,
+        "source": "ocr",
+        "context": "的成分分析\n附录三 M54 出土青铜器的金相分析 ………\n\n附录四 M54 以及花"
+      },
+      {
+        "text": "清",
+        "page": 7,
+        "source": "ocr",
+        "context": "HES\n附录七”Ms4 出土容器内积土的清理和化学分析报告\n附录八。 M54 出圭"
+      },
+      {
+        "text": "商代",
+        "page": 8,
+        "source": "ocr",
+        "context": "tH EB …\n\n播图目录\n\n花园庄东地商代墓莫位置图\n花园庄东地遗址墓葬分布图\n\n"
+      },
+      {
+        "text": "金",
+        "page": 12,
+        "source": "ocr",
+        "context": " 出土骨器\nM54 HEE\nM54 出土金稍与骨器、象牙器\nMS4 出土金箱\nM5"
+      },
+      {
+        "text": "金",
+        "page": 12,
+        "source": "ocr",
+        "context": "4 出土金稍与骨器、象牙器\nMS4 出土金箱\nM54 出土金稍 、\nM54 Hi "
+      },
+      {
+        "text": "金",
+        "page": 12,
+        "source": "ocr",
+        "context": "、象牙器\nMS4 出土金箱\nM54 出土金稍 、\nM54 Hi          "
+      },
+      {
+        "text": "商代",
+        "page": 15,
+        "source": "ocr",
+        "context": "安阳股据花园庄东地商代世着\n\nPRIA\n拓片二九\n拓片三D\n\n"
+      }
+    ],
+    "遗址名称": [
+      {
+        "text": "安阳",
+        "page": 4,
+        "source": "ocr",
+        "context": "\n本书详细报道了中国社会科学院考古研究所安阳工作队 1992 年至\n2002 年在河"
+      },
+      {
+        "text": "安阳",
+        "page": 4,
+        "source": "ocr",
+        "context": "队 1992 年至\n2002 年在河南省安阳市花园庄东地发气的商代墓莫及其研究成果。"
+      },
+      {
+        "text": "花园庄",
+        "page": 4,
+        "source": "ocr",
+        "context": "992 年至\n2002 年在河南省安阳市花园庄东地发气的商代墓莫及其研究成果。花园\n庄"
+      },
+      {
+        "text": "安阳",
+        "page": 4,
+        "source": "ocr",
+        "context": "\n阅读。\n\n书在版编目(CIP) 数据\n安阳丙远花园庄东地商代幕葛/中国社会科学院考"
+      },
+      {
+        "text": "花园庄",
+        "page": 4,
+        "source": "ocr",
+        "context": "\n\n书在版编目(CIP) 数据\n安阳丙远花园庄东地商代幕葛/中国社会科学院考古研究所编"
+      },
+      {
+        "text": "安阳",
+        "page": 4,
+        "source": "ocr",
+        "context": "Wl. 中 … WL. 商莫-发气报告-安阳市 - 1992 ~ 2002\n了.K8"
+      },
+      {
+        "text": "花园庄",
+        "page": 6,
+        "source": "ocr",
+        "context": "第一章 #5 -\n第二章 ”花园庄东地蓝藉综述              "
+      },
+      {
+        "text": "花园庄",
+        "page": 6,
+        "source": "ocr",
+        "context": ")\n\n附表一”1992 ~ 2002 年花园庄东地墓葬登记表             "
+      },
+      {
+        "text": "花园庄",
+        "page": 8,
+        "source": "ocr",
+        "context": " asa tH EB …\n\n播图目录\n\n花园庄东地商代墓莫位置图\n花园庄东地遗址墓葬分"
+      },
+      {
+        "text": "花园庄",
+        "page": 8,
+        "source": "ocr",
+        "context": "\n播图目录\n\n花园庄东地商代墓莫位置图\n花园庄东地遗址墓葬分布图\n\nH6 平、剖面图\n"
+      },
+      {
+        "text": "花园庄",
+        "page": 8,
+        "source": "ocr",
+        "context": "H6 平、剖面图\nHIS 平、剖面图、\n花园庄东地遗址出土陶珊 ……\n花园庄东地遗址出"
+      },
+      {
+        "text": "花园庄",
+        "page": 8,
+        "source": "ocr",
+        "context": "剖面图、\n花园庄东地遗址出土陶珊 ……\n花园庄东地遗址出土陶融足\n花园庄东地遗址出土陶"
+      },
+      {
+        "text": "花园庄",
+        "page": 8,
+        "source": "ocr",
+        "context": "土陶珊 ……\n花园庄东地遗址出土陶融足\n花园庄东地遗址出土陶遍口沿\n\n花园庄东地遗址出"
+      },
+      {
+        "text": "花园庄",
+        "page": 8,
+        "source": "ocr",
+        "context": "土陶融足\n花园庄东地遗址出土陶遍口沿\n\n花园庄东地遗址出土陶豆、陶重\n花园庄东地遗址出"
+      },
+      {
+        "text": "花园庄",
+        "page": 8,
+        "source": "ocr",
+        "context": "遍口沿\n\n花园庄东地遗址出土陶豆、陶重\n花园庄东地遗址出土陶段 …\n花园庄东地遗址出土"
+      },
+      {
+        "text": "花园庄",
+        "page": 8,
+        "source": "ocr",
+        "context": "陶豆、陶重\n花园庄东地遗址出土陶段 …\n花园庄东地遗址出土陶盆 …\n花园庄东地遗址出土"
+      },
+      {
+        "text": "花园庄",
+        "page": 8,
+        "source": "ocr",
+        "context": "土陶段 …\n花园庄东地遗址出土陶盆 …\n花园庄东地遗址出土陶盆 …\n\n花园庄东地遗址出"
+      },
+      {
+        "text": "花园庄",
+        "page": 8,
+        "source": "ocr",
+        "context": "陶盆 …\n花园庄东地遗址出土陶盆 …\n\n花园庄东地遗址出土陶答 …\n花园庄东地遗址出土"
+      },
+      {
+        "text": "花园庄",
+        "page": 8,
+        "source": "ocr",
+        "context": "陶盆 …\n\n花园庄东地遗址出土陶答 …\n花园庄东地遗址出土陶负 …\nFe Ba BE "
+      },
+      {
+        "text": "花园庄",
+        "page": 8,
+        "source": "ocr",
+        "context": "R sat hk oh + PRR …\n花园庄东地遗址出土陶器…\n花园庄东地遗址出土隐"
+      },
+      {
+        "text": "花园庄",
+        "page": 8,
+        "source": "ocr",
+        "context": " PRR …\n花园庄东地遗址出土陶器…\n花园庄东地遗址出土隐敌形器 …\n\n花园庄东地遗"
+      },
+      {
+        "text": "花园庄",
+        "page": 8,
+        "source": "ocr",
+        "context": "器…\n花园庄东地遗址出土隐敌形器 …\n\n花园庄东地遗址出土石器、骨器 ，\n花园庄东地遗"
+      },
+      {
+        "text": "花园庄",
+        "page": 8,
+        "source": "ocr",
+        "context": "…\n\n花园庄东地遗址出土石器、骨器 ，\n花园庄东地遗址出土上人骨〈H7: 18)\n\n花"
+      },
+      {
+        "text": "花园庄",
+        "page": 8,
+        "source": "ocr",
+        "context": "庄东地遗址出土上人骨〈H7: 18)\n\n花园庄东地遗址出土上甲《T2G@:34)\nEE"
+      },
+      {
+        "text": "花园庄",
+        "page": 9,
+        "source": "ocr",
+        "context": "图二八_M52 平面图\nM82 平面图\n花园庄东地基硬出土陶饥 +\nTEBE EE A"
+      },
+      {
+        "text": "花园庄",
+        "page": 9,
+        "source": "ocr",
+        "context": "AR Hb BE 3B Hh + BE\n花园庄东地墓葬出土阅豆\n花园庄东地幕葬出土陶盘"
+      },
+      {
+        "text": "花园庄",
+        "page": 9,
+        "source": "ocr",
+        "context": "Hh + BE\n花园庄东地墓葬出土阅豆\n花园庄东地幕葬出土陶盘 ，\n花园庄东地幕苦出土"
+      },
+      {
+        "text": "花园庄",
+        "page": 9,
+        "source": "ocr",
+        "context": "葬出土阅豆\n花园庄东地幕葬出土陶盘 ，\n花园庄东地幕苦出土陶器 、\n花园庄东地墓葬出土"
+      },
+      {
+        "text": "花园庄",
+        "page": 9,
+        "source": "ocr",
+        "context": "土陶盘 ，\n花园庄东地幕苦出土陶器 、\n花园庄东地墓葬出土陶炎、\nTE BALE A "
+      },
+      {
+        "text": "花园庄",
+        "page": 9,
+        "source": "ocr",
+        "context": "Ut\nFEA EIR Ae BE RE\n花园庄东地幕葛出土铜鼎\nFERRE AR HH"
+      },
+      {
+        "text": "花园庄",
+        "page": 9,
+        "source": "ocr",
+        "context": "i HAA\nFAH EER +\n图四六”花园庄东地墓葬出土铜器\nAt CRM ERM "
+      },
+      {
+        "text": "花园庄",
+        "page": 9,
+        "source": "ocr",
+        "context": "RO FeRAM IE + ，\n图五一“花园庄东地幕莫出土钢戈\n图五二”花园庄东地墓葬"
+      },
+      {
+        "text": "花园庄",
+        "page": 9,
+        "source": "ocr",
+        "context": "图五一“花园庄东地幕莫出土钢戈\n图五二”花园庄东地墓葬出土铜苹\n图五三”花园庄东地基芋"
+      },
+      {
+        "text": "花园庄",
+        "page": 9,
+        "source": "ocr",
+        "context": "图五二”花园庄东地墓葬出土铜苹\n图五三”花园庄东地基芋出土钢器\n图五四 Aba AR "
+      },
+      {
+        "text": "花园庄",
+        "page": 9,
+        "source": "ocr",
+        "context": "wae\nBBA ERM tae\n图五七”花园庄东地墓葬出土石器\n图五八，花园庄东地幕昔"
+      },
+      {
+        "text": "花园庄",
+        "page": 9,
+        "source": "ocr",
+        "context": "图五七”花园庄东地墓葬出土石器\n图五八，花园庄东地幕昔出土石柄形器、\n图五九 ”花园庄"
+      },
+      {
+        "text": "花园庄",
+        "page": 9,
+        "source": "ocr",
+        "context": "花园庄东地幕昔出土石柄形器、\n图五九 ”花园庄东地幕昔出土骨已、鹿角\nHAO   FL"
+      },
+      {
+        "text": "花园庄",
+        "page": 14,
+        "source": "ocr",
+        "context": "拓片是录\n\n花园庄东地幕葛出土闭纺轮陶文拓片\n花园庄东卫幕"
+      },
+      {
+        "text": "花园庄",
+        "page": 14,
+        "source": "ocr",
+        "context": "录\n\n花园庄东地幕葛出土闭纺轮陶文拓片\n花园庄东卫幕葬出土铜方束〈《M42:2) 纹饰"
+      },
+      {
+        "text": "花园庄",
+        "page": 14,
+        "source": "ocr",
+        "context": "M42:2) 纹饰及内底铭文\n\n拓片四 花园庄东地幕匡出土钢表纹饰及铭文\n\n拓片五 M"
+      },
+      {
+        "text": "安阳",
+        "page": 15,
+        "source": "ocr",
+        "context": "安阳股据花园庄东地商代世着\n\nPRIA\n拓片"
+      },
+      {
+        "text": "花园庄",
+        "page": 15,
+        "source": "ocr",
+        "context": "安阳股据花园庄东地商代世着\n\nPRIA\n拓片二九\n拓片"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "M54",
+        "page": 4,
+        "source": "ocr",
+        "context": "实物资料和科学依据。\n\n本书重点报道了 M54 和M60，其中 MS4 ALGER I"
+      },
+      {
+        "text": "M160",
+        "page": 4,
+        "source": "ocr",
+        "context": "中 MS4 ALGER IB ARHE M160 之后又\n一座保存完好的重要中型蓝三，莫"
+      },
+      {
+        "text": "M60",
+        "page": 4,
+        "source": "ocr",
+        "context": "大，花纹繁钴，\n并多针有“亚长”销文; M60 则是一雇形制特殊、随莫器物及摆放位置\n"
+      },
+      {
+        "text": "K878",
+        "page": 4,
+        "source": "ocr",
+        "context": "安阳市 - 1992 ~ 2002\n了.K878.85\n本图书馆 CIP 数据核字〈20"
+      },
+      {
+        "text": "M54",
+        "page": 6,
+        "source": "ocr",
+        "context": "         + (253)\nMt M54 随葬铜戈登记表            "
+      },
+      {
+        "text": "M54",
+        "page": 6,
+        "source": "ocr",
+        "context": "            《259)\n= M54 RASA Biz ……        "
+      },
+      {
+        "text": "S220",
+        "page": 6,
+        "source": "ocr",
+        "context": "           ++ (263)\nS220) M54 随葬钢铃登记表       "
+      },
+      {
+        "text": "M54",
+        "page": 6,
+        "source": "ocr",
+        "context": "     ++ (263)\nS220) M54 随葬钢铃登记表            "
+      },
+      {
+        "text": "M54",
+        "page": 6,
+        "source": "ocr",
+        "context": "       + (267)\n附表五 ”M54 出土青铜器 X 射线透视分析表    "
+      },
+      {
+        "text": "M54",
+        "page": 6,
+        "source": "ocr",
+        "context": "   《275》\nHae ICP 检测 M54 青铜器合金成分 …          "
+      },
+      {
+        "text": "M54",
+        "page": 6,
+        "source": "ocr",
+        "context": "  《277)》\n附表八 XRF 检测 M54 青铜器合金成分 …          "
+      },
+      {
+        "text": "M60",
+        "page": 6,
+        "source": "ocr",
+        "context": "   (278》\n附表十 ICP 检测 M60 青铜器合金成分 …          "
+      },
+      {
+        "text": "M54",
+        "page": 7,
+        "source": "ocr",
+        "context": "rrerrtrrerrrirt\nER— M54 ehh ARS ae\n附录二 M54 "
+      },
+      {
+        "text": "M54",
+        "page": 7,
+        "source": "ocr",
+        "context": " M54 ehh ARS ae\n附录二 M54 及 M60 出土青铀器的成分分析\n附录"
+      },
+      {
+        "text": "M60",
+        "page": 7,
+        "source": "ocr",
+        "context": "hh ARS ae\n附录二 M54 及 M60 出土青铀器的成分分析\n附录三 M54 "
+      },
+      {
+        "text": "M54",
+        "page": 7,
+        "source": "ocr",
+        "context": " M60 出土青铀器的成分分析\n附录三 M54 出土青铜器的金相分析 ………\n\n附录四"
+      },
+      {
+        "text": "M54",
+        "page": 7,
+        "source": "ocr",
+        "context": "出土青铜器的金相分析 ………\n\n附录四 M54 以及花东小幕出土青铜器的 X 射线透视"
+      },
+      {
+        "text": "M54",
+        "page": 7,
+        "source": "ocr",
+        "context": " LM REC AAR 8\n附录六“对 M54 A HES\n附录七”Ms4 出土容器内"
+      },
+      {
+        "text": "M54",
+        "page": 7,
+        "source": "ocr",
+        "context": "器内积土的清理和化学分析报告\n附录八。 M54 出圭狗骨研究报告\n附录九 RUE …\n"
+      },
+      {
+        "text": "T2",
+        "page": 8,
+        "source": "ocr",
+        "context": "= Tl 中部地层前面图\n图四“T2 北辟剖面图\n\nA FER FEAR a"
+      },
+      {
+        "text": "H6",
+        "page": 8,
+        "source": "ocr",
+        "context": "墓莫位置图\n花园庄东地遗址墓葬分布图\n\nH6 平、剖面图\nHIS 平、剖面图、\n花园"
+      },
+      {
+        "text": "H7",
+        "page": 8,
+        "source": "ocr",
+        "context": "器、骨器 ，\n花园庄东地遗址出土上人骨〈H7: 18)\n\n花园庄东地遗址出土上甲《T"
+      },
+      {
+        "text": "M42",
+        "page": 8,
+        "source": "ocr",
+        "context": "2G@:34)\nEER MRR ARS\nM42 平面图\n"
+      },
+      {
+        "text": "M82",
+        "page": 9,
+        "source": "ocr",
+        "context": "ER SNS\n\n图二八_M52 平面图\nM82 平面图\n花园庄东地基硬出土陶饥 +\nT"
+      },
+      {
+        "text": "M4",
+        "page": 10,
+        "source": "ocr",
+        "context": "           (72)\nBA= M4 述室结构及二层台下殉人平、剖面图   "
+      },
+      {
+        "text": "M54",
+        "page": 10,
+        "source": "ocr",
+        "context": "           (74)\nBAB M54 ZERBSAMA!          "
+      },
+      {
+        "text": "M54",
+        "page": 10,
+        "source": "ocr",
+        "context": "        ++ (78)\nBAL M54 二层台内殉人、殉狗及本查平面|    "
+      },
+      {
+        "text": "M54",
+        "page": 10,
+        "source": "ocr",
+        "context": "           (87)\nAtt M54 第一层器物平面图 …         "
+      },
+      {
+        "text": "M54",
+        "page": 10,
+        "source": "ocr",
+        "context": "          …【播页)\n图七九 M54 第三层器物平面图           "
+      },
+      {
+        "text": "M54",
+        "page": 10,
+        "source": "ocr",
+        "context": "          (89)》\nHAO M54 第四层器物平面图           "
+      },
+      {
+        "text": "M54",
+        "page": 10,
+        "source": "ocr",
+        "context": "        ++ (90)\nPRA M54 出土 Aa SIT A (M54: 1"
+      },
+      {
+        "text": "M54",
+        "page": 10,
+        "source": "ocr",
+        "context": "RA M54 出土 Aa SIT A (M54: 170)              "
+      },
+      {
+        "text": "M54",
+        "page": 10,
+        "source": "ocr",
+        "context": "        ++ (95)\n图八二 M54 出土 Ab Hise rsh (M54"
+      },
+      {
+        "text": "M54",
+        "page": 10,
+        "source": "ocr",
+        "context": "M54 出土 Ab Hise rsh (M54: 191)              "
+      },
+      {
+        "text": "M54",
+        "page": 10,
+        "source": "ocr",
+        "context": "           (96)\nBAS M54 出土 Ba R95 〈M54:240)"
+      },
+      {
+        "text": "M54:240",
+        "page": 10,
+        "source": "ocr",
+        "context": "\nBAS M54 出土 Ba R95 〈M54:240)                   "
+      },
+      {
+        "text": "M54",
+        "page": 10,
+        "source": "ocr",
+        "context": "        s+ (97)\n图八四 M54 出土家铜易              "
+      },
+      {
+        "text": "M54",
+        "page": 10,
+        "source": "ocr",
+        "context": "         …《99)》\nBAH M54 出土C 型颇             "
+      },
+      {
+        "text": "M54",
+        "page": 10,
+        "source": "ocr",
+        "context": "        - (101)\n图八六 M54 出土铜题 (M54: 154)    "
+      },
+      {
+        "text": "M54",
+        "page": 10,
+        "source": "ocr",
+        "context": "(101)\n图八六 M54 出土铜题 (M54: 154)              "
+      },
+      {
+        "text": "M54",
+        "page": 10,
+        "source": "ocr",
+        "context": "         + (104)\nAt M54 出土 A RA            "
+      },
+      {
+        "text": "M54",
+        "page": 10,
+        "source": "ocr",
+        "context": "        - (109)\n图八九 M54 iit A BIR ，…:      "
+      },
+      {
+        "text": "M54",
+        "page": 10,
+        "source": "ocr",
+        "context": "        + (111)\nALO M54 H+ 3B ---          "
+      },
+      {
+        "text": "M54",
+        "page": 10,
+        "source": "ocr",
+        "context": "        * (113)\n图九一“M54 ht ASR (M54: 43)   "
+      },
+      {
+        "text": "M54",
+        "page": 10,
+        "source": "ocr",
+        "context": "13)\n图九一“M54 ht ASR (M54: 43)               "
+      },
+      {
+        "text": "M54",
+        "page": 10,
+        "source": "ocr",
+        "context": "      * (115)\nFAJL— M54 出土铜方尊〈M54: 84)     "
+      },
+      {
+        "text": "M54",
+        "page": 10,
+        "source": "ocr",
+        "context": "15)\nFAJL— M54 出土铜方尊〈M54: 84)               "
+      },
+      {
+        "text": "M54",
+        "page": 10,
+        "source": "ocr",
+        "context": "          (119)\n图九三”M54 H+ HR (M54: 183)   "
+      },
+      {
+        "text": "M54",
+        "page": 10,
+        "source": "ocr",
+        "context": "119)\n图九三”M54 H+ HR (M54: 183)              "
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "图九七\n图九八\n图九九\n图一OO\n\n= M54 ht BUR …\n\n六 M54 出土C"
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "\n\n= M54 ht BUR …\n\n六 M54 出土C 型 工式钢苹\n\nM54 出土铀"
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "\n\n六 M54 出土C 型 工式钢苹\n\nM54 出土铀能 (M54: 193)》 ee"
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "C 型 工式钢苹\n\nM54 出土铀能 (M54: 193)》 ee\nM54 出土牛尊 "
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "出土铀能 (M54: 193)》 ee\nM54 出土牛尊 (M54: 475 + 14"
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": " 193)》 ee\nM54 出土牛尊 (M54: 475 + 146)        "
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "                 ae\nM54 出土方村 (M54: 136)\nM54"
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "       ae\nM54 出土方村 (M54: 136)\nM54 ti dat (M"
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "M54 出土方村 (M54: 136)\nM54 ti dat (M54: 169)\nM"
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "4: 136)\nM54 ti dat (M54: 169)\nM54 出土铜重〔M54:"
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "4 ti dat (M54: 169)\nM54 出土铜重〔M54: 157)\nM54 "
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "(M54: 169)\nM54 出土铜重〔M54: 157)\nM54 HHAGAEE s"
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "\nM54 出土铜重〔M54: 157)\nM54 HHAGAEE sees eeeeee"
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "GAEE sees eeeeeeeee\nM54 HERE +\nM54 Hits} (M"
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "eeeeeeee\nM54 HERE +\nM54 Hits} (M54: 1874569"
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "4 HERE +\nM54 Hits} (M54: 1874569) 及其拓片\nM54 "
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "(M54: 1874569) 及其拓片\nM54 出土青后锐 …\nM54 HAR …\nM"
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "9) 及其拓片\nM54 出土青后锐 …\nM54 HAR …\nM54 Hit C AVP"
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "4 出土青后锐 …\nM54 HAR …\nM54 Hit C AVPTAR …\nM54 "
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "\nM54 Hit C AVPTAR …\nM54 出土 C 型青钢铁 …\nM54 出土 "
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "R …\nM54 出土 C 型青钢铁 …\nM54 出土 A RUG …\nM54 Hit "
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "钢铁 …\nM54 出土 A RUG …\nM54 Hit A BA …\nM54 出土B "
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "UG …\nM54 Hit A BA …\nM54 出土B 型I式铜矛 …\nM54 H+ "
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "A …\nM54 出土B 型I式铜矛 …\nM54 H+ BRIRGF …\nM54 EPR"
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "矛 …\nM54 H+ BRIRGF …\nM54 EPR cee\nMS4 Hit A M"
+      },
+      {
+        "text": "M1",
+        "page": 11,
+        "source": "ocr",
+        "context": "4 EPR cee\nMS4 Hit A M1 tHe\nM54 Hit A 型钢威 …"
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "ee\nMS4 Hit A M1 tHe\nM54 Hit A 型钢威 …\n\nM54 i+"
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "He\nM54 Hit A 型钢威 …\n\nM54 i+ CHIRK …\nM54 HE C"
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "威 …\n\nM54 i+ CHIRK …\nM54 HE C MIS …\n\nM54 出土C"
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "K …\nM54 HE C MIS …\n\nM54 出土C MUR ……\nM54 出土卷首"
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "S …\n\nM54 出土C MUR ……\nM54 出土卷首刀 …\nM54 Hi ，\n\nM"
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": " MUR ……\nM54 出土卷首刀 …\nM54 Hi ，\n\nM54 thick A 型"
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "4 出土卷首刀 …\nM54 Hi ，\n\nM54 thick A 型引形器 (M54: "
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "\n\nM54 thick A 型引形器 (M54: 203)\nM54 出土 A 型弓形器"
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "k A 型引形器 (M54: 203)\nM54 出土 A 型弓形器\nM54 Ht B "
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": " 203)\nM54 出土 A 型弓形器\nM54 Ht B 型弓形器 …\nM54 Hit"
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "弓形器\nM54 Ht B 型弓形器 …\nM54 Hit HSE BEL BE\nM54 "
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "\nM54 Hit HSE BEL BE\nM54 出土铜手形器及其拓片\nMS4 出土钢锛"
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "铜手形器及其拓片\nMS4 出土钢锛 、\nM54 出土钢刀\n"
+      },
+      {
+        "text": "M54",
+        "page": 12,
+        "source": "ocr",
+        "context": "  Vi\n\nRBRARRAR AAA\n\nM54 出土钢刀、铃首锥状器\nM54 th +"
+      },
+      {
+        "text": "M54",
+        "page": 12,
+        "source": "ocr",
+        "context": "AAA\n\nM54 出土钢刀、铃首锥状器\nM54 th + DORE HER SE\nM5"
+      },
+      {
+        "text": "M54",
+        "page": 12,
+        "source": "ocr",
+        "context": "54 th + DORE HER SE\nM54 th + 5%\nM54 tae} …\n"
+      },
+      {
+        "text": "M54",
+        "page": 12,
+        "source": "ocr",
+        "context": " HER SE\nM54 th + 5%\nM54 tae} …\nM54 出土铀泡\nM54"
+      },
+      {
+        "text": "M54",
+        "page": 12,
+        "source": "ocr",
+        "context": " th + 5%\nM54 tae} …\nM54 出土铀泡\nM54 出土铜泡 …\nM54"
+      },
+      {
+        "text": "M54",
+        "page": 12,
+        "source": "ocr",
+        "context": "M54 tae} …\nM54 出土铀泡\nM54 出土铜泡 …\nM54 出土钢器 …\nM"
+      },
+      {
+        "text": "M54",
+        "page": 12,
+        "source": "ocr",
+        "context": "M54 出土铀泡\nM54 出土铜泡 …\nM54 出土钢器 …\nM54 出土玉圭\nM54"
+      },
+      {
+        "text": "M54",
+        "page": 12,
+        "source": "ocr",
+        "context": "4 出土铜泡 …\nM54 出土钢器 …\nM54 出土玉圭\nM54 出土玉礼器\nM54 "
+      },
+      {
+        "text": "M54",
+        "page": 12,
+        "source": "ocr",
+        "context": "M54 出土钢器 …\nM54 出土玉圭\nM54 出土玉礼器\nM54 出土玉威 …\nM5"
+      },
+      {
+        "text": "M54",
+        "page": 12,
+        "source": "ocr",
+        "context": "\nM54 出土玉圭\nM54 出土玉礼器\nM54 出土玉威 …\nM54 ti bse, "
+      },
+      {
+        "text": "M54",
+        "page": 12,
+        "source": "ocr",
+        "context": "54 出土玉礼器\nM54 出土玉威 …\nM54 ti bse, ah +\nMS4 出土"
+      },
+      {
+        "text": "M54",
+        "page": 12,
+        "source": "ocr",
+        "context": "e, ah +\nMS4 出土玉兵器 …\nM54 th + REAR\nM54 HER -"
+      },
+      {
+        "text": "M54",
+        "page": 12,
+        "source": "ocr",
+        "context": "玉兵器 …\nM54 th + REAR\nM54 HER -\nM4 出土玉器 ，\nMS4"
+      },
+      {
+        "text": "M4",
+        "page": 12,
+        "source": "ocr",
+        "context": "th + REAR\nM54 HER -\nM4 出土玉器 ，\nMS4 出土玉刀、\nM5"
+      },
+      {
+        "text": "M54",
+        "page": 12,
+        "source": "ocr",
+        "context": "M4 出土玉器 ，\nMS4 出土玉刀、\nM54 出土玉器 -\nM54 出土玉器 -\nM"
+      },
+      {
+        "text": "M54",
+        "page": 12,
+        "source": "ocr",
+        "context": "S4 出土玉刀、\nM54 出土玉器 -\nM54 出土玉器 -\nM54 HERE,\nM5"
+      },
+      {
+        "text": "M54",
+        "page": 12,
+        "source": "ocr",
+        "context": "4 出土玉器 -\nM54 出土玉器 -\nM54 HERE,\nM54 出土玉管 ………-"
+      },
+      {
+        "text": "M54",
+        "page": 12,
+        "source": "ocr",
+        "context": "54 出土玉器 -\nM54 HERE,\nM54 出土玉管 ………-\nM54 HEB -"
+      },
+      {
+        "text": "M54",
+        "page": 12,
+        "source": "ocr",
+        "context": "HERE,\nM54 出土玉管 ………-\nM54 HEB -\nM54 出土玉器 -\nM5"
+      },
+      {
+        "text": "M54",
+        "page": 12,
+        "source": "ocr",
+        "context": "出土玉管 ………-\nM54 HEB -\nM54 出土玉器 -\nM54 出土陶器\nM54"
+      },
+      {
+        "text": "M54",
+        "page": 12,
+        "source": "ocr",
+        "context": "54 HEB -\nM54 出土玉器 -\nM54 出土陶器\nM54 出土石器 ，\nM54"
+      },
+      {
+        "text": "M54",
+        "page": 12,
+        "source": "ocr",
+        "context": "M54 出土玉器 -\nM54 出土陶器\nM54 出土石器 ，\nM54 i +3 (M5"
+      },
+      {
+        "text": "M54",
+        "page": 12,
+        "source": "ocr",
+        "context": "M54 出土陶器\nM54 出土石器 ，\nM54 i +3 (M54: 207)\nM54"
+      },
+      {
+        "text": "M54",
+        "page": 12,
+        "source": "ocr",
+        "context": "54 出土石器 ，\nM54 i +3 (M54: 207)\nM54 出土石刀 -\nM5"
+      },
+      {
+        "text": "M54",
+        "page": 12,
+        "source": "ocr",
+        "context": "M54 i +3 (M54: 207)\nM54 出土石刀 -\nM54 出土骨器\nM54"
+      },
+      {
+        "text": "M54",
+        "page": 12,
+        "source": "ocr",
+        "context": "54: 207)\nM54 出土石刀 -\nM54 出土骨器\nM54 HEE\nM54 出土"
+      },
+      {
+        "text": "M54",
+        "page": 12,
+        "source": "ocr",
+        "context": "M54 出土石刀 -\nM54 出土骨器\nM54 HEE\nM54 出土金稍与骨器、象牙器"
+      },
+      {
+        "text": "M54",
+        "page": 12,
+        "source": "ocr",
+        "context": " -\nM54 出土骨器\nM54 HEE\nM54 出土金稍与骨器、象牙器\nMS4 出土金"
+      },
+      {
+        "text": "M54",
+        "page": 12,
+        "source": "ocr",
+        "context": "土金稍与骨器、象牙器\nMS4 出土金箱\nM54 出土金稍 、\nM54 Hi      "
+      },
+      {
+        "text": "M54",
+        "page": 12,
+        "source": "ocr",
+        "context": "MS4 出土金箱\nM54 出土金稍 、\nM54 Hi                 "
+      },
+      {
+        "text": "M60",
+        "page": 12,
+        "source": "ocr",
+        "context": "                  ，\nM60 平面及棺下铺垫打碎器物图 ee ese"
+      },
+      {
+        "text": "M60",
+        "page": 13,
+        "source": "ocr",
+        "context": "PARR TC REL TRH aE\n\nM60 Hh-EPA AE …\n\nM60 出土"
+      },
+      {
+        "text": "M60",
+        "page": 13,
+        "source": "ocr",
+        "context": "E\n\nM60 Hh-EPA AE …\n\nM60 出土陶器\nM60 出土陶器\n\n= M6"
+      },
+      {
+        "text": "M60",
+        "page": 13,
+        "source": "ocr",
+        "context": "-EPA AE …\n\nM60 出土陶器\nM60 出土陶器\n\n= M60 出土器物\n\nM"
+      },
+      {
+        "text": "M60",
+        "page": 13,
+        "source": "ocr",
+        "context": "60 出土陶器\nM60 出土陶器\n\n= M60 出土器物\n\nM60 出土陶器\n\nM60"
+      },
+      {
+        "text": "M60",
+        "page": 13,
+        "source": "ocr",
+        "context": "0 出土陶器\n\n= M60 出土器物\n\nM60 出土陶器\n\nM60 出土陶器 …\nA "
+      },
+      {
+        "text": "M60",
+        "page": 13,
+        "source": "ocr",
+        "context": "M60 出土器物\n\nM60 出土陶器\n\nM60 出土陶器 …\nA M60 出土钢器 …"
+      },
+      {
+        "text": "M60",
+        "page": 13,
+        "source": "ocr",
+        "context": " 出土陶器\n\nM60 出土陶器 …\nA M60 出土钢器 …\nM60 出土铜器 …\nM"
+      },
+      {
+        "text": "M60",
+        "page": 13,
+        "source": "ocr",
+        "context": "出土陶器 …\nA M60 出土钢器 …\nM60 出土铜器 …\nM60 出土铜器 …\nM"
+      },
+      {
+        "text": "M60",
+        "page": 13,
+        "source": "ocr",
+        "context": "0 出土钢器 …\nM60 出土铜器 …\nM60 出土铜器 …\nM60 出土器物 …\nM"
+      },
+      {
+        "text": "M60",
+        "page": 13,
+        "source": "ocr",
+        "context": "0 出土铜器 …\nM60 出土铜器 …\nM60 出土器物 …\nM60 出土器物 …\nM"
+      },
+      {
+        "text": "M60",
+        "page": 13,
+        "source": "ocr",
+        "context": "0 出土铜器 …\nM60 出土器物 …\nM60 出土器物 …\nM60 Wiha …\n\n"
+      },
+      {
+        "text": "M60",
+        "page": 13,
+        "source": "ocr",
+        "context": "0 出土器物 …\nM60 出土器物 …\nM60 Wiha …\n\n"
+      },
+      {
+        "text": "M42:2",
+        "page": 14,
+        "source": "ocr",
+        "context": "轮陶文拓片\n花园庄东卫幕葬出土铜方束〈《M42:2) 纹饰及内底铭文\n\n拓片四 花园庄东地"
+      },
+      {
+        "text": "M54",
+        "page": 14,
+        "source": "ocr",
+        "context": "庄东地幕匡出土钢表纹饰及铭文\n\n拓片五 M54 出土铀器纹饰及铭文拓片\n\n拓片六 M5"
+      },
+      {
+        "text": "M54",
+        "page": 14,
+        "source": "ocr",
+        "context": "54 出土铀器纹饰及铭文拓片\n\n拓片六 M54 出士C Bie (M54: 181) "
+      },
+      {
+        "text": "M54",
+        "page": 14,
+        "source": "ocr",
+        "context": "片\n\n拓片六 M54 出士C Bie (M54: 181) 拓片 -\n\n拓片七 M54"
+      },
+      {
+        "text": "M54",
+        "page": 14,
+        "source": "ocr",
+        "context": "M54: 181) 拓片 -\n\n拓片七 M54 出土C 型易纹饰及铭文拓片 ，……\n\n"
+      },
+      {
+        "text": "M54:190",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n拓片八_M54 出土 A SRAM (M54:190) 拓片 ，\n\nYR IL M54 出土"
+      },
+      {
+        "text": "M54",
+        "page": 14,
+        "source": "ocr",
+        "context": "54:190) 拓片 ，\n\nYR IL M54 出土 A RUA (M54: 194)"
+      },
+      {
+        "text": "M54",
+        "page": 14,
+        "source": "ocr",
+        "context": "YR IL M54 出土 A RUA (M54: 194) 及铭文拓片\n拓片一D。M5"
+      },
+      {
+        "text": "M54",
+        "page": 14,
+        "source": "ocr",
+        "context": "54: 194) 及铭文拓片\n拓片一D。M54 出土 B RMA (M54:192) "
+      },
+      {
+        "text": "M54:192",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n拓片一D。M54 出土 B RMA (M54:192) 拓片 ……\n拓片一一“M54 出土 "
+      },
+      {
+        "text": "M54",
+        "page": 14,
+        "source": "ocr",
+        "context": "M54:192) 拓片 ……\n拓片一一“M54 出土 A ERR 〈M54: 138》"
+      },
+      {
+        "text": "M54",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n拓片一一“M54 出土 A ERR 〈M54: 138》 拓片 -\n\n折片一二 M5"
+      },
+      {
+        "text": "M54",
+        "page": 14,
+        "source": "ocr",
+        "context": "54: 138》 拓片 -\n\n折片一二 M54 出土 B 型铜表 〈(M54: 184"
+      },
+      {
+        "text": "M54",
+        "page": 14,
+        "source": "ocr",
+        "context": "折片一二 M54 出土 B 型铜表 〈(M54: 184) 拓片 ，\n\n拓片一三”M5"
+      },
+      {
+        "text": "M54",
+        "page": 14,
+        "source": "ocr",
+        "context": "54: 184) 拓片 ，\n\n拓片一三”M54 出土铜方哇(M54:43) 拓片 …\n"
+      },
+      {
+        "text": "M54:43",
+        "page": 14,
+        "source": "ocr",
+        "context": "片 ，\n\n拓片一三”M54 出土铜方哇(M54:43) 拓片 …\n\n拓片一四“NM54 出土"
+      },
+      {
+        "text": "M54",
+        "page": 14,
+        "source": "ocr",
+        "context": "…\n\n拓片一四“NM54 出土铜方尊 〈M54: 84) 拓片 …\n\n拓片一五”M54"
+      },
+      {
+        "text": "M54",
+        "page": 14,
+        "source": "ocr",
+        "context": "M54: 84) 拓片 …\n\n拓片一五”M54 WEA SR (M54:183) 全型"
+      },
+      {
+        "text": "M54:183",
+        "page": 14,
+        "source": "ocr",
+        "context": "…\n\n拓片一五”M54 WEA SR (M54:183) 全型及铭文拓片 …\n拓片一六 M54"
+      },
+      {
+        "text": "M54",
+        "page": 14,
+        "source": "ocr",
+        "context": "183) 全型及铭文拓片 …\n拓片一六 M54 te Haft (M54: 195) "
+      },
+      {
+        "text": "M54",
+        "page": 14,
+        "source": "ocr",
+        "context": "…\n拓片一六 M54 te Haft (M54: 195) 全型及铭文拓片\n拓片一七“"
+      },
+      {
+        "text": "M54",
+        "page": 14,
+        "source": "ocr",
+        "context": ": 195) 全型及铭文拓片\n拓片一七“M54 出土牛尊 〔M54:475 +146)"
+      },
+      {
+        "text": "M54:475",
+        "page": 14,
+        "source": "ocr",
+        "context": "铭文拓片\n拓片一七“M54 出土牛尊 〔M54:475 +146) 全型及铭文拓片\n\n拓片一人"
+      },
+      {
+        "text": "M54",
+        "page": 14,
+        "source": "ocr",
+        "context": "铭文拓片\n\n拓片一人NM54 出土钢盏〈M54: 157) 纹饰及铭文拓片\n拓片一九”"
+      },
+      {
+        "text": "M54",
+        "page": 14,
+        "source": "ocr",
+        "context": ": 157) 纹饰及铭文拓片\n拓片一九”M54 出土钢复纹饰拓片\n\n拓片二一“M54 "
+      },
+      {
+        "text": "M54",
+        "page": 14,
+        "source": "ocr",
+        "context": "”M54 出土钢复纹饰拓片\n\n拓片二一“M54 出土C 型钢钱〈M54:582) 拓片"
+      },
+      {
+        "text": "M54:582",
+        "page": 14,
+        "source": "ocr",
+        "context": "片\n\n拓片二一“M54 出土C 型钢钱〈M54:582) 拓片 ，\n拓片二二 M54 出土钢钱"
+      },
+      {
+        "text": "M54",
+        "page": 14,
+        "source": "ocr",
+        "context": "〈M54:582) 拓片 ，\n拓片二二 M54 出土钢钱《〈《M54:581) 拓片 "
+      },
+      {
+        "text": "M54:581",
+        "page": 14,
+        "source": "ocr",
+        "context": "片 ，\n拓片二二 M54 出土钢钱《〈《M54:581) 拓片 …\n拓片二三”M54 出土铜戈"
+      },
+      {
+        "text": "M54",
+        "page": 14,
+        "source": "ocr",
+        "context": "《M54:581) 拓片 …\n拓片二三”M54 出土铜戈拓片\n拓片二四“M54 出土C"
+      },
+      {
+        "text": "M54",
+        "page": 14,
+        "source": "ocr",
+        "context": "片二三”M54 出土铜戈拓片\n拓片二四“M54 出土C MIR\n拓片二五 M54 出土"
+      },
+      {
+        "text": "M54",
+        "page": 14,
+        "source": "ocr",
+        "context": "二四“M54 出土C MIR\n拓片二五 M54 出土卷首刀拓片 -\nHOA M54 出"
+      },
+      {
+        "text": "M54",
+        "page": 14,
+        "source": "ocr",
+        "context": "五 M54 出土卷首刀拓片 -\nHOA M54 出土弓形器拓片 -\n拓片二七 ”M54"
+      },
+      {
+        "text": "M54",
+        "page": 14,
+        "source": "ocr",
+        "context": "M54 出土弓形器拓片 -\n拓片二七 ”M54 出土铜策拓片 ，…\n\nM54 haa\n"
+      },
+      {
+        "text": "M54",
+        "page": 14,
+        "source": "ocr",
+        "context": "片二七 ”M54 出土铜策拓片 ，…\n\nM54 haa\n"
+      },
+      {
+        "text": "M54",
+        "page": 15,
+        "source": "ocr",
+        "context": "片四一\n拓片四二\n拓片四三\n拓片四四\n\nM54 HE. BIH\nM54 出土网铲 (M"
+      },
+      {
+        "text": "M54",
+        "page": 15,
+        "source": "ocr",
+        "context": "三\n拓片四四\n\nM54 HE. BIH\nM54 出土网铲 (M54: 143)\nM54"
+      },
+      {
+        "text": "M54",
+        "page": 15,
+        "source": "ocr",
+        "context": "4 HE. BIH\nM54 出土网铲 (M54: 143)\nM54 出土钢刀拓片\nM5"
+      },
+      {
+        "text": "M54",
+        "page": 15,
+        "source": "ocr",
+        "context": "M54 出土网铲 (M54: 143)\nM54 出土钢刀拓片\nM54 WAST …\nM"
+      },
+      {
+        "text": "M54",
+        "page": 15,
+        "source": "ocr",
+        "context": "54: 143)\nM54 出土钢刀拓片\nM54 WAST …\nM54 出土玉器拓片 …"
+      },
+      {
+        "text": "M54",
+        "page": 15,
+        "source": "ocr",
+        "context": "4 出土钢刀拓片\nM54 WAST …\nM54 出土玉器拓片 …\nM54 出土玉器拓片"
+      },
+      {
+        "text": "M54",
+        "page": 15,
+        "source": "ocr",
+        "context": "WAST …\nM54 出土玉器拓片 …\nM54 出土玉器拓片 …\nMS4 出土玉环拓片"
+      },
+      {
+        "text": "M54",
+        "page": 15,
+        "source": "ocr",
+        "context": "拓片 …\nMS4 出土玉环拓片 :……\nM54 ht RRB …\nM54 th eS\n"
+      },
+      {
+        "text": "M54",
+        "page": 15,
+        "source": "ocr",
+        "context": "拓片 :……\nM54 ht RRB …\nM54 th eS\nMS4 出玉、石器拓片\nM"
+      },
+      {
+        "text": "M54",
+        "page": 15,
+        "source": "ocr",
+        "context": "4 th eS\nMS4 出玉、石器拓片\nM54 it A BERGA ，\nM54 出土"
+      },
+      {
+        "text": "M54",
+        "page": 15,
+        "source": "ocr",
+        "context": "拓片\nM54 it A BERGA ，\nM54 出土玉兵器拓片 ……\nM54 出土铜通"
+      },
+      {
+        "text": "M54",
+        "page": 15,
+        "source": "ocr",
+        "context": "GA ，\nM54 出土玉兵器拓片 ……\nM54 出土铜通玉援矛拓片\nM54 出土玉器拓"
+      },
+      {
+        "text": "M54",
+        "page": 15,
+        "source": "ocr",
+        "context": "拓片 ……\nM54 出土铜通玉援矛拓片\nM54 出土玉器拓片 …\nMS4 出土玉器拓片"
+      },
+      {
+        "text": "M54",
+        "page": 15,
+        "source": "ocr",
+        "context": "出土玉器拓片 …\nMS4 出土玉器拓片\nM54 出土玉器拓片\nM54 出土玉回拓片 …"
+      },
+      {
+        "text": "M54",
+        "page": 15,
+        "source": "ocr",
+        "context": "4 出土玉器拓片\nM54 出土玉器拓片\nM54 出土玉回拓片 …\n\n"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "墓葬",
+        "page": 6,
+        "source": "ocr",
+        "context": "一”1992 ~ 2002 年花园庄东地墓葬登记表                 "
+      },
+      {
+        "text": "墓葬",
+        "page": 8,
+        "source": "ocr",
+        "context": "花园庄东地商代墓莫位置图\n花园庄东地遗址墓葬分布图\n\nH6 平、剖面图\nHIS 平、"
+      },
+      {
+        "text": "墓葬",
+        "page": 9,
+        "source": "ocr",
+        "context": " BE 3B Hh + BE\n花园庄东地墓葬出土阅豆\n花园庄东地幕葬出土陶盘 ，\n花"
+      },
+      {
+        "text": "墓葬",
+        "page": 9,
+        "source": "ocr",
+        "context": "\n花园庄东地幕苦出土陶器 、\n花园庄东地墓葬出土陶炎、\nTE BALE A Ho M"
+      },
+      {
+        "text": "墓葬",
+        "page": 9,
+        "source": "ocr",
+        "context": "\nFAH EER +\n图四六”花园庄东地墓葬出土铜器\nAt CRM ERM tHE\n"
+      },
+      {
+        "text": "墓葬",
+        "page": 9,
+        "source": "ocr",
+        "context": "园庄东地幕莫出土钢戈\n图五二”花园庄东地墓葬出土铜苹\n图五三”花园庄东地基芋出土钢器"
+      },
+      {
+        "text": "墓葬",
+        "page": 9,
+        "source": "ocr",
+        "context": "BA ERM tae\n图五七”花园庄东地墓葬出土石器\n图五八，花园庄东地幕昔出土石柄"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "铜戈",
+        "page": 6,
+        "source": "ocr",
+        "context": "   + (253)\nMt M54 随葬铜戈登记表                 "
+      },
+      {
+        "text": "铃",
+        "page": 6,
+        "source": "ocr",
+        "context": " (263)\nS220) M54 随葬钢铃登记表                 "
+      },
+      {
+        "text": "豆",
+        "page": 8,
+        "source": "ocr",
+        "context": "遗址出土陶遍口沿\n\n花园庄东地遗址出土陶豆、陶重\n花园庄东地遗址出土陶段 …\n花园"
+      },
+      {
+        "text": "盆",
+        "page": 8,
+        "source": "ocr",
+        "context": "地遗址出土陶段 …\n花园庄东地遗址出土陶盆 …\n花园庄东地遗址出土陶盆 …\n\n花园"
+      },
+      {
+        "text": "盆",
+        "page": 8,
+        "source": "ocr",
+        "context": "地遗址出土陶盆 …\n花园庄东地遗址出土陶盆 …\n\n花园庄东地遗址出土陶答 …\n花园"
+      },
+      {
+        "text": "豆",
+        "page": 9,
+        "source": "ocr",
+        "context": "B Hh + BE\n花园庄东地墓葬出土阅豆\n花园庄东地幕葬出土陶盘 ，\n花园庄东地"
+      },
+      {
+        "text": "盘",
+        "page": 9,
+        "source": "ocr",
+        "context": "庄东地墓葬出土阅豆\n花园庄东地幕葬出土陶盘 ，\n花园庄东地幕苦出土陶器 、\n花园庄"
+      },
+      {
+        "text": "铜鼎",
+        "page": 9,
+        "source": "ocr",
+        "context": "R Ae BE RE\n花园庄东地幕葛出土铜鼎\nFERRE AR HH Ri HAA\n"
+      },
+      {
+        "text": "戈",
+        "page": 9,
+        "source": "ocr",
+        "context": "E + ，\n图五一“花园庄东地幕莫出土钢戈\n图五二”花园庄东地墓葬出土铜苹\n图五三"
+      },
+      {
+        "text": "尊",
+        "page": 10,
+        "source": "ocr",
+        "context": "(115)\nFAJL— M54 出土铜方尊〈M54: 84)           "
+      },
+      {
+        "text": "尊",
+        "page": 11,
+        "source": "ocr",
+        "context": "54: 193)》 ee\nM54 出土牛尊 (M54: 475 + 146)   "
+      },
+      {
+        "text": "铜矛",
+        "page": 11,
+        "source": "ocr",
+        "context": "t A BA …\nM54 出土B 型I式铜矛 …\nM54 H+ BRIRGF …\nM"
+      },
+      {
+        "text": "刀",
+        "page": 11,
+        "source": "ocr",
+        "context": " 出土C MUR ……\nM54 出土卷首刀 …\nM54 Hi ，\n\nM54 thi"
+      },
+      {
+        "text": "锛",
+        "page": 11,
+        "source": "ocr",
+        "context": "4 出土铜手形器及其拓片\nMS4 出土钢锛 、\nM54 出土钢刀\n"
+      },
+      {
+        "text": "刀",
+        "page": 11,
+        "source": "ocr",
+        "context": "片\nMS4 出土钢锛 、\nM54 出土钢刀\n"
+      },
+      {
+        "text": "刀",
+        "page": 12,
+        "source": "ocr",
+        "context": "BRARRAR AAA\n\nM54 出土钢刀、铃首锥状器\nM54 th + DORE"
+      },
+      {
+        "text": "铃",
+        "page": 12,
+        "source": "ocr",
+        "context": "ARRAR AAA\n\nM54 出土钢刀、铃首锥状器\nM54 th + DORE H"
+      },
+      {
+        "text": "泡",
+        "page": 12,
+        "source": "ocr",
+        "context": "%\nM54 tae} …\nM54 出土铀泡\nM54 出土铜泡 …\nM54 出土钢器"
+      },
+      {
+        "text": "铜泡",
+        "page": 12,
+        "source": "ocr",
+        "context": "e} …\nM54 出土铀泡\nM54 出土铜泡 …\nM54 出土钢器 …\nM54 出土"
+      },
+      {
+        "text": "刀",
+        "page": 12,
+        "source": "ocr",
+        "context": " -\nM4 出土玉器 ，\nMS4 出土玉刀、\nM54 出土玉器 -\nM54 出土玉"
+      },
+      {
+        "text": "刀",
+        "page": 12,
+        "source": "ocr",
+        "context": "3 (M54: 207)\nM54 出土石刀 -\nM54 出土骨器\nM54 HEE\n"
+      },
+      {
+        "text": "饰",
+        "page": 14,
+        "source": "ocr",
+        "context": "庄东卫幕葬出土铜方束〈《M42:2) 纹饰及内底铭文\n\n拓片四 花园庄东地幕匡出土"
+      },
+      {
+        "text": "饰",
+        "page": 14,
+        "source": "ocr",
+        "context": "铭文\n\n拓片四 花园庄东地幕匡出土钢表纹饰及铭文\n\n拓片五 M54 出土铀器纹饰及"
+      },
+      {
+        "text": "饰",
+        "page": 14,
+        "source": "ocr",
+        "context": "纹饰及铭文\n\n拓片五 M54 出土铀器纹饰及铭文拓片\n\n拓片六 M54 出士C B"
+      },
+      {
+        "text": "饰",
+        "page": 14,
+        "source": "ocr",
+        "context": "片 -\n\n拓片七 M54 出土C 型易纹饰及铭文拓片 ，……\n\n拓片八_M54 出"
+      },
+      {
+        "text": "尊",
+        "page": 14,
+        "source": "ocr",
+        "context": "拓片 …\n\n拓片一四“NM54 出土铜方尊 〈M54: 84) 拓片 …\n\n拓片一"
+      },
+      {
+        "text": "尊",
+        "page": 14,
+        "source": "ocr",
+        "context": "全型及铭文拓片\n拓片一七“M54 出土牛尊 〔M54:475 +146) 全型及铭"
+      },
+      {
+        "text": "饰",
+        "page": 14,
+        "source": "ocr",
+        "context": "M54 出土钢盏〈M54: 157) 纹饰及铭文拓片\n拓片一九”M54 出土钢复纹"
+      },
+      {
+        "text": "饰",
+        "page": 14,
+        "source": "ocr",
+        "context": "及铭文拓片\n拓片一九”M54 出土钢复纹饰拓片\n\n拓片二一“M54 出土C 型钢钱"
+      },
+      {
+        "text": "铜戈",
+        "page": 14,
+        "source": "ocr",
+        "context": "81) 拓片 …\n拓片二三”M54 出土铜戈拓片\n拓片二四“M54 出土C MIR\n"
+      },
+      {
+        "text": "刀",
+        "page": 14,
+        "source": "ocr",
+        "context": "土C MIR\n拓片二五 M54 出土卷首刀拓片 -\nHOA M54 出土弓形器拓片"
+      },
+      {
+        "text": "刀",
+        "page": 15,
+        "source": "ocr",
+        "context": "铲 (M54: 143)\nM54 出土钢刀拓片\nM54 WAST …\nM54 出土"
+      },
+      {
+        "text": "环",
+        "page": 15,
+        "source": "ocr",
+        "context": "M54 出土玉器拓片 …\nMS4 出土玉环拓片 :……\nM54 ht RRB …\n"
+      },
+      {
+        "text": "矛",
+        "page": 15,
+        "source": "ocr",
+        "context": "土玉兵器拓片 ……\nM54 出土铜通玉援矛拓片\nM54 出土玉器拓片 …\nMS4 "
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T2",
+        "page": 8,
+        "source": "ocr",
+        "context": "= Tl 中部地层前面图\n图四“T2 北辟剖面图\n\nA FER FEAR a"
+      },
+      {
+        "text": "T2G",
+        "page": 8,
+        "source": "ocr",
+        "context": "7: 18)\n\n花园庄东地遗址出土上甲《T2G@:34)\nEER MRR ARS\nM4"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "陶豆",
+        "page": 8,
+        "source": "ocr",
+        "context": "地遗址出土陶遍口沿\n\n花园庄东地遗址出土陶豆、陶重\n花园庄东地遗址出土陶段 …\n花园"
+      },
+      {
+        "text": "陶盆",
+        "page": 8,
+        "source": "ocr",
+        "context": "东地遗址出土陶段 …\n花园庄东地遗址出土陶盆 …\n花园庄东地遗址出土陶盆 …\n\n花园"
+      },
+      {
+        "text": "陶盆",
+        "page": 8,
+        "source": "ocr",
+        "context": "东地遗址出土陶盆 …\n花园庄东地遗址出土陶盆 …\n\n花园庄东地遗址出土陶答 …\n花园"
+      },
+      {
+        "text": "豆",
+        "page": 9,
+        "source": "ocr",
+        "context": "B Hh + BE\n花园庄东地墓葬出土阅豆\n花园庄东地幕葬出土陶盘 ，\n花园庄东地"
+      },
+      {
+        "text": "陶盘",
+        "page": 9,
+        "source": "ocr",
+        "context": "园庄东地墓葬出土阅豆\n花园庄东地幕葬出土陶盘 ，\n花园庄东地幕苦出土陶器 、\n花园庄"
+      },
+      {
+        "text": "鼎",
+        "page": 9,
+        "source": "ocr",
+        "context": " Ae BE RE\n花园庄东地幕葛出土铜鼎\nFERRE AR HH Ri HAA\n"
+      },
+      {
+        "text": "尊",
+        "page": 10,
+        "source": "ocr",
+        "context": "(115)\nFAJL— M54 出土铜方尊〈M54: 84)           "
+      },
+      {
+        "text": "尊",
+        "page": 11,
+        "source": "ocr",
+        "context": "54: 193)》 ee\nM54 出土牛尊 (M54: 475 + 146)   "
+      },
+      {
+        "text": "刀",
+        "page": 11,
+        "source": "ocr",
+        "context": " 出土C MUR ……\nM54 出土卷首刀 …\nM54 Hi ，\n\nM54 thi"
+      },
+      {
+        "text": "刀",
+        "page": 11,
+        "source": "ocr",
+        "context": "片\nMS4 出土钢锛 、\nM54 出土钢刀\n"
+      },
+      {
+        "text": "刀",
+        "page": 12,
+        "source": "ocr",
+        "context": "BRARRAR AAA\n\nM54 出土钢刀、铃首锥状器\nM54 th + DORE"
+      },
+      {
+        "text": "刀",
+        "page": 12,
+        "source": "ocr",
+        "context": " -\nM4 出土玉器 ，\nMS4 出土玉刀、\nM54 出土玉器 -\nM54 出土玉"
+      },
+      {
+        "text": "刀",
+        "page": 12,
+        "source": "ocr",
+        "context": "3 (M54: 207)\nM54 出土石刀 -\nM54 出土骨器\nM54 HEE\n"
+      },
+      {
+        "text": "纺轮",
+        "page": 14,
+        "source": "ocr",
+        "context": "拓片是录\n\n花园庄东地幕葛出土闭纺轮陶文拓片\n花园庄东卫幕葬出土铜方束〈《M"
+      },
+      {
+        "text": "尊",
+        "page": 14,
+        "source": "ocr",
+        "context": "拓片 …\n\n拓片一四“NM54 出土铜方尊 〈M54: 84) 拓片 …\n\n拓片一"
+      },
+      {
+        "text": "尊",
+        "page": 14,
+        "source": "ocr",
+        "context": "全型及铭文拓片\n拓片一七“M54 出土牛尊 〔M54:475 +146) 全型及铭"
+      },
+      {
+        "text": "刀",
+        "page": 14,
+        "source": "ocr",
+        "context": "土C MIR\n拓片二五 M54 出土卷首刀拓片 -\nHOA M54 出土弓形器拓片"
+      },
+      {
+        "text": "刀",
+        "page": 15,
+        "source": "ocr",
+        "context": "铲 (M54: 143)\nM54 出土钢刀拓片\nM54 WAST …\nM54 出土"
+      },
+      {
+        "text": "环",
+        "page": 15,
+        "source": "ocr",
+        "context": "M54 出土玉器拓片 …\nMS4 出土玉环拓片 :……\nM54 ht RRB …\n"
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "人骨",
+        "page": 8,
+        "source": "ocr",
+        "context": "出土石器、骨器 ，\n花园庄东地遗址出土上人骨〈H7: 18)\n\n花园庄东地遗址出土上"
+      },
+      {
+        "text": "陶片",
+        "page": 10,
+        "source": "ocr",
+        "context": "5)\n图七五 M54XG10 及二层台内陶片位置图.                "
+      }
+    ],
+    "地层": [
+      {
+        "text": "第一层",
+        "page": 10,
+        "source": "ocr",
+        "context": "       (87)\nAtt M54 第一层器物平面图 …             "
+      },
+      {
+        "text": "第二层",
+        "page": 10,
+        "source": "ocr",
+        "context": "      …【揪页)\n图七八_M54 第二层器物平面图 …             "
+      },
+      {
+        "text": "第三层",
+        "page": 10,
+        "source": "ocr",
+        "context": "      …【播页)\n图七九 M54 第三层器物平面图               "
+      },
+      {
+        "text": "第四层",
+        "page": 10,
+        "source": "ocr",
+        "context": "      (89)》\nHAO M54 第四层器物平面图               "
+      }
+    ],
+    "建筑结构": [
+      {
+        "text": "二层台",
+        "page": 10,
+        "source": "ocr",
+        "context": "   (72)\nBA= M4 述室结构及二层台下殉人平、剖面图            "
+      },
+      {
+        "text": "二层台",
+        "page": 10,
+        "source": "ocr",
+        "context": "    ++ (78)\nBAL M54 二层台内殉人、殉狗及本查平面|        "
+      },
+      {
+        "text": "二层台",
+        "page": 10,
+        "source": "ocr",
+        "context": "+ (85)\n图七五 M54XG10 及二层台内陶片位置图.             "
+      }
+    ],
+    "石器": [
+      {
+        "text": "石刀",
+        "page": 12,
+        "source": "ocr",
+        "context": "+3 (M54: 207)\nM54 出土石刀 -\nM54 出土骨器\nM54 HEE\n"
+      }
+    ],
+    "玉器": [
+      {
+        "text": "玉圭",
+        "page": 12,
+        "source": "ocr",
+        "context": " …\nM54 出土钢器 …\nM54 出土玉圭\nM54 出土玉礼器\nM54 出土玉威 "
+      },
+      {
+        "text": "玉刀",
+        "page": 12,
+        "source": "ocr",
+        "context": "R -\nM4 出土玉器 ，\nMS4 出土玉刀、\nM54 出土玉器 -\nM54 出土玉"
+      },
+      {
+        "text": "玉管",
+        "page": 12,
+        "source": "ocr",
+        "context": "器 -\nM54 HERE,\nM54 出土玉管 ………-\nM54 HEB -\nM54 "
+      },
+      {
+        "text": "玉环",
+        "page": 15,
+        "source": "ocr",
+        "context": "\nM54 出土玉器拓片 …\nMS4 出土玉环拓片 :……\nM54 ht RRB …\n"
+      }
+    ],
+    "葬具": [
+      {
+        "text": "棺",
+        "page": 12,
+        "source": "ocr",
+        "context": "           ，\nM60 平面及棺下铺垫打碎器物图 ee eseeee c"
+      }
+    ]
+  }
+}

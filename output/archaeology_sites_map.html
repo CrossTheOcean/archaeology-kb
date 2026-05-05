@@ -1,0 +1,2446 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_46970f9144e5a4d8f0f7a986cd15a94c {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
+    <script src="https://cdn.jsdelivr.net/gh/python-visualization/folium@main/folium/templates/leaflet_heat.min.js"></script>
+</head>
+<body>
+    
+    
+    <div style="position: fixed; 
+                bottom: 50px; left: 50px; width: 160px;
+                background-color: white; border: 2px solid #ccc;
+                border-radius: 8px; padding: 10px; z-index: 9999;
+                font-family: Arial; font-size: 12px;">
+        <h4 style="margin: 0 0 8px 0;">年代图例</h4>
+    <div style="margin: 3px 0;"><span style="background:#e74c3c; padding: 2px 8px; border-radius: 3px;">&nbsp;</span> 新石器时代</div><div style="margin: 3px 0;"><span style="background:#e67e22; padding: 2px 8px; border-radius: 3px;">&nbsp;</span> 夏商</div><div style="margin: 3px 0;"><span style="background:#f1c40f; padding: 2px 8px; border-radius: 3px;">&nbsp;</span> 西周</div><div style="margin: 3px 0;"><span style="background:#2ecc71; padding: 2px 8px; border-radius: 3px;">&nbsp;</span> 东周</div><div style="margin: 3px 0;"><span style="background:#3498db; padding: 2px 8px; border-radius: 3px;">&nbsp;</span> 秦汉</div><div style="margin: 3px 0;"><span style="background:#9b59b6; padding: 2px 8px; border-radius: 3px;">&nbsp;</span> 魏晋南北朝</div><div style="margin: 3px 0;"><span style="background:#1abc9c; padding: 2px 8px; border-radius: 3px;">&nbsp;</span> 隋唐</div><div style="margin: 3px 0;"><span style="background:#34495e; padding: 2px 8px; border-radius: 3px;">&nbsp;</span> 宋元明清</div><div style="margin: 3px 0;"><span style="background:#95a5a6; padding: 2px 8px; border-radius: 3px;">&nbsp;</span> 待定</div></div>
+    
+            <div class="folium-map" id="map_46970f9144e5a4d8f0f7a986cd15a94c" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_46970f9144e5a4d8f0f7a986cd15a94c = L.map(
+                "map_46970f9144e5a4d8f0f7a986cd15a94c",
+                {
+                    center: [35.0, 105.0],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 4,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_296d6f122f34ee00df4e7bca3a43bc1d = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 20,
+  "maxNativeZoom": 20,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
+  "subdomains": "abcd",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_296d6f122f34ee00df4e7bca3a43bc1d.addTo(map_46970f9144e5a4d8f0f7a986cd15a94c);
+        
+    
+            var marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5 = L.markerClusterGroup(
+                {
+}
+            );
+        
+    
+            var circle_marker_5dd3688d752382d36f031ce3298c0ef1 = L.circleMarker(
+                [34.7, 112.78],
+                {"bubblingMouseEvents": true, "color": "#e67e22", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e67e22", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 25, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_f0905b053f34dcc1fdb2cacf5c143235 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_91cae4b3de36b5d3eaec2a4af0480096 = $(`<div id="html_91cae4b3de36b5d3eaec2a4af0480096" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #e67e22;">偃师二里头</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 河南<br>                 <b>年代:</b> 夏商<br>                 <b>标注实体数:</b> 15,509<br>                 <b>坐标:</b> 34.70°N, 112.78°E             </p>         </div>         </div>`)[0];
+                popup_f0905b053f34dcc1fdb2cacf5c143235.setContent(html_91cae4b3de36b5d3eaec2a4af0480096);
+            
+        
+
+        circle_marker_5dd3688d752382d36f031ce3298c0ef1.bindPopup(popup_f0905b053f34dcc1fdb2cacf5c143235)
+        ;
+
+        
+    
+    
+            circle_marker_5dd3688d752382d36f031ce3298c0ef1.bindTooltip(
+                `<div>
+                     偃师二里头 (夏商, 15509实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_da44963b426fe6016a25e8a5c4dbac3e = L.circleMarker(
+                [36.12, 114.32],
+                {"bubblingMouseEvents": true, "color": "#e67e22", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e67e22", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9.88, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_46e43256c64e301774c383eb11fb4c8e = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_33c5d0fe20d5b79203d95917f5d711ec = $(`<div id="html_33c5d0fe20d5b79203d95917f5d711ec" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #e67e22;">安阳殷墟小屯建筑遗存</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 河南<br>                 <b>年代:</b> 夏商<br>                 <b>标注实体数:</b> 4,940<br>                 <b>坐标:</b> 36.12°N, 114.32°E             </p>         </div>         </div>`)[0];
+                popup_46e43256c64e301774c383eb11fb4c8e.setContent(html_33c5d0fe20d5b79203d95917f5d711ec);
+            
+        
+
+        circle_marker_da44963b426fe6016a25e8a5c4dbac3e.bindPopup(popup_46e43256c64e301774c383eb11fb4c8e)
+        ;
+
+        
+    
+    
+            circle_marker_da44963b426fe6016a25e8a5c4dbac3e.bindTooltip(
+                `<div>
+                     安阳殷墟小屯建筑遗存 (夏商, 4940实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_c4d1314a9f246bdceb4a9eac1ebfd2d4 = L.circleMarker(
+                [36.12, 114.32],
+                {"bubblingMouseEvents": true, "color": "#e67e22", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e67e22", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 15.38, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_12db660385117216796e74d0a2ae20c5 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_a8812dfc442b529a260a709787b9d52f = $(`<div id="html_a8812dfc442b529a260a709787b9d52f" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #e67e22;">安阳殷墟花园庄东地商代墓葬</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 河南<br>                 <b>年代:</b> 夏商<br>                 <b>标注实体数:</b> 7,690<br>                 <b>坐标:</b> 36.12°N, 114.32°E             </p>         </div>         </div>`)[0];
+                popup_12db660385117216796e74d0a2ae20c5.setContent(html_a8812dfc442b529a260a709787b9d52f);
+            
+        
+
+        circle_marker_c4d1314a9f246bdceb4a9eac1ebfd2d4.bindPopup(popup_12db660385117216796e74d0a2ae20c5)
+        ;
+
+        
+    
+    
+            circle_marker_c4d1314a9f246bdceb4a9eac1ebfd2d4.bindTooltip(
+                `<div>
+                     安阳殷墟花园庄东地商代墓葬 (夏商, 7690实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_8d93049b138f9a4ff0e9eae671e3b5d6 = L.circleMarker(
+                [36.12, 114.32],
+                {"bubblingMouseEvents": true, "color": "#e67e22", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e67e22", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9.088, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_753e7b35765a56edf2b53100828585c1 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_3951081aa59c6d272b8bb8adef8a47f1 = $(`<div id="html_3951081aa59c6d272b8bb8adef8a47f1" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #e67e22;">安阳殷墟郭家庄商代墓葬</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 河南<br>                 <b>年代:</b> 夏商<br>                 <b>标注实体数:</b> 4,544<br>                 <b>坐标:</b> 36.12°N, 114.32°E             </p>         </div>         </div>`)[0];
+                popup_753e7b35765a56edf2b53100828585c1.setContent(html_3951081aa59c6d272b8bb8adef8a47f1);
+            
+        
+
+        circle_marker_8d93049b138f9a4ff0e9eae671e3b5d6.bindPopup(popup_753e7b35765a56edf2b53100828585c1)
+        ;
+
+        
+    
+    
+            circle_marker_8d93049b138f9a4ff0e9eae671e3b5d6.bindTooltip(
+                `<div>
+                     安阳殷墟郭家庄商代墓葬 (夏商, 4544实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_d85ae99c17984e3d7bccb5f368c5a09b = L.circleMarker(
+                [34.77, 113.68],
+                {"bubblingMouseEvents": true, "color": "#e67e22", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e67e22", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_2242991d1d3a6f17b5af3236978e65b2 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_11f6585559d5b5dda9ce89fb1daab596 = $(`<div id="html_11f6585559d5b5dda9ce89fb1daab596" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #e67e22;">郑州二里岗</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 河南<br>                 <b>年代:</b> 夏商<br>                 <b>标注实体数:</b> 2,392<br>                 <b>坐标:</b> 34.77°N, 113.68°E             </p>         </div>         </div>`)[0];
+                popup_2242991d1d3a6f17b5af3236978e65b2.setContent(html_11f6585559d5b5dda9ce89fb1daab596);
+            
+        
+
+        circle_marker_d85ae99c17984e3d7bccb5f368c5a09b.bindPopup(popup_2242991d1d3a6f17b5af3236978e65b2)
+        ;
+
+        
+    
+    
+            circle_marker_d85ae99c17984e3d7bccb5f368c5a09b.bindTooltip(
+                `<div>
+                     郑州二里岗 (夏商, 2392实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_8e7f5fac87efde3074e8111f93474b06 = L.circleMarker(
+                [36.12, 114.32],
+                {"bubblingMouseEvents": true, "color": "#e67e22", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e67e22", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_62deb9129f84fba86e1d16c4581d67d0 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_937fdfef51c12a4d85c9bb559a698346 = $(`<div id="html_937fdfef51c12a4d85c9bb559a698346" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #e67e22;">殷虚妇好墓</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 河南<br>                 <b>年代:</b> 夏商<br>                 <b>标注实体数:</b> 1,609<br>                 <b>坐标:</b> 36.12°N, 114.32°E             </p>         </div>         </div>`)[0];
+                popup_62deb9129f84fba86e1d16c4581d67d0.setContent(html_937fdfef51c12a4d85c9bb559a698346);
+            
+        
+
+        circle_marker_8e7f5fac87efde3074e8111f93474b06.bindPopup(popup_62deb9129f84fba86e1d16c4581d67d0)
+        ;
+
+        
+    
+    
+            circle_marker_8e7f5fac87efde3074e8111f93474b06.bindTooltip(
+                `<div>
+                     殷虚妇好墓 (夏商, 1609实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_e35288de7d4acb04d54bddc737f055fd = L.circleMarker(
+                [34.8, 111.2],
+                {"bubblingMouseEvents": true, "color": "#e74c3c", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e74c3c", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_c4c49eb522c2de06066ceef920c51505 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_070c27b04c31ee5f3bd6f7fd56df8910 = $(`<div id="html_070c27b04c31ee5f3bd6f7fd56df8910" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #e74c3c;">庙底沟与三里桥</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 河南<br>                 <b>年代:</b> 新石器时代<br>                 <b>标注实体数:</b> 1,749<br>                 <b>坐标:</b> 34.80°N, 111.20°E             </p>         </div>         </div>`)[0];
+                popup_c4c49eb522c2de06066ceef920c51505.setContent(html_070c27b04c31ee5f3bd6f7fd56df8910);
+            
+        
+
+        circle_marker_e35288de7d4acb04d54bddc737f055fd.bindPopup(popup_c4c49eb522c2de06066ceef920c51505)
+        ;
+
+        
+    
+    
+            circle_marker_e35288de7d4acb04d54bddc737f055fd.bindTooltip(
+                `<div>
+                     庙底沟与三里桥 (新石器时代, 1749实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_2821709ccbaa5fbfc5d63645f0c3f905 = L.circleMarker(
+                [34.75, 111.18],
+                {"bubblingMouseEvents": true, "color": "#f1c40f", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f1c40f", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_bf112aee78faa96b8535e45563a870d8 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_e78b84c3a96217014d8042eb1657d81e = $(`<div id="html_e78b84c3a96217014d8042eb1657d81e" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #f1c40f;">上村岭虢国墓地</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 河南<br>                 <b>年代:</b> 西周<br>                 <b>标注实体数:</b> 125<br>                 <b>坐标:</b> 34.75°N, 111.18°E             </p>         </div>         </div>`)[0];
+                popup_bf112aee78faa96b8535e45563a870d8.setContent(html_e78b84c3a96217014d8042eb1657d81e);
+            
+        
+
+        circle_marker_2821709ccbaa5fbfc5d63645f0c3f905.bindPopup(popup_bf112aee78faa96b8535e45563a870d8)
+        ;
+
+        
+    
+    
+            circle_marker_2821709ccbaa5fbfc5d63645f0c3f905.bindTooltip(
+                `<div>
+                     上村岭虢国墓地 (西周, 125实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_bf89959d7ff5dc2ee8c9932170f62c0f = L.circleMarker(
+                [34.8, 111.2],
+                {"bubblingMouseEvents": true, "color": "#95a5a6", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#95a5a6", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_e85e285520771bdf9f14b5530889567c = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_f648e684a8f0cdadd0e6624b01f82166 = $(`<div id="html_f648e684a8f0cdadd0e6624b01f82166" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #95a5a6;">三门峡漕运遗迹</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 河南<br>                 <b>年代:</b> 待定<br>                 <b>标注实体数:</b> 515<br>                 <b>坐标:</b> 34.80°N, 111.20°E             </p>         </div>         </div>`)[0];
+                popup_e85e285520771bdf9f14b5530889567c.setContent(html_f648e684a8f0cdadd0e6624b01f82166);
+            
+        
+
+        circle_marker_bf89959d7ff5dc2ee8c9932170f62c0f.bindPopup(popup_e85e285520771bdf9f14b5530889567c)
+        ;
+
+        
+    
+    
+            circle_marker_bf89959d7ff5dc2ee8c9932170f62c0f.bindTooltip(
+                `<div>
+                     三门峡漕运遗迹 (待定, 515实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_204bb1fde13a683d790b0b603337a220 = L.circleMarker(
+                [35.15, 110.78],
+                {"bubblingMouseEvents": true, "color": "#2ecc71", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#2ecc71", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 17.938, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_0db5cdbc9efda29e1426b17fde085fb8 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_181dda2e6eab2835b696fc1c5fbd6d91 = $(`<div id="html_181dda2e6eab2835b696fc1c5fbd6d91" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #2ecc71;">临猗程村墓地</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 山西<br>                 <b>年代:</b> 东周<br>                 <b>标注实体数:</b> 8,969<br>                 <b>坐标:</b> 35.15°N, 110.78°E             </p>         </div>         </div>`)[0];
+                popup_0db5cdbc9efda29e1426b17fde085fb8.setContent(html_181dda2e6eab2835b696fc1c5fbd6d91);
+            
+        
+
+        circle_marker_204bb1fde13a683d790b0b603337a220.bindPopup(popup_0db5cdbc9efda29e1426b17fde085fb8)
+        ;
+
+        
+    
+    
+            circle_marker_204bb1fde13a683d790b0b603337a220.bindTooltip(
+                `<div>
+                     临猗程村墓地 (东周, 8969实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_aab69f291ff196092d80d52bc8d3ca67 = L.circleMarker(
+                [34.75, 113.02],
+                {"bubblingMouseEvents": true, "color": "#3498db", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3498db", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_a3a2eba538f28a1b96923457ea0700ba = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_f30f7a3e5052c8ab32cf34b535c1c694 = $(`<div id="html_f30f7a3e5052c8ab32cf34b535c1c694" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #3498db;">巩县铁生沟</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 河南<br>                 <b>年代:</b> 秦汉<br>                 <b>标注实体数:</b> 250<br>                 <b>坐标:</b> 34.75°N, 113.02°E             </p>         </div>         </div>`)[0];
+                popup_a3a2eba538f28a1b96923457ea0700ba.setContent(html_f30f7a3e5052c8ab32cf34b535c1c694);
+            
+        
+
+        circle_marker_aab69f291ff196092d80d52bc8d3ca67.bindPopup(popup_a3a2eba538f28a1b96923457ea0700ba)
+        ;
+
+        
+    
+    
+            circle_marker_aab69f291ff196092d80d52bc8d3ca67.bindTooltip(
+                `<div>
+                     巩县铁生沟 (秦汉, 250实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_05b9ca02c4be485e80664ebdd295c23e = L.circleMarker(
+                [35.47, 113.68],
+                {"bubblingMouseEvents": true, "color": "#95a5a6", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#95a5a6", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_8f8417a596919d69b4063f8cd7d39973 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_32daaf9983783d00517e2dc0dbff985e = $(`<div id="html_32daaf9983783d00517e2dc0dbff985e" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #95a5a6;">辉县发掘报告</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 河南<br>                 <b>年代:</b> 战国<br>                 <b>标注实体数:</b> 522<br>                 <b>坐标:</b> 35.47°N, 113.68°E             </p>         </div>         </div>`)[0];
+                popup_8f8417a596919d69b4063f8cd7d39973.setContent(html_32daaf9983783d00517e2dc0dbff985e);
+            
+        
+
+        circle_marker_05b9ca02c4be485e80664ebdd295c23e.bindPopup(popup_8f8417a596919d69b4063f8cd7d39973)
+        ;
+
+        
+    
+    
+            circle_marker_05b9ca02c4be485e80664ebdd295c23e.bindTooltip(
+                `<div>
+                     辉县发掘报告 (战国, 522实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_4ab8dd5e01ef376979f436efe71e5b08 = L.circleMarker(
+                [34.62, 112.45],
+                {"bubblingMouseEvents": true, "color": "#2ecc71", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#2ecc71", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_22966fc105125cf19a40c4013e0329fd = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_94eca063410952b6cb9be730d6bc1293 = $(`<div id="html_94eca063410952b6cb9be730d6bc1293" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #2ecc71;">洛阳中州路</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 河南<br>                 <b>年代:</b> 东周<br>                 <b>标注实体数:</b> 2,100<br>                 <b>坐标:</b> 34.62°N, 112.45°E             </p>         </div>         </div>`)[0];
+                popup_22966fc105125cf19a40c4013e0329fd.setContent(html_94eca063410952b6cb9be730d6bc1293);
+            
+        
+
+        circle_marker_4ab8dd5e01ef376979f436efe71e5b08.bindPopup(popup_22966fc105125cf19a40c4013e0329fd)
+        ;
+
+        
+    
+    
+            circle_marker_4ab8dd5e01ef376979f436efe71e5b08.bindTooltip(
+                `<div>
+                     洛阳中州路 (东周, 2100实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_45e32689c0eff17f205da6d8447d3aca = L.circleMarker(
+                [34.62, 112.45],
+                {"bubblingMouseEvents": true, "color": "#2ecc71", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#2ecc71", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_4c36b56bb29774a0764a8d0475a28a21 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_0f904895e05967890dde595a4a149028 = $(`<div id="html_0f904895e05967890dde595a4a149028" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #2ecc71;">洛阳发掘报告</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 河南<br>                 <b>年代:</b> 东周<br>                 <b>标注实体数:</b> 1,334<br>                 <b>坐标:</b> 34.62°N, 112.45°E             </p>         </div>         </div>`)[0];
+                popup_4c36b56bb29774a0764a8d0475a28a21.setContent(html_0f904895e05967890dde595a4a149028);
+            
+        
+
+        circle_marker_45e32689c0eff17f205da6d8447d3aca.bindPopup(popup_4c36b56bb29774a0764a8d0475a28a21)
+        ;
+
+        
+    
+    
+            circle_marker_45e32689c0eff17f205da6d8447d3aca.bindTooltip(
+                `<div>
+                     洛阳发掘报告 (东周, 1334实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_dad20e852331a4b31c523a9a3f0862cd = L.circleMarker(
+                [34.72, 111.18],
+                {"bubblingMouseEvents": true, "color": "#2ecc71", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#2ecc71", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9.188, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_4649aae85ed261653d395f97319f5389 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_2459637277c8ad8f937dce1ca43d0f74 = $(`<div id="html_2459637277c8ad8f937dce1ca43d0f74" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #2ecc71;">陕县东周汉墓</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 河南<br>                 <b>年代:</b> 东周<br>                 <b>标注实体数:</b> 4,594<br>                 <b>坐标:</b> 34.72°N, 111.18°E             </p>         </div>         </div>`)[0];
+                popup_4649aae85ed261653d395f97319f5389.setContent(html_2459637277c8ad8f937dce1ca43d0f74);
+            
+        
+
+        circle_marker_dad20e852331a4b31c523a9a3f0862cd.bindPopup(popup_4649aae85ed261653d395f97319f5389)
+        ;
+
+        
+    
+    
+            circle_marker_dad20e852331a4b31c523a9a3f0862cd.bindTooltip(
+                `<div>
+                     陕县东周汉墓 (东周, 4594实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_260766de18c128b84dcac3abacf77c82 = L.circleMarker(
+                [43.05, 119.38],
+                {"bubblingMouseEvents": true, "color": "#e74c3c", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e74c3c", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8.392, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_ecc63b5f00418dab3fd3b83c2f9fb324 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_12e006041604527b32501c5419c02f9e = $(`<div id="html_12e006041604527b32501c5419c02f9e" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #e74c3c;">大甸子</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 河南<br>                 <b>年代:</b> 新石器时代<br>                 <b>标注实体数:</b> 4,196<br>                 <b>坐标:</b> 43.05°N, 119.38°E             </p>         </div>         </div>`)[0];
+                popup_ecc63b5f00418dab3fd3b83c2f9fb324.setContent(html_12e006041604527b32501c5419c02f9e);
+            
+        
+
+        circle_marker_260766de18c128b84dcac3abacf77c82.bindPopup(popup_ecc63b5f00418dab3fd3b83c2f9fb324)
+        ;
+
+        
+    
+    
+            circle_marker_260766de18c128b84dcac3abacf77c82.bindTooltip(
+                `<div>
+                     大甸子 (新石器时代, 4196实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_da317ae3b9ca99f4da6e0a12b82a35e8 = L.circleMarker(
+                [34.62, 112.45],
+                {"bubblingMouseEvents": true, "color": "#9b59b6", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#9b59b6", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 13.656, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_0ca3cf46165965cd7c3cc819e1405e5e = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_8472cf83865d7501d4d25f4bf87674f5 = $(`<div id="html_8472cf83865d7501d4d25f4bf87674f5" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #9b59b6;">北魏洛阳永宁寺</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 河南<br>                 <b>年代:</b> 魏晋南北朝<br>                 <b>标注实体数:</b> 6,828<br>                 <b>坐标:</b> 34.62°N, 112.45°E             </p>         </div>         </div>`)[0];
+                popup_0ca3cf46165965cd7c3cc819e1405e5e.setContent(html_8472cf83865d7501d4d25f4bf87674f5);
+            
+        
+
+        circle_marker_da317ae3b9ca99f4da6e0a12b82a35e8.bindPopup(popup_0ca3cf46165965cd7c3cc819e1405e5e)
+        ;
+
+        
+    
+    
+            circle_marker_da317ae3b9ca99f4da6e0a12b82a35e8.bindTooltip(
+                `<div>
+                     北魏洛阳永宁寺 (魏晋南北朝, 6828实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_818c793c144d6b848b7873ac21ed1189 = L.circleMarker(
+                [34.3, 108.88],
+                {"bubblingMouseEvents": true, "color": "#3498db", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3498db", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 25, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_79b2129acf349b8b6d316fd0e71dc263 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_2a6877d333957f314119d3cf2d6be179 = $(`<div id="html_2a6877d333957f314119d3cf2d6be179" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #3498db;">汉长安城未央宫</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 陕西<br>                 <b>年代:</b> 秦汉<br>                 <b>标注实体数:</b> 12,988<br>                 <b>坐标:</b> 34.30°N, 108.88°E             </p>         </div>         </div>`)[0];
+                popup_79b2129acf349b8b6d316fd0e71dc263.setContent(html_2a6877d333957f314119d3cf2d6be179);
+            
+        
+
+        circle_marker_818c793c144d6b848b7873ac21ed1189.bindPopup(popup_79b2129acf349b8b6d316fd0e71dc263)
+        ;
+
+        
+    
+    
+            circle_marker_818c793c144d6b848b7873ac21ed1189.bindTooltip(
+                `<div>
+                     汉长安城未央宫 (秦汉, 12988实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_2da6ef2fc6246a6722fa6e34b617d1fe = L.circleMarker(
+                [34.3, 108.88],
+                {"bubblingMouseEvents": true, "color": "#3498db", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3498db", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9.724, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_49c3ad28b6fa0f3fa887da0835715179 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_114597f3bf66c2d6d5815a6d639061e5 = $(`<div id="html_114597f3bf66c2d6d5815a6d639061e5" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #3498db;">汉长安城武库</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 江苏<br>                 <b>年代:</b> 秦汉<br>                 <b>标注实体数:</b> 4,862<br>                 <b>坐标:</b> 34.30°N, 108.88°E             </p>         </div>         </div>`)[0];
+                popup_49c3ad28b6fa0f3fa887da0835715179.setContent(html_114597f3bf66c2d6d5815a6d639061e5);
+            
+        
+
+        circle_marker_2da6ef2fc6246a6722fa6e34b617d1fe.bindPopup(popup_49c3ad28b6fa0f3fa887da0835715179)
+        ;
+
+        
+    
+    
+            circle_marker_2da6ef2fc6246a6722fa6e34b617d1fe.bindTooltip(
+                `<div>
+                     汉长安城武库 (秦汉, 4862实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_74b14bb0a94f2488b39312b0761eaf57 = L.circleMarker(
+                [34.3, 108.95],
+                {"bubblingMouseEvents": true, "color": "#1abc9c", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#1abc9c", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_ebc0bb6dea2ecb01057a6e1738209176 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_5aeee72438fe902e3d18205660ec057a = $(`<div id="html_5aeee72438fe902e3d18205660ec057a" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #1abc9c;">唐长安大明宫</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 陕西<br>                 <b>年代:</b> 隋唐<br>                 <b>标注实体数:</b> 578<br>                 <b>坐标:</b> 34.30°N, 108.95°E             </p>         </div>         </div>`)[0];
+                popup_ebc0bb6dea2ecb01057a6e1738209176.setContent(html_5aeee72438fe902e3d18205660ec057a);
+            
+        
+
+        circle_marker_74b14bb0a94f2488b39312b0761eaf57.bindPopup(popup_ebc0bb6dea2ecb01057a6e1738209176)
+        ;
+
+        
+    
+    
+            circle_marker_74b14bb0a94f2488b39312b0761eaf57.bindTooltip(
+                `<div>
+                     唐长安大明宫 (隋唐, 578实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_2822570cf90b5f948f84886093e6740b = L.circleMarker(
+                [34.3, 108.9],
+                {"bubblingMouseEvents": true, "color": "#1abc9c", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#1abc9c", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_2752fb10e9f1feace3f1477ce289882d = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_2d7cad4baae266c82f46b4c4c578678a = $(`<div id="html_2d7cad4baae266c82f46b4c4c578678a" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #1abc9c;">唐长安城郊隋唐墓</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 陕西<br>                 <b>年代:</b> 隋唐<br>                 <b>标注实体数:</b> 723<br>                 <b>坐标:</b> 34.30°N, 108.90°E             </p>         </div>         </div>`)[0];
+                popup_2752fb10e9f1feace3f1477ce289882d.setContent(html_2d7cad4baae266c82f46b4c4c578678a);
+            
+        
+
+        circle_marker_2822570cf90b5f948f84886093e6740b.bindPopup(popup_2752fb10e9f1feace3f1477ce289882d)
+        ;
+
+        
+    
+    
+            circle_marker_2822570cf90b5f948f84886093e6740b.bindTooltip(
+                `<div>
+                     唐长安城郊隋唐墓 (隋唐, 723实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_af350534cd113b51b896e2af148399fc = L.circleMarker(
+                [34.28, 109.05],
+                {"bubblingMouseEvents": true, "color": "#e74c3c", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e74c3c", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_5afd19f15f5e35a6214a5e9aae8181d7 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_090490dc12df3235f108d257de4d3741 = $(`<div id="html_090490dc12df3235f108d257de4d3741" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #e74c3c;">西安半坡</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 陕西<br>                 <b>年代:</b> 新石器时代<br>                 <b>标注实体数:</b> 2,107<br>                 <b>坐标:</b> 34.28°N, 109.05°E             </p>         </div>         </div>`)[0];
+                popup_5afd19f15f5e35a6214a5e9aae8181d7.setContent(html_090490dc12df3235f108d257de4d3741);
+            
+        
+
+        circle_marker_af350534cd113b51b896e2af148399fc.bindPopup(popup_5afd19f15f5e35a6214a5e9aae8181d7)
+        ;
+
+        
+    
+    
+            circle_marker_af350534cd113b51b896e2af148399fc.bindTooltip(
+                `<div>
+                     西安半坡 (新石器时代, 2107实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_ab52f112f4b45b192c876cea5ba7e846 = L.circleMarker(
+                [34.28, 109.05],
+                {"bubblingMouseEvents": true, "color": "#1abc9c", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#1abc9c", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_91834dfd8258ecc058bcd50e2ccdf8cb = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_ed08ca241cb3f5ebc33e1ee7fc6f11f9 = $(`<div id="html_ed08ca241cb3f5ebc33e1ee7fc6f11f9" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #1abc9c;">西安郊区隋唐墓</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 陕西<br>                 <b>年代:</b> 隋唐<br>                 <b>标注实体数:</b> 1,302<br>                 <b>坐标:</b> 34.28°N, 109.05°E             </p>         </div>         </div>`)[0];
+                popup_91834dfd8258ecc058bcd50e2ccdf8cb.setContent(html_ed08ca241cb3f5ebc33e1ee7fc6f11f9);
+            
+        
+
+        circle_marker_ab52f112f4b45b192c876cea5ba7e846.bindPopup(popup_91834dfd8258ecc058bcd50e2ccdf8cb)
+        ;
+
+        
+    
+    
+            circle_marker_ab52f112f4b45b192c876cea5ba7e846.bindTooltip(
+                `<div>
+                     西安郊区隋唐墓 (隋唐, 1302实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_c83e955822debb7cde15348588af71fe = L.circleMarker(
+                [39.9, 116.4],
+                {"bubblingMouseEvents": true, "color": "#3498db", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3498db", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10.614, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_2b84442b7ad84801252b5dfac330c4f8 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_25780643e553c2347efc3ac62b11643c = $(`<div id="html_25780643e553c2347efc3ac62b11643c" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #3498db;">西汉礼制建筑遗址</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 北京<br>                 <b>年代:</b> 秦汉<br>                 <b>标注实体数:</b> 5,307<br>                 <b>坐标:</b> 39.90°N, 116.40°E             </p>         </div>         </div>`)[0];
+                popup_2b84442b7ad84801252b5dfac330c4f8.setContent(html_25780643e553c2347efc3ac62b11643c);
+            
+        
+
+        circle_marker_c83e955822debb7cde15348588af71fe.bindPopup(popup_2b84442b7ad84801252b5dfac330c4f8)
+        ;
+
+        
+    
+    
+            circle_marker_c83e955822debb7cde15348588af71fe.bindTooltip(
+                `<div>
+                     西汉礼制建筑遗址 (秦汉, 5307实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_a3bf65d70dbaffba1b3d43cf3099bcc1 = L.circleMarker(
+                [34.3, 108.8],
+                {"bubblingMouseEvents": true, "color": "#f1c40f", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f1c40f", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 25, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_ecafb2939942bd99e5455ec18195e08c = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_994d86a336ebae36624c444614eb3848 = $(`<div id="html_994d86a336ebae36624c444614eb3848" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #f1c40f;">张家坡西周墓地</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 陕西<br>                 <b>年代:</b> 西周<br>                 <b>标注实体数:</b> 13,599<br>                 <b>坐标:</b> 34.30°N, 108.80°E             </p>         </div>         </div>`)[0];
+                popup_ecafb2939942bd99e5455ec18195e08c.setContent(html_994d86a336ebae36624c444614eb3848);
+            
+        
+
+        circle_marker_a3bf65d70dbaffba1b3d43cf3099bcc1.bindPopup(popup_ecafb2939942bd99e5455ec18195e08c)
+        ;
+
+        
+    
+    
+            circle_marker_a3bf65d70dbaffba1b3d43cf3099bcc1.bindTooltip(
+                `<div>
+                     张家坡西周墓地 (西周, 13599实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_a86596fd0c46b23d44d1320f0bdb9db1 = L.circleMarker(
+                [34.3, 108.75],
+                {"bubblingMouseEvents": true, "color": "#f1c40f", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f1c40f", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9.048, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_8f1890c39c43d14a2108e51ee4289880 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_8432db2ef829eb144bfda2e155023554 = $(`<div id="html_8432db2ef829eb144bfda2e155023554" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #f1c40f;">沣西发掘报告</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 陕西<br>                 <b>年代:</b> 西周<br>                 <b>标注实体数:</b> 4,524<br>                 <b>坐标:</b> 34.30°N, 108.75°E             </p>         </div>         </div>`)[0];
+                popup_8f1890c39c43d14a2108e51ee4289880.setContent(html_8432db2ef829eb144bfda2e155023554);
+            
+        
+
+        circle_marker_a86596fd0c46b23d44d1320f0bdb9db1.bindPopup(popup_8f1890c39c43d14a2108e51ee4289880)
+        ;
+
+        
+    
+    
+            circle_marker_a86596fd0c46b23d44d1320f0bdb9db1.bindTooltip(
+                `<div>
+                     沣西发掘报告 (西周, 4524实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_a5b5ec0c5505d51bd7eb4d03cd2b6702 = L.circleMarker(
+                [34.35, 107.22],
+                {"bubblingMouseEvents": true, "color": "#e74c3c", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e74c3c", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6.14, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_0aad3d5dd96588f30150f5dbaad48fce = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_26541229c552edc9f0ca0abd07f74e98 = $(`<div id="html_26541229c552edc9f0ca0abd07f74e98" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #e74c3c;">宝鸡北首岭</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 陕西<br>                 <b>年代:</b> 新石器时代<br>                 <b>标注实体数:</b> 3,070<br>                 <b>坐标:</b> 34.35°N, 107.22°E             </p>         </div>         </div>`)[0];
+                popup_0aad3d5dd96588f30150f5dbaad48fce.setContent(html_26541229c552edc9f0ca0abd07f74e98);
+            
+        
+
+        circle_marker_a5b5ec0c5505d51bd7eb4d03cd2b6702.bindPopup(popup_0aad3d5dd96588f30150f5dbaad48fce)
+        ;
+
+        
+    
+    
+            circle_marker_a5b5ec0c5505d51bd7eb4d03cd2b6702.bindTooltip(
+                `<div>
+                     宝鸡北首岭 (新石器时代, 3070实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_c95506ecdbb3d70b13b3d416b42a604b = L.circleMarker(
+                [34.52, 109.72],
+                {"bubblingMouseEvents": true, "color": "#e74c3c", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e74c3c", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_5a21e47ad3544ded7994d57bd70553ef = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_cedeced8e7b465e12bdbff15394a76cb = $(`<div id="html_cedeced8e7b465e12bdbff15394a76cb" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #e74c3c;">华县泉护村</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 陕西<br>                 <b>年代:</b> 新石器时代<br>                 <b>标注实体数:</b> 139<br>                 <b>坐标:</b> 34.52°N, 109.72°E             </p>         </div>         </div>`)[0];
+                popup_5a21e47ad3544ded7994d57bd70553ef.setContent(html_cedeced8e7b465e12bdbff15394a76cb);
+            
+        
+
+        circle_marker_c95506ecdbb3d70b13b3d416b42a604b.bindPopup(popup_5a21e47ad3544ded7994d57bd70553ef)
+        ;
+
+        
+    
+    
+            circle_marker_c95506ecdbb3d70b13b3d416b42a604b.bindTooltip(
+                `<div>
+                     华县泉护村 (新石器时代, 139实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_9d90a9e434b77bf1caa1851aacb20502 = L.circleMarker(
+                [34.52, 109.72],
+                {"bubblingMouseEvents": true, "color": "#e74c3c", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e74c3c", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_7a301afed166191eb854c3cd5b6880b5 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_e59e139239b2de3c32b3a2a61ac901c0 = $(`<div id="html_e59e139239b2de3c32b3a2a61ac901c0" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #e74c3c;">元君庙仰韶墓地</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 陕西<br>                 <b>年代:</b> 新石器时代<br>                 <b>标注实体数:</b> 1,880<br>                 <b>坐标:</b> 34.52°N, 109.72°E             </p>         </div>         </div>`)[0];
+                popup_7a301afed166191eb854c3cd5b6880b5.setContent(html_e59e139239b2de3c32b3a2a61ac901c0);
+            
+        
+
+        circle_marker_9d90a9e434b77bf1caa1851aacb20502.bindPopup(popup_7a301afed166191eb854c3cd5b6880b5)
+        ;
+
+        
+    
+    
+            circle_marker_9d90a9e434b77bf1caa1851aacb20502.bindTooltip(
+                `<div>
+                     元君庙仰韶墓地 (新石器时代, 1880实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_99ac47086bd5bea5db5ebaa63d6b8175 = L.circleMarker(
+                [35.05, 108.08],
+                {"bubblingMouseEvents": true, "color": "#e74c3c", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e74c3c", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 22.462, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_f842304bfb65f9e3842721f584b178af = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_9672280fe3b233bed36b3a9351eb370e = $(`<div id="html_9672280fe3b233bed36b3a9351eb370e" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #e74c3c;">南邠州碾子坡</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 陕西<br>                 <b>年代:</b> 新石器时代<br>                 <b>标注实体数:</b> 11,231<br>                 <b>坐标:</b> 35.05°N, 108.08°E             </p>         </div>         </div>`)[0];
+                popup_f842304bfb65f9e3842721f584b178af.setContent(html_9672280fe3b233bed36b3a9351eb370e);
+            
+        
+
+        circle_marker_99ac47086bd5bea5db5ebaa63d6b8175.bindPopup(popup_f842304bfb65f9e3842721f584b178af)
+        ;
+
+        
+    
+    
+            circle_marker_99ac47086bd5bea5db5ebaa63d6b8175.bindTooltip(
+                `<div>
+                     南邠州碾子坡 (新石器时代, 11231实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_bedad5a65e41b7836bbb1a5537595959 = L.circleMarker(
+                [34.28, 108.18],
+                {"bubblingMouseEvents": true, "color": "#95a5a6", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#95a5a6", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.02, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_64d7567888b2a5820da0d513cac237e8 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_4fc4c50fa9d17bff9581df2f7745ef40 = $(`<div id="html_4fc4c50fa9d17bff9581df2f7745ef40" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #95a5a6;">武功发掘报告</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 陕西<br>                 <b>年代:</b> 待定<br>                 <b>标注实体数:</b> 2,510<br>                 <b>坐标:</b> 34.28°N, 108.18°E             </p>         </div>         </div>`)[0];
+                popup_64d7567888b2a5820da0d513cac237e8.setContent(html_4fc4c50fa9d17bff9581df2f7745ef40);
+            
+        
+
+        circle_marker_bedad5a65e41b7836bbb1a5537595959.bindPopup(popup_64d7567888b2a5820da0d513cac237e8)
+        ;
+
+        
+    
+    
+            circle_marker_bedad5a65e41b7836bbb1a5537595959.bindTooltip(
+                `<div>
+                     武功发掘报告 (待定, 2510实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_b3904e05c06d641f28d13c9a7bfeecab = L.circleMarker(
+                [34.3, 109.05],
+                {"bubblingMouseEvents": true, "color": "#3498db", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3498db", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_85db4a99ac1667da340c5b98206daf74 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_39c0c07dd17535e8ea204347b52ea120 = $(`<div id="html_39c0c07dd17535e8ea204347b52ea120" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #3498db;">汉杜陵陵园遗址</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 陕西<br>                 <b>年代:</b> 秦汉<br>                 <b>标注实体数:</b> 0<br>                 <b>坐标:</b> 34.30°N, 109.05°E             </p>         </div>         </div>`)[0];
+                popup_85db4a99ac1667da340c5b98206daf74.setContent(html_39c0c07dd17535e8ea204347b52ea120);
+            
+        
+
+        circle_marker_b3904e05c06d641f28d13c9a7bfeecab.bindPopup(popup_85db4a99ac1667da340c5b98206daf74)
+        ;
+
+        
+    
+    
+            circle_marker_b3904e05c06d641f28d13c9a7bfeecab.bindTooltip(
+                `<div>
+                     汉杜陵陵园遗址 (秦汉, 0实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_960bcebb412767eb9cf4c25cf332bd15 = L.circleMarker(
+                [31.72, 113.38],
+                {"bubblingMouseEvents": true, "color": "#2ecc71", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#2ecc71", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 20.444, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_49dcb194c6b458eb8a96cdbf4b06a409 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_4b51ecba70a54c46f3f0d19664637886 = $(`<div id="html_4b51ecba70a54c46f3f0d19664637886" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #2ecc71;">曾侯乙墓</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 湖北<br>                 <b>年代:</b> 东周<br>                 <b>标注实体数:</b> 10,222<br>                 <b>坐标:</b> 31.72°N, 113.38°E             </p>         </div>         </div>`)[0];
+                popup_49dcb194c6b458eb8a96cdbf4b06a409.setContent(html_4b51ecba70a54c46f3f0d19664637886);
+            
+        
+
+        circle_marker_960bcebb412767eb9cf4c25cf332bd15.bindPopup(popup_49dcb194c6b458eb8a96cdbf4b06a409)
+        ;
+
+        
+    
+    
+            circle_marker_960bcebb412767eb9cf4c25cf332bd15.bindTooltip(
+                `<div>
+                     曾侯乙墓 (东周, 10222实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_1b466fea74b4cd22ecd2188e75adcf94 = L.circleMarker(
+                [32.58, 110.78],
+                {"bubblingMouseEvents": true, "color": "#e74c3c", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e74c3c", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 20.874, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_de49d7560dabd82be666d089abf2cd9b = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_52fd48a18a7cb173f36354d70519485e = $(`<div id="html_52fd48a18a7cb173f36354d70519485e" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #e74c3c;">青龙泉与大寺</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 湖北<br>                 <b>年代:</b> 新石器时代<br>                 <b>标注实体数:</b> 10,437<br>                 <b>坐标:</b> 32.58°N, 110.78°E             </p>         </div>         </div>`)[0];
+                popup_de49d7560dabd82be666d089abf2cd9b.setContent(html_52fd48a18a7cb173f36354d70519485e);
+            
+        
+
+        circle_marker_1b466fea74b4cd22ecd2188e75adcf94.bindPopup(popup_de49d7560dabd82be666d089abf2cd9b)
+        ;
+
+        
+    
+    
+            circle_marker_1b466fea74b4cd22ecd2188e75adcf94.bindTooltip(
+                `<div>
+                     青龙泉与大寺 (新石器时代, 10437实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_95dd4a5be9eced4ba51e3bea71495886 = L.circleMarker(
+                [31.02, 113.12],
+                {"bubblingMouseEvents": true, "color": "#e74c3c", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e74c3c", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6.464, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_adecd7165a886cb8e22502da2d5afbe1 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_ffeb256347b195203642fbac9cbfdcad = $(`<div id="html_ffeb256347b195203642fbac9cbfdcad" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #e74c3c;">京山屈家岭</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 湖北<br>                 <b>年代:</b> 新石器时代<br>                 <b>标注实体数:</b> 3,232<br>                 <b>坐标:</b> 31.02°N, 113.12°E             </p>         </div>         </div>`)[0];
+                popup_adecd7165a886cb8e22502da2d5afbe1.setContent(html_ffeb256347b195203642fbac9cbfdcad);
+            
+        
+
+        circle_marker_95dd4a5be9eced4ba51e3bea71495886.bindPopup(popup_adecd7165a886cb8e22502da2d5afbe1)
+        ;
+
+        
+    
+    
+            circle_marker_95dd4a5be9eced4ba51e3bea71495886.bindTooltip(
+                `<div>
+                     京山屈家岭 (新石器时代, 3232实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_1503ab380aac523ad6a35d5626e47a2e = L.circleMarker(
+                [32.15, 112.78],
+                {"bubblingMouseEvents": true, "color": "#e74c3c", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e74c3c", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 18.266, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_b28eb8f145a573dbe65d24d35ebf4984 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_2be09bd8d553537c6b0ff0b1139290d4 = $(`<div id="html_2be09bd8d553537c6b0ff0b1139290d4" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #e74c3c;">枣阳雕龙碑</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 湖北<br>                 <b>年代:</b> 新石器时代<br>                 <b>标注实体数:</b> 9,133<br>                 <b>坐标:</b> 32.15°N, 112.78°E             </p>         </div>         </div>`)[0];
+                popup_b28eb8f145a573dbe65d24d35ebf4984.setContent(html_2be09bd8d553537c6b0ff0b1139290d4);
+            
+        
+
+        circle_marker_1503ab380aac523ad6a35d5626e47a2e.bindPopup(popup_b28eb8f145a573dbe65d24d35ebf4984)
+        ;
+
+        
+    
+    
+            circle_marker_1503ab380aac523ad6a35d5626e47a2e.bindTooltip(
+                `<div>
+                     枣阳雕龙碑 (新石器时代, 9133实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_3b11f8acfc1b897eb1fc535bdaf05830 = L.circleMarker(
+                [30.35, 112.2],
+                {"bubblingMouseEvents": true, "color": "#2ecc71", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#2ecc71", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6.23, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_14f122eef5fabedf5bfb79ab0a33e76a = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_13d5c7b541d4d91e2674b6669147ae84 = $(`<div id="html_13d5c7b541d4d91e2674b6669147ae84" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #2ecc71;">江陵雨台山楚墓</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 湖北<br>                 <b>年代:</b> 东周<br>                 <b>标注实体数:</b> 3,115<br>                 <b>坐标:</b> 30.35°N, 112.20°E             </p>         </div>         </div>`)[0];
+                popup_14f122eef5fabedf5bfb79ab0a33e76a.setContent(html_13d5c7b541d4d91e2674b6669147ae84);
+            
+        
+
+        circle_marker_3b11f8acfc1b897eb1fc535bdaf05830.bindPopup(popup_14f122eef5fabedf5bfb79ab0a33e76a)
+        ;
+
+        
+    
+    
+            circle_marker_3b11f8acfc1b897eb1fc535bdaf05830.bindTooltip(
+                `<div>
+                     江陵雨台山楚墓 (东周, 3115实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_bf491facfaf07045dec57e44ade0f8e9 = L.circleMarker(
+                [30.4, 114.88],
+                {"bubblingMouseEvents": true, "color": "#9b59b6", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#9b59b6", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 25, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_58903b82b119e87f2da282abb8344a0c = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_3b704f520f8a521d5e37b2427574ad99 = $(`<div id="html_3b704f520f8a521d5e37b2427574ad99" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #9b59b6;">鄂城六朝墓</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 湖北<br>                 <b>年代:</b> 魏晋南北朝<br>                 <b>标注实体数:</b> 13,109<br>                 <b>坐标:</b> 30.40°N, 114.88°E             </p>         </div>         </div>`)[0];
+                popup_58903b82b119e87f2da282abb8344a0c.setContent(html_3b704f520f8a521d5e37b2427574ad99);
+            
+        
+
+        circle_marker_bf491facfaf07045dec57e44ade0f8e9.bindPopup(popup_58903b82b119e87f2da282abb8344a0c)
+        ;
+
+        
+    
+    
+            circle_marker_bf491facfaf07045dec57e44ade0f8e9.bindTooltip(
+                `<div>
+                     鄂城六朝墓 (魏晋南北朝, 13109实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_b9f135940d34e75eab3eb8285e4b4754 = L.circleMarker(
+                [35.08, 117.15],
+                {"bubblingMouseEvents": true, "color": "#e74c3c", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e74c3c", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 25, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_b1cd564fdb45c7a47acf00f4e8ba7a82 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_fbb84049a7dcd8eef47dcda8bc13c26e = $(`<div id="html_fbb84049a7dcd8eef47dcda8bc13c26e" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #e74c3c;">滕州前掌大墓地</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 山东<br>                 <b>年代:</b> 新石器时代<br>                 <b>标注实体数:</b> 14,605<br>                 <b>坐标:</b> 35.08°N, 117.15°E             </p>         </div>         </div>`)[0];
+                popup_b1cd564fdb45c7a47acf00f4e8ba7a82.setContent(html_fbb84049a7dcd8eef47dcda8bc13c26e);
+            
+        
+
+        circle_marker_b9f135940d34e75eab3eb8285e4b4754.bindPopup(popup_b1cd564fdb45c7a47acf00f4e8ba7a82)
+        ;
+
+        
+    
+    
+            circle_marker_b9f135940d34e75eab3eb8285e4b4754.bindTooltip(
+                `<div>
+                     滕州前掌大墓地 (新石器时代, 14605实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_4707334e7605aac26d0f7e119d2d448f = L.circleMarker(
+                [35.92, 117.08],
+                {"bubblingMouseEvents": true, "color": "#e74c3c", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e74c3c", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 16.306, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_16867ec1e3e253c2d76367770683a19b = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_af934483ca501cd39677250b59c3382b = $(`<div id="html_af934483ca501cd39677250b59c3382b" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #e74c3c;">山东王因</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 山东<br>                 <b>年代:</b> 新石器时代<br>                 <b>标注实体数:</b> 8,153<br>                 <b>坐标:</b> 35.92°N, 117.08°E             </p>         </div>         </div>`)[0];
+                popup_16867ec1e3e253c2d76367770683a19b.setContent(html_af934483ca501cd39677250b59c3382b);
+            
+        
+
+        circle_marker_4707334e7605aac26d0f7e119d2d448f.bindPopup(popup_16867ec1e3e253c2d76367770683a19b)
+        ;
+
+        
+    
+    
+            circle_marker_4707334e7605aac26d0f7e119d2d448f.bindTooltip(
+                `<div>
+                     山东王因 (新石器时代, 8153实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_15c77af3b11d0155e0750b8197154e7f = L.circleMarker(
+                [36.28, 120.0],
+                {"bubblingMouseEvents": true, "color": "#e74c3c", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e74c3c", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6.4, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_d921a6d9192fbc7f5d2af95fec52d034 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_fd37fb01aeefb20518de104d729e344a = $(`<div id="html_fd37fb01aeefb20518de104d729e344a" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #e74c3c;">胶县三里河</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 山东<br>                 <b>年代:</b> 新石器时代<br>                 <b>标注实体数:</b> 3,200<br>                 <b>坐标:</b> 36.28°N, 120.00°E             </p>         </div>         </div>`)[0];
+                popup_d921a6d9192fbc7f5d2af95fec52d034.setContent(html_fd37fb01aeefb20518de104d729e344a);
+            
+        
+
+        circle_marker_15c77af3b11d0155e0750b8197154e7f.bindPopup(popup_d921a6d9192fbc7f5d2af95fec52d034)
+        ;
+
+        
+    
+    
+            circle_marker_15c77af3b11d0155e0750b8197154e7f.bindTooltip(
+                `<div>
+                     胶县三里河 (新石器时代, 3200实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_e0b55dff927fddba1475e22ba2e51ebd = L.circleMarker(
+                [39.55, 121.62],
+                {"bubblingMouseEvents": true, "color": "#e74c3c", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e74c3c", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8.77, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_5202b76f507748dd6d6e9e9f51b35d05 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_edff14b12d96907328872202cd889561 = $(`<div id="html_edff14b12d96907328872202cd889561" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #e74c3c;">双砣子与岗上</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 山东<br>                 <b>年代:</b> 新石器时代<br>                 <b>标注实体数:</b> 4,385<br>                 <b>坐标:</b> 39.55°N, 121.62°E             </p>         </div>         </div>`)[0];
+                popup_5202b76f507748dd6d6e9e9f51b35d05.setContent(html_edff14b12d96907328872202cd889561);
+            
+        
+
+        circle_marker_e0b55dff927fddba1475e22ba2e51ebd.bindPopup(popup_5202b76f507748dd6d6e9e9f51b35d05)
+        ;
+
+        
+    
+    
+            circle_marker_e0b55dff927fddba1475e22ba2e51ebd.bindTooltip(
+                `<div>
+                     双砣子与岗上 (新石器时代, 4385实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_0feff1cfc351ac5f028b6b717a35410e = L.circleMarker(
+                [37.0, 121.0],
+                {"bubblingMouseEvents": true, "color": "#e74c3c", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e74c3c", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_25ba709c06544fed0f9c59140cf73504 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_1daa02c46b6a83c4917fca96d469b89c = $(`<div id="html_1daa02c46b6a83c4917fca96d469b89c" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #e74c3c;">胶东半岛贝丘遗址</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 山东<br>                 <b>年代:</b> 新石器时代<br>                 <b>标注实体数:</b> 0<br>                 <b>坐标:</b> 37.00°N, 121.00°E             </p>         </div>         </div>`)[0];
+                popup_25ba709c06544fed0f9c59140cf73504.setContent(html_1daa02c46b6a83c4917fca96d469b89c);
+            
+        
+
+        circle_marker_0feff1cfc351ac5f028b6b717a35410e.bindPopup(popup_25ba709c06544fed0f9c59140cf73504)
+        ;
+
+        
+    
+    
+            circle_marker_0feff1cfc351ac5f028b6b717a35410e.bindTooltip(
+                `<div>
+                     胶东半岛贝丘遗址 (新石器时代, 0实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_be5c9baab078113302d01ff16ef308d0 = L.circleMarker(
+                [33.28, 116.55],
+                {"bubblingMouseEvents": true, "color": "#e74c3c", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e74c3c", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 25, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_70ae8a9fb5b9eb2ddb861661b5bb53d0 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_c67e3ddaac232d00037da4f1ce85eb94 = $(`<div id="html_c67e3ddaac232d00037da4f1ce85eb94" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #e74c3c;">蒙城尉迟寺</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 安徽<br>                 <b>年代:</b> 新石器时代<br>                 <b>标注实体数:</b> 16,630<br>                 <b>坐标:</b> 33.28°N, 116.55°E             </p>         </div>         </div>`)[0];
+                popup_70ae8a9fb5b9eb2ddb861661b5bb53d0.setContent(html_c67e3ddaac232d00037da4f1ce85eb94);
+            
+        
+
+        circle_marker_be5c9baab078113302d01ff16ef308d0.bindPopup(popup_70ae8a9fb5b9eb2ddb861661b5bb53d0)
+        ;
+
+        
+    
+    
+            circle_marker_be5c9baab078113302d01ff16ef308d0.bindTooltip(
+                `<div>
+                     蒙城尉迟寺 (新石器时代, 16630实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_7b91014c4c3f70ff3c22794f68353492 = L.circleMarker(
+                [33.28, 116.55],
+                {"bubblingMouseEvents": true, "color": "#e74c3c", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e74c3c", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 25, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_00fca0bda74792dede68cbc114e97e27 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_bafa0252a88a19e9773653dbfba1c768 = $(`<div id="html_bafa0252a88a19e9773653dbfba1c768" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #e74c3c;">蒙城尉迟寺第二部</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 安徽<br>                 <b>年代:</b> 新石器时代<br>                 <b>标注实体数:</b> 16,226<br>                 <b>坐标:</b> 33.28°N, 116.55°E             </p>         </div>         </div>`)[0];
+                popup_00fca0bda74792dede68cbc114e97e27.setContent(html_bafa0252a88a19e9773653dbfba1c768);
+            
+        
+
+        circle_marker_7b91014c4c3f70ff3c22794f68353492.bindPopup(popup_00fca0bda74792dede68cbc114e97e27)
+        ;
+
+        
+    
+    
+            circle_marker_7b91014c4c3f70ff3c22794f68353492.bindTooltip(
+                `<div>
+                     蒙城尉迟寺第二部 (新石器时代, 16226实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_b7ad1451a7b4fa0ba4bad364882451b9 = L.circleMarker(
+                [34.58, 105.72],
+                {"bubblingMouseEvents": true, "color": "#e74c3c", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e74c3c", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 17.742, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_7a78294ebc6087e6e1f099ab9ad638e1 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_cc87fb0911547c25dcce6a695f50aacb = $(`<div id="html_cc87fb0911547c25dcce6a695f50aacb" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #e74c3c;">师赵村与西山坪</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 甘肃<br>                 <b>年代:</b> 新石器时代<br>                 <b>标注实体数:</b> 8,871<br>                 <b>坐标:</b> 34.58°N, 105.72°E             </p>         </div>         </div>`)[0];
+                popup_7a78294ebc6087e6e1f099ab9ad638e1.setContent(html_cc87fb0911547c25dcce6a695f50aacb);
+            
+        
+
+        circle_marker_b7ad1451a7b4fa0ba4bad364882451b9.bindPopup(popup_7a78294ebc6087e6e1f099ab9ad638e1)
+        ;
+
+        
+    
+    
+            circle_marker_b7ad1451a7b4fa0ba4bad364882451b9.bindTooltip(
+                `<div>
+                     师赵村与西山坪 (新石器时代, 8871实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_fdfb072f90b0d5131174da356784906d = L.circleMarker(
+                [35.55, 106.68],
+                {"bubblingMouseEvents": true, "color": "#f1c40f", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f1c40f", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8.95, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_f89e82c6569c42f3b2a5e33d39e7d314 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_48bc8df470fbed6ce2755c547b4741e9 = $(`<div id="html_48bc8df470fbed6ce2755c547b4741e9" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #f1c40f;">徐家碾寺洼文化墓地</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 甘肃<br>                 <b>年代:</b> 西周<br>                 <b>标注实体数:</b> 4,475<br>                 <b>坐标:</b> 35.55°N, 106.68°E             </p>         </div>         </div>`)[0];
+                popup_f89e82c6569c42f3b2a5e33d39e7d314.setContent(html_48bc8df470fbed6ce2755c547b4741e9);
+            
+        
+
+        circle_marker_fdfb072f90b0d5131174da356784906d.bindPopup(popup_f89e82c6569c42f3b2a5e33d39e7d314)
+        ;
+
+        
+    
+    
+            circle_marker_fdfb072f90b0d5131174da356784906d.bindTooltip(
+                `<div>
+                     徐家碾寺洼文化墓地 (西周, 4475实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_ba81bd5bbc74a8b920fee14d40bae00f = L.circleMarker(
+                [44.02, 89.18],
+                {"bubblingMouseEvents": true, "color": "#95a5a6", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#95a5a6", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.84, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_b394c9130d68606dd6594f1cba5aa796 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_057786562c1484cf2bc04b5eaadd6438 = $(`<div id="html_057786562c1484cf2bc04b5eaadd6438" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #95a5a6;">北庭高昌回鹘佛寺遗址</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 甘肃<br>                 <b>年代:</b> 待定<br>                 <b>标注实体数:</b> 3,920<br>                 <b>坐标:</b> 44.02°N, 89.18°E             </p>         </div>         </div>`)[0];
+                popup_b394c9130d68606dd6594f1cba5aa796.setContent(html_057786562c1484cf2bc04b5eaadd6438);
+            
+        
+
+        circle_marker_ba81bd5bbc74a8b920fee14d40bae00f.bindPopup(popup_b394c9130d68606dd6594f1cba5aa796)
+        ;
+
+        
+    
+    
+            circle_marker_ba81bd5bbc74a8b920fee14d40bae00f.bindTooltip(
+                `<div>
+                     北庭高昌回鹘佛寺遗址 (待定, 3920实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_9f376831a5c451a1ebff6bb287c62ad9 = L.circleMarker(
+                [40.29, 116.24],
+                {"bubblingMouseEvents": true, "color": "#3498db", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3498db", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 11.47, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_0560ae713912c1a614bce55d015c0b2d = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_f411909b29f0ac69694cf9052146055d = $(`<div id="html_f411909b29f0ac69694cf9052146055d" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #3498db;">定陵</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 北京<br>                 <b>年代:</b> 秦汉<br>                 <b>标注实体数:</b> 5,735<br>                 <b>坐标:</b> 40.29°N, 116.24°E             </p>         </div>         </div>`)[0];
+                popup_0560ae713912c1a614bce55d015c0b2d.setContent(html_f411909b29f0ac69694cf9052146055d);
+            
+        
+
+        circle_marker_9f376831a5c451a1ebff6bb287c62ad9.bindPopup(popup_0560ae713912c1a614bce55d015c0b2d)
+        ;
+
+        
+    
+    
+            circle_marker_9f376831a5c451a1ebff6bb287c62ad9.bindTooltip(
+                `<div>
+                     定陵 (秦汉, 5735实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_059ab37cb4b78cbaec587b40a5d6f036 = L.circleMarker(
+                [39.82, 116.28],
+                {"bubblingMouseEvents": true, "color": "#3498db", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3498db", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_8480cfc5744c9fd2c3758347a6fe9588 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_d0642b5814bebdb3c4158837ab282649 = $(`<div id="html_d0642b5814bebdb3c4158837ab282649" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #3498db;">北京大葆台汉墓</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 北京<br>                 <b>年代:</b> 秦汉<br>                 <b>标注实体数:</b> 2,143<br>                 <b>坐标:</b> 39.82°N, 116.28°E             </p>         </div>         </div>`)[0];
+                popup_8480cfc5744c9fd2c3758347a6fe9588.setContent(html_d0642b5814bebdb3c4158837ab282649);
+            
+        
+
+        circle_marker_059ab37cb4b78cbaec587b40a5d6f036.bindPopup(popup_8480cfc5744c9fd2c3758347a6fe9588)
+        ;
+
+        
+    
+    
+            circle_marker_059ab37cb4b78cbaec587b40a5d6f036.bindTooltip(
+                `<div>
+                     北京大葆台汉墓 (秦汉, 2143实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_fab7a82f8ad64e411355183fa55d5819 = L.circleMarker(
+                [28.2, 113.0],
+                {"bubblingMouseEvents": true, "color": "#2ecc71", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#2ecc71", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_24eee813e2761aadb2108effe04b8b7f = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_8285152835f7cc833694f0afcbac05fa = $(`<div id="html_8285152835f7cc833694f0afcbac05fa" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #2ecc71;">长沙发掘报告</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 湖南<br>                 <b>年代:</b> 东周<br>                 <b>标注实体数:</b> 617<br>                 <b>坐标:</b> 28.20°N, 113.00°E             </p>         </div>         </div>`)[0];
+                popup_24eee813e2761aadb2108effe04b8b7f.setContent(html_8285152835f7cc833694f0afcbac05fa);
+            
+        
+
+        circle_marker_fab7a82f8ad64e411355183fa55d5819.bindPopup(popup_24eee813e2761aadb2108effe04b8b7f)
+        ;
+
+        
+    
+    
+            circle_marker_fab7a82f8ad64e411355183fa55d5819.bindTooltip(
+                `<div>
+                     长沙发掘报告 (东周, 617实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_47630f15c0810bf342fdd7c501f64f13 = L.circleMarker(
+                [28.2, 113.02],
+                {"bubblingMouseEvents": true, "color": "#3498db", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3498db", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_416d76a811fd53c13385e645dbda793f = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_7c8caffeca925677eb03485aa7df17c4 = $(`<div id="html_7c8caffeca925677eb03485aa7df17c4" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #3498db;">长沙马王堆一号汉墓</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 湖南<br>                 <b>年代:</b> 秦汉<br>                 <b>标注实体数:</b> 1,321<br>                 <b>坐标:</b> 28.20°N, 113.02°E             </p>         </div>         </div>`)[0];
+                popup_416d76a811fd53c13385e645dbda793f.setContent(html_7c8caffeca925677eb03485aa7df17c4);
+            
+        
+
+        circle_marker_47630f15c0810bf342fdd7c501f64f13.bindPopup(popup_416d76a811fd53c13385e645dbda793f)
+        ;
+
+        
+    
+    
+            circle_marker_47630f15c0810bf342fdd7c501f64f13.bindTooltip(
+                `<div>
+                     长沙马王堆一号汉墓 (秦汉, 1321实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_89dba226a00615f12f3ae571d1357d00 = L.circleMarker(
+                [28.2, 113.02],
+                {"bubblingMouseEvents": true, "color": "#3498db", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3498db", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_5be9a1213206f5c9ad575676943aeae4 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_d2ada15dea420c4afca32fd994be7ba3 = $(`<div id="html_d2ada15dea420c4afca32fd994be7ba3" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #3498db;">长沙马王堆一号汉墓上册</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 湖南<br>                 <b>年代:</b> 秦汉<br>                 <b>标注实体数:</b> 1,321<br>                 <b>坐标:</b> 28.20°N, 113.02°E             </p>         </div>         </div>`)[0];
+                popup_5be9a1213206f5c9ad575676943aeae4.setContent(html_d2ada15dea420c4afca32fd994be7ba3);
+            
+        
+
+        circle_marker_89dba226a00615f12f3ae571d1357d00.bindPopup(popup_5be9a1213206f5c9ad575676943aeae4)
+        ;
+
+        
+    
+    
+            circle_marker_89dba226a00615f12f3ae571d1357d00.bindTooltip(
+                `<div>
+                     长沙马王堆一号汉墓上册 (秦汉, 1321实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_26a5dd30a5b1eaba8d14caa7b5bf55b7 = L.circleMarker(
+                [23.12, 113.3],
+                {"bubblingMouseEvents": true, "color": "#2ecc71", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#2ecc71", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 14.696, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_d19ae92db5a2cc923848f8fffe288ac0 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_49590e2f29c2f42cb616a11cb97e3aef = $(`<div id="html_49590e2f29c2f42cb616a11cb97e3aef" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #2ecc71;">广州汉墓</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 广东<br>                 <b>年代:</b> 东周<br>                 <b>标注实体数:</b> 7,348<br>                 <b>坐标:</b> 23.12°N, 113.30°E             </p>         </div>         </div>`)[0];
+                popup_d19ae92db5a2cc923848f8fffe288ac0.setContent(html_49590e2f29c2f42cb616a11cb97e3aef);
+            
+        
+
+        circle_marker_26a5dd30a5b1eaba8d14caa7b5bf55b7.bindPopup(popup_d19ae92db5a2cc923848f8fffe288ac0)
+        ;
+
+        
+    
+    
+            circle_marker_26a5dd30a5b1eaba8d14caa7b5bf55b7.bindTooltip(
+                `<div>
+                     广州汉墓 (东周, 7348实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_b9610111d3deec1e75319034afc39d9d = L.circleMarker(
+                [23.15, 113.28],
+                {"bubblingMouseEvents": true, "color": "#3498db", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3498db", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_00402ea2f2b25a1ab0ca234ea370a82f = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_88de923689d6a913fc5fbd667e1a5ba1 = $(`<div id="html_88de923689d6a913fc5fbd667e1a5ba1" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #3498db;">西汉南越王墓</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 广东<br>                 <b>年代:</b> 秦汉<br>                 <b>标注实体数:</b> 108<br>                 <b>坐标:</b> 23.15°N, 113.28°E             </p>         </div>         </div>`)[0];
+                popup_00402ea2f2b25a1ab0ca234ea370a82f.setContent(html_88de923689d6a913fc5fbd667e1a5ba1);
+            
+        
+
+        circle_marker_b9610111d3deec1e75319034afc39d9d.bindPopup(popup_00402ea2f2b25a1ab0ca234ea370a82f)
+        ;
+
+        
+    
+    
+            circle_marker_b9610111d3deec1e75319034afc39d9d.bindTooltip(
+                `<div>
+                     西汉南越王墓 (秦汉, 108实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_506c46a8f2303e92bc7179e778bb5bfd = L.circleMarker(
+                [23.15, 113.28],
+                {"bubblingMouseEvents": true, "color": "#3498db", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3498db", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_3b023370d90dbc2de79ca047c18bdcda = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_6d6e5fda2094005a295386052768cbfb = $(`<div id="html_6d6e5fda2094005a295386052768cbfb" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #3498db;">西汉南越王墓下册</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 广东<br>                 <b>年代:</b> 秦汉<br>                 <b>标注实体数:</b> 108<br>                 <b>坐标:</b> 23.15°N, 113.28°E             </p>         </div>         </div>`)[0];
+                popup_3b023370d90dbc2de79ca047c18bdcda.setContent(html_6d6e5fda2094005a295386052768cbfb);
+            
+        
+
+        circle_marker_506c46a8f2303e92bc7179e778bb5bfd.bindPopup(popup_3b023370d90dbc2de79ca047c18bdcda)
+        ;
+
+        
+    
+    
+            circle_marker_506c46a8f2303e92bc7179e778bb5bfd.bindTooltip(
+                `<div>
+                     西汉南越王墓下册 (秦汉, 108实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_0f386af57b58b465f6f594d3b48b0652 = L.circleMarker(
+                [38.95, 115.32],
+                {"bubblingMouseEvents": true, "color": "#3498db", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3498db", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_63afd79a7fc1782f1c4a656eaea6b16a = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_578465f0fc4f375d58b9fb698dc6ba77 = $(`<div id="html_578465f0fc4f375d58b9fb698dc6ba77" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #3498db;">满城汉墓</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 河北<br>                 <b>年代:</b> 秦汉<br>                 <b>标注实体数:</b> 227<br>                 <b>坐标:</b> 38.95°N, 115.32°E             </p>         </div>         </div>`)[0];
+                popup_63afd79a7fc1782f1c4a656eaea6b16a.setContent(html_578465f0fc4f375d58b9fb698dc6ba77);
+            
+        
+
+        circle_marker_0f386af57b58b465f6f594d3b48b0652.bindPopup(popup_63afd79a7fc1782f1c4a656eaea6b16a)
+        ;
+
+        
+    
+    
+            circle_marker_0f386af57b58b465f6f594d3b48b0652.bindTooltip(
+                `<div>
+                     满城汉墓 (秦汉, 227实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_08bcb45f2cfadebd8c584d37952d3e71 = L.circleMarker(
+                [38.95, 115.32],
+                {"bubblingMouseEvents": true, "color": "#3498db", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3498db", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_a876cb5871e0b8594f59bcd0bf8d7493 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_aa4822b707ec94e85cd196f422bcf160 = $(`<div id="html_aa4822b707ec94e85cd196f422bcf160" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #3498db;">满城汉墓下册</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 河北<br>                 <b>年代:</b> 秦汉<br>                 <b>标注实体数:</b> 227<br>                 <b>坐标:</b> 38.95°N, 115.32°E             </p>         </div>         </div>`)[0];
+                popup_a876cb5871e0b8594f59bcd0bf8d7493.setContent(html_aa4822b707ec94e85cd196f422bcf160);
+            
+        
+
+        circle_marker_08bcb45f2cfadebd8c584d37952d3e71.bindPopup(popup_a876cb5871e0b8594f59bcd0bf8d7493)
+        ;
+
+        
+    
+    
+            circle_marker_08bcb45f2cfadebd8c584d37952d3e71.bindTooltip(
+                `<div>
+                     满城汉墓下册 (秦汉, 227实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_e1c1459d1442ccb9a73a86bb9867a84b = L.circleMarker(
+                [36.38, 114.38],
+                {"bubblingMouseEvents": true, "color": "#9b59b6", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#9b59b6", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_46a0a4e3811784038956c098338779dc = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_51992212f6fda2c196f7f6bde7b2e725 = $(`<div id="html_51992212f6fda2c196f7f6bde7b2e725" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #9b59b6;">磁县湾张北朝壁画墓</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 河北<br>                 <b>年代:</b> 魏晋南北朝<br>                 <b>标注实体数:</b> 2,356<br>                 <b>坐标:</b> 36.38°N, 114.38°E             </p>         </div>         </div>`)[0];
+                popup_46a0a4e3811784038956c098338779dc.setContent(html_51992212f6fda2c196f7f6bde7b2e725);
+            
+        
+
+        circle_marker_e1c1459d1442ccb9a73a86bb9867a84b.bindPopup(popup_46a0a4e3811784038956c098338779dc)
+        ;
+
+        
+    
+    
+            circle_marker_e1c1459d1442ccb9a73a86bb9867a84b.bindTooltip(
+                `<div>
+                     磁县湾张北朝壁画墓 (魏晋南北朝, 2356实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_80e5fc28dda29a5374f8258d4e16a29f = L.circleMarker(
+                [35.22, 111.62],
+                {"bubblingMouseEvents": true, "color": "#e67e22", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e67e22", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10.486, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_1ac6d92ff3ce8c3bcf4dcc55c70414b9 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_d9f2a98d791f710e2f2c01bbccc4371d = $(`<div id="html_d9f2a98d791f710e2f2c01bbccc4371d" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #e67e22;">夏县东下冯</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 山西<br>                 <b>年代:</b> 夏商<br>                 <b>标注实体数:</b> 5,243<br>                 <b>坐标:</b> 35.22°N, 111.62°E             </p>         </div>         </div>`)[0];
+                popup_1ac6d92ff3ce8c3bcf4dcc55c70414b9.setContent(html_d9f2a98d791f710e2f2c01bbccc4371d);
+            
+        
+
+        circle_marker_80e5fc28dda29a5374f8258d4e16a29f.bindPopup(popup_1ac6d92ff3ce8c3bcf4dcc55c70414b9)
+        ;
+
+        
+    
+    
+            circle_marker_80e5fc28dda29a5374f8258d4e16a29f.bindTooltip(
+                `<div>
+                     夏县东下冯 (夏商, 5243实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_df974e56b6b61cc12def6eb5b704c3a2 = L.circleMarker(
+                [49.22, 119.72],
+                {"bubblingMouseEvents": true, "color": "#e74c3c", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e74c3c", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 18.544, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_fddbe51284e6901cd2a9a1ba105005b7 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_cd9a26d526fa4723876d9800514e75c4 = $(`<div id="html_cd9a26d526fa4723876d9800514e75c4" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #e74c3c;">哈克遗址</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 内蒙古<br>                 <b>年代:</b> 新石器时代<br>                 <b>标注实体数:</b> 9,272<br>                 <b>坐标:</b> 49.22°N, 119.72°E             </p>         </div>         </div>`)[0];
+                popup_fddbe51284e6901cd2a9a1ba105005b7.setContent(html_cd9a26d526fa4723876d9800514e75c4);
+            
+        
+
+        circle_marker_df974e56b6b61cc12def6eb5b704c3a2.bindPopup(popup_fddbe51284e6901cd2a9a1ba105005b7)
+        ;
+
+        
+    
+    
+            circle_marker_df974e56b6b61cc12def6eb5b704c3a2.bindTooltip(
+                `<div>
+                     哈克遗址 (新石器时代, 9272实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_e2b4a439e5fd0de5464a23dfb01c889c = L.circleMarker(
+                [42.28, 119.88],
+                {"bubblingMouseEvents": true, "color": "#e74c3c", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e74c3c", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9.142, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_0b7790f94737d26cc0b705617cc15a8f = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_6ec399789c785004fff91f9a6293a7fb = $(`<div id="html_6ec399789c785004fff91f9a6293a7fb" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #e74c3c;">敖汉赵宝沟</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 内蒙古<br>                 <b>年代:</b> 新石器时代<br>                 <b>标注实体数:</b> 4,571<br>                 <b>坐标:</b> 42.28°N, 119.88°E             </p>         </div>         </div>`)[0];
+                popup_0b7790f94737d26cc0b705617cc15a8f.setContent(html_6ec399789c785004fff91f9a6293a7fb);
+            
+        
+
+        circle_marker_e2b4a439e5fd0de5464a23dfb01c889c.bindPopup(popup_0b7790f94737d26cc0b705617cc15a8f)
+        ;
+
+        
+    
+    
+            circle_marker_e2b4a439e5fd0de5464a23dfb01c889c.bindTooltip(
+                `<div>
+                     敖汉赵宝沟 (新石器时代, 4571实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_f83562ddee2717eb7c097faaffecf399 = L.circleMarker(
+                [38.1, 106.33],
+                {"bubblingMouseEvents": true, "color": "#9b59b6", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#9b59b6", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 13.224, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_40dafa9d721dafa5ef10b4966e49fdf7 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_20faa0eb80c8507c435177a5bfb088e8 = $(`<div id="html_20faa0eb80c8507c435177a5bfb088e8" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #9b59b6;">宁夏灵武窑</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 宁夏<br>                 <b>年代:</b> 魏晋南北朝<br>                 <b>标注实体数:</b> 6,612<br>                 <b>坐标:</b> 38.10°N, 106.33°E             </p>         </div>         </div>`)[0];
+                popup_40dafa9d721dafa5ef10b4966e49fdf7.setContent(html_20faa0eb80c8507c435177a5bfb088e8);
+            
+        
+
+        circle_marker_f83562ddee2717eb7c097faaffecf399.bindPopup(popup_40dafa9d721dafa5ef10b4966e49fdf7)
+        ;
+
+        
+    
+    
+            circle_marker_f83562ddee2717eb7c097faaffecf399.bindTooltip(
+                `<div>
+                     宁夏灵武窑 (魏晋南北朝, 6612实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_cf9e188f5b5de4be986f8ea0a1727aa3 = L.circleMarker(
+                [43.82, 87.62],
+                {"bubblingMouseEvents": true, "color": "#95a5a6", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#95a5a6", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.588, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_883c7020ca64199acd87c9e35cb712cc = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_38f9b406b269666ea3a8c11c5c317bc7 = $(`<div id="html_38f9b406b269666ea3a8c11c5c317bc7" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #95a5a6;">新疆考古发掘报告</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 新疆<br>                 <b>年代:</b> 待定<br>                 <b>标注实体数:</b> 3,794<br>                 <b>坐标:</b> 43.82°N, 87.62°E             </p>         </div>         </div>`)[0];
+                popup_883c7020ca64199acd87c9e35cb712cc.setContent(html_38f9b406b269666ea3a8c11c5c317bc7);
+            
+        
+
+        circle_marker_cf9e188f5b5de4be986f8ea0a1727aa3.bindPopup(popup_883c7020ca64199acd87c9e35cb712cc)
+        ;
+
+        
+    
+    
+            circle_marker_cf9e188f5b5de4be986f8ea0a1727aa3.bindTooltip(
+                `<div>
+                     新疆考古发掘报告 (待定, 3794实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_d31a0de9fc8cd2a1e2fe9d26ae401432 = L.circleMarker(
+                [40.0, 82.0],
+                {"bubblingMouseEvents": true, "color": "#95a5a6", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#95a5a6", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_e57dc7bd769b703169ada524333d3176 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_82f3ae43561f7811a9f6afd9dacf9a4d = $(`<div id="html_82f3ae43561f7811a9f6afd9dacf9a4d" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #95a5a6;">塔里木盆地考古记</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 新疆<br>                 <b>年代:</b> 待定<br>                 <b>标注实体数:</b> 211<br>                 <b>坐标:</b> 40.00°N, 82.00°E             </p>         </div>         </div>`)[0];
+                popup_e57dc7bd769b703169ada524333d3176.setContent(html_82f3ae43561f7811a9f6afd9dacf9a4d);
+            
+        
+
+        circle_marker_d31a0de9fc8cd2a1e2fe9d26ae401432.bindPopup(popup_e57dc7bd769b703169ada524333d3176)
+        ;
+
+        
+    
+    
+            circle_marker_d31a0de9fc8cd2a1e2fe9d26ae401432.bindTooltip(
+                `<div>
+                     塔里木盆地考古记 (待定, 211实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_610d1b1001c60bc0fd56f1cb8ecddff4 = L.circleMarker(
+                [42.95, 89.18],
+                {"bubblingMouseEvents": true, "color": "#95a5a6", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#95a5a6", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_113a390e4ef223b86f8b975f0597a64f = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_4b6501bac4032f79aa3a3435fad161c4 = $(`<div id="html_4b6501bac4032f79aa3a3435fad161c4" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #95a5a6;">吐鲁番考古记</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 新疆<br>                 <b>年代:</b> 待定<br>                 <b>标注实体数:</b> 7<br>                 <b>坐标:</b> 42.95°N, 89.18°E             </p>         </div>         </div>`)[0];
+                popup_113a390e4ef223b86f8b975f0597a64f.setContent(html_4b6501bac4032f79aa3a3435fad161c4);
+            
+        
+
+        circle_marker_610d1b1001c60bc0fd56f1cb8ecddff4.bindPopup(popup_113a390e4ef223b86f8b975f0597a64f)
+        ;
+
+        
+    
+    
+            circle_marker_610d1b1001c60bc0fd56f1cb8ecddff4.bindTooltip(
+                `<div>
+                     吐鲁番考古记 (待定, 7实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_35c7b103c979c99e3b4c3f6388024709 = L.circleMarker(
+                [31.15, 97.18],
+                {"bubblingMouseEvents": true, "color": "#e74c3c", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e74c3c", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.618, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_8d8cb3ffc91eaaaa7eb37625464b3151 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_d540275d5657b9ed160d4c4d35ef6343 = $(`<div id="html_d540275d5657b9ed160d4c4d35ef6343" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #e74c3c;">昌都卡若</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 西藏<br>                 <b>年代:</b> 新石器时代<br>                 <b>标注实体数:</b> 3,809<br>                 <b>坐标:</b> 31.15°N, 97.18°E             </p>         </div>         </div>`)[0];
+                popup_8d8cb3ffc91eaaaa7eb37625464b3151.setContent(html_d540275d5657b9ed160d4c4d35ef6343);
+            
+        
+
+        circle_marker_35c7b103c979c99e3b4c3f6388024709.bindPopup(popup_8d8cb3ffc91eaaaa7eb37625464b3151)
+        ;
+
+        
+    
+    
+            circle_marker_35c7b103c979c99e3b4c3f6388024709.bindTooltip(
+                `<div>
+                     昌都卡若 (新石器时代, 3809实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_d659ce160e29a819cce61972b732f7d0 = L.circleMarker(
+                [36.5, 102.12],
+                {"bubblingMouseEvents": true, "color": "#e74c3c", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e74c3c", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 11.372, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_53aaee6d8074544965d0808a5514cc99 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_0fabac1f9014184259d8f47f281be451 = $(`<div id="html_0fabac1f9014184259d8f47f281be451" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #e74c3c;">青海柳湾</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 青海<br>                 <b>年代:</b> 新石器时代<br>                 <b>标注实体数:</b> 5,686<br>                 <b>坐标:</b> 36.50°N, 102.12°E             </p>         </div>         </div>`)[0];
+                popup_53aaee6d8074544965d0808a5514cc99.setContent(html_0fabac1f9014184259d8f47f281be451);
+            
+        
+
+        circle_marker_d659ce160e29a819cce61972b732f7d0.bindPopup(popup_53aaee6d8074544965d0808a5514cc99)
+        ;
+
+        
+    
+    
+            circle_marker_d659ce160e29a819cce61972b732f7d0.bindTooltip(
+                `<div>
+                     青海柳湾 (新石器时代, 5686实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_68fc0a6df7e3c6cea3874f79ca36ac74 = L.circleMarker(
+                [30.25, 120.15],
+                {"bubblingMouseEvents": true, "color": "#34495e", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#34495e", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_f5c526a688b38524cf357677b8db4a85 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_97bdd8f89ac4ae1f4f704dcb7c27bb44 = $(`<div id="html_97bdd8f89ac4ae1f4f704dcb7c27bb44" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #34495e;">南宋官窑</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 浙江<br>                 <b>年代:</b> 宋元明清<br>                 <b>标注实体数:</b> 912<br>                 <b>坐标:</b> 30.25°N, 120.15°E             </p>         </div>         </div>`)[0];
+                popup_f5c526a688b38524cf357677b8db4a85.setContent(html_97bdd8f89ac4ae1f4f704dcb7c27bb44);
+            
+        
+
+        circle_marker_68fc0a6df7e3c6cea3874f79ca36ac74.bindPopup(popup_f5c526a688b38524cf357677b8db4a85)
+        ;
+
+        
+    
+    
+            circle_marker_68fc0a6df7e3c6cea3874f79ca36ac74.bindTooltip(
+                `<div>
+                     南宋官窑 (宋元明清, 912实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_d05a64899cf4993422403ba4566dde82 = L.circleMarker(
+                [30.67, 104.07],
+                {"bubblingMouseEvents": true, "color": "#34495e", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#34495e", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 2}
+            ).addTo(marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5);
+        
+    
+        var popup_d6e4919b73935cff2559a78f72b6ace4 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_35be55de35a8dd162b761f5d65c7b266 = $(`<div id="html_35be55de35a8dd162b761f5d65c7b266" style="width: 100.0%; height: 100.0%;">         <div style="font-family: Arial; width: 220px;">             <h4 style="margin: 0 0 8px 0; color: #34495e;">前蜀王建墓</h4>             <p style="margin: 4px 0; font-size: 12px;">                 <b>省份:</b> 四川<br>                 <b>年代:</b> 宋元明清<br>                 <b>标注实体数:</b> 444<br>                 <b>坐标:</b> 30.67°N, 104.07°E             </p>         </div>         </div>`)[0];
+                popup_d6e4919b73935cff2559a78f72b6ace4.setContent(html_35be55de35a8dd162b761f5d65c7b266);
+            
+        
+
+        circle_marker_d05a64899cf4993422403ba4566dde82.bindPopup(popup_d6e4919b73935cff2559a78f72b6ace4)
+        ;
+
+        
+    
+    
+            circle_marker_d05a64899cf4993422403ba4566dde82.bindTooltip(
+                `<div>
+                     前蜀王建墓 (宋元明清, 444实体)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            marker_cluster_3a465ac91dcfc40b3aaac3eb6bc4a7d5.addTo(map_46970f9144e5a4d8f0f7a986cd15a94c);
+        
+    
+            var heat_map_3efa45991898cb594ef9a4ff325a8ea0 = L.heatLayer(
+                [[34.7, 112.78, 15.509], [36.12, 114.32, 4.94], [36.12, 114.32, 7.69], [36.12, 114.32, 4.544], [34.77, 113.68, 2.392], [36.12, 114.32, 1.609], [34.8, 111.2, 1.749], [34.75, 111.18, 1], [34.8, 111.2, 1], [35.15, 110.78, 8.969], [34.75, 113.02, 1], [35.47, 113.68, 1], [34.62, 112.45, 2.1], [34.62, 112.45, 1.334], [34.72, 111.18, 4.594], [43.05, 119.38, 4.196], [34.62, 112.45, 6.828], [34.3, 108.88, 12.988], [34.3, 108.88, 4.862], [34.3, 108.95, 1], [34.3, 108.9, 1], [34.28, 109.05, 2.107], [34.28, 109.05, 1.302], [39.9, 116.4, 5.307], [34.3, 108.8, 13.599], [34.3, 108.75, 4.524], [34.35, 107.22, 3.07], [34.52, 109.72, 1], [34.52, 109.72, 1.88], [35.05, 108.08, 11.231], [34.28, 108.18, 2.51], [34.3, 109.05, 1], [31.72, 113.38, 10.222], [32.58, 110.78, 10.437], [31.02, 113.12, 3.232], [32.15, 112.78, 9.133], [30.35, 112.2, 3.115], [30.4, 114.88, 13.109], [35.08, 117.15, 14.605], [35.92, 117.08, 8.153], [36.28, 120.0, 3.2], [39.55, 121.62, 4.385], [37.0, 121.0, 1], [33.28, 116.55, 16.63], [33.28, 116.55, 16.226], [34.58, 105.72, 8.871], [35.55, 106.68, 4.475], [44.02, 89.18, 3.92], [40.29, 116.24, 5.735], [39.82, 116.28, 2.143], [28.2, 113.0, 1], [28.2, 113.02, 1.321], [28.2, 113.02, 1.321], [23.12, 113.3, 7.348], [23.15, 113.28, 1], [23.15, 113.28, 1], [38.95, 115.32, 1], [38.95, 115.32, 1], [36.38, 114.38, 2.356], [35.22, 111.62, 5.243], [49.22, 119.72, 9.272], [42.28, 119.88, 4.571], [38.1, 106.33, 6.612], [43.82, 87.62, 3.794], [40.0, 82.0, 1], [42.95, 89.18, 1], [31.15, 97.18, 3.809], [36.5, 102.12, 5.686], [30.25, 120.15, 1], [30.67, 104.07, 1]],
+                {
+  "minOpacity": 0.5,
+  "maxZoom": 6,
+  "radius": 15,
+  "blur": 10,
+}
+            );
+        
+    
+            heat_map_3efa45991898cb594ef9a4ff325a8ea0.addTo(map_46970f9144e5a4d8f0f7a986cd15a94c);
+        
+</script>
+</html>

@@ -1,0 +1,705 @@
+{
+  "name": "洛阳中州路",
+  "file": "洛阳中州路.pdf",
+  "era": "东周",
+  "culture": "东周墓葬",
+  "processed_pages": 13,
+  "total_entities": 111,
+  "entity_stats": {
+    "年代": 45,
+    "遗址名称": 31,
+    "遗迹类型": 2,
+    "探方编号": 2,
+    "遗迹编号": 15,
+    "陶器": 1,
+    "铜器": 2,
+    "测量数据": 9,
+    "层位关系": 4
+  },
+  "entities": {
+    "年代": [
+      {
+        "text": "元",
+        "page": 4,
+        "source": "ocr",
+        "context": "ta.       SARK 4.90 元\nEM: 《9) Geer 3.00 元"
+      },
+      {
+        "text": "元",
+        "page": 4,
+        "source": "ocr",
+        "context": "元\nEM: 《9) Geer 3.00 元\n\n"
+      },
+      {
+        "text": "西周",
+        "page": 7,
+        "source": "ocr",
+        "context": "SEARLE\n\n般代器物\n\n裔代器物\n\n西周陶器\n\nThee HEIR BR Ze\n"
+      },
+      {
+        "text": "东周",
+        "page": 7,
+        "source": "ocr",
+        "context": "hee HEIR BR Ze\n\n拾臣\n\n东周陶器\n\nRE BOAR\n\nqh\n\nFea"
+      },
+      {
+        "text": "东周",
+        "page": 7,
+        "source": "ocr",
+        "context": " SUAS\n\nPi\nce BE\n\n起\n\n东周器物\n\nRR SURES\n\nRE\nat\n"
+      },
+      {
+        "text": "西周",
+        "page": 8,
+        "source": "ocr",
+        "context": " — Hh 816 号莫出士器物\n律起”西周幕三一一第 211 SRAM EB\n串僚"
+      },
+      {
+        "text": "西周",
+        "page": 8,
+        "source": "ocr",
+        "context": "三一一第 211 SRAM EB\n串僚”西周墓坦一-第 123 640 HRW\nSE"
+      },
+      {
+        "text": "东周",
+        "page": 8,
+        "source": "ocr",
+        "context": "4,506,642 号莫出土器物\n嫂伍”东周第一期募匡一一第 2415 BERR R"
+      },
+      {
+        "text": "东周",
+        "page": 8,
+        "source": "ocr",
+        "context": "一一第 2415 BERR RE\n肆除”东周第一期幕葬- 一第 2415 SRA A"
+      },
+      {
+        "text": "东周",
+        "page": 8,
+        "source": "ocr",
+        "context": "SF MIM M 2415:18\n肆菏”东周第一期昔葛一一第 2415 HERE H"
+      },
+      {
+        "text": "东周",
+        "page": 8,
+        "source": "ocr",
+        "context": "415 HERE HI SS\nSRS ”东周第一期甘状一一第 645、.2409、2"
+      },
+      {
+        "text": "东周",
+        "page": 8,
+        "source": "ocr",
+        "context": "409、2415 绒划出土的器物\n三玖”东周第二期墓三一一第 112 号莫器物出二情"
+      },
+      {
+        "text": "东周",
+        "page": 8,
+        "source": "ocr",
+        "context": "8 6 号蓝出土铜器及其出土情形\n伍考”东周第二期莫项一一第 4.6 号辈出士器物\n"
+      },
+      {
+        "text": "东周",
+        "page": 8,
+        "source": "ocr",
+        "context": "莫项一一第 4.6 号辈出士器物\n伍臣”东周第二期幕三一一第 4 BER Hi ag"
+      },
+      {
+        "text": "东周",
+        "page": 8,
+        "source": "ocr",
+        "context": "一一第 4 BER Hi age\n伍套”东周第二期蔓碍一一第 213、216 张蔓器"
+      },
+      {
+        "text": "东周",
+        "page": 8,
+        "source": "ocr",
+        "context": "1041、212 .号蔓出士器物\n伍伍”东周第二期墓颖一一第 105 ,124、33"
+      },
+      {
+        "text": "东周",
+        "page": 8,
+        "source": "ocr",
+        "context": "05、2405 HER\n出土陶器\n伍陆”东周第三期蔓坦一一第 115 号莫出士器物\n"
+      },
+      {
+        "text": "东周",
+        "page": 8,
+        "source": "ocr",
+        "context": "蔓坦一一第 115 号莫出士器物\n伍比”东周第三期瘟辣一一第 115 、2729 号"
+      },
+      {
+        "text": "东周",
+        "page": 9,
+        "source": "ocr",
+        "context": "墓硬一一第 2717 BRAC HE\n\n东周第四期甘苦一一第 2717 eRe Hi"
+      },
+      {
+        "text": "东周",
+        "page": 9,
+        "source": "ocr",
+        "context": "第 2717 eRe Hie aie\n\n东周第四期曹硕一一第 2717 YER eA"
+      },
+      {
+        "text": "东周",
+        "page": 9,
+        "source": "ocr",
+        "context": "期曹硕一一第 2717 YER eA\n\n东周第四期曹项一一第 2717 BEREAN"
+      },
+      {
+        "text": "东周",
+        "page": 9,
+        "source": "ocr",
+        "context": " BEREAN M 2717:153\n\n东周第四期蔓磊一一第 2717 PER = "
+      },
+      {
+        "text": "东周",
+        "page": 9,
+        "source": "ocr",
+        "context": "磊一一第 2717 PER = OE\n\n东周第四期幕碍一一第 2717 BRIS E"
+      },
+      {
+        "text": "东周",
+        "page": 9,
+        "source": "ocr",
+        "context": "碍一一第 2717 BRIS ERA\n\n东周第四期莫莽一一第 2719 SERA A"
+      },
+      {
+        "text": "东周",
+        "page": 9,
+        "source": "ocr",
+        "context": "莫莽一一第 2719 SERA AR\n\n东周第四期墓磊一一第 2719 HERE s"
+      },
+      {
+        "text": "东周",
+        "page": 9,
+        "source": "ocr",
+        "context": "磊一一第 2719 HERE say\n\n东周第四期幕藉一一第 2728 贱莫陶器出土"
+      },
+      {
+        "text": "东周",
+        "page": 9,
+        "source": "ocr",
+        "context": " 2724, 2733 号募出十器物\n\n东周第五,大期昔闫一一第 128.511、."
+      },
+      {
+        "text": "东周",
+        "page": 9,
+        "source": "ocr",
+        "context": " 2738\nSRE 1H eM aS\n\n东周莫非一一第 125,481 FAB AB"
+      },
+      {
+        "text": "西周",
+        "page": 10,
+        "source": "ocr",
+        "context": "ME A            3\n十 西周陶器 …'           24\nT"
+      },
+      {
+        "text": "东周",
+        "page": 10,
+        "source": "ocr",
+        "context": "          soe Oy\n十五 东周器物 essere   29\n汪汪\nt+"
+      },
+      {
+        "text": "西周",
+        "page": 10,
+        "source": "ocr",
+        "context": "……\nTIL 第 123 PER\n=O 西周蔓出士陶器 …\n三一 西周蔓出土铜器\n三"
+      },
+      {
+        "text": "西周",
+        "page": 10,
+        "source": "ocr",
+        "context": "PER\n=O 西周蔓出士陶器 …\n三一 西周蔓出土铜器\n三二 S21 N   59\n"
+      },
+      {
+        "text": "清",
+        "page": 12,
+        "source": "ocr",
+        "context": " 1一2 BY 60 米寅道路内十墓全部清理完摊,3一15 eth\n清理了 60 "
+      },
+      {
+        "text": "清",
+        "page": 12,
+        "source": "ocr",
+        "context": "路内十墓全部清理完摊,3一15 eth\n清理了 60 米寅道路中间 30 米内的十"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "大部分地段都发现有厚狗 | 米多主要属於东周、漠代的文化堆积\nFito 但估去过交发"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "to 但估去过交发据工作量的主要部分的是东周莫, 大部的中址材料是出自墓坑口的文\n("
+      },
+      {
+        "text": "西周",
+        "page": 14,
+        "source": "ocr",
+        "context": "ES\n(中州路西工区段内)允到仰事、般\\西周,柬周\\西并\\东汪的文化堆积及居住址遗跌"
+      },
+      {
+        "text": "东周",
+        "page": 14,
+        "source": "ocr",
+        "context": ",也有不少粮索,如在灌文化居下进有发迷的东周文化层以及\nRBA BAAR.\n\nPRL"
+      },
+      {
+        "text": "元",
+        "page": 14,
+        "source": "ocr",
+        "context": "，…想公都于城\"。史结大国年才(素芷囊王元年)“取东、西周\"。通角(素正事王元\nS"
+      },
+      {
+        "text": "西周",
+        "page": 14,
+        "source": "ocr",
+        "context": "\"。史结大国年才(素芷囊王元年)“取东、西周\"。通角(素正事王元\nSELLE TS,"
+      },
+      {
+        "text": "元",
+        "page": 14,
+        "source": "ocr",
+        "context": "囊王元年)“取东、西周\"。通角(素正事王元\nSELLE TS, UEC TA PB"
+      },
+      {
+        "text": "东周",
+        "page": 15,
+        "source": "ocr",
+        "context": " 段、8 段,再向\nKitt ER.\n\n东周莫兴发据 260 Bh, 在 1一27 "
+      },
+      {
+        "text": "东周",
+        "page": 15,
+        "source": "ocr",
+        "context": "一时期的多密集在一起。常有永周全期蓝打破东周前期莫。\n\nMSR, MT FU BE "
+      },
+      {
+        "text": "明",
+        "page": 15,
+        "source": "ocr",
+        "context": "5一18 段。 AER\n儿大除外) ,现明当时到里是繁荣的居仁地,测东汉晚年适圳的"
+      },
+      {
+        "text": "东汉",
+        "page": 15,
+        "source": "ocr",
+        "context": "除外) ,现明当时到里是繁荣的居仁地,测东汉晚年适圳的部分地区已渐莞廉,因而才\nHP"
+      }
+    ],
+    "遗址名称": [
+      {
+        "text": "东周",
+        "page": 7,
+        "source": "ocr",
+        "context": "hee HEIR BR Ze\n\n拾臣\n\n东周陶器\n\nRE BOAR\n\nqh\n\nFea"
+      },
+      {
+        "text": "东周",
+        "page": 7,
+        "source": "ocr",
+        "context": " SUAS\n\nPi\nce BE\n\n起\n\n东周器物\n\nRR SURES\n\nRE\nat\n"
+      },
+      {
+        "text": "东周",
+        "page": 8,
+        "source": "ocr",
+        "context": "4,506,642 号莫出土器物\n嫂伍”东周第一期募匡一一第 2415 BERR R"
+      },
+      {
+        "text": "东周",
+        "page": 8,
+        "source": "ocr",
+        "context": "一一第 2415 BERR RE\n肆除”东周第一期幕葬- 一第 2415 SRA A"
+      },
+      {
+        "text": "东周",
+        "page": 8,
+        "source": "ocr",
+        "context": "SF MIM M 2415:18\n肆菏”东周第一期昔葛一一第 2415 HERE H"
+      },
+      {
+        "text": "东周",
+        "page": 8,
+        "source": "ocr",
+        "context": "415 HERE HI SS\nSRS ”东周第一期甘状一一第 645、.2409、2"
+      },
+      {
+        "text": "东周",
+        "page": 8,
+        "source": "ocr",
+        "context": "409、2415 绒划出土的器物\n三玖”东周第二期墓三一一第 112 号莫器物出二情"
+      },
+      {
+        "text": "东周",
+        "page": 8,
+        "source": "ocr",
+        "context": "8 6 号蓝出土铜器及其出土情形\n伍考”东周第二期莫项一一第 4.6 号辈出士器物\n"
+      },
+      {
+        "text": "东周",
+        "page": 8,
+        "source": "ocr",
+        "context": "莫项一一第 4.6 号辈出士器物\n伍臣”东周第二期幕三一一第 4 BER Hi ag"
+      },
+      {
+        "text": "东周",
+        "page": 8,
+        "source": "ocr",
+        "context": "一一第 4 BER Hi age\n伍套”东周第二期蔓碍一一第 213、216 张蔓器"
+      },
+      {
+        "text": "东周",
+        "page": 8,
+        "source": "ocr",
+        "context": "1041、212 .号蔓出士器物\n伍伍”东周第二期墓颖一一第 105 ,124、33"
+      },
+      {
+        "text": "东周",
+        "page": 8,
+        "source": "ocr",
+        "context": "05、2405 HER\n出土陶器\n伍陆”东周第三期蔓坦一一第 115 号莫出士器物\n"
+      },
+      {
+        "text": "东周",
+        "page": 8,
+        "source": "ocr",
+        "context": "蔓坦一一第 115 号莫出士器物\n伍比”东周第三期瘟辣一一第 115 、2729 号"
+      },
+      {
+        "text": "东周",
+        "page": 9,
+        "source": "ocr",
+        "context": "墓硬一一第 2717 BRAC HE\n\n东周第四期甘苦一一第 2717 eRe Hi"
+      },
+      {
+        "text": "东周",
+        "page": 9,
+        "source": "ocr",
+        "context": "第 2717 eRe Hie aie\n\n东周第四期曹硕一一第 2717 YER eA"
+      },
+      {
+        "text": "东周",
+        "page": 9,
+        "source": "ocr",
+        "context": "期曹硕一一第 2717 YER eA\n\n东周第四期曹项一一第 2717 BEREAN"
+      },
+      {
+        "text": "东周",
+        "page": 9,
+        "source": "ocr",
+        "context": " BEREAN M 2717:153\n\n东周第四期蔓磊一一第 2717 PER = "
+      },
+      {
+        "text": "东周",
+        "page": 9,
+        "source": "ocr",
+        "context": "磊一一第 2717 PER = OE\n\n东周第四期幕碍一一第 2717 BRIS E"
+      },
+      {
+        "text": "东周",
+        "page": 9,
+        "source": "ocr",
+        "context": "碍一一第 2717 BRIS ERA\n\n东周第四期莫莽一一第 2719 SERA A"
+      },
+      {
+        "text": "东周",
+        "page": 9,
+        "source": "ocr",
+        "context": "莫莽一一第 2719 SERA AR\n\n东周第四期墓磊一一第 2719 HERE s"
+      },
+      {
+        "text": "东周",
+        "page": 9,
+        "source": "ocr",
+        "context": "磊一一第 2719 HERE say\n\n东周第四期幕藉一一第 2728 贱莫陶器出土"
+      },
+      {
+        "text": "东周",
+        "page": 9,
+        "source": "ocr",
+        "context": " 2724, 2733 号募出十器物\n\n东周第五,大期昔闫一一第 128.511、."
+      },
+      {
+        "text": "东周",
+        "page": 9,
+        "source": "ocr",
+        "context": " 2738\nSRE 1H eM aS\n\n东周莫非一一第 125,481 FAB AB"
+      },
+      {
+        "text": "东周",
+        "page": 10,
+        "source": "ocr",
+        "context": "          soe Oy\n十五 东周器物 essere   29\n汪汪\nt+"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "大部分地段都发现有厚狗 | 米多主要属於东周、漠代的文化堆积\nFito 但估去过交发"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "to 但估去过交发据工作量的主要部分的是东周莫, 大部的中址材料是出自墓坑口的文\n("
+      },
+      {
+        "text": "洛阳",
+        "page": 14,
+        "source": "ocr",
+        "context": "在地下(郭\nHERI: “1954 年春洛阳西郊发所报告\" 考古池报 1956 年 "
+      },
+      {
+        "text": "东周",
+        "page": 14,
+        "source": "ocr",
+        "context": ",也有不少粮索,如在灌文化居下进有发迷的东周文化层以及\nRBA BAAR.\n\nPRL"
+      },
+      {
+        "text": "洛阳",
+        "page": 15,
+        "source": "ocr",
+        "context": "洛阳中州路(西工段)\n\nPETA Pa Bi"
+      },
+      {
+        "text": "东周",
+        "page": 15,
+        "source": "ocr",
+        "context": " 段、8 段,再向\nKitt ER.\n\n东周莫兴发据 260 Bh, 在 1一27 "
+      },
+      {
+        "text": "东周",
+        "page": 15,
+        "source": "ocr",
+        "context": "一时期的多密集在一起。常有永周全期蓝打破东周前期莫。\n\nMSR, MT FU BE "
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "灰坑",
+        "page": 7,
+        "source": "ocr",
+        "context": "D Ly\n\n{ified} 3s 4 号灰坑出土陶器\n\n仰表文化一一探琶 101、1"
+      },
+      {
+        "text": "灰坑",
+        "page": 7,
+        "source": "ocr",
+        "context": "AY Bey\n仰一芭化一一第 102 号灰坑出土的陶器\n\nBett-— 第 103 "
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T1604",
+        "page": 9,
+        "source": "ocr",
+        "context": "B 804 乙、807 FA, 807 T1604 HERE Bay\n\nBEAR BE 5"
+      },
+      {
+        "text": "T1104",
+        "page": 10,
+        "source": "ocr",
+        "context": "    48\n\n一6一\n\n二五1，网带钓T1104:015 2. SB\n\n4H M603 "
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "T1604",
+        "page": 9,
+        "source": "ocr",
+        "context": "B 804 乙、807 FA, 807 T1604 HERE Bay\n\nBEAR BE 5"
+      },
+      {
+        "text": "M603",
+        "page": 10,
+        "source": "ocr",
+        "context": "T1104:015 2. SB\n\n4H M603 上:06 +\n=A SARA\n二七 B"
+      },
+      {
+        "text": "S21",
+        "page": 10,
+        "source": "ocr",
+        "context": "士陶器 …\n三一 西周蔓出土铜器\n三二 S21 N   59\n三三 FRB MB162"
+      },
+      {
+        "text": "M328",
+        "page": 10,
+        "source": "ocr",
+        "context": "      Cs\nSa neem 《 (M328)\n三六 WES --\n三七 BRARB"
+      },
+      {
+        "text": "M2205:2",
+        "page": 10,
+        "source": "ocr",
+        "context": "5\n\n50\n50\n+ 52\n\n三 Me M2205:2\n四四 PSE M1418:2 …\nWe"
+      },
+      {
+        "text": "M1418:2",
+        "page": 10,
+        "source": "ocr",
+        "context": "三 Me M2205:2\n四四 PSE M1418:2 …\nWe Me …\n四六 PER …\n"
+      },
+      {
+        "text": "M326:4",
+        "page": 11,
+        "source": "ocr",
+        "context": "         78\n五六 MURR M326:4…               78\nT"
+      },
+      {
+        "text": "M2717",
+        "page": 11,
+        "source": "ocr",
+        "context": "的纹饰 …    90\n六一 GARR M2717: 103              9"
+      },
+      {
+        "text": "M2415",
+        "page": 11,
+        "source": "ocr",
+        "context": "  … 96\n天四 1 ABET AU M2415:\n\n18 -             "
+      },
+      {
+        "text": "M2717",
+        "page": 11,
+        "source": "ocr",
+        "context": "   ~ 97\nAdi IL RMN\n\nM2717: 31 vse            "
+      },
+      {
+        "text": "M115:30",
+        "page": 11,
+        "source": "ocr",
+        "context": "        98\nAA SRl¥8 M115:30           98\n天七 He "
+      },
+      {
+        "text": "M2719",
+        "page": 11,
+        "source": "ocr",
+        "context": "播  图  EI  &&\n\nA= 1. M2719: 10 2. 王骼\nWOM 2737:"
+      },
+      {
+        "text": "M2717:628",
+        "page": 11,
+        "source": "ocr",
+        "context": " 272921 2b 15\n\nABER M2717:628 me     115\n从六 GL GE"
+      },
+      {
+        "text": "M711:1",
+        "page": 11,
+        "source": "ocr",
+        "context": " pe 195\n\n一O〇五 1. 9} M711:1 2. may\nSM 708:69 « "
+      },
+      {
+        "text": "G18",
+        "page": 14,
+        "source": "ocr",
+        "context": " SUG LMR ALAR IE RT G18 SLM SEIT RT RE THA\n"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "豆",
+        "page": 10,
+        "source": "ocr",
+        "context": " Me …\n四六 PER …\n四七 无盖豆 …\nWA ee …\nBA Mie …\n"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "豆",
+        "page": 10,
+        "source": "ocr",
+        "context": " Me …\n四六 PER …\n四七 无盖豆 …\nWA ee …\nBA Mie …\n"
+      },
+      {
+        "text": "饰",
+        "page": 11,
+        "source": "ocr",
+        "context": "     89\nLIL 铀器及其附件的纹饰 …    90\n六一 GARR M27"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": "628 m",
+        "page": 11,
+        "source": "ocr",
+        "context": "1 2b 15\n\nABER M2717:628 me     115\n从六 GL GEA "
+      },
+      {
+        "text": " 2. m",
+        "page": 11,
+        "source": "ocr",
+        "context": "5\n\n一O〇五 1. 9} M711:1 2. may\nSM 708:69 «      "
+      },
+      {
+        "text": " 60 米",
+        "page": 12,
+        "source": "ocr",
+        "context": ",分成33 段: [15\n段,每段长富各 60 米; 16一52 BL, ABR 100,"
+      },
+      {
+        "text": " 30 米",
+        "page": 12,
+        "source": "ocr",
+        "context": " FH 302K; 53 段长 50，寅 30 米。郑十研究\n所方面负责 1一27 段,河"
+      },
+      {
+        "text": "100 米",
+        "page": 12,
+        "source": "ocr",
+        "context": " ~ BEART TE,\n\nFER 2,100 米的 27 段路面中, 1一2 BY 60"
+      },
+      {
+        "text": " 60 米",
+        "page": 12,
+        "source": "ocr",
+        "context": "0 米的 27 段路面中, 1一2 BY 60 米寅道路内十墓全部清理完摊,3一15 et"
+      },
+      {
+        "text": " 60 米",
+        "page": 12,
+        "source": "ocr",
+        "context": "墓全部清理完摊,3一15 eth\n清理了 60 米寅道路中间 30 米内的十幕。在潢路范围"
+      },
+      {
+        "text": " 30 米",
+        "page": 12,
+        "source": "ocr",
+        "context": "15 eth\n清理了 60 米寅道路中间 30 米内的十幕。在潢路范围内计发据有仰贡文化以"
+      },
+      {
+        "text": "400 米",
+        "page": 14,
+        "source": "ocr",
+        "context": "1,460 ok RIAL EEA 1,400 米;,城基都埋藏在地下(郭\nHERI: “"
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "堆积",
+        "page": 12,
+        "source": "ocr",
+        "context": " PNY ARGO, 主要在城精及其附近堆积(见郭裤多等, 1954 年举治\n阳西郊"
+      },
+      {
+        "text": "堆积",
+        "page": 12,
+        "source": "ocr",
+        "context": "有厚狗 | 米多主要属於东周、漠代的文化堆积\nFito 但估去过交发据工作量的主要部"
+      },
+      {
+        "text": "堆积",
+        "page": 14,
+        "source": "ocr",
+        "context": "到仰事、般\\西周,柬周\\西并\\东汪的文化堆积及居住址遗跌,以及\nA005 JB) I"
+      },
+      {
+        "text": "打破",
+        "page": 15,
+        "source": "ocr",
+        "context": "且同一时期的多密集在一起。常有永周全期蓝打破东周前期莫。\n\nMSR, MT FU B"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1182 @@
+{
+  "name": "西安郊区隋唐墓",
+  "file": "西安郊区隋唐墓.pdf",
+  "era": "隋唐",
+  "culture": "隋唐墓葬",
+  "processed_pages": 15,
+  "total_entities": 192,
+  "entity_stats": {
+    "测量数据": 9,
+    "年代": 33,
+    "遗迹编号": 142,
+    "铜器": 4,
+    "材质": 3,
+    "遗址名称": 1
+  },
+  "entities": {
+    "测量数据": [
+      {
+        "text": "8\nm",
+        "page": 3,
+        "source": "ocr",
+        "context": "\n1966 6 ABH NER 9 1/8\nmem: 1一910    Mewes\nM"
+      },
+      {
+        "text": " 6 米",
+        "page": 12,
+        "source": "ocr",
+        "context": "以北, 地势\n低平。村北高地有断崖,高达 6 米以上;荃苦即分布在崖头之上。\n\n张家坡在"
+      },
+      {
+        "text": "1021\nm",
+        "page": 13,
+        "source": "ocr",
+        "context": "-3\" m2 | 593   ”   M1021\nm4 || 550   ”   M10 |"
+      },
+      {
+        "text": " 12 m",
+        "page": 13,
+        "source": "ocr",
+        "context": " M67 |‖ 601 | 57004. 12 mia\nM370| 558   ”    "
+      },
+      {
+        "text": "高 0.46 米",
+        "page": 14,
+        "source": "ocr",
+        "context": "为甬道,长 0.60， 宽 0.92， 高 0.46 米，甬道口有士坯封门痕迹。 墓室东西宽 1"
+      },
+      {
+        "text": "高 0.87 米",
+        "page": 14,
+        "source": "ocr",
+        "context": "室东西宽 1.96, 南北\n长1.16,高 0.87 米。室内有人架三具,头秋向西,一具较完整,"
+      },
+      {
+        "text": "深 2.66米",
+        "page": 14,
+        "source": "ocr",
+        "context": "于墓室西长,长 1.90,宽\n0.80,深 2.66米。莫室东西宽 2.28,南北长 1.10"
+      },
+      {
+        "text": " 0.94 米",
+        "page": 14,
+        "source": "ocr",
+        "context": "10一1.24 K, RM BMI, B 0.94 米。所出陶\n5K 113 LEM, TH "
+      },
+      {
+        "text": "高1.50 米",
+        "page": 14,
+        "source": "ocr",
+        "context": "甫道,甬道长 0.60,宽 1.10, 高1.50 米。幕道作斜\n|             "
+      }
+    ],
+    "年代": [
+      {
+        "text": "隋",
+        "page": 3,
+        "source": "ocr",
+        "context": "挛\n和发展的规律。这批责料的发表,给研究隋唐时代的生产水平、社会生活和\n意识形志等"
+      },
+      {
+        "text": "唐",
+        "page": 3,
+        "source": "ocr",
+        "context": "\n和发展的规律。这批责料的发表,给研究隋唐时代的生产水平、社会生活和\n意识形志等方"
+      },
+      {
+        "text": "隋",
+        "page": 3,
+        "source": "ocr",
+        "context": "形志等方面,提供了可费的笑物南料,对研究隋唐考古和随唐历史具有\n一定的参考价值。\n"
+      },
+      {
+        "text": "唐",
+        "page": 3,
+        "source": "ocr",
+        "context": "志等方面,提供了可费的笑物南料,对研究隋唐考古和随唐历史具有\n一定的参考价值。\n\n"
+      },
+      {
+        "text": "唐",
+        "page": 3,
+        "source": "ocr",
+        "context": "提供了可费的笑物南料,对研究隋唐考古和随唐历史具有\n一定的参考价值。\n\n内答包括:"
+      },
+      {
+        "text": "隋",
+        "page": 3,
+        "source": "ocr",
+        "context": "幕型的芝异,这批草草分为三期。\n第一期为隋至初唐,第二期为疏唐时期,第三期为中,晚"
+      },
+      {
+        "text": "唐",
+        "page": 3,
+        "source": "ocr",
+        "context": "芝异,这批草草分为三期。\n第一期为隋至初唐,第二期为疏唐时期,第三期为中,晚唐时期"
+      },
+      {
+        "text": "唐",
+        "page": 3,
+        "source": "ocr",
+        "context": "分为三期。\n第一期为隋至初唐,第二期为疏唐时期,第三期为中,晚唐时期。\n\nBRER"
+      },
+      {
+        "text": "唐",
+        "page": 3,
+        "source": "ocr",
+        "context": "至初唐,第二期为疏唐时期,第三期为中,晚唐时期。\n\nBRERA eH\n\n中国田野考"
+      },
+      {
+        "text": "元",
+        "page": 3,
+        "source": "ocr",
+        "context": "3460 。11\n。 MRA 3.70 元\n定价。 报纸平装本 2.50 5\n"
+      },
+      {
+        "text": "隋",
+        "page": 11,
+        "source": "ocr",
+        "context": "绪 寺\n\n西必是隋、唐两代都域的所在地。 从公元六世纪八十"
+      },
+      {
+        "text": "唐",
+        "page": 11,
+        "source": "ocr",
+        "context": "绪 寺\n\n西必是隋、唐两代都域的所在地。 从公元六世纪八十年代"
+      },
+      {
+        "text": "元",
+        "page": 11,
+        "source": "ocr",
+        "context": "\n\n西必是隋、唐两代都域的所在地。 从公元六世纪八十年代到十世纪初,其地一直是全\n"
+      },
+      {
+        "text": "隋",
+        "page": 11,
+        "source": "ocr",
+        "context": "因而,在西安及其近郊, 不仅有规模很大的隋唐遗址, 而且\nACHR OR ICP "
+      },
+      {
+        "text": "唐",
+        "page": 11,
+        "source": "ocr",
+        "context": "而,在西安及其近郊, 不仅有规模很大的隋唐遗址, 而且\nACHR OR ICP A"
+      },
+      {
+        "text": "隋",
+        "page": 11,
+        "source": "ocr",
+        "context": "等方面,都将提供丰富的实物资料。\n\n这批隋唐墓是在西安东郊和西郊发掘的, 共 17"
+      },
+      {
+        "text": "唐",
+        "page": 11,
+        "source": "ocr",
+        "context": "方面,都将提供丰富的实物资料。\n\n这批隋唐墓是在西安东郊和西郊发掘的, 共 175"
+      },
+      {
+        "text": "隋",
+        "page": 11,
+        "source": "ocr",
+        "context": " 23 座(图一)。\n\n图一 ”西安郊区隋唐墓地位置图\n(一) 东郊摹地\n\n西安东"
+      },
+      {
+        "text": "唐",
+        "page": 11,
+        "source": "ocr",
+        "context": "23 座(图一)。\n\n图一 ”西安郊区隋唐墓地位置图\n(一) 东郊摹地\n\n西安东好"
+      },
+      {
+        "text": "隋",
+        "page": 12,
+        "source": "ocr",
+        "context": "西安郊区隋唐幕\n\n载,故知原上在唐代有\"“尝义乡”"
+      },
+      {
+        "text": "唐",
+        "page": 12,
+        "source": "ocr",
+        "context": "西安郊区隋唐幕\n\n载,故知原上在唐代有\"“尝义乡”的"
+      },
+      {
+        "text": "唐",
+        "page": 12,
+        "source": "ocr",
+        "context": "西安郊区隋唐幕\n\n载,故知原上在唐代有\"“尝义乡”的属地。\n\n韩森案在沪河"
+      },
+      {
+        "text": "隋",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n韩森案在沪河西岸,为龙首原之东南龙; 隋唐时所谓长乐坡,当在其地5。此处离长\n疼"
+      },
+      {
+        "text": "唐",
+        "page": 12,
+        "source": "ocr",
+        "context": "韩森案在沪河西岸,为龙首原之东南龙; 隋唐时所谓长乐坡,当在其地5。此处离长\n疼城"
+      },
+      {
+        "text": "隋",
+        "page": 12,
+        "source": "ocr",
+        "context": "较集中的地区。根据出土墓志记载, 此处在隋代, 有大兴县宁安乡\n的属地;在唐代,则"
+      },
+      {
+        "text": "唐",
+        "page": 12,
+        "source": "ocr",
+        "context": "此处在隋代, 有大兴县宁安乡\n的属地;在唐代,则分局于沪川,长乐.霸城,崇义等乡。"
+      },
+      {
+        "text": "明",
+        "page": 12,
+        "source": "ocr",
+        "context": "霸城,崇义等乡。\n\n自长安城出通化门或春明门,便是当时东西的交通大道;道经长乐坡,"
+      },
+      {
+        "text": "唐",
+        "page": 12,
+        "source": "ocr",
+        "context": "势优越,而且交通方便,是较为理想的墓地。唐人赵微明诗;“寒日项上明,潜站郭东路;\n"
+      },
+      {
+        "text": "明",
+        "page": 12,
+        "source": "ocr",
+        "context": "而且交通方便,是较为理想的墓地。唐人赵微明诗;“寒日项上明,潜站郭东路;\nKEES"
+      },
+      {
+        "text": "明",
+        "page": 12,
+        "source": "ocr",
+        "context": "较为理想的墓地。唐人赵微明诗;“寒日项上明,潜站郭东路;\nKEES, SRT. P"
+      },
+      {
+        "text": "清",
+        "page": 12,
+        "source": "ocr",
+        "context": "莫是由中国科学院考古研究所西安研究室发掘清理的,套加发掘的有程守申,杨\nBI SB"
+      },
+      {
+        "text": "清",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n蔓,则是在 1956、1957 两年中清理出来的,其中部分墓的原始资料不全， 因"
+      },
+      {
+        "text": "隋",
+        "page": 14,
+        "source": "ocr",
+        "context": "根据出土器物(包括阶五铁三枚)考察,当为隋蔓。\n二式 1座。\n蔓 109(图三) "
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "M109",
+        "page": 6,
+        "source": "ocr",
+        "context": "He Het BS\n113 平、剂面图\nM109 平、剂面图 …\n#418 平、剂面图 "
+      },
+      {
+        "text": "M2",
+        "page": 13,
+        "source": "ocr",
+        "context": "|57010. 80Ie Mi\n\nMi\nM2\nM3\nMS\nM7\nM23\nM32\nM3"
+      },
+      {
+        "text": "M3",
+        "page": 13,
+        "source": "ocr",
+        "context": "010. 80Ie Mi\n\nMi\nM2\nM3\nMS\nM7\nM23\nM32\nM33\nM"
+      },
+      {
+        "text": "M7",
+        "page": 13,
+        "source": "ocr",
+        "context": "0Ie Mi\n\nMi\nM2\nM3\nMS\nM7\nM23\nM32\nM33\nM38\nM51"
+      },
+      {
+        "text": "M23",
+        "page": 13,
+        "source": "ocr",
+        "context": " Mi\n\nMi\nM2\nM3\nMS\nM7\nM23\nM32\nM33\nM38\nM51\nM55"
+      },
+      {
+        "text": "M32",
+        "page": 13,
+        "source": "ocr",
+        "context": "\nMi\nM2\nM3\nMS\nM7\nM23\nM32\nM33\nM38\nM51\nM55\nMI1"
+      },
+      {
+        "text": "M33",
+        "page": 13,
+        "source": "ocr",
+        "context": "M2\nM3\nMS\nM7\nM23\nM32\nM33\nM38\nM51\nM55\nMI1I7\nM"
+      },
+      {
+        "text": "M38",
+        "page": 13,
+        "source": "ocr",
+        "context": "3\nMS\nM7\nM23\nM32\nM33\nM38\nM51\nM55\nMI1I7\nM206\n"
+      },
+      {
+        "text": "M51",
+        "page": 13,
+        "source": "ocr",
+        "context": "\nM7\nM23\nM32\nM33\nM38\nM51\nM55\nMI1I7\nM206\nM226"
+      },
+      {
+        "text": "M55",
+        "page": 13,
+        "source": "ocr",
+        "context": "M23\nM32\nM33\nM38\nM51\nM55\nMI1I7\nM206\nM226\nM22"
+      },
+      {
+        "text": "M206",
+        "page": 13,
+        "source": "ocr",
+        "context": "3\nM38\nM51\nM55\nMI1I7\nM206\nM226\nM227\nM49\nM1414"
+      },
+      {
+        "text": "M226",
+        "page": 13,
+        "source": "ocr",
+        "context": "\nM51\nM55\nMI1I7\nM206\nM226\nM227\nM49\nM1414\nM205"
+      },
+      {
+        "text": "M227",
+        "page": 13,
+        "source": "ocr",
+        "context": "M55\nMI1I7\nM206\nM226\nM227\nM49\nM1414\nM205\nM214"
+      },
+      {
+        "text": "M49",
+        "page": 13,
+        "source": "ocr",
+        "context": "I1I7\nM206\nM226\nM227\nM49\nM1414\nM205\nM214\nM17"
+      },
+      {
+        "text": "M1414",
+        "page": 13,
+        "source": "ocr",
+        "context": "\nM206\nM226\nM227\nM49\nM1414\nM205\nM214\nM172\nM190"
+      },
+      {
+        "text": "M205",
+        "page": 13,
+        "source": "ocr",
+        "context": "M226\nM227\nM49\nM1414\nM205\nM214\nM172\nM190\nM194"
+      },
+      {
+        "text": "M214",
+        "page": 13,
+        "source": "ocr",
+        "context": "M227\nM49\nM1414\nM205\nM214\nM172\nM190\nM194\nM195"
+      },
+      {
+        "text": "M172",
+        "page": 13,
+        "source": "ocr",
+        "context": "M49\nM1414\nM205\nM214\nM172\nM190\nM194\nM195\nM197"
+      },
+      {
+        "text": "M190",
+        "page": 13,
+        "source": "ocr",
+        "context": "1414\nM205\nM214\nM172\nM190\nM194\nM195\nM197\nM401"
+      },
+      {
+        "text": "M194",
+        "page": 13,
+        "source": "ocr",
+        "context": "M205\nM214\nM172\nM190\nM194\nM195\nM197\nM401\nM407"
+      },
+      {
+        "text": "M195",
+        "page": 13,
+        "source": "ocr",
+        "context": "M214\nM172\nM190\nM194\nM195\nM197\nM401\nM407\nM408"
+      },
+      {
+        "text": "M197",
+        "page": 13,
+        "source": "ocr",
+        "context": "M172\nM190\nM194\nM195\nM197\nM401\nM407\nM408\nM409"
+      },
+      {
+        "text": "M401",
+        "page": 13,
+        "source": "ocr",
+        "context": "M190\nM194\nM195\nM197\nM401\nM407\nM408\nM409\nM410"
+      },
+      {
+        "text": "M407",
+        "page": 13,
+        "source": "ocr",
+        "context": "M194\nM195\nM197\nM401\nM407\nM408\nM409\nM410\nM432"
+      },
+      {
+        "text": "M408",
+        "page": 13,
+        "source": "ocr",
+        "context": "M195\nM197\nM401\nM407\nM408\nM409\nM410\nM432\nM445"
+      },
+      {
+        "text": "M409",
+        "page": 13,
+        "source": "ocr",
+        "context": "M197\nM401\nM407\nM408\nM409\nM410\nM432\nM445\nM461"
+      },
+      {
+        "text": "M410",
+        "page": 13,
+        "source": "ocr",
+        "context": "M401\nM407\nM408\nM409\nM410\nM432\nM445\nM461\nM472"
+      },
+      {
+        "text": "M432",
+        "page": 13,
+        "source": "ocr",
+        "context": "M407\nM408\nM409\nM410\nM432\nM445\nM461\nM472\nM481"
+      },
+      {
+        "text": "M445",
+        "page": 13,
+        "source": "ocr",
+        "context": "M408\nM409\nM410\nM432\nM445\nM461\nM472\nM481\nM483"
+      },
+      {
+        "text": "M461",
+        "page": 13,
+        "source": "ocr",
+        "context": "M409\nM410\nM432\nM445\nM461\nM472\nM481\nM483\nM102"
+      },
+      {
+        "text": "M472",
+        "page": 13,
+        "source": "ocr",
+        "context": "M410\nM432\nM445\nM461\nM472\nM481\nM483\nM102\nM103"
+      },
+      {
+        "text": "M481",
+        "page": 13,
+        "source": "ocr",
+        "context": "M432\nM445\nM461\nM472\nM481\nM483\nM102\nM103\nM202"
+      },
+      {
+        "text": "M483",
+        "page": 13,
+        "source": "ocr",
+        "context": "M445\nM461\nM472\nM481\nM483\nM102\nM103\nM202\nM203"
+      },
+      {
+        "text": "M102",
+        "page": 13,
+        "source": "ocr",
+        "context": "M461\nM472\nM481\nM483\nM102\nM103\nM202\nM203\nM045"
+      },
+      {
+        "text": "M103",
+        "page": 13,
+        "source": "ocr",
+        "context": "M472\nM481\nM483\nM102\nM103\nM202\nM203\nM045\nM046"
+      },
+      {
+        "text": "M202",
+        "page": 13,
+        "source": "ocr",
+        "context": "M481\nM483\nM102\nM103\nM202\nM203\nM045\nM046\nM047"
+      },
+      {
+        "text": "M203",
+        "page": 13,
+        "source": "ocr",
+        "context": "M483\nM102\nM103\nM202\nM203\nM045\nM046\nM047\n\n408"
+      },
+      {
+        "text": "M045",
+        "page": 13,
+        "source": "ocr",
+        "context": "M102\nM103\nM202\nM203\nM045\nM046\nM047\n\n408\n\n410"
+      },
+      {
+        "text": "M046",
+        "page": 13,
+        "source": "ocr",
+        "context": "M103\nM202\nM203\nM045\nM046\nM047\n\n408\n\n410\n411\n"
+      },
+      {
+        "text": "M047",
+        "page": 13,
+        "source": "ocr",
+        "context": "M202\nM203\nM045\nM046\nM047\n\n408\n\n410\n411\n412\na"
+      },
+      {
+        "text": "M3",
+        "page": 13,
+        "source": "ocr",
+        "context": "3(6)光\n\n57013K关>光 18 M3\n57013K太>光 9 MI\n5701"
+      },
+      {
+        "text": "M3",
+        "page": 13,
+        "source": "ocr",
+        "context": " 9 MI\n57013¢5)48 9* M3\n\n57013<印> 9®\n57013 "
+      },
+      {
+        "text": "S7013",
+        "page": 13,
+        "source": "ocr",
+        "context": "> 9®\n57013 生\n\n57013\nS7013¢ED> HE\n56001 - 148\n"
+      },
+      {
+        "text": "M2",
+        "page": 13,
+        "source": "ocr",
+        "context": "67 | 57004 . 3\" 177\nM2      524         ” "
+      },
+      {
+        "text": "M3",
+        "page": 13,
+        "source": "ocr",
+        "context": "    ”         MI178\nM3 || 525   ”    M262 "
+      },
+      {
+        "text": "M262",
+        "page": 13,
+        "source": "ocr",
+        "context": "78\nM3 || 525   ”    M262 | 569   ”    M192\nM"
+      },
+      {
+        "text": "M192",
+        "page": 13,
+        "source": "ocr",
+        "context": "  M262 | 569   ”    M192\nM3 || 526          "
+      },
+      {
+        "text": "M3",
+        "page": 13,
+        "source": "ocr",
+        "context": "2 | 569   ”    M192\nM3 || 526            ”"
+      },
+      {
+        "text": "M265",
+        "page": 13,
+        "source": "ocr",
+        "context": "      ”             M265 || 570            ”"
+      },
+      {
+        "text": "M209",
+        "page": 13,
+        "source": "ocr",
+        "context": "      ”             M209\nM3 | 527   ”    M30"
+      },
+      {
+        "text": "M3",
+        "page": 13,
+        "source": "ocr",
+        "context": " ”             M209\nM3 | 527   ”    M303 |"
+      },
+      {
+        "text": "M303",
+        "page": 13,
+        "source": "ocr",
+        "context": "209\nM3 | 527   ”    M303 | 571    ”    M223\n"
+      },
+      {
+        "text": "M223",
+        "page": 13,
+        "source": "ocr",
+        "context": " M303 | 571    ”    M223\nM4 | 528   ”    M30"
+      },
+      {
+        "text": "M4",
+        "page": 13,
+        "source": "ocr",
+        "context": " | 571    ”    M223\nM4 | 528   ”    M304 |"
+      },
+      {
+        "text": "M304",
+        "page": 13,
+        "source": "ocr",
+        "context": "223\nM4 | 528   ”    M304 | 572   ”    M225\nM"
+      },
+      {
+        "text": "M225",
+        "page": 13,
+        "source": "ocr",
+        "context": "  M304 | 572   ”    M225\nM5 || 529   ”    M3"
+      },
+      {
+        "text": "M5",
+        "page": 13,
+        "source": "ocr",
+        "context": "4 | 572   ”    M225\nM5 || 529   ”    M305 "
+      },
+      {
+        "text": "M305",
+        "page": 13,
+        "source": "ocr",
+        "context": "25\nM5 || 529   ”    M305 || 573   ”    M229\n"
+      },
+      {
+        "text": "M229",
+        "page": 13,
+        "source": "ocr",
+        "context": " M305 || 573   ”    M229\n530   ”    M307 | 5"
+      },
+      {
+        "text": "M307",
+        "page": 13,
+        "source": "ocr",
+        "context": "    M229\n530   ”    M307 | 574   ”    M230\n5"
+      },
+      {
+        "text": "M230",
+        "page": 13,
+        "source": "ocr",
+        "context": "  M307 | 574   ”    M230\n531    ”    M325 ‖ "
+      },
+      {
+        "text": "M325",
+        "page": 13,
+        "source": "ocr",
+        "context": "   M230\n531    ”    M325 ‖ 575   ”    M236\n5"
+      },
+      {
+        "text": "M236",
+        "page": 13,
+        "source": "ocr",
+        "context": "  M325 ‖ 575   ”    M236\n532   ”    M402 | 5"
+      },
+      {
+        "text": "M402",
+        "page": 13,
+        "source": "ocr",
+        "context": "    M236\n532   ”    M402 | 576   ”    M238\nM"
+      },
+      {
+        "text": "M238",
+        "page": 13,
+        "source": "ocr",
+        "context": "  M402 | 576   ”    M238\nM4 |‖ 533   ”    M4"
+      },
+      {
+        "text": "M4",
+        "page": 13,
+        "source": "ocr",
+        "context": "2 | 576   ”    M238\nM4 |‖ 533   ”    M408 "
+      },
+      {
+        "text": "M408",
+        "page": 13,
+        "source": "ocr",
+        "context": "38\nM4 |‖ 533   ”    M408 || 577   ”    M243\n"
+      },
+      {
+        "text": "M243",
+        "page": 13,
+        "source": "ocr",
+        "context": " M408 || 577   ”    M243\nM5 || 534   ”    M4"
+      },
+      {
+        "text": "M5",
+        "page": 13,
+        "source": "ocr",
+        "context": " || 577   ”    M243\nM5 || 534   ”    M461 "
+      },
+      {
+        "text": "M461",
+        "page": 13,
+        "source": "ocr",
+        "context": "43\nM5 || 534   ”    M461  578   ”    M265\nMi"
+      },
+      {
+        "text": "M265",
+        "page": 13,
+        "source": "ocr",
+        "context": "   M461  578   ”    M265\nMi2 | 535    ”    M"
+      },
+      {
+        "text": "M524",
+        "page": 13,
+        "source": "ocr",
+        "context": "5\nMi2 | 535    ”    M524 | 579    ”    M269\n"
+      },
+      {
+        "text": "M269",
+        "page": 13,
+        "source": "ocr",
+        "context": " M524 | 579    ”    M269\nM2 || 536   ”    M5"
+      },
+      {
+        "text": "M2",
+        "page": 13,
+        "source": "ocr",
+        "context": " | 579    ”    M269\nM2 || 536   ”    M526 "
+      },
+      {
+        "text": "M526",
+        "page": 13,
+        "source": "ocr",
+        "context": "69\nM2 || 536   ”    M526 | 580   ”    M270\nM"
+      },
+      {
+        "text": "M270",
+        "page": 13,
+        "source": "ocr",
+        "context": "  M526 | 580   ”    M270\nM3 || 537    ”    M"
+      },
+      {
+        "text": "M3",
+        "page": 13,
+        "source": "ocr",
+        "context": "6 | 580   ”    M270\nM3 || 537    ”    M527"
+      },
+      {
+        "text": "M527",
+        "page": 13,
+        "source": "ocr",
+        "context": "0\nM3 || 537    ”    M527 |) 581    ”    M280"
+      },
+      {
+        "text": "M280",
+        "page": 13,
+        "source": "ocr",
+        "context": "M527 |) 581    ”    M280\nM4   538   ”    M33"
+      },
+      {
+        "text": "M4",
+        "page": 13,
+        "source": "ocr",
+        "context": "|) 581    ”    M280\nM4   538   ”    M334  "
+      },
+      {
+        "text": "M334",
+        "page": 13,
+        "source": "ocr",
+        "context": "280\nM4   538   ”    M334  582    ”    M290\nM"
+      },
+      {
+        "text": "M290",
+        "page": 13,
+        "source": "ocr",
+        "context": "  M334  582    ”    M290\nMS | 539   ”   M604"
+      },
+      {
+        "text": "M604",
+        "page": 13,
+        "source": "ocr",
+        "context": "M290\nMS | 539   ”   M604 | 533 | 57004. ss M"
+      },
+      {
+        "text": "M6",
+        "page": 13,
+        "source": "ocr",
+        "context": " 533 | 57004. ss MI\nM6   540   ”    M608 |"
+      },
+      {
+        "text": "M608",
+        "page": 13,
+        "source": "ocr",
+        "context": " MI\nM6   540   ”    M608 | 584    ”    M2\nM7"
+      },
+      {
+        "text": "M2",
+        "page": 13,
+        "source": "ocr",
+        "context": " M608 | 584    ”    M2\nM7 | 541   ”   M614"
+      },
+      {
+        "text": "M7",
+        "page": 13,
+        "source": "ocr",
+        "context": "08 | 584    ”    M2\nM7 | 541   ”   M614 ||"
+      },
+      {
+        "text": "M614",
+        "page": 13,
+        "source": "ocr",
+        "context": "  M2\nM7 | 541   ”   M614 || 585   ”   M4\nM12"
+      },
+      {
+        "text": "M4",
+        "page": 13,
+        "source": "ocr",
+        "context": "  M614 || 585   ”   M4\nM12 || 542   ”    M"
+      },
+      {
+        "text": "M12",
+        "page": 13,
+        "source": "ocr",
+        "context": "614 || 585   ”   M4\nM12 || 542   ”    M615 "
+      },
+      {
+        "text": "M615",
+        "page": 13,
+        "source": "ocr",
+        "context": "4\nM12 || 542   ”    M615 | 586   ”    MS\nMI "
+      },
+      {
+        "text": "M627",
+        "page": 13,
+        "source": "ocr",
+        "context": "MS\nMI   543    ”    M627 | 587    ”    Mit\nM"
+      },
+      {
+        "text": "M654",
+        "page": 13,
+        "source": "ocr",
+        "context": "Mit\nMB   544   ”    M654  388   ”    M147\nMI"
+      },
+      {
+        "text": "M147",
+        "page": 13,
+        "source": "ocr",
+        "context": "   M654  388   ”    M147\nMI136| 545 | 57004 "
+      },
+      {
+        "text": "M265",
+        "page": 13,
+        "source": "ocr",
+        "context": " le MI4 | 589   ”   M265\nM7        546      "
+      },
+      {
+        "text": "M7",
+        "page": 13,
+        "source": "ocr",
+        "context": "I4 | 589   ”   M265\nM7        546         "
+      },
+      {
+        "text": "M286",
+        "page": 13,
+        "source": "ocr",
+        "context": "        ”           M286\nM272), 547    ”    "
+      },
+      {
+        "text": "M272",
+        "page": 13,
+        "source": "ocr",
+        "context": "   ”           M286\nM272), 547    ”    M429 "
+      },
+      {
+        "text": "M429",
+        "page": 13,
+        "source": "ocr",
+        "context": "\nM272), 547    ”    M429 ‖ 591    ”    M654\n"
+      },
+      {
+        "text": "M654",
+        "page": 13,
+        "source": "ocr",
+        "context": " M429 ‖ 591    ”    M654\nMi | 548          ”"
+      },
+      {
+        "text": "M458",
+        "page": 13,
+        "source": "ocr",
+        "context": "        ”           M458 || 592          »  "
+      },
+      {
+        "text": "M887",
+        "page": 13,
+        "source": "ocr",
+        "context": "        »           M887\nM3} 549 | 57004-3\" "
+      },
+      {
+        "text": "M3",
+        "page": 13,
+        "source": "ocr",
+        "context": "   »           M887\nM3} 549 | 57004-3\" m2 "
+      },
+      {
+        "text": "M1021",
+        "page": 13,
+        "source": "ocr",
+        "context": "4-3\" m2 | 593   ”   M1021\nm4 || 550   ”   M10"
+      },
+      {
+        "text": "M10",
+        "page": 13,
+        "source": "ocr",
+        "context": "021\nm4 || 550   ”   M10 | 594 | 57008. 98 M"
+      },
+      {
+        "text": "M3",
+        "page": 13,
+        "source": "ocr",
+        "context": "0 | 594 | 57008. 98 M3\nM5 | 551   »   MI7 "
+      },
+      {
+        "text": "M5",
+        "page": 13,
+        "source": "ocr",
+        "context": " 594 | 57008. 98 M3\nM5 | 551   »   MI7 | 5"
+      },
+      {
+        "text": "M523",
+        "page": 13,
+        "source": "ocr",
+        "context": "»   MI7 | 595   *   M523\nM6 | 552   ”   M23 "
+      },
+      {
+        "text": "M6",
+        "page": 13,
+        "source": "ocr",
+        "context": "I7 | 595   *   M523\nM6 | 552   ”   M23  59"
+      },
+      {
+        "text": "M23",
+        "page": 13,
+        "source": "ocr",
+        "context": "M523\nM6 | 552   ”   M23  596   ”   M536\nM13"
+      },
+      {
+        "text": "M536",
+        "page": 13,
+        "source": "ocr",
+        "context": " ”   M23  596   ”   M536\nM130] 553     ”    "
+      },
+      {
+        "text": "M130",
+        "page": 13,
+        "source": "ocr",
+        "context": "M23  596   ”   M536\nM130] 553     ”     M37 "
+      },
+      {
+        "text": "M37",
+        "page": 13,
+        "source": "ocr",
+        "context": "M130] 553     ”     M37 || 597 | 57004 . 10"
+      },
+      {
+        "text": "M12",
+        "page": 13,
+        "source": "ocr",
+        "context": "| 597 | 57004 . 108 M12\nMI131| 554   ”   M3"
+      },
+      {
+        "text": "M39",
+        "page": 13,
+        "source": "ocr",
+        "context": "12\nMI131| 554   ”   M39 | 598   ”   MI13\nMi"
+      },
+      {
+        "text": "M48",
+        "page": 13,
+        "source": "ocr",
+        "context": "13\nMi150| 555   ”   M48 |‖ 599 |57004 11\" M"
+      },
+      {
+        "text": "M75",
+        "page": 13,
+        "source": "ocr",
+        "context": "8 |‖ 599 |57004 11\" M75\nM190] 556         ”"
+      },
+      {
+        "text": "M190",
+        "page": 13,
+        "source": "ocr",
+        "context": " 599 |57004 11\" M75\nM190] 556         ”     "
+      },
+      {
+        "text": "M57",
+        "page": 13,
+        "source": "ocr",
+        "context": "6         ”         M57      600         ” "
+      },
+      {
+        "text": "M129",
+        "page": 13,
+        "source": "ocr",
+        "context": "0         ”         M129\nM238), 557    ”    "
+      },
+      {
+        "text": "M238",
+        "page": 13,
+        "source": "ocr",
+        "context": "     ”         M129\nM238), 557    ”    M67 |"
+      },
+      {
+        "text": "M67",
+        "page": 13,
+        "source": "ocr",
+        "context": "\nM238), 557    ”    M67 |‖ 601 | 57004. 12 "
+      },
+      {
+        "text": "M370",
+        "page": 13,
+        "source": "ocr",
+        "context": "601 | 57004. 12 mia\nM370| 558   ”    M74 ‖ 6"
+      },
+      {
+        "text": "M74",
+        "page": 13,
+        "source": "ocr",
+        "context": "ia\nM370| 558   ”    M74 ‖ 602   »    MIS\nM4"
+      },
+      {
+        "text": "M422",
+        "page": 13,
+        "source": "ocr",
+        "context": "74 ‖ 602   »    MIS\nM422‖ 559   ”   M79 |) 6"
+      },
+      {
+        "text": "M79",
+        "page": 13,
+        "source": "ocr",
+        "context": "MIS\nM422‖ 559   ”   M79 |) 603   ”   M64\nM4"
+      },
+      {
+        "text": "M64",
+        "page": 13,
+        "source": "ocr",
+        "context": "   M79 |) 603   ”   M64\nM434| 560   ”   M90"
+      },
+      {
+        "text": "M434",
+        "page": 13,
+        "source": "ocr",
+        "context": "79 |) 603   ”   M64\nM434| 560   ”   M90 | 60"
+      },
+      {
+        "text": "M90",
+        "page": 13,
+        "source": "ocr",
+        "context": "M64\nM434| 560   ”   M90 | 604] | »   MI117\n"
+      },
+      {
+        "text": "M435",
+        "page": 13,
+        "source": "ocr",
+        "context": " | 604] | »   MI117\nM435| 561 |»    M108 | 6"
+      },
+      {
+        "text": "M108",
+        "page": 13,
+        "source": "ocr",
+        "context": "117\nM435| 561 |»    M108 | 605 | 57004- 189 "
+      },
+      {
+        "text": "M6",
+        "page": 13,
+        "source": "ocr",
+        "context": " | 605 | 57004- 189 M6\nM473| 562 |57004-3\""
+      },
+      {
+        "text": "M473",
+        "page": 13,
+        "source": "ocr",
+        "context": "605 | 57004- 189 M6\nM473| 562 |57004-3\" MII2"
+      },
+      {
+        "text": "M7",
+        "page": 13,
+        "source": "ocr",
+        "context": "-3\" MII2 | 606 |»   M7\nM3 | 563   ”    M12"
+      },
+      {
+        "text": "M3",
+        "page": 13,
+        "source": "ocr",
+        "context": " MII2 | 606 |»   M7\nM3 | 563   ”    M123 |"
+      },
+      {
+        "text": "M123",
+        "page": 13,
+        "source": "ocr",
+        "context": " M7\nM3 | 563   ”    M123 | 607   ”    M9\nM96"
+      },
+      {
+        "text": "M9",
+        "page": 13,
+        "source": "ocr",
+        "context": "  M123 | 607   ”    M9\nM96 | 564   ”    M1"
+      },
+      {
+        "text": "M96",
+        "page": 13,
+        "source": "ocr",
+        "context": "123 | 607   ”    M9\nM96 | 564   ”    M156 |"
+      },
+      {
+        "text": "M156",
+        "page": 13,
+        "source": "ocr",
+        "context": "M9\nM96 | 564   ”    M156 | 608   ”    MI10\nM"
+      },
+      {
+        "text": "M106",
+        "page": 13,
+        "source": "ocr",
+        "context": "6 | 608   ”    MI10\nM106) 565    ”    M161 |"
+      },
+      {
+        "text": "M161",
+        "page": 13,
+        "source": "ocr",
+        "context": "0\nM106) 565    ”    M161 | 609 | 57 9pm MOS\n"
+      },
+      {
+        "text": "S38",
+        "page": 14,
+        "source": "ocr",
+        "context": "B SEARLE TAR ORESR, S38 I一IV 型,除 IV 型外，每型又可"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "镜",
+        "page": 10,
+        "source": "ocr",
+        "context": "), 2283 Ae\n釉陶瓷器和村器\n钢镜\n\n铜镜\n\nwe\n\nae\n\n铀镜\n\nWA"
+      },
+      {
+        "text": "铜镜",
+        "page": 10,
+        "source": "ocr",
+        "context": "2283 Ae\n釉陶瓷器和村器\n钢镜\n\n铜镜\n\nwe\n\nae\n\n铀镜\n\nWA\n\n铀镜"
+      },
+      {
+        "text": "镜",
+        "page": 10,
+        "source": "ocr",
+        "context": "村器\n钢镜\n\n铜镜\n\nwe\n\nae\n\n铀镜\n\nWA\n\n铀镜、铁器和石器\n陶次器及其"
+      },
+      {
+        "text": "镜",
+        "page": 10,
+        "source": "ocr",
+        "context": "镜\n\nwe\n\nae\n\n铀镜\n\nWA\n\n铀镜、铁器和石器\n陶次器及其他\n\n"
+      }
+    ],
+    "材质": [
+      {
+        "text": "三彩",
+        "page": 10,
+        "source": "ocr",
+        "context": "t\nseis\nSRB\n\n陶器\n\n陶器\n\n三彩器和陶器\nPi) Zee\n\n陶、次器\n釉"
+      },
+      {
+        "text": "釉陶",
+        "page": 10,
+        "source": "ocr",
+        "context": "彩器和陶器\nPi) Zee\n\n陶、次器\n釉陶和将器\n\nHi Ph) Fe Bt\nHP"
+      },
+      {
+        "text": "釉陶",
+        "page": 10,
+        "source": "ocr",
+        "context": ") SAAR\nHP), 2283 Ae\n釉陶瓷器和村器\n钢镜\n\n铜镜\n\nwe\n\nae"
+      }
+    ],
+    "遗址名称": [
+      {
+        "text": "长安",
+        "page": 12,
+        "source": "ocr",
+        "context": "分局于沪川,长乐.霸城,崇义等乡。\n\n自长安城出通化门或春明门,便是当时东西的交通大"
+      }
+    ]
+  }
+}

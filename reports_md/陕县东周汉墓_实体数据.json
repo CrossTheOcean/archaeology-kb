@@ -1,0 +1,1401 @@
+{
+  "name": "陕县东周汉墓",
+  "file": "陕县东周汉墓.pdf",
+  "era": "东周-汉",
+  "culture": "三门峡墓葬",
+  "processed_pages": 15,
+  "total_entities": 226,
+  "entity_stats": {
+    "遗址名称": 78,
+    "遗迹类型": 4,
+    "年代": 114,
+    "陶器": 5,
+    "铜器": 18,
+    "测量数据": 1,
+    "纹饰": 1,
+    "葬具": 2,
+    "玉器": 1,
+    "漆器": 1,
+    "铁器": 1
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "东周",
+        "page": 3,
+        "source": "ocr",
+        "context": "春秋,下至东汉,绵延 800 余年。\n\n东周蔓计 100 余座，包括有车马坑、铜器墓"
+      },
+      {
+        "text": "西汉",
+        "page": 3,
+        "source": "ocr",
+        "context": "IE 92 座,包括战国晚期秦攻取陕后至西汉初年的摹茜，和秦文化有密切\n的关系。幕制"
+      },
+      {
+        "text": "汉墓",
+        "page": 3,
+        "source": "ocr",
+        "context": "的学术价值。汉蕾 35 座,特点和刘家渠汉墓相同,风格接近西安\n\n而有别于洛阳，到东"
+      },
+      {
+        "text": "洛阳",
+        "page": 3,
+        "source": "ocr",
+        "context": "刘家渠汉墓相同,风格接近西安\n\n而有别于洛阳，到东汉后期,区别逐新消失而趋于一致\n\n"
+      },
+      {
+        "text": "陕县",
+        "page": 3,
+        "source": "ocr",
+        "context": "考古报告集\n考古学专刊\n丁种第四十二号\n陕县东周秦汉墓\n《黄河水库考古报告之五)\n中"
+      },
+      {
+        "text": "东周",
+        "page": 3,
+        "source": "ocr",
+        "context": "报告集\n考古学专刊\n丁种第四十二号\n陕县东周秦汉墓\n《黄河水库考古报告之五)\n中国社"
+      },
+      {
+        "text": "汉墓",
+        "page": 3,
+        "source": "ocr",
+        "context": "\n考古学专刊\n丁种第四十二号\n陕县东周秦汉墓\n《黄河水库考古报告之五)\n中国社会科学"
+      },
+      {
+        "text": "东周",
+        "page": 4,
+        "source": "ocr",
+        "context": "OOOOOOOOOSS  1\n第一部分“东周蔓幕 4\n者 募萍与车马坑形制本 4\nm"
+      },
+      {
+        "text": "东周",
+        "page": 5,
+        "source": "ocr",
+        "context": "neeens 218\n附录一   了哑县东周莫出土部分铀器的成分分析so 222\n附"
+      },
+      {
+        "text": "陕县",
+        "page": 6,
+        "source": "ocr",
+        "context": "-- 陕县周汉蔓地位置图Ne   1\n二”后川村东"
+      },
+      {
+        "text": "东周",
+        "page": 6,
+        "source": "ocr",
+        "context": "汉蔓地位置图Ne   1\n二”后川村东区东周、汉摹坑位图RN 5\n=  BINIK "
+      },
+      {
+        "text": "汉墓",
+        "page": 6,
+        "source": "ocr",
+        "context": "     5\n四51) 后用村西区系周、汉墓坑位图(西部  6\nDUC 2) 后川村"
+      },
+      {
+        "text": "东周",
+        "page": 6,
+        "source": "ocr",
+        "context": "图(西部  6\nDUC 2) 后川村西区东周、汉墓坑位图(东部  7\nFi 墓350"
+      },
+      {
+        "text": "汉墓",
+        "page": 6,
+        "source": "ocr",
+        "context": "部  6\nDUC 2) 后川村西区东周、汉墓坑位图(东部  7\nFi 墓3501 棺"
+      },
+      {
+        "text": "东周",
+        "page": 11,
+        "source": "ocr",
+        "context": "R SEEN Ras i LAB he\n东周 2040 号墓器物出土情况\n东半 20"
+      },
+      {
+        "text": "东周",
+        "page": 11,
+        "source": "ocr",
+        "context": "S\nAJA 2129 号车马坑出土情况\n东周 2040 Be Hh ORR\nAJA "
+      },
+      {
+        "text": "东周",
+        "page": 11,
+        "source": "ocr",
+        "context": "ORR\nAJA A AS eH ass\n东周第二组陶器幕和第二组铜器墓出七陶器\n东局"
+      },
+      {
+        "text": "东周",
+        "page": 11,
+        "source": "ocr",
+        "context": "东局第二组陶严蔓和第二组铜器募出土陶器\n东周第二组陶器墓和第二组铜器幕出土陶器\n东周"
+      },
+      {
+        "text": "东周",
+        "page": 11,
+        "source": "ocr",
+        "context": "东周第二组陶器墓和第二组铜器幕出土陶器\n东周第二组网器幕出土陶器\n东周第三组(1)隐"
+      },
+      {
+        "text": "东周",
+        "page": 11,
+        "source": "ocr",
+        "context": "器幕出土陶器\n东周第二组网器幕出土陶器\n东周第三组(1)隐器幕出土陶器\n东周第三组("
+      },
+      {
+        "text": "东周",
+        "page": 11,
+        "source": "ocr",
+        "context": "土陶器\n东周第三组(1)隐器幕出土陶器\n东周第三组(1)陶器募出土陶器\n东周第三组("
+      },
+      {
+        "text": "东周",
+        "page": 11,
+        "source": "ocr",
+        "context": "土陶器\n东周第三组(1)陶器募出土陶器\n东周第三组(17)陶器幕出鞋陶器\n东周第三组"
+      },
+      {
+        "text": "东周",
+        "page": 11,
+        "source": "ocr",
+        "context": "陶器\n东周第三组(17)陶器幕出鞋陶器\n东周第三组(2)陶器幕出土陶器\n东周第三组("
+      },
+      {
+        "text": "东周",
+        "page": 11,
+        "source": "ocr",
+        "context": "鞋陶器\n东周第三组(2)陶器幕出土陶器\n东周第三组(2)陶器幕出土陶器\n东周第三组("
+      },
+      {
+        "text": "东周",
+        "page": 11,
+        "source": "ocr",
+        "context": "土陶器\n东周第三组(2)陶器幕出土陶器\n东周第三组(2)陶器墓出土陶器\n东周第三组0"
+      },
+      {
+        "text": "东周",
+        "page": 11,
+        "source": "ocr",
+        "context": "土陶器\n东周第三组(2)陶器墓出土陶器\n东周第三组02)陶器墓出土陶器\n东周第三组("
+      },
+      {
+        "text": "东周",
+        "page": 11,
+        "source": "ocr",
+        "context": "土陶器\n东周第三组02)陶器墓出土陶器\n东周第三组(3)陶器幕出土陶器\n东周第三组("
+      },
+      {
+        "text": "东周",
+        "page": 11,
+        "source": "ocr",
+        "context": "土陶器\n东周第三组(3)陶器幕出土陶器\n东周第三组(3)陶器募出土陶器\nAR Jal"
+      },
+      {
+        "text": "东周",
+        "page": 11,
+        "source": "ocr",
+        "context": " — 28 Fas Be te Hal\n东周第二组钢器墓出土铜器\n"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "FL\nEO\n\n五二\n五四\n五五\n五六\n\n东周第二组铜器幕出土铀四虎器座\n东周募出土刻"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "五六\n\n东周第二组铜器幕出土铀四虎器座\n东周募出土刻纹铜器的局部花纹(放大约四倍)\n"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "募出土刻纹铜器的局部花纹(放大约四倍)\n东周 2040 RH + fae\n\n东周 2"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": ")\n东周 2040 RH + fae\n\n东周 2040 SRE -E V AY a\n"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "2040 SRE -E V AY a\n\n东周 2040 SRT II Meee\n东周"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "东周 2040 SRT II Meee\n东周 2040 SHOE D Baca\n东周"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "东周 2040 SHOE D Baca\n东周 2040 号蔓出土铜器\n\n东周 204"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "aca\n东周 2040 号蔓出土铜器\n\n东周 2040 SRM EBS\n\n东周 20"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "器\n\n东周 2040 SRM EBS\n\n东周 2040 SR tis\n\n东周 204"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "BS\n\n东周 2040 SR tis\n\n东周 2040 => ee Fale\n\n东周"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "东周 2040 => ee Fale\n\n东周 2040 号募出土铀编钟《甬钟)\n东周"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "东周 2040 号募出土铀编钟《甬钟)\n东周 2040 号曹出土乌编钟《前钟)\n东周"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "东周 2040 号曹出土乌编钟《前钟)\n东周 2040 St gash CARS)\n"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": " 2040 St gash CARS)\n东周 2040 号募出土铀编铺\n\n东周 20"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "S)\n东周 2040 号募出土铀编铺\n\n东周 2040 号侨出土铜编铺\nRAB AR"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "S\n\nAR ABEL =e al Ge\n东周幕出土钢武器等\n东周募出土铜车器\n东周募"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": " =e al Ge\n东周幕出土钢武器等\n东周募出土铜车器\n东周募出土铀车器\n\nARA"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n东周幕出土钢武器等\n东周募出土铜车器\n东周募出土铀车器\n\nARASH tA\n\nAR"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "\nARAB, ES\nRAH tA aS\n东周幕出土石诗、璋和辟\n东周幕出土玉石器\n\n"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "H tA aS\n东周幕出土石诗、璋和辟\n东周幕出土玉石器\n\nA Ale Hh\n\nAA"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n秦至汉初第二组募出土琉璃器及骨晨器\n\n西汉中期至东汉晚期墓封门砖形式及王室结构\n\n"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "中期至东汉晚期墓封门砖形式及王室结构\n\n西汉中期至东汉晚期第一组墓出土陶玫\n西汉中期"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n\n西汉中期至东汉晚期第一组墓出土陶玫\n西汉中期至东冯有晚期第一组董出土陶答\n西汉中"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n西汉中期至东冯有晚期第一组董出土陶答\n西汉中期至东妈上胸期第一组基出土陶大\n西汉中"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n西汉中期至东妈上胸期第一组基出土陶大\n西汉中期至东汉晚期第二组幕出土陶器\n西汉中期"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "大\n西汉中期至东汉晚期第二组幕出土陶器\n西汉中期至东汉晚期第二组基贡土陶羡\n西汉中期"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "器\n西汉中期至东汉晚期第二组基贡土陶羡\n西汉中期至东汉晚期第二组幕出鞋陶徐\n\n西汉中"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n西汉中期至东汉晚期第二组幕出鞋陶徐\n\n西汉中期至东汉晚期第三、四组莫出土陶和三\n\n"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "中期至东汉晚期第三、四组莫出土陶和三\n\n西汉中期至东汉晚期第四组幕出土陶属\n西汉中期"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n\n西汉中期至东汉晚期第四组幕出土陶属\n西汉中期至东汉晚期第四组墓出土陶由\n西汉中期"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "属\n西汉中期至东汉晚期第四组墓出土陶由\n西汉中期至东汉晚期第四组募出工陶器\n西汉中期"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "由\n西汉中期至东汉晚期第四组募出工陶器\n西汉中期至东议了晚期第四组基出土陶站\n西汉中"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n西汉中期至东议了晚期第四组基出土陶站\n西汉中期至东汉晚期第四组募出土陶器\n西汉中期"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "站\n西汉中期至东汉晚期第四组募出土陶器\n西汉中期至东汉晚期第一组募出土钢讲\n西汉中期"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "器\n西汉中期至东汉晚期第一组募出土钢讲\n西汉中期至东汉晚期第一组茎出土钢咎\n西汉中期"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "讲\n西汉中期至东汉晚期第一组茎出土钢咎\n西汉中期至东汉晚期第一组基轴土钢下\n西汉中期"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "咎\n西汉中期至东汉晚期第一组基轴土钢下\n西汉中期至东汉晚期第一组墓出鞋钢素\n西汉中期"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "下\n西汉中期至东汉晚期第一组墓出鞋钢素\n西汉中期至东汉晚期第一组墓出土钢器\n西汉中期"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "素\n西汉中期至东汉晚期第一组墓出土钢器\n西汉中期至东汉晚期第一组募出土筒琵\n西汉中期"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "器\n西汉中期至东汉晚期第一组募出土筒琵\n西汉中期至东汉晚期第一组训出土钢器\n\n西汉中"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n西汉中期至东汉晚期第一组训出土钢器\n\n西汉中期至东汉晚期第二、四组幕册土钢二\n\ne"
+      },
+      {
+        "text": "西汉",
+        "page": 14,
+        "source": "ocr",
+        "context": "西汉中期至东汉晚期第一.二组幕出土铁、铅器\n"
+      },
+      {
+        "text": "西汉",
+        "page": 14,
+        "source": "ocr",
+        "context": "中期至东汉晚期第一.二组幕出土铁、铅器\n西汉中期至东汉晚期第一组募出土玉石右及骨器等"
+      },
+      {
+        "text": "东周",
+        "page": 15,
+        "source": "ocr",
+        "context": "村、李\n家容村,湖滨区、铁路区等处发掘的东周幕和秦汉墓(图一)。\n\n~    Ew "
+      },
+      {
+        "text": "汉墓",
+        "page": 15,
+        "source": "ocr",
+        "context": "容村,湖滨区、铁路区等处发掘的东周幕和秦汉墓(图一)。\n\n~    Ew      "
+      },
+      {
+        "text": "陕县",
+        "page": 15,
+        "source": "ocr",
+        "context": "00\nA RAAB Se\n\n后川村位于旧陕县城东北约 1 公里处。由于原水库工程计划"
+      },
+      {
+        "text": "陕县",
+        "page": 15,
+        "source": "ocr",
+        "context": "1 公里处。由于原水库工程计划大坝截流后陕县和后咱\nARGH ,陕县予以移民,现城提"
+      },
+      {
+        "text": "陕县",
+        "page": 15,
+        "source": "ocr",
+        "context": "程计划大坝截流后陕县和后咱\nARGH ,陕县予以移民,现城提虽在,城内已是一片废墟。"
+      },
+      {
+        "text": "陕县",
+        "page": 15,
+        "source": "ocr",
+        "context": "年。\n2) 黄河水库考古工作队: “河南陕县刘家渠汉莫>考古学报>1965 年 1 "
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "车马坑",
+        "page": 3,
+        "source": "ocr",
+        "context": "余年。\n\n东周蔓计 100 余座，包括有车马坑、铜器墓和陶器墓,是一处比较完整\n的族莫"
+      },
+      {
+        "text": "墓葬",
+        "page": 3,
+        "source": "ocr",
+        "context": "融合的进程因此是这一历史时期较典型的一批墓葬,在探讨秦文化问\n题中有较高的学术价值。"
+      },
+      {
+        "text": "车马坑",
+        "page": 4,
+        "source": "ocr",
+        "context": " 1\n第一部分“东周蔓幕 4\n者 募萍与车马坑形制本 4\nmae 0) OSS ee "
+      },
+      {
+        "text": "车马坑",
+        "page": 11,
+        "source": "ocr",
+        "context": "BHRES RLS\nAJA 2129 号车马坑出土情况\n东周 2040 Be Hh O"
+      }
+    ],
+    "年代": [
+      {
+        "text": "春秋",
+        "page": 3,
+        "source": "ocr",
+        "context": "余座幕匡的考古报告。\n这批幕匡的时间起自春秋,下至东汉,绵延 800 余年。\n\n东周"
+      },
+      {
+        "text": "东汉",
+        "page": 3,
+        "source": "ocr",
+        "context": "考古报告。\n这批幕匡的时间起自春秋,下至东汉,绵延 800 余年。\n\n东周蔓计 10"
+      },
+      {
+        "text": "东周",
+        "page": 3,
+        "source": "ocr",
+        "context": "春秋,下至东汉,绵延 800 余年。\n\n东周蔓计 100 余座，包括有车马坑、铜器墓"
+      },
+      {
+        "text": "秦",
+        "page": 3,
+        "source": "ocr",
+        "context": "草主生前是晋民和魏民、墓闫具有三晋风格。秦至汉\nWIE 92 座,包括战国晚期秦攻"
+      },
+      {
+        "text": "战国",
+        "page": 3,
+        "source": "ocr",
+        "context": "三晋风格。秦至汉\nWIE 92 座,包括战国晚期秦攻取陕后至西汉初年的摹茜，和秦文化"
+      },
+      {
+        "text": "秦",
+        "page": 3,
+        "source": "ocr",
+        "context": "。秦至汉\nWIE 92 座,包括战国晚期秦攻取陕后至西汉初年的摹茜，和秦文化有密切"
+      },
+      {
+        "text": "西汉",
+        "page": 3,
+        "source": "ocr",
+        "context": "IE 92 座,包括战国晚期秦攻取陕后至西汉初年的摹茜，和秦文化有密切\n的关系。幕制"
+      },
+      {
+        "text": "秦",
+        "page": 3,
+        "source": "ocr",
+        "context": "括战国晚期秦攻取陕后至西汉初年的摹茜，和秦文化有密切\n的关系。幕制的发展,演变折射"
+      },
+      {
+        "text": "秦",
+        "page": 3,
+        "source": "ocr",
+        "context": "化有密切\n的关系。幕制的发展,演变折射出秦民族随着军事扩张、统一全国旋至与各\n民族"
+      },
+      {
+        "text": "秦",
+        "page": 3,
+        "source": "ocr",
+        "context": "此是这一历史时期较典型的一批墓葬,在探讨秦文化问\n题中有较高的学术价值。汉蕾 35"
+      },
+      {
+        "text": "东汉",
+        "page": 3,
+        "source": "ocr",
+        "context": "墓相同,风格接近西安\n\n而有别于洛阳，到东汉后期,区别逐新消失而趋于一致\n\n书中报道"
+      },
+      {
+        "text": "东周",
+        "page": 3,
+        "source": "ocr",
+        "context": "报告集\n考古学专刊\n丁种第四十二号\n陕县东周秦汉墓\n《黄河水库考古报告之五)\n中国社"
+      },
+      {
+        "text": "秦",
+        "page": 3,
+        "source": "ocr",
+        "context": "集\n考古学专刊\n丁种第四十二号\n陕县东周秦汉墓\n《黄河水库考古报告之五)\n中国社会"
+      },
+      {
+        "text": "元",
+        "page": 3,
+        "source": "ocr",
+        "context": "-8/Z 。202\nEH: 55.00 元\n"
+      },
+      {
+        "text": "东周",
+        "page": 4,
+        "source": "ocr",
+        "context": "OOOOOOOOOSS  1\n第一部分“东周蔓幕 4\n者 募萍与车马坑形制本 4\nm"
+      },
+      {
+        "text": "东周",
+        "page": 5,
+        "source": "ocr",
+        "context": "neeens 218\n附录一   了哑县东周莫出土部分铀器的成分分析so 222\n附"
+      },
+      {
+        "text": "东周",
+        "page": 6,
+        "source": "ocr",
+        "context": "汉蔓地位置图Ne   1\n二”后川村东区东周、汉摹坑位图RN 5\n=  BINIK "
+      },
+      {
+        "text": "东周",
+        "page": 6,
+        "source": "ocr",
+        "context": "图(西部  6\nDUC 2) 后川村西区东周、汉墓坑位图(东部  7\nFi 墓350"
+      },
+      {
+        "text": "东周",
+        "page": 11,
+        "source": "ocr",
+        "context": "R SEEN Ras i LAB he\n东周 2040 号墓器物出土情况\n东半 20"
+      },
+      {
+        "text": "东周",
+        "page": 11,
+        "source": "ocr",
+        "context": "S\nAJA 2129 号车马坑出土情况\n东周 2040 Be Hh ORR\nAJA "
+      },
+      {
+        "text": "东周",
+        "page": 11,
+        "source": "ocr",
+        "context": "ORR\nAJA A AS eH ass\n东周第二组陶器幕和第二组铜器墓出七陶器\n东局"
+      },
+      {
+        "text": "东周",
+        "page": 11,
+        "source": "ocr",
+        "context": "东局第二组陶严蔓和第二组铜器募出土陶器\n东周第二组陶器墓和第二组铜器幕出土陶器\n东周"
+      },
+      {
+        "text": "东周",
+        "page": 11,
+        "source": "ocr",
+        "context": "东周第二组陶器墓和第二组铜器幕出土陶器\n东周第二组网器幕出土陶器\n东周第三组(1)隐"
+      },
+      {
+        "text": "东周",
+        "page": 11,
+        "source": "ocr",
+        "context": "器幕出土陶器\n东周第二组网器幕出土陶器\n东周第三组(1)隐器幕出土陶器\n东周第三组("
+      },
+      {
+        "text": "东周",
+        "page": 11,
+        "source": "ocr",
+        "context": "土陶器\n东周第三组(1)隐器幕出土陶器\n东周第三组(1)陶器募出土陶器\n东周第三组("
+      },
+      {
+        "text": "东周",
+        "page": 11,
+        "source": "ocr",
+        "context": "土陶器\n东周第三组(1)陶器募出土陶器\n东周第三组(17)陶器幕出鞋陶器\n东周第三组"
+      },
+      {
+        "text": "东周",
+        "page": 11,
+        "source": "ocr",
+        "context": "陶器\n东周第三组(17)陶器幕出鞋陶器\n东周第三组(2)陶器幕出土陶器\n东周第三组("
+      },
+      {
+        "text": "东周",
+        "page": 11,
+        "source": "ocr",
+        "context": "鞋陶器\n东周第三组(2)陶器幕出土陶器\n东周第三组(2)陶器幕出土陶器\n东周第三组("
+      },
+      {
+        "text": "东周",
+        "page": 11,
+        "source": "ocr",
+        "context": "土陶器\n东周第三组(2)陶器幕出土陶器\n东周第三组(2)陶器墓出土陶器\n东周第三组0"
+      },
+      {
+        "text": "东周",
+        "page": 11,
+        "source": "ocr",
+        "context": "土陶器\n东周第三组(2)陶器墓出土陶器\n东周第三组02)陶器墓出土陶器\n东周第三组("
+      },
+      {
+        "text": "东周",
+        "page": 11,
+        "source": "ocr",
+        "context": "土陶器\n东周第三组02)陶器墓出土陶器\n东周第三组(3)陶器幕出土陶器\n东周第三组("
+      },
+      {
+        "text": "东周",
+        "page": 11,
+        "source": "ocr",
+        "context": "土陶器\n东周第三组(3)陶器幕出土陶器\n东周第三组(3)陶器募出土陶器\nAR Jal"
+      },
+      {
+        "text": "东周",
+        "page": 11,
+        "source": "ocr",
+        "context": " — 28 Fas Be te Hal\n东周第二组钢器墓出土铜器\n"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "FL\nEO\n\n五二\n五四\n五五\n五六\n\n东周第二组铜器幕出土铀四虎器座\n东周募出土刻"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "五六\n\n东周第二组铜器幕出土铀四虎器座\n东周募出土刻纹铜器的局部花纹(放大约四倍)\n"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "募出土刻纹铜器的局部花纹(放大约四倍)\n东周 2040 RH + fae\n\n东周 2"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": ")\n东周 2040 RH + fae\n\n东周 2040 SRE -E V AY a\n"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "2040 SRE -E V AY a\n\n东周 2040 SRT II Meee\n东周"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "东周 2040 SRT II Meee\n东周 2040 SHOE D Baca\n东周"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "东周 2040 SHOE D Baca\n东周 2040 号蔓出土铜器\n\n东周 204"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "aca\n东周 2040 号蔓出土铜器\n\n东周 2040 SRM EBS\n\n东周 20"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "器\n\n东周 2040 SRM EBS\n\n东周 2040 SR tis\n\n东周 204"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "BS\n\n东周 2040 SR tis\n\n东周 2040 => ee Fale\n\n东周"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "东周 2040 => ee Fale\n\n东周 2040 号募出土铀编钟《甬钟)\n东周"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "东周 2040 号募出土铀编钟《甬钟)\n东周 2040 号曹出土乌编钟《前钟)\n东周"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "东周 2040 号曹出土乌编钟《前钟)\n东周 2040 St gash CARS)\n"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": " 2040 St gash CARS)\n东周 2040 号募出土铀编铺\n\n东周 20"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "S)\n东周 2040 号募出土铀编铺\n\n东周 2040 号侨出土铜编铺\nRAB AR"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "S\n\nAR ABEL =e al Ge\n东周幕出土钢武器等\n东周募出土铜车器\n东周募"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": " =e al Ge\n东周幕出土钢武器等\n东周募出土铜车器\n东周募出土铀车器\n\nARA"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n东周幕出土钢武器等\n东周募出土铜车器\n东周募出土铀车器\n\nARASH tA\n\nAR"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "\nARAB, ES\nRAH tA aS\n东周幕出土石诗、璋和辟\n东周幕出土玉石器\n\n"
+      },
+      {
+        "text": "东周",
+        "page": 12,
+        "source": "ocr",
+        "context": "H tA aS\n东周幕出土石诗、璋和辟\n东周幕出土玉石器\n\nA Ale Hh\n\nAA"
+      },
+      {
+        "text": "秦",
+        "page": 12,
+        "source": "ocr",
+        "context": "RENMBWHA Ras Mw tiv\n秦至汉初第一组募出土陶器\n\n秦至议初第一组"
+      },
+      {
+        "text": "秦",
+        "page": 12,
+        "source": "ocr",
+        "context": "w tiv\n秦至汉初第一组募出土陶器\n\n秦至议初第一组募出土陶器\n\n秦至汉初第二组"
+      },
+      {
+        "text": "秦",
+        "page": 12,
+        "source": "ocr",
+        "context": "出土陶器\n\n秦至议初第一组募出土陶器\n\n秦至汉初第二组幕出土陶妖\n"
+      },
+      {
+        "text": "秦",
+        "page": 13,
+        "source": "ocr",
+        "context": "O〇五\n一CO六\n一CO七\n一OA八\n\n秦至汉初第二组幕出土陶器\n\n秦至汉初第二组"
+      },
+      {
+        "text": "秦",
+        "page": 13,
+        "source": "ocr",
+        "context": "一OA八\n\n秦至汉初第二组幕出土陶器\n\n秦至汉初第二组幕出土陶器\n\n奉至汉初第二组"
+      },
+      {
+        "text": "秦",
+        "page": 13,
+        "source": "ocr",
+        "context": "出土陶器\n\n奉至汉初第二组募出土陶器\n\n秦至汉初第二组墓出土陶器\n\n秦至汉初第二组"
+      },
+      {
+        "text": "秦",
+        "page": 13,
+        "source": "ocr",
+        "context": "出土陶器\n\n秦至汉初第二组墓出土陶器\n\n秦至汉初第二组草出土陶俑头\n\n秦至汉初第二"
+      },
+      {
+        "text": "秦",
+        "page": 13,
+        "source": "ocr",
+        "context": "土陶器\n\n秦至汉初第二组草出土陶俑头\n\n秦至汉初第二组募出土铜器\n\nSRM OS "
+      },
+      {
+        "text": "秦",
+        "page": 13,
+        "source": "ocr",
+        "context": "S Ea\nBANOS ABH LHS\n\n秦至汉初第二组幕出土锅器\nBBWS ABH"
+      },
+      {
+        "text": "秦",
+        "page": 13,
+        "source": "ocr",
+        "context": " ABH\n\n率至汉初第二组幕出土铜器\n\n秦至汉初第二组墓出土铜北\n\n秦至汉初第二组"
+      },
+      {
+        "text": "秦",
+        "page": 13,
+        "source": "ocr",
+        "context": "出土铜器\n\n秦至汉初第二组墓出土铜北\n\n秦至汉初第二组幕出土铜兵右及和铀镜等\n秦至"
+      },
+      {
+        "text": "秦",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n秦至汉初第二组幕出土铜兵右及和铀镜等\n秦至汉初第二组墓出土铜镜\n\n素至汉初第二组"
+      },
+      {
+        "text": "秦",
+        "page": 13,
+        "source": "ocr",
+        "context": "土铜镜\n\n素至汉初第二组募出土铁器等\n\n秦至汉初第二组幕出土铁右及钱币\n\n秦至汉初"
+      },
+      {
+        "text": "秦",
+        "page": 13,
+        "source": "ocr",
+        "context": "等\n\n秦至汉初第二组幕出土铁右及钱币\n\n秦至汉初第二组幕出土玉石、玛瑙器\n秦至汉初"
+      },
+      {
+        "text": "秦",
+        "page": 13,
+        "source": "ocr",
+        "context": "币\n\n秦至汉初第二组幕出土玉石、玛瑙器\n秦至汉初第二组募出土琉璃器及骨晨器\n\n西汉"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n秦至汉初第二组募出土琉璃器及骨晨器\n\n西汉中期至东汉晚期墓封门砖形式及王室结构\n\n"
+      },
+      {
+        "text": "东汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "第二组募出土琉璃器及骨晨器\n\n西汉中期至东汉晚期墓封门砖形式及王室结构\n\n西汉中期至"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "中期至东汉晚期墓封门砖形式及王室结构\n\n西汉中期至东汉晚期第一组墓出土陶玫\n西汉中期"
+      },
+      {
+        "text": "东汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "晚期墓封门砖形式及王室结构\n\n西汉中期至东汉晚期第一组墓出土陶玫\n西汉中期至东冯有晚"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n\n西汉中期至东汉晚期第一组墓出土陶玫\n西汉中期至东冯有晚期第一组董出土陶答\n西汉中"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n西汉中期至东冯有晚期第一组董出土陶答\n西汉中期至东妈上胸期第一组基出土陶大\n西汉中"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n西汉中期至东妈上胸期第一组基出土陶大\n西汉中期至东汉晚期第二组幕出土陶器\n西汉中期"
+      },
+      {
+        "text": "东汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "至东妈上胸期第一组基出土陶大\n西汉中期至东汉晚期第二组幕出土陶器\n西汉中期至东汉晚期"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "大\n西汉中期至东汉晚期第二组幕出土陶器\n西汉中期至东汉晚期第二组基贡土陶羡\n西汉中期"
+      },
+      {
+        "text": "东汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "期至东汉晚期第二组幕出土陶器\n西汉中期至东汉晚期第二组基贡土陶羡\n西汉中期至东汉晚期"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "器\n西汉中期至东汉晚期第二组基贡土陶羡\n西汉中期至东汉晚期第二组幕出鞋陶徐\n\n西汉中"
+      },
+      {
+        "text": "东汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "期至东汉晚期第二组基贡土陶羡\n西汉中期至东汉晚期第二组幕出鞋陶徐\n\n西汉中期至东汉晚"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n西汉中期至东汉晚期第二组幕出鞋陶徐\n\n西汉中期至东汉晚期第三、四组莫出土陶和三\n\n"
+      },
+      {
+        "text": "东汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "至东汉晚期第二组幕出鞋陶徐\n\n西汉中期至东汉晚期第三、四组莫出土陶和三\n\n西汉中期至"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "中期至东汉晚期第三、四组莫出土陶和三\n\n西汉中期至东汉晚期第四组幕出土陶属\n西汉中期"
+      },
+      {
+        "text": "东汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "晚期第三、四组莫出土陶和三\n\n西汉中期至东汉晚期第四组幕出土陶属\n西汉中期至东汉晚期"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n\n西汉中期至东汉晚期第四组幕出土陶属\n西汉中期至东汉晚期第四组墓出土陶由\n西汉中期"
+      },
+      {
+        "text": "东汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "期至东汉晚期第四组幕出土陶属\n西汉中期至东汉晚期第四组墓出土陶由\n西汉中期至东汉晚期"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "属\n西汉中期至东汉晚期第四组墓出土陶由\n西汉中期至东汉晚期第四组募出工陶器\n西汉中期"
+      },
+      {
+        "text": "东汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "期至东汉晚期第四组墓出土陶由\n西汉中期至东汉晚期第四组募出工陶器\n西汉中期至东议了晚"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "由\n西汉中期至东汉晚期第四组募出工陶器\n西汉中期至东议了晚期第四组基出土陶站\n西汉中"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n西汉中期至东议了晚期第四组基出土陶站\n西汉中期至东汉晚期第四组募出土陶器\n西汉中期"
+      },
+      {
+        "text": "东汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "至东议了晚期第四组基出土陶站\n西汉中期至东汉晚期第四组募出土陶器\n西汉中期至东汉晚期"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "站\n西汉中期至东汉晚期第四组募出土陶器\n西汉中期至东汉晚期第一组募出土钢讲\n西汉中期"
+      },
+      {
+        "text": "东汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "期至东汉晚期第四组募出土陶器\n西汉中期至东汉晚期第一组募出土钢讲\n西汉中期至东汉晚期"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "器\n西汉中期至东汉晚期第一组募出土钢讲\n西汉中期至东汉晚期第一组茎出土钢咎\n西汉中期"
+      },
+      {
+        "text": "东汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "期至东汉晚期第一组募出土钢讲\n西汉中期至东汉晚期第一组茎出土钢咎\n西汉中期至东汉晚期"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "讲\n西汉中期至东汉晚期第一组茎出土钢咎\n西汉中期至东汉晚期第一组基轴土钢下\n西汉中期"
+      },
+      {
+        "text": "东汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "期至东汉晚期第一组茎出土钢咎\n西汉中期至东汉晚期第一组基轴土钢下\n西汉中期至东汉晚期"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "咎\n西汉中期至东汉晚期第一组基轴土钢下\n西汉中期至东汉晚期第一组墓出鞋钢素\n西汉中期"
+      },
+      {
+        "text": "东汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "期至东汉晚期第一组基轴土钢下\n西汉中期至东汉晚期第一组墓出鞋钢素\n西汉中期至东汉晚期"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "下\n西汉中期至东汉晚期第一组墓出鞋钢素\n西汉中期至东汉晚期第一组墓出土钢器\n西汉中期"
+      },
+      {
+        "text": "东汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "期至东汉晚期第一组墓出鞋钢素\n西汉中期至东汉晚期第一组墓出土钢器\n西汉中期至东汉晚期"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "素\n西汉中期至东汉晚期第一组墓出土钢器\n西汉中期至东汉晚期第一组募出土筒琵\n西汉中期"
+      },
+      {
+        "text": "东汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "期至东汉晚期第一组墓出土钢器\n西汉中期至东汉晚期第一组募出土筒琵\n西汉中期至东汉晚期"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "器\n西汉中期至东汉晚期第一组募出土筒琵\n西汉中期至东汉晚期第一组训出土钢器\n\n西汉中"
+      },
+      {
+        "text": "东汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "期至东汉晚期第一组募出土筒琵\n西汉中期至东汉晚期第一组训出土钢器\n\n西汉中期至东汉晚"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n西汉中期至东汉晚期第一组训出土钢器\n\n西汉中期至东汉晚期第二、四组幕册土钢二\n\ne"
+      },
+      {
+        "text": "东汉",
+        "page": 13,
+        "source": "ocr",
+        "context": "至东汉晚期第一组训出土钢器\n\n西汉中期至东汉晚期第二、四组幕册土钢二\n\ne wiic"
+      },
+      {
+        "text": "西汉",
+        "page": 14,
+        "source": "ocr",
+        "context": "西汉中期至东汉晚期第一.二组幕出土铁、铅器\n"
+      },
+      {
+        "text": "东汉",
+        "page": 14,
+        "source": "ocr",
+        "context": "西汉中期至东汉晚期第一.二组幕出土铁、铅器\n西汉中期至"
+      },
+      {
+        "text": "西汉",
+        "page": 14,
+        "source": "ocr",
+        "context": "中期至东汉晚期第一.二组幕出土铁、铅器\n西汉中期至东汉晚期第一组募出土玉石右及骨器等"
+      },
+      {
+        "text": "东汉",
+        "page": 14,
+        "source": "ocr",
+        "context": "晚期第一.二组幕出土铁、铅器\n西汉中期至东汉晚期第一组募出土玉石右及骨器等\n铜、铁器"
+      },
+      {
+        "text": "金",
+        "page": 14,
+        "source": "ocr",
+        "context": "期第一组募出土玉石右及骨器等\n铜、铁器的金相组织\n\nkas HN BARA\n"
+      },
+      {
+        "text": "东周",
+        "page": 15,
+        "source": "ocr",
+        "context": "村、李\n家容村,湖滨区、铁路区等处发掘的东周幕和秦汉墓(图一)。\n\n~    Ew "
+      },
+      {
+        "text": "秦",
+        "page": 15,
+        "source": "ocr",
+        "context": "家容村,湖滨区、铁路区等处发掘的东周幕和秦汉墓(图一)。\n\n~    Ew    "
+      }
+    ],
+    "陶器": [
+      {
+        "text": "环",
+        "page": 4,
+        "source": "ocr",
+        "context": " eees 107\n第一部分“素至汉初蔓环RN 114\n= we BET llrr"
+      },
+      {
+        "text": "环",
+        "page": 6,
+        "source": "ocr",
+        "context": "ens   8\n六 墓2056 棺两端瞧环469一114号)出十情况eeseeso"
+      },
+      {
+        "text": "陶豆",
+        "page": 6,
+        "source": "ocr",
+        "context": "H  (Ma) a 1  33\nSea 陶豆、无羡囊.ee  34\nBae a 0 "
+      },
+      {
+        "text": "环",
+        "page": 9,
+        "source": "ocr",
+        "context": "9\n漆器钮饰及附件RN 150\n玉石玫、环每站151\nRGA, Seo ce ce"
+      },
+      {
+        "text": "刀",
+        "page": 9,
+        "source": "ocr",
+        "context": "ees semeneeene 190\n铁刀、便等站Cs 191\n"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "环",
+        "page": 4,
+        "source": "ocr",
+        "context": " eees 107\n第一部分“素至汉初蔓环RN 114\n= we BET llrr"
+      },
+      {
+        "text": "环",
+        "page": 6,
+        "source": "ocr",
+        "context": "ens   8\n六 墓2056 棺两端瞧环469一114号)出十情况eeseeso"
+      },
+      {
+        "text": "豆",
+        "page": 6,
+        "source": "ocr",
+        "context": "  (Ma) a 1  33\nSea 陶豆、无羡囊.ee  34\nBae a 0 "
+      },
+      {
+        "text": "铃",
+        "page": 7,
+        "source": "ocr",
+        "context": "eanneneeeeees  70\n小多铃和pp  71\nSal |  SE ll"
+      },
+      {
+        "text": "饰",
+        "page": 7,
+        "source": "ocr",
+        "context": "\n铜马铸站  85\nBe 2121 马头饰出土情况 pp  86\nBe 2125 "
+      },
+      {
+        "text": "铜饰",
+        "page": 8,
+        "source": "ocr",
+        "context": "eceencsesoes  90\n七四 铜饰.9  91\n七五”玉石圭、院、采0  "
+      },
+      {
+        "text": "饰",
+        "page": 8,
+        "source": "ocr",
+        "context": "et) 2 eee 100\n八一 人面玉饰-pp 100\nKa  AGEREccn"
+      },
+      {
+        "text": "饰",
+        "page": 8,
+        "source": "ocr",
+        "context": " 1 PABA (30022 22) 纹饰细部 crceccrcce eee e "
+      },
+      {
+        "text": "铜带钩",
+        "page": 9,
+        "source": "ocr",
+        "context": "ee eeee 142\n铀兵器 143\n铜带钩等 145\n铜印.0 146\n7 oe "
+      },
+      {
+        "text": "饰",
+        "page": 9,
+        "source": "ocr",
+        "context": "ee nes eects 149\n漆器钮饰及附件RN 150\n玉石玫、环每站151"
+      },
+      {
+        "text": "环",
+        "page": 9,
+        "source": "ocr",
+        "context": "9\n漆器钮饰及附件RN 150\n玉石玫、环每站151\nRGA, Seo ce ce"
+      },
+      {
+        "text": "刀",
+        "page": 9,
+        "source": "ocr",
+        "context": "ees semeneeene 190\n铁刀、便等站Cs 191\n"
+      },
+      {
+        "text": "钟",
+        "page": 12,
+        "source": "ocr",
+        "context": "Fale\n\n东周 2040 号募出土铀编钟《甬钟)\n东周 2040 号曹出土乌编钟"
+      },
+      {
+        "text": "钟",
+        "page": 12,
+        "source": "ocr",
+        "context": "e\n\n东周 2040 号募出土铀编钟《甬钟)\n东周 2040 号曹出土乌编钟《前钟"
+      },
+      {
+        "text": "钟",
+        "page": 12,
+        "source": "ocr",
+        "context": "钟《甬钟)\n东周 2040 号曹出土乌编钟《前钟)\n东周 2040 St gash"
+      },
+      {
+        "text": "钟",
+        "page": 12,
+        "source": "ocr",
+        "context": "钟)\n东周 2040 号曹出土乌编钟《前钟)\n东周 2040 St gash CA"
+      },
+      {
+        "text": "镜",
+        "page": 13,
+        "source": "ocr",
+        "context": "铜北\n\n秦至汉初第二组幕出土铜兵右及和铀镜等\n秦至汉初第二组墓出土铜镜\n\n素至汉初"
+      },
+      {
+        "text": "铜镜",
+        "page": 13,
+        "source": "ocr",
+        "context": "土铜兵右及和铀镜等\n秦至汉初第二组墓出土铜镜\n\n素至汉初第二组募出土铁器等\n\n秦至汉"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": " 4\nm",
+        "page": 4,
+        "source": "ocr",
+        "context": "分“东周蔓幕 4\n者 募萍与车马坑形制本 4\nmae 0) OSS ee  4\n=, A"
+      }
+    ],
+    "纹饰": [
+      {
+        "text": "彩绘",
+        "page": 6,
+        "source": "ocr",
+        "context": " eeeneesees  71\n-一七“彩绘工型 Bo 0 oe oe ce  2?"
+      }
+    ],
+    "葬具": [
+      {
+        "text": "棺",
+        "page": 6,
+        "source": "ocr",
+        "context": "墓坑位图(东部  7\nFi 墓3501 棺樟遗带 cccc cece cece e"
+      },
+      {
+        "text": "棺",
+        "page": 6,
+        "source": "ocr",
+        "context": "ee sens   8\n六 墓2056 棺两端瞧环469一114号)出十情况ees"
+      }
+    ],
+    "玉器": [
+      {
+        "text": "玉饰",
+        "page": 8,
+        "source": "ocr",
+        "context": " et) 2 eee 100\n八一 人面玉饰-pp 100\nKa  AGEREccn"
+      }
+    ],
+    "漆器": [
+      {
+        "text": "漆器",
+        "page": 9,
+        "source": "ocr",
+        "context": "e eee nes eects 149\n漆器钮饰及附件RN 150\n玉石玫、环每站1"
+      }
+    ],
+    "铁器": [
+      {
+        "text": "铁刀",
+        "page": 9,
+        "source": "ocr",
+        "context": "eees semeneeene 190\n铁刀、便等站Cs 191\n"
+      }
+    ]
+  }
+}

@@ -1,0 +1,648 @@
+{
+  "name": "大甸子",
+  "file": "大甸子.pdf",
+  "era": "夏商",
+  "culture": "夏家店下层文化",
+  "processed_pages": 14,
+  "total_entities": 100,
+  "entity_stats": {
+    "遗址名称": 11,
+    "遗迹类型": 7,
+    "层位关系": 4,
+    "铜器": 6,
+    "年代": 7,
+    "建筑结构": 3,
+    "遗迹编号": 29,
+    "陶器": 1,
+    "纹饰": 27,
+    "遗存类型": 1,
+    "探方编号": 3,
+    "测量数据": 1
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "夏家店",
+        "page": 4,
+        "source": "ocr",
+        "context": "74一1983 EEA\n赤峰大多子发掘的夏家店下层文化聚落遗址和著缆的发担报告, 该文"
+      },
+      {
+        "text": "大甸子",
+        "page": 6,
+        "source": "ocr",
+        "context": "《大甸子》是我所内蒙队 70一80 年代进行的颇"
+      },
+      {
+        "text": "夏家店",
+        "page": 6,
+        "source": "ocr",
+        "context": "\n当完好的典型聚落遗址。研究者把它划归*夏家店下层文化\"(1960 年提出)这个考古学"
+      },
+      {
+        "text": "敖汉",
+        "page": 9,
+        "source": "ocr",
+        "context": "\ncr\n\n-一\n\nii 图 目 OX\n\n敖汉旗大甸子遗址位置图 oven see v"
+      },
+      {
+        "text": "大甸子",
+        "page": 9,
+        "source": "ocr",
+        "context": "\n\n-一\n\nii 图 目 OX\n\n敖汉旗大甸子遗址位置图 oven see vnrec"
+      },
+      {
+        "text": "大甸子",
+        "page": 9,
+        "source": "ocr",
+        "context": "sannreceerensve (1)\n大甸子遗址、  摹地地形加ee ee eee "
+      },
+      {
+        "text": "大甸子",
+        "page": 15,
+        "source": "ocr",
+        "context": "大甸子地点的发现及发据工作概述\n\n夏家店下层文"
+      },
+      {
+        "text": "夏家店",
+        "page": 15,
+        "source": "ocr",
+        "context": "大甸子地点的发现及发据工作概述\n\n夏家店下层文化性质的地点在赤峰市(原昭乌达盟)"
+      },
+      {
+        "text": "敖汉",
+        "page": 15,
+        "source": "ocr",
+        "context": "旗、县发现的相当多。\n1974 年以前在敖汉族境内已经知道有一些地点 !，唯大甸子村"
+      },
+      {
+        "text": "大甸子",
+        "page": 15,
+        "source": "ocr",
+        "context": "前在敖汉族境内已经知道有一些地点 !，唯大甸子村这一个地点是 1974 年旗文\n化迄王"
+      },
+      {
+        "text": "大甸子",
+        "page": 15,
+        "source": "ocr",
+        "context": "老师首先发现的，并介绍给我们去工作。\n\n大甸子村在赤峰市赦汉旗的东南部(图一)，南上距"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "壕沟",
+        "page": 4,
+        "source": "ocr",
+        "context": "中原地区的夏代，\n揭必了一处有夯土围塘和壕沟围绕的居住史址以及有 804 A\n地。该"
+      },
+      {
+        "text": "墓葬",
+        "page": 12,
+        "source": "ocr",
+        "context": "\nEMSS\n蔓草陶器\nRRM\nEMSS\n墓葬陶器\n墓葬陶器\n莫苦陶器\nBENDS\nB"
+      },
+      {
+        "text": "墓葬",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n蔓草陶器\nRRM\nEMSS\n墓葬陶器\n墓葬陶器\n莫苦陶器\nBENDS\nBHM\nFE"
+      },
+      {
+        "text": "墓葬",
+        "page": 12,
+        "source": "ocr",
+        "context": "NDS\nBHM\nFENG 5\n墓苦陶器\n墓葬陶器\nBHM\nSFM OF\nBRB\nRR"
+      },
+      {
+        "text": "墓葬",
+        "page": 13,
+        "source": "ocr",
+        "context": "ROUR\nBFSS5 RUE\nBRS\n\n墓葬陶器\n\n莫大陶器\nSRE\nBRR\nBHM"
+      },
+      {
+        "text": "墓葬",
+        "page": 13,
+        "source": "ocr",
+        "context": "EMRE\n\nRH\n\nBRM\n\nBRS\n\n墓葬陶器\n"
+      },
+      {
+        "text": "墓葬",
+        "page": 14,
+        "source": "ocr",
+        "context": "BRM\n\n. Ba\n\nBHM\n\nRE\n\n墓葬陶器\n\naE Hg BE\n\nBPE MS"
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "夯土",
+        "page": 4,
+        "source": "ocr",
+        "context": "右,相当于中原地区的夏代，\n揭必了一处有夯土围塘和壕沟围绕的居住史址以及有 804 "
+      },
+      {
+        "text": "堆积",
+        "page": 7,
+        "source": "ocr",
+        "context": "snssesns (7)\n一、第 地点的堆积与中还 eeeerecccnscnsrs"
+      },
+      {
+        "text": "堆积",
+        "page": 7,
+        "source": "ocr",
+        "context": "neneenes (7)\n二，第二地点的堆积与毅迹  tosveccesecenos"
+      },
+      {
+        "text": "堆积",
+        "page": 7,
+        "source": "ocr",
+        "context": "rsenees (11)\n三、第三地点的堆积与史迹。 eeee eseeee see"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "饰",
+        "page": 4,
+        "source": "ocr",
+        "context": "发生过程,以及中国商,周青铜器某些特有纹饰的渊漂, 都具有\n重要的参考价值。\n\n中"
+      },
+      {
+        "text": "环",
+        "page": 8,
+        "source": "ocr",
+        "context": "治区赤峰市距今 8000一2400 年间环境考古学的初步研究。。 (323)\n附录"
+      },
+      {
+        "text": "饰",
+        "page": 12,
+        "source": "ocr",
+        "context": "BRB\nRREG\n\nBARE.\n\n彩绘纹饰\n彩绘纹饰\n彩绘纹饰\n彩绘纹饰\n\nUti"
+      },
+      {
+        "text": "饰",
+        "page": 12,
+        "source": "ocr",
+        "context": "REG\n\nBARE.\n\n彩绘纹饰\n彩绘纹饰\n彩绘纹饰\n彩绘纹饰\n\nUti\n\n版\n\n"
+      },
+      {
+        "text": "饰",
+        "page": 12,
+        "source": "ocr",
+        "context": "BARE.\n\n彩绘纹饰\n彩绘纹饰\n彩绘纹饰\n彩绘纹饰\n\nUti\n\n版\n\nA\n\n录\n"
+      },
+      {
+        "text": "饰",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n\n彩绘纹饰\n彩绘纹饰\n彩绘纹饰\n彩绘纹饰\n\nUti\n\n版\n\nA\n\n录\n"
+      }
+    ],
+    "年代": [
+      {
+        "text": "夏代",
+        "page": 4,
+        "source": "ocr",
+        "context": "滤今约 3600年左右,相当于中原地区的夏代，\n揭必了一处有夯土围塘和壕沟围绕的居住"
+      },
+      {
+        "text": "商代",
+        "page": 4,
+        "source": "ocr",
+        "context": "由相信中国青钢器上\n某些花纹的“母体\"在商代之前即已形成，\n\n本书对于斌究该文化的埋"
+      },
+      {
+        "text": "元",
+        "page": 4,
+        "source": "ocr",
+        "context": " «+ 54\n\nEth: 110.00 元\n"
+      },
+      {
+        "text": "明",
+        "page": 6,
+        "source": "ocr",
+        "context": "消\n晰、连绵不断达几百年之久，文化特征鲜明，有高度发展的社群的历史。是迄今所知这一"
+      },
+      {
+        "text": "清",
+        "page": 13,
+        "source": "ocr",
+        "context": "物\n遗址东侧莫地\n\nBY Nah\n\n莫底清理与墓壁痕迹\nLAH AIR\nARRAS"
+      },
+      {
+        "text": "辽",
+        "page": 15,
+        "source": "ocr",
+        "context": "村在赤峰市赦汉旗的东南部(图一)，南上距辽宁省北票县约 55 公里(直线距离)。\n"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "ocr",
+        "context": "间的沟崖深近 10 米，据当地老人记亿是清光绪年间雨水成患，开始冲刷出来\n的。村东"
+      }
+    ],
+    "建筑结构": [
+      {
+        "text": "夯土",
+        "page": 4,
+        "source": "ocr",
+        "context": "右,相当于中原地区的夏代，\n揭必了一处有夯土围塘和壕沟围绕的居住史址以及有 804 "
+      },
+      {
+        "text": "门道",
+        "page": 9,
+        "source": "ocr",
+        "context": "6)\n第三地点及 TO, T1O 西北壁门道前面与门道西北便墙面砌石侧视 ……………"
+      },
+      {
+        "text": "门道",
+        "page": 9,
+        "source": "ocr",
+        "context": "地点及 TO, T1O 西北壁门道前面与门道西北便墙面砌石侧视 …………… (18)"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "G1",
+        "page": 7,
+        "source": "ocr",
+        "context": "escserseserecssases G1)\nHi. HLL 7} SFE BLT"
+      },
+      {
+        "text": "T5",
+        "page": 9,
+        "source": "ocr",
+        "context": "nsranenss (11)\n第二地点 T5 FR RE CAMP AR] TAT "
+      },
+      {
+        "text": "H6",
+        "page": 9,
+        "source": "ocr",
+        "context": "……… (18)\n第三地点 T6AHS、H6 IE BABE ceceereccoe"
+      },
+      {
+        "text": "M672",
+        "page": 9,
+        "source": "ocr",
+        "context": "oeosoeooovssee (40)\nM672, 677 草具结构图 cocesnre"
+      },
+      {
+        "text": "M726",
+        "page": 9,
+        "source": "ocr",
+        "context": "snneenecoeeens (47)\nM726 平、裔面及遗物分布图 eossocec"
+      },
+      {
+        "text": "M672",
+        "page": 9,
+        "source": "ocr",
+        "context": "untansensesses (48)\nM672 3, BA) fy Re BRIG} "
+      },
+      {
+        "text": "M677",
+        "page": 9,
+        "source": "ocr",
+        "context": "aseesonewerses (50)\nM677 平，痢面及遗物分布图…………OO On"
+      },
+      {
+        "text": "M905",
+        "page": 9,
+        "source": "ocr",
+        "context": "nsenseerencons (52)\nM905 3%, FATT BRUSH [Bl "
+      },
+      {
+        "text": "M713",
+        "page": 9,
+        "source": "ocr",
+        "context": "sssonsensenres (53)\nM713 32, PHP Be iB YG) A"
+      },
+      {
+        "text": "M612",
+        "page": 10,
+        "source": "ocr",
+        "context": "|   Oe\n\ntl\n\n1\nAS\no\n\nM612 FE. Fil Fy BR i849 "
+      },
+      {
+        "text": "M371",
+        "page": 10,
+        "source": "ocr",
+        "context": "ventessver ns (55)\n\nM371 32. FA TH) Bet) 4) "
+      },
+      {
+        "text": "M1144",
+        "page": 10,
+        "source": "ocr",
+        "context": "ensscssasonses (57)\nM1144 32, Bi) RUA ABR coe"
+      },
+      {
+        "text": "M1164",
+        "page": 10,
+        "source": "ocr",
+        "context": "cnceaaresweavw (59)\nM1164, M673 32. Bil iB] y"
+      },
+      {
+        "text": "M673",
+        "page": 10,
+        "source": "ocr",
+        "context": "esweavw (59)\nM1164, M673 32. Bil iB] yO 87 5"
+      },
+      {
+        "text": "M799",
+        "page": 10,
+        "source": "ocr",
+        "context": "errecensrsooes (61)\nM799, M441, M299 3%, Bil"
+      },
+      {
+        "text": "M441",
+        "page": 10,
+        "source": "ocr",
+        "context": "nsrsooes (61)\nM799, M441, M299 3%, Bil [i] i"
+      },
+      {
+        "text": "M299",
+        "page": 10,
+        "source": "ocr",
+        "context": "es (61)\nM799, M441, M299 3%, Bil [i] i474) A"
+      },
+      {
+        "text": "M666",
+        "page": 11,
+        "source": "ocr",
+        "context": "sesaneceesees (192)\nM666 器物组合 Bene aaneeeces"
+      },
+      {
+        "text": "M818",
+        "page": 11,
+        "source": "ocr",
+        "context": "oceconnneraes (197)\nM818 BELT -ssvssescrorcc"
+      },
+      {
+        "text": "M672",
+        "page": 11,
+        "source": "ocr",
+        "context": "sesesecerunes (198)\nM672 器物组合 vereccvccenenn"
+      },
+      {
+        "text": "M706",
+        "page": 11,
+        "source": "ocr",
+        "context": "toseeaaneyeey (200)\nM706 器物组合 .eeeeeeeoeeoss"
+      },
+      {
+        "text": "M853",
+        "page": 11,
+        "source": "ocr",
+        "context": "osevessereees (201)\nM853 器物组合 eveeeneee村+ (2"
+      },
+      {
+        "text": "M931",
+        "page": 11,
+        "source": "ocr",
+        "context": "合 eveeeneee村+ (202)\nM931 器物组合 ,……      机    "
+      },
+      {
+        "text": "M612",
+        "page": 11,
+        "source": "ocr",
+        "context": "           ee (203)\nM612 器物组合 。……eveonnesese"
+      },
+      {
+        "text": "M726",
+        "page": 11,
+        "source": "ocr",
+        "context": "eeobenpaseans (204)\nM726 器物组合 evevoeooseeeee"
+      },
+      {
+        "text": "M858",
+        "page": 14,
+        "source": "ocr",
+        "context": "SHAS\n\nBRS\n\n第一分组男性头骨(M858)\n第一分组女性头骨(M47)\n第一分组"
+      },
+      {
+        "text": "M47",
+        "page": 14,
+        "source": "ocr",
+        "context": "男性头骨(M858)\n第一分组女性头骨(M47)\n第一分组女性头骨(M5S2)\n第二分"
+      },
+      {
+        "text": "M5",
+        "page": 14,
+        "source": "ocr",
+        "context": "女性头骨(M5S2)\n第二分组男性头骨(M5)\n第三分组男性头肯(M732)\n第三分"
+      },
+      {
+        "text": "M732",
+        "page": 14,
+        "source": "ocr",
+        "context": "分组男性头骨(M5)\n第三分组男性头肯(M732)\n第三分组女性头骨(Mg8i8)\nBH"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "环",
+        "page": 8,
+        "source": "ocr",
+        "context": "治区赤峰市距今 8000一2400 年间环境考古学的初步研究。。 (323)\n附录"
+      }
+    ],
+    "纹饰": [
+      {
+        "text": "彩绘",
+        "page": 8,
+        "source": "ocr",
+        "context": "ecsdecovn (69)\n\n(2) 彩绘统式 rwewevevecerseccc"
+      },
+      {
+        "text": "彩绘",
+        "page": 10,
+        "source": "ocr",
+        "context": "ssooioeoosen本 (100)\n彩绘 Aa 式 101一105 花纹eeoo"
+      },
+      {
+        "text": "彩绘",
+        "page": 10,
+        "source": "ocr",
+        "context": "eseesyeeaaeee {105)\n彩绘 Na 式 106一113 花纹。oee"
+      },
+      {
+        "text": "彩绘",
+        "page": 10,
+        "source": "ocr",
+        "context": "ecssnvenecnes (107)\n彩绘 Aa 114, 116—120 TEL"
+      },
+      {
+        "text": "彩绘",
+        "page": 10,
+        "source": "ocr",
+        "context": "esaceespeoens (109)\n彩绘 Aa 式 121126 TE crsn"
+      },
+      {
+        "text": "彩绘",
+        "page": 10,
+        "source": "ocr",
+        "context": "      本         ai)\n彩绘 Ab 式 101 —108 花纹ee "
+      },
+      {
+        "text": "彩绘",
+        "page": 10,
+        "source": "ocr",
+        "context": "101 —108 花纹ee (113}\n彩绘 Ab 式 109-414 TE LY "
+      },
+      {
+        "text": "彩绘",
+        "page": 10,
+        "source": "ocr",
+        "context": "sssovenseesoo (114)\n彩绘 Ab xt 115一118 TERN "
+      },
+      {
+        "text": "彩绘",
+        "page": 10,
+        "source": "ocr",
+        "context": "revconstacere (116)\n彩绘 Ab 式 119一123 ZELzov"
+      },
+      {
+        "text": "彩绘",
+        "page": 10,
+        "source": "ocr",
+        "context": "ossesseterses (117)\n彩绘 Ab 式 124一134 花纹evee"
+      },
+      {
+        "text": "彩绘",
+        "page": 11,
+        "source": "ocr",
+        "context": "从四\n八五\n从六\n八七\nKAN\nAR\n\n彩绘 Ab 起 135143 ELC erc"
+      },
+      {
+        "text": "彩绘",
+        "page": 11,
+        "source": "ocr",
+        "context": "sunrecsoaces (121)\n\n彩绘 Ab 式 144451 花纹PPPPT"
+      },
+      {
+        "text": "彩绘",
+        "page": 11,
+        "source": "ocr",
+        "context": "iriiTit eerie (122)\n彩绘 Ab 式 201一208 FE BL "
+      },
+      {
+        "text": "彩绘",
+        "page": 11,
+        "source": "ocr",
+        "context": "avercnansenee (124)\n彩绘 Ab 起 301 —307 PE Ly"
+      },
+      {
+        "text": "彩绘",
+        "page": 11,
+        "source": "ocr",
+        "context": "ensserareeess (125)\n彩绘 Ab 式 308一313 TE Dle"
+      },
+      {
+        "text": "彩绘",
+        "page": 11,
+        "source": "ocr",
+        "context": "conenosonenes (127)\n彩绘 Ab 式 314一323 花纹。。ee"
+      },
+      {
+        "text": "彩绘",
+        "page": 11,
+        "source": "ocr",
+        "context": "onoeyooonones (129}\n彩绘 Ab 式 324328 [Bay re"
+      },
+      {
+        "text": "彩绘",
+        "page": 11,
+        "source": "ocr",
+        "context": "eassessasonvas (31)\n彩绘 Ba 式 10]一108 i hs M"
+      },
+      {
+        "text": "彩绘",
+        "page": 11,
+        "source": "ocr",
+        "context": "i hs Meee eee (132)\n彩绘 Bb 式 LOL —-111 GEER"
+      },
+      {
+        "text": "彩绘",
+        "page": 11,
+        "source": "ocr",
+        "context": "coasnonsasens (133)\n彩绘 Bb 式 112一121 FELL -"
+      },
+      {
+        "text": "彩绘",
+        "page": 11,
+        "source": "ocr",
+        "context": "venesver eves (135)\n彩绘 Bb TE 122—133 FEL c"
+      },
+      {
+        "text": "彩绘",
+        "page": 11,
+        "source": "ocr",
+        "context": "esscceeresres (137)\n彩绘 Bo 式 133一143 TEA co"
+      },
+      {
+        "text": "彩绘",
+        "page": 11,
+        "source": "ocr",
+        "context": "sonssnecsasons(139)\n彩绘 Bb 式 201一207 FEL we"
+      },
+      {
+        "text": "彩绘",
+        "page": 12,
+        "source": "ocr",
+        "context": "OF\nBRB\nRREG\n\nBARE.\n\n彩绘纹饰\n彩绘纹饰\n彩绘纹饰\n彩绘纹饰\n\nU"
+      },
+      {
+        "text": "彩绘",
+        "page": 12,
+        "source": "ocr",
+        "context": "B\nRREG\n\nBARE.\n\n彩绘纹饰\n彩绘纹饰\n彩绘纹饰\n彩绘纹饰\n\nUti\n\n版"
+      },
+      {
+        "text": "彩绘",
+        "page": 12,
+        "source": "ocr",
+        "context": "G\n\nBARE.\n\n彩绘纹饰\n彩绘纹饰\n彩绘纹饰\n彩绘纹饰\n\nUti\n\n版\n\nA\n\n"
+      },
+      {
+        "text": "彩绘",
+        "page": 12,
+        "source": "ocr",
+        "context": "RE.\n\n彩绘纹饰\n彩绘纹饰\n彩绘纹饰\n彩绘纹饰\n\nUti\n\n版\n\nA\n\n录\n"
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "人骨",
+        "page": 8,
+        "source": "ocr",
+        "context": "t站 {222)\n附录一“大外子蔓幕出土人骨的研究 oneoooeonoonnsns"
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T5",
+        "page": 9,
+        "source": "ocr",
+        "context": "nsranenss (11)\n第二地点 T5 FR RE CAMP AR] TAT "
+      },
+      {
+        "text": "T1O",
+        "page": 9,
+        "source": "ocr",
+        "context": "eces (16)\n第三地点及 TO, T1O 西北壁门道前面与门道西北便墙面砌石侧视"
+      },
+      {
+        "text": "T6A",
+        "page": 9,
+        "source": "ocr",
+        "context": "石侧视 …………… (18)\n第三地点 T6AHS、H6 IE BABE ceceer"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": " 10 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "近旁并无古河道。村\n舍与遗址间的沟崖深近 10 米，据当地老人记亿是清光绪年间雨水成患，开"
+      }
+    ]
+  }
+}

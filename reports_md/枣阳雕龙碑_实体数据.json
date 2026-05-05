@@ -1,0 +1,591 @@
+{
+  "name": "枣阳雕龙碑",
+  "file": "枣阳雕龙碑.pdf",
+  "era": "新石器",
+  "culture": "仰韶-屈家岭",
+  "processed_pages": 14,
+  "total_entities": 90,
+  "entity_stats": {
+    "遗址名称": 19,
+    "遗迹编号": 25,
+    "陶器": 4,
+    "铜器": 5,
+    "年代": 19,
+    "葬具": 1,
+    "建筑结构": 4,
+    "遗迹类型": 4,
+    "测量数据": 3,
+    "遗存类型": 2,
+    "层位关系": 1,
+    "探方编号": 2,
+    "纹饰": 1
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "雕龙碑",
+        "page": 3,
+        "source": "ocr",
+        "context": "器时代遗址的全部田对考古发掘资料，\n包括雕龙碑遗址发据出土的大型多间上房屋建筑、藉坑、"
+      },
+      {
+        "text": "雕龙碑",
+        "page": 5,
+        "source": "ocr",
+        "context": "会变化的重要新\n资料。《惠阳雕龙碎》 是雕龙碑遗址的考证发气报告，这一课题被列为国家社"
+      },
+      {
+        "text": "雕龙碑",
+        "page": 5,
+        "source": "ocr",
+        "context": "了这项\n研究工作的科学性、创新性。《赤阳雕龙碑》 是按时完成的国家社会科学基金全究项\n"
+      },
+      {
+        "text": "雕龙碑",
+        "page": 6,
+        "source": "ocr",
+        "context": "等的一份系统资料和初步研究成果。特别是\n雕龙碑第三期文化遗存的聚落中，发现有以“田”."
+      },
+      {
+        "text": "雕龙碑",
+        "page": 6,
+        "source": "ocr",
+        "context": "游和长江中游两大史前文化系统的交汇地带。雕龙碑遗址的发掘资料\n中,还重点展现了南北两大"
+      },
+      {
+        "text": "雕龙碑",
+        "page": 6,
+        "source": "ocr",
+        "context": "\n地位,也具有重要的学术价值。\n\n《惠阳雕龙碑》考古专刊的结构合理，资料翔实完整，与多"
+      },
+      {
+        "text": "雕龙碑",
+        "page": 7,
+        "source": "ocr",
+        "context": "90 ~ 1994 年发据湖北省\n刺阳市雕龙碑遗址的田野考古报告，这是我国新石器时代考"
+      },
+      {
+        "text": "雕龙碑",
+        "page": 7,
+        "source": "ocr",
+        "context": "石器时代考古学上的--项重要新成果。\n\n雕龙碑遗址是一处保存较好的原始氏族聚落扯址，发"
+      },
+      {
+        "text": "雕龙碑",
+        "page": 8,
+        "source": "ocr",
+        "context": "前\n\n湖北省杰阴市雕龙碑但址是中国社会科学院考古研究所湖北队于 "
+      },
+      {
+        "text": "雕龙碑",
+        "page": 8,
+        "source": "ocr",
+        "context": "，在 1989 年向所领导\n提出建议发据雕龙碑遗址，获得批准后，由研究室组织湖北队有关"
+      },
+      {
+        "text": "雕龙碑",
+        "page": 8,
+        "source": "ocr",
+        "context": "位。同年，囊阳市政府又在过址上建立了“有雕龙碑文物管理处\" ，并在遗址周边\n修建了围墙"
+      },
+      {
+        "text": "雕龙碑",
+        "page": 8,
+        "source": "ocr",
+        "context": "进行永久性保护。1996 年国务院又公布雕龙碑遗址为全国第四批重点文\n\nTit\n\n他 "
+      },
+      {
+        "text": "雕龙碑",
+        "page": 9,
+        "source": "ocr",
+        "context": " FE AME HE\n\n物保护单位。\n\n雕龙碑为巡址所在地的和名称，而非村名或其他地名"
+      },
+      {
+        "text": "雕龙碑",
+        "page": 9,
+        "source": "ocr",
+        "context": "。围墙内土地现由“赔龙碑文物管理处”\n\n雕龙碑踪址之所以重要，是因为该遗址所处的南北交"
+      },
+      {
+        "text": "雕龙碑",
+        "page": 9,
+        "source": "ocr",
+        "context": "汇地带的聚落建筑，更有重要的价值。今天，雕龙碑遗址\n已经成为当地政府对群众进行爱国主义"
+      },
+      {
+        "text": "雕龙碑",
+        "page": 12,
+        "source": "ocr",
+        "context": "           -\n六、 潮北谈阳雕龙碑遗必孢粉分析研究Se\n附表\n附表一”房屋"
+      },
+      {
+        "text": "雕龙碑",
+        "page": 13,
+        "source": "ocr",
+        "context": " 柱洞登记表…\nFl4 柱洞登记表…\n\n雕龙碑遗址碳-14 测定年代一览表\n雕龙牧址址"
+      },
+      {
+        "text": "雕龙碑",
+        "page": 14,
+        "source": "ocr",
+        "context": "图一 MCR ……\n图二”雕龙碑遗址地理环境\n图三”雕龙碑遗址发气探方坑"
+      },
+      {
+        "text": "雕龙碑",
+        "page": 14,
+        "source": "ocr",
+        "context": " ……\n图二”雕龙碑遗址地理环境\n图三”雕龙碑遗址发气探方坑位\n图四A ~图四 D 遗"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "K871",
+        "page": 3,
+        "source": "ocr",
+        "context": " KK - 发掘报告 - SA\nWV. K871. 183\n\n中国版本图书馆 CIP 数"
+      },
+      {
+        "text": "P19",
+        "page": 7,
+        "source": "ocr",
+        "context": "\n式订门结构踪迹。本报告对 PIS 和 P19 等房屋的发气资料进行了较深入的研究，作"
+      },
+      {
+        "text": "F13",
+        "page": 13,
+        "source": "ocr",
+        "context": "\nfi RAR\n\nFl 柱洞登记表…\n\nF13 柱洞登记表…\nFl4 柱洞登记表…\n\n"
+      },
+      {
+        "text": "T1906",
+        "page": 14,
+        "source": "ocr",
+        "context": "四A ~图四 D 遗迹分布总平面\n图五 T1906 ~ T1909 东壁大剖面 -\nHA "
+      },
+      {
+        "text": "T1909",
+        "page": 14,
+        "source": "ocr",
+        "context": " 遗迹分布总平面\n图五 T1906 ~ T1909 东壁大剖面 -\nHA 12013 ~ "
+      },
+      {
+        "text": "H35",
+        "page": 14,
+        "source": "ocr",
+        "context": "剖面图\nax Hoo}, Hm\n图一三“H35 平、齐面图\n图一四 “H40平、剖面图"
+      },
+      {
+        "text": "M88",
+        "page": 14,
+        "source": "ocr",
+        "context": "图一四 “H40平、剖面图 …\n图一五 M88 平、剖面图 …\n图一六 M80 平、剖"
+      },
+      {
+        "text": "M80",
+        "page": 14,
+        "source": "ocr",
+        "context": "图一五 M88 平、剖面图 …\n图一六 M80 平、剖面图 …\n图一七”Mi05 平面"
+      },
+      {
+        "text": "M129",
+        "page": 14,
+        "source": "ocr",
+        "context": "一作 MI124平、剖面图 …\n图一九 M129 平面图 ……\n图二 JS8 平、章面图"
+      },
+      {
+        "text": "M21",
+        "page": 15,
+        "source": "ocr",
+        "context": "彩陶片\n\nY= 824平、剖面图\n\n六 M21 平、剂面图\n\n第--期文化遗存冰足…\n"
+      },
+      {
+        "text": "F7",
+        "page": 15,
+        "source": "ocr",
+        "context": "存骨、角 HERE\nFI 平、裔面图…\nF7%, aime\nFSF, ama\nFe."
+      },
+      {
+        "text": "H26",
+        "page": 15,
+        "source": "ocr",
+        "context": "FO, aim\nA20%, MES -\nH26 平 am\n430%. am -\nB31"
+      },
+      {
+        "text": "H63",
+        "page": 15,
+        "source": "ocr",
+        "context": ". am -\nB31 5%, A -\n\nH63 平、剖面图\nM357, HG -\nM4"
+      },
+      {
+        "text": "M357",
+        "page": 15,
+        "source": "ocr",
+        "context": " 5%, A -\n\nH63 平、剖面图\nM357, HG -\nM47, AGE\n\nM22"
+      },
+      {
+        "text": "M47",
+        "page": 15,
+        "source": "ocr",
+        "context": "63 平、剖面图\nM357, HG -\nM47, AGE\n\nM22 °F. aT -\n"
+      },
+      {
+        "text": "M22",
+        "page": 15,
+        "source": "ocr",
+        "context": "357, HG -\nM47, AGE\n\nM22 °F. aT -\nM237, WA\nM"
+      },
+      {
+        "text": "M237",
+        "page": 15,
+        "source": "ocr",
+        "context": ", AGE\n\nM22 °F. aT -\nM237, WA\nM27 平、剖面图\nM28 平"
+      },
+      {
+        "text": "M27",
+        "page": 15,
+        "source": "ocr",
+        "context": "2 °F. aT -\nM237, WA\nM27 平、剖面图\nM28 平 、剂曾图\nM3"
+      },
+      {
+        "text": "M28",
+        "page": 15,
+        "source": "ocr",
+        "context": "\nM237, WA\nM27 平、剖面图\nM28 平 、剂曾图\nM30平、剂面图\nM48"
+      },
+      {
+        "text": "M4872",
+        "page": 15,
+        "source": "ocr",
+        "context": "M28 平 、剂曾图\nM30平、剂面图\nM4872, HR -\nMSO %. Am -\nM"
+      },
+      {
+        "text": "M52",
+        "page": 15,
+        "source": "ocr",
+        "context": "2, HR -\nMSO %. Am -\nM52 5%. ATA -\nM70平、剖面图，"
+      },
+      {
+        "text": "M75",
+        "page": 15,
+        "source": "ocr",
+        "context": "5%. ATA -\nM70平、剖面图，\nM75 平、剖面图\nM76 平、剖面图\nM77"
+      },
+      {
+        "text": "M76",
+        "page": 15,
+        "source": "ocr",
+        "context": "M70平、剖面图，\nM75 平、剖面图\nM76 平、剖面图\nM77 平、剖面图…\nM7"
+      },
+      {
+        "text": "M77",
+        "page": 15,
+        "source": "ocr",
+        "context": "M75 平、剖面图\nM76 平、剖面图\nM77 平、剖面图…\nM78 平、剖面图\n\n"
+      },
+      {
+        "text": "M78",
+        "page": 15,
+        "source": "ocr",
+        "context": "76 平、剖面图\nM77 平、剖面图…\nM78 平、剖面图\n\n"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "环",
+        "page": 3,
+        "source": "ocr",
+        "context": "学、先秦史、民族学、人类学、文化地理学、环境考\n圳学 、动物考古学等学科及其在校高"
+      },
+      {
+        "text": "盆",
+        "page": 6,
+        "source": "ocr",
+        "context": "化的典型例证之一。该遗址地处与琼西南南阳盆地接壤的随杰走廊地\n区，正是黄河中游和长"
+      },
+      {
+        "text": "环",
+        "page": 10,
+        "source": "ocr",
+        "context": "第一节 ”地理位置与自然环境ee\n第二节 Rett\n\n… (10)"
+      },
+      {
+        "text": "环",
+        "page": 14,
+        "source": "ocr",
+        "context": "图一 MCR ……\n图二”雕龙碑遗址地理环境\n图三”雕龙碑遗址发气探方坑位\n图四A"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "环",
+        "page": 3,
+        "source": "ocr",
+        "context": "学、先秦史、民族学、人类学、文化地理学、环境考\n圳学 、动物考古学等学科及其在校高"
+      },
+      {
+        "text": "盆",
+        "page": 6,
+        "source": "ocr",
+        "context": "化的典型例证之一。该遗址地处与琼西南南阳盆地接壤的随杰走廊地\n区，正是黄河中游和长"
+      },
+      {
+        "text": "钟",
+        "page": 8,
+        "source": "ocr",
+        "context": "文物处提供的有关资料，有针对性地对研门、钟祥和\nA Sih, ag 12 处遗址进"
+      },
+      {
+        "text": "环",
+        "page": 10,
+        "source": "ocr",
+        "context": "第一节 ”地理位置与自然环境ee\n第二节 Rett\n\n… (10)"
+      },
+      {
+        "text": "环",
+        "page": 14,
+        "source": "ocr",
+        "context": "图一 MCR ……\n图二”雕龙碑遗址地理环境\n图三”雕龙碑遗址发气探方坑位\n图四A"
+      }
+    ],
+    "年代": [
+      {
+        "text": "新石器时代",
+        "page": 3,
+        "source": "ocr",
+        "context": " ~\n1992 年发掘湖北省束阳市榴龙碑新石器时代遗址的全部田对考古发掘资料，\n包括雕龙碑"
+      },
+      {
+        "text": "秦",
+        "page": 3,
+        "source": "ocr",
+        "context": "都具有重要价值-\n\n记书是史前考古学、先秦史、民族学、人类学、文化地理学、环境考\n"
+      },
+      {
+        "text": "宋",
+        "page": 3,
+        "source": "ocr",
+        "context": ") 第 129076 号\n\n责任编辑: 宋小侍 / 责任校对: MOR\n责任印制:"
+      },
+      {
+        "text": "元",
+        "page": 3,
+        "source": "ocr",
+        "context": "891 000\n定价: 280. 00 元\n《如有印装质量问题，我社负责调换〈科印"
+      },
+      {
+        "text": "金",
+        "page": 4,
+        "source": "ocr",
+        "context": "01 ~ 2002 年度\n国家社会科学基金研究项目\n\n本书出版得到\n中国社会科学院"
+      },
+      {
+        "text": "金",
+        "page": 4,
+        "source": "ocr",
+        "context": "目\n\n本书出版得到\n中国社会科学院出版基金\n资助\n"
+      },
+      {
+        "text": "新石器时代",
+        "page": 5,
+        "source": "ocr",
+        "context": " 年在湖北省束\n阳市考古发气的一处重要的新石器时代聚落遗址，该遗址位于湖北北部随束走廊地区"
+      },
+      {
+        "text": "秦",
+        "page": 5,
+        "source": "ocr",
+        "context": "原地区通向江汉平原的重要交通要冲之一。 秦岭与淮河是我国自然地理、\n经济地理的重要"
+      },
+      {
+        "text": "秦",
+        "page": 5,
+        "source": "ocr",
+        "context": "化的重要交融地带。上阳恰恰\n在上述淮河、秦岭东西线的中部，杰阳具龙碎遗址对研究史前"
+      },
+      {
+        "text": "金",
+        "page": 5,
+        "source": "ocr",
+        "context": "赤阳雕龙碑》 是按时完成的国家社会科学基金全究项\n目，是我国新石器时代考古的一项重"
+      },
+      {
+        "text": "新石器时代",
+        "page": 5,
+        "source": "ocr",
+        "context": "完成的国家社会科学基金全究项\n目，是我国新石器时代考古的一项重要科研成果。为此，中国社会科"
+      },
+      {
+        "text": "新石器时代",
+        "page": 6,
+        "source": "ocr",
+        "context": "当 1500 年。同龙碑考古报告，提供了新石器时代晚期地区性文化的序列框架、\n诸址存面金、"
+      },
+      {
+        "text": "金",
+        "page": 6,
+        "source": "ocr",
+        "context": "时代晚期地区性文化的序列框架、\n诸址存面金、社会生活以及与局分文化关系等的一份系统"
+      },
+      {
+        "text": "新石器时代",
+        "page": 7,
+        "source": "ocr",
+        "context": "刺阳市雕龙碑遗址的田野考古报告，这是我国新石器时代考古学上的--项重要新成果。\n\n雕龙碑遗"
+      },
+      {
+        "text": "清",
+        "page": 7,
+        "source": "ocr",
+        "context": "物，出土有以舟和和栗为主的原始农业遗存，清理 30 余座有猪下颌肯随莫的\nRAMA"
+      },
+      {
+        "text": "新石器时代",
+        "page": 8,
+        "source": "ocr",
+        "context": "0 世纪 90 年代初\n发掘的一个重要的新石器时代考古中址。该遗址于 1957 年在湖北省"
+      },
+      {
+        "text": "明",
+        "page": 8,
+        "source": "ocr",
+        "context": "R, BAR, BLA\n报，人民日报、光明日报、中国青年报、文汇报、北京日报、人民"
+      },
+      {
+        "text": "新石器时代",
+        "page": 13,
+        "source": "ocr",
+        "context": "、南亚人种头骨测量的比较\n\n惠阳组与其他新石器时代颅肯的 11 项测量平均值比较\n对比组在"
+      },
+      {
+        "text": "新石器时代",
+        "page": 13,
+        "source": "ocr",
+        "context": " (dik) fA -\n谈阳组与其他败组新石器时代颅骨的指数比较〈 )\n对比组在 7 项指"
+      }
+    ],
+    "葬具": [
+      {
+        "text": "棺",
+        "page": 3,
+        "source": "ocr",
+        "context": "土的大型多间上房屋建筑、藉坑、土坑蔓和人棺郑、\nSHEL, UR KRIS, HO"
+      }
+    ],
+    "建筑结构": [
+      {
+        "text": "居住面",
+        "page": 7,
+        "source": "ocr",
+        "context": "式大型红伐土房屋建筑，现存有较高的墙体、居住面 、木质门框和推拉\n式订门结构踪迹。本报"
+      },
+      {
+        "text": "柱洞",
+        "page": 13,
+        "source": "ocr",
+        "context": "表二一\n表二二\n\nfi RAR\n\nFl 柱洞登记表…\n\nF13 柱洞登记表…\nFl4"
+      },
+      {
+        "text": "柱洞",
+        "page": 13,
+        "source": "ocr",
+        "context": "RAR\n\nFl 柱洞登记表…\n\nF13 柱洞登记表…\nFl4 柱洞登记表…\n\n雕龙碑"
+      },
+      {
+        "text": "柱洞",
+        "page": 13,
+        "source": "ocr",
+        "context": "记表…\n\nF13 柱洞登记表…\nFl4 柱洞登记表…\n\n雕龙碑遗址碳-14 测定年代"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "房址",
+        "page": 8,
+        "source": "ocr",
+        "context": "所池北队; (MALE RRM 15 号房址》，《考\n古》2000 年第3期。\n"
+      },
+      {
+        "text": "房址",
+        "page": 9,
+        "source": "ocr",
+        "context": "位置，尤其\n是发拉出土的一批红烧士多间式房址和以大量猪头骨或猪下颌骨随病的莫莫，以及"
+      },
+      {
+        "text": "房址",
+        "page": 9,
+        "source": "ocr",
+        "context": "的实物资料，特别是首次发现的红烧士多间式房址上\n的推拉门结构，对研究南北交汇地带的聚"
+      },
+      {
+        "text": "灰坑",
+        "page": 12,
+        "source": "ocr",
+        "context": "          (409)\n附表二”灰坑登记表 …               "
+      }
+    ],
+    "测量数据": [
+      {
+        "text": "4 米",
+        "page": 9,
+        "source": "ocr",
+        "context": "为一个实圆形大土包，高出周围耕地 3 一4 米。南北长 250 、东西宽约 200\n米"
+      },
+      {
+        "text": " 200\n米",
+        "page": 9,
+        "source": "ocr",
+        "context": "3 一4 米。南北长 250 、东西宽约 200\n米，总面积约 50000 平方米。以后经历"
+      },
+      {
+        "text": "宽\n135 米",
+        "page": 9,
+        "source": "ocr",
+        "context": "的中心保护区,围墙南北长 179 、东西宽\n135 米，中心保护区面积近 25000 平方米。"
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "陶片",
+        "page": 9,
+        "source": "ocr",
+        "context": "台上及其周围均为农田，地表原散布着许多碎陶片和红烧士块。\n1993 年修建的围墙，是"
+      },
+      {
+        "text": "陶片",
+        "page": 15,
+        "source": "ocr",
+        "context": "七\n图五八\n图五九\n\n-第一期文化遗存彩陶片\n\nY= 824平、剖面图\n\n六 M21"
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "堆积",
+        "page": 13,
+        "source": "ocr",
+        "context": "测定年代一览表\n雕龙牧址址与周边遗址文化堆积对\n性别、年龄分布 ee\n未成年个体年龄"
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T1906",
+        "page": 14,
+        "source": "ocr",
+        "context": "四A ~图四 D 遗迹分布总平面\n图五 T1906 ~ T1909 东壁大剖面 -\nHA "
+      },
+      {
+        "text": "T1909",
+        "page": 14,
+        "source": "ocr",
+        "context": " 遗迹分布总平面\n图五 T1906 ~ T1909 东壁大剖面 -\nHA 12013 ~ "
+      }
+    ],
+    "纹饰": [
+      {
+        "text": "彩陶",
+        "page": 15,
+        "source": "ocr",
+        "context": "五七\n图五八\n图五九\n\n-第一期文化遗存彩陶片\n\nY= 824平、剖面图\n\n六 M2"
+      }
+    ]
+  }
+}

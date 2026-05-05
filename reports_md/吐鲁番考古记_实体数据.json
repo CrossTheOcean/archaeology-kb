@@ -1,0 +1,30 @@
+{
+  "name": "吐鲁番考古记",
+  "file": "吐鲁番考古记.pdf",
+  "era": "高昌",
+  "culture": "西域文化",
+  "processed_pages": 14,
+  "total_entities": 2,
+  "entity_stats": {
+    "遗址名称": 1,
+    "年代": 1
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "吐鲁番",
+        "page": 2,
+        "source": "ocr",
+        "context": "Aa ow RF TI\n第 = wR\n\n吐鲁番考古\n\nBe hy\n\n1 BS BY} "
+      }
+    ],
+    "年代": [
+      {
+        "text": "元",
+        "page": 3,
+        "source": "ocr",
+        "context": "  2200 Bak HK 50,000元\n"
+      }
+    ]
+  }
+}

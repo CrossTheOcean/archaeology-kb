@@ -1,0 +1,782 @@
+{
+  "name": "上村岭虢国墓地",
+  "file": "上村岭虢国墓地.pdf",
+  "processed_pages": 130,
+  "total_pages": 177,
+  "total_entities": 125,
+  "entity_stats": {
+    "测量数据": 64,
+    "探方编号": 3,
+    "遗迹编号": 38,
+    "年代": 10,
+    "陶器": 5,
+    "铜器": 4,
+    "遗址名称": 1
+  },
+  "entities": {
+    "测量数据": [
+      {
+        "text": "\n29m",
+        "page": 8,
+        "source": "ocr",
+        "context": "                   5\n29m                    "
+      },
+      {
+        "text": "                     7\nm",
+        "page": 8,
+        "source": "ocr",
+        "context": "               5\n29m                     7\nmine om              "
+      },
+      {
+        "text": "                2\nm",
+        "page": 8,
+        "source": "ocr",
+        "context": "          7\n第三章 HGH.                2\nmn 第                 "
+      },
+      {
+        "text": "\n2 m",
+        "page": 9,
+        "source": "ocr",
+        "context": "\n1 ee\n下 第1715、 7\n17s\n2 m9\n本\nam\nLT\naims:\nvem\n"
+      },
+      {
+        "text": " 2. m",
+        "page": 10,
+        "source": "ocr",
+        "context": "\n号可的负称外\n\n1,2. RRC 4) 2. mS 17\n\nK mums\nmH\n大 第1"
+      },
+      {
+        "text": " 7.1        m",
+        "page": 11,
+        "source": "ocr",
+        "context": "6, MRR eI BV LIS OL) 7.1        mires\nreoaresn 9.5, 0"
+      },
+      {
+        "text": "7 m",
+        "page": 12,
+        "source": "ocr",
+        "context": "\nHowes, meisscau)\n清二7 me 2.5 61)\n\nitters 16"
+      },
+      {
+        "text": " 120m",
+        "page": 12,
+        "source": "ocr",
+        "context": "es)». mxa\nPRs cc) >. 120m\n\nGeo. mace inssios "
+      },
+      {
+        "text": " 7. m",
+        "page": 12,
+        "source": "ocr",
+        "context": "0.3 (E27) 4, 364\n82) 7. muVsk 8 CL\n\nte ses0:1"
+      },
+      {
+        "text": "\n\n11m",
+        "page": 12,
+        "source": "ocr",
+        "context": " 7487 9.20 2\n\nE, BRR\n\n11m 17256 mE 3.5 (M22) "
+      },
+      {
+        "text": " 17256 m",
+        "page": 12,
+        "source": "ocr",
+        "context": " 9.20 2\n\nE, BRR\n\n11m 17256 mE 3.5 (M22) 2, 13) R"
+      },
+      {
+        "text": " 3m",
+        "page": 13,
+        "source": "ocr",
+        "context": ". REN HORA, ES OF\n3) 3mm assim, 2.3 OL) + A"
+      },
+      {
+        "text": " 1706 m",
+        "page": 13,
+        "source": "ocr",
+        "context": "6-9\nBR 81706 9\n‘te 第 1706 mt\n1. 17062285\n\n(5a w"
+      },
+      {
+        "text": " 2m",
+        "page": 14,
+        "source": "ocr",
+        "context": "AR esr. 54.5,\n本\n\n(BB 2m ese:72 se 17.5 cy\nM"
+      },
+      {
+        "text": "15 m",
+        "page": 14,
+        "source": "ocr",
+        "context": " REEMA 5) 2 IRN 170:15 m 05,018 9.5 (316\n\n21"
+      },
+      {
+        "text": " 175m",
+        "page": 14,
+        "source": "ocr",
+        "context": "05 ym mE\nF419 170810 175m 36.3¢ (16) 2. SIRES"
+      },
+      {
+        "text": "9. m",
+        "page": 14,
+        "source": "ocr",
+        "context": ", MEE. (C3)\nSw 1706-9. mi enw\n二 SRW 1706:70 "
+      },
+      {
+        "text": "10 m",
+        "page": 15,
+        "source": "ocr",
+        "context": "e\n\nhire pee\n\n4式 .a0:10 m 27.3, BE 26.5 (HC13"
+      },
+      {
+        "text": " 6.5 m",
+        "page": 15,
+        "source": "ocr",
+        "context": "5 (HC13) 2.00 178821 6.5 mE 14.2\n第1727 SCH 42\n"
+      },
+      {
+        "text": "\n\n7 m",
+        "page": 17,
+        "source": "ocr",
+        "context": "en.\nRET.\n= SABAH\n\nee\n\n7 mE:\n\n5 EERE.\n\nA tae\ns"
+      },
+      {
+        "text": " 16 m",
+        "page": 22,
+        "source": "ocr",
+        "context": "\nOx. Maa, Ho\nhe Fe A 16 me SCH BR\nie\n\nsMAR Hm"
+      },
+      {
+        "text": " 114 m",
+        "page": 22,
+        "source": "ocr",
+        "context": ". AMR SMES 26 ME AL, 114 me, 96 BI\n\n"
+      },
+      {
+        "text": " 1 m",
+        "page": 23,
+        "source": "ocr",
+        "context": " 2M TARMAC 24, Races 1 mE, aA tA fl\nvs 4. Ae"
+      },
+      {
+        "text": " 6m",
+        "page": 24,
+        "source": "ocr",
+        "context": "e tomer ey 34 应\nWein 6m, setcen 2 me; een\nf"
+      },
+      {
+        "text": " 2 m",
+        "page": 24,
+        "source": "ocr",
+        "context": "34 应\nWein 6m, setcen 2 me; een\nface 8, masse"
+      },
+      {
+        "text": " 2m",
+        "page": 26,
+        "source": "ocr",
+        "context": "cress, a\n\nWemoinm: — 2mm.\nine.\n\nGtnomme |\nR"
+      },
+      {
+        "text": " 3. m",
+        "page": 26,
+        "source": "ocr",
+        "context": "m Rs\nLigue 2 ragimes 3. mg\nx metre?\n\nFANE, to"
+      },
+      {
+        "text": " 2 m",
+        "page": 32,
+        "source": "ocr",
+        "context": "EL TAP\n() ay放”有 策美技; 2 meee: 3 龙 Cs MR: 5 i:"
+      },
+      {
+        "text": "\n4 m",
+        "page": 34,
+        "source": "ocr",
+        "context": "         3 at\nGu,\n\n和\n4 me 上(6812\n\n"
+      },
+      {
+        "text": " 2 m",
+        "page": 36,
+        "source": "ocr",
+        "context": "t eH\nso\n\nC\nWise mses 2 meee — a,\nWeze mimses"
+      },
+      {
+        "text": "5.4\nm",
+        "page": 36,
+        "source": "ocr",
+        "context": "eze mimsestet :1040:5.4\nmk, 0. aks           "
+      },
+      {
+        "text": "      2 m",
+        "page": 36,
+        "source": "ocr",
+        "context": " 1 xsaeman oj。 1 rem      2 mama\nERR kare, arte a"
+      },
+      {
+        "text": "77\n\nm",
+        "page": 38,
+        "source": "ocr",
+        "context": ";cr\npet49)77\n\nmeamte, Kt\n4:10 ERB\ne"
+      },
+      {
+        "text": "\n\n52 m",
+        "page": 38,
+        "source": "ocr",
+        "context": ", SEPP TEASE A BUREN\n\n52 mT 1702, A\n\\、工具和武器\n工具"
+      },
+      {
+        "text": " 5 m",
+        "page": 39,
+        "source": "ocr",
+        "context": "Fr mT SR, TSR 12 AS, 5 mR, 4),\n92 PCR 2—4 AR"
+      },
+      {
+        "text": " 7 m",
+        "page": 39,
+        "source": "ocr",
+        "context": "OL 5, we ena\nCpauest 7 mRUOGLE LR DOI! | Aue"
+      },
+      {
+        "text": " 115m",
+        "page": 40,
+        "source": "ocr",
+        "context": "HZ ; ] RO AECHEBUOR, 115m    ，\nIEA NER, TR 4 "
+      },
+      {
+        "text": " 2m",
+        "page": 40,
+        "source": "ocr",
+        "context": "EAGT,\n\neA MRE, 4), 0 2meR. 开\nGia. atom —=\n\n"
+      },
+      {
+        "text": "4 m",
+        "page": 40,
+        "source": "ocr",
+        "context": "2% (\nTENE.\nDmimaE, t4 mC\nKeomtennes,\n\n202件,"
+      },
+      {
+        "text": "\n1. m",
+        "page": 41,
+        "source": "ocr",
+        "context": "RE, 2.2,\n\nfii, % 6 品\n1. mies Ht\n\n一、 Ee       "
+      },
+      {
+        "text": " 5\n\nm",
+        "page": 42,
+        "source": "ocr",
+        "context": "Maina 134, 2887.95 x 5\n\nmn =neme       |\nmice"
+      },
+      {
+        "text": "     3 m",
+        "page": 42,
+        "source": "ocr",
+        "context": "amme\nPht moe.) ne. 昌     3 me emir)          par"
+      },
+      {
+        "text": " 1. m",
+        "page": 42,
+        "source": "ocr",
+        "context": "   senso\n\nBee Cores. 1. mage    AMETSRAMN ROA"
+      },
+      {
+        "text": " 3\nm",
+        "page": 46,
+        "source": "ocr",
+        "context": "O\n0.4: MROREE, 7,8), 3\nmR. 8\neR. SHERI\neee\nH"
+      },
+      {
+        "text": " 538m",
+        "page": 50,
+        "source": "ocr",
+        "context": "M 20 区局\n\nBK, 95 1601 538m ce x:maeee,\n\nes a e"
+      },
+      {
+        "text": " 0m",
+        "page": 52,
+        "source": "ocr",
+        "context": "Ems 12 Fe, BMS,\nBie? 0m1 aime,\nSenwsnamens,"
+      },
+      {
+        "text": " 00m",
+        "page": 52,
+        "source": "ocr",
+        "context": " BAM 17,\nIRE 207, me 00m 137, mete\nme.\nEpaRe"
+      },
+      {
+        "text": "213 m",
+        "page": 52,
+        "source": "ocr",
+        "context": "LER RK\nBren\" 6*, 2ak213 mM\n\nfee ortmer Tt\n\n04"
+      },
+      {
+        "text": "\n\n4        m",
+        "page": 53,
+        "source": "ocr",
+        "context": "eter mie\n\n4        mies 18\nA mR TL,\n\ne 3"
+      },
+      {
+        "text": " 21m",
+        "page": 54,
+        "source": "ocr",
+        "context": ",死者耳部有斑碧。负器量共册\nSH R3 21m. 钴器的术放有窑\nAtt ee, mM"
+      },
+      {
+        "text": " 36. m",
+        "page": 57,
+        "source": "ocr",
+        "context": "Wm 36. ma 9. mE 2. mR\nRaeaw "
+      },
+      {
+        "text": " 9. m",
+        "page": 57,
+        "source": "ocr",
+        "context": "Wm 36. ma 9. mE 2. mR\nRaeaw p01 e "
+      },
+      {
+        "text": " 2. m",
+        "page": 57,
+        "source": "ocr",
+        "context": "Wm 36. ma 9. mE 2. mR\nRaeaw p01 e Make A"
+      },
+      {
+        "text": "    21m",
+        "page": 58,
+        "source": "ocr",
+        "context": "zs\n\n1 2 a2 a    21m\n\nvebiabisdibenitetn"
+      },
+      {
+        "text": "3 m",
+        "page": 58,
+        "source": "ocr",
+        "context": "\n23; 加:\n\nies 19 件,对而3 m2 .芷\n\n3， 最小的高 27， WE"
+      },
+      {
+        "text": " 25 m",
+        "page": 67,
+        "source": "ocr",
+        "context": "《一) 车术的本下,第 1 、3 号于有 25 mR, 2-H 28 ML, 4D\nEo "
+      },
+      {
+        "text": " 6m",
+        "page": 67,
+        "source": "ocr",
+        "context": "E, Mae\n内有19 辆于和 20\n+ 6mm iM\n\nar —eomete: ea"
+      },
+      {
+        "text": "\n\n2507 m",
+        "page": 67,
+        "source": "ocr",
+        "context": "e,\n\n4 :4 ani 3 Oe, 6\n\n2507 mae\naren\nBk, eH,\n\n第 1"
+      },
+      {
+        "text": " 27m",
+        "page": 68,
+        "source": "ocr",
+        "context": "e to x       =\nhers, 27m\nHe rr\ntte\nbones\nbes"
+      },
+      {
+        "text": " 1650 m",
+        "page": 76,
+        "source": "ocr",
+        "context": "IRA 1 PES, HEAR, ANA 1650 mE\nSHO PPR OMEINGL US"
+      },
+      {
+        "text": "10m",
+        "page": 83,
+        "source": "ocr",
+        "context": "xox w\nche we\nLOUD CO10mE O20 ETOIDM ARR    "
+      },
+      {
+        "text": "\n\n1701 m",
+        "page": 108,
+        "source": "ocr",
+        "context": "2 ELH\n\n1701 me\n\nBm # (i)\n\nsei 01:"
+      },
+      {
+        "text": "\n1 m",
+        "page": 158,
+        "source": "ocr",
+        "context": "RR Gs (LID\n\nin Re Le\n1 mama 2. wARma I    了 "
+      },
+      {
+        "text": " 4. m",
+        "page": 158,
+        "source": "ocr",
+        "context": " I    了 mRSBITEMORAD 4. mT C/2)\nSUasaMm Gee e"
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T1612",
+        "page": 10,
+        "source": "ocr",
+        "context": "i 10.7, 18.1 (8\n\nOm T1612, Mier9.2 (0K) 4\n\n11"
+      },
+      {
+        "text": "T224",
+        "page": 11,
+        "source": "ocr",
+        "context": ".9 (20) 3. WSIBREITIT224. 0 56.85 才\n7 FIC (2"
+      },
+      {
+        "text": "T5R",
+        "page": 41,
+        "source": "ocr",
+        "context": " 3\n\n)   00 件;可分3 式: T5R.281 件 CNOA 1, 2; BE"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "G6",
+        "page": 10,
+        "source": "ocr",
+        "context": " (页\n286 16.508 17.2 G6) 4\n\nO:2 13.1414 (6)"
+      },
+      {
+        "text": "T1612",
+        "page": 10,
+        "source": "ocr",
+        "context": "i 10.7, 18.1 (8\n\nOm T1612, Mier9.2 (0K) 4\n\n11"
+      },
+      {
+        "text": "L3",
+        "page": 10,
+        "source": "ocr",
+        "context": "o) 5.0K\n16:3 19, ME L3.5 ORS\n\nA784 12.1 14"
+      },
+      {
+        "text": "S95",
+        "page": 12,
+        "source": "ocr",
+        "context": "20) 6 IRIN 707:24.9 S95 HE 2.5 TE 1.3K 2) 7"
+      },
+      {
+        "text": "S27",
+        "page": 12,
+        "source": "ocr",
+        "context": " 1.3K 2) 7. ERE 174\nS27 (页19) 4 T AREER 161"
+      },
+      {
+        "text": "M025",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n\nte ses0:1 2B 6.4, M025 LT) 3.\n\n9( War) $. "
+      },
+      {
+        "text": "G2",
+        "page": 12,
+        "source": "ocr",
+        "context": "497 (BUS) 3.1697:12 G2 3.160733 (U8) 4.0\n\n"
+      },
+      {
+        "text": "G20",
+        "page": 12,
+        "source": "ocr",
+        "context": "127 (页 at) 9. aR\n18 G20) 4 ABE res 7 (页 2) "
+      },
+      {
+        "text": "M22",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n\n11m 17256 mE 3.5 (M22) 2, 13) RATAN we 5."
+      },
+      {
+        "text": "M20",
+        "page": 12,
+        "source": "ocr",
+        "context": "6: KRM 16st5 $12.9 (M20 7. TRAR ws2t Seuss "
+      },
+      {
+        "text": "S09",
+        "page": 13,
+        "source": "ocr",
+        "context": "82: 28 9.8 C28) 6A.\nS09 17896长%.6《机刘) 7. UM"
+      },
+      {
+        "text": "F122",
+        "page": 13,
+        "source": "ocr",
+        "context": " 4.24 E87. 99%5.8.\n(F122) 4.5 105215 4.05 (页"
+      },
+      {
+        "text": "L220",
+        "page": 13,
+        "source": "ocr",
+        "context": ":82.3攻了\n\n91.2 44.8 (L220)\n(2p 和sk I\n\noun) 2."
+      },
+      {
+        "text": "L62:42",
+        "page": 14,
+        "source": "ocr",
+        "context": "3, BR S.3 CLD) 4. A L62:42% 2.5, I 9.5 Co\nME 8"
+      },
+      {
+        "text": "F419",
+        "page": 14,
+        "source": "ocr",
+        "context": "MA 33)\na 1705 ym mE\nF419 170810 175m 36.3¢ ("
+      },
+      {
+        "text": "S6e",
+        "page": 14,
+        "source": "ocr",
+        "context": "2.3 (0030) 2.1 a7es:S6e 2.3 Eas) 3, WsaR L1"
+      },
+      {
+        "text": "M98",
+        "page": 14,
+        "source": "ocr",
+        "context": " ACRE eB tM RCH 33)\nM98 1706-5 RRM,\n二六 1706"
+      },
+      {
+        "text": "M23",
+        "page": 14,
+        "source": "ocr",
+        "context": "e\n二石生 1706200 47.6 (M23) 2.998 ORM 17061128"
+      },
+      {
+        "text": "H20",
+        "page": 14,
+        "source": "ocr",
+        "context": "15 (I) 8, Pome\nB78 (H20)9. nH 106348 长3 2 2"
+      },
+      {
+        "text": "G8",
+        "page": 14,
+        "source": "ocr",
+        "context": " nH 106348 长3 2 20)\nG8 第 1711 SMR ME te\n2 "
+      },
+      {
+        "text": "M22",
+        "page": 15,
+        "source": "ocr",
+        "context": "BLOT Hae.S, 1 26.5, M22 OE 1\nfale 8 1810 号昔"
+      },
+      {
+        "text": "D026",
+        "page": 15,
+        "source": "ocr",
+        "context": "5 18.85 $20 O18) 2. D026 1 75 BEE RL.2 1) 3a"
+      },
+      {
+        "text": "M1612",
+        "page": 17,
+        "source": "ocr",
+        "context": "SERA Ln\n\nSe LAR\n\nSK M1612 SRST\n\n第 1631 SRT\n\ns"
+      },
+      {
+        "text": "G5",
+        "page": 23,
+        "source": "ocr",
+        "context": " MRO FCA, 2, 35 IRE G5 2638)              "
+      },
+      {
+        "text": "M6",
+        "page": 27,
+        "source": "ocr",
+        "context": "RRR MINT 32 Fo\n\nCE) M6, HER:\n\nTR 8 FECHA, "
+      },
+      {
+        "text": "M2",
+        "page": 35,
+        "source": "ocr",
+        "context": "152, BM ESI MD\n\n(A) M2 PF CORRE, 2), BRT 1"
+      },
+      {
+        "text": "M326",
+        "page": 39,
+        "source": "ocr",
+        "context": "1228 BK 39. BR,\n\nA) M326 Fr mT SR, TSR 12 AS"
+      },
+      {
+        "text": "S156",
+        "page": 41,
+        "source": "ocr",
+        "context": " 1 入626 Fh AMMAN Ts\nS156, UME. 另有式到不明的 12 件。"
+      },
+      {
+        "text": "M3",
+        "page": 42,
+        "source": "ocr",
+        "context": "         parse)\n\nfe M3 tatoo mt在局       + "
+      },
+      {
+        "text": "S045",
+        "page": 46,
+        "source": "ocr",
+        "context": "A ETO, HOR, BER,\n1, S045, O02 RK, EN AREER, "
+      },
+      {
+        "text": "G2",
+        "page": 47,
+        "source": "ocr",
+        "context": "\n14 PRCA, 5; 图用大网，6\nG2 K: TRG (MRL %\n\nRAND"
+      },
+      {
+        "text": "S88",
+        "page": 50,
+        "source": "ocr",
+        "context": "S, BK\n\nbs mx.\n\n1612 S88 ceutese, 2-4)\nBin, "
+      },
+      {
+        "text": "L014",
+        "page": 52,
+        "source": "ocr",
+        "context": "AL TNR, URI ERK 25, L014, 0.052.\n\nRan eites "
+      },
+      {
+        "text": "M1",
+        "page": 60,
+        "source": "ocr",
+        "context": "e! mae, Jeo 13\nTEI, M1 AAR NRRL (1747 10 A"
+      },
+      {
+        "text": "S08",
+        "page": 71,
+        "source": "ocr",
+        "context": "\nWess 年\n过日的网和\nCm VA\nS08 ET\nmeme\nTAMA HM,\nRS"
+      },
+      {
+        "text": "L681",
+        "page": 74,
+        "source": "ocr",
+        "context": "R\nEAST, RTE HI. SRE L681 OREO A UI\nSWRA TON "
+      },
+      {
+        "text": "M9506",
+        "page": 74,
+        "source": "ocr",
+        "context": " 77 GER, RER—KBK WE M9506 AT BRT\nPONCHO IHL)."
+      },
+      {
+        "text": "H1",
+        "page": 76,
+        "source": "ocr",
+        "context": "AI PIO A\nBRAN, PURO H1 一 07 NM, MEN 1052 R"
+      }
+    ],
+    "年代": [
+      {
+        "text": "清",
+        "page": 12,
+        "source": "ocr",
+        "context": ")\n\nHowes, meisscau)\n清二7 me 2.5 61)\n\nitter"
+      },
+      {
+        "text": "明",
+        "page": 23,
+        "source": "ocr",
+        "context": " + sR SCA      ‘\n角度不明的2 H                "
+      },
+      {
+        "text": "明",
+        "page": 28,
+        "source": "ocr",
+        "context": ", Bomeemmem se\nom\n\n天明显的分办\n\nWe” ee ees\n\nMO"
+      },
+      {
+        "text": "明",
+        "page": 41,
+        "source": "ocr",
+        "context": " Ts\nS156, UME. 另有式到不明的 12 件。 这81 只大多数布在析杭"
+      },
+      {
+        "text": "明",
+        "page": 48,
+        "source": "ocr",
+        "context": "liettee wate ac 8\n\n+明\n\nfem\n\nPram ems er s"
+      },
+      {
+        "text": "元",
+        "page": 72,
+        "source": "ocr",
+        "context": "Lie, It eM TT! 期“构当公元前9 HRCI 7 生息中\nBeer s"
+      },
+      {
+        "text": "明",
+        "page": 73,
+        "source": "ocr",
+        "context": "EAE Jee ASN LB\n知,不一圭明)。 AR, ATA EER — RSL"
+      },
+      {
+        "text": "元",
+        "page": 73,
+        "source": "ocr",
+        "context": "=) 关于名都上阳的位是问题\n\n在做相公元年村注:“弘农耽县东南有针城\"。左传信公"
+      },
+      {
+        "text": "西周",
+        "page": 77,
+        "source": "ocr",
+        "context": "RES AEE ATOR ORAL.\n\n西周和东周之际在考古学上几乎是空白丰，这个基"
+      },
+      {
+        "text": "东周",
+        "page": 77,
+        "source": "ocr",
+        "context": " AEE ATOR ORAL.\n\n西周和东周之际在考古学上几乎是空白丰，这个基地属于"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "豆",
+        "page": 27,
+        "source": "ocr",
+        "context": " 9件 (图五,2; 图版拾,3、4)。豆盘的临、底无 HR, AERIS\nRNR"
+      },
+      {
+        "text": "盘",
+        "page": 27,
+        "source": "ocr",
+        "context": "9件 (图五,2; 图版拾,3、4)。豆盘的临、底无 HR, AERIS\nRNR "
+      },
+      {
+        "text": "盆",
+        "page": 27,
+        "source": "ocr",
+        "context": "\n\nAIKMAN 82 Pe\n\n(四) 盆”归位,可分5式:\n\nT式6件(图五, "
+      },
+      {
+        "text": "球",
+        "page": 41,
+        "source": "ocr",
+        "context": "t 1, A AR MC 26 大米\n\n球、乐 &\nRG ARITA, EMF 1"
+      },
+      {
+        "text": "球",
+        "page": 44,
+        "source": "ocr",
+        "context": "EP mee set\n4\n\n761 件负球有和日\n\n3\nwu\n\nWS Aftes "
+      }
+    ],
+    "铜器": [
+      {
+        "text": "豆",
+        "page": 27,
+        "source": "ocr",
+        "context": " 9件 (图五,2; 图版拾,3、4)。豆盘的临、底无 HR, AERIS\nRNR"
+      },
+      {
+        "text": "盘",
+        "page": 27,
+        "source": "ocr",
+        "context": "9件 (图五,2; 图版拾,3、4)。豆盘的临、底无 HR, AERIS\nRNR "
+      },
+      {
+        "text": "盆",
+        "page": 27,
+        "source": "ocr",
+        "context": "\n\nAIKMAN 82 Pe\n\n(四) 盆”归位,可分5式:\n\nT式6件(图五, "
+      },
+      {
+        "text": "饰",
+        "page": 41,
+        "source": "ocr",
+        "context": "ams\n此外,还有各种象生形和几何形的堵饰品: 和    Ps IRENA, 9)"
+      }
+    ],
+    "遗址名称": [
+      {
+        "text": "东周",
+        "page": 77,
+        "source": "ocr",
+        "context": " AEE ATOR ORAL.\n\n西周和东周之际在考古学上几乎是空白丰，这个基地属于"
+      }
+    ]
+  }
+}

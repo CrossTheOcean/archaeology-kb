@@ -1,0 +1,1662 @@
+{
+  "name": "青龙泉与大寺",
+  "file": "青龙泉与大寺.pdf",
+  "era": "新石器",
+  "culture": "屈家岭-石家河",
+  "processed_pages": 14,
+  "total_entities": 268,
+  "entity_stats": {
+    "遗址名称": 49,
+    "层位关系": 7,
+    "年代": 66,
+    "遗迹类型": 11,
+    "陶器": 21,
+    "铜器": 27,
+    "探方编号": 15,
+    "遗迹编号": 18,
+    "葬具": 1,
+    "材质": 21,
+    "纹饰": 6,
+    "遗存类型": 7,
+    "石器": 3,
+    "测量数据": 16
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "屈家岭",
+        "page": 3,
+        "source": "ocr",
+        "context": "的发掘，初次从地层堆积上和弄清鄂西北地区屈家岭文\n化晚 于仰毅文化，旱于新右右时代末期"
+      },
+      {
+        "text": "屈家岭",
+        "page": 3,
+        "source": "ocr",
+        "context": "晚期仰韶文化的问\n题，并且发现三压在晚期屈家岭文化上面的青龙泉二期文化。\n\n以上四种文"
+      },
+      {
+        "text": "屈家岭",
+        "page": 4,
+        "source": "ocr",
+        "context": "cssoes (154)\n(二) 青龙泉屈家岭文化遗存 ee (155)\n(=) 青龙"
+      },
+      {
+        "text": "屈家岭",
+        "page": 4,
+        "source": "ocr",
+        "context": "sccsceccs (169)\n(二) 屈家岭文化遗物 — cnreccvccccec"
+      },
+      {
+        "text": "东周",
+        "page": 4,
+        "source": "ocr",
+        "context": "龙山文化遗物 oo (185)\n(四) 东周文化遗物 。…ooooooooooooo"
+      },
+      {
+        "text": "屈家岭",
+        "page": 5,
+        "source": "ocr",
+        "context": "eeeeeees (198)\n\n(二) 屈家岭文化遗存 ee。 (199)\n\n( =)"
+      },
+      {
+        "text": "屈家岭",
+        "page": 6,
+        "source": "ocr",
+        "context": "46 平面图 pe。  (38)\n青龙朱屈家岭晚期 W38平、剖面图 …………oo o"
+      },
+      {
+        "text": "屈家岭",
+        "page": 7,
+        "source": "ocr",
+        "context": "sscesees (60)\n五三“青龙泉屈家岭早期彩陶片 .eeovevvooooeo"
+      },
+      {
+        "text": "屈家岭",
+        "page": 7,
+        "source": "ocr",
+        "context": "oeeoe ee (60)\n五四“青龙泉屈家岭早期细泥陶器 —-- -encvcrcc"
+      },
+      {
+        "text": "屈家岭",
+        "page": 7,
+        "source": "ocr",
+        "context": "esescees (62)\n五五”青龙泉屈家岭早期细泥陶器 —-cnvnnrecccc"
+      },
+      {
+        "text": "屈家岭",
+        "page": 7,
+        "source": "ocr",
+        "context": "scoesees (72)\n六三“青龙泉屈家岭早期夹砂陶杯、器盖 — -acececc"
+      },
+      {
+        "text": "屈家岭",
+        "page": 7,
+        "source": "ocr",
+        "context": "csccsoes (72)\n六四“青龙泉屈家岭早期陶纺轮 — - nnncecncec"
+      },
+      {
+        "text": "屈家岭",
+        "page": 7,
+        "source": "ocr",
+        "context": "sescoes (79)\nFF “青龙泉屈家岭早期骨器 cwneccscccesccc"
+      },
+      {
+        "text": "屈家岭",
+        "page": 7,
+        "source": "ocr",
+        "context": "cseseees (83)\n七三“青龙泉屈家岭晚期细泥陶器 sn enncccccnc"
+      },
+      {
+        "text": "屈家岭",
+        "page": 7,
+        "source": "ocr",
+        "context": "conccens (85)\n七四“青龙泉屈家岭晚期彩陶-ee (87)\n\nit ig "
+      },
+      {
+        "text": "屈家岭",
+        "page": 8,
+        "source": "ocr",
+        "context": "七五”青龙泉屈家岭晚期蛋壳彩陶杯 oo   (87)\nPX"
+      },
+      {
+        "text": "屈家岭",
+        "page": 8,
+        "source": "ocr",
+        "context": " BS oo   (88)\n七七“青龙泉屈家岭晚期细泥陶豆 ee   (90)\n七八 "
+      },
+      {
+        "text": "屈家岭",
+        "page": 8,
+        "source": "ocr",
+        "context": "泥陶器 oo   (91)\n八O 青龙泉屈家岭上晚期细泥陶器 — ww ncn cne"
+      },
+      {
+        "text": "屈家岭",
+        "page": 8,
+        "source": "ocr",
+        "context": "期细泥陶器和   (94)\n八二“青龙泉屈家岭晚期长简形铁孔陶器 po   (94)\n"
+      },
+      {
+        "text": "屈家岭",
+        "page": 8,
+        "source": "ocr",
+        "context": " FL oo   (98)\n八五”青龙泉屈家岭晚期夹砂陶器 .oo   (98)\n八六"
+      },
+      {
+        "text": "屈家岭",
+        "page": 8,
+        "source": "ocr",
+        "context": " .ee   (100)\n八七”“青龙泉屈家岭晚期夹砂陶器 。oooooooeeooo"
+      },
+      {
+        "text": "屈家岭",
+        "page": 8,
+        "source": "ocr",
+        "context": "ceees (102)\nFLO ”青龙泉屈家岭晚期陶纺轮 cw cen nercccc"
+      },
+      {
+        "text": "屈家岭",
+        "page": 8,
+        "source": "ocr",
+        "context": "ceses   (106)\n九三“青龙泉屈家岭晚期磨制石答 ww nncccvcccc"
+      },
+      {
+        "text": "屈家岭",
+        "page": 8,
+        "source": "ocr",
+        "context": "oo ee   (110)\n九七”青龙泉屈家岭晚期麻制石器 «en cneccccce"
+      },
+      {
+        "text": "屈家岭",
+        "page": 8,
+        "source": "ocr",
+        "context": "ccees   (112)\n九八 青龙泉屈家岭晚期装饰品 wn ecc ccc ncn"
+      },
+      {
+        "text": "屈家岭",
+        "page": 10,
+        "source": "ocr",
+        "context": "韶文化房址\n青龙果仰韶文化房址\n\n青龙泉屈家岭文化早期房址\n青龙果屈家岭文化房址和陶土"
+      },
+      {
+        "text": "屈家岭",
+        "page": 10,
+        "source": "ocr",
+        "context": "房址\n\n青龙泉屈家岭文化早期房址\n青龙果屈家岭文化房址和陶土\n\n青龙朱屈家岭文化晚期房"
+      },
+      {
+        "text": "屈家岭",
+        "page": 10,
+        "source": "ocr",
+        "context": "址\n青龙果屈家岭文化房址和陶土\n\n青龙朱屈家岭文化晚期房址\nFE JE IR JAR "
+      },
+      {
+        "text": "屈家岭",
+        "page": 10,
+        "source": "ocr",
+        "context": "S el A a\nAER Aas\n青龙果屈家岭文化早期纹饰陶片\n- 青龙朵屈家怜文化早"
+      },
+      {
+        "text": "屈家岭",
+        "page": 10,
+        "source": "ocr",
+        "context": "器 ，\n青龙泉届家岭文化早期陶器\n青龙朵屈家岭文化早期夹砂陶易\n青龙果届家岭文化早期夹"
+      },
+      {
+        "text": "屈家岭",
+        "page": 10,
+        "source": "ocr",
+        "context": "砂陶大\n青龙泉山家岭文化早期石器\n青龙朱屈家岭文化早期打制石器\n青龙泉届家岭文化早期石"
+      },
+      {
+        "text": "屈家岭",
+        "page": 10,
+        "source": "ocr",
+        "context": "器\n青龙朵届家岭文化早期骨、政器\n青龙录屈家岭文化装饰品\nFa HEIR SH RUS"
+      },
+      {
+        "text": "屈家岭",
+        "page": 11,
+        "source": "ocr",
+        "context": "杯\n青龙泉届家岭文化晚期细泥陶太\n青龙泉屈家岭文化晚期细泥陶器\n青龙泉届家岭文化晚期细"
+      },
+      {
+        "text": "屈家岭",
+        "page": 11,
+        "source": "ocr",
+        "context": "器\n青龙泉届家岭文化晚期细泥陶器\n青龙泉屈家岭文化晚期细泥陶豆\n青龙泉届家岭文化晚期细"
+      },
+      {
+        "text": "屈家岭",
+        "page": 11,
+        "source": "ocr",
+        "context": "龙泉届家岭文化晚期细泥陶圈足小负\n青龙泉屈家岭文化晚期陶负\n青龙泉屈家岭文化晚期细泥陶"
+      },
+      {
+        "text": "屈家岭",
+        "page": 11,
+        "source": "ocr",
+        "context": "足小负\n青龙泉屈家岭文化晚期陶负\n青龙泉屈家岭文化晚期细泥陶铅\n青龙泉屈家岭文化晚期陶"
+      },
+      {
+        "text": "屈家岭",
+        "page": 11,
+        "source": "ocr",
+        "context": "负\n青龙泉屈家岭文化晚期细泥陶铅\n青龙泉屈家岭文化晚期陶易\n青龙泉屈家岭文化晚期陶盆\n"
+      },
+      {
+        "text": "屈家岭",
+        "page": 11,
+        "source": "ocr",
+        "context": "泥陶铅\n青龙泉屈家岭文化晚期陶易\n青龙泉屈家岭文化晚期陶盆\n青龙泉屈家岭文化晚期夹砂陶"
+      },
+      {
+        "text": "屈家岭",
+        "page": 11,
+        "source": "ocr",
+        "context": "期陶易\n青龙泉屈家岭文化晚期陶盆\n青龙泉屈家岭文化晚期夹砂陶折沿饶\n青龙泉屈家岭文化晚"
+      },
+      {
+        "text": "屈家岭",
+        "page": 11,
+        "source": "ocr",
+        "context": "青龙泉屈家岭文化晚期夹砂陶折沿饶\n青龙泉屈家岭文化晚期陶器\n青龙泉届家岭文化晚期陶器盖"
+      },
+      {
+        "text": "屈家岭",
+        "page": 11,
+        "source": "ocr",
+        "context": "制石钢\n青龙泉届家岭文化晚期石器\n青龙泉屈家岭文化晚期石器\n青龙泉屈家岭文化晚期石斧\n"
+      },
+      {
+        "text": "屈家岭",
+        "page": 11,
+        "source": "ocr",
+        "context": "期石器\n青龙泉屈家岭文化晚期石器\n青龙泉屈家岭文化晚期石斧\n青龙泉屈家岭文化晚期石链\n"
+      },
+      {
+        "text": "屈家岭",
+        "page": 11,
+        "source": "ocr",
+        "context": "期石器\n青龙泉屈家岭文化晚期石斧\n青龙泉屈家岭文化晚期石链\n青龙泉届家岭文化晚期石器\n"
+      },
+      {
+        "text": "屈家岭",
+        "page": 12,
+        "source": "ocr",
+        "context": "韶文化陶器\n\n大寺仰韶文化陶、石器\n大污屈家岭文化陶器\n大和村届家岭文化器物\n大和夺龙"
+      },
+      {
+        "text": "三门峡",
+        "page": 13,
+        "source": "ocr",
+        "context": "与大寺遗址位置网\n1958 年秋，继黄河三门峡水利工程之后，我国又-项大型水利工程一一"
+      },
+      {
+        "text": "东周",
+        "page": 13,
+        "source": "ocr",
+        "context": "刊》 第 4集，1984 年;《湖北郧县东周西汉草》, 《考古学集刊》第 6\n集，1"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": " 第 4集，1984 年;《湖北郧县东周西汉草》, 《考古学集刊》第 6\n集，198"
+      },
+      {
+        "text": "屈家岭",
+        "page": 15,
+        "source": "ocr",
+        "context": "3.$一-6.5 米，依次权压\n着仰韶、屈家岭、青龙泉三期三种文化遗存。这是我们历年发"
+      },
+      {
+        "text": "东周",
+        "page": 15,
+        "source": "ocr",
+        "context": "种文化遗存。但是，由于长期雨水冲刷和大批东周等时期的幕葬\n扰乱和破坏，遗址上部的文化"
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "堆积",
+        "page": 3,
+        "source": "ocr",
+        "context": "特点。\n\n通过大寺遗址的发掘，初次从地层堆积上和弄清鄂西北地区屈家岭文\n化晚 于仰毅"
+      },
+      {
+        "text": "堆积",
+        "page": 4,
+        "source": "ocr",
+        "context": "sccsccees (161)\n一 文化堆积 ww ccccccnccccccccc"
+      },
+      {
+        "text": "堆积",
+        "page": 4,
+        "source": "ocr",
+        "context": "csecees (162)\n(一) 地层堆积情况 ………ooooooooooooco"
+      },
+      {
+        "text": "堆积",
+        "page": 15,
+        "source": "ocr",
+        "context": "月上旬，由我队做了试据。发现该\n遗址文化堆积很厚，遗迹、遗物非常丰富，因此将该遗址列"
+      },
+      {
+        "text": "堆积",
+        "page": 15,
+        "source": "ocr",
+        "context": "，将其东西两部分划分为第上、册两区，文化堆积厚 3.$一-6.5 米，依次权压\n着仰"
+      },
+      {
+        "text": "堆积",
+        "page": 15,
+        "source": "ocr",
+        "context": " 2米，面积约 25000 平方米，文化堆积平\n均厚 1.5 米，也亚奈着三种文化遗"
+      },
+      {
+        "text": "堆积",
+        "page": 15,
+        "source": "ocr",
+        "context": " 平方米。这是第一次发掘。由于工区的文化堆积很厚，大部分\n探方只发掘完上部青龙泉三期"
+      }
+    ],
+    "年代": [
+      {
+        "text": "清",
+        "page": 3,
+        "source": "ocr",
+        "context": "泉三期和在山四种文化遗存，\n相对年代比较清楚，并且都其有了明显的地区特点。\n\n通过"
+      },
+      {
+        "text": "明",
+        "page": 3,
+        "source": "ocr",
+        "context": "化遗存，\n相对年代比较清楚，并且都其有了明显的地区特点。\n\n通过大寺遗址的发掘，初"
+      },
+      {
+        "text": "清",
+        "page": 3,
+        "source": "ocr",
+        "context": "通过大寺遗址的发掘，初次从地层堆积上和弄清鄂西北地区屈家岭文\n化晚 于仰毅文化，旱"
+      },
+      {
+        "text": "龙山文化",
+        "page": 3,
+        "source": "ocr",
+        "context": "\n化晚 于仰毅文化，旱于新右右时代末期的龙山文化。吉龙泉遗址的发\n据，初步解决了骂西北地"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 3,
+        "source": "ocr",
+        "context": "解决了骂西北地区司家岭文化起源二该地晚期仰韶文化的问\n题，并且发现三压在晚期屈家岭文化上"
+      },
+      {
+        "text": "新石器时代",
+        "page": 3,
+        "source": "ocr",
+        "context": "，基本上解决了汉江\n中、上谢及其支流地区新石器时代几种主要文化的性质、特征、分布和\n发展序"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 4,
+        "source": "ocr",
+        "context": "sscsocenes (15)\n(一) 仰韶文化遗迹 eve (15)\n(=) FR F"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 4,
+        "source": "ocr",
+        "context": "eooeieev ee(42)\n(一) 仰韶文化遗物 oo (42)\n(二) 届家岭文化"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 4,
+        "source": "ocr",
+        "context": "ssssecees (169)\n(一) 仰韶文化遗物 — -nvcccecccccccc"
+      },
+      {
+        "text": "龙山文化",
+        "page": 4,
+        "source": "ocr",
+        "context": "sccscsces (179)\n(=) 龙山文化遗物 oo (185)\n(四) 东周文化"
+      },
+      {
+        "text": "东周",
+        "page": 4,
+        "source": "ocr",
+        "context": "龙山文化遗物 oo (185)\n(四) 东周文化遗物 。…ooooooooooooo"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 5,
+        "source": "ocr",
+        "context": "(一) 仰韶文化遗存 .sseeeeeeeeeeeese"
+      },
+      {
+        "text": "龙山文化",
+        "page": 5,
+        "source": "ocr",
+        "context": "存 ee。 (199)\n\n( =) 大夺龙山文化遗存 ov。 (199)\n\nFE ET "
+      },
+      {
+        "text": "新石器时代",
+        "page": 5,
+        "source": "ocr",
+        "context": "sceseseeees (201)\n一 新石器时代文化的发展序列 oo ncnccccec"
+      },
+      {
+        "text": "新石器时代",
+        "page": 5,
+        "source": "ocr",
+        "context": "ccsscoccces (201)\n二 新石器时代各种文化的分期、分布  coccecce"
+      },
+      {
+        "text": "新石器时代",
+        "page": 5,
+        "source": "ocr",
+        "context": "secevsoes (201)\n\n[= 新石器时代几种文化的标准器 oo (204)\n\n四"
+      },
+      {
+        "text": "新石器时代",
+        "page": 5,
+        "source": "ocr",
+        "context": "种文化的标准器 oo (204)\n\n四“新石器时代人们的生产与生活 。……eoeeeoov"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 6,
+        "source": "ocr",
+        "context": "cees   (14)\n青龙泉遗址IT区仰韶文化 FE4平、剂面图 ence nce c"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 6,
+        "source": "ocr",
+        "context": "ccecees (16)\n青龙录焉址工区仰韶文化 FEF7平、训面图  。和和。   ("
+      },
+      {
+        "text": "仰韶文化",
+        "page": 6,
+        "source": "ocr",
+        "context": "AR] .pe (20)\n青龙泉遗址工区仰韶文化Fl11平、谢面图 — ence nee"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 6,
+        "source": "ocr",
+        "context": "ceccceees   (20)\n青龙泉仰韶文化 F11 RESTO, FATHER] "
+      },
+      {
+        "text": "仰韶文化",
+        "page": 7,
+        "source": "ocr",
+        "context": "面图 ee (41)\n=     青龙泉仰韶文化细泥陶器 tn nc ccc cccnc"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 7,
+        "source": "ocr",
+        "context": "cscoes   (43)\n三八，青龙泉仰韶文化细泥陶器 ooeooooooooooeo"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 7,
+        "source": "ocr",
+        "context": " ss   (43)\n=     青龙泉仰韶文化细泥陶器 ee   (45)\n四 OC "
+      },
+      {
+        "text": "仰韶文化",
+        "page": 7,
+        "source": "ocr",
+        "context": "cesssoes (45)\n四一“青龙泉仰韶文化夹砂陶器 — snnncencccecc"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 7,
+        "source": "ocr",
+        "context": "eeeeees  (47)\n四三“青龙泉仰韶文化夹砂陶器 oo (48)\n四四“青龙泉仰"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 7,
+        "source": "ocr",
+        "context": "化夹砂陶器 oo (48)\n四四“青龙泉仰韶文化严砂陶器 — sennerccccccc"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 7,
+        "source": "ocr",
+        "context": "EBE oo   (51)\n四六“青龙泉仰韶文化陶器 .ee (51)\n四七”青龙泉仰韶"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 7,
+        "source": "ocr",
+        "context": "文化陶器 .ee (51)\n四七”青龙泉仰韶文化打制石器 .oooeoooooeeooo"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 7,
+        "source": "ocr",
+        "context": "veeee ee (52)\n四八_青龙泉仰韶文化磨制石竹 cwnnececncccccc"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 7,
+        "source": "ocr",
+        "context": "s   (54)\nDU FL “青龙和泉仰韶文化磨制石器 conc cncncrenrc"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 7,
+        "source": "ocr",
+        "context": "csces   (55)\n五O ”青龙泉仰韶文化磨制石器 .ee (56)\n五一 青龙泉"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 7,
+        "source": "ocr",
+        "context": "磨制石器 .ee (56)\n五一 青龙泉仰韶文化骨器 encecceccccccnccc"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 9,
+        "source": "ocr",
+        "context": "cseecs  (166)\n一三三“大寺仰韶文化烧土坑及 M4 平面图 oo   (16"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 9,
+        "source": "ocr",
+        "context": "面图 oo   (168)\n一荆四”大圭仰韶文化 M7 平面图 。%oooooooooo"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 9,
+        "source": "ocr",
+        "context": "sccces  (169)\n一三六“大寺仰韶文化彩陶片 (钵、  FE) so cn c"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 9,
+        "source": "ocr",
+        "context": "cscses  (171)\n一三八大寺人仰韶文化陶器 coceccceccccccccv"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 9,
+        "source": "ocr",
+        "context": "ecs  (172)\n一二     大村仰韶文化陶器 evoeooooooeoooooo"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 9,
+        "source": "ocr",
+        "context": "vo。。  (174)\n一四 OC 大寺仰韶文化石器 oo  (176)\n—-PU— F"
+      },
+      {
+        "text": "龙山文化",
+        "page": 9,
+        "source": "ocr",
+        "context": "ecsees  (184)\n一四五“大寺龙山文化陶器  -oveccccsncccccc"
+      },
+      {
+        "text": "龙山文化",
+        "page": 9,
+        "source": "ocr",
+        "context": "oesees  (187)\n一四六“大寺龙山文化陶器 — oncccccccncnccc"
+      },
+      {
+        "text": "龙山文化",
+        "page": 9,
+        "source": "ocr",
+        "context": "sscese  (190)\n一四七“大寺龙山文化陶器 ooooooooooooooooo"
+      },
+      {
+        "text": "龙山文化",
+        "page": 9,
+        "source": "ocr",
+        "context": "veoees  (192)\n一四八 大寺龙山文化石器 ence vecccwcccccv"
+      },
+      {
+        "text": "龙山文化",
+        "page": 9,
+        "source": "ocr",
+        "context": "coecs  (193)\n一四九 ”大寺龙山文化石器 — coccccccccsscnc"
+      },
+      {
+        "text": "龙山文化",
+        "page": 9,
+        "source": "ocr",
+        "context": "eccees  (195)\n一五O 大寺龙山文化骨、角、蚌器 connccecccccc"
+      },
+      {
+        "text": "新石器时代",
+        "page": 9,
+        "source": "ocr",
+        "context": "es  (196)\n一五一“青龙泉与大寺新石器时代陶器分期图 .oo  (202)\n\nTo"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 10,
+        "source": "ocr",
+        "context": " 目 OX\n\nFa JER HE\n青龙朵仰韶文化房址\n青龙果仰韶文化房址\n\n青龙泉屈家岭"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "JER HE\n青龙朵仰韶文化房址\n青龙果仰韶文化房址\n\n青龙泉屈家岭文化早期房址\n青龙果"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "R ANT SC AEB a\n- 青龙泉仰韶文化细泥陶器\n青龙录仰韶文化夹砂陶希\nFE "
+      },
+      {
+        "text": "仰韶文化",
+        "page": 10,
+        "source": "ocr",
+        "context": " a\n- 青龙泉仰韶文化细泥陶器\n青龙录仰韶文化夹砂陶希\nFE DEIR AAD EB "
+      },
+      {
+        "text": "仰韶文化",
+        "page": 12,
+        "source": "ocr",
+        "context": "EE\nA FAN CHE Bld\n大和寺仰韶文化彩陶片\n大竺仰韶文化陶器\n\n大寺仰韶文化"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 12,
+        "source": "ocr",
+        "context": "HE Bld\n大和寺仰韶文化彩陶片\n大竺仰韶文化陶器\n\n大寺仰韶文化陶、石器\n大污屈家岭"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 12,
+        "source": "ocr",
+        "context": "仰韶文化彩陶片\n大竺仰韶文化陶器\n\n大寺仰韶文化陶、石器\n大污屈家岭文化陶器\n大和村届家"
+      },
+      {
+        "text": "龙山文化",
+        "page": 12,
+        "source": "ocr",
+        "context": "岭文化陶器\n大和村届家岭文化器物\n大和夺龙山文化陶器\n\n大寺龙山文化陶器\n\n大竺龙山文化"
+      },
+      {
+        "text": "龙山文化",
+        "page": 12,
+        "source": "ocr",
+        "context": "家岭文化器物\n大和夺龙山文化陶器\n\n大寺龙山文化陶器\n\n大竺龙山文化锅物\n"
+      },
+      {
+        "text": "龙山文化",
+        "page": 12,
+        "source": "ocr",
+        "context": "龙山文化陶器\n\n大寺龙山文化陶器\n\n大竺龙山文化锅物\n"
+      },
+      {
+        "text": "秦",
+        "page": 13,
+        "source": "ocr",
+        "context": "和叶\n西北的郧县与均县，主要位于汉江上游秦岭巴出山地。汉江是长江最大的支流之一，发"
+      },
+      {
+        "text": "东周",
+        "page": 13,
+        "source": "ocr",
+        "context": "刊》 第 4集，1984 年;《湖北郧县东周西汉草》, 《考古学集刊》第 6\n集，1"
+      },
+      {
+        "text": "西汉",
+        "page": 13,
+        "source": "ocr",
+        "context": " 第 4集，1984 年;《湖北郧县东周西汉草》, 《考古学集刊》第 6\n集，198"
+      },
+      {
+        "text": "金",
+        "page": 14,
+        "source": "ocr",
+        "context": "兴邦、安志敏同志兼任队长，张云鹏、陈准、金学山任副队长、队长，由我\n队主管湖北省郧"
+      },
+      {
+        "text": "新石器时代",
+        "page": 14,
+        "source": "ocr",
+        "context": "掘工作的主要部分，它包括青龙泉与大寺两处新石器时代遗\ntk. RoHS WER, RAPP"
+      },
+      {
+        "text": "金",
+        "page": 14,
+        "source": "ocr",
+        "context": " WER, RAPPER GD) 主要由金学山、萝忠义编写的，李文杰曾\n参加编写青"
+      },
+      {
+        "text": "金",
+        "page": 14,
+        "source": "ocr",
+        "context": "执笔的。报告壹、贰之一至\n四和肆等章节由金学山写成初稿，经蒋忠义、刘助等讨论后写成"
+      },
+      {
+        "text": "新石器时代",
+        "page": 15,
+        "source": "ocr",
+        "context": " Te Oo\n\n1. 地理环境\n\n青龙泉新石器时代遗址，位于郧县城东 5 公里。遗址坐落在"
+      },
+      {
+        "text": "东周",
+        "page": 15,
+        "source": "ocr",
+        "context": "种文化遗存。但是，由于长期雨水冲刷和大批东周等时期的幕葬\n扰乱和破坏，遗址上部的文化"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "ocr",
+        "context": "区发掘一段时间后，发现文化遗物很混乱，除清\n理届家怜文化的一座幕莫 (T103M4"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "墓葬",
+        "page": 4,
+        "source": "ocr",
+        "context": "oo(114)\nCFL) 青龙泉三期文化墓葬随项器物 oo (150)\n入 文化性质"
+      },
+      {
+        "text": "房址",
+        "page": 6,
+        "source": "ocr",
+        "context": " (4)\n青上龙泉遗址工区探方和你韶文化房址分布平面网pp (6)\nFF ER eH"
+      },
+      {
+        "text": "灰坑",
+        "page": 6,
+        "source": "ocr",
+        "context": "FR) .oo (35)\n青龙泉三期文化灰坑平、剂面图 .oo (35)\nFE DE"
+      },
+      {
+        "text": "墓葬",
+        "page": 9,
+        "source": "ocr",
+        "context": "s  (151)\n一二七”青龙泉三期文化墓葬出土陶器 once ccccccrccc"
+      },
+      {
+        "text": "墓葬",
+        "page": 9,
+        "source": "ocr",
+        "context": "s  (152)\n一二八 青龙录三期文化墓葬出土器物 cocnwcecccccccc"
+      },
+      {
+        "text": "房址",
+        "page": 10,
+        "source": "ocr",
+        "context": "X\n\nFa JER HE\n青龙朵仰韶文化房址\n青龙果仰韶文化房址\n\n青龙泉屈家岭文化"
+      },
+      {
+        "text": "房址",
+        "page": 10,
+        "source": "ocr",
+        "context": "HE\n青龙朵仰韶文化房址\n青龙果仰韶文化房址\n\n青龙泉屈家岭文化早期房址\n青龙果屈家"
+      },
+      {
+        "text": "房址",
+        "page": 10,
+        "source": "ocr",
+        "context": "龙果仰韶文化房址\n\n青龙泉屈家岭文化早期房址\n青龙果屈家岭文化房址和陶土\n\n青龙朱屈"
+      },
+      {
+        "text": "房址",
+        "page": 10,
+        "source": "ocr",
+        "context": "龙泉屈家岭文化早期房址\n青龙果屈家岭文化房址和陶土\n\n青龙朱屈家岭文化晚期房址\nFE"
+      },
+      {
+        "text": "房址",
+        "page": 10,
+        "source": "ocr",
+        "context": "岭文化房址和陶土\n\n青龙朱屈家岭文化晚期房址\nFE JE IR JAR SC A B"
+      },
+      {
+        "text": "灰坑",
+        "page": 15,
+        "source": "ocr",
+        "context": "化的一座幕莫 (T103M46) 和一个灰坑 (T1OSH13) 外，六个探坑都停止"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "环",
+        "page": 4,
+        "source": "ocr",
+        "context": "sensaeasess (3)\n一”地理环境和工作情况 。。。。。。。。。。。。。"
+      },
+      {
+        "text": "环",
+        "page": 4,
+        "source": "ocr",
+        "context": "sscescoese (161)\n一地理环境和工作简况 oonccncnccccc"
+      },
+      {
+        "text": "陶杯",
+        "page": 7,
+        "source": "ocr",
+        "context": "s (72)\n六三“青龙泉屈家岭早期夹砂陶杯、器盖 — -acececccccccc"
+      },
+      {
+        "text": "陶纺轮",
+        "page": 7,
+        "source": "ocr",
+        "context": "oes (72)\n六四“青龙泉屈家岭早期陶纺轮 — - nnncecncecreccr"
+      },
+      {
+        "text": "陶杯",
+        "page": 8,
+        "source": "ocr",
+        "context": "七五”青龙泉屈家岭晚期蛋壳彩陶杯 oo   (87)\nPX PETER "
+      },
+      {
+        "text": "陶豆",
+        "page": 8,
+        "source": "ocr",
+        "context": "  (88)\n七七“青龙泉屈家岭晚期细泥陶豆 ee   (90)\n七八 FF TE "
+      },
+      {
+        "text": "陶纺轮",
+        "page": 8,
+        "source": "ocr",
+        "context": " (102)\nFLO ”青龙泉屈家岭晚期陶纺轮 cw cen nercccccnccc"
+      },
+      {
+        "text": "陶杯",
+        "page": 8,
+        "source": "ocr",
+        "context": "(117)\n— O— 青龙录三期文化泥质陶杯  。ooooooocoooooooeo"
+      },
+      {
+        "text": "尊",
+        "page": 8,
+        "source": "ocr",
+        "context": "32)\n一一二“青龙泉三期文化夹砂陶秘、尊.oo (134)\n一一三“青龙泉三期文"
+      },
+      {
+        "text": "陶环",
+        "page": 9,
+        "source": "ocr",
+        "context": "   (139)\n一一八“青龙泉三期文化陶环与陶纺轮 once ccccccrccc"
+      },
+      {
+        "text": "陶纺轮",
+        "page": 9,
+        "source": "ocr",
+        "context": "(139)\n一一八“青龙泉三期文化陶环与陶纺轮 once ccccccrccccccc"
+      },
+      {
+        "text": "钵",
+        "page": 9,
+        "source": "ocr",
+        "context": "169)\n一三六“大寺仰韶文化彩陶片 (钵、  FE) so cn crn ner"
+      },
+      {
+        "text": "陶杯",
+        "page": 10,
+        "source": "ocr",
+        "context": " Bd) ES\n青龙果届家岭文化晚期细泥陶杯\n"
+      },
+      {
+        "text": "杯",
+        "page": 11,
+        "source": "ocr",
+        "context": "青龙泉届家岭文化晚期细泥陶高圈足杯\n青龙泉届家岭文化晚期细泥陶太\n青龙泉屈"
+      },
+      {
+        "text": "陶豆",
+        "page": 11,
+        "source": "ocr",
+        "context": "化晚期细泥陶器\n青龙泉屈家岭文化晚期细泥陶豆\n青龙泉届家岭文化晚期细泥陶圈足小负\n青"
+      },
+      {
+        "text": "陶盆",
+        "page": 11,
+        "source": "ocr",
+        "context": "屈家岭文化晚期陶易\n青龙泉屈家岭文化晚期陶盆\n青龙泉屈家岭文化晚期夹砂陶折沿饶\n青龙"
+      },
+      {
+        "text": "陶杯",
+        "page": 11,
+        "source": "ocr",
+        "context": "\n青龙泉三期文化泥质陶器\n青龙泉三期文化陶杯\n青龙泉三期文化陶器\nHER =P he"
+      },
+      {
+        "text": "陶豆",
+        "page": 11,
+        "source": "ocr",
+        "context": "\nHER =P oe\n青龙泉三期文化泥质陶豆\n\n青龙泉三期文化泥质陶器\n\n青龙泉三期"
+      },
+      {
+        "text": "陶纺轮",
+        "page": 11,
+        "source": "ocr",
+        "context": "\n青龙泉三期文化夹砂陶器\n青龙泉三期文化陶纺轮\n青龙泉三期文化石器\n青龙朱三期文化石器"
+      },
+      {
+        "text": "环",
+        "page": 15,
+        "source": "ocr",
+        "context": "ASE ALF Te Oo\n\n1. 地理环境\n\n青龙泉新石器时代遗址，位于郧县城东"
+      },
+      {
+        "text": "环",
+        "page": 15,
+        "source": "ocr",
+        "context": "我们将遗址统称为青龙泉。从遗址所处的自然环境看，这里地势较\n高，倚山傍水，土壤肥沃"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "环",
+        "page": 4,
+        "source": "ocr",
+        "context": "sensaeasess (3)\n一”地理环境和工作情况 。。。。。。。。。。。。。"
+      },
+      {
+        "text": "环",
+        "page": 4,
+        "source": "ocr",
+        "context": "sscescoese (161)\n一地理环境和工作简况 oonccncnccccc"
+      },
+      {
+        "text": "杯",
+        "page": 7,
+        "source": "ocr",
+        "context": " (72)\n六三“青龙泉屈家岭早期夹砂陶杯、器盖 — -acececccccccc"
+      },
+      {
+        "text": "杯",
+        "page": 8,
+        "source": "ocr",
+        "context": "七五”青龙泉屈家岭晚期蛋壳彩陶杯 oo   (87)\nPX PETER "
+      },
+      {
+        "text": "豆",
+        "page": 8,
+        "source": "ocr",
+        "context": " (88)\n七七“青龙泉屈家岭晚期细泥陶豆 ee   (90)\n七八 FF TE "
+      },
+      {
+        "text": "锛",
+        "page": 8,
+        "source": "ocr",
+        "context": "(108)\n九五”青龙泉届家岭晚期磨制石锛“ee   (109)\n九六”青龙泉届家"
+      },
+      {
+        "text": "饰",
+        "page": 8,
+        "source": "ocr",
+        "context": "  (112)\n九八 青龙泉屈家岭晚期装饰品 wn ecc ccc ncncccc"
+      },
+      {
+        "text": "杯",
+        "page": 8,
+        "source": "ocr",
+        "context": "117)\n— O— 青龙录三期文化泥质陶杯  。ooooooocoooooooeo"
+      },
+      {
+        "text": "尊",
+        "page": 8,
+        "source": "ocr",
+        "context": "32)\n一一二“青龙泉三期文化夹砂陶秘、尊.oo (134)\n一一三“青龙泉三期文"
+      },
+      {
+        "text": "环",
+        "page": 9,
+        "source": "ocr",
+        "context": "  (139)\n一一八“青龙泉三期文化陶环与陶纺轮 once ccccccrccc"
+      },
+      {
+        "text": "矛",
+        "page": 9,
+        "source": "ocr",
+        "context": "(147)\n一二三”青龙泉三期文化石链、矛oo ee。  (148)\n一二四“青龙"
+      },
+      {
+        "text": "饰",
+        "page": 9,
+        "source": "ocr",
+        "context": "  (148)\n一二四“青龙泉三期文化装饰品 oooeeeeeoeoeeoeeee"
+      },
+      {
+        "text": "钵",
+        "page": 9,
+        "source": "ocr",
+        "context": "169)\n一三六“大寺仰韶文化彩陶片 (钵、  FE) so cn crn ner"
+      },
+      {
+        "text": "饰",
+        "page": 10,
+        "source": "ocr",
+        "context": "\nAER Aas\n青龙果屈家岭文化早期纹饰陶片\n- 青龙朵屈家怜文化早期细泥陶需\n"
+      },
+      {
+        "text": "饰",
+        "page": 10,
+        "source": "ocr",
+        "context": "家岭文化早期骨、政器\n青龙录屈家岭文化装饰品\nFa HEIR SH RUS SCA"
+      },
+      {
+        "text": "杯",
+        "page": 10,
+        "source": "ocr",
+        "context": "Bd) ES\n青龙果届家岭文化晚期细泥陶杯\n"
+      },
+      {
+        "text": "杯",
+        "page": 11,
+        "source": "ocr",
+        "context": "青龙泉届家岭文化晚期细泥陶高圈足杯\n青龙泉届家岭文化晚期细泥陶太\n青龙泉屈"
+      },
+      {
+        "text": "豆",
+        "page": 11,
+        "source": "ocr",
+        "context": "晚期细泥陶器\n青龙泉屈家岭文化晚期细泥陶豆\n青龙泉届家岭文化晚期细泥陶圈足小负\n青"
+      },
+      {
+        "text": "盆",
+        "page": 11,
+        "source": "ocr",
+        "context": "家岭文化晚期陶易\n青龙泉屈家岭文化晚期陶盆\n青龙泉屈家岭文化晚期夹砂陶折沿饶\n青龙"
+      },
+      {
+        "text": "斧",
+        "page": 11,
+        "source": "ocr",
+        "context": "家岭文化晚期石器\n青龙泉屈家岭文化晚期石斧\n青龙泉屈家岭文化晚期石链\n青龙泉届家岭"
+      },
+      {
+        "text": "饰",
+        "page": 11,
+        "source": "ocr",
+        "context": " HE RUS SOA\n青龙泉三期文化纹饰陶片\n青龙泉三期文化泥质陶器\n青龙泉三期"
+      },
+      {
+        "text": "杯",
+        "page": 11,
+        "source": "ocr",
+        "context": "青龙泉三期文化泥质陶器\n青龙泉三期文化陶杯\n青龙泉三期文化陶器\nHER =P he"
+      },
+      {
+        "text": "豆",
+        "page": 11,
+        "source": "ocr",
+        "context": "HER =P oe\n青龙泉三期文化泥质陶豆\n\n青龙泉三期文化泥质陶器\n\n青龙泉三期"
+      },
+      {
+        "text": "锛",
+        "page": 11,
+        "source": "ocr",
+        "context": "青龙朱三期文化石器\n至龙泉三期文化磨制石锛\n育龙泉三期文化磨制石器\n"
+      },
+      {
+        "text": "饰",
+        "page": 12,
+        "source": "ocr",
+        "context": "E\n八六\n八七\n八八\n\n青龙朱三期文化装饰品\nAER = FAM at\nFi ER"
+      },
+      {
+        "text": "环",
+        "page": 15,
+        "source": "ocr",
+        "context": "ASE ALF Te Oo\n\n1. 地理环境\n\n青龙泉新石器时代遗址，位于郧县城东"
+      },
+      {
+        "text": "环",
+        "page": 15,
+        "source": "ocr",
+        "context": "我们将遗址统称为青龙泉。从遗址所处的自然环境看，这里地势较\n高，倚山傍水，土壤肥沃"
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T7",
+        "page": 6,
+        "source": "ocr",
+        "context": "p (6)\nFF ER eH L RK T7. TS AR BE HUE HAT R"
+      },
+      {
+        "text": "T43",
+        "page": 6,
+        "source": "ocr",
+        "context": "(10)\nfi JESS RHE KX T43, 146, T48 FR REHD J"
+      },
+      {
+        "text": "T48",
+        "page": 6,
+        "source": "ocr",
+        "context": "SS RHE KX T43, 146, T48 FR REHD JE PIAL cov"
+      },
+      {
+        "text": "T57",
+        "page": 6,
+        "source": "ocr",
+        "context": "1)\nfy JER Wt IK 52, T57, T62 PURE WB IZ HAT"
+      },
+      {
+        "text": "T62",
+        "page": 6,
+        "source": "ocr",
+        "context": " JER Wt IK 52, T57, T62 PURE WB IZ HATA PY "
+      },
+      {
+        "text": "T101",
+        "page": 6,
+        "source": "ocr",
+        "context": "eeeees (14)\n青此泉遗址了区 T101 Be BE HL IR PH [ R]"
+      },
+      {
+        "text": "T18",
+        "page": 9,
+        "source": "ocr",
+        "context": "cccese   (163)\n一三一 KT18. T19 At RE Hh EP FA"
+      },
+      {
+        "text": "T19",
+        "page": 9,
+        "source": "ocr",
+        "context": "e   (163)\n一三一 KT18. T19 At RE Hh EP FA) THT"
+      },
+      {
+        "text": "T1",
+        "page": 15,
+        "source": "ocr",
+        "context": "6米和\n4米x5S米的探方两个 〈编号 T1一T16)，人合计发掘面积 248 平方"
+      },
+      {
+        "text": "T16",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n4米x5S米的探方两个 〈编号 T1一T16)，人合计发掘面积 248 平方米。另在"
+      },
+      {
+        "text": "T103",
+        "page": 15,
+        "source": "ocr",
+        "context": " 3 米\nXS KRG Hh (SiS T103一T107) ，加上 1958 年试掘的"
+      },
+      {
+        "text": "T107",
+        "page": 15,
+        "source": "ocr",
+        "context": "XS KRG Hh (SiS T103一T107) ，加上 1958 年试掘的 2米x1"
+      },
+      {
+        "text": "T102",
+        "page": 15,
+        "source": "ocr",
+        "context": "958 年试掘的 2米x10米的探沟\n(T102)，人合计发掘面积 9$ 平方米。这是第"
+      },
+      {
+        "text": "T103M",
+        "page": 15,
+        "source": "ocr",
+        "context": "很混乱，除清\n理届家怜文化的一座幕莫 (T103M46) 和一个灰坑 (T1OSH13) "
+      },
+      {
+        "text": "T1O",
+        "page": 15,
+        "source": "ocr",
+        "context": "幕莫 (T103M46) 和一个灰坑 (T1OSH13) 外，六个探坑都停止发\n掘。这"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "T7",
+        "page": 6,
+        "source": "ocr",
+        "context": "p (6)\nFF ER eH L RK T7. TS AR BE HUE HAT R"
+      },
+      {
+        "text": "T43",
+        "page": 6,
+        "source": "ocr",
+        "context": "(10)\nfi JESS RHE KX T43, 146, T48 FR REHD J"
+      },
+      {
+        "text": "T48",
+        "page": 6,
+        "source": "ocr",
+        "context": "SS RHE KX T43, 146, T48 FR REHD JE PIAL cov"
+      },
+      {
+        "text": "T57",
+        "page": 6,
+        "source": "ocr",
+        "context": "1)\nfy JER Wt IK 52, T57, T62 PURE WB IZ HAT"
+      },
+      {
+        "text": "T62",
+        "page": 6,
+        "source": "ocr",
+        "context": " JER Wt IK 52, T57, T62 PURE WB IZ HATA PY "
+      },
+      {
+        "text": "T101",
+        "page": 6,
+        "source": "ocr",
+        "context": "eeeees (14)\n青此泉遗址了区 T101 Be BE HL IR PH [ R]"
+      },
+      {
+        "text": "F102",
+        "page": 6,
+        "source": "ocr",
+        "context": "9)\nPP IERIE TL KURA F102, FAR] .pe (20)\n青龙泉遗"
+      },
+      {
+        "text": "F11",
+        "page": 6,
+        "source": "ocr",
+        "context": "eees   (20)\n青龙泉仰韶文化 F11 RESTO, FATHER] cnwn"
+      },
+      {
+        "text": "F2",
+        "page": 6,
+        "source": "ocr",
+        "context": "ESS TL DK PR FEU HH F2 OF, FATHER] “oo ee。"
+      },
+      {
+        "text": "F3",
+        "page": 6,
+        "source": "ocr",
+        "context": "e。  (28)\n青龙泉卫区届家岭晚期 F3 SE, FATTER] ew nnn "
+      },
+      {
+        "text": "M45",
+        "page": 6,
+        "source": "ocr",
+        "context": "Fa JE FR AR ACU HH] M45 FTL ee，  (37)\nFa JE"
+      },
+      {
+        "text": "M46",
+        "page": 6,
+        "source": "ocr",
+        "context": "Fa JE FR SER ACU PE M46 平面图 pe。  (38)\n青龙朱屈家"
+      },
+      {
+        "text": "M11",
+        "page": 6,
+        "source": "ocr",
+        "context": "0)\nFi JER — HAST 1L M11 “9, FATT wo nv enn "
+      },
+      {
+        "text": "T19",
+        "page": 9,
+        "source": "ocr",
+        "context": "e   (163)\n一三一 KT18. T19 At RE Hh EP FA) THT"
+      },
+      {
+        "text": "M4",
+        "page": 9,
+        "source": "ocr",
+        "context": "166)\n一三三“大寺仰韶文化烧土坑及 M4 平面图 oo   (168)\n一荆四”"
+      },
+      {
+        "text": "M7",
+        "page": 9,
+        "source": "ocr",
+        "context": "   (168)\n一荆四”大圭仰韶文化 M7 平面图 。%ooooooooooooo"
+      },
+      {
+        "text": "M12",
+        "page": 9,
+        "source": "ocr",
+        "context": "   (168)\n一三五”大夺侧韶文化 M12 平面图 — cove cncccccc"
+      },
+      {
+        "text": "T102",
+        "page": 15,
+        "source": "ocr",
+        "context": "958 年试掘的 2米x10米的探沟\n(T102)，人合计发掘面积 9$ 平方米。这是第"
+      }
+    ],
+    "葬具": [
+      {
+        "text": "棺",
+        "page": 6,
+        "source": "ocr",
+        "context": "oo oo  (38)\n青龙泉三期文化丛棺三平、剂面图 “oo (39)\nFS J"
+      }
+    ],
+    "材质": [
+      {
+        "text": "细泥陶",
+        "page": 7,
+        "source": "ocr",
+        "context": "e (41)\n=     青龙泉仰韶文化细泥陶器 tn nc ccc cccncccc"
+      },
+      {
+        "text": "细泥陶",
+        "page": 7,
+        "source": "ocr",
+        "context": "es   (43)\n三八，青龙泉仰韶文化细泥陶器 ooeooooooooooeoeeo"
+      },
+      {
+        "text": "细泥陶",
+        "page": 7,
+        "source": "ocr",
+        "context": "  (43)\n=     青龙泉仰韶文化细泥陶器 ee   (45)\n四 OC FEA"
+      },
+      {
+        "text": "细泥陶",
+        "page": 7,
+        "source": "ocr",
+        "context": " ee (60)\n五四“青龙泉屈家岭早期细泥陶器 —-- -encvcrccrcccc"
+      },
+      {
+        "text": "细泥陶",
+        "page": 7,
+        "source": "ocr",
+        "context": "ees (62)\n五五”青龙泉屈家岭早期细泥陶器 —-cnvnnreccccccsce"
+      },
+      {
+        "text": "细泥陶",
+        "page": 7,
+        "source": "ocr",
+        "context": "ees (83)\n七三“青龙泉屈家岭晚期细泥陶器 sn enncccccncccccc"
+      },
+      {
+        "text": "细泥陶",
+        "page": 8,
+        "source": "ocr",
+        "context": "o   (88)\n七七“青龙泉屈家岭晚期细泥陶豆 ee   (90)\n七八 FF TE"
+      },
+      {
+        "text": "细泥陶",
+        "page": 8,
+        "source": "ocr",
+        "context": "s   (91)\n七九 青龙泉届家岭晚期细泥陶器 oo   (91)\n八O 青龙泉屈家"
+      },
+      {
+        "text": "细泥陶",
+        "page": 8,
+        "source": "ocr",
+        "context": "   (91)\n八O 青龙泉屈家岭上晚期细泥陶器 — ww ncn cnecccccn"
+      },
+      {
+        "text": "细泥陶",
+        "page": 8,
+        "source": "ocr",
+        "context": "s   (92)\n八一“青龙泉届家岭晚期细泥陶器和   (94)\n八二“青龙泉屈家岭晚"
+      },
+      {
+        "text": "细泥陶",
+        "page": 10,
+        "source": "ocr",
+        "context": "T SC AEB a\n- 青龙泉仰韶文化细泥陶器\n青龙录仰韶文化夹砂陶希\nFE DEI"
+      },
+      {
+        "text": "细泥陶",
+        "page": 10,
+        "source": "ocr",
+        "context": "化早期纹饰陶片\n- 青龙朵屈家怜文化早期细泥陶需\n青龙录届家怜文化早期细泥陶器 ，\n青"
+      },
+      {
+        "text": "细泥陶",
+        "page": 10,
+        "source": "ocr",
+        "context": "怜文化早期细泥陶需\n青龙录届家怜文化早期细泥陶器 ，\n青龙泉届家岭文化早期陶器\n青龙朵"
+      },
+      {
+        "text": "细泥陶",
+        "page": 10,
+        "source": "ocr",
+        "context": " A Bd) ES\n青龙果届家岭文化晚期细泥陶杯\n"
+      },
+      {
+        "text": "细泥陶",
+        "page": 11,
+        "source": "ocr",
+        "context": "青龙泉届家岭文化晚期细泥陶高圈足杯\n青龙泉届家岭文化晚期细泥陶太\n"
+      },
+      {
+        "text": "细泥陶",
+        "page": 11,
+        "source": "ocr",
+        "context": "晚期细泥陶高圈足杯\n青龙泉届家岭文化晚期细泥陶太\n青龙泉屈家岭文化晚期细泥陶器\n青龙泉"
+      },
+      {
+        "text": "细泥陶",
+        "page": 11,
+        "source": "ocr",
+        "context": "岭文化晚期细泥陶太\n青龙泉屈家岭文化晚期细泥陶器\n青龙泉届家岭文化晚期细泥陶器\n青龙泉"
+      },
+      {
+        "text": "细泥陶",
+        "page": 11,
+        "source": "ocr",
+        "context": "岭文化晚期细泥陶器\n青龙泉届家岭文化晚期细泥陶器\n青龙泉屈家岭文化晚期细泥陶豆\n青龙泉"
+      },
+      {
+        "text": "细泥陶",
+        "page": 11,
+        "source": "ocr",
+        "context": "岭文化晚期细泥陶器\n青龙泉屈家岭文化晚期细泥陶豆\n青龙泉届家岭文化晚期细泥陶圈足小负\n"
+      },
+      {
+        "text": "细泥陶",
+        "page": 11,
+        "source": "ocr",
+        "context": "岭文化晚期细泥陶豆\n青龙泉届家岭文化晚期细泥陶圈足小负\n青龙泉屈家岭文化晚期陶负\n青龙"
+      },
+      {
+        "text": "细泥陶",
+        "page": 11,
+        "source": "ocr",
+        "context": "屈家岭文化晚期陶负\n青龙泉屈家岭文化晚期细泥陶铅\n青龙泉屈家岭文化晚期陶易\n青龙泉屈家"
+      }
+    ],
+    "纹饰": [
+      {
+        "text": "彩陶",
+        "page": 7,
+        "source": "ocr",
+        "context": "see (58)\n五二 青龙泉届家岭早期彩陶片 ww encccnceccccccs"
+      },
+      {
+        "text": "彩陶",
+        "page": 7,
+        "source": "ocr",
+        "context": "ees (60)\n五三“青龙泉屈家岭早期彩陶片 .eeovevvooooeooeeo"
+      },
+      {
+        "text": "彩陶",
+        "page": 7,
+        "source": "ocr",
+        "context": "ens (85)\n七四“青龙泉屈家岭晚期彩陶-ee (87)\n\nit ig Sh M"
+      },
+      {
+        "text": "彩陶",
+        "page": 8,
+        "source": "ocr",
+        "context": "七五”青龙泉屈家岭晚期蛋壳彩陶杯 oo   (87)\nPX PETER"
+      },
+      {
+        "text": "彩陶",
+        "page": 9,
+        "source": "ocr",
+        "context": "es  (169)\n一三六“大寺仰韶文化彩陶片 (钵、  FE) so cn crn"
+      },
+      {
+        "text": "彩陶",
+        "page": 12,
+        "source": "ocr",
+        "context": " FAN CHE Bld\n大和寺仰韶文化彩陶片\n大竺仰韶文化陶器\n\n大寺仰韶文化陶、"
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "陶片",
+        "page": 7,
+        "source": "ocr",
+        "context": "ee (58)\n五二 青龙泉届家岭早期彩陶片 ww encccnceccccccsc"
+      },
+      {
+        "text": "陶片",
+        "page": 7,
+        "source": "ocr",
+        "context": "es (60)\n五三“青龙泉屈家岭早期彩陶片 .eeovevvooooeooeeoe"
+      },
+      {
+        "text": "陶片",
+        "page": 9,
+        "source": "ocr",
+        "context": "s  (169)\n一三六“大寺仰韶文化彩陶片 (钵、  FE) so cn crn "
+      },
+      {
+        "text": "陶片",
+        "page": 10,
+        "source": "ocr",
+        "context": "AER Aas\n青龙果屈家岭文化早期纹饰陶片\n- 青龙朵屈家怜文化早期细泥陶需\n青龙"
+      },
+      {
+        "text": "陶片",
+        "page": 11,
+        "source": "ocr",
+        "context": "HE RUS SOA\n青龙泉三期文化纹饰陶片\n青龙泉三期文化泥质陶器\n青龙泉三期文化"
+      },
+      {
+        "text": "陶片",
+        "page": 12,
+        "source": "ocr",
+        "context": "FAN CHE Bld\n大和寺仰韶文化彩陶片\n大竺仰韶文化陶器\n\n大寺仰韶文化陶、石"
+      },
+      {
+        "text": "陶片",
+        "page": 15,
+        "source": "ocr",
+        "context": "址上部的文化层几乎全被破坏，暴露于地表的陶片和石器等文化遗物俯拾\n缘是。因此，在这里"
+      }
+    ],
+    "石器": [
+      {
+        "text": "石锛",
+        "page": 8,
+        "source": "ocr",
+        "context": " (108)\n九五”青龙泉届家岭晚期磨制石锛“ee   (109)\n九六”青龙泉届家"
+      },
+      {
+        "text": "石斧",
+        "page": 11,
+        "source": "ocr",
+        "context": "屈家岭文化晚期石器\n青龙泉屈家岭文化晚期石斧\n青龙泉屈家岭文化晚期石链\n青龙泉届家岭"
+      },
+      {
+        "text": "石锛",
+        "page": 11,
+        "source": "ocr",
+        "context": "\n青龙朱三期文化石器\n至龙泉三期文化磨制石锛\n育龙泉三期文化磨制石器\n"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": " 190 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "岸、玉钱山南葛的\n二级阶地上，南距汉江约 190 米，高出河床约 18 米。遗址附近地势为北"
+      },
+      {
+        "text": " 18 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "地上，南距汉江约 190 米，高出河床约 18 米。遗址附近地势为北高南低的缓坡，\n遗址东"
+      },
+      {
+        "text": "160 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "A, ARK\n450. PALS 80—160 米，现存总面积约 45000 平方米 (图"
+      },
+      {
+        "text": "6.5 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "分为第上、册两区，文化堆积厚 3.$一-6.5 米，依次权压\n着仰韶、屈家岭、青龙泉三期三"
+      },
+      {
+        "text": " 2米",
+        "page": 15,
+        "source": "ocr",
+        "context": "HRB EABALA, BIHAU KA 2米，面积约 25000 平方米，文化堆积平"
+      },
+      {
+        "text": " 1.5 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "约 25000 平方米，文化堆积平\n均厚 1.5 米，也亚奈着三种文化遗存。但是，由于长期雨"
+      },
+      {
+        "text": " 3\n米",
+        "page": 15,
+        "source": "ocr",
+        "context": "青龙泉遗址。根据试掘的情况，先在工区开掘 3\n米x5米的探方十四个，将 1958 年试掘"
+      },
+      {
+        "text": "5米",
+        "page": 15,
+        "source": "ocr",
+        "context": "。根据试掘的情况，先在工区开掘 3\n米x5米的探方十四个，将 1958 年试掘的一条"
+      },
+      {
+        "text": "2米",
+        "page": 15,
+        "source": "ocr",
+        "context": "四个，将 1958 年试掘的一条探沟 (2米x10米)，扩展成3米x6米和\n4米x5"
+      },
+      {
+        "text": "10米",
+        "page": 15,
+        "source": "ocr",
+        "context": "将 1958 年试掘的一条探沟 (2米x10米)，扩展成3米x6米和\n4米x5S米的探"
+      },
+      {
+        "text": "3米",
+        "page": 15,
+        "source": "ocr",
+        "context": "试掘的一条探沟 (2米x10米)，扩展成3米x6米和\n4米x5S米的探方两个 〈编号"
+      },
+      {
+        "text": "6米",
+        "page": 15,
+        "source": "ocr",
+        "context": "一条探沟 (2米x10米)，扩展成3米x6米和\n4米x5S米的探方两个 〈编号 T1"
+      },
+      {
+        "text": "\n4米",
+        "page": 15,
+        "source": "ocr",
+        "context": "沟 (2米x10米)，扩展成3米x6米和\n4米x5S米的探方两个 〈编号 T1一T16"
+      },
+      {
+        "text": " 3 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "计发掘面积 248 平方米。另在下区开掘 3 米\nXS KRG Hh (SiS T103"
+      },
+      {
+        "text": " 2米",
+        "page": 15,
+        "source": "ocr",
+        "context": "一T107) ，加上 1958 年试掘的 2米x10米的探沟\n(T102)，人合计发掘"
+      },
+      {
+        "text": "10米",
+        "page": 15,
+        "source": "ocr",
+        "context": "7) ，加上 1958 年试掘的 2米x10米的探沟\n(T102)，人合计发掘面积 9"
+      }
+    ]
+  }
+}

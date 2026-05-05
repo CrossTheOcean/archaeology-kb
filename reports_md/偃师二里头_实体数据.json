@@ -1,0 +1,1761 @@
+{
+  "name": "偃师二里头",
+  "file": "偃师二里头.pdf",
+  "era": "夏代",
+  "culture": "二里头文化",
+  "processed_pages": 15,
+  "total_entities": 286,
+  "entity_stats": {
+    "遗址名称": 111,
+    "遗迹编号": 17,
+    "年代": 94,
+    "遗迹类型": 21,
+    "层位关系": 5,
+    "建筑结构": 3,
+    "陶器": 8,
+    "铜器": 18,
+    "探方编号": 4,
+    "石器": 4,
+    "骨器": 1
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "二里头",
+        "page": 2,
+        "source": "ocr",
+        "context": "h - & Fi\n丁种第五十九号\n\n候师二里头\n\n1959 年一1978 年考古发掘报"
+      },
+      {
+        "text": "二里头",
+        "page": 4,
+        "source": "ocr",
+        "context": "易 竞\n\n内 容简 介\n\n本书是河南优师二里头遗址 1959 年至 1978 年的考古"
+      },
+      {
+        "text": "二里头",
+        "page": 4,
+        "source": "ocr",
+        "context": "完整而系统。\n报告分八章,第一、二章介绍二里头遗址的地理地犁、发据经过和文化分期,第三"
+      },
+      {
+        "text": "二里头",
+        "page": 4,
+        "source": "ocr",
+        "context": ".骨角器.是器等文化遗物。在结语部分,就二里头文化的渊源、\n类型.性质.去向和二里头遗"
+      },
+      {
+        "text": "二里头",
+        "page": 4,
+        "source": "ocr",
+        "context": "就二里头文化的渊源、\n类型.性质.去向和二里头遗址的性质等问题作了换讨。\n\n本书系国家"
+      },
+      {
+        "text": "二里头",
+        "page": 4,
+        "source": "ocr",
+        "context": "e\n\n图书在版编目(CIP)数据\n\n候师二里头/中国社会科学院考古研究所编著. -北京"
+      },
+      {
+        "text": "二里头",
+        "page": 5,
+        "source": "ocr",
+        "context": "GR TE SU\n\n二里头遗址是我国最重要的夏商文化遗址之一，是国"
+      },
+      {
+        "text": "二里头",
+        "page": 5,
+        "source": "ocr",
+        "context": "化遗址之一，是国家一级文物保护单位。\n\n二里头遗址是 1959 FWA ERR AMA"
+      },
+      {
+        "text": "二里头",
+        "page": 5,
+        "source": "ocr",
+        "context": "如第一号、第二号大型夯土宫殿基址，确立了二里头\n文化的分期等等。凡此都是研究夏商文化的"
+      },
+      {
+        "text": "二里头",
+        "page": 5,
+        "source": "ocr",
+        "context": "址、各类墓莫和遗址及各种遗物的详细报道，二里头遗址的文化分期和二里头文\n化的学术论述等"
+      },
+      {
+        "text": "二里头",
+        "page": 5,
+        "source": "ocr",
+        "context": "种遗物的详细报道，二里头遗址的文化分期和二里头文\n化的学术论述等。\n\n我国学术界对于二"
+      },
+      {
+        "text": "二里头",
+        "page": 5,
+        "source": "ocr",
+        "context": "头文\n化的学术论述等。\n\n我国学术界对于二里头遗址和文化的认识一直有不同的见解，这本报"
+      },
+      {
+        "text": "二里头",
+        "page": 5,
+        "source": "ocr",
+        "context": "有不同的见解，这本报告的出版，对于全\n究二里头文化必将起到重要的促进作用。\n\n一一中国"
+      },
+      {
+        "text": "二里头",
+        "page": 5,
+        "source": "ocr",
+        "context": "科学院考古研究所人研究员”张长寿\n\n优师二里头遗址是史传夏王朝中心地域内的大型都邑遗址"
+      },
+      {
+        "text": "二里头",
+        "page": 5,
+        "source": "ocr",
+        "context": "掘，田野工作已持续近 40 年。\n《候师二里头》是一本田野考古报告，集中报道了 195"
+      },
+      {
+        "text": "二里头",
+        "page": 5,
+        "source": "ocr",
+        "context": "日用陶呆和随葬\n青钢礼器、玉器等。是研究二里头遗址和二里头文化最基本的著作。\n一一中国"
+      },
+      {
+        "text": "二里头",
+        "page": 5,
+        "source": "ocr",
+        "context": "葬\n青钢礼器、玉器等。是研究二里头遗址和二里头文化最基本的著作。\n一一中国社会科学院考"
+      },
+      {
+        "text": "二里头",
+        "page": 5,
+        "source": "ocr",
+        "context": "高 炜\n\n学术委员会评审意见\n\n河南优师二里头遗址是驰名中外的全国重点文物保护单位，由"
+      },
+      {
+        "text": "二里头",
+        "page": 5,
+        "source": "ocr",
+        "context": "外的全国重点文物保护单位，由该遗址命名的二里头文化\n对于探讨夏文化、夏商文化的关系乃至"
+      },
+      {
+        "text": "二里头",
+        "page": 5,
+        "source": "ocr",
+        "context": "属等重大学术问题做了深入细致的研究，提出二里头遗址\n(1 W~3 期) 为夏代之都城，"
+      },
+      {
+        "text": "二里头",
+        "page": 5,
+        "source": "ocr",
+        "context": "存的独到见解。\n\n该报告的出版，必将推动二里头文化、夏商文化关系乃至夏商历史及中国文明"
+      },
+      {
+        "text": "二里头",
+        "page": 6,
+        "source": "ocr",
+        "context": "e = eee eee(1)\n第二节 ”二里头遗址的地理环境沿革和现状PP(2)\n第三"
+      },
+      {
+        "text": "二里头",
+        "page": 6,
+        "source": "ocr",
+        "context": "地理环境沿革和现状PP(2)\n第三节 ”二里头遗址发据经过.Ne(6)\n第二章“二里头"
+      },
+      {
+        "text": "二里头",
+        "page": 6,
+        "source": "ocr",
+        "context": "二里头遗址发据经过.Ne(6)\n第二章“二里头遗址各期文化层的分布 .堆积和文化分期-"
+      },
+      {
+        "text": "二里头",
+        "page": 6,
+        "source": "ocr",
+        "context": "enenensenraen(28)\n— 二里头文化陶器的系类和质料pp(28)\n二 ”"
+      },
+      {
+        "text": "二里头",
+        "page": 6,
+        "source": "ocr",
+        "context": "文化陶器的系类和质料pp(28)\n二 ”二里头文化陶器的形制Ne(30)\n三”二里头文"
+      },
+      {
+        "text": "二里头",
+        "page": 6,
+        "source": "ocr",
+        "context": "”二里头文化陶器的形制Ne(30)\n三”二里头文化陶器的纹饰.pp(31)\n四“二里头"
+      },
+      {
+        "text": "二里头",
+        "page": 6,
+        "source": "ocr",
+        "context": "二里头文化陶器的纹饰.pp(31)\n四“二里头文化陶器形制的演变(33)\n第三    "
+      },
+      {
+        "text": "二里头",
+        "page": 7,
+        "source": "ocr",
+        "context": "优师二里头\n其他遗物ooooiiovvviiooo"
+      },
+      {
+        "text": "二里头",
+        "page": 7,
+        "source": "ocr",
+        "context": "制pp(69)\n随匡器物匠pe(70)\n二里头文化二期遗存.pp(75)\n节 6 0)"
+      },
+      {
+        "text": "二里头",
+        "page": 8,
+        "source": "ocr",
+        "context": "第六章 ”二里头文化四期遗存.RN(260)\n[ee h"
+      },
+      {
+        "text": "二里头",
+        "page": 9,
+        "source": "ocr",
+        "context": "                  候师二里头\n第三节   墓葬oovovvvivvo"
+      },
+      {
+        "text": "二里头",
+        "page": 9,
+        "source": "ocr",
+        "context": "生生生生生生生生生于 村(387)\n_ 二里头文化的渊源问题和pe(387)\n一   "
+      },
+      {
+        "text": "二里头",
+        "page": 9,
+        "source": "ocr",
+        "context": "文化的渊源问题和pe(387)\n一   二里头文化的分期与类型问题vsovovovov"
+      },
+      {
+        "text": "二里头",
+        "page": 9,
+        "source": "ocr",
+        "context": "ooooovvee。(388)\n=   二里头文化的性质问题cee cece ee e"
+      },
+      {
+        "text": "二里头",
+        "page": 9,
+        "source": "ocr",
+        "context": "EAT ATos。(399 )\n3   二里头遗址出土石器鉴定表err errr er"
+      },
+      {
+        "text": "二里头",
+        "page": 10,
+        "source": "ocr",
+        "context": "LT 16 南壁地层训面图pe(26)\n二里头文化陶器分期图.pp(34)\n二里头文化"
+      },
+      {
+        "text": "二里头",
+        "page": 10,
+        "source": "ocr",
+        "context": ")\n二里头文化陶器分期图.pp(34)\n二里头文化一期灰坑平 .剖面图.pe(40)\n"
+      },
+      {
+        "text": "二里头",
+        "page": 10,
+        "source": "ocr",
+        "context": "文化一期灰坑平 .剖面图.pe(40)\n二里头文化一期铜刀.pe(41)\n二里头文化一"
+      },
+      {
+        "text": "二里头",
+        "page": 10,
+        "source": "ocr",
+        "context": "0)\n二里头文化一期铜刀.pe(41)\n二里头文化一期石器.4(42)\n二里头文化一期"
+      },
+      {
+        "text": "二里头",
+        "page": 10,
+        "source": "ocr",
+        "context": "41)\n二里头文化一期石器.4(42)\n二里头文化一期骨角器.pp(43)\n二里头文化"
+      },
+      {
+        "text": "二里头",
+        "page": 10,
+        "source": "ocr",
+        "context": ")\n二里头文化一期骨角器.pp(43)\n二里头文化一期蚌器及陶器.pp(45)\nang"
+      },
+      {
+        "text": "二里头",
+        "page": 10,
+        "source": "ocr",
+        "context": "a) fone! | o-oo(55)\n二里头文化一期陶盆.Ne(56)\n二里头文化一"
+      },
+      {
+        "text": "二里头",
+        "page": 10,
+        "source": "ocr",
+        "context": "5)\n二里头文化一期陶盆.Ne(56)\n二里头文化一期陶器.pp(58)\n二里关文化一"
+      },
+      {
+        "text": "二里头",
+        "page": 10,
+        "source": "ocr",
+        "context": "\n二里关文化一期陶苯及陶答pp(60)\n二里头文化一期陶答及陶估pp(61)\nme: "
+      },
+      {
+        "text": "二里头",
+        "page": 10,
+        "source": "ocr",
+        "context": ")\n一里头文化一期陶器.pe(65)\n\n二里头文化一期陶器盖及异形器PP(66)\n"
+      },
+      {
+        "text": "二里头",
+        "page": 11,
+        "source": "ocr",
+        "context": "© VV M54 平面图.Ne(70)\n二里头文化一期墓葬出土陶器及石器pp(72)\n"
+      },
+      {
+        "text": "二里头",
+        "page": 11,
+        "source": "ocr",
+        "context": "ee Aas ok Es Se(73)\n二里头文化二期由. VF1、2 平、.谢面图("
+      },
+      {
+        "text": "二里头",
+        "page": 11,
+        "source": "ocr",
+        "context": " 0 ya) AP ak Se(83)\n二里头文化二期石器(84)\nae: pa) A"
+      },
+      {
+        "text": "二里头",
+        "page": 11,
+        "source": "ocr",
+        "context": " pa) Ae: oS ree(87)\n二里头文化二期骨角器站PR(89)\nmn: y"
+      },
+      {
+        "text": "二里头",
+        "page": 11,
+        "source": "ocr",
+        "context": " yay | Ame | oa(92)\n二里头文化二期 Va GE Ae SE(95)"
+      },
+      {
+        "text": "二里头",
+        "page": 11,
+        "source": "ocr",
+        "context": " a, ec) See rca(97)\n二里头文化二期陶镀和PR(98)\ned: ay"
+      },
+      {
+        "text": "二里头",
+        "page": 11,
+        "source": "ocr",
+        "context": "enseseres cess(101)\n二里头文化二期陶器(103)\neen: Say"
+      },
+      {
+        "text": "二里头",
+        "page": 11,
+        "source": "ocr",
+        "context": "108)\n一里关文化二期陶器(110)\n二里头文化二期陶丛ccc en cee ece"
+      },
+      {
+        "text": "二里头",
+        "page": 11,
+        "source": "ocr",
+        "context": " FA IV M8 平面图(124)\n\n二里头文化二期VM22 平面图cee eew "
+      },
+      {
+        "text": "二里头",
+        "page": 12,
+        "source": "ocr",
+        "context": "              . 吕.\n\n二里头文化二期 I  ，VMS3 平面图POT"
+      },
+      {
+        "text": "二里头",
+        "page": 12,
+        "source": "ocr",
+        "context": " i we = ec eee(130)\n二里头文化二期莫大出土陶器.pe(131)\nn"
+      },
+      {
+        "text": "二里头",
+        "page": 12,
+        "source": "ocr",
+        "context": "! ae |: oS sp)(137)\n二里头文化二期幕匡出土钢铃pp(137)\n第一"
+      },
+      {
+        "text": "二里头",
+        "page": 12,
+        "source": "ocr",
+        "context": "殿基址上部幕葬 M1 平面图137)\n\n二里头文化三期VF3 下层居住面平、.训面图o"
+      },
+      {
+        "text": "二里头",
+        "page": 12,
+        "source": "ocr",
+        "context": "下层居住面平、.训面图ov(163 )\n二里头文化三期WY2 YATeer Te er"
+      },
+      {
+        "text": "二里头",
+        "page": 12,
+        "source": "ocr",
+        "context": "170)\n一里头文化三期玉器(172)\n二里头文化三期石径TTT TTTTTTTTTT"
+      },
+      {
+        "text": "二里头",
+        "page": 12,
+        "source": "ocr",
+        "context": "Lyw{h=whaAaFoo(175)\n二里头文化三期石关TTT TTP TTTT T"
+      },
+      {
+        "text": "二里头",
+        "page": 12,
+        "source": "ocr",
+        "context": "TTTTIT ITE TTT(176)\n二里头文化三期石铲sooooosoovoooo"
+      },
+      {
+        "text": "二里头",
+        "page": 12,
+        "source": "ocr",
+        "context": "oooooivoeeooo。(178)\n二里头文化三期石刀ss(178)\n二里头文化三"
+      },
+      {
+        "text": "二里头",
+        "page": 12,
+        "source": "ocr",
+        "context": "8)\n二里头文化三期石刀ss(178)\n二里头文化三期石镶rrr rrr r rrr "
+      },
+      {
+        "text": "二里头",
+        "page": 12,
+        "source": "ocr",
+        "context": "rr t rrr rete(180)\n\n二里头文化三期石艾及谥石soso(180)\n"
+      },
+      {
+        "text": "二里头",
+        "page": 13,
+        "source": "ocr",
+        "context": "47\n148\n149\n150\n151\n\n二里头文化三期石器.pe(181)\n二里头文化"
+      },
+      {
+        "text": "二里头",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n\n二里头文化三期石器.pe(181)\n二里头文化三期骨器pe(182)\nTE SL "
+      },
+      {
+        "text": "二里头",
+        "page": 13,
+        "source": "ocr",
+        "context": "nessoenen ones(185)\n二里头文化三期肯锥.pp(188)\n二里头文化"
+      },
+      {
+        "text": "二里头",
+        "page": 13,
+        "source": "ocr",
+        "context": ")\n二里头文化三期肯锥.pp(188)\n二里头文化三期骨和角器.pp(190)\n— B"
+      },
+      {
+        "text": "二里头",
+        "page": 13,
+        "source": "ocr",
+        "context": "e ee) ss Le ee(193)\n二里头文化三期陶器.pe(194)\n= = a"
+      },
+      {
+        "text": "二里头",
+        "page": 13,
+        "source": "ocr",
+        "context": "p | ee | 5 See(195)\n二里头文化三期陶器纹饰折本Ne(198 )\n一"
+      },
+      {
+        "text": "二里头",
+        "page": 13,
+        "source": "ocr",
+        "context": "文化三期陶器纹饰拓本.pp5(199)\n二里头文化三期陶器纹饰拓本.pp(200)\ne"
+      },
+      {
+        "text": "二里头",
+        "page": 13,
+        "source": "ocr",
+        "context": "e br 5 sk a ee(201)\n二里头文化三期陶器刻划符号拓本.pp(203 "
+      },
+      {
+        "text": "二里头",
+        "page": 13,
+        "source": "ocr",
+        "context": "1)\ney ae ee ca(223)\n二里头文化三期 陶器.Ne(224)\n一里头文"
+      },
+      {
+        "text": "二里头",
+        "page": 13,
+        "source": "ocr",
+        "context": " at! | 7b = ea(232)\n二里头文化三期玉 、石装饰品errr rrr "
+      },
+      {
+        "text": "二里头",
+        "page": 13,
+        "source": "ocr",
+        "context": "TTT Terre eee(237)\n\n二里头文化三期陶器ree Tere rrr T"
+      },
+      {
+        "text": "二里头",
+        "page": 14,
+        "source": "ocr",
+        "context": "ce cree een ee(242)\n二里头文化三期下KM10 平面图pp(243)"
+      },
+      {
+        "text": "二里头",
+        "page": 14,
+        "source": "ocr",
+        "context": " rer Tere r ee(246)\n二里头文化三期莫大平面图sosovoooooo"
+      },
+      {
+        "text": "二里头",
+        "page": 14,
+        "source": "ocr",
+        "context": " = BAe + BBsso(255)\n二里头文化三期幕磊出土玉器及石器PETE TT"
+      },
+      {
+        "text": "二里头",
+        "page": 14,
+        "source": "ocr",
+        "context": "s Opt: C// Pee(258)\n二里头文化四期区Fl 平、谢面图vsoosoo"
+      },
+      {
+        "text": "二里头",
+        "page": 14,
+        "source": "ocr",
+        "context": "eeooeeveeesess(261)\n二里头文化四期VY1 平、训面图PTT PET"
+      },
+      {
+        "text": "二里头",
+        "page": 14,
+        "source": "ocr",
+        "context": "T TTT Teer ree(262)\n二里头文化四期Ki a ATTT PETTIT"
+      },
+      {
+        "text": "二里头",
+        "page": 14,
+        "source": "ocr",
+        "context": " rire irre itr(263)\n二里头文化四期WK4 a pesTeer eT"
+      },
+      {
+        "text": "二里头",
+        "page": 14,
+        "source": "ocr",
+        "context": "rrerr rrr rire(265)\n二里头文化四期灰坑平、 剖面图PN(267)\n"
+      },
+      {
+        "text": "二里头",
+        "page": 14,
+        "source": "ocr",
+        "context": "rrr irr ree le(273)\n二里头文化四期石竹及石锛cee wececec"
+      },
+      {
+        "text": "二里头",
+        "page": 14,
+        "source": "ocr",
+        "context": "eneeseceeseees(275)\n二里头文化四期石磊生生 TET TT OTTT"
+      },
+      {
+        "text": "二里头",
+        "page": 14,
+        "source": "ocr",
+        "context": "ITITIST TIT TT(276)\n二里头文化四期石刀TTP TTTTTTTeTT"
+      },
+      {
+        "text": "二里头",
+        "page": 14,
+        "source": "ocr",
+        "context": "ETTTTTTre rere(280)\n二里头文化四期石器pew acueeccccc"
+      },
+      {
+        "text": "二里头",
+        "page": 14,
+        "source": "ocr",
+        "context": ")\n— Bs wh RAso(283)\n二里头文化四期骨铲及骨羡站          "
+      },
+      {
+        "text": "二里头",
+        "page": 15,
+        "source": "ocr",
+        "context": "25\n226\n22]\n228\n229\n\n二里头文化四期骨器.pp(290)\n二里头文化"
+      },
+      {
+        "text": "二里头",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n\n二里头文化四期骨器.pp(290)\n二里头文化四期骨角器及牙器.pp(292)\nm"
+      },
+      {
+        "text": "二里头",
+        "page": 15,
+        "source": "ocr",
+        "context": "tenes neceeees(298)\n二里头文化四期钢醋pp(299)\n二里头文化四"
+      },
+      {
+        "text": "二里头",
+        "page": 15,
+        "source": "ocr",
+        "context": "8)\n二里头文化四期钢醋pp(299)\n二里头文化四期陶器纹饰拓本.pp(301)\n二"
+      },
+      {
+        "text": "二里头",
+        "page": 15,
+        "source": "ocr",
+        "context": "头文化四期陶器纹饰拓本.pp(301)\n二里头文化四期陶器纹饰拓本pp(302)\nFB"
+      },
+      {
+        "text": "二里头",
+        "page": 15,
+        "source": "ocr",
+        "context": "reeeessensenes(303)\n二里头文化四期陶器刻划符号拓本RN(304)\n"
+      },
+      {
+        "text": "二里头",
+        "page": 15,
+        "source": "ocr",
+        "context": " Mg [oe] Hess(308 )\n二里头文化四期陶易cece eens eee "
+      },
+      {
+        "text": "二里头",
+        "page": 15,
+        "source": "ocr",
+        "context": "py) A) Beh eee(310)\n二里头文化四期陶饼|(312)\n二里头文化四期"
+      },
+      {
+        "text": "二里头",
+        "page": 15,
+        "source": "ocr",
+        "context": "10)\n二里头文化四期陶饼|(312)\n二里头文化四期陶器vsvvoosviovooo"
+      },
+      {
+        "text": "二里头",
+        "page": 15,
+        "source": "ocr",
+        "context": "oooiooooooiev。(313)\n二里头文化四期陶答站(314)\n二里头文化四期"
+      },
+      {
+        "text": "二里头",
+        "page": 15,
+        "source": "ocr",
+        "context": "13)\n二里头文化四期陶答站(314)\n二里头文化四期陶盆Js(315)\n— Sh) "
+      },
+      {
+        "text": "二里头",
+        "page": 15,
+        "source": "ocr",
+        "context": "TTTTETTTT TELE(319)\n二里头文化四期陶尊及陶入RN(320)\n二里头"
+      },
+      {
+        "text": "二里头",
+        "page": 15,
+        "source": "ocr",
+        "context": "二里头文化四期陶尊及陶入RN(320)\n二里头文化四期陶丛及陶缸ssovosvvivv"
+      },
+      {
+        "text": "二里头",
+        "page": 15,
+        "source": "ocr",
+        "context": "ooooooeee es。(322 )\n二里头文化四期陶器cece wees een "
+      },
+      {
+        "text": "二里头",
+        "page": 15,
+        "source": "ocr",
+        "context": " eeeasseeeenes(323)\n二里头文化四期陶器pp(325)\n—BSWt "
+      },
+      {
+        "text": "二里头",
+        "page": 15,
+        "source": "ocr",
+        "context": " errr errr rie(327)\n二里头文化四期陶水管交交 和生生生生生生生生生"
+      },
+      {
+        "text": "二里头",
+        "page": 15,
+        "source": "ocr",
+        "context": " ee bees reas(328 )\n二里头文化四期装饰唱和pp(329)\nme: "
+      },
+      {
+        "text": "二里头",
+        "page": 15,
+        "source": "ocr",
+        "context": "ii eet rer eee(334)\n二里头文化四期VM21 平面图rere rrr"
+      },
+      {
+        "text": "二里头",
+        "page": 15,
+        "source": "ocr",
+        "context": "生生生生生生生生生生生生生(336 )\n二里头文化四期VMIl 平面图errr rrr"
+      },
+      {
+        "text": "二里头",
+        "page": 15,
+        "source": "ocr",
+        "context": "TTT 于生生和 TITEL(336)\n二里头文化四期VM207 平面图生生生生于于生"
+      },
+      {
+        "text": "二里头",
+        "page": 15,
+        "source": "ocr",
+        "context": "于于生生于生生生生生生于(337 )\n\n二里头文化四期VM56 平面图oo(337)\n"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "K878",
+        "page": 4,
+        "source": "ocr",
+        "context": "下.夏文化(考古)-河南-候师 NV .K878\n中国版本图书馆 CIP 数据核字(19"
+      },
+      {
+        "text": "S007",
+        "page": 8,
+        "source": "ocr",
+        "context": "3 0 6b) ce aaa(365)\nS007) ER eck(365)\n[is © "
+      },
+      {
+        "text": "T2004",
+        "page": 10,
+        "source": "ocr",
+        "context": " ereene ees本(13)\nTI T2004 南壁节层剖面图.pp(21)\nTET "
+      },
+      {
+        "text": "T24",
+        "page": 10,
+        "source": "ocr",
+        "context": "0 西壁地层谢面图.pe(22)\nTV T24 北壁地层谢面图.pp(23)\nV TI"
+      },
+      {
+        "text": "D2",
+        "page": 10,
+        "source": "ocr",
+        "context": "QB 东壁地层谢面图.pp(24)\nV D2 BS T1 西壁地层剖面图.pe(25"
+      },
+      {
+        "text": "T1",
+        "page": 10,
+        "source": "ocr",
+        "context": "层谢面图.pp(24)\nV D2 BS T1 西壁地层剖面图.pe(25)\nIT11"
+      },
+      {
+        "text": "M54",
+        "page": 11,
+        "source": "ocr",
+        "context": "70)\nBELL — HOD © VV M54 平面图.Ne(70)\n二里头文化一期墓"
+      },
+      {
+        "text": "M15",
+        "page": 11,
+        "source": "ocr",
+        "context": "(1s(124)\n— Sk v1 OV M15 平面图(124)\n— Hak we 4"
+      },
+      {
+        "text": "M8",
+        "page": 11,
+        "source": "ocr",
+        "context": ")\n— Hak we 4h FA IV M8 平面图(124)\n\n二里头文化二期VM"
+      },
+      {
+        "text": "H79",
+        "page": 12,
+        "source": "ocr",
+        "context": "i.oo(145)\n第一号宫殿西部水井 H79 平. 前面图1147)\n第一号宫殿主体"
+      },
+      {
+        "text": "M57",
+        "page": 12,
+        "source": "ocr",
+        "context": "y er BE LE BRA SE V M57 平面图(149)\nies eer Be"
+      },
+      {
+        "text": "M27",
+        "page": 12,
+        "source": "ocr",
+        "context": ")\nies eer Be eRe eV M27 平、毅面图人149)\n第二号宫毁基址平"
+      },
+      {
+        "text": "M1",
+        "page": 12,
+        "source": "ocr",
+        "context": "p(156)\n\n第二号宫殿基址上部幕葬 M1 平面图137)\n\n二里头文化三期VF3"
+      },
+      {
+        "text": "M3",
+        "page": 14,
+        "source": "ocr",
+        "context": "FB SL WH = BR EUVEK M3 AE , Fa By ey ne ec"
+      },
+      {
+        "text": "M17",
+        "page": 14,
+        "source": "ocr",
+        "context": "43)\nTFB SE WH = FIV M17 平面图.ppp(244)\n—Hsk w"
+      },
+      {
+        "text": "M16",
+        "page": 14,
+        "source": "ocr",
+        "context": "44)\n—Hsk wth = BAIV M16 平面图(245)\n—Bskwi{h ="
+      },
+      {
+        "text": "M7",
+        "page": 14,
+        "source": "ocr",
+        "context": "245)\n— BS eh = RAIV M7 平面图.oo ere Tere TTe"
+      }
+    ],
+    "年代": [
+      {
+        "text": "二里头文化",
+        "page": 4,
+        "source": "ocr",
+        "context": ".骨角器.是器等文化遗物。在结语部分,就二里头文化的渊源、\n类型.性质.去向和二里头遗址的"
+      },
+      {
+        "text": "夏代",
+        "page": 4,
+        "source": "ocr",
+        "context": "”社会科学重点科研项目 ,对研究夏文化.夏代历史、国家起源.早期都城、宫\nBER B"
+      },
+      {
+        "text": "元",
+        "page": 4,
+        "source": "ocr",
+        "context": "/K°315\n国内定价: 258.00 元\n"
+      },
+      {
+        "text": "二里头文化",
+        "page": 5,
+        "source": "ocr",
+        "context": "有不同的见解，这本报告的出版，对于全\n究二里头文化必将起到重要的促进作用。\n\n一一中国社会"
+      },
+      {
+        "text": "二里头文化",
+        "page": 5,
+        "source": "ocr",
+        "context": "葬\n青钢礼器、玉器等。是研究二里头遗址和二里头文化最基本的著作。\n一一中国社会科学院考古研"
+      },
+      {
+        "text": "二里头文化",
+        "page": 5,
+        "source": "ocr",
+        "context": "外的全国重点文物保护单位，由该遗址命名的二里头文化\n对于探讨夏文化、夏商文化的关系乃至中国"
+      },
+      {
+        "text": "明",
+        "page": 5,
+        "source": "ocr",
+        "context": "对于探讨夏文化、夏商文化的关系乃至中国文明的起源具有重要意义，该遗址的考古发现己\n"
+      },
+      {
+        "text": "夏代",
+        "page": 5,
+        "source": "ocr",
+        "context": "，提出二里头遗址\n(1 W~3 期) 为夏代之都城，4 期则为夏被商灭以后的文化遗存"
+      },
+      {
+        "text": "二里头文化",
+        "page": 5,
+        "source": "ocr",
+        "context": "存的独到见解。\n\n该报告的出版，必将推动二里头文化、夏商文化关系乃至夏商历史及中国文明起源"
+      },
+      {
+        "text": "明",
+        "page": 5,
+        "source": "ocr",
+        "context": "头文化、夏商文化关系乃至夏商历史及中国文明起源等重\n大课题的研究。\n\n      "
+      },
+      {
+        "text": "二里头文化",
+        "page": 6,
+        "source": "ocr",
+        "context": "enenensenraen(28)\n— 二里头文化陶器的系类和质料pp(28)\n二 ”二里"
+      },
+      {
+        "text": "二里头文化",
+        "page": 6,
+        "source": "ocr",
+        "context": "文化陶器的系类和质料pp(28)\n二 ”二里头文化陶器的形制Ne(30)\n三”二里头文化陶"
+      },
+      {
+        "text": "二里头文化",
+        "page": 6,
+        "source": "ocr",
+        "context": "”二里头文化陶器的形制Ne(30)\n三”二里头文化陶器的纹饰.pp(31)\n四“二里头文化"
+      },
+      {
+        "text": "二里头文化",
+        "page": 6,
+        "source": "ocr",
+        "context": "二里头文化陶器的纹饰.pp(31)\n四“二里头文化陶器形制的演变(33)\n第三      "
+      },
+      {
+        "text": "二里头文化",
+        "page": 7,
+        "source": "ocr",
+        "context": "制pp(69)\n随匡器物匠pe(70)\n二里头文化二期遗存.pp(75)\n节 6 0) M"
+      },
+      {
+        "text": "二里头文化",
+        "page": 8,
+        "source": "ocr",
+        "context": "第六章 ”二里头文化四期遗存.RN(260)\n[ee hi)"
+      },
+      {
+        "text": "二里头文化",
+        "page": 9,
+        "source": "ocr",
+        "context": "生生生生生生生生生于 村(387)\n_ 二里头文化的渊源问题和pe(387)\n一   二里"
+      },
+      {
+        "text": "二里头文化",
+        "page": 9,
+        "source": "ocr",
+        "context": "文化的渊源问题和pe(387)\n一   二里头文化的分期与类型问题vsovovovovoo"
+      },
+      {
+        "text": "二里头文化",
+        "page": 9,
+        "source": "ocr",
+        "context": "ooooovvee。(388)\n=   二里头文化的性质问题cee cece ee eee"
+      },
+      {
+        "text": "二里头文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "LT 16 南壁地层训面图pe(26)\n二里头文化陶器分期图.pp(34)\n二里头文化一期"
+      },
+      {
+        "text": "二里头文化",
+        "page": 10,
+        "source": "ocr",
+        "context": ")\n二里头文化陶器分期图.pp(34)\n二里头文化一期灰坑平 .剖面图.pe(40)\n二里"
+      },
+      {
+        "text": "二里头文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "文化一期灰坑平 .剖面图.pe(40)\n二里头文化一期铜刀.pe(41)\n二里头文化一期石"
+      },
+      {
+        "text": "二里头文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "0)\n二里头文化一期铜刀.pe(41)\n二里头文化一期石器.4(42)\n二里头文化一期骨角"
+      },
+      {
+        "text": "二里头文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "41)\n二里头文化一期石器.4(42)\n二里头文化一期骨角器.pp(43)\n二里头文化一期"
+      },
+      {
+        "text": "二里头文化",
+        "page": 10,
+        "source": "ocr",
+        "context": ")\n二里头文化一期骨角器.pp(43)\n二里头文化一期蚌器及陶器.pp(45)\nang ="
+      },
+      {
+        "text": "二里头文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "a) fone! | o-oo(55)\n二里头文化一期陶盆.Ne(56)\n二里头文化一期陶"
+      },
+      {
+        "text": "二里头文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "5)\n二里头文化一期陶盆.Ne(56)\n二里头文化一期陶器.pp(58)\n二里关文化一期陶"
+      },
+      {
+        "text": "二里头文化",
+        "page": 10,
+        "source": "ocr",
+        "context": "\n二里关文化一期陶苯及陶答pp(60)\n二里头文化一期陶答及陶估pp(61)\nme: ay"
+      },
+      {
+        "text": "二里头文化",
+        "page": 10,
+        "source": "ocr",
+        "context": ")\n一里头文化一期陶器.pe(65)\n\n二里头文化一期陶器盖及异形器PP(66)\n"
+      },
+      {
+        "text": "二里头文化",
+        "page": 11,
+        "source": "ocr",
+        "context": "© VV M54 平面图.Ne(70)\n二里头文化一期墓葬出土陶器及石器pp(72)\nae"
+      },
+      {
+        "text": "二里头文化",
+        "page": 11,
+        "source": "ocr",
+        "context": "ee Aas ok Es Se(73)\n二里头文化二期由. VF1、2 平、.谢面图(76"
+      },
+      {
+        "text": "二里头文化",
+        "page": 11,
+        "source": "ocr",
+        "context": " 0 ya) AP ak Se(83)\n二里头文化二期石器(84)\nae: pa) Ae:"
+      },
+      {
+        "text": "二里头文化",
+        "page": 11,
+        "source": "ocr",
+        "context": " pa) Ae: oS ree(87)\n二里头文化二期骨角器站PR(89)\nmn: ya)"
+      },
+      {
+        "text": "二里头文化",
+        "page": 11,
+        "source": "ocr",
+        "context": " yay | Ame | oa(92)\n二里头文化二期 Va GE Ae SE(95)\nS"
+      },
+      {
+        "text": "二里头文化",
+        "page": 11,
+        "source": "ocr",
+        "context": " a, ec) See rca(97)\n二里头文化二期陶镀和PR(98)\ned: aya)"
+      },
+      {
+        "text": "二里头文化",
+        "page": 11,
+        "source": "ocr",
+        "context": "enseseres cess(101)\n二里头文化二期陶器(103)\neen: Say a"
+      },
+      {
+        "text": "二里头文化",
+        "page": 11,
+        "source": "ocr",
+        "context": "108)\n一里关文化二期陶器(110)\n二里头文化二期陶丛ccc en cee ecene"
+      },
+      {
+        "text": "二里头文化",
+        "page": 11,
+        "source": "ocr",
+        "context": " FA IV M8 平面图(124)\n\n二里头文化二期VM22 平面图cee eew ee"
+      },
+      {
+        "text": "二里头文化",
+        "page": 12,
+        "source": "ocr",
+        "context": "              . 吕.\n\n二里头文化二期 I  ，VMS3 平面图POTES"
+      },
+      {
+        "text": "二里头文化",
+        "page": 12,
+        "source": "ocr",
+        "context": " i we = ec eee(130)\n二里头文化二期莫大出土陶器.pe(131)\nng:"
+      },
+      {
+        "text": "二里头文化",
+        "page": 12,
+        "source": "ocr",
+        "context": "! ae |: oS sp)(137)\n二里头文化二期幕匡出土钢铃pp(137)\n第一号宫"
+      },
+      {
+        "text": "二里头文化",
+        "page": 12,
+        "source": "ocr",
+        "context": "殿基址上部幕葬 M1 平面图137)\n\n二里头文化三期VF3 下层居住面平、.训面图ov("
+      },
+      {
+        "text": "二里头文化",
+        "page": 12,
+        "source": "ocr",
+        "context": "下层居住面平、.训面图ov(163 )\n二里头文化三期WY2 YATeer Te er r"
+      },
+      {
+        "text": "二里头文化",
+        "page": 12,
+        "source": "ocr",
+        "context": "170)\n一里头文化三期玉器(172)\n二里头文化三期石径TTT TTTTTTTTTTTT"
+      },
+      {
+        "text": "二里头文化",
+        "page": 12,
+        "source": "ocr",
+        "context": "Lyw{h=whaAaFoo(175)\n二里头文化三期石关TTT TTP TTTT TTT"
+      },
+      {
+        "text": "二里头文化",
+        "page": 12,
+        "source": "ocr",
+        "context": "TTTTIT ITE TTT(176)\n二里头文化三期石铲sooooosoovooooos"
+      },
+      {
+        "text": "二里头文化",
+        "page": 12,
+        "source": "ocr",
+        "context": "oooooivoeeooo。(178)\n二里头文化三期石刀ss(178)\n二里头文化三期石"
+      },
+      {
+        "text": "二里头文化",
+        "page": 12,
+        "source": "ocr",
+        "context": "8)\n二里头文化三期石刀ss(178)\n二里头文化三期石镶rrr rrr r rrr rr"
+      },
+      {
+        "text": "二里头文化",
+        "page": 12,
+        "source": "ocr",
+        "context": "rr t rrr rete(180)\n\n二里头文化三期石艾及谥石soso(180)\n"
+      },
+      {
+        "text": "二里头文化",
+        "page": 13,
+        "source": "ocr",
+        "context": "47\n148\n149\n150\n151\n\n二里头文化三期石器.pe(181)\n二里头文化三期"
+      },
+      {
+        "text": "二里头文化",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n\n二里头文化三期石器.pe(181)\n二里头文化三期骨器pe(182)\nTE SL WA"
+      },
+      {
+        "text": "二里头文化",
+        "page": 13,
+        "source": "ocr",
+        "context": "nessoenen ones(185)\n二里头文化三期肯锥.pp(188)\n二里头文化三期"
+      },
+      {
+        "text": "二里头文化",
+        "page": 13,
+        "source": "ocr",
+        "context": ")\n二里头文化三期肯锥.pp(188)\n二里头文化三期骨和角器.pp(190)\n— BS "
+      },
+      {
+        "text": "二里头文化",
+        "page": 13,
+        "source": "ocr",
+        "context": "e ee) ss Le ee(193)\n二里头文化三期陶器.pe(194)\n= = ap "
+      },
+      {
+        "text": "二里头文化",
+        "page": 13,
+        "source": "ocr",
+        "context": "p | ee | 5 See(195)\n二里头文化三期陶器纹饰折本Ne(198 )\n一里头"
+      },
+      {
+        "text": "二里头文化",
+        "page": 13,
+        "source": "ocr",
+        "context": "文化三期陶器纹饰拓本.pp5(199)\n二里头文化三期陶器纹饰拓本.pp(200)\nee:"
+      },
+      {
+        "text": "二里头文化",
+        "page": 13,
+        "source": "ocr",
+        "context": "e br 5 sk a ee(201)\n二里头文化三期陶器刻划符号拓本.pp(203 )\n"
+      },
+      {
+        "text": "二里头文化",
+        "page": 13,
+        "source": "ocr",
+        "context": "1)\ney ae ee ca(223)\n二里头文化三期 陶器.Ne(224)\n一里头文化三"
+      },
+      {
+        "text": "二里头文化",
+        "page": 13,
+        "source": "ocr",
+        "context": " at! | 7b = ea(232)\n二里头文化三期玉 、石装饰品errr rrr rr"
+      },
+      {
+        "text": "二里头文化",
+        "page": 13,
+        "source": "ocr",
+        "context": "TTT Terre eee(237)\n\n二里头文化三期陶器ree Tere rrr TrT"
+      },
+      {
+        "text": "二里头文化",
+        "page": 14,
+        "source": "ocr",
+        "context": "ce cree een ee(242)\n二里头文化三期下KM10 平面图pp(243)\nT"
+      },
+      {
+        "text": "二里头文化",
+        "page": 14,
+        "source": "ocr",
+        "context": " rer Tere r ee(246)\n二里头文化三期莫大平面图sosovoooooooo"
+      },
+      {
+        "text": "二里头文化",
+        "page": 14,
+        "source": "ocr",
+        "context": " = BAe + BBsso(255)\n二里头文化三期幕磊出土玉器及石器PETE TTTT"
+      },
+      {
+        "text": "二里头文化",
+        "page": 14,
+        "source": "ocr",
+        "context": "s Opt: C// Pee(258)\n二里头文化四期区Fl 平、谢面图vsoosooos"
+      },
+      {
+        "text": "二里头文化",
+        "page": 14,
+        "source": "ocr",
+        "context": "eeooeeveeesess(261)\n二里头文化四期VY1 平、训面图PTT PETS "
+      },
+      {
+        "text": "二里头文化",
+        "page": 14,
+        "source": "ocr",
+        "context": "T TTT Teer ree(262)\n二里头文化四期Ki a ATTT PETTITT "
+      },
+      {
+        "text": "二里头文化",
+        "page": 14,
+        "source": "ocr",
+        "context": " rire irre itr(263)\n二里头文化四期WK4 a pesTeer eT T"
+      },
+      {
+        "text": "二里头文化",
+        "page": 14,
+        "source": "ocr",
+        "context": "rrerr rrr rire(265)\n二里头文化四期灰坑平、 剖面图PN(267)\n— "
+      },
+      {
+        "text": "二里头文化",
+        "page": 14,
+        "source": "ocr",
+        "context": "rrr irr ree le(273)\n二里头文化四期石竹及石锛cee wecececcv"
+      },
+      {
+        "text": "二里头文化",
+        "page": 14,
+        "source": "ocr",
+        "context": "eneeseceeseees(275)\n二里头文化四期石磊生生 TET TT OTTTTE"
+      },
+      {
+        "text": "二里头文化",
+        "page": 14,
+        "source": "ocr",
+        "context": "ITITIST TIT TT(276)\n二里头文化四期石刀TTP TTTTTTTeTTTT"
+      },
+      {
+        "text": "二里头文化",
+        "page": 14,
+        "source": "ocr",
+        "context": "ETTTTTTre rere(280)\n二里头文化四期石器pew acueeccccces"
+      },
+      {
+        "text": "二里头文化",
+        "page": 14,
+        "source": "ocr",
+        "context": ")\n— Bs wh RAso(283)\n二里头文化四期骨铲及骨羡站            "
+      },
+      {
+        "text": "二里头文化",
+        "page": 15,
+        "source": "ocr",
+        "context": "25\n226\n22]\n228\n229\n\n二里头文化四期骨器.pp(290)\n二里头文化四期"
+      },
+      {
+        "text": "二里头文化",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n\n二里头文化四期骨器.pp(290)\n二里头文化四期骨角器及牙器.pp(292)\nme:"
+      },
+      {
+        "text": "二里头文化",
+        "page": 15,
+        "source": "ocr",
+        "context": "tenes neceeees(298)\n二里头文化四期钢醋pp(299)\n二里头文化四期陶"
+      },
+      {
+        "text": "二里头文化",
+        "page": 15,
+        "source": "ocr",
+        "context": "8)\n二里头文化四期钢醋pp(299)\n二里头文化四期陶器纹饰拓本.pp(301)\n二里头"
+      },
+      {
+        "text": "二里头文化",
+        "page": 15,
+        "source": "ocr",
+        "context": "头文化四期陶器纹饰拓本.pp(301)\n二里头文化四期陶器纹饰拓本pp(302)\nFB S"
+      },
+      {
+        "text": "二里头文化",
+        "page": 15,
+        "source": "ocr",
+        "context": "reeeessensenes(303)\n二里头文化四期陶器刻划符号拓本RN(304)\nee"
+      },
+      {
+        "text": "二里头文化",
+        "page": 15,
+        "source": "ocr",
+        "context": " Mg [oe] Hess(308 )\n二里头文化四期陶易cece eens eee eh"
+      },
+      {
+        "text": "二里头文化",
+        "page": 15,
+        "source": "ocr",
+        "context": "py) A) Beh eee(310)\n二里头文化四期陶饼|(312)\n二里头文化四期陶器"
+      },
+      {
+        "text": "二里头文化",
+        "page": 15,
+        "source": "ocr",
+        "context": "10)\n二里头文化四期陶饼|(312)\n二里头文化四期陶器vsvvoosviovooooo"
+      },
+      {
+        "text": "二里头文化",
+        "page": 15,
+        "source": "ocr",
+        "context": "oooiooooooiev。(313)\n二里头文化四期陶答站(314)\n二里头文化四期陶盆"
+      },
+      {
+        "text": "二里头文化",
+        "page": 15,
+        "source": "ocr",
+        "context": "13)\n二里头文化四期陶答站(314)\n二里头文化四期陶盆Js(315)\n— Sh) PO"
+      },
+      {
+        "text": "二里头文化",
+        "page": 15,
+        "source": "ocr",
+        "context": "TTTTETTTT TELE(319)\n二里头文化四期陶尊及陶入RN(320)\n二里头文化"
+      },
+      {
+        "text": "二里头文化",
+        "page": 15,
+        "source": "ocr",
+        "context": "二里头文化四期陶尊及陶入RN(320)\n二里头文化四期陶丛及陶缸ssovosvvivviv"
+      },
+      {
+        "text": "二里头文化",
+        "page": 15,
+        "source": "ocr",
+        "context": "ooooooeee es。(322 )\n二里头文化四期陶器cece wees een ee"
+      },
+      {
+        "text": "二里头文化",
+        "page": 15,
+        "source": "ocr",
+        "context": " eeeasseeeenes(323)\n二里头文化四期陶器pp(325)\n—BSWt OA"
+      },
+      {
+        "text": "二里头文化",
+        "page": 15,
+        "source": "ocr",
+        "context": " errr errr rie(327)\n二里头文化四期陶水管交交 和生生生生生生生生生生生"
+      },
+      {
+        "text": "二里头文化",
+        "page": 15,
+        "source": "ocr",
+        "context": " ee bees reas(328 )\n二里头文化四期装饰唱和pp(329)\nme: oe"
+      },
+      {
+        "text": "二里头文化",
+        "page": 15,
+        "source": "ocr",
+        "context": "ii eet rer eee(334)\n二里头文化四期VM21 平面图rere rrr r"
+      },
+      {
+        "text": "二里头文化",
+        "page": 15,
+        "source": "ocr",
+        "context": "生生生生生生生生生生生生生(336 )\n二里头文化四期VMIl 平面图errr rrr r"
+      },
+      {
+        "text": "二里头文化",
+        "page": 15,
+        "source": "ocr",
+        "context": "TTT 于生生和 TITEL(336)\n二里头文化四期VM207 平面图生生生生于于生生于"
+      },
+      {
+        "text": "二里头文化",
+        "page": 15,
+        "source": "ocr",
+        "context": "于于生生于生生生生生生于(337 )\n\n二里头文化四期VM56 平面图oo(337)\n"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "基址",
+        "page": 5,
+        "source": "ocr",
+        "context": "重要的发现，如第一号、第二号大型夯土宫殿基址，确立了二里头\n文化的分期等等。凡此都是"
+      },
+      {
+        "text": "基址",
+        "page": 5,
+        "source": "ocr",
+        "context": "究报告，主要内容有第一、第二与\n夯土宫殿基址、各类墓莫和遗址及各种遗物的详细报道，二"
+      },
+      {
+        "text": "基址",
+        "page": 5,
+        "source": "ocr",
+        "context": "重要的是第一号和第二号两座官鞭(宗庙) 基址的发掘与复原。\n此外,还有中小型建筑基址"
+      },
+      {
+        "text": "基址",
+        "page": 5,
+        "source": "ocr",
+        "context": "基址的发掘与复原。\n此外,还有中小型建筑基址、窖穴、水井、灰坑、墓莫等遗迹，大量的各"
+      },
+      {
+        "text": "窖穴",
+        "page": 5,
+        "source": "ocr",
+        "context": "发掘与复原。\n此外,还有中小型建筑基址、窖穴、水井、灰坑、墓莫等遗迹，大量的各类日用"
+      },
+      {
+        "text": "水井",
+        "page": 5,
+        "source": "ocr",
+        "context": "复原。\n此外,还有中小型建筑基址、窖穴、水井、灰坑、墓莫等遗迹，大量的各类日用陶呆和"
+      },
+      {
+        "text": "灰坑",
+        "page": 5,
+        "source": "ocr",
+        "context": "\n此外,还有中小型建筑基址、窖穴、水井、灰坑、墓莫等遗迹，大量的各类日用陶呆和随葬\n"
+      },
+      {
+        "text": "墓葬",
+        "page": 5,
+        "source": "ocr",
+        "context": "著名的第一号、第\n一号大型宫典遗址，大批墓葬及出土的铜、陶、玉、石、骨器等大量珍贵的"
+      },
+      {
+        "text": "房址",
+        "page": 7,
+        "source": "ocr",
+        "context": "ter eee eee eee(75)\n房址0:(75)\n|| ee eee(78)"
+      },
+      {
+        "text": "基址",
+        "page": 7,
+        "source": "ocr",
+        "context": " 1p 1) Eee(138)\n宫殿建筑基址.Ne(138)\n房扯pe(159)\n罕"
+      },
+      {
+        "text": "墓葬",
+        "page": 9,
+        "source": "ocr",
+        "context": "        候师二里头\n第三节   墓葬oovovvvivvovovvvvoov"
+      },
+      {
+        "text": "灰坑",
+        "page": 10,
+        "source": "ocr",
+        "context": "陶器分期图.pp(34)\n二里头文化一期灰坑平 .剖面图.pe(40)\n二里头文化一"
+      },
+      {
+        "text": "墓葬",
+        "page": 11,
+        "source": "ocr",
+        "context": "4 平面图.Ne(70)\n二里头文化一期墓葬出土陶器及石器pp(72)\nae: = "
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": "期幕匡出土钢铃pp(137)\n第一号宫殿基址平面图pe(139)\n5 —. Ser "
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": "r reer(141)\n第一号宫殿南大门基址平面图.pe(142)\nag ee ge"
+      },
+      {
+        "text": "水井",
+        "page": 12,
+        "source": "ocr",
+        "context": "al i.oo(145)\n第一号宫殿西部水井 H79 平. 前面图1147)\n第一号"
+      },
+      {
+        "text": "墓葬",
+        "page": 12,
+        "source": "ocr",
+        "context": "1147)\n第一号宫殿主体鞭堂北部圆坑及墓葬平面图.…………和PPWooooeeoo"
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": "M27 平、毅面图人149)\n第二号宫毁基址平面图Tee TTT TTT TTT T"
+      },
+      {
+        "text": "基址",
+        "page": 12,
+        "source": "ocr",
+        "context": "水沟平面图站pp(156)\n\n第二号宫殿基址上部幕葬 M1 平面图137)\n\n二里头"
+      },
+      {
+        "text": "灰坑",
+        "page": 14,
+        "source": "ocr",
+        "context": "rer ee(263 )\n一里头文化四期灰坑平、痢面图四(264)\n一里头文化四期V"
+      },
+      {
+        "text": "灰坑",
+        "page": 14,
+        "source": "ocr",
+        "context": "rr rire(265)\n二里头文化四期灰坑平、 剖面图PN(267)\n— RSW "
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "夯土",
+        "page": 5,
+        "source": "ocr",
+        "context": "取得很多重要的发现，如第一号、第二号大型夯土宫殿基址，确立了二里头\n文化的分期等等。"
+      },
+      {
+        "text": "夯土",
+        "page": 5,
+        "source": "ocr",
+        "context": "综合性研究报告，主要内容有第一、第二与\n夯土宫殿基址、各类墓莫和遗址及各种遗物的详细"
+      },
+      {
+        "text": "堆积",
+        "page": 6,
+        "source": "ocr",
+        "context": "\n第二章“二里头遗址各期文化层的分布 .堆积和文化分期-ee(19)\nfe ee B"
+      },
+      {
+        "text": "堆积",
+        "page": 6,
+        "source": "ocr",
+        "context": " =e) ce(20)\n-- 第下区地层堆积.|(21)\n二 第了区地层推积.pe("
+      },
+      {
+        "text": "堆积",
+        "page": 6,
+        "source": "ocr",
+        "context": "y | Cece(24)\n四“第姬区地层堆积人pp(26 )\n五”分期划0(27)\n"
+      }
+    ],
+    "建筑结构": [
+      {
+        "text": "夯土",
+        "page": 5,
+        "source": "ocr",
+        "context": "取得很多重要的发现，如第一号、第二号大型夯土宫殿基址，确立了二里头\n文化的分期等等。"
+      },
+      {
+        "text": "夯土",
+        "page": 5,
+        "source": "ocr",
+        "context": "综合性研究报告，主要内容有第一、第二与\n夯土宫殿基址、各类墓莫和遗址及各种遗物的详细"
+      },
+      {
+        "text": "居住面",
+        "page": 12,
+        "source": "ocr",
+        "context": "图137)\n\n二里头文化三期VF3 下层居住面平、.训面图ov(163 )\n二里头文化"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "环",
+        "page": 6,
+        "source": "ocr",
+        "context": "eee(1)\n第二节 ”二里头遗址的地理环境沿革和现状PP(2)\n第三节 ”二里头"
+      },
+      {
+        "text": "刀",
+        "page": 10,
+        "source": "ocr",
+        "context": ".剖面图.pe(40)\n二里头文化一期铜刀.pe(41)\n二里头文化一期石器.4("
+      },
+      {
+        "text": "陶盆",
+        "page": 10,
+        "source": "ocr",
+        "context": "! | o-oo(55)\n二里头文化一期陶盆.Ne(56)\n二里头文化一期陶器.pp"
+      },
+      {
+        "text": "刀",
+        "page": 12,
+        "source": "ocr",
+        "context": "eeooo。(178)\n二里头文化三期石刀ss(178)\n二里头文化三期石镶rrr"
+      },
+      {
+        "text": "刀",
+        "page": 14,
+        "source": "ocr",
+        "context": "TIT TT(276)\n二里头文化四期石刀TTP TTTTTTTeTTTTETIT"
+      },
+      {
+        "text": "刀",
+        "page": 14,
+        "source": "ocr",
+        "context": "     ( 284)\n一里头文化四期骨刀及骨板osPPP PTTTTTTTTET"
+      },
+      {
+        "text": "陶盆",
+        "page": 15,
+        "source": "ocr",
+        "context": "文化四期陶答站(314)\n二里头文化四期陶盆Js(315)\n— Sh) PO BA "
+      },
+      {
+        "text": "陶尊",
+        "page": 15,
+        "source": "ocr",
+        "context": "TT TELE(319)\n二里头文化四期陶尊及陶入RN(320)\n二里头文化四期陶丛"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "环",
+        "page": 6,
+        "source": "ocr",
+        "context": "eee(1)\n第二节 ”二里头遗址的地理环境沿革和现状PP(2)\n第三节 ”二里头"
+      },
+      {
+        "text": "饰",
+        "page": 6,
+        "source": "ocr",
+        "context": "形制Ne(30)\n三”二里头文化陶器的纹饰.pp(31)\n四“二里头文化陶器形制的"
+      },
+      {
+        "text": "铜刀",
+        "page": 10,
+        "source": "ocr",
+        "context": " .剖面图.pe(40)\n二里头文化一期铜刀.pe(41)\n二里头文化一期石器.4("
+      },
+      {
+        "text": "盆",
+        "page": 10,
+        "source": "ocr",
+        "context": " | o-oo(55)\n二里头文化一期陶盆.Ne(56)\n二里头文化一期陶器.pp"
+      },
+      {
+        "text": "铃",
+        "page": 12,
+        "source": "ocr",
+        "context": "p)(137)\n二里头文化二期幕匡出土钢铃pp(137)\n第一号宫殿基址平面图pe"
+      },
+      {
+        "text": "刀",
+        "page": 12,
+        "source": "ocr",
+        "context": "eeooo。(178)\n二里头文化三期石刀ss(178)\n二里头文化三期石镶rrr"
+      },
+      {
+        "text": "饰",
+        "page": 13,
+        "source": "ocr",
+        "context": " See(195)\n二里头文化三期陶器纹饰折本Ne(198 )\n一里头文化三期陶器"
+      },
+      {
+        "text": "饰",
+        "page": 13,
+        "source": "ocr",
+        "context": "本Ne(198 )\n一里头文化三期陶器纹饰拓本.pp5(199)\n二里头文化三期陶"
+      },
+      {
+        "text": "饰",
+        "page": 13,
+        "source": "ocr",
+        "context": ".pp5(199)\n二里头文化三期陶器纹饰拓本.pp(200)\nee: 2 ay "
+      },
+      {
+        "text": "饰",
+        "page": 13,
+        "source": "ocr",
+        "context": "ea(232)\n二里头文化三期玉 、石装饰品errr rrr rrr rrrrrr"
+      },
+      {
+        "text": "锛",
+        "page": 14,
+        "source": "ocr",
+        "context": " le(273)\n二里头文化四期石竹及石锛cee wecececcvcecesev"
+      },
+      {
+        "text": "刀",
+        "page": 14,
+        "source": "ocr",
+        "context": "TIT TT(276)\n二里头文化四期石刀TTP TTTTTTTeTTTTETIT"
+      },
+      {
+        "text": "刀",
+        "page": 14,
+        "source": "ocr",
+        "context": "     ( 284)\n一里头文化四期骨刀及骨板osPPP PTTTTTTTTET"
+      },
+      {
+        "text": "饰",
+        "page": 15,
+        "source": "ocr",
+        "context": "钢醋pp(299)\n二里头文化四期陶器纹饰拓本.pp(301)\n二里头文化四期陶器"
+      },
+      {
+        "text": "饰",
+        "page": 15,
+        "source": "ocr",
+        "context": "本.pp(301)\n二里头文化四期陶器纹饰拓本pp(302)\nFB SL Lb D"
+      },
+      {
+        "text": "盆",
+        "page": 15,
+        "source": "ocr",
+        "context": "化四期陶答站(314)\n二里头文化四期陶盆Js(315)\n— Sh) PO BA "
+      },
+      {
+        "text": "尊",
+        "page": 15,
+        "source": "ocr",
+        "context": "T TELE(319)\n二里头文化四期陶尊及陶入RN(320)\n二里头文化四期陶丛"
+      },
+      {
+        "text": "饰",
+        "page": 15,
+        "source": "ocr",
+        "context": " reas(328 )\n二里头文化四期装饰唱和pp(329)\nme: oe Ae "
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T2004",
+        "page": 10,
+        "source": "ocr",
+        "context": " ereene ees本(13)\nTI T2004 南壁节层剖面图.pp(21)\nTET "
+      },
+      {
+        "text": "T24",
+        "page": 10,
+        "source": "ocr",
+        "context": "0 西壁地层谢面图.pe(22)\nTV T24 北壁地层谢面图.pp(23)\nV TI"
+      },
+      {
+        "text": "T1",
+        "page": 10,
+        "source": "ocr",
+        "context": "层谢面图.pp(24)\nV D2 BS T1 西壁地层剖面图.pe(25)\nIT11"
+      },
+      {
+        "text": "T116",
+        "page": 10,
+        "source": "ocr",
+        "context": " T1 西壁地层剖面图.pe(25)\nIT116 西壁地层谢面图RN(25)\nVOLT "
+      }
+    ],
+    "石器": [
+      {
+        "text": "石铲",
+        "page": 12,
+        "source": "ocr",
+        "context": "ITE TTT(176)\n二里头文化三期石铲sooooosoovooooosooee"
+      },
+      {
+        "text": "石刀",
+        "page": 12,
+        "source": "ocr",
+        "context": "oeeooo。(178)\n二里头文化三期石刀ss(178)\n二里头文化三期石镶rrr"
+      },
+      {
+        "text": "石锛",
+        "page": 14,
+        "source": "ocr",
+        "context": "e le(273)\n二里头文化四期石竹及石锛cee wecececcvcecesev"
+      },
+      {
+        "text": "石刀",
+        "page": 14,
+        "source": "ocr",
+        "context": " TIT TT(276)\n二里头文化四期石刀TTP TTTTTTTeTTTTETIT"
+      }
+    ],
+    "骨器": [
+      {
+        "text": "骨刀",
+        "page": 14,
+        "source": "ocr",
+        "context": "      ( 284)\n一里头文化四期骨刀及骨板osPPP PTTTTTTTTET"
+      }
+    ]
+  }
+}

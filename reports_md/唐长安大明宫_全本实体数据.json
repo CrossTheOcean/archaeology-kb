@@ -1,0 +1,3518 @@
+{
+  "name": "唐长安大明宫",
+  "file": "唐长安大明宫.pdf",
+  "processed_pages": 151,
+  "total_pages": 154,
+  "total_entities": 578,
+  "entity_stats": {
+    "遗址名称": 33,
+    "年代": 227,
+    "遗迹编号": 16,
+    "建筑结构": 69,
+    "遗迹类型": 22,
+    "层位关系": 23,
+    "陶器": 6,
+    "铜器": 9,
+    "测量数据": 163,
+    "地层": 7,
+    "土样特征": 1,
+    "遗存类型": 1,
+    "银器": 1
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "大明宫",
+        "page": 4,
+        "source": "ocr",
+        "context": "内 容 担 要\n\n大明宫遗址在今西安城北 ARKH AIL, P"
+      },
+      {
+        "text": "长安",
+        "page": 12,
+        "source": "ocr",
+        "context": "的\n配置和街道的设蔷以及名称等,都是仿照长安城的形制而建的。\n\n长安城始建论隋开和皇"
+      },
+      {
+        "text": "长安",
+        "page": 12,
+        "source": "ocr",
+        "context": "名称等,都是仿照长安城的形制而建的。\n\n长安城始建论隋开和皇二年(公元 582 年)"
+      },
+      {
+        "text": "长安",
+        "page": 17,
+        "source": "ocr",
+        "context": "唐 长安大明 OS\n\nET Pe, FRAP 1"
+      },
+      {
+        "text": "长安",
+        "page": 21,
+        "source": "ocr",
+        "context": "SCRA, 当时修建规模魔大的“大夺城“长安城)历时仅九个月,其建筑旦\n间的盒促可能"
+      },
+      {
+        "text": "长安",
+        "page": 24,
+        "source": "ocr",
+        "context": "言 ,故有较大的出入。同时也共明了吕大防长安城图的记载,是比较正侯的。\n\n生计附带襄"
+      },
+      {
+        "text": "唐长安",
+        "page": 24,
+        "source": "ocr",
+        "context": "1958 年考古学报第 3 期。恋广内\"唐长安城探测复原图 附有 大了明\nue)”, "
+      },
+      {
+        "text": "长安",
+        "page": 25,
+        "source": "ocr",
+        "context": "唐 长安大明 BS\n\n前滤的富城一样,也都埋认地"
+      },
+      {
+        "text": "长安",
+        "page": 25,
+        "source": "ocr",
+        "context": "昔唐书地理志及唐会要\\册府元欧(笼十四)长安志等书\n都有明确的记载外,其饼多隐隐不明"
+      },
+      {
+        "text": "长安",
+        "page": 25,
+        "source": "ocr",
+        "context": "隐隐不明。吕大防图在天明富图的东城以东和长安志轿的北城\n外泪都画有一道重将,在吕图东"
+      },
+      {
+        "text": "长安",
+        "page": 25,
+        "source": "ocr",
+        "context": "将,在吕图东中的重粕妃有太和门与晨晕楼,长安志图唐大明富图则在\ndbs Py Be "
+      },
+      {
+        "text": "长安",
+        "page": 26,
+        "source": "ocr",
+        "context": "个六道, 均熏实测情况不符。 据关暴、有长安志等书所载,合元殿 WAS\nALPS P"
+      },
+      {
+        "text": "长安",
+        "page": 27,
+        "source": "ocr",
+        "context": "修大明襄旦着开建的,所长安志(瞧六),评至德三年改乱 明 PY ("
+      },
+      {
+        "text": "长安",
+        "page": 29,
+        "source": "ocr",
+        "context": "唐 长安大明 宣\nBe Pe Be 34.2, "
+      },
+      {
+        "text": "长安",
+        "page": 40,
+        "source": "ocr",
+        "context": "B AT 两廊 之单;也未可知。惟李好文长安志图,将北衙的位置画在大明富严城的西\n北"
+      },
+      {
+        "text": "长安",
+        "page": 40,
+        "source": "ocr",
+        "context": "过一带进行了锡探,站未发现任何遗址。 又长安志载; 富垣(北垣)之外，\nPA eH "
+      },
+      {
+        "text": "长安",
+        "page": 66,
+        "source": "ocr",
+        "context": " SOK RSL AB  3.55\n图和长安志图唐禁苑图 , ZEN a Bg a "
+      },
+      {
+        "text": "长安",
+        "page": 66,
+        "source": "ocr",
+        "context": "N a Bg a ee, A RR, 而长安志禁区图 ,同\n时在禁苑北泪鱼藻富附近还"
+      },
+      {
+        "text": "大明宫",
+        "page": 67,
+        "source": "ocr",
+        "context": "大防时,城垣宫室已毁款无存(考文献记载,大明宫文泰的时间衣早,其破坊程\nEEE HOT"
+      },
+      {
+        "text": "长安",
+        "page": 68,
+        "source": "ocr",
+        "context": " , 四\n元年(公元 880 年)放到了长安城,至中和三年(公元 883 年)黄梨被"
+      },
+      {
+        "text": "长安",
+        "page": 68,
+        "source": "ocr",
+        "context": "中和三年(公元 883 年)黄梨被迫退出长安,唐兵\n和合 ,烧锥掠硅(参天范文测中国"
+      },
+      {
+        "text": "洛阳",
+        "page": 68,
+        "source": "ocr",
+        "context": "最后又徽底的拆掉 ,站将其拆下的材料十至洛阳。\n\n从发气的情况和文献的记载来看,大明"
+      },
+      {
+        "text": "长安",
+        "page": 69,
+        "source": "ocr",
+        "context": "唐 长安大明富\n\n绝来看,可能是毁认乾宁三年李茂"
+      },
+      {
+        "text": "长安",
+        "page": 69,
+        "source": "ocr",
+        "context": "时间及火烧的\n情况来推测，所调朱全忠\"毁长安富室百司及民间广舍” 等, 大概只限於长"
+      },
+      {
+        "text": "长安",
+        "page": 69,
+        "source": "ocr",
+        "context": "安富室百司及民间广舍” 等, 大概只限於长安城内的一部\n分,大明富似不在过次彼拆之办"
+      },
+      {
+        "text": "洛阳",
+        "page": 69,
+        "source": "ocr",
+        "context": ", 因此, 大明富被拆的砖石似不可能汗至洛阳。 从有关的\n衣载推测,其破款的原因可能"
+      },
+      {
+        "text": "长安",
+        "page": 69,
+        "source": "ocr",
+        "context": "后(天条\n元年, 公元 904 年), 长安城内的官署和居民的房屋等, MOB ER"
+      },
+      {
+        "text": "长安",
+        "page": 69,
+        "source": "ocr",
+        "context": "G, 扰葵官署或居民房屋等都需修建,即使长安城的匈围大大缩小(党\n呼埋建娃锁长安,就"
+      },
+      {
+        "text": "长安",
+        "page": 69,
+        "source": "ocr",
+        "context": "即使长安城的匈围大大缩小(党\n呼埋建娃锁长安,就皇城箔围改建需后来的长安城),但也还"
+      },
+      {
+        "text": "长安",
+        "page": 69,
+        "source": "ocr",
+        "context": "\n呼埋建娃锁长安,就皇城箔围改建需后来的长安城),但也还是有相当数量的修复建筑,大\n"
+      },
+      {
+        "text": "交河",
+        "page": 72,
+        "source": "ocr",
+        "context": "租柳原北获,至石匣村,考昆明上流故污,则交河水由仿弄头村北行经渠里\nkb EME A"
+      },
+      {
+        "text": "长安",
+        "page": 72,
+        "source": "ocr",
+        "context": " EK, VER A\n早不竟,即周赴沼,长安、哪县各得其牢。北岸有妇王别,叶就价舍，"
+      },
+      {
+        "text": "长安",
+        "page": 73,
+        "source": "ocr",
+        "context": "NT\n\nHEM\n\nKEE: “BBM, 长安志: 南北三里一百四十步, 通作一千二百"
+      }
+    ],
+    "年代": [
+      {
+        "text": "明",
+        "page": 4,
+        "source": "ocr",
+        "context": "内 容 担 要\n\n大明宫遗址在今西安城北 ARKH AIL, "
+      },
+      {
+        "text": "明",
+        "page": 4,
+        "source": "ocr",
+        "context": "发握中。 壮本报告根据前一阶段\n的发握，明确了富城的位置.形制和伤局的大体情况, "
+      },
+      {
+        "text": "唐",
+        "page": 4,
+        "source": "ocr",
+        "context": "莫对历代有了关文献担出若干禄\n正。定全究唐代宫城建制的重要参考候料。\n\n考 古 B"
+      },
+      {
+        "text": "元",
+        "page": 4,
+        "source": "ocr",
+        "context": "\n\n定价:  epee a6 3.70 元\n"
+      },
+      {
+        "text": "明",
+        "page": 8,
+        "source": "ocr",
+        "context": "ti\n僚拾\n\noT ate\n—_—\n\n大明富城垣保存的情况\n\nWA IA PY S"
+      },
+      {
+        "text": "唐",
+        "page": 9,
+        "source": "ocr",
+        "context": "唐\n\n          ny\n小    "
+      },
+      {
+        "text": "金",
+        "page": 11,
+        "source": "ocr",
+        "context": "站平面及章面图17\n石亲柳立面图18\n姿金环首器的部分纹邓和RN19\n玄武国航内重"
+      },
+      {
+        "text": "元",
+        "page": 11,
+        "source": "ocr",
+        "context": "7 AAT Bea, | eee27\n舍元昧石柱花纹拓本.pp31\nFi GAS "
+      },
+      {
+        "text": "唐",
+        "page": 12,
+        "source": "ocr",
+        "context": "  5   一\n、D F\n\n唐代是我国封建社会的全盛时期,定的经济、妇"
+      },
+      {
+        "text": "隋",
+        "page": 12,
+        "source": "ocr",
+        "context": "仿照长安城的形制而建的。\n\n长安城始建论隋开和皇二年(公元 582 年);名 大册"
+      },
+      {
+        "text": "元",
+        "page": 12,
+        "source": "ocr",
+        "context": "而建的。\n\n长安城始建论隋开和皇二年(公元 582 年);名 大册城 ,唐改名 K"
+      },
+      {
+        "text": "唐",
+        "page": 12,
+        "source": "ocr",
+        "context": "二年(公元 582 年);名 大册城 ,唐改名 KR’, TEM AERA\nBis"
+      },
+      {
+        "text": "明",
+        "page": 12,
+        "source": "ocr",
+        "context": "5 FE) Like AWE”,\n从此大明富的和名称才固定。大明富正门日丹原站,正"
+      },
+      {
+        "text": "明",
+        "page": 12,
+        "source": "ocr",
+        "context": "AWE”,\n从此大明富的和名称才固定。大明富正门日丹原站,正殿乱含元殿， AO Z"
+      },
+      {
+        "text": "元",
+        "page": 12,
+        "source": "ocr",
+        "context": "名称才固定。大明富正门日丹原站,正殿乱含元殿， AO ZL ee,\nRAAB PE"
+      },
+      {
+        "text": "明",
+        "page": 12,
+        "source": "ocr",
+        "context": " BER EAC Be Fe\n\n因此,天明富是研究唐代客殿建策的重要对象。\n\n中国"
+      },
+      {
+        "text": "唐",
+        "page": 12,
+        "source": "ocr",
+        "context": "EAC Be Fe\n\n因此,天明富是研究唐代客殿建策的重要对象。\n\n中国科学院考古"
+      },
+      {
+        "text": "明",
+        "page": 12,
+        "source": "ocr",
+        "context": "所於 1957 年 3 月组成工作除到大明富进行鞭察,准备发据。烃\n36 3 个多"
+      },
+      {
+        "text": "明",
+        "page": 12,
+        "source": "ocr",
+        "context": "E BR EB\n马得志等19 人。\n\n天明富的工作,至 1959 年 5 ABER"
+      },
+      {
+        "text": "明",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n(一) #          城\n\n大明定富城的发据和勘探,是示次主要工作之一。"
+      },
+      {
+        "text": "明",
+        "page": 15,
+        "source": "ocr",
+        "context": "作了发掘。\n\n1. 城址保存的状况\n\n大明宣的城垣,据发气工作中所见,都是用士计策"
+      },
+      {
+        "text": "明",
+        "page": 15,
+        "source": "ocr",
+        "context": "0\n\n北城实测长需1135 2K, 是大明富城保存最好的一面。 EIS, IRA,"
+      },
+      {
+        "text": "明",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n\n南城序京城的北垣(图二), 包括在大明富秀转内的一段,长 1074 米。 Wh"
+      },
+      {
+        "text": "明",
+        "page": 15,
+        "source": "ocr",
+        "context": "破坏静多 ,但城基的下部大朵还都衔接。大明二南面的正月一一\nFy EPS SELL"
+      },
+      {
+        "text": "唐",
+        "page": 17,
+        "source": "ocr",
+        "context": "唐 长安大明 OS\n\nET Pe, FRA"
+      },
+      {
+        "text": "明",
+        "page": 17,
+        "source": "ocr",
+        "context": "唐 长安大明 OS\n\nET Pe, FRAP 195"
+      },
+      {
+        "text": "明",
+        "page": 17,
+        "source": "ocr",
+        "context": "减内丝据\n的地层费此不同的情况,也附带阁明,以后则不另述。\n\n关攻西城的地层,和从"
+      },
+      {
+        "text": "唐",
+        "page": 17,
+        "source": "ocr",
+        "context": "R 0.3一0.5\n米,此屋仅含有少许的唐代瓷片或互片等,再下篇生土\n(fal 4"
+      },
+      {
+        "text": "唐",
+        "page": 17,
+        "source": "ocr",
+        "context": "S 7 Ee CR i) i ES\n以前唐以和后的堆积层 ,此层堆积较厚 ，一般是"
+      },
+      {
+        "text": "唐",
+        "page": 17,
+        "source": "ocr",
+        "context": "0.3 KM, USER, MEK\n数是唐代的夺、马及瓷片等,有的还夹林大量的白灰"
+      },
+      {
+        "text": "唐",
+        "page": 17,
+        "source": "ocr",
+        "context": "ele = PENA\n人二     原来唐代的地面。和从这些遗物和唐代的建筑物彼破"
+      },
+      {
+        "text": "唐",
+        "page": 17,
+        "source": "ocr",
+        "context": "     原来唐代的地面。和从这些遗物和唐代的建筑物彼破坊\n\n4. 路士“5. b"
+      },
+      {
+        "text": "明",
+        "page": 17,
+        "source": "ocr",
+        "context": ". 五花士\n的情形来看，过层的堆积是在大明铝广雍后不信和经过\n\n_ 援筷而形成的。"
+      },
+      {
+        "text": "唐",
+        "page": 18,
+        "source": "ocr",
+        "context": "经发据，表面是否有倒矢不\n详。在内城角的唐代地面上出土骨短(8 3) 1 件(图七"
+      },
+      {
+        "text": "清",
+        "page": 18,
+        "source": "ocr",
+        "context": " PO TU PS, 最近才於西城中部探清壳二门的位熏， BL\nTE EAS TE"
+      },
+      {
+        "text": "唐",
+        "page": 21,
+        "source": "ocr",
+        "context": "唐 其安大明 富\n\n序“银度”“青霖 ”二"
+      },
+      {
+        "text": "明",
+        "page": 21,
+        "source": "ocr",
+        "context": "唐 其安大明 富\n\n序“银度”“青霖 ”二门 (关於"
+      },
+      {
+        "text": "隋",
+        "page": 21,
+        "source": "ocr",
+        "context": "寅 9 米。南城傈京城的北垣,写妈建多\n隋开皇二年(公元 582 年), AAA "
+      },
+      {
+        "text": "元",
+        "page": 21,
+        "source": "ocr",
+        "context": "城傈京城的北垣,写妈建多\n隋开皇二年(公元 582 年), AAA AES 80 "
+      },
+      {
+        "text": "元",
+        "page": 21,
+        "source": "ocr",
+        "context": "i SLD SABE CLE, 2)。含元殿以东的一段, 长 870 BRK, H"
+      },
+      {
+        "text": "元",
+        "page": 21,
+        "source": "ocr",
+        "context": "CR HE PS SJ 300 米(自含元殿中间算起)钨，各有六址一座。 HRW "
+      },
+      {
+        "text": "元",
+        "page": 22,
+        "source": "ocr",
+        "context": "将中残缺不全,和从两头的情形来看,却僵含元殿和宣政殿的\n富竺相接。在相对的东泪, "
+      },
+      {
+        "text": "清",
+        "page": 23,
+        "source": "ocr",
+        "context": "RE ANIL ESE , 花大上花纹较清楚的如图版伍肆,2、3 WR, He S"
+      },
+      {
+        "text": "明",
+        "page": 23,
+        "source": "ocr",
+        "context": ",再折疝南。由於宕糟的间隔,征平面看,大明\n富北部旦梯形,南部则成长方形(图三)。"
+      },
+      {
+        "text": "明",
+        "page": 23,
+        "source": "ocr",
+        "context": " Re FE ADA\n面 ,所有有了关大明宣的各图, 都是长方形。但东城实际却是,"
+      },
+      {
+        "text": "唐",
+        "page": 23,
+        "source": "ocr",
+        "context": "的偏任,有关各文辟却没有任何记载,一般说唐代的建筑都比较规束和尖构\n的,而大明定东"
+      },
+      {
+        "text": "明",
+        "page": 23,
+        "source": "ocr",
+        "context": "般说唐代的建筑都比较规束和尖构\n的,而大明定东城的偏宪，显不易解。我们根据实测和叱"
+      },
+      {
+        "text": "元",
+        "page": 23,
+        "source": "ocr",
+        "context": "地形来看,东城的俩斜可\n启旺因稻首原至含元殿以东,即折向东北的地下、环境所限(见图"
+      },
+      {
+        "text": "秦",
+        "page": 24,
+        "source": "ocr",
+        "context": "一、 城           十\n\n关秦东城南部向东突出的部分，据台大防粤李好文"
+      },
+      {
+        "text": "明",
+        "page": 24,
+        "source": "ocr",
+        "context": "南部向东突出的部分，据台大防粤李好文等大明丁图以及其他文献的记载\n来看,省一部分可"
+      },
+      {
+        "text": "明",
+        "page": 24,
+        "source": "ocr",
+        "context": "向东突出的东煌序是东内苑的东精,而不是天明寅的东单,因此,在记的西避还应有\n糙,即"
+      },
+      {
+        "text": "明",
+        "page": 24,
+        "source": "ocr",
+        "context": "东单,因此,在记的西避还应有\n糙,即是天明宣之东城(亦郎东内苑的西类)。但是恰好在"
+      },
+      {
+        "text": "明",
+        "page": 24,
+        "source": "ocr",
+        "context": " lt\n的痕迹。根据整个形制推调 ,由大明富现存的东域(北部偏任部分)向南膛应有奖"
+      },
+      {
+        "text": "明",
+        "page": 24,
+        "source": "ocr",
+        "context": " RRA BIG SAG Eo\n\n关於大明宣宣城的范围, BC RREP CR A"
+      },
+      {
+        "text": "唐",
+        "page": 24,
+        "source": "ocr",
+        "context": " 1.47 OK, 1 里\n360 步(唐大程里)计折 529.2 米。如长5 里"
+      },
+      {
+        "text": "明",
+        "page": 24,
+        "source": "ocr",
+        "context": "过\n数和而言 ,故有较大的出入。同时也共明了吕大防长安城图的记载,是比较正侯的。\n"
+      },
+      {
+        "text": "明",
+        "page": 24,
+        "source": "ocr",
+        "context": "城图的记载,是比较正侯的。\n\n生计附带襄明一下, 1958 年陕西省人文订志第1 "
+      },
+      {
+        "text": "唐",
+        "page": 24,
+        "source": "ocr",
+        "context": "8 年陕西省人文订志第1 期,艰发形了 唐长有城地基初步探\nA’ — 3c , 4"
+      },
+      {
+        "text": "唐",
+        "page": 24,
+        "source": "ocr",
+        "context": "1958 年考古学报第 3 期。恋广内\"唐长安城探测复原图 附有 大了明\nue)”"
+      },
+      {
+        "text": "明",
+        "page": 24,
+        "source": "ocr",
+        "context": "。恋广内\"唐长安城探测复原图 附有 大了明\nue)”, Fe ECR AA SEL"
+      },
+      {
+        "text": "明",
+        "page": 24,
+        "source": "ocr",
+        "context": "RE, ESC PS eS IN\n度及大明富图的形制和方向等均有钳训 ,应了指出。"
+      },
+      {
+        "text": "唐",
+        "page": 24,
+        "source": "ocr",
+        "context": ",在 1959 年考十第 6 期发表的“唐大明密改据简报一文,其中,图二在个别之许"
+      },
+      {
+        "text": "明",
+        "page": 24,
+        "source": "ocr",
+        "context": " 1959 年考十第 6 期发表的“唐大明密改据简报一文,其中,图二在个别之许\n也"
+      },
+      {
+        "text": "唐",
+        "page": 25,
+        "source": "ocr",
+        "context": "唐 长安大明 BS\n\n前滤的富城一样,也都"
+      },
+      {
+        "text": "明",
+        "page": 25,
+        "source": "ocr",
+        "context": "唐 长安大明 BS\n\n前滤的富城一样,也都埋认地下,"
+      },
+      {
+        "text": "明",
+        "page": 25,
+        "source": "ocr",
+        "context": "夹城\n也未发现任何站址。北夹城,所有关大明富图,在玄武四以北,都画有4 至5 个四"
+      },
+      {
+        "text": "明",
+        "page": 25,
+        "source": "ocr",
+        "context": "\n\n关放大朋宣北部的夹城,有关文献中都乱明妇记载,只是从大明富东南通往典大富和\n西"
+      },
+      {
+        "text": "明",
+        "page": 25,
+        "source": "ocr",
+        "context": "的夹城,有关文献中都乱明妇记载,只是从大明富东南通往典大富和\n西南通往戏福佛寺的两"
+      },
+      {
+        "text": "唐",
+        "page": 25,
+        "source": "ocr",
+        "context": "大富和\n西南通往戏福佛寺的两道夹城,在昔唐书地理志及唐会要\\册府元欧(笼十四)长安"
+      },
+      {
+        "text": "唐",
+        "page": 25,
+        "source": "ocr",
+        "context": "通往戏福佛寺的两道夹城,在昔唐书地理志及唐会要\\册府元欧(笼十四)长安志等书\n都有"
+      },
+      {
+        "text": "元",
+        "page": 25,
+        "source": "ocr",
+        "context": "的两道夹城,在昔唐书地理志及唐会要\\册府元欧(笼十四)长安志等书\n都有明确的记载外"
+      },
+      {
+        "text": "明",
+        "page": 25,
+        "source": "ocr",
+        "context": "会要\\册府元欧(笼十四)长安志等书\n都有明确的记载外,其饼多隐隐不明。吕大防图在天"
+      },
+      {
+        "text": "明",
+        "page": 25,
+        "source": "ocr",
+        "context": "安志等书\n都有明确的记载外,其饼多隐隐不明。吕大防图在天明富图的东城以东和长安志轿"
+      },
+      {
+        "text": "明",
+        "page": 25,
+        "source": "ocr",
+        "context": "确的记载外,其饼多隐隐不明。吕大防图在天明富图的东城以东和长安志轿的北城\n外泪都画"
+      },
+      {
+        "text": "唐",
+        "page": 25,
+        "source": "ocr",
+        "context": "图东中的重粕妃有太和门与晨晕楼,长安志图唐大明富图则在\ndbs Py Be Le,"
+      },
+      {
+        "text": "明",
+        "page": 25,
+        "source": "ocr",
+        "context": "中的重粕妃有太和门与晨晕楼,长安志图唐大明富图则在\ndbs Py Be Le, B"
+      },
+      {
+        "text": "明",
+        "page": 26,
+        "source": "ocr",
+        "context": "JELPS «= 位正在南城的中部,鳃大明富的正殿 oc 南北对有照，相距 610"
+      },
+      {
+        "text": "明",
+        "page": 26,
+        "source": "ocr",
+        "context": "AA 9 TAD AYE FA ,也是天明富最天的一个 Plo 据巨琐气和探出的各"
+      },
+      {
+        "text": "元",
+        "page": 26,
+        "source": "ocr",
+        "context": "情况不符。 据关暴、有长安志等书所载,合元殿 WAS\nALPS PUG PB”, "
+      },
+      {
+        "text": "明",
+        "page": 27,
+        "source": "ocr",
+        "context": "修大明襄旦着开建的,所长安志(瞧六),评至德三"
+      },
+      {
+        "text": "明",
+        "page": 27,
+        "source": "ocr",
+        "context": "建的,所长安志(瞧六),评至德三年改乱 明 PY (ERA REE PA\n\nees"
+      },
+      {
+        "text": "唐",
+        "page": 29,
+        "source": "ocr",
+        "context": "唐 长安大明 宣\nBe Pe Be 34."
+      },
+      {
+        "text": "明",
+        "page": 29,
+        "source": "ocr",
+        "context": "唐 长安大明 宣\nBe Pe Be 34.2, 南北"
+      },
+      {
+        "text": "元",
+        "page": 32,
+        "source": "ocr",
+        "context": "K PERE Scape中\n官李韩国、程元振.………:WLS He ee FY”,"
+      },
+      {
+        "text": "唐",
+        "page": 33,
+        "source": "ocr",
+        "context": "唐 & & K FA OB\n\nSPER L"
+      },
+      {
+        "text": "宋",
+        "page": 33,
+        "source": "ocr",
+        "context": "疆\n国道一致(南北向)。在路士中,发现有宋代的瓷片。还一路士仍是有代形成的。第五层"
+      },
+      {
+        "text": "唐",
+        "page": 33,
+        "source": "ocr",
+        "context": "RAG 2.1 米。 烧二内来亲有少量的唐无片和俯石顽等。\n红烤十中有的是稚烧过的"
+      },
+      {
+        "text": "唐",
+        "page": 33,
+        "source": "ocr",
+        "context": "御拔人饥和后形成的。此层的包\n含物,没有唐久后的东西。从地层堆积的情况和包含物之纯"
+      },
+      {
+        "text": "秦",
+        "page": 33,
+        "source": "ocr",
+        "context": "和包含物之纯来推测,此层可能是在此站文\n秦和后不久形成的(周一四)。此外，城门周围"
+      },
+      {
+        "text": "宋",
+        "page": 33,
+        "source": "ocr",
+        "context": "SURREAL 2. 近代路士”“3. 宋代堆积层 人. 宋代路士\n5. RUPT"
+      },
+      {
+        "text": "宋",
+        "page": 33,
+        "source": "ocr",
+        "context": ". 近代路士”“3. 宋代堆积层 人. 宋代路士\n5. RUPTURE) 6. P"
+      },
+      {
+        "text": "唐",
+        "page": 33,
+        "source": "ocr",
+        "context": "HB th POOR 1.5\n米左右即过唐代的地面层。 CE SESE PA Ba"
+      },
+      {
+        "text": "清",
+        "page": 34,
+        "source": "ocr",
+        "context": "内保存的情况从好。其建筑形式与千构等也迁清楚(图版玖)。\n\n门道的地面基本上怕完整"
+      },
+      {
+        "text": "元",
+        "page": 37,
+        "source": "ocr",
+        "context": "hie, 2)。 同时膛出铁门何数件及开元通赛钱 10 BH. ER RP ISR"
+      },
+      {
+        "text": "清",
+        "page": 38,
+        "source": "ocr",
+        "context": "。 其余各柱磅中已无存,但各碰的位置都未清楚,从有浅\n来看,也都是近焊的一稳有一部"
+      },
+      {
+        "text": "秦",
+        "page": 38,
+        "source": "ocr",
+        "context": "着石灰涛等,可能是均柱辜取平而拯的。，各秦的坊底都低认六道 0.4 OR BF, "
+      },
+      {
+        "text": "宋",
+        "page": 38,
+        "source": "ocr",
+        "context": "1. 耕土层 2. EDGER «3. 宋以前五瑟音积如4. 水柱痕迹5. AEN"
+      },
+      {
+        "text": "唐",
+        "page": 39,
+        "source": "ocr",
+        "context": "称,文献记载不多,仅资治通鳃\n(俭二三八唐弓圳宗存)胡注谓:“……自莲菜池西出玄武"
+      },
+      {
+        "text": "唐",
+        "page": 39,
+        "source": "ocr",
+        "context": "熏我们发据的结果相符。 此外,王森文“淡唐都城图\"大\nBSL KEK KE) BE"
+      },
+      {
+        "text": "明",
+        "page": 40,
+        "source": "ocr",
+        "context": "知。惟李好文长安志图,将北衙的位置画在大明富严城的西\n北角不,我们在过一带进行了锡"
+      },
+      {
+        "text": "明",
+        "page": 40,
+        "source": "ocr",
+        "context": "H, 上述各装 ,似不在此。\n\n钨之,大明百北垣玄武四一带,和从妇扇的记载来看,是"
+      },
+      {
+        "text": "唐",
+        "page": 40,
+        "source": "ocr",
+        "context": "所在。由认北衙禁军的色\n力在此,所以有关唐代富廷的帮次内释,也多发生在过囊。如玄宗"
+      },
+      {
+        "text": "明",
+        "page": 41,
+        "source": "ocr",
+        "context": "大明富内的各宫殿遗址,现在能够看得出、而且根"
+      },
+      {
+        "text": "元",
+        "page": 41,
+        "source": "ocr",
+        "context": "且根据写的方位可以肯定名和多的,只有\n舍元殿一区 ,此外多已理於地下 BOR EE"
+      },
+      {
+        "text": "明",
+        "page": 41,
+        "source": "ocr",
+        "context": "\n\nRS ESCH ECAR UCR 大明殿` BDRE WU SR BEDE S"
+      },
+      {
+        "text": "唐",
+        "page": 45,
+        "source": "ocr",
+        "context": "唐 ££ A MS\n\neit\n\nEShLA"
+      },
+      {
+        "text": "清",
+        "page": 45,
+        "source": "ocr",
+        "context": "外, 其余均已扰存,只有杜磅的坊位向都\n清楚。从不堂的四址、隔焊及柱磁的间隔等来看"
+      },
+      {
+        "text": "清",
+        "page": 47,
+        "source": "ocr",
+        "context": "铀\n中有殿前门的门险相同 ,只是汉有那梯清楚。 TELE OR UE Sr ag "
+      },
+      {
+        "text": "清",
+        "page": 47,
+        "source": "ocr",
+        "context": "E BY OE\n白灰将皮存在, 北壁亦不清楚 , POT TA PS eR PRR"
+      },
+      {
+        "text": "清",
+        "page": 47,
+        "source": "ocr",
+        "context": "门道及闫外的隆道等怀存胃好,其平面形制还清楚 ,西关稚做\nBERRA, JACEE"
+      },
+      {
+        "text": "明",
+        "page": 48,
+        "source": "ocr",
+        "context": "RA. 台基下大上小, 倾\n斜的坡度很有明显。西端现在还高出当时的地面将近 5 米"
+      },
+      {
+        "text": "元",
+        "page": 48,
+        "source": "ocr",
+        "context": " ath, 南部新书乙载:“(德宗) 真元十二年, LER,\n\nos\nat\n"
+      },
+      {
+        "text": "元",
+        "page": 50,
+        "source": "ocr",
+        "context": " EBB, Fe HERR PAS i 元河\nBg abbas Pe TP CEL"
+      },
+      {
+        "text": "明",
+        "page": 50,
+        "source": "ocr",
+        "context": "CELL PRC BT” RS “西京大明富图”、 CEU\n\nam\n"
+      },
+      {
+        "text": "唐",
+        "page": 51,
+        "source": "ocr",
+        "context": "AC BH ie eed” 及陕西通志 唐东内图 等,所画的锯德威的位置,大骨熏歼"
+      },
+      {
+        "text": "唐",
+        "page": 51,
+        "source": "ocr",
+        "context": "歼儿之入同,其中以\n咸鹤县志慢陕西通志的唐东内大有明宫图所画的饼德砌位苇熏东西二盏"
+      },
+      {
+        "text": "明",
+        "page": 51,
+        "source": "ocr",
+        "context": ",其中以\n咸鹤县志慢陕西通志的唐东内大有明宫图所画的饼德砌位苇熏东西二盏等,和发据"
+      },
+      {
+        "text": "唐",
+        "page": 51,
+        "source": "ocr",
+        "context": "S 75S RIES WA eB. 如蔓唐书高宗本匈载: 上元元年(公元 674 "
+      },
+      {
+        "text": "元",
+        "page": 51,
+        "source": "ocr",
+        "context": " WA eB. 如蔓唐书高宗本匈载: 上元元年(公元 674 年)九\nASK A "
+      },
+      {
+        "text": "元",
+        "page": 51,
+        "source": "ocr",
+        "context": "WA eB. 如蔓唐书高宗本匈载: 上元元年(公元 674 年)九\nASK A R"
+      },
+      {
+        "text": "元",
+        "page": 51,
+        "source": "ocr",
+        "context": "B. 如蔓唐书高宗本匈载: 上元元年(公元 674 年)九\nASK A RAR, "
+      },
+      {
+        "text": "元",
+        "page": 51,
+        "source": "ocr",
+        "context": ", 上究之论麟德殿“。南部新书壬载: 上元二年九月，……Lie = Boe\n333"
+      },
+      {
+        "text": "明",
+        "page": 51,
+        "source": "ocr",
+        "context": "c octe (ot 674 年)。大了明\nme RETA BE HME (AIC"
+      },
+      {
+        "text": "秦",
+        "page": 52,
+        "source": "ocr",
+        "context": "\n1. 4543 2. FNS 3. 杜秦4. 居住         peas a"
+      },
+      {
+        "text": "清",
+        "page": 53,
+        "source": "ocr",
+        "context": "礼报口的布科贵绚结的印疲等都渤保存得非常清楚(图版陆肆)。 1958 FERRE "
+      },
+      {
+        "text": "清",
+        "page": 53,
+        "source": "ocr",
+        "context": "句。志於长期埋在地下,有的墨书字已腹落不清,能够认出的大体都是名\n着进贡上时间 、"
+      },
+      {
+        "text": "清",
+        "page": 53,
+        "source": "ocr",
+        "context": "SVE\n就有 30 父志。现在将印文比较清楚而有墨书攻字的,或公有墨书字而无印艾但"
+      },
+      {
+        "text": "明",
+        "page": 53,
+        "source": "ocr",
+        "context": "有墨书攻字的,或公有墨书字而无印艾但能褒明进\nTg Paw PRA UE HE 4"
+      },
+      {
+        "text": "清",
+        "page": 55,
+        "source": "ocr",
+        "context": " PR SL RO” eC PS.\n但不清)，可能是人和名; FS 3 FT FR"
+      },
+      {
+        "text": "清",
+        "page": 55,
+        "source": "ocr",
+        "context": "O AAS” 3-258 2 行已炉糊不清，只看号有墨字的痕迹而已; 第3行 “请"
+      },
+      {
+        "text": "清",
+        "page": 56,
+        "source": "ocr",
+        "context": "s Edt 10 种人外，还有两块辨认不清。封泥 111:3, FUSCA BBR"
+      },
+      {
+        "text": "清",
+        "page": 56,
+        "source": "ocr",
+        "context": "上泪 2 字的一部分, 除左冰的“之”字清楚外,右泪一字很像 “陆 字的上部, 但"
+      },
+      {
+        "text": "唐",
+        "page": 56,
+        "source": "ocr",
+        "context": " CLIT HERR (UIE, 6)。唐代\n有 “REN”, RRA eS, 在"
+      },
+      {
+        "text": "清",
+        "page": 56,
+        "source": "ocr",
+        "context": "E BEAD ac aR, 其中墨书字较清楚, Ti ACT LET VE\nA R"
+      },
+      {
+        "text": "清",
+        "page": 56,
+        "source": "ocr",
+        "context": " 行: ALT RS Ee5李下一字已不清;\n第 2 Fe RR BE? CHAR"
+      },
+      {
+        "text": "元",
+        "page": 56,
+        "source": "ocr",
+        "context": "封泥上有上纪年的有长大(穆宗) 四年(公元 824 年) 的1件，天和《文\n宗) "
+      },
+      {
+        "text": "元",
+        "page": 56,
+        "source": "ocr",
+        "context": "\n宗) 时的1件，大中【宣宗) 八年(公元 854 年) 的1件，十二年《公元 8"
+      },
+      {
+        "text": "元",
+        "page": 56,
+        "source": "ocr",
+        "context": "(公元 854 年) 的1件，十二年《公元 858 年) 的 2 件，\n"
+      },
+      {
+        "text": "元",
+        "page": 57,
+        "source": "ocr",
+        "context": "雪 de ok A\n\n十四年(公元 860 年) AY 1 AP, AR "
+      },
+      {
+        "text": "元",
+        "page": 57,
+        "source": "ocr",
+        "context": "RR. A PE AC TL\n年之外(公元 827—835 SE). TERVEN"
+      },
+      {
+        "text": "元",
+        "page": 57,
+        "source": "ocr",
+        "context": " DATA? Bf Fe BE 3\n至德元年(公元 756 年) BATE a P"
+      },
+      {
+        "text": "元",
+        "page": 57,
+        "source": "ocr",
+        "context": "A? Bf Fe BE 3\n至德元年(公元 756 年) BATE a Pp Ea"
+      },
+      {
+        "text": "元",
+        "page": 57,
+        "source": "ocr",
+        "context": "月篇“河东节度而察等使 , 二四年(成通元年) FERPA, Fe Pe Bh B"
+      },
+      {
+        "text": "元",
+        "page": 57,
+        "source": "ocr",
+        "context": " | BS ES BERN A RR 丰元十一\n年(公元 795 <E), Pa "
+      },
+      {
+        "text": "元",
+        "page": 57,
+        "source": "ocr",
+        "context": "S BERN A RR 丰元十一\n年(公元 795 <E), Pa JI Bh R"
+      },
+      {
+        "text": "元",
+        "page": 57,
+        "source": "ocr",
+        "context": "ee Jil\n节度使什云南安搬使，其中杜元弓爵稳、效、艾冠三帝，任西川季度使迷六年"
+      },
+      {
+        "text": "唐",
+        "page": 57,
+        "source": "ocr",
+        "context": "年之入，李\n回亦两欢任西川节度使4(见蔓唐书歼传及各帝本构)。 和从封疙 1:55"
+      },
+      {
+        "text": "唐",
+        "page": 57,
+        "source": "ocr",
+        "context": "能是李回二次出鲁西川用进页用的封泥(见蓓唐书父一百七十三列传)。\n\nPACA. T"
+      },
+      {
+        "text": "明",
+        "page": 58,
+        "source": "ocr",
+        "context": "三、宫 He ca Sb\n\n大明富发掘以来, 在富城内和河未发现过封泥,"
+      },
+      {
+        "text": "明",
+        "page": 58,
+        "source": "ocr",
+        "context": "处可能是_“藏谭”的所在。据广页和载，大明富内有左藏良，比多开本大\n明富图及永乐大"
+      },
+      {
+        "text": "明",
+        "page": 58,
+        "source": "ocr",
+        "context": "广页和载，大明富内有左藏良，比多开本大\n明富图及永乐大典开本大明富图, CAPSS"
+      },
+      {
+        "text": "明",
+        "page": 58,
+        "source": "ocr",
+        "context": "藏良，比多开本大\n明富图及永乐大典开本大明富图, CAPSS I ty “ZEEE"
+      },
+      {
+        "text": "明",
+        "page": 58,
+        "source": "ocr",
+        "context": "ee (BA)\n则称右藏良 (成宁县志大明富图同, SR AL), 以上所记,和无"
+      },
+      {
+        "text": "金",
+        "page": 58,
+        "source": "ocr",
+        "context": "左藏库或右茂\n库,在富城之内的,可能是藏金银珠赛等趴重物品的藏产。富城之外(夹城内"
+      },
+      {
+        "text": "元",
+        "page": 59,
+        "source": "ocr",
+        "context": "莲菜山,“太液这”即建在此山上。称宗时(元和十五年三月)售召传凡学士章不\n厚等在太"
+      },
+      {
+        "text": "唐",
+        "page": 59,
+        "source": "ocr",
+        "context": "从的水源问题,各文献均未有记载，历代有关唐大\n朋富图，除陕西通志唐东内图及最近所昂"
+      },
+      {
+        "text": "唐",
+        "page": 59,
+        "source": "ocr",
+        "context": "有记载，历代有关唐大\n朋富图，除陕西通志唐东内图及最近所昂的清王森文“汉唐都城图\""
+      },
+      {
+        "text": "清",
+        "page": 59,
+        "source": "ocr",
+        "context": "\n朋富图，除陕西通志唐东内图及最近所昂的清王森文“汉唐都城图\"(附图参)中，画着太"
+      },
+      {
+        "text": "唐",
+        "page": 59,
+        "source": "ocr",
+        "context": "陕西通志唐东内图及最近所昂的清王森文“汉唐都城图\"(附图参)中，画着太\n液池的水源"
+      },
+      {
+        "text": "唐",
+        "page": 60,
+        "source": "ocr",
+        "context": "版\n肆肆)。渠道上面所董的石板低论当时(唐代)地面 0.1 米多，因过一带地层多牧"
+      },
+      {
+        "text": "金",
+        "page": 60,
+        "source": "ocr",
+        "context": "1:2)两个(图版司玖),蚁头的面部有贴金的痕迹,在后入  Say\nAOS BS "
+      },
+      {
+        "text": "清",
+        "page": 61,
+        "source": "ocr",
+        "context": "C TN ,地下的让址情况至目前尚未项探清楚, 存\nBe tel Fel eet "
+      },
+      {
+        "text": "清",
+        "page": 63,
+        "source": "ocr",
+        "context": "有一部分恶在合光\n殿的殿基下面。在西面共清出“散水\"4 休(园二九),袖均 2 米"
+      },
+      {
+        "text": "唐",
+        "page": 65,
+        "source": "ocr",
+        "context": "唐 & & K WB\n\nFRADE RSE"
+      },
+      {
+        "text": "明",
+        "page": 65,
+        "source": "ocr",
+        "context": "的相同，夯士的建筑和若水\n的结构等,与大明富内各遗址的情况也无区别,网此，可地 肯"
+      },
+      {
+        "text": "唐",
+        "page": 65,
+        "source": "ocr",
+        "context": "区别,网此，可地 肯定宅个是早讼含光殿的唐代\nPERE, ZEEE RB RAE."
+      },
+      {
+        "text": "明",
+        "page": 66,
+        "source": "ocr",
+        "context": "玖，3一8; 图版陆拾,3一6)。 在大明吉六的各站址中，所出\n的坦花无当均僵此相"
+      },
+      {
+        "text": "明",
+        "page": 66,
+        "source": "ocr",
+        "context": "两度不\n同时间的遗址中,所出的全同 ;大明客内亦是如下。\nann , SLACRK"
+      },
+      {
+        "text": "元",
+        "page": 66,
+        "source": "ocr",
+        "context": "\n石读记载，含光殿是建认康宗大和五年(公元 831 年)。 2. PRE RCE\n"
+      },
+      {
+        "text": "元",
+        "page": 66,
+        "source": "ocr",
+        "context": " 831 年)。 2. PRE RCE\n元 668 etn ELA AEB St "
+      },
+      {
+        "text": "唐",
+        "page": 66,
+        "source": "ocr",
+        "context": "之名。 以发气的情况琢,含光殿\n之下压有唐代早期的建筑,因此,我们推测石读所各大和"
+      },
+      {
+        "text": "唐",
+        "page": 66,
+        "source": "ocr",
+        "context": " RSL AB  3.55\n图和长安志图唐禁苑图 , ZEN a Bg a ee,"
+      },
+      {
+        "text": "明",
+        "page": 67,
+        "source": "ocr",
+        "context": "CC He RA Td SE, ARC\n明富图。戌密县志、陕西通志也都有大明富图的"
+      },
+      {
+        "text": "明",
+        "page": 67,
+        "source": "ocr",
+        "context": "RC\n明富图。戌密县志、陕西通志也都有大明富图的训载。上述各图中有话略的区别,个别"
+      },
+      {
+        "text": "唐",
+        "page": 67,
+        "source": "ocr",
+        "context": ",已无从看到原来的形制。以吕大防来发,去唐内俊 170 ESE (ARR IR B"
+      },
+      {
+        "text": "明",
+        "page": 67,
+        "source": "ocr",
+        "context": "防时,城垣宫室已毁款无存(考文献记载,大明宫文泰的时间衣早,其破坊程\nEEE HO"
+      },
+      {
+        "text": "明",
+        "page": 67,
+        "source": "ocr",
+        "context": "RRL AE ALK, 3 使过去研究大明富的人, TET\nfil LA APB,"
+      },
+      {
+        "text": "明",
+        "page": 67,
+        "source": "ocr",
+        "context": "e J Pp Sa ES A SE, 大明富如此, 其他\n各城也就可想而知。   "
+      },
+      {
+        "text": "唐",
+        "page": 68,
+        "source": "ocr",
+        "context": " (REL PE S BR EAR\n个对唐代富殿的建筑形制, AT WR, CEU"
+      },
+      {
+        "text": "唐",
+        "page": 68,
+        "source": "ocr",
+        "context": " EBL A EY\n伤局形式等,都题示了唐代守殿的建策质格。殿址只仅保存了基础的部"
+      },
+      {
+        "text": "明",
+        "page": 68,
+        "source": "ocr",
+        "context": "STL PEST PS BEE\n\n关於大明天的庆秦问题,根据发据的各遗址观察,主要"
+      },
+      {
+        "text": "秦",
+        "page": 68,
+        "source": "ocr",
+        "context": "PEST PS BEE\n\n关於大明天的庆秦问题,根据发据的各遗址观察,主要是毁认火"
+      },
+      {
+        "text": "明",
+        "page": 68,
+        "source": "ocr",
+        "context": "不是偶然的。根据以上的情况,可以肯定大了明\nAY BEE BEM FUREY, Q"
+      },
+      {
+        "text": "元",
+        "page": 68,
+        "source": "ocr",
+        "context": "KM AE, ADR RARE , 四\n元年(公元 880 年)放到了长安城,至中"
+      },
+      {
+        "text": "元",
+        "page": 68,
+        "source": "ocr",
+        "context": "E, ADR RARE , 四\n元年(公元 880 年)放到了长安城,至中和三年("
+      },
+      {
+        "text": "元",
+        "page": 68,
+        "source": "ocr",
+        "context": "880 年)放到了长安城,至中和三年(公元 883 年)黄梨被迫退出长安,唐兵\n和"
+      },
+      {
+        "text": "唐",
+        "page": 68,
+        "source": "ocr",
+        "context": "年(公元 883 年)黄梨被迫退出长安,唐兵\n和合 ,烧锥掠硅(参天范文测中国通史"
+      },
+      {
+        "text": "唐",
+        "page": 68,
+        "source": "ocr",
+        "context": "通史简炉 318 页 ) ,造成了有如蔓唐书经籍志(答四十雯\nOl, 2S EAS"
+      },
+      {
+        "text": "元",
+        "page": 68,
+        "source": "ocr",
+        "context": "Be SB] , BS RE,\n中和(公元 881 FE) ELAR, Ee 2 "
+      },
+      {
+        "text": "元",
+        "page": 68,
+        "source": "ocr",
+        "context": "力来修复全部建筑。第三次火烧客室是於天复元年(公元 901 年)十一\nBE EE "
+      },
+      {
+        "text": "元",
+        "page": 68,
+        "source": "ocr",
+        "context": "全部建筑。第三次火烧客室是於天复元年(公元 901 年)十一\nBE EE EES "
+      },
+      {
+        "text": "明",
+        "page": 68,
+        "source": "ocr",
+        "context": "阳。\n\n从发气的情况和文献的记载来看,大明衬毁论火已无疑闻，至论烧毁有时间, 从昭"
+      },
+      {
+        "text": "唐",
+        "page": 69,
+        "source": "ocr",
+        "context": "唐 长安大明富\n\n绝来看,可能是毁认乾宁三"
+      },
+      {
+        "text": "明",
+        "page": 69,
+        "source": "ocr",
+        "context": "唐 长安大明富\n\n绝来看,可能是毁认乾宁三年李茂真的"
+      },
+      {
+        "text": "元",
+        "page": 69,
+        "source": "ocr",
+        "context": "茂真的一欣火烧,从记载中可看出自乾宁(公元 896 年)以\n和后,本绝内所记之事多"
+      },
+      {
+        "text": "明",
+        "page": 69,
+        "source": "ocr",
+        "context": "事多在西内(太极富),其后(乾宁三年)大明富可能未再修复。和从发气的\n情况来看,大"
+      },
+      {
+        "text": "明",
+        "page": 69,
+        "source": "ocr",
+        "context": "富可能未再修复。和从发气的\n情况来看,大明富文泰后确彼翻援过,发据的城门全宫殿遗址"
+      },
+      {
+        "text": "明",
+        "page": 69,
+        "source": "ocr",
+        "context": "地瑟、柱磋石等, 是在被烧合挫掉的。就大明富毁率的时间及火烧的\n情况来推测，所调朱"
+      },
+      {
+        "text": "明",
+        "page": 69,
+        "source": "ocr",
+        "context": " 等, 大概只限於长安城内的一部\n分,大明富似不在过次彼拆之办。而且烧允的太 ,石"
+      },
+      {
+        "text": "明",
+        "page": 69,
+        "source": "ocr",
+        "context": "S PEI HST PF’, 因此, 大明富被拆的砖石似不可能汗至洛阳。 从有关的"
+      },
+      {
+        "text": "明",
+        "page": 69,
+        "source": "ocr",
+        "context": ",去修建城垣或官\n署;一是当时居民利用大明富的乱、石建筑房屋或作其他使用。和从昭宗"
+      },
+      {
+        "text": "元",
+        "page": 69,
+        "source": "ocr",
+        "context": "或作其他使用。和从昭宗被规去洛后(天条\n元年, 公元 904 年), 长安城内的官"
+      },
+      {
+        "text": "元",
+        "page": 69,
+        "source": "ocr",
+        "context": "用。和从昭宗被规去洛后(天条\n元年, 公元 904 年), 长安城内的官署和居民的"
+      },
+      {
+        "text": "明",
+        "page": 69,
+        "source": "ocr",
+        "context": "城),但也还是有相当数量的修复建筑,大\n明富遗址的砖石等,可能是丢过一类的修建所拆"
+      },
+      {
+        "text": "唐",
+        "page": 70,
+        "source": "ocr",
+        "context": "图。现著西安市文史研究馆惠尤将王森广”漠唐都城图\"照片及其所题之 前到 、 ea\n"
+      },
+      {
+        "text": "明",
+        "page": 70,
+        "source": "ocr",
+        "context": "掖庭富业,人粳轻凑,释选无可究诗。东内大明囊,南北五里,.束西三里，\nie os:"
+      },
+      {
+        "text": "唐",
+        "page": 71,
+        "source": "ocr",
+        "context": "唐 Rk & K WB\n\nBAe (VSO"
+      },
+      {
+        "text": "唐",
+        "page": 71,
+        "source": "ocr",
+        "context": "著,而天子不知，此\n外不所以研苓西江也。唐西内建中立极,宫府外届 TP AAR,\n"
+      },
+      {
+        "text": "元",
+        "page": 71,
+        "source": "ocr",
+        "context": "AR TE RUA\n越丁卯,摄安康事,上元张君昂工给事,刊图以售,而环论双校,就错"
+      },
+      {
+        "text": "明",
+        "page": 72,
+        "source": "ocr",
+        "context": ". >\n日:“凶温小;二石人不相附,非昆明也。”回寅朝仿,至锁北门外,见成碑亲创殖"
+      },
+      {
+        "text": "明",
+        "page": 72,
+        "source": "ocr",
+        "context": "寅朝仿,至锁北门外,见成碑亲创殖玉，惟昆明\n界址存,云:“北极由销村,南极石匣,东"
+      },
+      {
+        "text": "清",
+        "page": 72,
+        "source": "ocr",
+        "context": ",南极石匣,东极园柳坡,西极斗因”所好甚清晰。食已,至二石间\nJhb, Qe BA"
+      },
+      {
+        "text": "明",
+        "page": 72,
+        "source": "ocr",
+        "context": "t Es ,循租柳原北获,至石匣村,考昆明上流故污,则交河水由仿弄头村北行经渠里\n"
+      },
+      {
+        "text": "明",
+        "page": 72,
+        "source": "ocr",
+        "context": "得其牢。北岸有妇王别,叶就价舍，岳前有前明寺县知县\n孔子七十二代也孔宏屎碑。折而东"
+      },
+      {
+        "text": "唐",
+        "page": 73,
+        "source": "ocr",
+        "context": "IS IK, BHISS ARES, 多唐碑。复东行至石复峪, BER MEDH "
+      },
+      {
+        "text": "唐",
+        "page": 73,
+        "source": "ocr",
+        "context": "一百四十步, 通作一千二百二十步,，较新唐书多二十\n步;富城南北二里二百七十步,通"
+      },
+      {
+        "text": "唐",
+        "page": 73,
+        "source": "ocr",
+        "context": "南北二里二百七十步,通作九百九十步,较新唐书多三十步，雨城相伴,，再加朱稚\n街长九"
+      },
+      {
+        "text": "唐",
+        "page": 73,
+        "source": "ocr",
+        "context": "於外郭南北一十五里一百七十五步之数。若依唐书则与外郭\n南北里数通合 BOCES R"
+      },
+      {
+        "text": "明",
+        "page": 73,
+        "source": "ocr",
+        "context": ",两积相较,少外郭域二百\n一十五步, 春明闲至金光状天街在朱稚六之南, A Zdb"
+      },
+      {
+        "text": "金",
+        "page": 73,
+        "source": "ocr",
+        "context": "相较,少外郭域二百\n一十五步, 春明闲至金光状天街在朱稚六之南, A Zdb, 应"
+      },
+      {
+        "text": "宋",
+        "page": 73,
+        "source": "ocr",
+        "context": ", 应除此百步,臣少一百一十五\n步。又扬宋氏四面街各厦百步之瑶 EMA AAA E"
+      },
+      {
+        "text": "唐",
+        "page": 73,
+        "source": "ocr",
+        "context": ", 蒂少一十五步,亦南郭城之基也。若从新唐书删去五十步, 则城内之\n地不足;若从李"
+      },
+      {
+        "text": "唐",
+        "page": 73,
+        "source": "ocr",
+        "context": "，则城内之地又多不能容;若改李氏之衣以就唐叫，旭更近於杜撰;\n故不若和从宋氏之乱伍"
+      },
+      {
+        "text": "宋",
+        "page": 73,
+        "source": "ocr",
+        "context": "之衣以就唐叫，旭更近於杜撰;\n故不若和从宋氏之乱伍也。至闵南九坊之概街，或序在各坊"
+      },
+      {
+        "text": "明",
+        "page": 87,
+        "source": "ocr",
+        "context": "A AE Bae AY ES Ae\n\n大明富城保仓的情形\n"
+      },
+      {
+        "text": "唐",
+        "page": 129,
+        "source": "ocr",
+        "context": "奇风葡萄粒硬(在西内克北倒唐代由下中探集,173)\n"
+      },
+      {
+        "text": "元",
+        "page": 154,
+        "source": "ocr",
+        "context": " 11031-38\n定 价: 3.70 元\n"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "G8",
+        "page": 8,
+        "source": "ocr",
+        "context": "eak\nre\nTp see\n拾伍\nFp G8\nHr 45\nHK\nRit\naE\nalt"
+      },
+      {
+        "text": "S18",
+        "page": 8,
+        "source": "ocr",
+        "context": " BLS AY ED\nHis A Fe S18 A) SE TS IZ\n"
+      },
+      {
+        "text": "S35",
+        "page": 23,
+        "source": "ocr",
+        "context": "E TE EL RR 3米多。\n\nZe S35 PY PEE 100 MOK, PEA"
+      },
+      {
+        "text": "F597",
+        "page": 27,
+        "source": "ocr",
+        "context": "8 OK, Im] BEER\nHEAL F597 OK ,\n\neH PH (7) BL "
+      },
+      {
+        "text": "G17",
+        "page": 38,
+        "source": "ocr",
+        "context": " Rs SR Ee\nACH , DRE G17, a va FE EA\n"
+      },
+      {
+        "text": "S55",
+        "page": 45,
+        "source": "ocr",
+        "context": "ee OS LSE 5.35, HCL S55 OR CURES, 2)。 BA 2."
+      },
+      {
+        "text": "L6",
+        "page": 47,
+        "source": "ocr",
+        "context": "准，西\nPY RCE RS\n\nPASH L6.29K, SLAY Rei ZB ME"
+      },
+      {
+        "text": "S38",
+        "page": 47,
+        "source": "ocr",
+        "context": " 5 KCI RAR,\n2)。\n\nAE S38 BY BS 81 OEE 3 个，由上"
+      },
+      {
+        "text": "S64",
+        "page": 48,
+        "source": "ocr",
+        "context": "BLES ARTE BE. AVERT S64 ok), (RAL BO, mae e"
+      },
+      {
+        "text": "F0",
+        "page": 55,
+        "source": "ocr",
+        "context": "……湖南都图红……CAVE 3218. F0\n文只存漂州2字)、'………bioee "
+      },
+      {
+        "text": "P0300",
+        "page": 55,
+        "source": "ocr",
+        "context": "ETA 5), EHIE 5:6.2, P0300 5: 6.1, Be RE ER\"\n2"
+      },
+      {
+        "text": "S81",
+        "page": 55,
+        "source": "ocr",
+        "context": "4 字之印。墨书字较大, 共有4 行。\nS81 47 RE “CRO AAS” 3-2"
+      },
+      {
+        "text": "P42",
+        "page": 65,
+        "source": "ocr",
+        "context": "IRR RET ee af, 2) 1 P42 BEET Ci fain\n4) Fl—"
+      },
+      {
+        "text": "S38",
+        "page": 67,
+        "source": "ocr",
+        "context": "          |\n\nTRS Sh S38 Se aN ALe BA BAR A "
+      },
+      {
+        "text": "H3",
+        "page": 74,
+        "source": "ocr",
+        "context": "yuy—campii OoJbuIOH H3 TPEX MBOPUOB TAaHCK"
+      },
+      {
+        "text": "H3",
+        "page": 74,
+        "source": "ocr",
+        "context": " HMeeT MHOrO BOpOT, H3 KOTOPbIX yKe HAHACH"
+      }
+    ],
+    "建筑结构": [
+      {
+        "text": "散水",
+        "page": 8,
+        "source": "ocr",
+        "context": " a SL PS ETE\n西城内的路面僵散水\n\nBE Sa A OR EU Bee "
+      },
+      {
+        "text": "门道",
+        "page": 11,
+        "source": "ocr",
+        "context": "重亲平面图20\n银浇站平面图21\n重去亲门道内堆积剖面图27\nEe PH PH RE"
+      },
+      {
+        "text": "散水",
+        "page": 11,
+        "source": "ocr",
+        "context": "和pe38\n西来城房址平面图.Ne41\n散水剖面图41\n让首渠西便出士的蚁头Ne49"
+      },
+      {
+        "text": "散水",
+        "page": 11,
+        "source": "ocr",
+        "context": "e49\nfoe Pee52\n合光殿西倒的散水导赴平面图53\nA> He EE UT "
+      },
+      {
+        "text": "居住面",
+        "page": 17,
+        "source": "ocr",
+        "context": "下，即是上述第五层的堆积,再下即乱当时的居住面。也有的地方在耕士下有一层近\n代授亿层,"
+      },
+      {
+        "text": "散水",
+        "page": 20,
+        "source": "ocr",
+        "context": "KER, ICBHRT 25\n米长的一段散水(图版参, 2), RORY PS EB"
+      },
+      {
+        "text": "散水",
+        "page": 20,
+        "source": "ocr",
+        "context": "\n可能就是当时翰林院的遗址，人发掘山来的散水或即是翰林院西倒散水的一\n部分。\n\n在所"
+      },
+      {
+        "text": "散水",
+        "page": 20,
+        "source": "ocr",
+        "context": "的遗址，人发掘山来的散水或即是翰林院西倒散水的一\n部分。\n\n在所谓坦林院遗址的北让 "
+      },
+      {
+        "text": "散水",
+        "page": 20,
+        "source": "ocr",
+        "context": "坦林院遗址的北让 200 余米,和伍上述散水南北对有照不,有南北向 1 3?\n的夯士"
+      },
+      {
+        "text": "门道",
+        "page": 21,
+        "source": "ocr",
+        "context": "P AERA AL 白灰单皮及红烧土等。门道南北的路面亦完整，路咒约9\n米左右, I"
+      },
+      {
+        "text": "门道",
+        "page": 22,
+        "source": "ocr",
+        "context": "根据写们的形刺来\nSG ,和过些小凋都是门道与各殿之问的隔装和图巩等。 如在宣政殿南"
+      },
+      {
+        "text": "门道",
+        "page": 29,
+        "source": "ocr",
+        "context": "\nBe Pe Be 34.2, 南北富(门道进深) 16.4 米,东面保存最高处还有"
+      },
+      {
+        "text": "门道",
+        "page": 29,
+        "source": "ocr",
+        "context": "e AC fal\nLo 石门答 (2. 门道路土\n\n车制的宽度一一至少富庭内的车子,"
+      },
+      {
+        "text": "门道",
+        "page": 29,
+        "source": "ocr",
+        "context": "的痕迹来看,此门是经常通车,在门艇两外的门道中,还有洁晰的车国评靖。\n\n站道的西泪路"
+      },
+      {
+        "text": "门道",
+        "page": 29,
+        "source": "ocr",
+        "context": "从东壁的柱礁及中间门槛的位置来推\n测;,门道寅应是5 米左右。由门道向下,夯土基厚篇"
+      },
+      {
+        "text": "门道",
+        "page": 29,
+        "source": "ocr",
+        "context": "位置来推\n测;,门道寅应是5 米左右。由门道向下,夯土基厚篇 1.9 米, 与城精基"
+      },
+      {
+        "text": "夯土",
+        "page": 29,
+        "source": "ocr",
+        "context": "测;,门道寅应是5 米左右。由门道向下,夯土基厚篇 1.9 米, 与城精基平。再下篇"
+      },
+      {
+        "text": "门道",
+        "page": 29,
+        "source": "ocr",
+        "context": ".9 米, 与城精基平。再下篇生士。\n\n门道较当时地面略高,在南面四道口的两侧,铺有"
+      },
+      {
+        "text": "散水",
+        "page": 29,
+        "source": "ocr",
+        "context": "夸，其外稳(南)僵站座的大\n壁诗;再南鲜散水相接(图版拾玖)。散水寅1.5米,向东 "
+      },
+      {
+        "text": "散水",
+        "page": 29,
+        "source": "ocr",
+        "context": "的大\n壁诗;再南鲜散水相接(图版拾玖)。散水寅1.5米,向东 8.6米,再向南矩折，"
+      },
+      {
+        "text": "散水",
+        "page": 29,
+        "source": "ocr",
+        "context": "矩折，向外未作发\n掘,其详情不知。 但从散水南折的情形看,去武四以南的东西两侧可能有"
+      },
+      {
+        "text": "门道",
+        "page": 31,
+        "source": "ocr",
+        "context": "& K FAB\n\n向闪折转;直至内重门的门道两便(图一一)e\n\n内重半的门址亦压在大"
+      },
+      {
+        "text": "散水",
+        "page": 31,
+        "source": "ocr",
+        "context": "基与当时的地面平，拓\nAk, 和从腺基\\散水和柱碟的情况来看，此闲是一3 间的平房娃"
+      },
+      {
+        "text": "散水",
+        "page": 31,
+        "source": "ocr",
+        "context": " 米,南北进深 11.5 米,周园有熏铺散水(散水寅 0.9 米)。 FRR Pie"
+      },
+      {
+        "text": "散水",
+        "page": 31,
+        "source": "ocr",
+        "context": "南北进深 11.5 米,周园有熏铺散水(散水寅 0.9 米)。 FRR Pie, F"
+      },
+      {
+        "text": "门道",
+        "page": 31,
+        "source": "ocr",
+        "context": "。 FRR Pie, FE\nBUPA, 门道高於当时地面 0.15 米。在南北两端各"
+      },
+      {
+        "text": "散水",
+        "page": 31,
+        "source": "ocr",
+        "context": "时地面 0.15 米。在南北两端各有宽出散水 0.6 RAW RE EA\nPY Be"
+      },
+      {
+        "text": "门道",
+        "page": 31,
+        "source": "ocr",
+        "context": "转\n1. 2-1 2. 石灰糟面 3. 门道路于面 4. 桂礁统位\n5. 散水6. "
+      },
+      {
+        "text": "散水",
+        "page": 31,
+        "source": "ocr",
+        "context": "3. 门道路于面 4. 桂礁统位\n5. 散水6. SEES 7. HARI\n\nSEP"
+      },
+      {
+        "text": "门道",
+        "page": 32,
+        "source": "ocr",
+        "context": " (EE BA 2.2\n米寅的使口技,在门道两倒各砌 0.35 SRA TE CIR"
+      },
+      {
+        "text": "门道",
+        "page": 32,
+        "source": "ocr",
+        "context": "AS AUT BE CHE 0.3 米。门道北口\nAl, OR-A TR) RTS "
+      },
+      {
+        "text": "门道",
+        "page": 32,
+        "source": "ocr",
+        "context": "UEFA ARE, RET TSAR. 门道十\n-EFB 4g EB 4 A SE "
+      },
+      {
+        "text": "门道",
+        "page": 33,
+        "source": "ocr",
+        "context": "HER\n层。第四层又是一层路士, 寅度与门道的宽度相同,在路士的中部有车凰的遗痕,方"
+      },
+      {
+        "text": "门道",
+        "page": 33,
+        "source": "ocr",
+        "context": "仍是有代形成的。第五层篇\n疆烧士层,直到门道的地面需止, FRAG 2.1 米。 烧"
+      },
+      {
+        "text": "门道",
+        "page": 34,
+        "source": "ocr",
+        "context": "Pe BU RE\n应和裤破壤的过多,在近门道的部分,现存高度条有 5.1 OK, D"
+      },
+      {
+        "text": "散水",
+        "page": 34,
+        "source": "ocr",
+        "context": "1;图一六)。\n\n门基座的内外两侧,均有散水。 BOKER, 寅0.8 米。 APR"
+      },
+      {
+        "text": "散水",
+        "page": 34,
+        "source": "ocr",
+        "context": " me, REE PO eee\n分,从有散水来看,上面应有门楼等建筑物。 “HEA "
+      },
+      {
+        "text": "门道",
+        "page": 34,
+        "source": "ocr",
+        "context": "in ng Beet\n迹已破雯扰存。\n\n门道\n\n重去站也是一个门道,从南侧柱磁的距齿"
+      },
+      {
+        "text": "门道",
+        "page": 34,
+        "source": "ocr",
+        "context": "迹已破雯扰存。\n\n门道\n\n重去站也是一个门道,从南侧柱磁的距齿和东壁保存的凋根灰皮计"
+      },
+      {
+        "text": "门道",
+        "page": 34,
+        "source": "ocr",
+        "context": "侧柱磁的距齿和东壁保存的凋根灰皮计算, 门道寅 5.2 米\n左右。门道内保存的情况从"
+      },
+      {
+        "text": "门道",
+        "page": 34,
+        "source": "ocr",
+        "context": "根灰皮计算, 门道寅 5.2 米\n左右。门道内保存的情况从好。其建筑形式与千构等也迁"
+      },
+      {
+        "text": "门道",
+        "page": 34,
+        "source": "ocr",
+        "context": "建筑形式与千构等也迁清楚(图版玖)。\n\n门道的地面基本上怕完整，仅两多柱磁不有被破壤"
+      },
+      {
+        "text": "夯土",
+        "page": 37,
+        "source": "ocr",
+        "context": "士下面垫士一层,厚 0.35 米。再下篇夯土\n基,厚过 1.7 米。夯士下即生士(图"
+      },
+      {
+        "text": "门道",
+        "page": 38,
+        "source": "ocr",
+        "context": "(向上仍有,但已彼彼护)，下外的一排高论门道 0.3 KA, SEA 13 ISL;"
+      },
+      {
+        "text": "门道",
+        "page": 38,
+        "source": "ocr",
+        "context": " LMG LY AAA\n\n图一乞 重雪门门道西壁侧视力\n\n1. 耕土层 2. EDG"
+      },
+      {
+        "text": "夯土",
+        "page": 43,
+        "source": "ocr",
+        "context": "ORE,\n南 130 余米大;有些小片的夯土基址,但多已断续不接,疑宣政站址或在此上"
+      },
+      {
+        "text": "柱洞",
+        "page": 45,
+        "source": "ocr",
+        "context": " fh 2 2 ;图版僚\nBe) ,有的柱洞驯迁有烧过的灰北,可能是立柱被烧和后遗留"
+      },
+      {
+        "text": "基槽",
+        "page": 46,
+        "source": "ocr",
+        "context": "9 Fe TRL, 有 3 米多长的一段基槽, 模宽、深均是 0.1 ORE\n右,槽"
+      },
+      {
+        "text": "基槽",
+        "page": 46,
+        "source": "ocr",
+        "context": "内有烧过的木灰痕迹,可能是代替出将隔世的基槽。和从吉嘴距厂和柱古的位是等3\n这,是与"
+      },
+      {
+        "text": "门道",
+        "page": 47,
+        "source": "ocr",
+        "context": "A FS\n—, PURPA AR 东门的门道及闫外的隆道等怀存胃好,其平面形制还清楚"
+      },
+      {
+        "text": "散水",
+        "page": 52,
+        "source": "ocr",
+        "context": "对的南按 40 侠米不，亦发掘出东西癌的散水一条。 散水长将近 20\nBOK , ("
+      },
+      {
+        "text": "散水",
+        "page": 52,
+        "source": "ocr",
+        "context": "0 侠米不，亦发掘出东西癌的散水一条。 散水长将近 20\nBOK , (ARS EL"
+      },
+      {
+        "text": "居住面",
+        "page": 62,
+        "source": "ocr",
+        "context": "基之下,;距现在地表深1.2 米(距殿址居住面深11米)o A\n呈正方形,长袖各 53"
+      },
+      {
+        "text": "散水",
+        "page": 63,
+        "source": "ocr",
+        "context": "分恶在合光\n殿的殿基下面。在西面共清出“散水\"4 休(园二九),袖均 2 米。 其中"
+      },
+      {
+        "text": "散水",
+        "page": 63,
+        "source": "ocr",
+        "context": "(园二九),袖均 2 米。 其中南北两条散水是平\n行的,相距 10 米,其东端与东稳"
+      },
+      {
+        "text": "散水",
+        "page": 63,
+        "source": "ocr",
+        "context": "距 10 米,其东端与东稳的一休南北向的散水相接(图版峙灶;1),从散水过的立琅\n来"
+      },
+      {
+        "text": "散水",
+        "page": 63,
+        "source": "ocr",
+        "context": "一休南北向的散水相接(图版峙灶;1),从散水过的立琅\n来看,原来的房子是在过三休数水"
+      },
+      {
+        "text": "散水",
+        "page": 63,
+        "source": "ocr",
+        "context": "看,原来的房子是在过三休数水的外面(邵在散水的以东、北、南三面),由於散水相接的\n关"
+      },
+      {
+        "text": "散水",
+        "page": 63,
+        "source": "ocr",
+        "context": "外面(邵在散水的以东、北、南三面),由於散水相接的\n关傈,散水之间形成一个长方形的院"
+      },
+      {
+        "text": "散水",
+        "page": 63,
+        "source": "ocr",
+        "context": "东、北、南三面),由於散水相接的\n关傈,散水之间形成一个长方形的院子。西外的一条南北"
+      },
+      {
+        "text": "散水",
+        "page": 63,
+        "source": "ocr",
+        "context": "间形成一个长方形的院子。西外的一条南北向散水不奥上述三人条相接,是\n放另外房址的,从"
+      },
+      {
+        "text": "散水",
+        "page": 63,
+        "source": "ocr",
+        "context": "不奥上述三人条相接,是\n放另外房址的,从散水来看,其房屋当在西光。\n\n以上各散水的房"
+      },
+      {
+        "text": "散水",
+        "page": 63,
+        "source": "ocr",
+        "context": ",从散水来看,其房屋当在西光。\n\n以上各散水的房址均已破壤列尺,其范围亦不可知,故未"
+      },
+      {
+        "text": "散水",
+        "page": 63,
+        "source": "ocr",
+        "context": "尺,其范围亦不可知,故未再向外发掘。根据散水上所\n\n— 52 一\n"
+      },
+      {
+        "text": "散水",
+        "page": 65,
+        "source": "ocr",
+        "context": ", 其原来情况如何,很将知道。\n\n在各一散水遗址的上面也有和合期的建策, 其情况擂西"
+      },
+      {
+        "text": "散水",
+        "page": 65,
+        "source": "ocr",
+        "context": "况擂西渤相同。\n\n以上所述东西两便的房址散水侦舍光殿下面所压的遗址等《图版肆陆, 2"
+      },
+      {
+        "text": "门道",
+        "page": 99,
+        "source": "ocr",
+        "context": "1. 门道的铺穗及两侧香壁惧砌石的情形\n\n2. 门"
+      },
+      {
+        "text": "门道",
+        "page": 99,
+        "source": "ocr",
+        "context": "道的铺穗及两侧香壁惧砌石的情形\n\n2. 门道西便的砖壁和砌石等保存的情形\n\nUe P"
+      },
+      {
+        "text": "门道",
+        "page": 103,
+        "source": "ocr",
+        "context": "elie (XXVI)\n\n1. 门道保存的情形\n\n2. PARAKEET P"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "房址",
+        "page": 11,
+        "source": "ocr",
+        "context": "生35\n铺地和大章面图和pe38\n西来城房址平面图.Ne41\n散水剖面图41\n让首渠"
+      },
+      {
+        "text": "房址",
+        "page": 18,
+        "source": "ocr",
+        "context": " 29 BS\n修建的一外沿域的大路:\n\n房址 fea SR GPS ood eS 1"
+      },
+      {
+        "text": "房址",
+        "page": 20,
+        "source": "ocr",
+        "context": "笨遗址。我们在此发气了-部分,由套房址破坏得峰重,已者不出它的形制，仅存部分洒"
+      },
+      {
+        "text": "基址",
+        "page": 22,
+        "source": "ocr",
+        "context": " 如在宣政殿南朱西便, 除有房屋或\n廊的基址外,还有南北向的辣,和将中残缺不全,和从"
+      },
+      {
+        "text": "房址",
+        "page": 23,
+        "source": "ocr",
+        "context": "的情形来看, BI eo LEB\n焊址和房址等,内残缺不全,但对研究密院、门.道等形"
+      },
+      {
+        "text": "房址",
+        "page": 23,
+        "source": "ocr",
+        "context": "1 米左右。疏因通一带摄怖太基,已看不出房址的形制。在卉士中,有大量的德瓦,也有有\n"
+      },
+      {
+        "text": "房址",
+        "page": 41,
+        "source": "ocr",
+        "context": "70 ee\n米永,农民翻地时气出东西向的房址若水一段, 长 30 BOK, FEC7"
+      },
+      {
+        "text": "基址",
+        "page": 43,
+        "source": "ocr",
+        "context": "E,\n南 130 余米大;有些小片的夯土基址,但多已断续不接,疑宣政站址或在此上处。"
+      },
+      {
+        "text": "基址",
+        "page": 43,
+        "source": "ocr",
+        "context": "岸,从形状来看，\n可能是通往太液池的旬廊基址。在所谢的蓬莱殿以西,有南北向和东西向的"
+      },
+      {
+        "text": "房址",
+        "page": 52,
+        "source": "ocr",
+        "context": "     b       At\n\n1. 房址\n\n根据房址的门来看,是坐东向西 的一排"
+      },
+      {
+        "text": "房址",
+        "page": 52,
+        "source": "ocr",
+        "context": "       At\n\n1. 房址\n\n根据房址的门来看,是坐东向西 的一排东房,房址的"
+      },
+      {
+        "text": "房址",
+        "page": 52,
+        "source": "ocr",
+        "context": "据房址的门来看,是坐东向西 的一排东房,房址的后糖(东糖)距西城的外耐俊工炒\n\n多("
+      },
+      {
+        "text": "房址",
+        "page": 52,
+        "source": "ocr",
+        "context": "成断嵌,从发掘的情况来看,向南还不到头。房址南北残存\n长17 米, BURLEREO"
+      },
+      {
+        "text": "房址",
+        "page": 52,
+        "source": "ocr",
+        "context": "0.3 2K, ESE\n\n图二五”西夹城房址平面图       的地面 , RA R"
+      },
+      {
+        "text": "房址",
+        "page": 52,
+        "source": "ocr",
+        "context": "AK ee RE\n许,向北均已破填无存,房址的长宽不详,从断纺的基址来看,向东则全上"
+      },
+      {
+        "text": "基址",
+        "page": 52,
+        "source": "ocr",
+        "context": "北均已破填无存,房址的长宽不详,从断纺的基址来看,向东则全上述东房前廊的北\n端相接。"
+      },
+      {
+        "text": "房址",
+        "page": 52,
+        "source": "ocr",
+        "context": ",向东则全上述东房前廊的北\n端相接。对此房址相对的南按 40 侠米不，亦发掘出东西癌"
+      },
+      {
+        "text": "房址",
+        "page": 53,
+        "source": "ocr",
+        "context": "A RA, 在过之间， 除发掘\n\n的上这房址外,向南探得仍有房屋遗址。据氏探所知, "
+      },
+      {
+        "text": "房址",
+        "page": 63,
+        "source": "ocr",
+        "context": "南北向散水不奥上述三人条相接,是\n放另外房址的,从散水来看,其房屋当在西光。\n\n以上"
+      },
+      {
+        "text": "房址",
+        "page": 63,
+        "source": "ocr",
+        "context": "水来看,其房屋当在西光。\n\n以上各散水的房址均已破壤列尺,其范围亦不可知,故未再向外"
+      },
+      {
+        "text": "房址",
+        "page": 65,
+        "source": "ocr",
+        "context": "其情况擂西渤相同。\n\n以上所述东西两便的房址散水侦舍光殿下面所压的遗址等《图版肆陆,"
+      },
+      {
+        "text": "房址",
+        "page": 68,
+        "source": "ocr",
+        "context": "的去武、重去等站,西城的饮德殿仁来域内之房址等,均鲁遭大火,以至墙壁、 地面、生、石"
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "堆积",
+        "page": 11,
+        "source": "ocr",
+        "context": "面图20\n银浇站平面图21\n重去亲门道内堆积剖面图27\nEe PH PH REARS"
+      },
+      {
+        "text": "堆积",
+        "page": 17,
+        "source": "ocr",
+        "context": "则不另述。\n\n关攻西城的地层,和从各坊的堆积层次剖面上看,厚薄不一，保存情况各私，但"
+      },
+      {
+        "text": "堆积",
+        "page": 17,
+        "source": "ocr",
+        "context": "，保存情况各私，但绝的家\nat ,地层的堆积及其时代先后的关傈等,还是一致的。大致可"
+      },
+      {
+        "text": "生土",
+        "page": 17,
+        "source": "ocr",
+        "context": "此屋仅含有少许的唐代瓷片或互片等,再下篇生土\n(fal 4).\n\n在城内 , TIS"
+      },
+      {
+        "text": "堆积",
+        "page": 17,
+        "source": "ocr",
+        "context": "e CR i) i ES\n以前唐以和后的堆积层 ,此层堆积较厚 ，一般是 0.5—1"
+      },
+      {
+        "text": "堆积",
+        "page": 17,
+        "source": "ocr",
+        "context": " i ES\n以前唐以和后的堆积层 ,此层堆积较厚 ，一般是 0.5—1,\n自地表深 "
+      },
+      {
+        "text": "堆积",
+        "page": 17,
+        "source": "ocr",
+        "context": "bhi 6. 五花士\n的情形来看，过层的堆积是在大明铝广雍后不信和经过\n\n_ 援筷而"
+      },
+      {
+        "text": "堆积",
+        "page": 17,
+        "source": "ocr",
+        "context": "是地表层\\耕填\n层)下，即是上述第五层的堆积,再下即乱当时的居住面。也有的地方在耕士"
+      },
+      {
+        "text": "堆积",
+        "page": 17,
+        "source": "ocr",
+        "context": "在耕士下有一层近\n代授亿层,记德殿的地层堆积就是各样。\n\n至於其他各城的地层堆积, "
+      },
+      {
+        "text": "堆积",
+        "page": 17,
+        "source": "ocr",
+        "context": "地层堆积就是各样。\n\n至於其他各城的地层堆积, 由锡探材料及对各断崖堆积情况的枫察,"
+      },
+      {
+        "text": "堆积",
+        "page": 17,
+        "source": "ocr",
+        "context": "他各城的地层堆积, 由锡探材料及对各断崖堆积情况的枫察,得知均与西城一\n带相同 ,只"
+      },
+      {
+        "text": "夯土",
+        "page": 29,
+        "source": "ocr",
+        "context": "测;,门道寅应是5 米左右。由门道向下,夯土基厚篇 1.9 米, 与城精基平。再下篇"
+      },
+      {
+        "text": "堆积",
+        "page": 33,
+        "source": "ocr",
+        "context": " HOHE LIBS 3.6 米多,旋的堆积情形如下:第一层是现代地表援饥层, 厚 "
+      },
+      {
+        "text": "堆积",
+        "page": 33,
+        "source": "ocr",
+        "context": "士面。和从圳中夹杂的石块、匹片以\n及烤士堆积的情形来看, 此层不是烧坎和后的原来堆积"
+      },
+      {
+        "text": "堆积",
+        "page": 33,
+        "source": "ocr",
+        "context": "堆积的情形来看, 此层不是烧坎和后的原来堆积层,而是御拔人饥和后形成的。此层的包\n含"
+      },
+      {
+        "text": "堆积",
+        "page": 33,
+        "source": "ocr",
+        "context": "此层的包\n含物,没有唐久后的东西。从地层堆积的情况和包含物之纯来推测,此层可能是在此"
+      },
+      {
+        "text": "堆积",
+        "page": 33,
+        "source": "ocr",
+        "context": "成的(周一四)。此外，城门周围一带的地层堆积，大致与国道上部的堆积相\n\n图一四 Bk"
+      },
+      {
+        "text": "堆积",
+        "page": 33,
+        "source": "ocr",
+        "context": "城门周围一带的地层堆积，大致与国道上部的堆积相\n\n图一四 Bk MMA ese\n\n1"
+      },
+      {
+        "text": "堆积",
+        "page": 33,
+        "source": "ocr",
+        "context": "RREAL 2. 近代路士”“3. 宋代堆积层 人. 宋代路士\n5. RUPTURE"
+      },
+      {
+        "text": "夯土",
+        "page": 37,
+        "source": "ocr",
+        "context": "士下面垫士一层,厚 0.35 米。再下篇夯土\n基,厚过 1.7 米。夯士下即生士(图"
+      },
+      {
+        "text": "夯土",
+        "page": 43,
+        "source": "ocr",
+        "context": "ORE,\n南 130 余米大;有些小片的夯土基址,但多已断续不接,疑宣政站址或在此上"
+      },
+      {
+        "text": "堆积",
+        "page": 59,
+        "source": "ocr",
+        "context": "R Te\n底 3一4 米不等, 从浴土的堆积和池底的洪沙层求看， 池中间最深上处低於"
+      },
+      {
+        "text": "堆积",
+        "page": 69,
+        "source": "ocr",
+        "context": "保存了少许,也都是残洁不全的。和从烧士的堆积和遗址地面秘援优\n的情况看,所缺的铺地瑟"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "环",
+        "page": 11,
+        "source": "ocr",
+        "context": "平面及章面图17\n石亲柳立面图18\n姿金环首器的部分纹邓和RN19\n玄武国航内重闵"
+      },
+      {
+        "text": "环",
+        "page": 23,
+        "source": "ocr",
+        "context": "因稻首原至含元殿以东,即折向东北的地下、环境所限(见图一)。东城的北部如不傅\n西 "
+      },
+      {
+        "text": "盘",
+        "page": 23,
+        "source": "ocr",
+        "context": ",则北部的城垣就恰处於稻首原折疝北去的西盘之下 eR AR,\neer Fe RRL"
+      },
+      {
+        "text": "环",
+        "page": 30,
+        "source": "ocr",
+        "context": " ,2)。器身上附有腐朽的木质一层,从套环和有条\n\n图一O。 ere ey HP "
+      },
+      {
+        "text": "盘",
+        "page": 49,
+        "source": "ocr",
+        "context": "5 X\n35, EL 7 厘米, 后奈策盘谭的铺地硬吏是此种;大的长质是50 X "
+      },
+      {
+        "text": "环",
+        "page": 71,
+        "source": "ocr",
+        "context": "摄安康事,上元张君昂工给事,刊图以售,而环论双校,就错过多。壬申予破部愤，\nHE "
+      }
+    ],
+    "铜器": [
+      {
+        "text": "环",
+        "page": 11,
+        "source": "ocr",
+        "context": "平面及章面图17\n石亲柳立面图18\n姿金环首器的部分纹邓和RN19\n玄武国航内重闵"
+      },
+      {
+        "text": "饰",
+        "page": 23,
+        "source": "ocr",
+        "context": "2、3 WR, He Se EE\n同的纹饰，惟多是碎块。珑党的花纹也都旺含光肛及其"
+      },
+      {
+        "text": "环",
+        "page": 23,
+        "source": "ocr",
+        "context": "因稻首原至含元殿以东,即折向东北的地下、环境所限(见图一)。东城的北部如不傅\n西 "
+      },
+      {
+        "text": "盘",
+        "page": 23,
+        "source": "ocr",
+        "context": ",则北部的城垣就恰处於稻首原折疝北去的西盘之下 eR AR,\neer Fe RRL"
+      },
+      {
+        "text": "饰",
+        "page": 30,
+        "source": "ocr",
+        "context": "API\nYe Sse 1 个,也记有和纹饰(图版陆考; I—O, 1). AREA"
+      },
+      {
+        "text": "环",
+        "page": 30,
+        "source": "ocr",
+        "context": " ,2)。器身上附有腐朽的木质一层,从套环和有条\n\n图一O。 ere ey HP "
+      },
+      {
+        "text": "盘",
+        "page": 49,
+        "source": "ocr",
+        "context": "5 X\n35, EL 7 厘米, 后奈策盘谭的铺地硬吏是此种;大的长质是50 X "
+      },
+      {
+        "text": "爵",
+        "page": 57,
+        "source": "ocr",
+        "context": " Jil\n节度使什云南安搬使，其中杜元弓爵稳、效、艾冠三帝，任西川季度使迷六年之入"
+      },
+      {
+        "text": "环",
+        "page": 71,
+        "source": "ocr",
+        "context": "摄安康事,上元张君昂工给事,刊图以售,而环论双校,就错过多。壬申予破部愤，\nHE "
+      }
+    ],
+    "测量数据": [
+      {
+        "text": " 500 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "西城公长乱 2256 K, 在南部有将近 500 米的一段, 是在今西安市区内 ,有的已断缺"
+      },
+      {
+        "text": " 130 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "\nZEA ARAB Y AF 110 和 130 米的两段外,其余人告能衔接,但都埋在地下。"
+      },
+      {
+        "text": "0.5 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "址的上部距珊\n在地表深度一般是 0.1一0.5 米左右。现存残垣的高度不等,一般高 1一2"
+      },
+      {
+        "text": "2 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "米左右。现存残垣的高度不等,一般高 1一2 米余，公在一外\ney REE PR TF "
+      },
+      {
+        "text": " 304 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "迹。但由上壕的一段城糖的南端,却向东折出 304 米;而与东内下(2?)的东糙相接(图三)\n"
+      },
+      {
+        "text": "长 1074 米",
+        "page": 15,
+        "source": "ocr",
+        "context": "垣(图二), 包括在大明富秀转内的一段,长 1074 米。 Whe ee SB\n在的市街办 ,单"
+      },
+      {
+        "text": " 2 米",
+        "page": 15,
+        "source": "ocr",
+        "context": ", PHBE Se ES BLE HET 2 米多。\n\nSSL Tee RA, EE S"
+      },
+      {
+        "text": "0.3 米",
+        "page": 17,
+        "source": "ocr",
+        "context": "震农耕土或现代路十,厚度一般是 0.1一0.3 米;第二屠,是近代拔亿层;,厚 0.3一0"
+      },
+      {
+        "text": "0.5\n米",
+        "page": 17,
+        "source": "ocr",
+        "context": "L, EN ET Jo, PR 0.3一0.5\n米,此屋仅含有少许的唐代瓷片或互片等,再下"
+      },
+      {
+        "text": "1.7 米",
+        "page": 17,
+        "source": "ocr",
+        "context": "一般是 0.5—1,\n自地表深 1.2一1.7 米左布，但个别的地方也有厚尖|\n米多或蒲至"
+      },
+      {
+        "text": " 0.07 米",
+        "page": 18,
+        "source": "ocr",
+        "context": ", 质蔡密, 夯层的厚薄不一,最\n(iL 0.07 米,最厚是 0.12 米 ,一般多是 0."
+      },
+      {
+        "text": " 0.12 米",
+        "page": 18,
+        "source": "ocr",
+        "context": "薄不一,最\n(iL 0.07 米,最厚是 0.12 米 ,一般多是 0.08一0.09 KAA"
+      },
+      {
+        "text": " 2.6 米",
+        "page": 18,
+        "source": "ocr",
+        "context": "e eS, 域角保存最高不还高出党时地面 2.6 米(图版拾, 1)。 TERRE, HE\n"
+      },
+      {
+        "text": "长 15 米",
+        "page": 18,
+        "source": "ocr",
+        "context": "AD, A BB es\n转角向北向东,各长 15 米多。内转角没有加寅,但砌有大璧,因多仆坊"
+      },
+      {
+        "text": "高 2米",
+        "page": 18,
+        "source": "ocr",
+        "context": ",但砌有大璧,因多仆坊只存砖基部分;在\n高 2米多的地方;认士将凹进不还有附着的穗多块,"
+      },
+      {
+        "text": " 2 米",
+        "page": 18,
+        "source": "ocr",
+        "context": "业基傈存，突出的情况与前述转和\n同 ,寅 2 米多,惟和壁已破款扰存。西遗和经锚探,知道"
+      },
+      {
+        "text": " 5 米",
+        "page": 18,
+        "source": "ocr",
+        "context": "过一转角保存得较好, 凋址还高出现在地面 5 米多。和全项探\n的情吏得知,内、外转角都寅"
+      },
+      {
+        "text": "2米",
+        "page": 18,
+        "source": "ocr",
+        "context": "全项探\n的情吏得知,内、外转角都寅出城焊2米多,成一长、.寅各 15 RTI\n\n从三"
+      },
+      {
+        "text": " 0.6 米",
+        "page": 18,
+        "source": "ocr",
+        "context": "2K, FT LEH BC EI, ER 0.6 米,有薄至 0.3 RA, AEE DE\n"
+      },
+      {
+        "text": " 5 米",
+        "page": 20,
+        "source": "ocr",
+        "context": "PICTS, CEU ERR OG Ht 5 米处有南北相对的柱磁三\nFYB, ERE "
+      },
+      {
+        "text": " 25\n米",
+        "page": 20,
+        "source": "ocr",
+        "context": " DE 50 BOKER, ICBHRT 25\n米长的一段散水(图版参, 2), RORY"
+      },
+      {
+        "text": " 1.3 米",
+        "page": 20,
+        "source": "ocr",
+        "context": "改据了其中 18 ets BE), BE 1.3 米多,克 “加上,月和\n存高 0.6 KC"
+      },
+      {
+        "text": "\n26 米",
+        "page": 21,
+        "source": "ocr",
+        "context": "AL eH 4 OK BS, HEPES\n26 米,向南与城内的殿基相接。 从北泪突出城外"
+      },
+      {
+        "text": " 9 米",
+        "page": 21,
+        "source": "ocr",
+        "context": "较差,城单的厚度也较其他三面略窗,城基寅 9 米。南城傈京城的北垣,写妈建多\n隋开皇二年"
+      },
+      {
+        "text": "3300 米",
+        "page": 21,
+        "source": "ocr",
+        "context": " Fa EC AB PED PE I $3300 米处,亦各有 30 PRK — ERIE\n"
+      },
+      {
+        "text": " 300 米",
+        "page": 21,
+        "source": "ocr",
+        "context": "$e. FEA ICR HE PS SJ 300 米(自含元殿中间算起)钨，各有六址一座。 "
+      },
+      {
+        "text": "9\n米",
+        "page": 21,
+        "source": "ocr",
+        "context": "及红烧土等。门道南北的路面亦完整，路咒约9\n米左右, IS GSB AI IIFY, "
+      },
+      {
+        "text": "3 米",
+        "page": 22,
+        "source": "ocr",
+        "context": "间 ,还名探有不少的小单基，实都是 2一3 米左右，根据写们的形刺来\nSG ,和过些小"
+      },
+      {
+        "text": " 3米",
+        "page": 23,
+        "source": "ocr",
+        "context": "60 OR, ATP AL\n38, AL 3米许,南端全第二道宫装接,向北长 200 "
+      },
+      {
+        "text": "长 35 米",
+        "page": 23,
+        "source": "ocr",
+        "context": " ae\n的南面偏东也有向南去的精一段,残长 35 米,寅只 2 ORS. WTR RICO,"
+      },
+      {
+        "text": " 3米",
+        "page": 23,
+        "source": "ocr",
+        "context": "K, FAY i RE TE EL RR 3米多。\n\nZe S35 PY PEE 10"
+      },
+      {
+        "text": " 1.3 米",
+        "page": 23,
+        "source": "ocr",
+        "context": "0 RoR Aaya —\n\nBE Wee 1.3 米左右,我们在此处开6 X 6 ORDER"
+      },
+      {
+        "text": "\n1.1 米",
+        "page": 23,
+        "source": "ocr",
+        "context": " Pa eZ,  FETE LEE Le\n1.1 米左右。疏因通一带摄怖太基,已看不出房址的"
+      },
+      {
+        "text": " 2256 米",
+        "page": 23,
+        "source": "ocr",
+        "context": "A , ee EIS RB, Pa ae 2256 米:北城\nFE 1135 Ks HEIR "
+      },
+      {
+        "text": " 304 米",
+        "page": 23,
+        "source": "ocr",
+        "context": "ES CHL) 1260 OR, 向东折 304 米，然后再南折 1050 ORE\nape,"
+      },
+      {
+        "text": " 1074 米",
+        "page": 23,
+        "source": "ocr",
+        "context": "L TS , FEFCHA Se TBS 1074 米-\n\n1 be ATE HR EE CS"
+      },
+      {
+        "text": " 7628 米",
+        "page": 23,
+        "source": "ocr",
+        "context": "，南\n部 1674 5K, UAE AL 7628 米。\n\nFRE Si EER BLS SC"
+      },
+      {
+        "text": " 2256 米",
+        "page": 24,
+        "source": "ocr",
+        "context": ". BLES EE 9 DE Bd Ee 2256 米,中部\nSE PG BS CSS 9 B"
+      },
+      {
+        "text": " 1674 米",
+        "page": 24,
+        "source": "ocr",
+        "context": "5 OK BSC EE A (2) aE 1674 米。以一步折 1.47 OK, 1 里\n3"
+      },
+      {
+        "text": " 529.2 米",
+        "page": 24,
+        "source": "ocr",
+        "context": "K, 1 里\n360 步(唐大程里)计折 529.2 米。如长5 里,应是 2646 米,宽 3"
+      },
+      {
+        "text": " 2646 米",
+        "page": 24,
+        "source": "ocr",
+        "context": ")计折 529.2 米。如长5 里,应是 2646 米,宽 3里,应是 1587.6 5K, "
+      },
+      {
+        "text": " 160 米",
+        "page": 24,
+        "source": "ocr",
+        "context": "即便将北忱的夹城(癌北\nPE HY Et 160 米)计算在内,也少230 米。吕图所长的长"
+      },
+      {
+        "text": "230 米",
+        "page": 24,
+        "source": "ocr",
+        "context": " HY Et 160 米)计算在内,也少230 米。吕图所长的长4里95 步 ,应折 22"
+      },
+      {
+        "text": " 1587.6 米",
+        "page": 24,
+        "source": "ocr",
+        "context": "BLE\n测数相符。 所谓东西寅3里, 折 1587.6 米, REAR OOP AB ES 135"
+      },
+      {
+        "text": "86.4米",
+        "page": 24,
+        "source": "ocr",
+        "context": "32.6 RK,\n比东内苑在内的实度却少86.4米，因琵东西 3 ike, URELTOR"
+      },
+      {
+        "text": " 1275.96 米",
+        "page": 24,
+        "source": "ocr",
+        "context": "l Bre he 2\n里 148 步,折 1275.96 米,比我们实测的 1355 米(中部)少7"
+      },
+      {
+        "text": " 1355 米",
+        "page": 24,
+        "source": "ocr",
+        "context": "步,折 1275.96 米,比我们实测的 1355 米(中部)少79.04 OK, PREAH"
+      },
+      {
+        "text": " 1643.46 米",
+        "page": 24,
+        "source": "ocr",
+        "context": "373.38 数) ,合起来计算, 旭是 1643.46 米，上比南部实测数俊少 30.54 米，看"
+      },
+      {
+        "text": " 30.54 米",
+        "page": 24,
+        "source": "ocr",
+        "context": " 1643.46 米，上比南部实测数俊少 30.54 米，看求号图\nZit ,还是与实际情况相近"
+      },
+      {
+        "text": "\n1.5 米",
+        "page": 25,
+        "source": "ocr",
+        "context": "址残存高度，一般是高出当时地面 0.5一\n1.5 米不等,个别彼破塘较严重的地方高度只有 0"
+      },
+      {
+        "text": " 3.5 米",
+        "page": 25,
+        "source": "ocr",
+        "context": "\n只旺尝些，现存将址的上部一般实(厚)度 3.5 米左右, DRAB HEL 4 米许。 在"
+      },
+      {
+        "text": " 4 米",
+        "page": 25,
+        "source": "ocr",
+        "context": ")度 3.5 米左右, DRAB HEL 4 米许。 在北夹城重\n云门东泪发掘的一个拐角"
+      },
+      {
+        "text": "55米",
+        "page": 25,
+        "source": "ocr",
+        "context": "无门址的痕\n\n东西两来城岳富城的距龙都是55米左右(西夹城的北部有一段向内(东)折进 "
+      },
+      {
+        "text": " 15 米",
+        "page": 25,
+        "source": "ocr",
+        "context": "米左右(西夹城的北部有一段向内(东)折进 15 米)，\nPe AL ACER EEO YR"
+      },
+      {
+        "text": " 160 米",
+        "page": 25,
+        "source": "ocr",
+        "context": " ACER EEO YR AGALHYE 160 米。 三面夹域的方向除东夹城得偏西 11 "
+      },
+      {
+        "text": " 22m",
+        "page": 26,
+        "source": "ocr",
+        "context": "P ,分述如下。\n\n1. F}JELPS 22m FA Be BS PA\n\nSEJELP"
+      },
+      {
+        "text": " 610 米",
+        "page": 26,
+        "source": "ocr",
+        "context": "AS\nALPS PUG PB”, 今实测 610 米,每步以1.47 米折算,合 415 B"
+      },
+      {
+        "text": "1.47 米",
+        "page": 26,
+        "source": "ocr",
+        "context": "G PB”, 今实测 610 米,每步以1.47 米折算,合 415 B. FPA PALA"
+      },
+      {
+        "text": " 305 米",
+        "page": 27,
+        "source": "ocr",
+        "context": "城 1300 OK, IEPA ETP, 305 米多， FA aS\nSC HLTRERE "
+      },
+      {
+        "text": " 0.3 米",
+        "page": 27,
+        "source": "ocr",
+        "context": " PAAR\n应南北两倒的地层在表士层(厚 0.3 米左右) PB BU ALEC LG» U"
+      },
+      {
+        "text": "18 米",
+        "page": 27,
+        "source": "ocr",
+        "context": " ERLE He\n2 YEH. 1.1一18 米不等。 UE EES, A AYP AE"
+      },
+      {
+        "text": " 16.4 米",
+        "page": 29,
+        "source": "ocr",
+        "context": "e Be 34.2, 南北富(门道进深) 16.4 米,东面保存最高处还有3 ORD. | B"
+      },
+      {
+        "text": "直径 0.15 米",
+        "page": 29,
+        "source": "ocr",
+        "context": "EFS 0.8 OK, IEA. 中间有直径 0.15 米的圆桦眼一个;,深 0.13 2K, H"
+      },
+      {
+        "text": " 0.28 米",
+        "page": 29,
+        "source": "ocr",
+        "context": "15 3K), 上寅 0.24, Pig 0.28 米,截面呈梯形、篇使论通车, ZEPY A"
+      },
+      {
+        "text": "5 米",
+        "page": 29,
+        "source": "ocr",
+        "context": "礁及中间门槛的位置来推\n测;,门道寅应是5 米左右。由门道向下,夯土基厚篇 1.9 米"
+      },
+      {
+        "text": " 1.9 米",
+        "page": 29,
+        "source": "ocr",
+        "context": "寅应是5 米左右。由门道向下,夯土基厚篇 1.9 米, 与城精基平。再下篇生士。\n\n门道较当"
+      },
+      {
+        "text": "1.5米",
+        "page": 29,
+        "source": "ocr",
+        "context": "壁诗;再南鲜散水相接(图版拾玖)。散水寅1.5米,向东 8.6米,再向南矩折，向外未作发"
+      },
+      {
+        "text": " 8.6米",
+        "page": 29,
+        "source": "ocr",
+        "context": "水相接(图版拾玖)。散水寅1.5米,向东 8.6米,再向南矩折，向外未作发\n掘,其详情不知"
+      },
+      {
+        "text": " 2 米",
+        "page": 30,
+        "source": "ocr",
+        "context": "Se AS EG CSP oe) HEE 2 米,东西相                "
+      },
+      {
+        "text": " 15.6 米",
+        "page": 31,
+        "source": "ocr",
+        "context": "间的平房娃堂关《〈图版到拾为 东西\nBE 15.6 米,南北进深 11.5 米,周园有熏铺散水"
+      },
+      {
+        "text": "深 11.5 米",
+        "page": 31,
+        "source": "ocr",
+        "context": "到拾为 东西\nBE 15.6 米,南北进深 11.5 米,周园有熏铺散水(散水寅 0.9 米)。"
+      },
+      {
+        "text": " 0.9 米",
+        "page": 31,
+        "source": "ocr",
+        "context": "深 11.5 米,周园有熏铺散水(散水寅 0.9 米)。 FRR Pie, FE\nBUPA,"
+      },
+      {
+        "text": " 0.15 米",
+        "page": 31,
+        "source": "ocr",
+        "context": "e, FE\nBUPA, 门道高於当时地面 0.15 米。在南北两端各有宽出散水 0.6 RAW"
+      },
+      {
+        "text": " 2.2\n米",
+        "page": 32,
+        "source": "ocr",
+        "context": "AR, 无六基座和柱磁等, (EE BA 2.2\n米寅的使口技,在门道两倒各砌 0.35 S"
+      },
+      {
+        "text": " 1.2 米",
+        "page": 32,
+        "source": "ocr",
+        "context": "RL). POSER ay RS LES 1.2 米的一段铺方石块，\nABER Sle SB"
+      },
+      {
+        "text": " 0.3 米",
+        "page": 32,
+        "source": "ocr",
+        "context": "K , HE AS AUT BE CHE 0.3 米。门道北口\nAl, OR-A TR) R"
+      },
+      {
+        "text": " 6 米",
+        "page": 33,
+        "source": "ocr",
+        "context": "EDE Pe, SEE 4 KS SAP 6 米多)，成一马鞍形的士丘，\n中间低不序是国"
+      },
+      {
+        "text": " 3.6 米",
+        "page": 33,
+        "source": "ocr",
+        "context": "层。\n\nPAS PO HOHE LIBS 3.6 米多,旋的堆积情形如下:第一层是现代地表援"
+      },
+      {
+        "text": "\n0.8 米",
+        "page": 33,
+        "source": "ocr",
+        "context": ":第一层是现代地表援饥层, 厚 0.2一\n0.8 米。第二层是近代路士层,厚 0.15 米;"
+      },
+      {
+        "text": " 0.15 米",
+        "page": 33,
+        "source": "ocr",
+        "context": "2一\n0.8 米。第二层是近代路士层,厚 0.15 米;,路士面不平,束西宽 3.5 OK, "
+      },
+      {
+        "text": " 2.1 米",
+        "page": 33,
+        "source": "ocr",
+        "context": "疆烧士层,直到门道的地面需止, FRAG 2.1 米。 烧二内来亲有少量的唐无片和俯石顽等。"
+      },
+      {
+        "text": " 1.5\n米",
+        "page": 33,
+        "source": "ocr",
+        "context": "I, Pie SE HB th POOR 1.5\n米左右即过唐代的地面层。 CE SESE "
+      },
+      {
+        "text": "3.5 米",
+        "page": 34,
+        "source": "ocr",
+        "context": "一个入折\n的拐角,过可能是因乱夹域音窗(3.5 米)的关傈，过样就在站基座两端各加长了-一"
+      },
+      {
+        "text": "长 27.5 米",
+        "page": 34,
+        "source": "ocr",
+        "context": "同，圳兆加寅的部分是由楼基责嫂癌东、西各长 27.5 米，\nSLs MAES 38.5 米(图版"
+      },
+      {
+        "text": " 38.5 米",
+        "page": 34,
+        "source": "ocr",
+        "context": "西各长 27.5 米，\nSLs MAES 38.5 米(图版起肆, 2;图一五)。渤种加宽延长"
+      },
+      {
+        "text": " 10 米",
+        "page": 34,
+        "source": "ocr",
+        "context": "门楼的牢固和便认在上行走。 加长的部分寅 10 米多,与去武四城垣的\n寅度相等,可见加袖的"
+      },
+      {
+        "text": "6 米",
+        "page": 34,
+        "source": "ocr",
+        "context": "e\n平。东侧的楼基座保存较好,最高感渤有6 米多高(图版起参, 2; ACHE, 1;"
+      },
+      {
+        "text": "0.8 米",
+        "page": 34,
+        "source": "ocr",
+        "context": "的内外两侧,均有散水。 BOKER, 寅0.8 米。 APR TERO OR MEAT\nT"
+      },
+      {
+        "text": " 0.1 米",
+        "page": 34,
+        "source": "ocr",
+        "context": " FN EIT, OPA, ERE ME 0.1 米，\nTERA VEOKAQR. BUEN"
+      },
+      {
+        "text": " 5.2 米",
+        "page": 34,
+        "source": "ocr",
+        "context": "的距齿和东壁保存的凋根灰皮计算, 门道寅 5.2 米\n左右。门道内保存的情况从好。其建筑形式"
+      },
+      {
+        "text": " 0.08 米",
+        "page": 37,
+        "source": "ocr",
+        "context": "GA Lil , Ae 0.32, FE 0.08 米的长方形箱眼一个,可能是立门框的条上腿《"
+      },
+      {
+        "text": " 0.15 米",
+        "page": 37,
+        "source": "ocr",
+        "context": "U ee) 中间各有一长 0.2，\nBE 0.15 米的长方形孔 FT REAL ARPA T"
+      },
+      {
+        "text": " 0.2 米",
+        "page": 37,
+        "source": "ocr",
+        "context": "eg ts BR ie, PAE AYE 0.2 米多，旦牢简形，可能是包门站用的(图版起\n"
+      },
+      {
+        "text": " 4.7 米",
+        "page": 37,
+        "source": "ocr",
+        "context": "的距厂计算，站\nChi 53) BEBE 4.7 米左右。站道的路士厚 0.15 ,路士下面"
+      },
+      {
+        "text": " 0.35 米",
+        "page": 37,
+        "source": "ocr",
+        "context": "路士厚 0.15 ,路士下面垫士一层,厚 0.35 米。再下篇夯土\n基,厚过 1.7 米。夯士"
+      },
+      {
+        "text": " 1.7 米",
+        "page": 37,
+        "source": "ocr",
+        "context": ",厚 0.35 米。再下篇夯土\n基,厚过 1.7 米。夯士下即生士(图一八)o\n\neet\n“"
+      },
+      {
+        "text": " 0.5 米",
+        "page": 38,
+        "source": "ocr",
+        "context": "埃门束倒的柱本\nfi], HEME EH 0.5 米。在柱磺中间有长 0.18 ,寅 0.1"
+      },
+      {
+        "text": " 0.13 米",
+        "page": 38,
+        "source": "ocr",
+        "context": ".5 米。在柱磺中间有长 0.18 ,寅 0.13 米的长方沟槽一,在长方澡的中间\nABE A"
+      },
+      {
+        "text": " 0.1 米",
+        "page": 38,
+        "source": "ocr",
+        "context": "槽一,在长方澡的中间\nABE AS iS 0.1 米的圆箱服一个。 其余各柱磅中已无存,但各"
+      },
+      {
+        "text": "\n1.2 米",
+        "page": 38,
+        "source": "ocr",
+        "context": ".4 OR BF, PH BESS ce\n1.2 米左右。\n\n在东侧的柱碟之间,何保存有石灰"
+      },
+      {
+        "text": " 0.3\n米",
+        "page": 38,
+        "source": "ocr",
+        "context": "皮两段(装根的一部分)，束距现存的夯士夸 0.3\n米(图一七, 5)。 FE RE BLS "
+      },
+      {
+        "text": " 1.3 米",
+        "page": 38,
+        "source": "ocr",
+        "context": " PE\n能看出的有8个。两排上下的距离是 1.3 米。西壁向有三排,下导的一排孔穴， ANE"
+      },
+      {
+        "text": " 2 米",
+        "page": 38,
+        "source": "ocr",
+        "context": " EsSLOCAI VEE ORBB E 2 米或 3 RDG FSU, TER AWA"
+      },
+      {
+        "text": " 17 米",
+        "page": 39,
+        "source": "ocr",
+        "context": " 135 OK, PEN\n— PREIS 17 米,东侧的玖长 21 米。 TERRIA "
+      },
+      {
+        "text": "长 21 米",
+        "page": 39,
+        "source": "ocr",
+        "context": "EN\n— PREIS 17 米,东侧的玖长 21 米。 TERRIA RR, TAR ie\n"
+      },
+      {
+        "text": " 50 米",
+        "page": 43,
+        "source": "ocr",
+        "context": " VR OAL, 已不衔接,殿基南北寅近 50 米。 JE APA FHERER\n多 SE"
+      },
+      {
+        "text": " 5 米",
+        "page": 44,
+        "source": "ocr",
+        "context": " PS PO A BD SR JB OE 5 米以上的夯士台基一,据永乐大典\nBAAR "
+      },
+      {
+        "text": " 1.4 米",
+        "page": 44,
+        "source": "ocr",
+        "context": " HAZE CCA—Je) ee SPH 1.4 米时,东西两侧各向内收\nUE 6.2 OK"
+      },
+      {
+        "text": " 0.15 米",
+        "page": 45,
+        "source": "ocr",
+        "context": "ee,\n82 77 EUGENE 1 E 0.15 米。除此惟一的柱磁外, 其余均已扰存,只有"
+      },
+      {
+        "text": "\n1.8 米",
+        "page": 45,
+        "source": "ocr",
+        "context": " 12 ERE “PEN , ERE 的\n1.8 米。在中间穿堂门(前国)内两便还各有杜研坊"
+      },
+      {
+        "text": " 8.5\n米",
+        "page": 45,
+        "source": "ocr",
+        "context": "8.5 OK) SB LE UA EVR 8.5\n米;,南倒的各到进深5米。前殿的地面僵中殿"
+      },
+      {
+        "text": "深5米",
+        "page": 45,
+        "source": "ocr",
+        "context": "UA EVR 8.5\n米;,南倒的各到进深5米。前殿的地面僵中殿同一水平,亦全铺石 T"
+      },
+      {
+        "text": "17.2 米",
+        "page": 46,
+        "source": "ocr",
+        "context": ",熏中殿相连的后殿的进深, HE\n三间(17.2 米)，北扯的三闻是熏后殿相连的另一建筑。和"
+      },
+      {
+        "text": " 5.3 米",
+        "page": 46,
+        "source": "ocr",
+        "context": "的一间略窗，守\n4.4 9%, Opty 5.3 米。 FE Mae ay Pe SP Pe"
+      },
+      {
+        "text": " 3 米",
+        "page": 46,
+        "source": "ocr",
+        "context": "Oe Oe LL 9 Fe TRL, 有 3 米多长的一段基槽, 模宽、深均是 0.1 "
+      },
+      {
+        "text": "高 0.1 米",
+        "page": 46,
+        "source": "ocr",
+        "context": "面与后威在同一水平面上,但比前、.中二殿高 0.1 米*前、中二殿同一水个\n\nmY\nhit S"
+      },
+      {
+        "text": " 0.1\n米",
+        "page": 47,
+        "source": "ocr",
+        "context": "AA. 二一贺的铺优地面比周围尿地面低约 0.1\n米许。琵屋的北\\西、南三面均扰六的遗迹,仅"
+      },
+      {
+        "text": " 2.5 米",
+        "page": 47,
+        "source": "ocr",
+        "context": "ROR SCARS TET RS, FE 2.5 米，然\n和合向外渐旺葛上时地面平，共乱三平"
+      },
+      {
+        "text": " 0.55 米",
+        "page": 47,
+        "source": "ocr",
+        "context": "X 0.58, REMI —| Se 0 0.55 米。柱磅的厚 受都是长加\nAPR, 三个柱"
+      },
+      {
+        "text": " 3.3 米",
+        "page": 48,
+        "source": "ocr",
+        "context": " BR OES A\n两间耳室隔断,廊宽均 3.3 米(图版参攻,2)。由耳室向南 ,东西两万"
+      },
+      {
+        "text": "长 72\n米",
+        "page": 48,
+        "source": "ocr",
+        "context": "。由耳室向南 ,东西两万各篇十五间(南北长 72\n米) BS BLES ARTE BE. A"
+      },
+      {
+        "text": " 2.5 米",
+        "page": 48,
+        "source": "ocr",
+        "context": "GAAS, FER ME (BIB BR 2.5 米左右。\nibe Pr 3s 4) — A"
+      },
+      {
+        "text": "长 26.3米",
+        "page": 48,
+        "source": "ocr",
+        "context": "AARNE BLLAD AL), 束西\n长 26.3米, FLAME BAe eS IR SR"
+      },
+      {
+        "text": " 5 米",
+        "page": 48,
+        "source": "ocr",
+        "context": "度很有明显。西端现在还高出当时的地面将近 5 米,东部了破壤的较多,高仅 1 OR CE"
+      },
+      {
+        "text": "5.2 米",
+        "page": 48,
+        "source": "ocr",
+        "context": ",有与楼基相连的南北向“麻”址,研东西寅5.2 米,向南届前述\nBoe FS RRP AR"
+      },
+      {
+        "text": " 3   m",
+        "page": 49,
+        "source": "ocr",
+        "context": "\n\nAy i IF JUS ABE AR 3   me 魏以下名臣 ,并烈善于美事 。 SU"
+      },
+      {
+        "text": " 7 厘米",
+        "page": 49,
+        "source": "ocr",
+        "context": "的一种县览一般是 35 X\n35, EL 7 厘米, 后奈策盘谭的铺地硬吏是此种;大的长质"
+      },
+      {
+        "text": "\n36 厘米",
+        "page": 50,
+        "source": "ocr",
+        "context": "i AVA IK AEE, ARLE A\n36 厘米左右,厚 2一4 厘米不等,长度不详。\n"
+      },
+      {
+        "text": "4 厘米",
+        "page": 50,
+        "source": "ocr",
+        "context": " ARLE A\n36 厘米左右,厚 2一4 厘米不等,长度不详。\n\nfa 2b: AeA"
+      },
+      {
+        "text": "长17 米",
+        "page": 52,
+        "source": "ocr",
+        "context": "的情况来看,向南还不到头。房址南北残存\n长17 米, BURLEREO RIS, ADT,"
+      },
+      {
+        "text": " 0.84 米",
+        "page": 52,
+        "source": "ocr",
+        "context": "ad ERRU, 1), BARTELS 0.84 米，\nAK ATE SLT N 0 FE "
+      },
+      {
+        "text": "0.08 米",
+        "page": 52,
+        "source": "ocr",
+        "context": "     1          道,原仅0.08 米,两面亦抹有和白灰将皮一-\n      "
+      },
+      {
+        "text": " 2.7 米",
+        "page": 52,
+        "source": "ocr",
+        "context": "g\nERS, 2). HAPS PEER 2.7 米的一段\n\n|              "
+      },
+      {
+        "text": " 13 厘米",
+        "page": 53,
+        "source": "ocr",
+        "context": ":5, 印文完整, FRR 8S, ME 13 厘米。印二\nTEA, Fe 5.2 HK, "
+      },
+      {
+        "text": "长 500 米",
+        "page": 59,
+        "source": "ocr",
+        "context": "\n西耐的池子面积较大,位在富城中间,东西长 500 米，南北寅 320 BOK. MARR T"
+      },
+      {
+        "text": "4 米",
+        "page": 59,
+        "source": "ocr",
+        "context": "20 BOK. MARR Te\n底 3一4 米不等, 从浴土的堆积和池底的洪沙层求看，"
+      },
+      {
+        "text": "4 米",
+        "page": 59,
+        "source": "ocr",
+        "context": "低於现在地面过 5 OK\n多(低讼洱岸狗4 米)。周围池岸的顽泪,多稚破壤不彰, 保存"
+      },
+      {
+        "text": " 5 米",
+        "page": 59,
+        "source": "ocr",
+        "context": "比较平坦,在南面沿岸有很长一段夯士基,寅 5 米多，沿岸周围其他各上处\nKRAROUMS"
+      },
+      {
+        "text": " 30 米",
+        "page": 59,
+        "source": "ocr",
+        "context": "基的底部的\n平面近乎方形, 长.实均将近 30 米。吉基下(距现在地表深1 ORS), S"
+      },
+      {
+        "text": " 3\n米",
+        "page": 59,
+        "source": "ocr",
+        "context": "HAT EE OKA. FEMAIL A 3\n米多袖的渠道,向东穿出城外,然后偏癌北行("
+      },
+      {
+        "text": "深1.4 米",
+        "page": 60,
+        "source": "ocr",
+        "context": "在地表深 152k\n% JER 1.1,深1.4 米。渠的上面著有石板(图版津参, 2) ,"
+      },
+      {
+        "text": " 0.1 米",
+        "page": 60,
+        "source": "ocr",
+        "context": "。渠道上面所董的石板低论当时(唐代)地面 0.1 米多，因过一带地层多牧摄所, 从\n发气的部"
+      },
+      {
+        "text": " 6 厘米",
+        "page": 60,
+        "source": "ocr",
+        "context": "ay\nAOS BS —ENILIL ME 6 厘米许(图二七)。 REL RSS\n或朗妆在"
+      },
+      {
+        "text": "深1.2 米",
+        "page": 62,
+        "source": "ocr",
+        "context": "蒜“出在殿址南部的殿基之下,;距现在地表深1.2 米(距殿址居住面深11米)o A\n呈正方形"
+      },
+      {
+        "text": "深11米",
+        "page": 62,
+        "source": "ocr",
+        "context": ",;距现在地表深1.2 米(距殿址居住面深11米)o A\n呈正方形,长袖各 53.5 厘"
+      },
+      {
+        "text": " 53.5 厘米",
+        "page": 62,
+        "source": "ocr",
+        "context": "居住面深11米)o A\n呈正方形,长袖各 53.5 厘米;石心较周围麻秽光滑,长、寅均是 31厘"
+      },
+      {
+        "text": " 31厘米",
+        "page": 62,
+        "source": "ocr",
+        "context": "5 厘米;石心较周围麻秽光滑,长、寅均是 31厘米,所如驻字即刻於此。\nWERE LEO "
+      },
+      {
+        "text": " 1.1 米",
+        "page": 62,
+        "source": "ocr",
+        "context": " oF\n430M), YE 1.2, 厚 1.1 米。此殿基不是台形, TOR SAA SR"
+      },
+      {
+        "text": " 14 米",
+        "page": 63,
+        "source": "ocr",
+        "context": ")。 TERRACE FI PERUSE 14 米),又是一导房屋的\n洒址,但仅残存了一部"
+      },
+      {
+        "text": " 2 米",
+        "page": 63,
+        "source": "ocr",
+        "context": "西面共清出“散水\"4 休(园二九),袖均 2 米。 其中南北两条散水是平\n行的,相距 1"
+      },
+      {
+        "text": " 10 米",
+        "page": 63,
+        "source": "ocr",
+        "context": " 米。 其中南北两条散水是平\n行的,相距 10 米,其东端与东稳的一休南北向的散水相接(图"
+      },
+      {
+        "text": " 1.07 米",
+        "page": 70,
+        "source": "ocr",
+        "context": ", GRAAF, Fe 2.04, 56 1.07 米。图\nLAE RESCH EO Ba B"
+      },
+      {
+        "text": " 2256 m",
+        "page": 76,
+        "source": "ocr",
+        "context": "palace city measured 2256 meters. Its width alo"
+      },
+      {
+        "text": " 1674\nm",
+        "page": 76,
+        "source": "ocr",
+        "context": "he southern wall was 1674\nmeters as against 113"
+      },
+      {
+        "text": " 1135 m",
+        "page": 76,
+        "source": "ocr",
+        "context": "74\nmeters as against 1135 meters along the nort"
+      },
+      {
+        "text": " 160 m",
+        "page": 76,
+        "source": "ocr",
+        "context": " west. A distance of 160 meters separated the "
+      },
+      {
+        "text": " 55 m",
+        "page": 76,
+        "source": "ocr",
+        "context": "d west measured only 55 meters.\nAccording to "
+      },
+      {
+        "text": " 5 m",
+        "page": 76,
+        "source": "ocr",
+        "context": "nce passage measured 5 meters in width. Arch"
+      },
+      {
+        "text": " 16.4 m",
+        "page": 76,
+        "source": "ocr",
+        "context": "form measuring 34.23 16.4 meters (Plate VIII, f"
+      },
+      {
+        "text": "3 m",
+        "page": 76,
+        "source": "ocr",
+        "context": "ained a height of 2—3 meters. Opposite to H"
+      },
+      {
+        "text": " 385 m",
+        "page": 77,
+        "source": "ocr",
+        "context": " Ta Ming Kung, about 385 meters to the cast\nof"
+      },
+      {
+        "text": " 355 m",
+        "page": 77,
+        "source": "ocr",
+        "context": "n wal!. It lay about 355 meters\nto the west of"
+      },
+      {
+        "text": " 77.55 m",
+        "page": 77,
+        "source": "ocr",
+        "context": ", measur-\ning 130.41 77.55 meters. The hall itse"
+      }
+    ],
+    "地层": [
+      {
+        "text": "第五层",
+        "page": 17,
+        "source": "ocr",
+        "context": "单，往往是地表层\\耕填\n层)下，即是上述第五层的堆积,再下即乱当时的居住面。也有的地方"
+      },
+      {
+        "text": "第一层",
+        "page": 33,
+        "source": "ocr",
+        "context": "IBS 3.6 米多,旋的堆积情形如下:第一层是现代地表援饥层, 厚 0.2一\n0.8"
+      },
+      {
+        "text": "第二层",
+        "page": 33,
+        "source": "ocr",
+        "context": "地表援饥层, 厚 0.2一\n0.8 米。第二层是近代路士层,厚 0.15 米;,路士面"
+      },
+      {
+        "text": "第四层",
+        "page": 33,
+        "source": "ocr",
+        "context": ".5 OK, SAS RICHER\n层。第四层又是一层路士, 寅度与门道的宽度相同,在"
+      },
+      {
+        "text": "第五层",
+        "page": 33,
+        "source": "ocr",
+        "context": "现有宋代的瓷片。还一路士仍是有代形成的。第五层篇\n疆烧士层,直到门道的地面需止, FR"
+      },
+      {
+        "text": "第二层",
+        "page": 44,
+        "source": "ocr",
+        "context": " THIR]) SRE E\n起则乱重台(第二层人计) ,高1.1, HOPE 65.1"
+      },
+      {
+        "text": "第一层",
+        "page": 48,
+        "source": "ocr",
+        "context": "SARA K, 同时也可策作通道。在西便第一层训基的北部(和后殿西耳室\n的西便),有了"
+      }
+    ],
+    "土样特征": [
+      {
+        "text": "红烧土",
+        "page": 21,
+        "source": "ocr",
+        "context": "S, TEP AERA AL 白灰单皮及红烧土等。门道南北的路面亦完整，路咒约9\n米左"
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "红烧土",
+        "page": 21,
+        "source": "ocr",
+        "context": "S, TEP AERA AL 白灰单皮及红烧土等。门道南北的路面亦完整，路咒约9\n米左"
+      }
+    ],
+    "银器": [
+      {
+        "text": "银珠",
+        "page": 58,
+        "source": "ocr",
+        "context": "藏库或右茂\n库,在富城之内的,可能是藏金银珠赛等趴重物品的藏产。富城之外(夹城内)可"
+      }
+    ]
+  }
+}

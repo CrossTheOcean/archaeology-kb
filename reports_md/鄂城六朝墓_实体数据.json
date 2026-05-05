@@ -1,0 +1,1062 @@
+{
+  "name": "鄂城六朝墓",
+  "file": "鄂城六朝墓.pdf",
+  "era": "六朝",
+  "culture": "孙吴-南朝",
+  "processed_pages": 13,
+  "total_entities": 171,
+  "entity_stats": {
+    "遗址名称": 34,
+    "遗迹编号": 102,
+    "铜器": 12,
+    "年代": 12,
+    "遗迹类型": 1,
+    "陶器": 2,
+    "材质": 7,
+    "葬具": 1
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "六朝",
+        "page": 4,
+        "source": "ocr",
+        "context": "自新石器时代以来的历\n代遗址和遗物，但以六朝时期的遗址、幕薄和遗物尤为突出。本书收录"
+      },
+      {
+        "text": "六朝",
+        "page": 4,
+        "source": "ocr",
+        "context": " 1983 年期间清理发据的 394 座六朝幕葛的资料，期间经过了 5\n次较大规模的"
+      },
+      {
+        "text": "六朝",
+        "page": 4,
+        "source": "ocr",
+        "context": "发掘清理工作。书中介绍了当时的发掘情况、六朝幕项的分\n布、墓昔形制，并对出土的随葬器"
+      },
+      {
+        "text": "六朝",
+        "page": 4,
+        "source": "ocr",
+        "context": "及陶瓷器的理化分析表。\n\n本书适合于从事六朝历史、考古的专家学者以及相关专业的大专院"
+      },
+      {
+        "text": "鄂城",
+        "page": 4,
+        "source": "ocr",
+        "context": "。\n\n图书在版编目 (CIP) 数据\n\n鄂城六朝幕/南京大学历史系考古专业，湖北省文"
+      },
+      {
+        "text": "六朝",
+        "page": 4,
+        "source": "ocr",
+        "context": "\n图书在版编目 (CIP) 数据\n\n鄂城六朝幕/南京大学历史系考古专业，湖北省文物考"
+      },
+      {
+        "text": "六朝",
+        "page": 4,
+        "source": "ocr",
+        "context": " (考古) - RBH - HB\n州市-六朝时代 IV .K878.85\n\n中国版本"
+      },
+      {
+        "text": "鄂城",
+        "page": 7,
+        "source": "ocr",
+        "context": "目  录\n\n第一章”鄂城的地理环境和六朝莫葬的分布\n第一节”鄂城"
+      },
+      {
+        "text": "六朝",
+        "page": 7,
+        "source": "ocr",
+        "context": "目  录\n\n第一章”鄂城的地理环境和六朝莫葬的分布\n第一节”鄂城的地理环境与历史"
+      },
+      {
+        "text": "鄂城",
+        "page": 7,
+        "source": "ocr",
+        "context": "鄂城的地理环境和六朝莫葬的分布\n第一节”鄂城的地理环境与历史沿革\n第二节 发掘经过与"
+      },
+      {
+        "text": "山东",
+        "page": 7,
+        "source": "ocr",
+        "context": "过与幕莫分区 ~~\n\n一”第一墓区一一西山东芍基区 …\n\nREA ”能海堂 RRC "
+      },
+      {
+        "text": "六朝",
+        "page": 9,
+        "source": "ocr",
+        "context": ")\n\n(ul\n\n第五章 ”结语\n一，吕城六朝墓莫各期的主要特点\n二，鄂城六朝青瓷的主"
+      },
+      {
+        "text": "鄂城",
+        "page": 9,
+        "source": "ocr",
+        "context": "语\n一，吕城六朝墓莫各期的主要特点\n二，鄂城六朝青瓷的主要特点           "
+      },
+      {
+        "text": "六朝",
+        "page": 9,
+        "source": "ocr",
+        "context": "一，吕城六朝墓莫各期的主要特点\n二，鄂城六朝青瓷的主要特点             "
+      },
+      {
+        "text": "鄂城",
+        "page": 9,
+        "source": "ocr",
+        "context": "            (330)\n三”鄂城六朝铜镜的主要特点           "
+      },
+      {
+        "text": "六朝",
+        "page": 9,
+        "source": "ocr",
+        "context": "          (330)\n三”鄂城六朝铜镜的主要特点             "
+      },
+      {
+        "text": "鄂城",
+        "page": 9,
+        "source": "ocr",
+        "context": "\n3 BRAN RRMA RRR\n\n4 鄂城六朝幕项出土陶器胎的理化分析测定表\n5 "
+      },
+      {
+        "text": "六朝",
+        "page": 9,
+        "source": "ocr",
+        "context": " BRAN RRMA RRR\n\n4 鄂城六朝幕项出土陶器胎的理化分析测定表\n5 长江"
+      },
+      {
+        "text": "六朝",
+        "page": 9,
+        "source": "ocr",
+        "context": "土陶器胎的理化分析测定表\n5 长江中上游六朝青瓷胎的理化分析测定表\n6\n\n7\n\n8\n"
+      },
+      {
+        "text": "六朝",
+        "page": 9,
+        "source": "ocr",
+        "context": "定表\n6\n\n7\n\n8\n\n9\n\n长江中下游六朝青瓷釉的化学组成测定表\n长江下游六朝青瓷"
+      },
+      {
+        "text": "六朝",
+        "page": 9,
+        "source": "ocr",
+        "context": "下游六朝青瓷釉的化学组成测定表\n长江下游六朝青瓷胎的理化分析测定表 -\n鄂城六朝莫草"
+      },
+      {
+        "text": "鄂城",
+        "page": 9,
+        "source": "ocr",
+        "context": "长江下游六朝青瓷胎的理化分析测定表 -\n鄂城六朝莫草出土铜镜分类统计表 …\n鄂城六朝"
+      },
+      {
+        "text": "六朝",
+        "page": 9,
+        "source": "ocr",
+        "context": "下游六朝青瓷胎的理化分析测定表 -\n鄂城六朝莫草出土铜镜分类统计表 …\n鄂城六朝幕其"
+      },
+      {
+        "text": "鄂城",
+        "page": 9,
+        "source": "ocr",
+        "context": "-\n鄂城六朝莫草出土铜镜分类统计表 …\n鄂城六朝幕其出土铜镜一览表\n10 ”鄂城六朝"
+      },
+      {
+        "text": "六朝",
+        "page": 9,
+        "source": "ocr",
+        "context": "鄂城六朝莫草出土铜镜分类统计表 …\n鄂城六朝幕其出土铜镜一览表\n10 ”鄂城六朝墓昔"
+      },
+      {
+        "text": "鄂城",
+        "page": 9,
+        "source": "ocr",
+        "context": "…\n鄂城六朝幕其出土铜镜一览表\n10 ”鄂城六朝墓昔出土部分铜镜铭文 〈正文中未引用"
+      },
+      {
+        "text": "六朝",
+        "page": 9,
+        "source": "ocr",
+        "context": "鄂城六朝幕其出土铜镜一览表\n10 ”鄂城六朝墓昔出土部分铜镜铭文 〈正文中未引用) "
+      },
+      {
+        "text": "鄂城",
+        "page": 9,
+        "source": "ocr",
+        "context": " HE\n12 BRAGA! -\n13 。鄂城六朝幕出土陶器器形演变示意图\n14”鄂城"
+      },
+      {
+        "text": "六朝",
+        "page": 9,
+        "source": "ocr",
+        "context": "E\n12 BRAGA! -\n13 。鄂城六朝幕出土陶器器形演变示意图\n14”鄂城六朝"
+      },
+      {
+        "text": "鄂城",
+        "page": 9,
+        "source": "ocr",
+        "context": "鄂城六朝幕出土陶器器形演变示意图\n14”鄂城六朝幕出土青瓷回器形演变示意图\n15”鄂"
+      },
+      {
+        "text": "六朝",
+        "page": 9,
+        "source": "ocr",
+        "context": "六朝幕出土陶器器形演变示意图\n14”鄂城六朝幕出土青瓷回器形演变示意图\n15”鄂城六"
+      },
+      {
+        "text": "鄂城",
+        "page": 9,
+        "source": "ocr",
+        "context": "城六朝幕出土青瓷回器形演变示意图\n15”鄂城六朝幕芋出土随莫器物总表 …\n\n"
+      },
+      {
+        "text": "六朝",
+        "page": 9,
+        "source": "ocr",
+        "context": "朝幕出土青瓷回器形演变示意图\n15”鄂城六朝幕芋出土随莫器物总表 …\n\n"
+      },
+      {
+        "text": "六朝",
+        "page": 10,
+        "source": "ocr",
+        "context": "2\n\n插图目录\n\nBREA\nPHS A\n六朝武昌城址示意图\nBRA WII Ke\n铺"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "K878",
+        "page": 4,
+        "source": "ocr",
+        "context": "BH - HB\n州市-六朝时代 IV .K878.85\n\n中国版本图书馆 CI 数据核字"
+      },
+      {
+        "text": "M2169",
+        "page": 10,
+        "source": "ocr",
+        "context": " -\n墓夸形制、纹饰示意图\n铜棺钉 让\nM2169 平面、剖面图\nM2183 平面图 …\n"
+      },
+      {
+        "text": "M2183",
+        "page": 10,
+        "source": "ocr",
+        "context": "\n铜棺钉 让\nM2169 平面、剖面图\nM2183 平面图 …\nM2113 平面图 …\nM"
+      },
+      {
+        "text": "M2113",
+        "page": 10,
+        "source": "ocr",
+        "context": " 平面、剖面图\nM2183 平面图 …\nM2113 平面图 …\nM2081 平面、剖面图\n"
+      },
+      {
+        "text": "M2081",
+        "page": 10,
+        "source": "ocr",
+        "context": "3 平面图 …\nM2113 平面图 …\nM2081 平面、剖面图\nM5013 Fi, WA"
+      },
+      {
+        "text": "M5013",
+        "page": 10,
+        "source": "ocr",
+        "context": " 平面图 …\nM2081 平面、剖面图\nM5013 Fi, WA ~\nM5014 平面、剖"
+      },
+      {
+        "text": "M5014",
+        "page": 10,
+        "source": "ocr",
+        "context": "、剖面图\nM5013 Fi, WA ~\nM5014 平面、剖面图\nM2162 平面、剂面图"
+      },
+      {
+        "text": "M2162",
+        "page": 10,
+        "source": "ocr",
+        "context": ", WA ~\nM5014 平面、剖面图\nM2162 平面、剂面图\nM2006 平面、剖面图"
+      },
+      {
+        "text": "M2006",
+        "page": 10,
+        "source": "ocr",
+        "context": "平面、剖面图\nM2162 平面、剂面图\nM2006 平面、剖面图 ~\nM4022 Fifi"
+      },
+      {
+        "text": "M4022",
+        "page": 10,
+        "source": "ocr",
+        "context": "、剂面图\nM2006 平面、剖面图 ~\nM4022 Fifi, MA -\nM2263 平面"
+      },
+      {
+        "text": "M2263",
+        "page": 10,
+        "source": "ocr",
+        "context": " ~\nM4022 Fifi, MA -\nM2263 平面图\nM2215 平面、\nM1002"
+      },
+      {
+        "text": "M2215",
+        "page": 10,
+        "source": "ocr",
+        "context": "ifi, MA -\nM2263 平面图\nM2215 平面、\nM1002 平面、\nM2174"
+      },
+      {
+        "text": "M1002",
+        "page": 10,
+        "source": "ocr",
+        "context": "M2263 平面图\nM2215 平面、\nM1002 平面、\nM2174 平面、\nM2180"
+      },
+      {
+        "text": "M2174",
+        "page": 10,
+        "source": "ocr",
+        "context": "M2215 平面、\nM1002 平面、\nM2174 平面、\nM2180 平面、\nM2262"
+      },
+      {
+        "text": "M2180",
+        "page": 10,
+        "source": "ocr",
+        "context": "M1002 平面、\nM2174 平面、\nM2180 平面、\nM2262 平面、\nM5012"
+      },
+      {
+        "text": "M2262",
+        "page": 10,
+        "source": "ocr",
+        "context": "M2174 平面、\nM2180 平面、\nM2262 平面、\nM5012 平面、\nM5016"
+      },
+      {
+        "text": "M5012",
+        "page": 10,
+        "source": "ocr",
+        "context": "M2180 平面、\nM2262 平面、\nM5012 平面、\nM5016 平面图 ……\nM4"
+      },
+      {
+        "text": "M5016",
+        "page": 10,
+        "source": "ocr",
+        "context": "M2262 平面、\nM5012 平面、\nM5016 平面图 ……\nM4008 平面图 ……"
+      },
+      {
+        "text": "M4008",
+        "page": 10,
+        "source": "ocr",
+        "context": "12 平面、\nM5016 平面图 ……\nM4008 平面图 ……\nM2048 平面、剖\nM"
+      },
+      {
+        "text": "M2048",
+        "page": 10,
+        "source": "ocr",
+        "context": "平面图 ……\nM4008 平面图 ……\nM2048 平面、剖\nM3028 平面、剖\n\n"
+      },
+      {
+        "text": "M3028",
+        "page": 10,
+        "source": "ocr",
+        "context": "8 平面图 ……\nM2048 平面、剖\nM3028 平面、剖\n\n"
+      },
+      {
+        "text": "M2160",
+        "page": 11,
+        "source": "ocr",
+        "context": "66\n图67\n图68\n图69\n图70\n\nM2160 平面、剖面图\nM2072 平面、剖面图"
+      },
+      {
+        "text": "M2072",
+        "page": 11,
+        "source": "ocr",
+        "context": "9\n图70\n\nM2160 平面、剖面图\nM2072 平面、剖面图\nM2205 平面、剖面图"
+      },
+      {
+        "text": "M2205",
+        "page": 11,
+        "source": "ocr",
+        "context": "平面、剖面图\nM2072 平面、剖面图\nM2205 平面、剖面图\nM2120 平面、剖面图"
+      },
+      {
+        "text": "M2120",
+        "page": 11,
+        "source": "ocr",
+        "context": "平面、剖面图\nM2205 平面、剖面图\nM2120 平面、剖面图\nM2012 平面、剖面图"
+      },
+      {
+        "text": "M2012",
+        "page": 11,
+        "source": "ocr",
+        "context": "平面、剖面图\nM2120 平面、剖面图\nM2012 平面、剖面图\nM2179 平面图\nM5"
+      },
+      {
+        "text": "M2179",
+        "page": 11,
+        "source": "ocr",
+        "context": "平面、剖面图\nM2012 平面、剖面图\nM2179 平面图\nM5001 平面图\nM2182"
+      },
+      {
+        "text": "M5001",
+        "page": 11,
+        "source": "ocr",
+        "context": "12 平面、剖面图\nM2179 平面图\nM5001 平面图\nM2182 平面、剖面图\nM2"
+      },
+      {
+        "text": "M2182",
+        "page": 11,
+        "source": "ocr",
+        "context": "M2179 平面图\nM5001 平面图\nM2182 平面、剖面图\nM2170 平面图 ……"
+      },
+      {
+        "text": "M2170",
+        "page": 11,
+        "source": "ocr",
+        "context": "01 平面图\nM2182 平面、剖面图\nM2170 平面图 ……\nM1011 平面、剖面图"
+      },
+      {
+        "text": "M1011",
+        "page": 11,
+        "source": "ocr",
+        "context": "平面、剖面图\nM2170 平面图 ……\nM1011 平面、剖面图\nM2025 平面、剂面|"
+      },
+      {
+        "text": "M2025",
+        "page": 11,
+        "source": "ocr",
+        "context": "平面图 ……\nM1011 平面、剖面图\nM2025 平面、剂面|\nM2084 FB\n\nM2"
+      },
+      {
+        "text": "M2084",
+        "page": 11,
+        "source": "ocr",
+        "context": "平面、剖面图\nM2025 平面、剂面|\nM2084 FB\n\nM2142 平\nM2150 平"
+      },
+      {
+        "text": "M2142",
+        "page": 11,
+        "source": "ocr",
+        "context": "25 平面、剂面|\nM2084 FB\n\nM2142 平\nM2150 平面图 ……\nM302"
+      },
+      {
+        "text": "M2150",
+        "page": 11,
+        "source": "ocr",
+        "context": "|\nM2084 FB\n\nM2142 平\nM2150 平面图 ……\nM3027 平面、剖面图"
+      },
+      {
+        "text": "M3027",
+        "page": 11,
+        "source": "ocr",
+        "context": "2142 平\nM2150 平面图 ……\nM3027 平面、剖面图\nM5004 平面、剖面图"
+      },
+      {
+        "text": "M5004",
+        "page": 11,
+        "source": "ocr",
+        "context": "平面图 ……\nM3027 平面、剖面图\nM5004 平面、剖面图\nM2208 平面、剖面图"
+      },
+      {
+        "text": "M2208",
+        "page": 11,
+        "source": "ocr",
+        "context": "平面、剖面图\nM5004 平面、剖面图\nM2208 平面、剖面图\nM4020 平面图 …\n"
+      },
+      {
+        "text": "M4020",
+        "page": 11,
+        "source": "ocr",
+        "context": "平面、剖面图\nM2208 平面、剖面图\nM4020 平面图 …\nM2184 平面、剖面图\n"
+      },
+      {
+        "text": "M2184",
+        "page": 11,
+        "source": "ocr",
+        "context": " 平面、剖面图\nM4020 平面图 …\nM2184 平面、剖面图\nM2017 平面、剖面图"
+      },
+      {
+        "text": "M2017",
+        "page": 11,
+        "source": "ocr",
+        "context": " 平面图 …\nM2184 平面、剖面图\nM2017 平面、剖面图\nM2062 平面图 ……"
+      },
+      {
+        "text": "M2062",
+        "page": 11,
+        "source": "ocr",
+        "context": "平面、剖面图\nM2017 平面、剖面图\nM2062 平面图 ……-\nM2040 平面、前面"
+      },
+      {
+        "text": "M2040",
+        "page": 11,
+        "source": "ocr",
+        "context": "面、剖面图\nM2062 平面图 ……-\nM2040 平面、前面图\nM2002 平面、剖面图"
+      },
+      {
+        "text": "M2002",
+        "page": 11,
+        "source": "ocr",
+        "context": "面图 ……-\nM2040 平面、前面图\nM2002 平面、剖面图\nM2071 平面、剖面图"
+      },
+      {
+        "text": "M2071",
+        "page": 11,
+        "source": "ocr",
+        "context": "平面、前面图\nM2002 平面、剖面图\nM2071 平面、剖面图 ，\nM2149 平面、前"
+      },
+      {
+        "text": "M2149",
+        "page": 11,
+        "source": "ocr",
+        "context": "、剖面图\nM2071 平面、剖面图 ，\nM2149 平面、前面图\nM2213 平面、剖面图"
+      },
+      {
+        "text": "M2213",
+        "page": 11,
+        "source": "ocr",
+        "context": "、剖面图 ，\nM2149 平面、前面图\nM2213 平面、剖面图 -\nM2016 平面、剖"
+      },
+      {
+        "text": "M2016",
+        "page": 11,
+        "source": "ocr",
+        "context": "、前面图\nM2213 平面、剖面图 -\nM2016 平面、剖面图 -\nM3031 平面、剖"
+      },
+      {
+        "text": "M3031",
+        "page": 11,
+        "source": "ocr",
+        "context": "面图 -\nM2016 平面、剖面图 -\nM3031 平面、剖面图 -\n\na\n剖\n\nM214"
+      },
+      {
+        "text": "M2148",
+        "page": 11,
+        "source": "ocr",
+        "context": "3031 平面、剖面图 -\n\na\n剖\n\nM2148 平面、        .\nM2034 "
+      },
+      {
+        "text": "M2034",
+        "page": 11,
+        "source": "ocr",
+        "context": "\nM2148 平面、        .\nM2034 ii, MTG -\nM2186 ii,"
+      },
+      {
+        "text": "M2186",
+        "page": 11,
+        "source": "ocr",
+        "context": "  .\nM2034 ii, MTG -\nM2186 ii, PTAA -\nM1012 Fi"
+      },
+      {
+        "text": "M1012",
+        "page": 11,
+        "source": "ocr",
+        "context": " -\nM2186 ii, PTAA -\nM1012 Fi, HRA -\nM2027 ii,"
+      },
+      {
+        "text": "M2027",
+        "page": 11,
+        "source": "ocr",
+        "context": "A -\nM1012 Fi, HRA -\nM2027 ii, BI -\nM2168 平面图 "
+      },
+      {
+        "text": "M2168",
+        "page": 11,
+        "source": "ocr",
+        "context": "RA -\nM2027 ii, BI -\nM2168 平面图 ……\nM2014 平面、剖面图"
+      },
+      {
+        "text": "M2014",
+        "page": 11,
+        "source": "ocr",
+        "context": ", BI -\nM2168 平面图 ……\nM2014 平面、剖面图 -\nM2087 平面、剖"
+      },
+      {
+        "text": "M2087",
+        "page": 11,
+        "source": "ocr",
+        "context": "图 ……\nM2014 平面、剖面图 -\nM2087 平面、剖面图\nM3051 平面、剖面图"
+      },
+      {
+        "text": "M3051",
+        "page": 11,
+        "source": "ocr",
+        "context": "、剖面图 -\nM2087 平面、剖面图\nM3051 平面、剖面图 «\nM2070 平面、剖"
+      },
+      {
+        "text": "M2070",
+        "page": 11,
+        "source": "ocr",
+        "context": "、剖面图\nM3051 平面、剖面图 «\nM2070 平面、剖面图 ~\n\n"
+      },
+      {
+        "text": "M2112",
+        "page": 12,
+        "source": "ocr",
+        "context": "         BRATS\n\n图71 M2112 平面、                "
+      },
+      {
+        "text": "M2022",
+        "page": 12,
+        "source": "ocr",
+        "context": "          (81)\nFA72 M2022 平面、                "
+      },
+      {
+        "text": "M73",
+        "page": 12,
+        "source": "ocr",
+        "context": "               (82)\nM73 M2167 平面、\n\nfA74 M20"
+      },
+      {
+        "text": "M2167",
+        "page": 12,
+        "source": "ocr",
+        "context": "           (82)\nM73 M2167 平面、\n\nfA74 M2051 平面、"
+      },
+      {
+        "text": "M2051",
+        "page": 12,
+        "source": "ocr",
+        "context": "M73 M2167 平面、\n\nfA74 M2051 平面、                "
+      },
+      {
+        "text": "M2157",
+        "page": 12,
+        "source": "ocr",
+        "context": "           (85)\nA7S M2157 平面、                "
+      },
+      {
+        "text": "M2219",
+        "page": 12,
+        "source": "ocr",
+        "context": "          + (86)\n76 M2219 平面                 "
+      },
+      {
+        "text": "M2227",
+        "page": 12,
+        "source": "ocr",
+        "context": "          - (87)\n77 M2227 平面                 "
+      },
+      {
+        "text": "M2226",
+        "page": 12,
+        "source": "ocr",
+        "context": "        - (88)\nFA78 M2226 平面、                "
+      },
+      {
+        "text": "M4004",
+        "page": 12,
+        "source": "ocr",
+        "context": "        + (90)\nFA79 M4004 平面、                "
+      },
+      {
+        "text": "M4031",
+        "page": 12,
+        "source": "ocr",
+        "context": "          + (91)\n80 M4031 平面、                "
+      },
+      {
+        "text": "M3019",
+        "page": 12,
+        "source": "ocr",
+        "context": "          + (92)\n81 M3019 平面、                "
+      },
+      {
+        "text": "M2075",
+        "page": 12,
+        "source": "ocr",
+        "context": "        + (94)\nfA82 M2075 平面、                "
+      },
+      {
+        "text": "M2057",
+        "page": 12,
+        "source": "ocr",
+        "context": "         + (95)\n图83 M2057 平面、                "
+      },
+      {
+        "text": "M2024",
+        "page": 12,
+        "source": "ocr",
+        "context": "          + (96)\n84 M2024 平面                 "
+      },
+      {
+        "text": "M2261",
+        "page": 12,
+        "source": "ocr",
+        "context": "            .\n\n图 85 M2261 平面、                "
+      },
+      {
+        "text": "M3007",
+        "page": 12,
+        "source": "ocr",
+        "context": "          (98)\n图 86 M3007 平面图 -              "
+      },
+      {
+        "text": "M2137",
+        "page": 12,
+        "source": "ocr",
+        "context": "          (9 )\n图 87 M2137 平面图                "
+      },
+      {
+        "text": "M3002",
+        "page": 12,
+        "source": "ocr",
+        "context": "         (100)\n图 88”M3002 平面、剂面图             "
+      },
+      {
+        "text": "M2039",
+        "page": 12,
+        "source": "ocr",
+        "context": "         (100)\n图 89 M2039 平面、剖面图             "
+      },
+      {
+        "text": "M4002",
+        "page": 12,
+        "source": "ocr",
+        "context": "         (101)\n图 90 M4002 平面、剖面图 …           "
+      },
+      {
+        "text": "M3045",
+        "page": 12,
+        "source": "ocr",
+        "context": "       * (101)\nFA91 M3045 SiR, #             "
+      },
+      {
+        "text": "M2244",
+        "page": 12,
+        "source": "ocr",
+        "context": "       + (102)\n图 92 M2244 平面图 …              "
+      },
+      {
+        "text": "M4016",
+        "page": 12,
+        "source": "ocr",
+        "context": "        + (102)\n图93 M4016 平面、剖面图             "
+      },
+      {
+        "text": "M2220",
+        "page": 12,
+        "source": "ocr",
+        "context": "         (103)\n图94 ”M2220 平面、剖面图 …           "
+      },
+      {
+        "text": "M4003",
+        "page": 12,
+        "source": "ocr",
+        "context": "         + (104)\n95 M4003 平面、剖面图             "
+      },
+      {
+        "text": "M2032",
+        "page": 12,
+        "source": "ocr",
+        "context": "         + (106)\n96 M2032 平面、剂面图             "
+      },
+      {
+        "text": "M2049",
+        "page": 12,
+        "source": "ocr",
+        "context": "         (107)\n图 97 M2049 平面、剖面图             "
+      },
+      {
+        "text": "M2055",
+        "page": 12,
+        "source": "ocr",
+        "context": "       + (107)\n图 98 M2055 平面、剖面图             "
+      },
+      {
+        "text": "M3010",
+        "page": 12,
+        "source": "ocr",
+        "context": "       + (108)\n图 99 M3010 °F ii, ATA         "
+      },
+      {
+        "text": "M2047",
+        "page": 12,
+        "source": "ocr",
+        "context": "       + (109)\nA100 M2047 平面、剖面图             "
+      },
+      {
+        "text": "M2054",
+        "page": 12,
+        "source": "ocr",
+        "context": "      + (110)\n图 101 M2054 平面、剖面图             "
+      },
+      {
+        "text": "F102",
+        "page": 12,
+        "source": "ocr",
+        "context": "            * (ill)\nF102 M2192 平面图，         "
+      },
+      {
+        "text": "M2192",
+        "page": 12,
+        "source": "ocr",
+        "context": "       * (ill)\nF102 M2192 平面图，               "
+      },
+      {
+        "text": "M2114",
+        "page": 12,
+        "source": "ocr",
+        "context": "        + (112)\n103 M2114 平面图.               "
+      },
+      {
+        "text": "M2139",
+        "page": 12,
+        "source": "ocr",
+        "context": "        (112)\n图 104 M2139 平面图                "
+      },
+      {
+        "text": "M2211",
+        "page": 12,
+        "source": "ocr",
+        "context": "        (112)\n图 105 M2211 平面、剂面图             "
+      },
+      {
+        "text": "M2018",
+        "page": 12,
+        "source": "ocr",
+        "context": "      + (113)\n图 106”M2018 平面、剖面图…            "
+      },
+      {
+        "text": "M3035",
+        "page": 12,
+        "source": "ocr",
+        "context": "     + (113)\nFA 107 M3035 平面图………             "
+      },
+      {
+        "text": "M3009",
+        "page": 12,
+        "source": "ocr",
+        "context": "        + (114)\n108 M3009 平面、剖面图             "
+      },
+      {
+        "text": "M1014",
+        "page": 13,
+        "source": "ocr",
+        "context": "188)\n(190)\n… (191)\n\nM1014 平面图\n\n"
+      },
+      {
+        "text": "M2099",
+        "page": 15,
+        "source": "ocr",
+        "context": ")\n而型铜镜 〈西山铁矿工\n人型铀镜 (M2099 :2) ee             "
+      },
+      {
+        "text": "M2190",
+        "page": 15,
+        "source": "ocr",
+        "context": "           296)\n(48 M2190)                   "
+      }
+    ],
+    "铜器": [
+      {
+        "text": "铜镜",
+        "page": 4,
+        "source": "ocr",
+        "context": "了判断。书后还附有关于墓莫资料、陶瓷器、铜镜、钱\n币等的统计和发展演变表以及陶瓷器的"
+      },
+      {
+        "text": "环",
+        "page": 7,
+        "source": "ocr",
+        "context": "目  录\n\n第一章”鄂城的地理环境和六朝莫葬的分布\n第一节”鄂城的地理环"
+      },
+      {
+        "text": "环",
+        "page": 7,
+        "source": "ocr",
+        "context": "环境和六朝莫葬的分布\n第一节”鄂城的地理环境与历史沿革\n第二节 发掘经过与幕莫分区"
+      },
+      {
+        "text": "镜",
+        "page": 8,
+        "source": "ocr",
+        "context": "\n(三) #8\n(四) 金银器 -\n二 镜、钱币 …\n(一) &\n(=) 钱币\n\n"
+      },
+      {
+        "text": "铜镜",
+        "page": 9,
+        "source": "ocr",
+        "context": "        (330)\n三”鄂城六朝铜镜的主要特点               "
+      },
+      {
+        "text": "铜镜",
+        "page": 9,
+        "source": "ocr",
+        "context": "胎的理化分析测定表 -\n鄂城六朝莫草出土铜镜分类统计表 …\n鄂城六朝幕其出土铜镜一览"
+      },
+      {
+        "text": "铜镜",
+        "page": 9,
+        "source": "ocr",
+        "context": "出土铜镜分类统计表 …\n鄂城六朝幕其出土铜镜一览表\n10 ”鄂城六朝墓昔出土部分铜镜"
+      },
+      {
+        "text": "铜镜",
+        "page": 9,
+        "source": "ocr",
+        "context": "铜镜一览表\n10 ”鄂城六朝墓昔出土部分铜镜铭文 〈正文中未引用) 一览表\n11 S"
+      },
+      {
+        "text": "饰",
+        "page": 10,
+        "source": "ocr",
+        "context": "-\n排水设施形式示意图 -\n墓夸形制、纹饰示意图\n铜棺钉 让\nM2169 平面、剖"
+      },
+      {
+        "text": "镜",
+        "page": 15,
+        "source": "ocr",
+        "context": "          (oe)\n1    镜 (上田鲁湾排灌站采集:1)      "
+      },
+      {
+        "text": "铜镜",
+        "page": 15,
+        "source": "ocr",
+        "context": "s+ (275)\n++ (276)\n而型铜镜 〈西山铁矿工\n人型铀镜 (M2099 "
+      },
+      {
+        "text": "镜",
+        "page": 15,
+        "source": "ocr",
+        "context": "276)\n而型铜镜 〈西山铁矿工\n人型铀镜 (M2099 :2) ee      "
+      }
+    ],
+    "年代": [
+      {
+        "text": "新石器时代",
+        "page": 4,
+        "source": "ocr",
+        "context": " 〈今湖北省鄂州市)，历史悠久，发现了自新石器时代以来的历\n代遗址和遗物，但以六朝时期的遗"
+      },
+      {
+        "text": "清",
+        "page": 4,
+        "source": "ocr",
+        "context": "的\n就是 1956 ~ 1983 年期间清理发据的 394 座六朝幕葛的资料，期间"
+      },
+      {
+        "text": "清",
+        "page": 4,
+        "source": "ocr",
+        "context": "的资料，期间经过了 5\n次较大规模的发掘清理工作。书中介绍了当时的发掘情况、六朝幕"
+      },
+      {
+        "text": "元",
+        "page": 4,
+        "source": "ocr",
+        "context": "数:658 000\n定 价: 238.0元\n(如有印装质量问题，我社负责调换 〈《"
+      },
+      {
+        "text": "金",
+        "page": 5,
+        "source": "ocr",
+        "context": "间考古学\n科重点项目。并承全国社会科学基金资助研究，以\n及国家文物局、香港柯君恒先"
+      },
+      {
+        "text": "金",
+        "page": 5,
+        "source": "ocr",
+        "context": "港柯君恒先生资助南京大学出版\n文物书籍基金、南京大学考古基金、湖北省文物考\n古研究"
+      },
+      {
+        "text": "金",
+        "page": 5,
+        "source": "ocr",
+        "context": "京大学出版\n文物书籍基金、南京大学考古基金、湖北省文物考\n古研究所、鄂州市博物馆等"
+      },
+      {
+        "text": "明",
+        "page": 8,
+        "source": "ocr",
+        "context": "一) me\n(=) 青瓷器\n二，俑和模型明器\n(一) 傅和家禽家畜模型\n(=) 模"
+      },
+      {
+        "text": "明",
+        "page": 8,
+        "source": "ocr",
+        "context": "\n(一) 傅和家禽家畜模型\n(=) 模型明器 -\n\n第二节 ”金属器.\n一 日用器"
+      },
+      {
+        "text": "金",
+        "page": 8,
+        "source": "ocr",
+        "context": "模型\n(=) 模型明器 -\n\n第二节 ”金属器.\n一 日用器具\n(-) 铜器\n(="
+      },
+      {
+        "text": "金",
+        "page": 8,
+        "source": "ocr",
+        "context": "器\n(=) 铁器\n(三) #8\n(四) 金银器 -\n二 镜、钱币 …\n(一) &\n"
+      },
+      {
+        "text": "东晋",
+        "page": 9,
+        "source": "ocr",
+        "context": "东晋时期幕芋\n(一) REWER (8 AM"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "墓葬",
+        "page": 7,
+        "source": "ocr",
+        "context": "       魏 “4 (115)\n一”墓葬构筑方式的演变与特色 -        "
+      }
+    ],
+    "陶器": [
+      {
+        "text": "环",
+        "page": 7,
+        "source": "ocr",
+        "context": "目  录\n\n第一章”鄂城的地理环境和六朝莫葬的分布\n第一节”鄂城的地理环"
+      },
+      {
+        "text": "环",
+        "page": 7,
+        "source": "ocr",
+        "context": "环境和六朝莫葬的分布\n第一节”鄂城的地理环境与历史沿革\n第二节 发掘经过与幕莫分区"
+      }
+    ],
+    "材质": [
+      {
+        "text": "青瓷",
+        "page": 8,
+        "source": "ocr",
+        "context": "AAS\n\nBam PEA\nBi ”陶器和青瓷器\n一 日用器具 …\n(一) me\n(="
+      },
+      {
+        "text": "青瓷",
+        "page": 8,
+        "source": "ocr",
+        "context": "一 日用器具 …\n(一) me\n(=) 青瓷器\n二，俑和模型明器\n(一) 傅和家禽家"
+      },
+      {
+        "text": "青瓷",
+        "page": 9,
+        "source": "ocr",
+        "context": "吕城六朝墓莫各期的主要特点\n二，鄂城六朝青瓷的主要特点               "
+      },
+      {
+        "text": "青瓷",
+        "page": 9,
+        "source": "ocr",
+        "context": "器胎的理化分析测定表\n5 长江中上游六朝青瓷胎的理化分析测定表\n6\n\n7\n\n8\n\n9"
+      },
+      {
+        "text": "青瓷",
+        "page": 9,
+        "source": "ocr",
+        "context": "\n6\n\n7\n\n8\n\n9\n\n长江中下游六朝青瓷釉的化学组成测定表\n长江下游六朝青瓷胎的"
+      },
+      {
+        "text": "青瓷",
+        "page": 9,
+        "source": "ocr",
+        "context": "六朝青瓷釉的化学组成测定表\n长江下游六朝青瓷胎的理化分析测定表 -\n鄂城六朝莫草出土"
+      },
+      {
+        "text": "青瓷",
+        "page": 9,
+        "source": "ocr",
+        "context": "陶器器形演变示意图\n14”鄂城六朝幕出土青瓷回器形演变示意图\n15”鄂城六朝幕芋出土"
+      }
+    ],
+    "葬具": [
+      {
+        "text": "棺",
+        "page": 10,
+        "source": "ocr",
+        "context": "形式示意图 -\n墓夸形制、纹饰示意图\n铜棺钉 让\nM2169 平面、剖面图\nM21"
+      }
+    ]
+  }
+}

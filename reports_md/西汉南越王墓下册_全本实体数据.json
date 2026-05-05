@@ -1,0 +1,686 @@
+{
+  "name": "西汉南越王墓下册",
+  "file": "西汉南越王墓下册.pdf",
+  "processed_pages": 74,
+  "total_pages": 74,
+  "total_entities": 108,
+  "entity_stats": {
+    "铜器": 42,
+    "金器": 2,
+    "银器": 1,
+    "年代": 6,
+    "陶器": 9,
+    "遗存类型": 1,
+    "探方编号": 1,
+    "铁器": 2,
+    "遗迹编号": 44
+  },
+  "entities": {
+    "铜器": [
+      {
+        "text": "饰",
+        "page": 1,
+        "source": "ocr",
+        "context": "图版二九(XXK)\n\n1. 博局的金饰片(B33               "
+      },
+      {
+        "text": "饰",
+        "page": 2,
+        "source": "ocr",
+        "context": "图版三OUXXXI)\n\n2. 龙首形象牙饰(B99\n\n1. 漆食残盖{B121)\n"
+      },
+      {
+        "text": "饰",
+        "page": 2,
+        "source": "ocr",
+        "context": " 漆食残盖{B121)\n\n4. 定形象牙饰(B117\n\n3. 木傅(B79、B80"
+      },
+      {
+        "text": "镜",
+        "page": 12,
+        "source": "ocr",
+        "context": "(XLI\n\n2. W@(C234)\n\n铀镜\n\npy EE\n\n"
+      },
+      {
+        "text": "镜",
+        "page": 13,
+        "source": "ocr",
+        "context": "图版四一(XLII)\n\n1. 带托镜上的衷绢痕(C231)\n\n2. 带托镜内"
+      },
+      {
+        "text": "镜",
+        "page": 13,
+        "source": "ocr",
+        "context": "托镜上的衷绢痕(C231)\n\n2. 带托镜内的胶潜痕(C231)\n\n4.奸(C17"
+      },
+      {
+        "text": "铜镜",
+        "page": 13,
+        "source": "ocr",
+        "context": "71)\n\n3. 奸(C213)\n\n西耳室铜镜\n"
+      },
+      {
+        "text": "钵",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n\n3. PE(C57)\n\n1. 阳煤与钵形器正面(C187、C189)\n\n2. "
+      },
+      {
+        "text": "钵",
+        "page": 14,
+        "source": "ocr",
+        "context": "面(C187、C189)\n\n2. 阳煤与钵形器背面\n\n5. 算珠形器(C145一5"
+      },
+      {
+        "text": "饰",
+        "page": 21,
+        "source": "ocr",
+        "context": "ff I (C251—8)\n\n西耳室车马饰\n"
+      },
+      {
+        "text": "饰",
+        "page": 22,
+        "source": "ocr",
+        "context": "图版五OIL\n\n4. 车己饰与箭杆等出上情状            "
+      },
+      {
+        "text": "饰",
+        "page": 22,
+        "source": "ocr",
+        "context": "M C1271, CIS\n\n西耳室铜车马饰\n"
+      },
+      {
+        "text": "饰",
+        "page": 23,
+        "source": "ocr",
+        "context": ". 当卢(C251一5)\n\n西耳室铜车马饰\n"
+      },
+      {
+        "text": "饰",
+        "page": 24,
+        "source": "ocr",
+        "context": "图版五二(LI\n\n1.络管饰T1C251一37           "
+      },
+      {
+        "text": "饰",
+        "page": 24,
+        "source": "ocr",
+        "context": "  5. 节约(C235一16\n2.络管饰1 Ml. IV(C251—37)   "
+      },
+      {
+        "text": "饰",
+        "page": 24,
+        "source": "ocr",
+        "context": "    6. 季约{C243\n\n3.络管饰V(C251一41)          "
+      },
+      {
+        "text": "饰",
+        "page": 24,
+        "source": "ocr",
+        "context": "c\n\n节约背面4(C23\n\n西耳室铜车马饰\n"
+      },
+      {
+        "text": "饰",
+        "page": 25,
+        "source": "ocr",
+        "context": "带扣工(C251一39)\n\n西耳室铜车马饰\n"
+      },
+      {
+        "text": "泡",
+        "page": 26,
+        "source": "ocr",
+        "context": "IWF 1 1C251一37\n\n3. 钢泡钉册4C251一48\n2. HALE I"
+      },
+      {
+        "text": "饰",
+        "page": 26,
+        "source": "ocr",
+        "context": " HALE I (C251\n\n5. 贺片饰(C119)\n\n4. 辕头饰(C256)"
+      },
+      {
+        "text": "饰",
+        "page": 26,
+        "source": "ocr",
+        "context": "\n5. 贺片饰(C119)\n\n4. 辕头饰(C256)             O"
+      },
+      {
+        "text": "饰",
+        "page": 26,
+        "source": "ocr",
+        "context": "   O (e)  (@)\n\n西耳室车马饰\n\n"
+      },
+      {
+        "text": "刀",
+        "page": 29,
+        "source": "ocr",
+        "context": " 1 (C121—9)     5. 刻刀[Cl121一6、8、20)      "
+      },
+      {
+        "text": "刀",
+        "page": 29,
+        "source": "ocr",
+        "context": "21一6、8、20)      6. 刻刀(C121一27)\n\nqa EE\n\n7."
+      },
+      {
+        "text": "刀",
+        "page": 29,
+        "source": "ocr",
+        "context": "121一27)\n\nqa EE\n\n7. 铲刀(C121一17)\n\n西耳室铁工具\n"
+      },
+      {
+        "text": "刀",
+        "page": 31,
+        "source": "ocr",
+        "context": "面\n\n5. 1(C121—15\n\n6. 刀柄局部(C145一63、8\n\nBY HE"
+      },
+      {
+        "text": "刀",
+        "page": 32,
+        "source": "ocr",
+        "context": "                7. 弯刀(C121一26\n\n西耳室铁工具\n"
+      },
+      {
+        "text": "鼎",
+        "page": 35,
+        "source": "ocr",
+        "context": "图版六三(LX正)\n\n1.鼎乙I(C263             "
+      },
+      {
+        "text": "饰",
+        "page": 43,
+        "source": "ocr",
+        "context": ", SISK(C147—3\n\n西耳室玉剑饰\n"
+      },
+      {
+        "text": "饰",
+        "page": 44,
+        "source": "ocr",
+        "context": "\n4. DE 147—8)\n\n西耳室玉剑饰\n"
+      },
+      {
+        "text": "饰",
+        "page": 45,
+        "source": "ocr",
+        "context": " Msi C147—12)\n\n西耳室玉剑饰\n"
+      },
+      {
+        "text": "饰",
+        "page": 50,
+        "source": "ocr",
+        "context": "136\n®   和 全     4.金花饰(C261)\n\n3. 金泡(C112\n\n"
+      },
+      {
+        "text": "泡",
+        "page": 50,
+        "source": "ocr",
+        "context": "   4.金花饰(C261)\n\n3. 金泡(C112\n\nj\n5. #UG(C151"
+      },
+      {
+        "text": "饰",
+        "page": 51,
+        "source": "ocr",
+        "context": "5. 玻璃珠(C138)\n\n6. 玻璃牌饰(C178)              "
+      },
+      {
+        "text": "饰",
+        "page": 51,
+        "source": "ocr",
+        "context": "              7. 玻璃牌饰(C180、C181 )\n\n西耳室银、玻"
+      },
+      {
+        "text": "饰",
+        "page": 52,
+        "source": "ocr",
+        "context": "图版人OILNXAXNA\n\n3. 两牌饰问的地物(C178\n\n西咎室玻璃牌饰\n"
+      },
+      {
+        "text": "饰",
+        "page": 52,
+        "source": "ocr",
+        "context": "两牌饰问的地物(C178\n\n西咎室玻璃牌饰\n"
+      },
+      {
+        "text": "环",
+        "page": 59,
+        "source": "ocr",
+        "context": "D48、D100、DI101、\n\n4. 环上丝带残痕\n\n3. 背面\n\n2.正面、\n"
+      },
+      {
+        "text": "饰",
+        "page": 68,
+        "source": "ocr",
+        "context": " (D183 、D134 )\n\n1. 牌饰1D165、D73一1)\n\naoe\n3."
+      },
+      {
+        "text": "带钩",
+        "page": 68,
+        "source": "ocr",
+        "context": "D165、D73一1)\n\naoe\n3. 带钩局部纹饰四中 D153\n\n"
+      },
+      {
+        "text": "饰",
+        "page": 68,
+        "source": "ocr",
+        "context": "D73一1)\n\naoe\n3. 带钩局部纹饰四中 D153\n\n"
+      },
+      {
+        "text": "饰",
+        "page": 74,
+        "source": "ocr",
+        "context": "1)\n\n4. 背面\n\n5. 侧面\n\n=剑饰\n"
+      }
+    ],
+    "金器": [
+      {
+        "text": "金饰",
+        "page": 1,
+        "source": "ocr",
+        "context": "图版二九(XXK)\n\n1. 博局的金饰片(B33               "
+      },
+      {
+        "text": "金泡",
+        "page": 50,
+        "source": "ocr",
+        "context": "    4.金花饰(C261)\n\n3. 金泡(C112\n\nj\n5. #UG(C151"
+      }
+    ],
+    "银器": [
+      {
+        "text": "银片",
+        "page": 1,
+        "source": "ocr",
+        "context": "                  2.银片(B82)\n\n3.玉、水晶六博模子LB7"
+      }
+    ],
+    "年代": [
+      {
+        "text": "金",
+        "page": 1,
+        "source": "ocr",
+        "context": "图版二九(XXK)\n\n1. 博局的金饰片(B33              "
+      },
+      {
+        "text": "金",
+        "page": 50,
+        "source": "ocr",
+        "context": "(C136\n®   和 全     4.金花饰(C261)\n\n3. 金泡(C112"
+      },
+      {
+        "text": "金",
+        "page": 50,
+        "source": "ocr",
+        "context": "    4.金花饰(C261)\n\n3. 金泡(C112\n\nj\n5. #UG(C15"
+      },
+      {
+        "text": "金",
+        "page": 50,
+        "source": "ocr",
+        "context": "           : i,\n\n6. 金管/C254一2、3\n\n西耳室金、银器\n"
+      },
+      {
+        "text": "金",
+        "page": 50,
+        "source": "ocr",
+        "context": "\n6. 金管/C254一2、3\n\n西耳室金、银器\n"
+      },
+      {
+        "text": "清",
+        "page": 58,
+        "source": "ocr",
+        "context": ". 部分器物出十情形\n\n3. 考古人员在清理玉胡\n\nEAS 45 Ac aE SE"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "钵",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n\n3. PE(C57)\n\n1. 阳煤与钵形器正面(C187、C189)\n\n2. "
+      },
+      {
+        "text": "钵",
+        "page": 14,
+        "source": "ocr",
+        "context": "面(C187、C189)\n\n2. 阳煤与钵形器背面\n\n5. 算珠形器(C145一5"
+      },
+      {
+        "text": "刀",
+        "page": 29,
+        "source": "ocr",
+        "context": " 1 (C121—9)     5. 刻刀[Cl121一6、8、20)      "
+      },
+      {
+        "text": "刀",
+        "page": 29,
+        "source": "ocr",
+        "context": "21一6、8、20)      6. 刻刀(C121一27)\n\nqa EE\n\n7."
+      },
+      {
+        "text": "刀",
+        "page": 29,
+        "source": "ocr",
+        "context": "121一27)\n\nqa EE\n\n7. 铲刀(C121一17)\n\n西耳室铁工具\n"
+      },
+      {
+        "text": "刀",
+        "page": 31,
+        "source": "ocr",
+        "context": "面\n\n5. 1(C121—15\n\n6. 刀柄局部(C145一63、8\n\nBY HE"
+      },
+      {
+        "text": "刀",
+        "page": 32,
+        "source": "ocr",
+        "context": "                7. 弯刀(C121一26\n\n西耳室铁工具\n"
+      },
+      {
+        "text": "鼎",
+        "page": 35,
+        "source": "ocr",
+        "context": "图版六三(LX正)\n\n1.鼎乙I(C263             "
+      },
+      {
+        "text": "环",
+        "page": 59,
+        "source": "ocr",
+        "context": "D48、D100、DI101、\n\n4. 环上丝带残痕\n\n3. 背面\n\n2.正面、\n"
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "竹简",
+        "page": 18,
+        "source": "ocr",
+        "context": "1)\n\n2. 稍杆(C252)\n\n3. 竹简残片(C252)\n\n西耳室器物\n"
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T1C",
+        "page": 24,
+        "source": "ocr",
+        "context": "图版五二(LI\n\n1.络管饰T1C251一37              "
+      }
+    ],
+    "铁器": [
+      {
+        "text": "铁铠甲",
+        "page": 33,
+        "source": "ocr",
+        "context": " 正面(C233\n\n2. 背面\n\n西耳室铁铠甲\n\n"
+      },
+      {
+        "text": "铁铠甲",
+        "page": 34,
+        "source": "ocr",
+        "context": "2. 内视\n\n2\n\n1.铁铠甲内视(C233\n\n图版六二(LXTI\n\n"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "D131",
+        "page": 59,
+        "source": "ocr",
+        "context": "图版人七(LLXXXWMI\n\nD131、D132)\n\n1. 外樟钢铺首!1D3"
+      },
+      {
+        "text": "D132",
+        "page": 59,
+        "source": "ocr",
+        "context": "图版人七(LLXXXWMI\n\nD131、D132)\n\n1. 外樟钢铺首!1D3、D48、"
+      },
+      {
+        "text": "D48",
+        "page": 59,
+        "source": "ocr",
+        "context": "D132)\n\n1. 外樟钢铺首!1D3、D48、D100、DI101、\n\n4. 环上丝"
+      },
+      {
+        "text": "D100",
+        "page": 59,
+        "source": "ocr",
+        "context": ")\n\n1. 外樟钢铺首!1D3、D48、D100、DI101、\n\n4. 环上丝带残痕\n\n"
+      },
+      {
+        "text": "D50",
+        "page": 62,
+        "source": "ocr",
+        "context": "e PARA EAE\n\n2\n\n玉胡正面(D50)\n\ni,\n\n上情况\n\nfH\n"
+      },
+      {
+        "text": "D195",
+        "page": 65,
+        "source": "ocr",
+        "context": " IL=( X Cll)\n\n2. #%(D195)\n\n1, &(D178+D177)\n\n"
+      },
+      {
+        "text": "D178",
+        "page": 65,
+        "source": "ocr",
+        "context": "\n\n2. #%(D195)\n\n1, &(D178+D177)\n\nNe SA\n\n3. % "
+      },
+      {
+        "text": "D177",
+        "page": 65,
+        "source": "ocr",
+        "context": "#%(D195)\n\n1, &(D178+D177)\n\nNe SA\n\n3. % I O(D"
+      },
+      {
+        "text": "D21",
+        "page": 65,
+        "source": "ocr",
+        "context": "7)\n\nNe SA\n\n3. % I O(D21)              4. MI"
+      },
+      {
+        "text": "D21",
+        "page": 65,
+        "source": "ocr",
+        "context": "          4. MID, @(D21, D41)           5. "
+      },
+      {
+        "text": "D41",
+        "page": 65,
+        "source": "ocr",
+        "context": "     4. MID, @(D21, D41)           5. # Il "
+      },
+      {
+        "text": "D21",
+        "page": 65,
+        "source": "ocr",
+        "context": "          5. # Il @(D21 , D126)\n\n6. #MM@(D2"
+      },
+      {
+        "text": "D126",
+        "page": 65,
+        "source": "ocr",
+        "context": "    5. # Il @(D21 , D126)\n\n6. #MM@(D21, D126"
+      },
+      {
+        "text": "D21",
+        "page": 65,
+        "source": "ocr",
+        "context": "21 , D126)\n\n6. #MM@(D21, D126)             "
+      },
+      {
+        "text": "D126",
+        "page": 65,
+        "source": "ocr",
+        "context": "D126)\n\n6. #MM@(D21, D126)                   "
+      },
+      {
+        "text": "D211",
+        "page": 65,
+        "source": "ocr",
+        "context": "             7. FF (D211)\n\n3\n"
+      },
+      {
+        "text": "D108",
+        "page": 66,
+        "source": "ocr",
+        "context": "图版九四(XCT)\n\n1. | (D108, D128\n\n2. I (D113)\n"
+      },
+      {
+        "text": "D128",
+        "page": 66,
+        "source": "ocr",
+        "context": "四(XCT)\n\n1. | (D108, D128\n\n2. I (D113)\n\n3. (D"
+      },
+      {
+        "text": "D113",
+        "page": 66,
+        "source": "ocr",
+        "context": " (D108, D128\n\n2. I (D113)\n\n3. (D109, D200\n\n"
+      },
+      {
+        "text": "D109",
+        "page": 66,
+        "source": "ocr",
+        "context": "8\n\n2. I (D113)\n\n3. (D109, D200\n\n"
+      },
+      {
+        "text": "D200",
+        "page": 66,
+        "source": "ocr",
+        "context": "I (D113)\n\n3. (D109, D200\n\n"
+      },
+      {
+        "text": "D14",
+        "page": 67,
+        "source": "ocr",
+        "context": "XCV )\n\nMt\n\n2. ff 1 (D14, D10)              "
+      },
+      {
+        "text": "D10",
+        "page": 67,
+        "source": "ocr",
+        "context": "\n\nMt\n\n2. ff 1 (D14, D10)                 3."
+      },
+      {
+        "text": "D9",
+        "page": 67,
+        "source": "ocr",
+        "context": "  3. Hdl ake 3 HiT (D9)\n\n1. Hd 44% ( D5)\n\n"
+      },
+      {
+        "text": "D5",
+        "page": 67,
+        "source": "ocr",
+        "context": "T (D9)\n\n1. Hd 44% ( D5)\n\n4. Hd #E(D38 )\n\n5"
+      },
+      {
+        "text": "D38",
+        "page": 67,
+        "source": "ocr",
+        "context": "44% ( D5)\n\n4. Hd #E(D38 )\n\n5. #7 [1 (D117, "
+      },
+      {
+        "text": "D117",
+        "page": 67,
+        "source": "ocr",
+        "context": "#E(D38 )\n\n5. #7 [1 (D117, D135)\n\n6. PRAIA (D"
+      },
+      {
+        "text": "D135",
+        "page": 67,
+        "source": "ocr",
+        "context": " )\n\n5. #7 [1 (D117, D135)\n\n6. PRAIA (D196. D"
+      },
+      {
+        "text": "D196",
+        "page": 67,
+        "source": "ocr",
+        "context": "7, D135)\n\n6. PRAIA (D196. D204)             "
+      },
+      {
+        "text": "D204",
+        "page": 67,
+        "source": "ocr",
+        "context": "5)\n\n6. PRAIA (D196. D204)                   "
+      },
+      {
+        "text": "D183",
+        "page": 68,
+        "source": "ocr",
+        "context": "XCWVTD)\n\n2.484 1 1 (D183 、D134 )\n\n1. 牌饰1D165"
+      },
+      {
+        "text": "D134",
+        "page": 68,
+        "source": "ocr",
+        "context": ")\n\n2.484 1 1 (D183 、D134 )\n\n1. 牌饰1D165、D73一1"
+      },
+      {
+        "text": "D153",
+        "page": 68,
+        "source": "ocr",
+        "context": "1)\n\naoe\n3. 带钩局部纹饰四中 D153\n\n"
+      },
+      {
+        "text": "D90",
+        "page": 70,
+        "source": "ocr",
+        "context": "FU IL X CM)\n\n1.(D90)\n\nD89)\n\n2\n\n(D141)\n\n"
+      },
+      {
+        "text": "D89",
+        "page": 70,
+        "source": "ocr",
+        "context": " IL X CM)\n\n1.(D90)\n\nD89)\n\n2\n\n(D141)\n\n3.\n\n5."
+      },
+      {
+        "text": "D141",
+        "page": 70,
+        "source": "ocr",
+        "context": "\n1.(D90)\n\nD89)\n\n2\n\n(D141)\n\n3.\n\n5. 鞘上针线花纹(D91"
+      },
+      {
+        "text": "D91",
+        "page": 70,
+        "source": "ocr",
+        "context": "141)\n\n3.\n\n5. 鞘上针线花纹(D91\n\n置![D145\n\nVe\n\n4. 纳域"
+      },
+      {
+        "text": "D145",
+        "page": 70,
+        "source": "ocr",
+        "context": "\n\n5. 鞘上针线花纹(D91\n\n置![D145\n\nVe\n\n4. 纳域位\n\nDUA AE"
+      },
+      {
+        "text": "D147",
+        "page": 71,
+        "source": "ocr",
+        "context": "图版九九(XCK )\n\n1.(D147) i\n\n2. 正面(D89)\n\n3. "
+      },
+      {
+        "text": "D89",
+        "page": 71,
+        "source": "ocr",
+        "context": "\n\n1.(D147) i\n\n2. 正面(D89)\n\n3. 背面\n\n"
+      },
+      {
+        "text": "D90",
+        "page": 72,
+        "source": "ocr",
+        "context": "图版一OOIC)\n\n3. (D90!\n\n4. (D141)\n\nFFE ER"
+      },
+      {
+        "text": "D141",
+        "page": 72,
+        "source": "ocr",
+        "context": "OIC)\n\n3. (D90!\n\n4. (D141)\n\nFFE ER SY EB 24 H"
+      },
+      {
+        "text": "S177",
+        "page": 73,
+        "source": "ocr",
+        "context": "KR -O—(C 1)\n\n1. S177 (D90- 2            "
+      },
+      {
+        "text": "D90",
+        "page": 73,
+        "source": "ocr",
+        "context": " -O—(C 1)\n\n1. S177 (D90- 2                 "
+      }
+    ]
+  }
+}

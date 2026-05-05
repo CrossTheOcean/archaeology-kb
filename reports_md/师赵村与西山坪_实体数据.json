@@ -1,0 +1,1197 @@
+{
+  "name": "师赵村与西山坪",
+  "file": "师赵村与西山坪.pdf",
+  "era": "新石器",
+  "culture": "仰韶-马家窑",
+  "processed_pages": 15,
+  "total_entities": 192,
+  "entity_stats": {
+    "遗址名称": 91,
+    "遗迹编号": 31,
+    "年代": 12,
+    "层位关系": 2,
+    "铜器": 15,
+    "遗迹类型": 24,
+    "遗存类型": 1,
+    "探方编号": 6,
+    "陶器": 7,
+    "石器": 2,
+    "纹饰": 1
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "师赵村",
+        "page": 2,
+        "source": "ocr",
+        "context": "古报告集\n考十学专刊\n丁种第五十三号\n\n师赵村与西山坪\n\n中国社会科学院考古研究所 编"
+      },
+      {
+        "text": "西山坪",
+        "page": 2,
+        "source": "ocr",
+        "context": "\n考十学专刊\n丁种第五十三号\n\n师赵村与西山坪\n\n中国社会科学院考古研究所 编著\n\n中"
+      },
+      {
+        "text": "师赵村",
+        "page": 4,
+        "source": "ocr",
+        "context": "史前时期诸多文化顺存，有大地湾一期文化，师赵村第一期\n《新文化遗存)、第二期《半坡类型"
+      },
+      {
+        "text": "师赵村",
+        "page": 4,
+        "source": "ocr",
+        "context": "意义，\n\n图书在版编目〈CIP) 数据\n师赵村与西山坪/中国社会科学院考古研究所编著，"
+      },
+      {
+        "text": "西山坪",
+        "page": 4,
+        "source": "ocr",
+        "context": "\n图书在版编目〈CIP) 数据\n师赵村与西山坪/中国社会科学院考古研究所编著，一北京:"
+      },
+      {
+        "text": "师赵村",
+        "page": 6,
+        "source": "ocr",
+        "context": "专家推荐意见\n\n有《师赵村与西山坪》一书, 全面报告了我所甘青队在"
+      },
+      {
+        "text": "西山坪",
+        "page": 6,
+        "source": "ocr",
+        "context": "专家推荐意见\n\n有《师赵村与西山坪》一书, 全面报告了我所甘青队在这两个地"
+      },
+      {
+        "text": "师赵村",
+        "page": 6,
+        "source": "ocr",
+        "context": "距今 3000 年\n考古文化的发展历程。师赵村一期文化是首次确认的一种新石器时代文化中"
+      },
+      {
+        "text": "师赵村",
+        "page": 6,
+        "source": "ocr",
+        "context": "化中存，而师赵\n村遗址的大地湾一期文化与师赵村一期文化遗存的登压关系,则确定了二者的年"
+      },
+      {
+        "text": "西山坪",
+        "page": 6,
+        "source": "ocr",
+        "context": "多是第一次发现，具有重要的学术价值。如\n西山坪的大地湾一期文化遗存，是甘肃地区继秦安大"
+      },
+      {
+        "text": "师赵村",
+        "page": 6,
+        "source": "ocr",
+        "context": "湾以后的第二处同类过存， 这两\n个遗址的师赵村一期文化遗存，是甘肃地区的首次发现; 师"
+      },
+      {
+        "text": "师赵村",
+        "page": 6,
+        "source": "ocr",
+        "context": "村一期文化遗存，是甘肃地区的首次发现; 师赵村的大地湾一期文化与师\n赵村-一期文化遗存"
+      },
+      {
+        "text": "师赵村",
+        "page": 6,
+        "source": "ocr",
+        "context": "\n《印赵村与西由坪》是我所甘青队对天水市师赵村和西山坪两处各址的大量发掘资\n料，经系统"
+      },
+      {
+        "text": "西山坪",
+        "page": 6,
+        "source": "ocr",
+        "context": "村与西由坪》是我所甘青队对天水市师赵村和西山坪两处各址的大量发掘资\n料，经系统整理后编"
+      },
+      {
+        "text": "师赵村",
+        "page": 7,
+        "source": "ocr",
+        "context": "Wh Lt\n\n六\n\n师赵村遗址 …\n地理位置与工作概况 -\n发据区"
+      },
+      {
+        "text": "师赵村",
+        "page": 9,
+        "source": "ocr",
+        "context": "253)\n\n3，装饰品及其它遗物\n中 ”师赵村一期文化遗存\n\n(=) i er\n1. "
+      },
+      {
+        "text": "师赵村",
+        "page": 10,
+        "source": "ocr",
+        "context": " MRA Mat | KRHBAR\n7 师赵村遗址站区幕藉登记表 …\nKS 西山坪遗址"
+      },
+      {
+        "text": "西山坪",
+        "page": 10,
+        "source": "ocr",
+        "context": "7 师赵村遗址站区幕藉登记表 …\nKS 西山坪遗址房址登记表…\n表9 AUP REAR"
+      },
+      {
+        "text": "师赵村",
+        "page": 10,
+        "source": "ocr",
+        "context": "          (326)\n#12 师赵村与西山坪遗址石关质料鉴定表 ……    "
+      },
+      {
+        "text": "西山坪",
+        "page": 10,
+        "source": "ocr",
+        "context": "      (326)\n#12 师赵村与西山坪遗址石关质料鉴定表 ……        "
+      },
+      {
+        "text": "师赵村",
+        "page": 10,
+        "source": "ocr",
+        "context": "       … (327)\n表13  师赵村与西山坪人骨性别、 年龄鉴定表 sev "
+      },
+      {
+        "text": "西山坪",
+        "page": 10,
+        "source": "ocr",
+        "context": "   … (327)\n表13  师赵村与西山坪人骨性别、 年龄鉴定表 sev ssec"
+      },
+      {
+        "text": "师赵村",
+        "page": 12,
+        "source": "ocr",
+        "context": "10\n\n插图目录\n\n师赵村与西山坪污址位置图\nWBA MHRA R"
+      },
+      {
+        "text": "西山坪",
+        "page": 12,
+        "source": "ocr",
+        "context": "10\n\n插图目录\n\n师赵村与西山坪污址位置图\nWBA MHRA RA …\n"
+      },
+      {
+        "text": "师赵村",
+        "page": 12,
+        "source": "ocr",
+        "context": "污址位置图\nWBA MHRA RA …\n师赵村 1 区遗迹分布图\n师赵村下区遗迹分布图"
+      },
+      {
+        "text": "师赵村",
+        "page": 12,
+        "source": "ocr",
+        "context": "A RA …\n师赵村 1 区遗迹分布图\n师赵村下区遗迹分布图\n师赵村本区遗迹分布图 …"
+      },
+      {
+        "text": "师赵村",
+        "page": 12,
+        "source": "ocr",
+        "context": "1 区遗迹分布图\n师赵村下区遗迹分布图\n师赵村本区遗迹分布图 …\n师赵村探方 (T13"
+      },
+      {
+        "text": "师赵村",
+        "page": 12,
+        "source": "ocr",
+        "context": "区遗迹分布图\n师赵村本区遗迹分布图 …\n师赵村探方 (T13、TI4、T15) 北壁剖"
+      },
+      {
+        "text": "师赵村",
+        "page": 12,
+        "source": "ocr",
+        "context": "(T13、TI4、T15) 北壁剖面图\n师赵村探方 (T360、T381、T382)》"
+      },
+      {
+        "text": "师赵村",
+        "page": 12,
+        "source": "ocr",
+        "context": "60、T381、T382)》 RSNA\n师赵村探方《T301》 南区剖面图 eee\nW"
+      },
+      {
+        "text": "师赵村",
+        "page": 12,
+        "source": "ocr",
+        "context": "ee\nWAR CLH32) 平、训面图\n师赵村一期石器 …       站\n师赵村一期"
+      },
+      {
+        "text": "师赵村",
+        "page": 12,
+        "source": "ocr",
+        "context": "图\n师赵村一期石器 …       站\n师赵村一期陶器 oooeooooooooyoo"
+      },
+      {
+        "text": "师赵村",
+        "page": 12,
+        "source": "ocr",
+        "context": "ovsovooosoeoyoooro，\n师赵村二期房址 (F31) 平、剖面及复原图 "
+      },
+      {
+        "text": "师赵村",
+        "page": 12,
+        "source": "ocr",
+        "context": "             + (22)\n师赵村二期寄穴〈1 H1) 平、削面图    "
+      },
+      {
+        "text": "师赵村",
+        "page": 12,
+        "source": "ocr",
+        "context": "剖面图 …\n(1H3) ¥. WHA\n\n师赵村四期房址 CF 28) 平、\n"
+      },
+      {
+        "text": "师赵村",
+        "page": 13,
+        "source": "ocr",
+        "context": "\nMRAM SH FD 平、齐面图 …\n师赵村四期隐窗〈 1Y2) 平、剖面图\n师赵村"
+      },
+      {
+        "text": "师赵村",
+        "page": 13,
+        "source": "ocr",
+        "context": "师赵村四期隐窗〈 1Y2) 平、剖面图\n师赵村四期窖穴(EL HI F, Aa\nMAA"
+      },
+      {
+        "text": "师赵村",
+        "page": 13,
+        "source": "ocr",
+        "context": "Me CIM) 平、齐面及器物组合图…\n师赵村站期墓闲〈&M5》平、削面及器物组合图…"
+      },
+      {
+        "text": "师赵村",
+        "page": 13,
+        "source": "ocr",
+        "context": "n reese\nMRABWA. A …\n师赵村四期石、隐器 …\n师赵村四期石、骨、奖器"
+      },
+      {
+        "text": "师赵村",
+        "page": 13,
+        "source": "ocr",
+        "context": "WA. A …\n师赵村四期石、隐器 …\n师赵村四期石、骨、奖器\n师赵村四期陶器 …\n师"
+      },
+      {
+        "text": "师赵村",
+        "page": 13,
+        "source": "ocr",
+        "context": "期石、隐器 …\n师赵村四期石、骨、奖器\n师赵村四期陶器 …\n师赵村四期陶器\n师赵村四期"
+      },
+      {
+        "text": "师赵村",
+        "page": 13,
+        "source": "ocr",
+        "context": "村四期石、骨、奖器\n师赵村四期陶器 …\n师赵村四期陶器\n师赵村四期彩聊片 “\n师赵村四"
+      },
+      {
+        "text": "师赵村",
+        "page": 13,
+        "source": "ocr",
+        "context": "器\n师赵村四期陶器 …\n师赵村四期陶器\n师赵村四期彩聊片 “\n师赵村四期陶器\n师赵村四"
+      },
+      {
+        "text": "师赵村",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n师赵村四期陶器\n师赵村四期彩聊片 “\n师赵村四期陶器\n师赵村四期陶环 wowooro"
+      },
+      {
+        "text": "师赵村",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n师赵村四期彩聊片 “\n师赵村四期陶器\n师赵村四期陶环 wowoororyronoor"
+      },
+      {
+        "text": "师赵村",
+        "page": 13,
+        "source": "ocr",
+        "context": "yronoorooeooronoooo\n师赵村五期房址 (F30) 平、齐面图及复原图"
+      },
+      {
+        "text": "师赵村",
+        "page": 13,
+        "source": "ocr",
+        "context": "期房址 (F30) 平、齐面图及复原图\n师赵村五期房址 (F34) 平. 剖面图\nRA"
+      },
+      {
+        "text": "师赵村",
+        "page": 13,
+        "source": "ocr",
+        "context": "图\nRA ARB FSS) OF. A\n师赵村五期房址 (F29) 平、剂面图\nMRA"
+      },
+      {
+        "text": "师赵村",
+        "page": 13,
+        "source": "ocr",
+        "context": "AM CLH6. 1H?) 平、剖面图\n师赵村五期容穴 (LIH4、1IH6)》 平、"
+      },
+      {
+        "text": "师赵村",
+        "page": 13,
+        "source": "ocr",
+        "context": " (LIH4、1IH6)》 平、剖面图\n师赵村五期窗穴 (1H8、IH5》平、训面图\n"
+      },
+      {
+        "text": "师赵村",
+        "page": 13,
+        "source": "ocr",
+        "context": "五期窗穴 (1H8、IH5》平、训面图\n师赵村五期冤穴 (IH3、IH4》平、剖面图\n"
+      },
+      {
+        "text": "师赵村",
+        "page": 13,
+        "source": "ocr",
+        "context": "五期冤穴 (IH3、IH4》平、剖面图\n师赵村五期祭祠遗迹平、前面图\nWRALMAF "
+      },
+      {
+        "text": "师赵村",
+        "page": 13,
+        "source": "ocr",
+        "context": "LMAF -\nHARM -\neRe …\n师赵村五期石刀\nTRA AWA A +\nWA "
+      },
+      {
+        "text": "师赵村",
+        "page": 13,
+        "source": "ocr",
+        "context": "A +\nWA AMA\nWA EAR “\n师赵村五期石、陶纺轮\nMRARBA. AR …"
+      },
+      {
+        "text": "师赵村",
+        "page": 13,
+        "source": "ocr",
+        "context": "期石、陶纺轮\nMRARBA. AR …\n师赵村五期石、骨、牙器\n师赵村五期陶刀 bee"
+      },
+      {
+        "text": "师赵村",
+        "page": 13,
+        "source": "ocr",
+        "context": "A. AR …\n师赵村五期石、骨、牙器\n师赵村五期陶刀 bee eeeee\n\n"
+      },
+      {
+        "text": "师赵村",
+        "page": 14,
+        "source": "ocr",
+        "context": "            … (108)\n师赵村五期陶盘                "
+      },
+      {
+        "text": "师赵村",
+        "page": 14,
+        "source": "ocr",
+        "context": "             《112)\n\n师赵村五期陶冉                "
+      },
+      {
+        "text": "师赵村",
+        "page": 14,
+        "source": "ocr",
+        "context": "           “+ (113)\n师赵村五期彩陶器               "
+      },
+      {
+        "text": "师赵村",
+        "page": 14,
+        "source": "ocr",
+        "context": "              (120)\n师赵村五期石、陶环              "
+      },
+      {
+        "text": "师赵村",
+        "page": 14,
+        "source": "ocr",
+        "context": "              《122)\n师赵村五期石、骨科              "
+      },
+      {
+        "text": "师赵村",
+        "page": 14,
+        "source": "ocr",
+        "context": "            - (132)\n师赵村六期幕莫《EM2) %, WB     "
+      },
+      {
+        "text": "师赵村",
+        "page": 14,
+        "source": "ocr",
+        "context": "            + (135)\n师赵村六期墓昔《EM7) FF. BYDBPD"
+      },
+      {
+        "text": "师赵村",
+        "page": 14,
+        "source": "ocr",
+        "context": "            * (137)\n师赵村六期石器 ……             "
+      },
+      {
+        "text": "师赵村",
+        "page": 14,
+        "source": "ocr",
+        "context": "              (140》\n师赵村六期石、骨器 -            "
+      },
+      {
+        "text": "师赵村",
+        "page": 14,
+        "source": "ocr",
+        "context": "            * (143)\n师赵村六期陶器 ，              "
+      },
+      {
+        "text": "师赵村",
+        "page": 14,
+        "source": "ocr",
+        "context": "              (149)\n师赵村六期石、牙、陶器 ………        "
+      },
+      {
+        "text": "师赵村",
+        "page": 14,
+        "source": "ocr",
+        "context": "              《150)\n师赵村七期房址 FO). WHA …     "
+      },
+      {
+        "text": "师赵村",
+        "page": 15,
+        "source": "ocr",
+        "context": "senseessseee (154)\n\n师赵村七期房址 (F2) 平、剖面图 …   "
+      },
+      {
+        "text": "师赵村",
+        "page": 15,
+        "source": "ocr",
+        "context": "            + (155)\n师赵村七期房址 CF?) ¥%. WA    "
+      },
+      {
+        "text": "师赵村",
+        "page": 15,
+        "source": "ocr",
+        "context": "              (155)\n师赵村七期房址 Fs) 平、剂面图      "
+      },
+      {
+        "text": "师赵村",
+        "page": 15,
+        "source": "ocr",
+        "context": "              (156)\n师赵村七期房址 FS) F. WHR …   "
+      },
+      {
+        "text": "师赵村",
+        "page": 15,
+        "source": "ocr",
+        "context": "              (157)\n师赵村七期房址 (F10) 平、齐面图    "
+      },
+      {
+        "text": "师赵村",
+        "page": 15,
+        "source": "ocr",
+        "context": "              (157)\n师赵村七期房址 (Fl11) 平、剖面图   "
+      },
+      {
+        "text": "师赵村",
+        "page": 15,
+        "source": "ocr",
+        "context": "            ” (158)\n师赵村七期房址 (F12) FF. WA   "
+      },
+      {
+        "text": "师赵村",
+        "page": 15,
+        "source": "ocr",
+        "context": "            + (159)\n师赵村七期房址 (F16) F. Ww    "
+      },
+      {
+        "text": "师赵村",
+        "page": 15,
+        "source": "ocr",
+        "context": "            + (160)\n师赵村七期房址 (F17) OF,      "
+      },
+      {
+        "text": "师赵村",
+        "page": 15,
+        "source": "ocr",
+        "context": "            - (160)\n师赵村七期房址 (F19) F. Ame   "
+      },
+      {
+        "text": "师赵村",
+        "page": 15,
+        "source": "ocr",
+        "context": "              (161?\n师赵村七期房直 (F20) 3%.      "
+      },
+      {
+        "text": "师赵村",
+        "page": 15,
+        "source": "ocr",
+        "context": "              (161)\n师赵村七期房址 (F22) 4. WA …  "
+      },
+      {
+        "text": "师赵村",
+        "page": 15,
+        "source": "ocr",
+        "context": "            … 《162)\n师赵村七期房址 (F23) 平、剂面图    "
+      },
+      {
+        "text": "师赵村",
+        "page": 15,
+        "source": "ocr",
+        "context": "            + (163)\n师赵村七期房址 (F24) 平、剖面图    "
+      },
+      {
+        "text": "师赵村",
+        "page": 15,
+        "source": "ocr",
+        "context": "            + (164)\n师赵村七期房址 (F26) ¥. HB    "
+      },
+      {
+        "text": "师赵村",
+        "page": 15,
+        "source": "ocr",
+        "context": "            * (165)\n师赵村七期房址 (F21) OF, A …  "
+      },
+      {
+        "text": "师赵村",
+        "page": 15,
+        "source": "ocr",
+        "context": "            - (166)\n师赵村七期陶窗〈Y5) OF. AS     "
+      },
+      {
+        "text": "师赵村",
+        "page": 15,
+        "source": "ocr",
+        "context": "            + (169)\n师赵村七期窒穴〈《EH22、IH5) 平、前面"
+      },
+      {
+        "text": "师赵村",
+        "page": 15,
+        "source": "ocr",
+        "context": "物组合名          (172)\n师赵村七期幕章〈EM8》平、前面及器物组合图 "
+      },
+      {
+        "text": "师赵村",
+        "page": 15,
+        "source": "ocr",
+        "context": "              《177)\n师赵村七期石估“               "
+      },
+      {
+        "text": "师赵村",
+        "page": 15,
+        "source": "ocr",
+        "context": "              《178)\n师赵村七期石器 ，              "
+      },
+      {
+        "text": "师赵村",
+        "page": 15,
+        "source": "ocr",
+        "context": "              (179)\n师赵村七期石器 ，              "
+      },
+      {
+        "text": "师赵村",
+        "page": 15,
+        "source": "ocr",
+        "context": "      (183)\n\n(184)\n\n师赵村七期石刀 -\n"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "K878",
+        "page": 4,
+        "source": "ocr",
+        "context": "T. 中 了,文化遗进一考古一甘肃 有.K878\n中国版本图书馆 CIP 数据核字 (1"
+      },
+      {
+        "text": "T13",
+        "page": 12,
+        "source": "ocr",
+        "context": "师赵村本区遗迹分布图 …\n师赵村探方 (T13、TI4、T15) 北壁剖面图\n师赵村探"
+      },
+      {
+        "text": "T15",
+        "page": 12,
+        "source": "ocr",
+        "context": "布图 …\n师赵村探方 (T13、TI4、T15) 北壁剖面图\n师赵村探方 (T360、"
+      },
+      {
+        "text": "T360",
+        "page": 12,
+        "source": "ocr",
+        "context": "4、T15) 北壁剖面图\n师赵村探方 (T360、T381、T382)》 RSNA\n师赵"
+      },
+      {
+        "text": "T381",
+        "page": 12,
+        "source": "ocr",
+        "context": ") 北壁剖面图\n师赵村探方 (T360、T381、T382)》 RSNA\n师赵村探方《T"
+      },
+      {
+        "text": "T382",
+        "page": 12,
+        "source": "ocr",
+        "context": "面图\n师赵村探方 (T360、T381、T382)》 RSNA\n师赵村探方《T301》 "
+      },
+      {
+        "text": "T301",
+        "page": 12,
+        "source": "ocr",
+        "context": "1、T382)》 RSNA\n师赵村探方《T301》 南区剖面图 eee\nWAR CLH3"
+      },
+      {
+        "text": "F31",
+        "page": 12,
+        "source": "ocr",
+        "context": "oeoyoooro，\n师赵村二期房址 (F31) 平、剖面及复原图 ……       "
+      },
+      {
+        "text": "H1",
+        "page": 12,
+        "source": "ocr",
+        "context": "   + (22)\n师赵村二期寄穴〈1 H1) 平、削面图             "
+      },
+      {
+        "text": "P36",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n+ C17)\n* 49)\n\nBok (P36) ¥. WHA\nBa (F32) F."
+      },
+      {
+        "text": "F32",
+        "page": 12,
+        "source": "ocr",
+        "context": "ok (P36) ¥. WHA\nBa (F32) F. A\n《Y1) 平、剖面图 …\n"
+      },
+      {
+        "text": "Y1",
+        "page": 12,
+        "source": "ocr",
+        "context": " WHA\nBa (F32) F. A\n《Y1) 平、剖面图 …\n(1H3) ¥. W"
+      },
+      {
+        "text": "M5",
+        "page": 13,
+        "source": "ocr",
+        "context": "、齐面及器物组合图…\n师赵村站期墓闲〈&M5》平、削面及器物组合图…\nOR ROR "
+      },
+      {
+        "text": "M7",
+        "page": 13,
+        "source": "ocr",
+        "context": "物组合图…\nOR ROR SAE 〈I M7) 平、前面图\nWX AY PI FG "
+      },
+      {
+        "text": "F30",
+        "page": 13,
+        "source": "ocr",
+        "context": "eooronoooo\n师赵村五期房址 (F30) 平、齐面图及复原图\n师赵村五期房址 "
+      },
+      {
+        "text": "F34",
+        "page": 13,
+        "source": "ocr",
+        "context": " 平、齐面图及复原图\n师赵村五期房址 (F34) 平. 剖面图\nRA ARB FSS)"
+      },
+      {
+        "text": "F29",
+        "page": 13,
+        "source": "ocr",
+        "context": "FSS) OF. A\n师赵村五期房址 (F29) 平、剂面图\nMRAM CYS) F."
+      },
+      {
+        "text": "F2",
+        "page": 15,
+        "source": "ocr",
+        "context": "eee (154)\n\n师赵村七期房址 (F2) 平、剖面图 …           "
+      },
+      {
+        "text": "F10",
+        "page": 15,
+        "source": "ocr",
+        "context": "     (157)\n师赵村七期房址 (F10) 平、齐面图             "
+      },
+      {
+        "text": "F12",
+        "page": 15,
+        "source": "ocr",
+        "context": "   ” (158)\n师赵村七期房址 (F12) FF. WA            "
+      },
+      {
+        "text": "F13",
+        "page": 15,
+        "source": "ocr",
+        "context": "   《158)\nWMA CH AL 〈F13) 平、麟面图             "
+      },
+      {
+        "text": "F16",
+        "page": 15,
+        "source": "ocr",
+        "context": "   + (159)\n师赵村七期房址 (F16) F. Ww             "
+      },
+      {
+        "text": "F17",
+        "page": 15,
+        "source": "ocr",
+        "context": "   + (160)\n师赵村七期房址 (F17) OF,               "
+      },
+      {
+        "text": "F19",
+        "page": 15,
+        "source": "ocr",
+        "context": "   - (160)\n师赵村七期房址 (F19) F. Ame            "
+      },
+      {
+        "text": "F20",
+        "page": 15,
+        "source": "ocr",
+        "context": "     (161?\n师赵村七期房直 (F20) 3%.               "
+      },
+      {
+        "text": "F22",
+        "page": 15,
+        "source": "ocr",
+        "context": "     (161)\n师赵村七期房址 (F22) 4. WA …           "
+      },
+      {
+        "text": "F23",
+        "page": 15,
+        "source": "ocr",
+        "context": "   … 《162)\n师赵村七期房址 (F23) 平、剂面图             "
+      },
+      {
+        "text": "F24",
+        "page": 15,
+        "source": "ocr",
+        "context": "   + (163)\n师赵村七期房址 (F24) 平、剖面图             "
+      },
+      {
+        "text": "F26",
+        "page": 15,
+        "source": "ocr",
+        "context": "   + (164)\n师赵村七期房址 (F26) ¥. HB             "
+      },
+      {
+        "text": "F21",
+        "page": 15,
+        "source": "ocr",
+        "context": "   * (165)\n师赵村七期房址 (F21) OF, A …           "
+      },
+      {
+        "text": "Y5",
+        "page": 15,
+        "source": "ocr",
+        "context": "    - (166)\n师赵村七期陶窗〈Y5) OF. AS            "
+      }
+    ],
+    "年代": [
+      {
+        "text": "半坡类型",
+        "page": 4,
+        "source": "ocr",
+        "context": "，师赵村第一期\n《新文化遗存)、第二期《半坡类型)、第三期 ERK. BOM 〈石岭下类"
+      },
+      {
+        "text": "元",
+        "page": 4,
+        "source": "ocr",
+        "context": " 11000 H\n定价，158. 00 元\n\n本书各有印装质量问题，可与 aaa\n"
+      },
+      {
+        "text": "金",
+        "page": 5,
+        "source": "ocr",
+        "context": "本报告得到\n中国社会科学院研究成果出版基金\n资助\n"
+      },
+      {
+        "text": "新石器时代",
+        "page": 6,
+        "source": "ocr",
+        "context": "发展历程。师赵村一期文化是首次确认的一种新石器时代文化中存，而师赵\n村遗址的大地湾一期文化"
+      },
+      {
+        "text": "清",
+        "page": 6,
+        "source": "ocr",
+        "context": "年代序列，\n实属关键性发现。\n\n该书条理清晰，文字简明，图照俱全，是一本十分重要而"
+      },
+      {
+        "text": "明",
+        "page": 6,
+        "source": "ocr",
+        "context": "实属关键性发现。\n\n该书条理清晰，文字简明，图照俱全，是一本十分重要而又有代表人性"
+      },
+      {
+        "text": "秦",
+        "page": 6,
+        "source": "ocr",
+        "context": "西山坪的大地湾一期文化遗存，是甘肃地区继秦安大地湾以后的第二处同类过存， 这两\n个"
+      },
+      {
+        "text": "明",
+        "page": 6,
+        "source": "ocr",
+        "context": "中总结的八点成果是实事求是的。该书晨次分明，结构\n合理，文字清楚，图文并茂，是新中"
+      },
+      {
+        "text": "清",
+        "page": 6,
+        "source": "ocr",
+        "context": "事求是的。该书晨次分明，结构\n合理，文字清楚，图文并茂，是新中国成立以来编写的第一"
+      },
+      {
+        "text": "明",
+        "page": 6,
+        "source": "ocr",
+        "context": "类型的序列，进一步丰富了它们的文化内涵，明确了相互关系，标志着我\n国西北地区史前考"
+      },
+      {
+        "text": "新石器时代",
+        "page": 6,
+        "source": "ocr",
+        "context": "北地区史前考古中的重大进展。同时，为认识新石器时代中期至青钢时代星期社会\n的发展，提供新的"
+      },
+      {
+        "text": "新石器时代",
+        "page": 11,
+        "source": "ocr",
+        "context": "附录三”甘肃省天水市两个新石器时代遗址的孢粉分析…       40)》\n"
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "堆积",
+        "page": 7,
+        "source": "ocr",
+        "context": "\n地理位置与工作概况 -\n发据区与文化层堆积，\n第一期文化遗存\n(一) HEE oe"
+      },
+      {
+        "text": "堆积",
+        "page": 9,
+        "source": "ocr",
+        "context": "   * (222)\n= 发气区与文化层堆积                    "
+      }
+    ],
+    "铜器": [
+      {
+        "text": "饰",
+        "page": 8,
+        "source": "ocr",
+        "context": "            (54)\n3，装饰品及其它遗物、             "
+      },
+      {
+        "text": "饰",
+        "page": 8,
+        "source": "ocr",
+        "context": "\n* (76)\n\n- (96)\n\n3，装饰品及其它遗物              "
+      },
+      {
+        "text": "饰",
+        "page": 8,
+        "source": "ocr",
+        "context": "           (138)\n3，装饰品及其它遗物              "
+      },
+      {
+        "text": "饰",
+        "page": 9,
+        "source": "ocr",
+        "context": "* (206)\n (214)\n\n3，装饰品及其它遗物 -\n—O FRX, FER"
+      },
+      {
+        "text": "饰",
+        "page": 9,
+        "source": "ocr",
+        "context": "53)\n(253)\n(253)\n\n3，装饰品及其它遗物\n中 ”师赵村一期文化遗存\n"
+      },
+      {
+        "text": "饰",
+        "page": 9,
+        "source": "ocr",
+        "context": "\n1. 生产工具\n2、生活用具\n3. 装饰品 +\n\n第三期文化遗存\n\n第四期文化遗"
+      },
+      {
+        "text": "饰",
+        "page": 9,
+        "source": "ocr",
+        "context": "生活用具 coseeseenees\n3装饰品及其它遗物\nA ”第五期文化遗存…\n《"
+      },
+      {
+        "text": "饰",
+        "page": 10,
+        "source": "ocr",
+        "context": "、生产工具 “\n2，生活用具 -\n3，装饰品及其它遵物\n\n九 第六期文化遗存   "
+      },
+      {
+        "text": "饰",
+        "page": 10,
+        "source": "ocr",
+        "context": "          《281)\n\n3，装饰品及其它遗物              "
+      },
+      {
+        "text": "环",
+        "page": 13,
+        "source": "ocr",
+        "context": "彩聊片 “\n师赵村四期陶器\n师赵村四期陶环 wowoororyronoorooeo"
+      },
+      {
+        "text": "刀",
+        "page": 13,
+        "source": "ocr",
+        "context": "\nHARM -\neRe …\n师赵村五期石刀\nTRA AWA A +\nWA AMA\n"
+      },
+      {
+        "text": "刀",
+        "page": 13,
+        "source": "ocr",
+        "context": "…\n师赵村五期石、骨、牙器\n师赵村五期陶刀 bee eeeee\n\n"
+      },
+      {
+        "text": "盘",
+        "page": 14,
+        "source": "ocr",
+        "context": "      … (108)\n师赵村五期陶盘                    "
+      },
+      {
+        "text": "环",
+        "page": 14,
+        "source": "ocr",
+        "context": "      (120)\n师赵村五期石、陶环                    "
+      },
+      {
+        "text": "刀",
+        "page": 15,
+        "source": "ocr",
+        "context": "(183)\n\n(184)\n\n师赵村七期石刀 -\n"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "房址",
+        "page": 10,
+        "source": "ocr",
+        "context": "325)\n(326)\n\n表1 项赵村遗址房址登记表 ……\n表2 MRAM I RHA"
+      },
+      {
+        "text": "房址",
+        "page": 10,
+        "source": "ocr",
+        "context": "遗址站区幕藉登记表 …\nKS 西山坪遗址房址登记表…\n表9 AUP REAR LR "
+      },
+      {
+        "text": "房址",
+        "page": 12,
+        "source": "ocr",
+        "context": "ooosoeoyoooro，\n师赵村二期房址 (F31) 平、剖面及复原图 ……  "
+      },
+      {
+        "text": "房址",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n(1H3) ¥. WHA\n\n师赵村四期房址 CF 28) 平、\n"
+      },
+      {
+        "text": "窖穴",
+        "page": 13,
+        "source": "ocr",
+        "context": "隐窗〈 1Y2) 平、剖面图\n师赵村四期窖穴(EL HI F, Aa\nMAAR (1"
+      },
+      {
+        "text": "房址",
+        "page": 13,
+        "source": "ocr",
+        "context": "orooeooronoooo\n师赵村五期房址 (F30) 平、齐面图及复原图\n师赵村"
+      },
+      {
+        "text": "房址",
+        "page": 13,
+        "source": "ocr",
+        "context": "F30) 平、齐面图及复原图\n师赵村五期房址 (F34) 平. 剖面图\nRA ARB"
+      },
+      {
+        "text": "房址",
+        "page": 13,
+        "source": "ocr",
+        "context": "ARB FSS) OF. A\n师赵村五期房址 (F29) 平、剂面图\nMRAM CY"
+      },
+      {
+        "text": "房址",
+        "page": 14,
+        "source": "ocr",
+        "context": "         《150)\n师赵村七期房址 FO). WHA …         "
+      },
+      {
+        "text": "房址",
+        "page": 15,
+        "source": "ocr",
+        "context": "essseee (154)\n\n师赵村七期房址 (F2) 平、剖面图 …       "
+      },
+      {
+        "text": "房址",
+        "page": 15,
+        "source": "ocr",
+        "context": "       + (155)\n师赵村七期房址 CF?) ¥%. WA        "
+      },
+      {
+        "text": "房址",
+        "page": 15,
+        "source": "ocr",
+        "context": "         (155)\n师赵村七期房址 Fs) 平、剂面图          "
+      },
+      {
+        "text": "房址",
+        "page": 15,
+        "source": "ocr",
+        "context": "         (156)\n师赵村七期房址 FS) F. WHR …       "
+      },
+      {
+        "text": "房址",
+        "page": 15,
+        "source": "ocr",
+        "context": "         (157)\n师赵村七期房址 (F10) 平、齐面图        "
+      },
+      {
+        "text": "房址",
+        "page": 15,
+        "source": "ocr",
+        "context": "         (157)\n师赵村七期房址 (Fl11) 平、剖面图       "
+      },
+      {
+        "text": "房址",
+        "page": 15,
+        "source": "ocr",
+        "context": "       ” (158)\n师赵村七期房址 (F12) FF. WA       "
+      },
+      {
+        "text": "房址",
+        "page": 15,
+        "source": "ocr",
+        "context": "       + (159)\n师赵村七期房址 (F16) F. Ww        "
+      },
+      {
+        "text": "房址",
+        "page": 15,
+        "source": "ocr",
+        "context": "       + (160)\n师赵村七期房址 (F17) OF,          "
+      },
+      {
+        "text": "房址",
+        "page": 15,
+        "source": "ocr",
+        "context": "       - (160)\n师赵村七期房址 (F19) F. Ame       "
+      },
+      {
+        "text": "房址",
+        "page": 15,
+        "source": "ocr",
+        "context": "         (161)\n师赵村七期房址 (F22) 4. WA …      "
+      },
+      {
+        "text": "房址",
+        "page": 15,
+        "source": "ocr",
+        "context": "       … 《162)\n师赵村七期房址 (F23) 平、剂面图        "
+      },
+      {
+        "text": "房址",
+        "page": 15,
+        "source": "ocr",
+        "context": "       + (163)\n师赵村七期房址 (F24) 平、剖面图        "
+      },
+      {
+        "text": "房址",
+        "page": 15,
+        "source": "ocr",
+        "context": "       + (164)\n师赵村七期房址 (F26) ¥. HB        "
+      },
+      {
+        "text": "房址",
+        "page": 15,
+        "source": "ocr",
+        "context": "       * (165)\n师赵村七期房址 (F21) OF, A …      "
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "人骨",
+        "page": 10,
+        "source": "ocr",
+        "context": "… (327)\n表13  师赵村与西山坪人骨性别、 年龄鉴定表 sev ssecev"
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T13",
+        "page": 12,
+        "source": "ocr",
+        "context": "师赵村本区遗迹分布图 …\n师赵村探方 (T13、TI4、T15) 北壁剖面图\n师赵村探"
+      },
+      {
+        "text": "T15",
+        "page": 12,
+        "source": "ocr",
+        "context": "布图 …\n师赵村探方 (T13、TI4、T15) 北壁剖面图\n师赵村探方 (T360、"
+      },
+      {
+        "text": "T360",
+        "page": 12,
+        "source": "ocr",
+        "context": "4、T15) 北壁剖面图\n师赵村探方 (T360、T381、T382)》 RSNA\n师赵"
+      },
+      {
+        "text": "T381",
+        "page": 12,
+        "source": "ocr",
+        "context": ") 北壁剖面图\n师赵村探方 (T360、T381、T382)》 RSNA\n师赵村探方《T"
+      },
+      {
+        "text": "T382",
+        "page": 12,
+        "source": "ocr",
+        "context": "面图\n师赵村探方 (T360、T381、T382)》 RSNA\n师赵村探方《T301》 "
+      },
+      {
+        "text": "T301",
+        "page": 12,
+        "source": "ocr",
+        "context": "1、T382)》 RSNA\n师赵村探方《T301》 南区剖面图 eee\nWAR CLH3"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "陶环",
+        "page": 13,
+        "source": "ocr",
+        "context": "期彩聊片 “\n师赵村四期陶器\n师赵村四期陶环 wowoororyronoorooeo"
+      },
+      {
+        "text": "刀",
+        "page": 13,
+        "source": "ocr",
+        "context": "\nHARM -\neRe …\n师赵村五期石刀\nTRA AWA A +\nWA AMA\n"
+      },
+      {
+        "text": "陶纺轮",
+        "page": 13,
+        "source": "ocr",
+        "context": "AMA\nWA EAR “\n师赵村五期石、陶纺轮\nMRARBA. AR …\n师赵村五期石"
+      },
+      {
+        "text": "陶刀",
+        "page": 13,
+        "source": "ocr",
+        "context": " …\n师赵村五期石、骨、牙器\n师赵村五期陶刀 bee eeeee\n\n"
+      },
+      {
+        "text": "陶盘",
+        "page": 14,
+        "source": "ocr",
+        "context": "       … (108)\n师赵村五期陶盘                    "
+      },
+      {
+        "text": "陶环",
+        "page": 14,
+        "source": "ocr",
+        "context": "       (120)\n师赵村五期石、陶环                    "
+      },
+      {
+        "text": "刀",
+        "page": 15,
+        "source": "ocr",
+        "context": "(183)\n\n(184)\n\n师赵村七期石刀 -\n"
+      }
+    ],
+    "石器": [
+      {
+        "text": "石刀",
+        "page": 13,
+        "source": "ocr",
+        "context": "-\nHARM -\neRe …\n师赵村五期石刀\nTRA AWA A +\nWA AMA\n"
+      },
+      {
+        "text": "石刀",
+        "page": 15,
+        "source": "ocr",
+        "context": " (183)\n\n(184)\n\n师赵村七期石刀 -\n"
+      }
+    ],
+    "纹饰": [
+      {
+        "text": "彩陶",
+        "page": 14,
+        "source": "ocr",
+        "context": "      “+ (113)\n师赵村五期彩陶器                   "
+      }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "name": "洛阳发掘报告",
+  "file": "洛阳发掘报告.pdf",
+  "era": "新石器-商周",
+  "culture": "涧滨遗址",
+  "processed_pages": 11,
+  "total_entities": 46,
+  "entity_stats": {
+    "遗址名称": 4,
+    "年代": 14,
+    "铜器": 4,
+    "探方编号": 8,
+    "遗迹编号": 13,
+    "层位关系": 1,
+    "遗迹类型": 1,
+    "遗存类型": 1
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "洛阳",
+        "page": 1,
+        "source": "ocr",
+        "context": "EMR\n\n1955—1960 年洛阳渔滨考古发掘资料\n\n中国社会科学院考古研"
+      },
+      {
+        "text": "洛阳",
+        "page": 3,
+        "source": "ocr",
+        "context": "各了和闽握报告\n\n1955_1960 年洛阳油滨考吉发所资料\n\n中国社会科学院考古研"
+      },
+      {
+        "text": "洛阳",
+        "page": 6,
+        "source": "ocr",
+        "context": "hem Rx 2\n是中国科学院考古研究所洛阳工作队 1954一1960 年的全部发所"
+      },
+      {
+        "text": "二里头",
+        "page": 6,
+        "source": "ocr",
+        "context": "少的读物,间队为探刘匈总化.河南龙山化.二里头文化的性质,研究周.汉\n两代城市的形制."
+      }
+    ],
+    "年代": [
+      {
+        "text": "二里头文化",
+        "page": 6,
+        "source": "ocr",
+        "context": "少的读物,间队为探刘匈总化.河南龙山化.二里头文化的性质,研究周.汉\n两代城市的形制.内容"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 7,
+        "source": "ocr",
+        "context": "ra  西光人文化和 ee\n\n一、同乐寨仰韶文化遗址…\n\n录\n\nor\n\nseal eb "
+      },
+      {
+        "text": "仰韶文化",
+        "page": 7,
+        "source": "ocr",
+        "context": "3. 装饰品及其它 …\n\noom 西干沟仰韶文化和龙山文化遗址 …\n\n(4) REPBA"
+      },
+      {
+        "text": "龙山文化",
+        "page": 7,
+        "source": "ocr",
+        "context": "品及其它 …\n\noom 西干沟仰韶文化和龙山文化遗址 …\n\n(4) REPBAER  A"
+      },
+      {
+        "text": "龙山文化",
+        "page": 8,
+        "source": "ocr",
+        "context": "sse ene see ee\n\n(四) 龙山文化一期    机\n1, AMER 0006"
+      },
+      {
+        "text": "西周",
+        "page": 8,
+        "source": "ocr",
+        "context": "具 …\n3.装饰品及其它…\n\n一、西干沟西周遗址 .，    acini leds "
+      },
+      {
+        "text": "西周",
+        "page": 14,
+        "source": "ocr",
+        "context": "eat\nFL\nRE\nRA\nAt\n\n西干沟西周遗址探方坑位图本\n西干沟 下827 北壁"
+      },
+      {
+        "text": "西周",
+        "page": 14,
+        "source": "ocr",
+        "context": " + (90)\n\n+ (92)\n\n西干沟西周遗物…\n西干沟西周陶器纹饰拓本…\n\n西干"
+      },
+      {
+        "text": "西周",
+        "page": 14,
+        "source": "ocr",
+        "context": "+ (92)\n\n西干沟西周遗物…\n西干沟西周陶器纹饰拓本…\n\n西干海西周陶器\n西干沟"
+      },
+      {
+        "text": "西周",
+        "page": 14,
+        "source": "ocr",
+        "context": "物…\n西干沟西周陶器纹饰拓本…\n\n西干海西周陶器\n西干沟西周陶器\n西干沟西周陶轿Ne"
+      },
+      {
+        "text": "西周",
+        "page": 14,
+        "source": "ocr",
+        "context": "陶器纹饰拓本…\n\n西干海西周陶器\n西干沟西周陶器\n西干沟西周陶轿Ne\nWU Se W"
+      },
+      {
+        "text": "西周",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n西干海西周陶器\n西干沟西周陶器\n西干沟西周陶轿Ne\nWU Se WELD FAV "
+      },
+      {
+        "text": "西周",
+        "page": 14,
+        "source": "ocr",
+        "context": "es cer reece tts\n趴家地西周骨器ee\n愤家屯西周陶片花纹拓本ee\nP"
+      },
+      {
+        "text": "西周",
+        "page": 14,
+        "source": "ocr",
+        "context": "ce tts\n趴家地西周骨器ee\n愤家屯西周陶片花纹拓本ee\nPR SC DD DB"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "饰",
+        "page": 7,
+        "source": "ocr",
+        "context": "ere etter retry\n3. 装饰品及其它 …\n\noom 西干沟仰韶文化和"
+      },
+      {
+        "text": "饰",
+        "page": 8,
+        "source": "ocr",
+        "context": "\n\n(2) 生活用具 ………\n(3) 装饰品及其它……\n\nary  eee\n\n3,"
+      },
+      {
+        "text": "饰",
+        "page": 8,
+        "source": "ocr",
+        "context": "ne eee\n\n2.生活用具 …\n3.装饰品及其它…\n\n一、西干沟西周遗址 .， "
+      },
+      {
+        "text": "饰",
+        "page": 14,
+        "source": "ocr",
+        "context": ")\n\n西干沟西周遗物…\n西干沟西周陶器纹饰拓本…\n\n西干海西周陶器\n西干沟西周陶器"
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T1207",
+        "page": 12,
+        "source": "ocr",
+        "context": "        * CEL\n=  ee T1207 eA      hark bacesh"
+      },
+      {
+        "text": "T306",
+        "page": 12,
+        "source": "ocr",
+        "context": "nets oe €18)\n—f. FW T306 (由 FERRE A         "
+      },
+      {
+        "text": "T104",
+        "page": 12,
+        "source": "ocr",
+        "context": "oare (BG)\nDS BE Fis T104(4B) FH HEE SZ [Bl P"
+      },
+      {
+        "text": "T818",
+        "page": 14,
+        "source": "ocr",
+        "context": "ane ensens anes\n西干沟 T818 HEBERT co eeceee ee"
+      },
+      {
+        "text": "T7207",
+        "page": 14,
+        "source": "ocr",
+        "context": "aee odes Se\nge thy, T7207 FA SEDER rere erenc"
+      },
+      {
+        "text": "T130",
+        "page": 14,
+        "source": "ocr",
+        "context": "nce crs cee sne ese\nT130 SE PR PH BE RATHER "
+      },
+      {
+        "text": "T1118",
+        "page": 14,
+        "source": "ocr",
+        "context": "3 Mi ea: «\n\nBR, avi\nT1118 甲剖面图…\n\n下148 甲M1 平面图"
+      },
+      {
+        "text": "T3038",
+        "page": 14,
+        "source": "ocr",
+        "context": "面图…\n\n下148 甲M1 平面图 和\nT3038 H4 出土汉代陶丛口沿 ee\n\n*。V"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "T1207",
+        "page": 12,
+        "source": "ocr",
+        "context": "        * CEL\n=  ee T1207 eA      hark bacesh"
+      },
+      {
+        "text": "H325",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n[Sore eh Be\n\n五 PEI H325 打破 6 SS Pa) i Pa   "
+      },
+      {
+        "text": "H309",
+        "page": 12,
+        "source": "ocr",
+        "context": " Pa       人\n一六  西于沟.H309.谢面图，       机\n4 Fis "
+      },
+      {
+        "text": "S08",
+        "page": 12,
+        "source": "ocr",
+        "context": "e:      ee\nAG  AT T S08. C4 HERES, SA i Ely"
+      },
+      {
+        "text": "T306",
+        "page": 12,
+        "source": "ocr",
+        "context": "nets oe €18)\n—f. FW T306 (由 FERRE A         "
+      },
+      {
+        "text": "T104",
+        "page": 12,
+        "source": "ocr",
+        "context": "oare (BG)\nDS BE Fis T104(4B) FH HEE SZ [Bl P"
+      },
+      {
+        "text": "T818",
+        "page": 14,
+        "source": "ocr",
+        "context": "ane ensens anes\n西干沟 T818 HEBERT co eeceee ee"
+      },
+      {
+        "text": "T7207",
+        "page": 14,
+        "source": "ocr",
+        "context": "aee odes Se\nge thy, T7207 FA SEDER rere erenc"
+      },
+      {
+        "text": "D201",
+        "page": 14,
+        "source": "ocr",
+        "context": "图站\n`东干沟村北的西北城角平面图本\n\"D201. FE BERA THER coe e"
+      },
+      {
+        "text": "T130",
+        "page": 14,
+        "source": "ocr",
+        "context": "nce crs cee sne ese\nT130 SE PR PH BE RATHER "
+      },
+      {
+        "text": "T1118",
+        "page": 14,
+        "source": "ocr",
+        "context": "3 Mi ea: «\n\nBR, avi\nT1118 甲剖面图…\n\n下148 甲M1 平面图"
+      },
+      {
+        "text": "T3038",
+        "page": 14,
+        "source": "ocr",
+        "context": "面图…\n\n下148 甲M1 平面图 和\nT3038 H4 出土汉代陶丛口沿 ee\n\n*。V"
+      },
+      {
+        "text": "H4",
+        "page": 14,
+        "source": "ocr",
+        "context": "148 甲M1 平面图 和\nT3038 H4 出土汉代陶丛口沿 ee\n\n*。VIII"
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "打破",
+        "page": 12,
+        "source": "ocr",
+        "context": "e eh Be\n\n五 PEI H325 打破 6 SS Pa) i Pa      "
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "城墙",
+        "page": 14,
+        "source": "ocr",
+        "context": "e ces ens ets\n七里河村北的城墙拐角平面图站\n`东干沟村北的西北城角平面"
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "陶片",
+        "page": 14,
+        "source": "ocr",
+        "context": " tts\n趴家地西周骨器ee\n愤家屯西周陶片花纹拓本ee\nPR SC DD DBR "
+      }
+    ]
+  }
+}

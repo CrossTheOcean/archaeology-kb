@@ -1,0 +1,606 @@
+{
+  "name": "北庭高昌回鹘佛寺遗址",
+  "file": "北庭高昌回鹘佛寺遗址.pdf",
+  "era": "唐宋",
+  "culture": "回鹘佛教",
+  "processed_pages": 15,
+  "total_entities": 96,
+  "entity_stats": {
+    "年代": 19,
+    "遗址名称": 26,
+    "陶器": 2,
+    "铜器": 4,
+    "测量数据": 9,
+    "遗迹编号": 36
+  },
+  "entities": {
+    "年代": [
+      {
+        "text": "辽",
+        "page": 1,
+        "source": "ocr",
+        "context": " tt\n\n中国社会科学院考古研究所编著\n辽字美术出版社出版\n(ck FA i Fo"
+      },
+      {
+        "text": "辽",
+        "page": 1,
+        "source": "ocr",
+        "context": "F AR Be de HF 29 号)\n辽宁省新华书店发行\n辽宁省印刷技术研究所印"
+      },
+      {
+        "text": "辽",
+        "page": 1,
+        "source": "ocr",
+        "context": " HF 29 号)\n辽宁省新华书店发行\n辽宁省印刷技术研究所印刷\n\nxe 12h\n"
+      },
+      {
+        "text": "清",
+        "page": 2,
+        "source": "ocr",
+        "context": ". CR ERASE AS\n踪迹。同时还清理出赴典及其西、北、南三面洞侈的轮麻。东"
+      },
+      {
+        "text": "南北朝",
+        "page": 14,
+        "source": "ocr",
+        "context": "; 是虽汉与匈奴争夺机域的重要战场之一。南北朝至隋，这 HORM ABR\n东部天山北忒"
+      },
+      {
+        "text": "隋",
+        "page": 14,
+        "source": "ocr",
+        "context": "汉与匈奴争夺机域的重要战场之一。南北朝至隋，这 HORM ABR\n东部天山北忒地区"
+      },
+      {
+        "text": "唐",
+        "page": 14,
+        "source": "ocr",
+        "context": " ABR\n东部天山北忒地区活动的中心。入唐以后，贞更 |可年公元 640 年)在该"
+      },
+      {
+        "text": "元",
+        "page": 14,
+        "source": "ocr",
+        "context": "地区活动的中心。入唐以后，贞更 |可年公元 640 年)在该地设庭州和人金\n满县，"
+      },
+      {
+        "text": "金",
+        "page": 14,
+        "source": "ocr",
+        "context": "|可年公元 640 年)在该地设庭州和人金\n满县，长安一年(公元 702 年)置北"
+      },
+      {
+        "text": "元",
+        "page": 14,
+        "source": "ocr",
+        "context": ")在该地设庭州和人金\n满县，长安一年(公元 702 年)置北庭都殷府。公元 840"
+      },
+      {
+        "text": "元",
+        "page": 14,
+        "source": "ocr",
+        "context": "一年(公元 702 年)置北庭都殷府。公元 840 年回髓从江北西迁北庭，后成为\n"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "ocr",
+        "context": "台、库房、僧\n房和小型配鞭。此外，还简单清理 了 S106 契的门址，找出了正威及"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "ocr",
+        "context": "威及其西、南积北面洞\n铭的轮廊，基本上搞清了整个才唐遗址的布局和结构。\n\n通过发气"
+      },
+      {
+        "text": "唐",
+        "page": 15,
+        "source": "ocr",
+        "context": "南积北面洞\n铭的轮廊，基本上搞清了整个才唐遗址的布局和结构。\n\n通过发气、整理，清"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "ocr",
+        "context": "唐遗址的布局和结构。\n\n通过发气、整理，清楚地表黄北庭高昌回髓佛寺遗址是- BR "
+      },
+      {
+        "text": "明",
+        "page": 15,
+        "source": "ocr",
+        "context": "资料就更显得宝贵。此外，通过发气还使我们明确了北庭自唐以来不但是东部天出北蔬\n地区"
+      },
+      {
+        "text": "唐",
+        "page": 15,
+        "source": "ocr",
+        "context": "宝贵。此外，通过发气还使我们明确了北庭自唐以来不但是东部天出北蔬\n地区的政冶和军事"
+      },
+      {
+        "text": "明",
+        "page": 15,
+        "source": "ocr",
+        "context": "地区的政冶和军事中心，局时也是佛教中心。明和确了高日佛教系统不仅限于高号地区，\n而"
+      },
+      {
+        "text": "辽",
+        "page": 15,
+        "source": "ocr",
+        "context": "等单位的热情支\n持和帮助。本-销出版得到辽宁美术出版社时力协助，在此一并致谢。\n\n"
+      }
+    ],
+    "遗址名称": [
+      {
+        "text": "高昌",
+        "page": 2,
+        "source": "ocr",
+        "context": "内 容提 要\n\n北庭高昌回人船佛寺遗址，位于新枉吉木萨尔县城北十"
+      },
+      {
+        "text": "壁画",
+        "page": 2,
+        "source": "ocr",
+        "context": "在陪都北庭建造的正家寺院，规模安伟，塑像壁画精美，高昌王等贵族供\n养像崩硼如生，回船"
+      },
+      {
+        "text": "高昌",
+        "page": 2,
+        "source": "ocr",
+        "context": "建造的正家寺院，规模安伟，塑像壁画精美，高昌王等贵族供\n养像崩硼如生，回船文题记随处"
+      },
+      {
+        "text": "高昌",
+        "page": 2,
+        "source": "ocr",
+        "context": "制和塑像壁疝资料中的一些缺环，大大丰富了高昌回够佛教文化的内笨。为研究北庭和\n高昌地"
+      },
+      {
+        "text": "高昌",
+        "page": 2,
+        "source": "ocr",
+        "context": "了高昌回够佛教文化的内笨。为研究北庭和\n高昌地区回锡的佛教、佛教艺术和历史文化等方面"
+      },
+      {
+        "text": "壁画",
+        "page": 9,
+        "source": "ocr",
+        "context": "BEG He rR\n\n一名”南踏道口出十壁画亦都护供养像及回秽文题名\n—— S101"
+      },
+      {
+        "text": "高昌",
+        "page": 10,
+        "source": "ocr",
+        "context": "图 版目录\n\n— 北庭高昌回租佛寺遗址外最\n\n二”佛寺遗址正颈东面"
+      },
+      {
+        "text": "壁画",
+        "page": 11,
+        "source": "ocr",
+        "context": "OA “东侧踏道\n\n四七”南踏道口出上的壁画残块\n四八_南踏道口出土的壁画细部\n四九"
+      },
+      {
+        "text": "壁画",
+        "page": 11,
+        "source": "ocr",
+        "context": "道口出上的壁画残块\n四八_南踏道口出土的壁画细部\n四九 ”南踏道口出寺的壁画细部一 "
+      },
+      {
+        "text": "壁画",
+        "page": 11,
+        "source": "ocr",
+        "context": "口出土的壁画细部\n四九 ”南踏道口出寺的壁画细部一 供养营萨像\n五〇”庭院遗迹\n\n五"
+      },
+      {
+        "text": "壁画",
+        "page": 12,
+        "source": "ocr",
+        "context": " BES al\n\n七五 $103 殿南壁壁画细部\n\ntA $103 夏南壁壁画细部\n"
+      },
+      {
+        "text": "壁画",
+        "page": 12,
+        "source": "ocr",
+        "context": "殿南壁壁画细部\n\ntA $103 夏南壁壁画细部\n\ntt SI4RS RRR\n\nEA"
+      },
+      {
+        "text": "新疆",
+        "page": 14,
+        "source": "ocr",
+        "context": "‘ dil\n\n“北庭\"在今吉木萨尔其，属新疆昌吉回族自治州。地处博格达山北慧，东邻奇"
+      },
+      {
+        "text": "北朝",
+        "page": 14,
+        "source": "ocr",
+        "context": " 是虽汉与匈奴争夺机域的重要战场之一。南北朝至隋，这 HORM ABR\n东部天山北忒"
+      },
+      {
+        "text": "长安",
+        "page": 14,
+        "source": "ocr",
+        "context": " 640 年)在该地设庭州和人金\n满县，长安一年(公元 702 年)置北庭都殷府。公"
+      },
+      {
+        "text": "新疆",
+        "page": 15,
+        "source": "ocr",
+        "context": "9 8 6 月，中国社会科学院考证研究所新疆队到北庭十城 --带进行\n考古调查(邵《"
+      },
+      {
+        "text": "高昌",
+        "page": 15,
+        "source": "ocr",
+        "context": "2 年 2期)，在十域外之西发现- -座高昌回散时期的佛教寺庙遗\n址。在调查的基础上"
+      },
+      {
+        "text": "高昌",
+        "page": 15,
+        "source": "ocr",
+        "context": "结构。\n\n通过发气、整理，清楚地表黄北庭高昌回髓佛寺遗址是- BR AR ILE A"
+      },
+      {
+        "text": "高昌",
+        "page": 15,
+        "source": "ocr",
+        "context": "E ACER,\n大大开扩了和信们观察认识高昌回髓文化艺术的眼界。这座佛寺遗址的建筑遗"
+      },
+      {
+        "text": "吐鲁番",
+        "page": 15,
+        "source": "ocr",
+        "context": "PHO, BE, BS Bie’\n等，与吐鲁番地区同类遗迹相辅相成，丰富了高昌回散文化"
+      },
+      {
+        "text": "高昌",
+        "page": 15,
+        "source": "ocr",
+        "context": "等，与吐鲁番地区同类遗迹相辅相成，丰富了高昌回散文化的内润。对全面研究高昌回\nPRR"
+      },
+      {
+        "text": "高昌",
+        "page": 15,
+        "source": "ocr",
+        "context": "成，丰富了高昌回散文化的内润。对全面研究高昌回\nPRR AAAS 对深入研究高昌回体"
+      },
+      {
+        "text": "高昌",
+        "page": 15,
+        "source": "ocr",
+        "context": "研究高昌回\nPRR AAAS 对深入研究高昌回体的文化，以及回髓的文字、书法、服饰和"
+      },
+      {
+        "text": "高昌",
+        "page": 15,
+        "source": "ocr",
+        "context": "及回髓的文字、书法、服饰和风\n俗，对探讨高昌回锣文化与外界的关系等等方面，无疑者将会"
+      },
+      {
+        "text": "高昌",
+        "page": 15,
+        "source": "ocr",
+        "context": "区。可以说北庭回网佛寺，与现在仅存的代表高昌回人鹏佛教文化\n艺术的柏孜克里克石富寺犹"
+      },
+      {
+        "text": "高昌",
+        "page": 15,
+        "source": "ocr",
+        "context": "和后姊妹，在尖山南北大故晃彩，将大们引入高昌回角高\n度发达的佛教文化艺术的辟境。本报"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "环",
+        "page": 2,
+        "source": "ocr",
+        "context": "11 米，残商 14.30 米。正咸四周环筑洞宣式大您，除\nBHKLEAMSS,."
+      },
+      {
+        "text": "环",
+        "page": 2,
+        "source": "ocr",
+        "context": "\n番同骸佛志形制和塑像壁疝资料中的一些缺环，大大丰富了高昌回够佛教文化的内笨。为研"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "环",
+        "page": 2,
+        "source": "ocr",
+        "context": "11 米，残商 14.30 米。正咸四周环筑洞宣式大您，除\nBHKLEAMSS,."
+      },
+      {
+        "text": "环",
+        "page": 2,
+        "source": "ocr",
+        "context": "\n番同骸佛志形制和塑像壁疝资料中的一些缺环，大大丰富了高昌回够佛教文化的内笨。为研"
+      },
+      {
+        "text": "饰",
+        "page": 13,
+        "source": "ocr",
+        "context": "8 BR S109 左\n\n陶器\n\n陶器纹饰及回何文题记\n\n钢、铁器\n\n木构件\n"
+      },
+      {
+        "text": "饰",
+        "page": 15,
+        "source": "ocr",
+        "context": "高昌回体的文化，以及回髓的文字、书法、服饰和风\n俗，对探讨高昌回锣文化与外界的关系"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": " 700 米",
+        "page": 2,
+        "source": "ocr",
+        "context": "新枉吉木萨尔县城北十余公里的北庭古城之西 700 米处。佛寺遗址\n南北残长 70.50 米，"
+      },
+      {
+        "text": "长 70.50 米",
+        "page": 2,
+        "source": "ocr",
+        "context": "古城之西 700 米处。佛寺遗址\n南北残长 70.50 米，宽 43.80 米。址址北部是以正典为"
+      },
+      {
+        "text": "宽 43.80 米",
+        "page": 2,
+        "source": "ocr",
+        "context": "处。佛寺遗址\n南北残长 70.50 米，宽 43.80 米。址址北部是以正典为主体的建筑群，外观呈"
+      },
+      {
+        "text": " 45.80\n米",
+        "page": 2,
+        "source": "ocr",
+        "context": "以正典为主体的建筑群，外观呈方塔形，南北 45.80\n米，东西 43.80 米。正豚南北长 15"
+      },
+      {
+        "text": " 43.80 米",
+        "page": 2,
+        "source": "ocr",
+        "context": "外观呈方塔形，南北 45.80\n米，东西 43.80 米。正豚南北长 15 米，东西宽 11 米"
+      },
+      {
+        "text": "长 15 米",
+        "page": 2,
+        "source": "ocr",
+        "context": "80\n米，东西 43.80 米。正豚南北长 15 米，东西宽 11 米，残商 14.30 米"
+      },
+      {
+        "text": "宽 11 米",
+        "page": 2,
+        "source": "ocr",
+        "context": "3.80 米。正豚南北长 15 米，东西宽 11 米，残商 14.30 米。正咸四周环筑洞宣"
+      },
+      {
+        "text": " 14.30 米",
+        "page": 2,
+        "source": "ocr",
+        "context": "南北长 15 米，东西宽 11 米，残商 14.30 米。正咸四周环筑洞宣式大您，除\nBHKLE"
+      },
+      {
+        "text": " 43.80\n米",
+        "page": 2,
+        "source": "ocr",
+        "context": "P AR. LASEK ERE, APE 43.80\n米，南北残宽 24.70 KR. 1979"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "S101",
+        "page": 7,
+        "source": "ocr",
+        "context": " ene ee see cae es\n\nS101 BA SR BEE LB on eee"
+      },
+      {
+        "text": "S103",
+        "page": 7,
+        "source": "ocr",
+        "context": "ees cae sen ees ees\nS103 FRAG RES TA LBB Rp "
+      },
+      {
+        "text": "S104",
+        "page": 8,
+        "source": "ocr",
+        "context": "od ORTON GT (59)\n五图 S104 PTD RE PR) 20\n六 - 8"
+      },
+      {
+        "text": "S101",
+        "page": 9,
+        "source": "ocr",
+        "context": "出十壁画亦都护供养像及回秽文题名\n—— S101 Bele BER Be BE si\n\n"
+      },
+      {
+        "text": "S105",
+        "page": 9,
+        "source": "ocr",
+        "context": " ere REE a EE BR\n一五 S105 RB## ea /\\ ED SAA\n\n"
+      },
+      {
+        "text": "S4b",
+        "page": 10,
+        "source": "ocr",
+        "context": "i. Ab BEE\n—~PG £102 S4b Ree wi\n\n--H E102 $F"
+      },
+      {
+        "text": "S01",
+        "page": 10,
+        "source": "ocr",
+        "context": " £103 Sein\n\n—A £104 S01. Be RR Mie\nA, £104 "
+      },
+      {
+        "text": "S646",
+        "page": 11,
+        "source": "ocr",
+        "context": " STH RAL EE\n二五 E107 S646 BEE\n\n一六 E108 IRB RR"
+      },
+      {
+        "text": "P9",
+        "page": 11,
+        "source": "ocr",
+        "context": "\n\n== E203 侈塑像及题记残块\n=P9 E203 StH + sc Be\n=H"
+      },
+      {
+        "text": "F206",
+        "page": 11,
+        "source": "ocr",
+        "context": "O— E205 SLR Bide\n四二 F206. 207 S¥th Bic\n= 220"
+      },
+      {
+        "text": "S101",
+        "page": 12,
+        "source": "ocr",
+        "context": "图版日\n\neh\n\n五二 S101 BAS BERE IR\n\n五三 S10"
+      },
+      {
+        "text": "S101",
+        "page": 12,
+        "source": "ocr",
+        "context": "101 BAS BERE IR\n\n五三 S101 RAR\n\n五四 S101 BARRE "
+      },
+      {
+        "text": "S101",
+        "page": 12,
+        "source": "ocr",
+        "context": "IR\n\n五三 S101 RAR\n\n五四 S101 BARRE FE BE wi\n\nHA "
+      },
+      {
+        "text": "S101",
+        "page": 12,
+        "source": "ocr",
+        "context": " BARRE FE BE wi\n\nHA S101 BREET Bae aise\n五六 S"
+      },
+      {
+        "text": "S101",
+        "page": 12,
+        "source": "ocr",
+        "context": "1 BREET Bae aise\n五六 S101 Belk, Pe RERe ai\n\nf"
+      },
+      {
+        "text": "S102",
+        "page": 12,
+        "source": "ocr",
+        "context": "ee\n\nFA $102 Bee\n\n五九 S102 MM RRAB\n\nS102 BAR H"
+      },
+      {
+        "text": "S102",
+        "page": 12,
+        "source": "ocr",
+        "context": "e\n\n五九 S102 MM RRAB\n\nS102 BAR HR Rio\nS102 BAR"
+      },
+      {
+        "text": "S102",
+        "page": 12,
+        "source": "ocr",
+        "context": "AB\n\nS102 BAR HR Rio\nS102 BAR THA T&R\n\n. $102"
+      },
+      {
+        "text": "S102",
+        "page": 12,
+        "source": "ocr",
+        "context": " BAHAR\n\n$102 典西铺塑像\n\nS102 拱题记及木板画\n\n$103 Bea\n\n"
+      },
+      {
+        "text": "S103",
+        "page": 12,
+        "source": "ocr",
+        "context": " 拱题记及木板画\n\n$103 Bea\n\nS103 Be CBE AR Md BE wl "
+      },
+      {
+        "text": "S103",
+        "page": 12,
+        "source": "ocr",
+        "context": "l a\n$103 BAG MAL EA\nS103 Belt Be BE tal 4 Hh"
+      },
+      {
+        "text": "S103",
+        "page": 12,
+        "source": "ocr",
+        "context": " BE tal 4 Hh.\n\nANIL S103 BRAG BE ARE el\n\n$10"
+      },
+      {
+        "text": "S103",
+        "page": 12,
+        "source": "ocr",
+        "context": "\nt= $103 Ree a\n\n+79 S103 Bere BES al\n\n七五 $10"
+      },
+      {
+        "text": "S104",
+        "page": 12,
+        "source": "ocr",
+        "context": " A ir HEBD BE al\n七九 S104 RR HE 5 He BEA Be l"
+      },
+      {
+        "text": "S104",
+        "page": 13,
+        "source": "ocr",
+        "context": "As EL Teas Be BEAL\n\nS104 Bedb Be Be pal\n\nS10"
+      },
+      {
+        "text": "S105",
+        "page": 13,
+        "source": "ocr",
+        "context": "104 Bedb Be Be pal\n\nS105 Beye 38\n\nS105 RePe "
+      },
+      {
+        "text": "S105",
+        "page": 13,
+        "source": "ocr",
+        "context": " pal\n\nS105 Beye 38\n\nS105 RePe eR i /\\ ED aI\n"
+      },
+      {
+        "text": "S105",
+        "page": 13,
+        "source": "ocr",
+        "context": " RePe eR i /\\ ED aI\nS105 Re Py BE AE el FRB "
+      },
+      {
+        "text": "S105",
+        "page": 13,
+        "source": "ocr",
+        "context": "E el FRB 4.47 f rut\nS105 BEF a4 rue an\n\nS105"
+      },
+      {
+        "text": "S105",
+        "page": 13,
+        "source": "ocr",
+        "context": "S105 BEF a4 rue an\n\nS105 Reps Be BE pal AAAS"
+      },
+      {
+        "text": "S105",
+        "page": 13,
+        "source": "ocr",
+        "context": "eps Be BE pal AAAS\n\nS105 BPH BEES Kat, ZS 1 "
+      },
+      {
+        "text": "S105",
+        "page": 13,
+        "source": "ocr",
+        "context": "ES Kat, ZS 1 RR RMA\nS105 Reve BE Sc bk Pan\n\n"
+      },
+      {
+        "text": "S105",
+        "page": 13,
+        "source": "ocr",
+        "context": " Reve BE Sc bk Pan\n\nS105 Baya BE ehh FE\n\nS10"
+      },
+      {
+        "text": "S105",
+        "page": 13,
+        "source": "ocr",
+        "context": "105 Baya BE ehh FE\n\nS105 典西公放城图\n\n18 BR S109 "
+      },
+      {
+        "text": "S109",
+        "page": 13,
+        "source": "ocr",
+        "context": "\nS105 典西公放城图\n\n18 BR S109 左\n\n陶器\n\n陶器纹饰及回何文题记\n\n"
+      },
+      {
+        "text": "S106",
+        "page": 15,
+        "source": "ocr",
+        "context": "僧\n房和小型配鞭。此外，还简单清理 了 S106 契的门址，找出了正威及其西、南积北面洞"
+      }
+    ]
+  }
+}

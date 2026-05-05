@@ -1,0 +1,600 @@
+{
+  "name": "夏县东下冯",
+  "file": "夏县东下冯.pdf",
+  "era": "夏商",
+  "culture": "东下冯类型",
+  "processed_pages": 15,
+  "total_entities": 94,
+  "entity_stats": {
+    "遗迹类型": 12,
+    "陶器": 1,
+    "铜器": 20,
+    "遗存类型": 16,
+    "遗迹编号": 20,
+    "遗址名称": 1,
+    "探方编号": 17,
+    "年代": 7
+  },
+  "entities": {
+    "遗迹类型": [
+      {
+        "text": "基址",
+        "page": 7,
+        "source": "ocr",
+        "context": "文化遗存.ee(148)\n(二)圆形建筑基址.pp(150)\n(=)kK Yl se"
+      },
+      {
+        "text": "灰坑",
+        "page": 8,
+        "source": "ocr",
+        "context": "期至第页期期别与层位对照下pe\n第 工期灰坑登记表…\n\n第工期肌1、吾42出土陶片句"
+      },
+      {
+        "text": "灰坑",
+        "page": 8,
+        "source": "ocr",
+        "context": "统计 ee\n第下期房子登记表 和\n第下期灰坑登  TLL BR te ete cec"
+      },
+      {
+        "text": "灰坑",
+        "page": 9,
+        "source": "ocr",
+        "context": "eeeeneeee (235)\nBV 期灰坑登记 Fe ewe eee cee te"
+      },
+      {
+        "text": "墓葬",
+        "page": 9,
+        "source": "ocr",
+        "context": "esscceeens (241)\n第下期墓葬登记下      (242)\n3 VEB"
+      },
+      {
+        "text": "城墙",
+        "page": 14,
+        "source": "ocr",
+        "context": "W FAK, 骨、 陶器ee\n第Y期商代城墙平面图pp\n第Y 期商代城墙 (CT55"
+      },
+      {
+        "text": "城墙",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n第Y期商代城墙平面图pp\n第Y 期商代城墙 (CT5500东壁) 剖面图pp\nFS"
+      },
+      {
+        "text": "城墙",
+        "page": 14,
+        "source": "ocr",
+        "context": "500东壁) 剖面图pp\nFSV 期商代城墙(T7700北壁) 谢面图pp\n第Y 期"
+      },
+      {
+        "text": "基址",
+        "page": 14,
+        "source": "ocr",
+        "context": "北壁) 谢面图pp\n第Y 期商代圆形建筑基址平面图…………:\n\nSV 期商代圆形建筑"
+      },
+      {
+        "text": "基址",
+        "page": 14,
+        "source": "ocr",
+        "context": "平面图…………:\n\nSV 期商代圆形建筑基址F502平、 前 面 图.ppp\n\n第V"
+      },
+      {
+        "text": "基址",
+        "page": 14,
+        "source": "ocr",
+        "context": "前 面 图.ppp\n\n第V期商代圆形建筑基址FE506 平、齐面图 pp\n第Y 期圆"
+      },
+      {
+        "text": "基址",
+        "page": 14,
+        "source": "ocr",
+        "context": "06 平、齐面图 pp\n第Y 期圆形建筑基址夯士中出的陶器残片…\n第VY期HK550"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "豆",
+        "page": 8,
+        "source": "ocr",
+        "context": "ceec sense neces\n第下期豆41出土陶片陶质、纹饰统计表 cee e"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "饰",
+        "page": 8,
+        "source": "ocr",
+        "context": "统计 表…\n第 工期HI出土陶片陶质、纹饰统计 甫ee，\n第工期H42出土陶片陶质"
+      },
+      {
+        "text": "豆",
+        "page": 8,
+        "source": "ocr",
+        "context": "ceec sense neces\n第下期豆41出土陶片陶质、纹饰统计表 cee e"
+      },
+      {
+        "text": "饰",
+        "page": 8,
+        "source": "ocr",
+        "context": "neces\n第下期豆41出土陶片陶质、纹饰统计表 cee eee eee eee "
+      },
+      {
+        "text": "饰",
+        "page": 8,
+        "source": "ocr",
+        "context": "s\n第于 期也402出土陶片陶质、  纹饰统计 ee\n第下期房子登记表 和\n第下期"
+      },
+      {
+        "text": "饰",
+        "page": 9,
+        "source": "ocr",
+        "context": "。5 。\n第下期瑟535出土陶片隐质、纹饰绕 计 Revere eee    (2"
+      },
+      {
+        "text": "饰",
+        "page": 9,
+        "source": "ocr",
+        "context": "33 )\n第入期 HS 出土陶片陶质、纹饰统计表 ppp (234)\n第了期H60"
+      },
+      {
+        "text": "饰",
+        "page": 9,
+        "source": "ocr",
+        "context": "(234)\n第了期H60出士陶片陶质、纹饰统计 Penne eeeeeeceeee"
+      },
+      {
+        "text": "饰",
+        "page": 9,
+        "source": "ocr",
+        "context": "34)\n第了 期H417出土陶片陶质、纹饰 统计 Fe ecw eee neces"
+      },
+      {
+        "text": "饰",
+        "page": 9,
+        "source": "ocr",
+        "context": "235)\n第了期H418出土陶片陶质、纹饰 统计 Bee ee cee cee c"
+      },
+      {
+        "text": "饰",
+        "page": 9,
+        "source": "ocr",
+        "context": "39)\n第YY期HH67出土陶片陶质、纹饰统计 Be eee eee ece ce"
+      },
+      {
+        "text": "饰",
+        "page": 9,
+        "source": "ocr",
+        "context": "40)\n第Y 期蔬104出土陶片陶质、纹饰 统计 囊…pp(240)\n第了TY期H"
+      },
+      {
+        "text": "饰",
+        "page": 9,
+        "source": "ocr",
+        "context": "0)\n第了TY期H401出土陶片陶质、纹饰 统计 Beene cee ee ece"
+      },
+      {
+        "text": "饰",
+        "page": 9,
+        "source": "ocr",
+        "context": "(243)\n第页期机35出土陶片陶质、纹饰统计甫pp (244)\n3S Vi PA"
+      },
+      {
+        "text": "饰",
+        "page": 10,
+        "source": "ocr",
+        "context": " ,pe《21 )\n图二六 第工期陶器纹饰拓片pp(23)\n图二七 第工期陶器24"
+      },
+      {
+        "text": "饰",
+        "page": 11,
+        "source": "ocr",
+        "context": "T期H41平，剖面图pe\n\n第下期陶器纹饰拓片ee\n\n第和夏期里沟槽西南角 〔(T"
+      },
+      {
+        "text": "饰",
+        "page": 12,
+        "source": "ocr",
+        "context": "下期石、骨、岩、铜器et\n\n第下期陶器纹饰拓片os 4\n\n第页期陶器.pp\n第和丰"
+      },
+      {
+        "text": "饰",
+        "page": 13,
+        "source": "ocr",
+        "context": ".ee(123)\n图一二二”第及期陶器纹饰拓片ppp(126)\n二三 SP WW "
+      },
+      {
+        "text": "饰",
+        "page": 14,
+        "source": "ocr",
+        "context": "、骨、铜器.ppp\n\nBS V 期陶器纹饰拓片ppp\n第YY期陶器纹饰拓片Ne\n"
+      },
+      {
+        "text": "饰",
+        "page": 14,
+        "source": "ocr",
+        "context": "V 期陶器纹饰拓片ppp\n第YY期陶器纹饰拓片Ne\n"
+      },
+      {
+        "text": "饰",
+        "page": 15,
+        "source": "ocr",
+        "context": "、岩、铜器Re (197)\n第克期陶器纹饰拓片Ne (198)\n\n图一七九(A) "
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "陶片",
+        "page": 8,
+        "source": "ocr",
+        "context": "期灰坑登记表…\n\n第工期肌1、吾42出土陶片句形统计 表…\n第 工期HI出土陶片陶质"
+      },
+      {
+        "text": "陶片",
+        "page": 8,
+        "source": "ocr",
+        "context": "出土陶片句形统计 表…\n第 工期HI出土陶片陶质、纹饰统计 甫ee，\n第工期H42出"
+      },
+      {
+        "text": "陶片",
+        "page": 8,
+        "source": "ocr",
+        "context": "质、纹饰统计 甫ee，\n第工期H42出土陶片陶质、 Ly Pj FETT FE ce"
+      },
+      {
+        "text": "陶片",
+        "page": 8,
+        "source": "ocr",
+        "context": "sense neces\n第下期豆41出土陶片陶质、纹饰统计表 cee eee eee"
+      },
+      {
+        "text": "陶片",
+        "page": 8,
+        "source": "ocr",
+        "context": "ee eneees\n第于 期也402出土陶片陶质、  纹饰统计 ee\n第下期房子登记"
+      },
+      {
+        "text": "陶片",
+        "page": 9,
+        "source": "ocr",
+        "context": "      。5 。\n第下期瑟535出土陶片隐质、纹饰绕 计 Revere eee "
+      },
+      {
+        "text": "陶片",
+        "page": 9,
+        "source": "ocr",
+        "context": " H5、H60、H417、H418 出土陶片器形统计表 ………(233 )\n第入期 "
+      },
+      {
+        "text": "陶片",
+        "page": 9,
+        "source": "ocr",
+        "context": " ………(233 )\n第入期 HS 出土陶片陶质、纹饰统计表 ppp (234)\n第"
+      },
+      {
+        "text": "陶片",
+        "page": 9,
+        "source": "ocr",
+        "context": "表 ppp (234)\n第了期H60出士陶片陶质、纹饰统计 Penne eeeeee"
+      },
+      {
+        "text": "陶片",
+        "page": 9,
+        "source": "ocr",
+        "context": "nes (234)\n第了 期H417出土陶片陶质、纹饰 统计 Fe ecw eee "
+      },
+      {
+        "text": "陶片",
+        "page": 9,
+        "source": "ocr",
+        "context": "es   (235)\n第了期H418出土陶片陶质、纹饰 统计 Bee ee cee "
+      },
+      {
+        "text": "陶片",
+        "page": 9,
+        "source": "ocr",
+        "context": ")\n第V期E67、H104、H401出土陶片器形统计 表……………   (239)\n"
+      },
+      {
+        "text": "陶片",
+        "page": 9,
+        "source": "ocr",
+        "context": "…   (239)\n第YY期HH67出土陶片陶质、纹饰统计 Be eee eee e"
+      },
+      {
+        "text": "陶片",
+        "page": 9,
+        "source": "ocr",
+        "context": "eee (240)\n第Y 期蔬104出土陶片陶质、纹饰 统计 囊…pp(240)\n第"
+      },
+      {
+        "text": "陶片",
+        "page": 9,
+        "source": "ocr",
+        "context": "…pp(240)\n第了TY期H401出土陶片陶质、纹饰 统计 Beene cee e"
+      },
+      {
+        "text": "陶片",
+        "page": 9,
+        "source": "ocr",
+        "context": "RE pe (243)\n第页期机35出土陶片陶质、纹饰统计甫pp (244)\n3S "
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "H5",
+        "page": 9,
+        "source": "ocr",
+        "context": "ee sees   (231)\n第了期 H5、H60、H417、H418 出土陶片器"
+      },
+      {
+        "text": "H60",
+        "page": 9,
+        "source": "ocr",
+        "context": "sees   (231)\n第了期 H5、H60、H417、H418 出土陶片器形统计表"
+      },
+      {
+        "text": "H417",
+        "page": 9,
+        "source": "ocr",
+        "context": "   (231)\n第了期 H5、H60、H417、H418 出土陶片器形统计表 ………("
+      },
+      {
+        "text": "H418",
+        "page": 9,
+        "source": "ocr",
+        "context": "31)\n第了期 H5、H60、H417、H418 出土陶片器形统计表 ………(233 )"
+      },
+      {
+        "text": "H104",
+        "page": 9,
+        "source": "ocr",
+        "context": "eees   (238)\n第V期E67、H104、H401出土陶片器形统计 表……………"
+      },
+      {
+        "text": "G6",
+        "page": 9,
+        "source": "ocr",
+        "context": "甫pp (244)\n3S Vi PAH G6} Eig HBL, SUT PETE "
+      },
+      {
+        "text": "T1021",
+        "page": 10,
+        "source": "ocr",
+        "context": " eee\n\nFAH HAT 1011, T1021, T1031 PR BE BR Tay"
+      },
+      {
+        "text": "T1031",
+        "page": 10,
+        "source": "ocr",
+        "context": "AH HAT 1011, T1021, T1031 PR BE BR Tay 图.pe(1"
+      },
+      {
+        "text": "T4453",
+        "page": 10,
+        "source": "ocr",
+        "context": "e(12)\n图一六“第四地点T4452、T4453、T4454北壁 剖面 图ppp(13 "
+      },
+      {
+        "text": "S60",
+        "page": 12,
+        "source": "ocr",
+        "context": "PP Y 50352, Bi 面 图本\nS60 WEG) SOAS, BA 面 图\nS"
+      },
+      {
+        "text": "M5",
+        "page": 12,
+        "source": "ocr",
+        "context": "AS, BA 面 图\nSS WE HF M5.1 2.50 而 图\nSS WH M5"
+      },
+      {
+        "text": "M5",
+        "page": 12,
+        "source": "ocr",
+        "context": "M5.1 2.50 而 图\nSS WH M5 0432 面 图ee\nSE WE HI"
+      },
+      {
+        "text": "F332",
+        "page": 13,
+        "source": "ocr",
+        "context": "、蚌器.pe( 99 )\nSSW BR F332, PALER ev(101)\n3S W"
+      },
+      {
+        "text": "F432",
+        "page": 13,
+        "source": "ocr",
+        "context": "ER ev(101)\n3S WV HA F432, FA] TH FR] pp (102"
+      },
+      {
+        "text": "F570",
+        "page": 13,
+        "source": "ocr",
+        "context": " F403平、剖面图(102)\n第了期 F570 32, TAR .…………… es于("
+      },
+      {
+        "text": "H418",
+        "page": 13,
+        "source": "ocr",
+        "context": ".…………… es于(103)\n第了期 H418 平、剖面图 ee(103)\n\n—OO "
+      },
+      {
+        "text": "M7",
+        "page": 13,
+        "source": "ocr",
+        "context": "面加.pe(107)\n\n一〇四 第和期 M7 平面图pe(108)\n一〇五”第区期 "
+      },
+      {
+        "text": "M501",
+        "page": 13,
+        "source": "ocr",
+        "context": " 平面图pe(108)\n一〇五”第区期 M501 平面图站(108)\n一〇七 ”第期 M"
+      },
+      {
+        "text": "M516",
+        "page": 13,
+        "source": "ocr",
+        "context": "1 平面图站(108)\n一〇七 ”第期 M516 平面峡pe(109)\n图一〇九”第入期"
+      },
+      {
+        "text": "M517",
+        "page": 15,
+        "source": "ocr",
+        "context": "Z 面 图.ee(189)\nBS VE M517 平面图pp(189)\n\n第页期石、骨、"
+      }
+    ],
+    "遗址名称": [
+      {
+        "text": "庙底沟",
+        "page": 10,
+        "source": "ocr",
+        "context": ")\n图一八_第五、六地点地层出土的战国、庙底沟第卫期文化陶器:pp(15 )\n图一九 "
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T2101",
+        "page": 10,
+        "source": "ocr",
+        "context": "点遗迹分布图PN 6 )\n图六 第二地点T2101、T2102遗迹分布 加pp 7)\n图八"
+      },
+      {
+        "text": "T2102",
+        "page": 10,
+        "source": "ocr",
+        "context": "PN 6 )\n图六 第二地点T2101、T2102遗迹分布 加pp 7)\n图八   第三地"
+      },
+      {
+        "text": "T3002",
+        "page": 10,
+        "source": "ocr",
+        "context": "迹分布 加pp 7)\n图八   第三地点T3002遗迹分布 图本(7 )\n图九  第四地点"
+      },
+      {
+        "text": "T6619",
+        "page": 10,
+        "source": "ocr",
+        "context": "点第 TI 、下期遗迹分布图pe\n六地点T6619、T6620遗迹分 布 国避pp\n\n第八"
+      },
+      {
+        "text": "T6620",
+        "page": 10,
+        "source": "ocr",
+        "context": "、下期遗迹分布图pe\n六地点T6619、T6620遗迹分 布 国避pp\n\n第八地点T860"
+      },
+      {
+        "text": "T8601",
+        "page": 10,
+        "source": "ocr",
+        "context": "6620遗迹分 布 国避pp\n\n第八地点T8601遗迹分布 国汪pp\n\n第八地点T8603"
+      },
+      {
+        "text": "T8603",
+        "page": 10,
+        "source": "ocr",
+        "context": "T8601遗迹分布 国汪pp\n\n第八地点T8603遗迹分布 图pp\n\nBeeer ee s"
+      },
+      {
+        "text": "T1021",
+        "page": 10,
+        "source": "ocr",
+        "context": " eee\n\nFAH HAT 1011, T1021, T1031 PR BE BR Tay"
+      },
+      {
+        "text": "T1031",
+        "page": 10,
+        "source": "ocr",
+        "context": "AH HAT 1011, T1021, T1031 PR BE BR Tay 图.pe(1"
+      },
+      {
+        "text": "T4452",
+        "page": 10,
+        "source": "ocr",
+        "context": "ay 图.pe(12)\n图一六“第四地点T4452、T4453、T4454北壁 剖面 图p"
+      },
+      {
+        "text": "T4453",
+        "page": 10,
+        "source": "ocr",
+        "context": "e(12)\n图一六“第四地点T4452、T4453、T4454北壁 剖面 图ppp(13 "
+      },
+      {
+        "text": "T4454",
+        "page": 10,
+        "source": "ocr",
+        "context": "图一六“第四地点T4452、T4453、T4454北壁 剖面 图ppp(13 )\nBot "
+      },
+      {
+        "text": "T5521",
+        "page": 11,
+        "source": "ocr",
+        "context": "饰拓片ee\n\n第和夏期里沟槽西南角 〔(T5521东壁) BAT 图Ne\n第下期外沟槽北沟"
+      },
+      {
+        "text": "T3002",
+        "page": 11,
+        "source": "ocr",
+        "context": ") BAT 图Ne\n第下期外沟槽北沟〈《T3002东壁) 剖面 图.pp\nSb FRI S"
+      },
+      {
+        "text": "T6619",
+        "page": 11,
+        "source": "ocr",
+        "context": " 图.pp\nSb FRI SF Ey (T6619中) FATE 图PP\n第夏期FR595"
+      },
+      {
+        "text": "T5500",
+        "page": 14,
+        "source": "ocr",
+        "context": "代城墙平面图pp\n第Y 期商代城墙 (CT5500东壁) 剖面图pp\nFSV 期商代城墙("
+      },
+      {
+        "text": "T7700",
+        "page": 14,
+        "source": "ocr",
+        "context": "东壁) 剖面图pp\nFSV 期商代城墙(T7700北壁) 谢面图pp\n第Y 期商代圆形建筑"
+      }
+    ],
+    "年代": [
+      {
+        "text": "战国",
+        "page": 10,
+        "source": "ocr",
+        "context": "(14)\n图一八_第五、六地点地层出土的战国、庙底沟第卫期文化陶器:pp(15 )\n"
+      },
+      {
+        "text": "商代",
+        "page": 14,
+        "source": "ocr",
+        "context": "\nSW FAK, 骨、 陶器ee\n第Y期商代城墙平面图pp\n第Y 期商代城墙 (CT"
+      },
+      {
+        "text": "商代",
+        "page": 14,
+        "source": "ocr",
+        "context": "ee\n第Y期商代城墙平面图pp\n第Y 期商代城墙 (CT5500东壁) 剖面图pp\n"
+      },
+      {
+        "text": "商代",
+        "page": 14,
+        "source": "ocr",
+        "context": "T5500东壁) 剖面图pp\nFSV 期商代城墙(T7700北壁) 谢面图pp\n第Y"
+      },
+      {
+        "text": "商代",
+        "page": 14,
+        "source": "ocr",
+        "context": "(T7700北壁) 谢面图pp\n第Y 期商代圆形建筑基址平面图…………:\n\nSV 期"
+      },
+      {
+        "text": "商代",
+        "page": 14,
+        "source": "ocr",
+        "context": "圆形建筑基址平面图…………:\n\nSV 期商代圆形建筑基址F502平、 前 面 图.p"
+      },
+      {
+        "text": "商代",
+        "page": 14,
+        "source": "ocr",
+        "context": "502平、 前 面 图.ppp\n\n第V期商代圆形建筑基址FE506 平、齐面图 pp"
+      }
+    ]
+  }
+}

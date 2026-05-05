@@ -1,0 +1,81 @@
+{
+  "name": "西汉南越王墓下册",
+  "file": "西汉南越王墓下册.pdf",
+  "era": "西汉",
+  "culture": "南越国",
+  "processed_pages": 15,
+  "total_entities": 9,
+  "entity_stats": {
+    "铜器": 5,
+    "金器": 1,
+    "银器": 1,
+    "年代": 1,
+    "遗迹编号": 1
+  },
+  "entities": {
+    "铜器": [
+      {
+        "text": "饰",
+        "page": 1,
+        "source": "ocr",
+        "context": "1.博局的金饰片(B33 )             "
+      },
+      {
+        "text": "饰",
+        "page": 2,
+        "source": "ocr",
+        "context": "图版三OUXXXI)\n\n2. 龙首形象牙饰(B99 )\n\n1. 潜食残盖(B121"
+      },
+      {
+        "text": "饰",
+        "page": 2,
+        "source": "ocr",
+        "context": ". 潜食残盖(B121)\n\n4.矩形象牙饰(B117)\n\n3.木傅(B79、B80"
+      },
+      {
+        "text": "镜",
+        "page": 13,
+        "source": "ocr",
+        "context": " BEA I (C231)\n\n2. 带托镜内的胶潜痕(C231 )\n\n4. WI("
+      },
+      {
+        "text": "铜镜",
+        "page": 13,
+        "source": "ocr",
+        "context": "1)\n\n3. Ml(C213)\n\n西耳室铜镜\n"
+      }
+    ],
+    "金器": [
+      {
+        "text": "金饰",
+        "page": 1,
+        "source": "ocr",
+        "context": "1.博局的金饰片(B33 )             "
+      }
+    ],
+    "银器": [
+      {
+        "text": "银片",
+        "page": 1,
+        "source": "ocr",
+        "context": "                  2.银片(B82)\n\n4. HR RF PA Y"
+      }
+    ],
+    "年代": [
+      {
+        "text": "金",
+        "page": 1,
+        "source": "ocr",
+        "context": "1.博局的金饰片(B33 )            "
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "S88",
+        "page": 10,
+        "source": "ocr",
+        "context": ")\n\n2.锅(C91)\n\n1. $f) S88 HIE (C91, C92, C93)"
+      }
+    ]
+  }
+}

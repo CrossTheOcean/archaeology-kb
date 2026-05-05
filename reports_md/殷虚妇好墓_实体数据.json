@@ -1,0 +1,378 @@
+{
+  "name": "殷虚妇好墓",
+  "file": "殷虚妇好墓.pdf",
+  "era": "商代",
+  "culture": "殷墟",
+  "processed_pages": 15,
+  "total_entities": 55,
+  "entity_stats": {
+    "遗址名称": 4,
+    "陶器": 10,
+    "铜器": 21,
+    "遗迹编号": 6,
+    "地层": 1,
+    "纹饰": 1,
+    "玉器": 3,
+    "遗迹类型": 1,
+    "层位关系": 2,
+    "测量数据": 1,
+    "年代": 4,
+    "建筑结构": 1
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "安阳",
+        "page": 4,
+        "source": "ocr",
+        "context": "CREM) ，是中国社会科学院考古研究所安阳工作队厅1976\n年发掘的，革部埋在一座"
+      },
+      {
+        "text": "妇好墓",
+        "page": 4,
+        "source": "ocr",
+        "context": "，是设王室幕中最完整的一批资料。本书即是妇好墓的一部全面综合\n性的报告。\n\n根据幕中所"
+      },
+      {
+        "text": "小屯",
+        "page": 15,
+        "source": "ocr",
+        "context": "世纪，历时二百七-二三年。\n\n酒水南岸的小屯科，是般束的中心， RUEDPHRIEP"
+      },
+      {
+        "text": "小屯",
+        "page": 15,
+        "source": "ocr",
+        "context": "A\n条由小电村遂向酒河南岸的小路，路东为小屯大队第四、五生产队的场院，也是 oH\n地"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "环",
+        "page": 4,
+        "source": "ocr",
+        "context": "埋在一座股代房基下面，规模不太大，但莫空环遵破十，陆葛器物\n裤共丰富柄美，是设王室"
+      },
+      {
+        "text": "刀",
+        "page": 8,
+        "source": "ocr",
+        "context": "e one ene one ons\n玉刻刀等拓片…… were\nThE TR A\n"
+      },
+      {
+        "text": "盘",
+        "page": 10,
+        "source": "ocr",
+        "context": "\naE\n\n钢 秘\n\n妇好大型铜钱\n\nx 盘\n\n工式玉环与I式玉壁\nIRERSTAR"
+      },
+      {
+        "text": "环",
+        "page": 10,
+        "source": "ocr",
+        "context": " 秘\n\n妇好大型铜钱\n\nx 盘\n\n工式玉环与I式玉壁\nIRERSTARER\n\nTA"
+      },
+      {
+        "text": "盘",
+        "page": 11,
+        "source": "ocr",
+        "context": "fae\nAl el SE\n工式妇好钢封口盘\n\nPER tt\n四一 WV RAAT "
+      },
+      {
+        "text": "环",
+        "page": 12,
+        "source": "ocr",
+        "context": "t SE\n\n[RE\n\nT. EH\n工式玉环\n\nIRE\n\nI, LAERBR URE"
+      },
+      {
+        "text": "纺轮",
+        "page": 13,
+        "source": "ocr",
+        "context": " EMH) SRS IE\n器\n\nI工式玉纺轮\n\n工式玉纺轮\n\nI, TXEBR\n\nI"
+      },
+      {
+        "text": "纺轮",
+        "page": 13,
+        "source": "ocr",
+        "context": "RS IE\n器\n\nI工式玉纺轮\n\n工式玉纺轮\n\nI, TXEBR\n\nI, DAEF "
+      },
+      {
+        "text": "壶",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n\nAit. Fh, BR. APR\n石壶形器等\n\nKRABARS BRAS\n\n石"
+      },
+      {
+        "text": "盘",
+        "page": 15,
+        "source": "ocr",
+        "context": "本纪》 《正义》引《竹书纪年》, “和白盘上庚徙股，至绎之灭，七百七十\n三年，更不"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "环",
+        "page": 4,
+        "source": "ocr",
+        "context": "埋在一座股代房基下面，规模不太大，但莫空环遵破十，陆葛器物\n裤共丰富柄美，是设王室"
+      },
+      {
+        "text": "锛",
+        "page": 8,
+        "source": "ocr",
+        "context": "             (101)\n铀锛及铜多钩形器……            "
+      },
+      {
+        "text": "铜镜",
+        "page": 8,
+        "source": "ocr",
+        "context": "              (1027\n铜镜。                   "
+      },
+      {
+        "text": "刀",
+        "page": 8,
+        "source": "ocr",
+        "context": "e one ene one ons\n玉刻刀等拓片…… were\nThE TR A\n"
+      },
+      {
+        "text": "饰",
+        "page": 8,
+        "source": "ocr",
+        "context": ":   et\n玉人等拓片…\n亿带、争嵌玉饰〈龙、虎、能、象等) serene\nWA"
+      },
+      {
+        "text": "盘",
+        "page": 10,
+        "source": "ocr",
+        "context": "\naE\n\n钢 秘\n\n妇好大型铜钱\n\nx 盘\n\n工式玉环与I式玉壁\nIRERSTAR"
+      },
+      {
+        "text": "环",
+        "page": 10,
+        "source": "ocr",
+        "context": " 秘\n\n妇好大型铜钱\n\nx 盘\n\n工式玉环与I式玉壁\nIRERSTARER\n\nTA"
+      },
+      {
+        "text": "盘",
+        "page": 11,
+        "source": "ocr",
+        "context": "fae\nAl el SE\n工式妇好钢封口盘\n\nPER tt\n四一 WV RAAT "
+      },
+      {
+        "text": "镜",
+        "page": 12,
+        "source": "ocr",
+        "context": "I, 0, IX\n\n钢丁字形器、铀夕及铀镜等\n亚启铜钱及工式铜戈\n\nI. Wt H"
+      },
+      {
+        "text": "铜戈",
+        "page": 12,
+        "source": "ocr",
+        "context": "钢丁字形器、铀夕及铀镜等\n亚启铜钱及工式铜戈\n\nI. Wt Hae\n\nER wARS"
+      },
+      {
+        "text": "铃",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n\nHAI A RH ERB\n工、工式钢铃及铜泡\nHSB. ABABARR\n柄等\n"
+      },
+      {
+        "text": "铜泡",
+        "page": 12,
+        "source": "ocr",
+        "context": "HAI A RH ERB\n工、工式钢铃及铜泡\nHSB. ABABARR\n柄等\n\nI,"
+      },
+      {
+        "text": "环",
+        "page": 12,
+        "source": "ocr",
+        "context": "t SE\n\n[RE\n\nT. EH\n工式玉环\n\nIRE\n\nI, LAERBR URE"
+      },
+      {
+        "text": "饰",
+        "page": 13,
+        "source": "ocr",
+        "context": "SE, VRE\nFT th\n\n工式玉柄形饰\n\nIRE i\n\n1, DARE\n\n工一"
+      },
+      {
+        "text": "饰",
+        "page": 13,
+        "source": "ocr",
+        "context": " i\n\n1, DARE\n\n工一正式玉柄形饰与玉长杀形\n饰等\n\n下长条穿孔条\n\nRC"
+      },
+      {
+        "text": "饰",
+        "page": 13,
+        "source": "ocr",
+        "context": "DARE\n\n工一正式玉柄形饰与玉长杀形\n饰等\n\n下长条穿孔条\n\nRCT. BERR"
+      },
+      {
+        "text": "饰",
+        "page": 13,
+        "source": "ocr",
+        "context": "穿孔条\n\nRCT. BERR SAS\n形饰等\n\n玉 杂 iti\n\n玉角形饰、长条铁"
+      },
+      {
+        "text": "饰",
+        "page": 13,
+        "source": "ocr",
+        "context": "AS\n形饰等\n\n玉 杂 iti\n\n玉角形饰、长条铁空玉片与玉\nJae Se\n\nRA"
+      },
+      {
+        "text": "饰",
+        "page": 14,
+        "source": "ocr",
+        "context": "REARS\nREA. RHSRBRIY\n饰等\n\nAG Sit Am\n\nFS 6\n\n"
+      },
+      {
+        "text": "壶",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n\nAit. Fh, BR. APR\n石壶形器等\n\nKRABARS BRAS\n\n石"
+      },
+      {
+        "text": "盘",
+        "page": 15,
+        "source": "ocr",
+        "context": "本纪》 《正义》引《竹书纪年》, “和白盘上庚徙股，至绎之灭，七百七十\n三年，更不"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "G6",
+        "page": 6,
+        "source": "ocr",
+        "context": "   … (25)\n一五 We RRS G6 AD 拓片…             "
+      },
+      {
+        "text": "M8",
+        "page": 6,
+        "source": "ocr",
+        "context": "   “ (34)\n\nHAE LBC. M8, BCH Hr            "
+      },
+      {
+        "text": "G8",
+        "page": 6,
+        "source": "ocr",
+        "context": "                  * G8\n\nWid de Al ad Be BB"
+      },
+      {
+        "text": "G1",
+        "page": 7,
+        "source": "ocr",
+        "context": "(45)\n47)\n\nse C48)\n… G1)\n… (52)\n+ (54)\n++ ("
+      },
+      {
+        "text": "S47",
+        "page": 11,
+        "source": "ocr",
+        "context": "BT\nTks Ai A\n\nUL Ast S47 2! $4\nNAR SF ALL\n\nT"
+      },
+      {
+        "text": "M11",
+        "page": 15,
+        "source": "ocr",
+        "context": "k Ep, A\nTREMP Life, M11 H20R a, RTD AVETS T"
+      }
+    ],
+    "地层": [
+      {
+        "text": "第6层",
+        "page": 6,
+        "source": "ocr",
+        "context": "            … 《10\n五 第6层部分随莫器物分布图           "
+      }
+    ],
+    "纹饰": [
+      {
+        "text": "鸟纹",
+        "page": 6,
+        "source": "ocr",
+        "context": "          + (35)\n\n网器鸟纹拓片*…                "
+      }
+    ],
+    "玉器": [
+      {
+        "text": "玉饰",
+        "page": 8,
+        "source": "ocr",
+        "context": "…:   et\n玉人等拓片…\n亿带、争嵌玉饰〈龙、虎、能、象等) serene\nWA"
+      },
+      {
+        "text": "玉环",
+        "page": 10,
+        "source": "ocr",
+        "context": "钢 秘\n\n妇好大型铜钱\n\nx 盘\n\n工式玉环与I式玉壁\nIRERSTARER\n\nTA"
+      },
+      {
+        "text": "玉环",
+        "page": 12,
+        "source": "ocr",
+        "context": "Tt SE\n\n[RE\n\nT. EH\n工式玉环\n\nIRE\n\nI, LAERBR URE"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "基址",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n为了进一步了解这片岗地的文化民堆积以及基址的分布情况，为第二年的正式发掘\n作好准备"
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "夯土",
+        "page": 15,
+        "source": "ocr",
+        "context": "，我们铲探了岗地的四缘，发现东部有较厚的夯土，往凸夯士汤意- 11有23一\n25日，"
+      },
+      {
+        "text": "堆积",
+        "page": 15,
+        "source": "ocr",
+        "context": "特征。\n\n为了进一步了解这片岗地的文化民堆积以及基址的分布情况，为第二年的正式发掘\n"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": " 10米",
+        "page": 15,
+        "source": "ocr",
+        "context": "月工日起，我们在岗地的东南陋开控了5 x 10米的探方六个。并描喜出般\n代房基数座。后因"
+      }
+    ],
+    "年代": [
+      {
+        "text": "元",
+        "page": 15,
+        "source": "ocr",
+        "context": "之误。丰和王朝在扔墟的建都\n有时间约当公元前十四世纪未至公元前十一世纪，历时二百七"
+      },
+      {
+        "text": "元",
+        "page": 15,
+        "source": "ocr",
+        "context": "墟的建都\n有时间约当公元前十四世纪未至公元前十一世纪，历时二百七-二三年。\n\n酒水"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "ocr",
+        "context": "描喜出般\n代房基数座。后因天气严寒，不宜清理，12月15日，予以覆盖。\n\n1976"
+      },
+      {
+        "text": "春秋",
+        "page": 15,
+        "source": "ocr",
+        "context": "，12月15日，予以覆盖。\n\n1976年春秋两季，继续在此进行发气。春季参加的工作人"
+      }
+    ],
+    "建筑结构": [
+      {
+        "text": "夯土",
+        "page": 15,
+        "source": "ocr",
+        "context": "，我们铲探了岗地的四缘，发现东部有较厚的夯土，往凸夯士汤意- 11有23一\n25日，"
+      }
+    ]
+  }
+}

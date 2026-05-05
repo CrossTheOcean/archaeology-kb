@@ -1,0 +1,62 @@
+{
+  "name": "吐鲁番考古记",
+  "file": "吐鲁番考古记.pdf",
+  "processed_pages": 82,
+  "total_pages": 202,
+  "total_entities": 7,
+  "entity_stats": {
+    "测量数据": 1,
+    "年代": 1,
+    "遗迹编号": 5
+  },
+  "entities": {
+    "测量数据": [
+      {
+        "text": " 1 m",
+        "page": 17,
+        "source": "ocr",
+        "context": "RECERHE CRRPALO 1]M+ 1 mRBey\" SISA” WIS” see"
+      }
+    ],
+    "年代": [
+      {
+        "text": "唐",
+        "page": 34,
+        "source": "ocr",
+        "context": "VE\n一\n入\ntt\n一\nte}\nty\n|唐\nme\n别\nBK\na:\n作\nte\n.\n#"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "M4",
+        "page": 46,
+        "source": "ocr",
+        "context": "IU SRERERH MORE RAN M4 | oho Me KeecateE” "
+      },
+      {
+        "text": "S80",
+        "page": 55,
+        "source": "ocr",
+        "context": "OURS AR SEKI BEEN? (S80 148) SRST MER &\nink"
+      },
+      {
+        "text": "H2",
+        "page": 59,
+        "source": "ocr",
+        "context": "WIRENOBEREK SSR RKN\nH2 KRMBEN BHAI MEME   "
+      },
+      {
+        "text": "S3",
+        "page": 72,
+        "source": "ocr",
+        "context": "             WY\n\n] £S3—8\n\n"
+      },
+      {
+        "text": "S9",
+        "page": 73,
+        "source": "ocr",
+        "context": "RRERENE EEREKTTSEN [S9° REESRWRRE FLEET! |"
+      }
+    ]
+  }
+}

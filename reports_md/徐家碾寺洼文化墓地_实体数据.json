@@ -1,0 +1,1389 @@
+{
+  "name": "徐家碾寺洼文化墓地",
+  "file": "徐家碾寺洼文化墓地.pdf",
+  "era": "青铜时代",
+  "culture": "寺洼文化",
+  "processed_pages": 15,
+  "total_entities": 225,
+  "entity_stats": {
+    "遗址名称": 74,
+    "年代": 6,
+    "遗迹类型": 13,
+    "遗迹编号": 110,
+    "遗存类型": 2,
+    "陶器": 5,
+    "铜器": 9,
+    "骨器": 3,
+    "纹饰": 3
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "徐家碾",
+        "page": 2,
+        "source": "ocr",
+        "context": "报告集\n考古学专刊\n了丁种第七十三号\n\n徐家碾等洼文化墓地\n\n一一1980 年甘肃庄浪"
+      },
+      {
+        "text": "徐家碾",
+        "page": 2,
+        "source": "ocr",
+        "context": "等洼文化墓地\n\n一一1980 年甘肃庄浪徐家碾考古发掘报告\n\n中国社会科学院考古研究所"
+      },
+      {
+        "text": "徐家碾",
+        "page": 4,
+        "source": "ocr",
+        "context": "内 et\n\n徐家碾甘地是迄今发掘规模最大，收获最为丰富的寺"
+      },
+      {
+        "text": "寺洼",
+        "page": 4,
+        "source": "ocr",
+        "context": "碾甘地是迄今发掘规模最大，收获最为丰富的寺洼文化考古项\n目，本书也是至今唯一一部寺洼"
+      },
+      {
+        "text": "寺洼",
+        "page": 4,
+        "source": "ocr",
+        "context": "寺洼文化考古项\n目，本书也是至今唯一一部寺洼文化考古学专刊。\n\nREDABA, ER"
+      },
+      {
+        "text": "寺洼",
+        "page": 4,
+        "source": "ocr",
+        "context": "R, MATHARRARNAREL,\n\n寺洼文化房民和周人都是中国古代羌戒族群体的一"
+      },
+      {
+        "text": "寺洼",
+        "page": 4,
+        "source": "ocr",
+        "context": "在着错综复杂的文化交流和陨合现象，所以，寺洼文化是探讨中国古\n代文明及华夏民族形成与"
+      },
+      {
+        "text": "徐家碾",
+        "page": 4,
+        "source": "ocr",
+        "context": "。-\n\n图书在版编目(CIP)} 数据\n徐家碾寺洼文化幕地一一1980 SEAT FE"
+      },
+      {
+        "text": "寺洼",
+        "page": 4,
+        "source": "ocr",
+        "context": "\n图书在版编目(CIP)} 数据\n徐家碾寺洼文化幕地一一1980 SEAT FE I"
+      },
+      {
+        "text": "寺洼",
+        "page": 6,
+        "source": "ocr",
+        "context": "学术委员会评审意见\n\n寺洼文化是中国西北地区青铜时代的重要考古学文"
+      },
+      {
+        "text": "寺洼",
+        "page": 6,
+        "source": "ocr",
+        "context": "北地区青铜时代的重要考古学文化，《徐家研寺洼文化幕\n地一一1980 年甘肃庄浪徐家碾"
+      },
+      {
+        "text": "徐家碾",
+        "page": 6,
+        "source": "ocr",
+        "context": "研寺洼文化幕\n地一一1980 年甘肃庄浪徐家碾考古发掘报告》就是一部关于寺洼文化的考古"
+      },
+      {
+        "text": "寺洼",
+        "page": 6,
+        "source": "ocr",
+        "context": "甘肃庄浪徐家碾考古发掘报告》就是一部关于寺洼文化的考古学专\n著，也是中国考古学的第一"
+      },
+      {
+        "text": "寺洼",
+        "page": 6,
+        "source": "ocr",
+        "context": "化的考古学专\n著，也是中国考古学的第一部寺洼文化莫地考古发掘报告。本书的出版对于寺洼"
+      },
+      {
+        "text": "寺洼",
+        "page": 6,
+        "source": "ocr",
+        "context": "寺洼文化莫地考古发掘报告。本书的出版对于寺洼文\n化研究，甚至中国古代青铜时代文化研究"
+      },
+      {
+        "text": "徐家碾",
+        "page": 6,
+        "source": "ocr",
+        "context": "代文化研究都必将有着重要学术意义。\n\n《徐家碾寺尘文化墓地一一1980 年甘肃证浪徐家"
+      },
+      {
+        "text": "徐家碾",
+        "page": 6,
+        "source": "ocr",
+        "context": "所泾滑工作队 1980 年对甘肃省庄浪县徐家碾寺洼文化幕\n地考古发掘的学术收获。墓葬作"
+      },
+      {
+        "text": "寺洼",
+        "page": 6,
+        "source": "ocr",
+        "context": "工作队 1980 年对甘肃省庄浪县徐家碾寺洼文化幕\n地考古发掘的学术收获。墓葬作为考"
+      },
+      {
+        "text": "徐家碾",
+        "page": 7,
+        "source": "ocr",
+        "context": "著作出版推荐意见书\n\n《徐家碾寺注文化墓地一一1980 年甘肃庄浪徐家"
+      },
+      {
+        "text": "寺洼",
+        "page": 7,
+        "source": "ocr",
+        "context": "肃庄浪徐家研考古发掘报告》是第一部关\n于寺洼文化墓地的考古发掘报告。它的出版，将弥补"
+      },
+      {
+        "text": "寺洼",
+        "page": 7,
+        "source": "ocr",
+        "context": "墓地的考古发掘报告。它的出版，将弥补关于寺洼文化幕莫考古专刊的\n空白，对于西北地区青"
+      },
+      {
+        "text": "寺洼",
+        "page": 7,
+        "source": "ocr",
+        "context": "具有重要意义。\n\n本报告不仅系统地梳理了寺洼文化墓莫的资料，而且对寺洼文化的特征、埋"
+      },
+      {
+        "text": "寺洼",
+        "page": 7,
+        "source": "ocr",
+        "context": "仅系统地梳理了寺洼文化墓莫的资料，而且对寺洼文化的特征、埋请\n习俗及其与周文化之间的"
+      },
+      {
+        "text": "徐家碾",
+        "page": 7,
+        "source": "ocr",
+        "context": "\n王 &\n\n著作出版推荐意见书\n\n庄浪县徐家碾幕地是寺注文化发所规模最大、收获最为丰富"
+      },
+      {
+        "text": "寺洼",
+        "page": 7,
+        "source": "ocr",
+        "context": "丰富的考古项目，本书\n也是迄今唯一的一部寺洼文化考古学专刊。专刊全面系统地报道了发气"
+      },
+      {
+        "text": "寺洼",
+        "page": 7,
+        "source": "ocr",
+        "context": "专刊全面系统地报道了发气资料，并探\n讨了寺洼文化的相关问题，本书的出版必将有力推动夺"
+      },
+      {
+        "text": "徐家碾",
+        "page": 9,
+        "source": "ocr",
+        "context": "徐家碾寺注文化大地~一1980 年甘肃庄浪徐家"
+      },
+      {
+        "text": "徐家碾",
+        "page": 10,
+        "source": "ocr",
+        "context": "附表一”徐家碾寺注文化墓匡登记表、\n附表二器物揪图、图"
+      },
+      {
+        "text": "寺洼",
+        "page": 10,
+        "source": "ocr",
+        "context": "版及说明索习表\n\n附录一”甘肃庄浪徐家研寺洼文化墓葬出土铜器化学组成分析与研究……\n"
+      },
+      {
+        "text": "徐家碾",
+        "page": 10,
+        "source": "ocr",
+        "context": "化学组成分析与研究……\n附录二”甘肃庄浪徐家碾寺洼文化人骨研究…\n附录三”甘肃庄浪徐家"
+      },
+      {
+        "text": "寺洼",
+        "page": 10,
+        "source": "ocr",
+        "context": "成分析与研究……\n附录二”甘肃庄浪徐家碾寺洼文化人骨研究…\n附录三”甘肃庄浪徐家不寺"
+      },
+      {
+        "text": "徐家碾",
+        "page": 10,
+        "source": "ocr",
+        "context": "注文化幕苦出土动物角骼研究报告\n甘肃庄浪徐家碾寺洼文化出土陶器的化学组成分析…\n\n"
+      },
+      {
+        "text": "寺洼",
+        "page": 10,
+        "source": "ocr",
+        "context": "幕苦出土动物角骼研究报告\n甘肃庄浪徐家碾寺洼文化出土陶器的化学组成分析…\n\n"
+      },
+      {
+        "text": "寺洼",
+        "page": 11,
+        "source": "ocr",
+        "context": "插图目录\n\n甘肃省庄浪县寺洼文化遗址分布图…\nRAPE XC\nPRR"
+      },
+      {
+        "text": "寺洼",
+        "page": 12,
+        "source": "ocr",
+        "context": "             = (95)\n寺洼蔓草出土的产纺轮和和骨纺轮 ee    "
+      },
+      {
+        "text": "寺洼",
+        "page": 12,
+        "source": "ocr",
+        "context": "轮 ee        … (97)\n\n寺洼墓葬 MI3 和 M31 放置骨管珠项链"
+      },
+      {
+        "text": "寺洼",
+        "page": 13,
+        "source": "ocr",
+        "context": " EAI RRR ARERR\n土位置|\n寺洼幕葬出土的项链…\n寺洼蔓碍出土的石器、铜"
+      },
+      {
+        "text": "寺洼",
+        "page": 13,
+        "source": "ocr",
+        "context": "ERR\n土位置|\n寺洼幕葬出土的项链…\n寺洼蔓碍出土的石器、铜器和贝\nFERRETS"
+      },
+      {
+        "text": "寺洼",
+        "page": 13,
+        "source": "ocr",
+        "context": "铜器和贝\nFERRETS, GIADA\n寺洼墓葬出土的耳饰和铀泡…\nFERRY LM"
+      },
+      {
+        "text": "寺洼",
+        "page": 13,
+        "source": "ocr",
+        "context": "E MOT 平、剖面图及完整的陶器 …\n寺洼幕萍 M63 平 、剖面图及完整的陶器 "
+      },
+      {
+        "text": "寺洼",
+        "page": 13,
+        "source": "ocr",
+        "context": " M63 平 、剖面图及完整的陶器 …\n寺洼幕昔 M24 平、齐面图及完整的陶器\nS"
+      },
+      {
+        "text": "寺洼",
+        "page": 13,
+        "source": "ocr",
+        "context": " IE M28 出土的完整的陶器 -\n\n寺洼幕莫 M72 平、剖面图及完整的陶器 …"
+      },
+      {
+        "text": "寺洼",
+        "page": 14,
+        "source": "ocr",
+        "context": "六\n彩版七\n彩版八\n\n彩版目录\n\n徐家醋寺洼文化墓莫出土的彩陶马鞍形口陶负\n\n徐家研"
+      },
+      {
+        "text": "寺洼",
+        "page": 14,
+        "source": "ocr",
+        "context": "文化墓莫出土的彩陶马鞍形口陶负\n\n徐家研寺洼文化莫昔出土的双马鞍形口吻负和马圾形口陶"
+      },
+      {
+        "text": "寺洼",
+        "page": 14,
+        "source": "ocr",
+        "context": "土的双马鞍形口吻负和马圾形口陶铅\n徐家缚寺洼文化医匡出土的彩陶双大耳陶负和单圆座五连"
+      },
+      {
+        "text": "徐家碾",
+        "page": 14,
+        "source": "ocr",
+        "context": " ARI HR\nRRIF ARE +\n\n徐家碾寺注文化幕音出土的铜器和红漆皮和碎片\n\n"
+      },
+      {
+        "text": "徐家碾",
+        "page": 15,
+        "source": "ocr",
+        "context": "图版目录\n\n图版一，徐家碾寺建文化墓地全景 (西南一东北)\n图版二"
+      },
+      {
+        "text": "徐家碾",
+        "page": 15,
+        "source": "ocr",
+        "context": "文化墓地全景 (西南一东北)\n图版二 ”徐家碾寺洼文化莫地的发掘情景 〈北一南)\n\n图"
+      },
+      {
+        "text": "寺洼",
+        "page": 15,
+        "source": "ocr",
+        "context": "地全景 (西南一东北)\n图版二 ”徐家碾寺洼文化莫地的发掘情景 〈北一南)\n\n图版三"
+      },
+      {
+        "text": "寺洼",
+        "page": 15,
+        "source": "ocr",
+        "context": "的发掘情景 〈北一南)\n\n图版三”徐家研寺洼文化墓地的发掘情景\n\n图版四 PRACG"
+      },
+      {
+        "text": "寺洼",
+        "page": 15,
+        "source": "ocr",
+        "context": "3. M30, M26\n\n图版五”徐家研寺洼文化幕莫 M78 M80,\n图版六”徐家"
+      },
+      {
+        "text": "徐家碾",
+        "page": 15,
+        "source": "ocr",
+        "context": "寺洼文化幕莫 M78 M80,\n图版六”徐家碾寺注文化幕划 M18、MI1、\n图版七“"
+      },
+      {
+        "text": "徐家碾",
+        "page": 15,
+        "source": "ocr",
+        "context": "注文化幕划 M18、MI1、\n图版七“”徐家碾寺洼文化墓葬 MI16、M17、\n图版八"
+      },
+      {
+        "text": "寺洼",
+        "page": 15,
+        "source": "ocr",
+        "context": "幕划 M18、MI1、\n图版七“”徐家碾寺洼文化墓葬 MI16、M17、\n图版八”徐"
+      },
+      {
+        "text": "徐家碾",
+        "page": 15,
+        "source": "ocr",
+        "context": "洼文化墓葬 MI16、M17、\n图版八”徐家碾寺洼文化幕项 M62、M69 、\n图版九"
+      },
+      {
+        "text": "寺洼",
+        "page": 15,
+        "source": "ocr",
+        "context": "墓葬 MI16、M17、\n图版八”徐家碾寺洼文化幕项 M62、M69 、\n图版九”徐"
+      },
+      {
+        "text": "寺洼",
+        "page": 15,
+        "source": "ocr",
+        "context": "幕项 M62、M69 、\n图版九”徐家碌寺洼文化墓葬 M71, M73,\n\n图版一一"
+      },
+      {
+        "text": "寺洼",
+        "page": 15,
+        "source": "ocr",
+        "context": " M71, M73,\n\n图版一一，徐家醋寺洼文化莫昔 M82, M36\n\n图版一八“"
+      },
+      {
+        "text": "徐家碾",
+        "page": 15,
+        "source": "ocr",
+        "context": "文化莫昔 M82, M36\n\n图版一八“徐家碾寺洼文化幕葬 M33 MIS\n\nM83 "
+      },
+      {
+        "text": "寺洼",
+        "page": 15,
+        "source": "ocr",
+        "context": "昔 M82, M36\n\n图版一八“徐家碾寺洼文化幕葬 M33 MIS\n\nM83 、\n"
+      },
+      {
+        "text": "徐家碾",
+        "page": 15,
+        "source": "ocr",
+        "context": "E RE M21 REESE\n图版一三”徐家碾寺洼文化莫莫 M79, M1, M93,"
+      },
+      {
+        "text": "寺洼",
+        "page": 15,
+        "source": "ocr",
+        "context": "E M21 REESE\n图版一三”徐家碾寺洼文化莫莫 M79, M1, M93, M"
+      },
+      {
+        "text": "徐家碾",
+        "page": 15,
+        "source": "ocr",
+        "context": " M44, 、M64 、M66\n版一六“徐家碾寺洼文化墓莫 MS1, M52, M88"
+      },
+      {
+        "text": "寺洼",
+        "page": 15,
+        "source": "ocr",
+        "context": "4, 、M64 、M66\n版一六“徐家碾寺洼文化墓莫 MS1, M52, M88. "
+      },
+      {
+        "text": "徐家碾",
+        "page": 15,
+        "source": "ocr",
+        "context": "M52, M88. M89\n图版一七“”徐家碾寺洼文化草草 M10, M47, M55"
+      },
+      {
+        "text": "寺洼",
+        "page": 15,
+        "source": "ocr",
+        "context": ", M88. M89\n图版一七“”徐家碾寺洼文化草草 M10, M47, M55, "
+      },
+      {
+        "text": "徐家碾",
+        "page": 15,
+        "source": "ocr",
+        "context": "47, M55, M96\n\n图版一九“”徐家碾寺洼文化甘苦 M72、M77、M45\n图"
+      },
+      {
+        "text": "寺洼",
+        "page": 15,
+        "source": "ocr",
+        "context": " M55, M96\n\n图版一九“”徐家碾寺洼文化甘苦 M72、M77、M45\n图版二"
+      },
+      {
+        "text": "寺洼",
+        "page": 15,
+        "source": "ocr",
+        "context": " M72、M77、M45\n图版二 徐家醋寺洼文化莫非袋足隐遍〈A 类)\nAX — B"
+      },
+      {
+        "text": "徐家碾",
+        "page": 15,
+        "source": "ocr",
+        "context": "RARE (BE B 种)\n图版二五 ”徐家碾寺洼文化莫莫出土的双连责和单圆座五连杯\n"
+      },
+      {
+        "text": "寺洼",
+        "page": 15,
+        "source": "ocr",
+        "context": "E (BE B 种)\n图版二五 ”徐家碾寺洼文化莫莫出土的双连责和单圆座五连杯\n图版"
+      },
+      {
+        "text": "寺洼",
+        "page": 15,
+        "source": "ocr",
+        "context": "双连责和单圆座五连杯\n图版二六“”徐家研寺洼文化幕旨彩陶马鞭形口陶负\n\nM84\nM4"
+      },
+      {
+        "text": "徐家碾",
+        "page": 15,
+        "source": "ocr",
+        "context": "\nM84\nM43\n\nM61\n\n图版一D”徐家碾寺洼文化墓藉 MS6, M9, M31,"
+      },
+      {
+        "text": "寺洼",
+        "page": 15,
+        "source": "ocr",
+        "context": "4\nM43\n\nM61\n\n图版一D”徐家碾寺洼文化墓藉 MS6, M9, M31, M"
+      }
+    ],
+    "年代": [
+      {
+        "text": "明",
+        "page": 4,
+        "source": "ocr",
+        "context": "合现象，所以，寺洼文化是探讨中国古\n代文明及华夏民族形成与发展必不可少的一种考古学"
+      },
+      {
+        "text": "宋",
+        "page": 4,
+        "source": "ocr",
+        "context": "6) 第 042015 号\n责任编辑; 宋小军 / 责任校对: CS\n责任印制，安"
+      },
+      {
+        "text": "元",
+        "page": 4,
+        "source": "ocr",
+        "context": " 518 000\n定价: 180.00 元\n\n《如有印装质量问题，我社负责调换《科"
+      },
+      {
+        "text": "金",
+        "page": 5,
+        "source": "ocr",
+        "context": "本书出版得到\n基金资助\n"
+      },
+      {
+        "text": "金",
+        "page": 6,
+        "source": "ocr",
+        "context": "议给予该考古发据报告中国社会科学院出版基金资助。\n\n中国社会科学院考古研究所\nPR"
+      },
+      {
+        "text": "明",
+        "page": 10,
+        "source": "ocr",
+        "context": "化墓匡登记表、\n附表二器物揪图、图版及说明索习表\n\n附录一”甘肃庄浪徐家研寺洼文化"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "墓葬",
+        "page": 6,
+        "source": "ocr",
+        "context": "徐家碾寺洼文化幕\n地考古发掘的学术收获。墓葬作为考古学的重要遗存，本书对大量田时考古"
+      },
+      {
+        "text": "墓葬",
+        "page": 10,
+        "source": "ocr",
+        "context": "索习表\n\n附录一”甘肃庄浪徐家研寺洼文化墓葬出土铜器化学组成分析与研究……\n附录二”"
+      },
+      {
+        "text": "墓葬",
+        "page": 11,
+        "source": "ocr",
+        "context": "…\nBH M99 和 M103 AAP\n墓葬 M30 和 M26 组合平面图…\n22"
+      },
+      {
+        "text": "墓葬",
+        "page": 11,
+        "source": "ocr",
+        "context": "38 M78 和 M80 组合平面图…\n墓葬 M83 和 M84 组合平面图\n3% "
+      },
+      {
+        "text": "墓葬",
+        "page": 11,
+        "source": "ocr",
+        "context": "面图…\n莫非 M82 平、剖面图 ……\n墓葬 M36 平、剖面图 …\n墓葬 M5 平"
+      },
+      {
+        "text": "墓葬",
+        "page": 11,
+        "source": "ocr",
+        "context": "图 ……\n墓葬 M36 平、剖面图 …\n墓葬 M5 平、剖面图 ，\n墓葬 M81 平"
+      },
+      {
+        "text": "墓葬",
+        "page": 11,
+        "source": "ocr",
+        "context": "剖面图 …\n墓葬 M5 平、剖面图 ，\n墓葬 M81 平、剖面图 …\nI型“覆斗形墓"
+      },
+      {
+        "text": "墓葬",
+        "page": 12,
+        "source": "ocr",
+        "context": "ee        … (97)\n\n寺洼墓葬 MI3 和 M31 放置骨管珠项链的出"
+      },
+      {
+        "text": "墓葬",
+        "page": 13,
+        "source": "ocr",
+        "context": "和贝\nFERRETS, GIADA\n寺洼墓葬出土的耳饰和铀泡…\nFERRY LMF "
+      },
+      {
+        "text": "车马坑",
+        "page": 13,
+        "source": "ocr",
+        "context": "莫 M72 平、剖面图及完整的陶器 …\n车马坑 M7 平、剖面图…\n车马坑 M104 "
+      },
+      {
+        "text": "车马坑",
+        "page": 13,
+        "source": "ocr",
+        "context": "的陶器 …\n车马坑 M7 平、剖面图…\n车马坑 M104 平、剖面图\n寺尘文化分布图…"
+      },
+      {
+        "text": "墓葬",
+        "page": 15,
+        "source": "ocr",
+        "context": "18、MI1、\n图版七“”徐家碾寺洼文化墓葬 MI16、M17、\n图版八”徐家碾寺洼"
+      },
+      {
+        "text": "墓葬",
+        "page": 15,
+        "source": "ocr",
+        "context": "62、M69 、\n图版九”徐家碌寺洼文化墓葬 M71, M73,\n\n图版一一，徐家醋"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "M38",
+        "page": 9,
+        "source": "ocr",
+        "context": "=) 植物遗存\nBat PRA\n(一) M38 +\n(二) M41 oe\n(3) M4"
+      },
+      {
+        "text": "M41",
+        "page": 9,
+        "source": "ocr",
+        "context": "t PRA\n(一) M38 +\n(二) M41 oe\n(3) M49 -\n(四) M5"
+      },
+      {
+        "text": "M49",
+        "page": 9,
+        "source": "ocr",
+        "context": "38 +\n(二) M41 oe\n(3) M49 -\n(四) M59 -\n(4) M70"
+      },
+      {
+        "text": "M59",
+        "page": 9,
+        "source": "ocr",
+        "context": "41 oe\n(3) M49 -\n(四) M59 -\n(4) M70 +\n(六) MB6"
+      },
+      {
+        "text": "M70",
+        "page": 9,
+        "source": "ocr",
+        "context": "M49 -\n(四) M59 -\n(4) M70 +\n(六) MB6 -\n(+e) M9"
+      },
+      {
+        "text": "M97",
+        "page": 9,
+        "source": "ocr",
+        "context": "70 +\n(六) MB6 -\n(+e) M97 +\n(A) M63 +\n(tt) M2"
+      },
+      {
+        "text": "M63",
+        "page": 9,
+        "source": "ocr",
+        "context": "B6 -\n(+e) M97 +\n(A) M63 +\n(tt) M24 …\n(一D) M"
+      },
+      {
+        "text": "M24",
+        "page": 9,
+        "source": "ocr",
+        "context": "97 +\n(A) M63 +\n(tt) M24 …\n(一D) M28 -\n(一一) M"
+      },
+      {
+        "text": "M28",
+        "page": 9,
+        "source": "ocr",
+        "context": "3 +\n(tt) M24 …\n(一D) M28 -\n(一一) M72 -\n\n第四章 ”"
+      },
+      {
+        "text": "M72",
+        "page": 9,
+        "source": "ocr",
+        "context": "4 …\n(一D) M28 -\n(一一) M72 -\n\n第四章 ”结论…\n"
+      },
+      {
+        "text": "M99",
+        "page": 11,
+        "source": "ocr",
+        "context": "RRRPEXMER RATA …\nBH M99 和 M103 AAP\n墓葬 M30 和"
+      },
+      {
+        "text": "M103",
+        "page": 11,
+        "source": "ocr",
+        "context": "MER RATA …\nBH M99 和 M103 AAP\n墓葬 M30 和 M26 组合"
+      },
+      {
+        "text": "M30",
+        "page": 11,
+        "source": "ocr",
+        "context": "H M99 和 M103 AAP\n墓葬 M30 和 M26 组合平面图…\n2238 M"
+      },
+      {
+        "text": "M26",
+        "page": 11,
+        "source": "ocr",
+        "context": "和 M103 AAP\n墓葬 M30 和 M26 组合平面图…\n2238 M78 和 M"
+      },
+      {
+        "text": "M78",
+        "page": 11,
+        "source": "ocr",
+        "context": "0 和 M26 组合平面图…\n2238 M78 和 M80 组合平面图…\n墓葬 M83"
+      },
+      {
+        "text": "M80",
+        "page": 11,
+        "source": "ocr",
+        "context": "6 组合平面图…\n2238 M78 和 M80 组合平面图…\n墓葬 M83 和 M84"
+      },
+      {
+        "text": "M83",
+        "page": 11,
+        "source": "ocr",
+        "context": "M78 和 M80 组合平面图…\n墓葬 M83 和 M84 组合平面图\n3% M18 "
+      },
+      {
+        "text": "M84",
+        "page": 11,
+        "source": "ocr",
+        "context": "M80 组合平面图…\n墓葬 M83 和 M84 组合平面图\n3% M18 和 Ml 组"
+      },
+      {
+        "text": "M18",
+        "page": 11,
+        "source": "ocr",
+        "context": " M83 和 M84 组合平面图\n3% M18 和 Ml 组合平面图…\nEH M17 "
+      },
+      {
+        "text": "M17",
+        "page": 11,
+        "source": "ocr",
+        "context": " M18 和 Ml 组合平面图…\nEH M17 和 M16 组合平面图…\nWe M50"
+      },
+      {
+        "text": "M16",
+        "page": 11,
+        "source": "ocr",
+        "context": " Ml 组合平面图…\nEH M17 和 M16 组合平面图…\nWe M50 和 M43"
+      },
+      {
+        "text": "M50",
+        "page": 11,
+        "source": "ocr",
+        "context": "M17 和 M16 组合平面图…\nWe M50 和 M43 组合平面图\nEH M62 "
+      },
+      {
+        "text": "M43",
+        "page": 11,
+        "source": "ocr",
+        "context": "M16 组合平面图…\nWe M50 和 M43 组合平面图\nEH M62 和 M69 "
+      },
+      {
+        "text": "M62",
+        "page": 11,
+        "source": "ocr",
+        "context": " M50 和 M43 组合平面图\nEH M62 和 M69 AAP\nE961 和 MS"
+      },
+      {
+        "text": "M69",
+        "page": 11,
+        "source": "ocr",
+        "context": " M43 组合平面图\nEH M62 和 M69 AAP\nE961 和 MS8 组合平面"
+      },
+      {
+        "text": "M71",
+        "page": 11,
+        "source": "ocr",
+        "context": "61 和 MS8 组合平面图……\n莫莫 M71 和 M73 组合平面图…\nSEF M7"
+      },
+      {
+        "text": "M73",
+        "page": 11,
+        "source": "ocr",
+        "context": "S8 组合平面图……\n莫莫 M71 和 M73 组合平面图…\nSEF M74 和 M7"
+      },
+      {
+        "text": "M74",
+        "page": 11,
+        "source": "ocr",
+        "context": "71 和 M73 组合平面图…\nSEF M74 和 M75 组合平面图…\n莫非 M82"
+      },
+      {
+        "text": "M75",
+        "page": 11,
+        "source": "ocr",
+        "context": "73 组合平面图…\nSEF M74 和 M75 组合平面图…\n莫非 M82 平、剖面图"
+      },
+      {
+        "text": "M82",
+        "page": 11,
+        "source": "ocr",
+        "context": "M74 和 M75 组合平面图…\n莫非 M82 平、剖面图 ……\n墓葬 M36 平、剖"
+      },
+      {
+        "text": "M36",
+        "page": 11,
+        "source": "ocr",
+        "context": "\n莫非 M82 平、剖面图 ……\n墓葬 M36 平、剖面图 …\n墓葬 M5 平、剖面图"
+      },
+      {
+        "text": "M5",
+        "page": 11,
+        "source": "ocr",
+        "context": "…\n墓葬 M36 平、剖面图 …\n墓葬 M5 平、剖面图 ，\n墓葬 M81 平、剖面"
+      },
+      {
+        "text": "M81",
+        "page": 11,
+        "source": "ocr",
+        "context": " …\n墓葬 M5 平、剖面图 ，\n墓葬 M81 平、剖面图 …\nI型“覆斗形墓穴”M8"
+      },
+      {
+        "text": "M85",
+        "page": 11,
+        "source": "ocr",
+        "context": "81 平、剖面图 …\nI型“覆斗形墓穴”M85 P.M\nIT型“覆斗形墓穴”NM83 "
+      },
+      {
+        "text": "M22",
+        "page": 11,
+        "source": "ocr",
+        "context": "M83 平、痢面图 …\n\nAa Bae M22 KARE. BIR ………\n\n图二三 "
+      },
+      {
+        "text": "M3e",
+        "page": 11,
+        "source": "ocr",
+        "context": "RE. BIR ………\n\n图二三 Bi M3e “1” RAAF,\n\nAon #39 "
+      },
+      {
+        "text": "M21",
+        "page": 11,
+        "source": "ocr",
+        "context": "1” RAAF,\n\nAon #39 和 M21 的墓底平面图…\n\n莫非 M33 和 M"
+      },
+      {
+        "text": "M33",
+        "page": 11,
+        "source": "ocr",
+        "context": "9 和 M21 的墓底平面图…\n\n莫非 M33 和 M45 的墓底平面图…\n\nA FL"
+      },
+      {
+        "text": "M45",
+        "page": 11,
+        "source": "ocr",
+        "context": "1 的墓底平面图…\n\n莫非 M33 和 M45 的墓底平面图…\n\nA FLIER LU"
+      },
+      {
+        "text": "M71",
+        "page": 12,
+        "source": "ocr",
+        "context": "ER LAV cee\n\nSPUERIE M71 th LOHR OL AHL     "
+      },
+      {
+        "text": "M31",
+        "page": 12,
+        "source": "ocr",
+        "context": " … (97)\n\n寺洼墓葬 MI3 和 M31 放置骨管珠项链的出土位置图      "
+      },
+      {
+        "text": "M65",
+        "page": 12,
+        "source": "ocr",
+        "context": "IE MOS 蔓主人脸部放置骨管珠项链《M65: 34) 及钢铃和钢戈\n出土位置图0 "
+      },
+      {
+        "text": "M69",
+        "page": 12,
+        "source": "ocr",
+        "context": "位置图0  ( 102)\nPUEMIE M69 蔓主人脸部骨管珠项链〈M69: 21)"
+      },
+      {
+        "text": "M69",
+        "page": 12,
+        "source": "ocr",
+        "context": "EMIE M69 蔓主人脸部骨管珠项链〈M69: 21) 和钢泡出土位置图\n\n(103"
+      },
+      {
+        "text": "M96",
+        "page": 13,
+        "source": "ocr",
+        "context": "八一\n图八二\n图八三\n\nSPEER H M96 幕主人胸前放置蚌钱珠项链 (M96: "
+      },
+      {
+        "text": "M96",
+        "page": 13,
+        "source": "ocr",
+        "context": "H M96 幕主人胸前放置蚌钱珠项链 (M96: 19》 出土位置图\n\nFUER IE"
+      },
+      {
+        "text": "M78",
+        "page": 13,
+        "source": "ocr",
+        "context": " 19》 出土位置图\n\nFUER IE M78 幕主人腹部放置两串蚌钱珠项链出土位置图"
+      },
+      {
+        "text": "M72",
+        "page": 13,
+        "source": "ocr",
+        "context": "链出土位置图 ………\nSPEER IE M72 EAI RRR ARERR\n土位置|\n"
+      },
+      {
+        "text": "M38",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n未知物的红外光谱测试图…\nFHEBH M38 平、剖面图及完整的陶器\nSERS M4"
+      },
+      {
+        "text": "M41",
+        "page": 13,
+        "source": "ocr",
+        "context": "38 平、剖面图及完整的陶器\nSERS M41 平、章面图及完整的陶器 …\nSERIE"
+      },
+      {
+        "text": "M49",
+        "page": 13,
+        "source": "ocr",
+        "context": "平、章面图及完整的陶器 …\nSERIE M49 平、前面图及完整的陶器 …\nSPEER"
+      },
+      {
+        "text": "M59",
+        "page": 13,
+        "source": "ocr",
+        "context": "面图及完整的陶器 …\nSPEER IE M59 平、剖面图及完整的陶器\nRH M70 "
+      },
+      {
+        "text": "M70",
+        "page": 13,
+        "source": "ocr",
+        "context": " M59 平、剖面图及完整的陶器\nRH M70 平、前面图\nPEER M70 出土的完"
+      },
+      {
+        "text": "M70",
+        "page": 13,
+        "source": "ocr",
+        "context": "器\nRH M70 平、前面图\nPEER M70 出土的完整的陶器\nSERIF M86 "
+      },
+      {
+        "text": "M86",
+        "page": 13,
+        "source": "ocr",
+        "context": " M70 出土的完整的陶器\nSERIF M86 平、剂面图及完整的陶器\nPURE MO"
+      },
+      {
+        "text": "M63",
+        "page": 13,
+        "source": "ocr",
+        "context": " 平、剖面图及完整的陶器 …\n寺洼幕萍 M63 平 、剖面图及完整的陶器 …\n寺洼幕昔"
+      },
+      {
+        "text": "M24",
+        "page": 13,
+        "source": "ocr",
+        "context": "平 、剖面图及完整的陶器 …\n寺洼幕昔 M24 平、齐面图及完整的陶器\nSPER aE"
+      },
+      {
+        "text": "M28",
+        "page": 13,
+        "source": "ocr",
+        "context": "平、齐面图及完整的陶器\nSPER aE M28 OF RYE ……\nSPER IE M"
+      },
+      {
+        "text": "M28",
+        "page": 13,
+        "source": "ocr",
+        "context": "8 OF RYE ……\nSPER IE M28 出土的完整的陶器 -\n\n寺洼幕莫 M7"
+      },
+      {
+        "text": "M72",
+        "page": 13,
+        "source": "ocr",
+        "context": "28 出土的完整的陶器 -\n\n寺洼幕莫 M72 平、剖面图及完整的陶器 …\n车马坑 M"
+      },
+      {
+        "text": "M7",
+        "page": 13,
+        "source": "ocr",
+        "context": "2 平、剖面图及完整的陶器 …\n车马坑 M7 平、剖面图…\n车马坑 M104 平、剖"
+      },
+      {
+        "text": "M104",
+        "page": 13,
+        "source": "ocr",
+        "context": "…\n车马坑 M7 平、剖面图…\n车马坑 M104 平、剖面图\n寺尘文化分布图……\n\n"
+      },
+      {
+        "text": "M99",
+        "page": 15,
+        "source": "ocr",
+        "context": "四 PRACGR ARREST ALE M99, M103. M30, M26\n\n图版"
+      },
+      {
+        "text": "M103",
+        "page": 15,
+        "source": "ocr",
+        "context": "CGR ARREST ALE M99, M103. M30, M26\n\n图版五”徐家研寺"
+      },
+      {
+        "text": "M30",
+        "page": 15,
+        "source": "ocr",
+        "context": "REST ALE M99, M103. M30, M26\n\n图版五”徐家研寺洼文化幕莫"
+      },
+      {
+        "text": "M26",
+        "page": 15,
+        "source": "ocr",
+        "context": "ALE M99, M103. M30, M26\n\n图版五”徐家研寺洼文化幕莫 M78 "
+      },
+      {
+        "text": "M78",
+        "page": 15,
+        "source": "ocr",
+        "context": " M26\n\n图版五”徐家研寺洼文化幕莫 M78 M80,\n图版六”徐家碾寺注文化幕划 "
+      },
+      {
+        "text": "M80",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n\n图版五”徐家研寺洼文化幕莫 M78 M80,\n图版六”徐家碾寺注文化幕划 M18、"
+      },
+      {
+        "text": "M18",
+        "page": 15,
+        "source": "ocr",
+        "context": " M80,\n图版六”徐家碾寺注文化幕划 M18、MI1、\n图版七“”徐家碾寺洼文化墓葬"
+      },
+      {
+        "text": "M17",
+        "page": 15,
+        "source": "ocr",
+        "context": "图版七“”徐家碾寺洼文化墓葬 MI16、M17、\n图版八”徐家碾寺洼文化幕项 M62、"
+      },
+      {
+        "text": "M62",
+        "page": 15,
+        "source": "ocr",
+        "context": "、M17、\n图版八”徐家碾寺洼文化幕项 M62、M69 、\n图版九”徐家碌寺洼文化墓葬"
+      },
+      {
+        "text": "M69",
+        "page": 15,
+        "source": "ocr",
+        "context": "、\n图版八”徐家碾寺洼文化幕项 M62、M69 、\n图版九”徐家碌寺洼文化墓葬 M71"
+      },
+      {
+        "text": "M71",
+        "page": 15,
+        "source": "ocr",
+        "context": "M69 、\n图版九”徐家碌寺洼文化墓葬 M71, M73,\n\n图版一一，徐家醋寺洼文化"
+      },
+      {
+        "text": "M73",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n图版九”徐家碌寺洼文化墓葬 M71, M73,\n\n图版一一，徐家醋寺洼文化莫昔 M8"
+      },
+      {
+        "text": "M82",
+        "page": 15,
+        "source": "ocr",
+        "context": "73,\n\n图版一一，徐家醋寺洼文化莫昔 M82, M36\n\n图版一八“徐家碾寺洼文化幕"
+      },
+      {
+        "text": "M36",
+        "page": 15,
+        "source": "ocr",
+        "context": "图版一一，徐家醋寺洼文化莫昔 M82, M36\n\n图版一八“徐家碾寺洼文化幕葬 M33"
+      },
+      {
+        "text": "M33",
+        "page": 15,
+        "source": "ocr",
+        "context": "M36\n\n图版一八“徐家碾寺洼文化幕葬 M33 MIS\n\nM83 、\nM50,\n\nM7"
+      },
+      {
+        "text": "M83",
+        "page": 15,
+        "source": "ocr",
+        "context": "“徐家碾寺洼文化幕葬 M33 MIS\n\nM83 、\nM50,\n\nM74\n\nM58,\n\n"
+      },
+      {
+        "text": "M50",
+        "page": 15,
+        "source": "ocr",
+        "context": "文化幕葬 M33 MIS\n\nM83 、\nM50,\n\nM74\n\nM58,\n\nM75\n\nF"
+      },
+      {
+        "text": "M74",
+        "page": 15,
+        "source": "ocr",
+        "context": "33 MIS\n\nM83 、\nM50,\n\nM74\n\nM58,\n\nM75\n\nFMR —— "
+      },
+      {
+        "text": "M58",
+        "page": 15,
+        "source": "ocr",
+        "context": "S\n\nM83 、\nM50,\n\nM74\n\nM58,\n\nM75\n\nFMR —— GRRE "
+      },
+      {
+        "text": "M75",
+        "page": 15,
+        "source": "ocr",
+        "context": " 、\nM50,\n\nM74\n\nM58,\n\nM75\n\nFMR —— GRRE RE M21"
+      },
+      {
+        "text": "M21",
+        "page": 15,
+        "source": "ocr",
+        "context": "M75\n\nFMR —— GRRE RE M21 REESE\n图版一三”徐家碾寺洼文化莫"
+      },
+      {
+        "text": "M79",
+        "page": 15,
+        "source": "ocr",
+        "context": "EESE\n图版一三”徐家碾寺洼文化莫莫 M79, M1, M93, M102\n四 PR"
+      },
+      {
+        "text": "M1",
+        "page": 15,
+        "source": "ocr",
+        "context": "图版一三”徐家碾寺洼文化莫莫 M79, M1, M93, M102\n四 PRR RA"
+      },
+      {
+        "text": "M93",
+        "page": 15,
+        "source": "ocr",
+        "context": "”徐家碾寺洼文化莫莫 M79, M1, M93, M102\n四 PRR RAPHE C"
+      },
+      {
+        "text": "M102",
+        "page": 15,
+        "source": "ocr",
+        "context": "洼文化莫莫 M79, M1, M93, M102\n四 PRR RAPHE CLE M92"
+      },
+      {
+        "text": "M92",
+        "page": 15,
+        "source": "ocr",
+        "context": "102\n四 PRR RAPHE CLE M92、M85 、M37 、M57\nRF RI"
+      },
+      {
+        "text": "M85",
+        "page": 15,
+        "source": "ocr",
+        "context": "四 PRR RAPHE CLE M92、M85 、M37 、M57\nRF RIESE "
+      },
+      {
+        "text": "M37",
+        "page": 15,
+        "source": "ocr",
+        "context": " RAPHE CLE M92、M85 、M37 、M57\nRF RIESE LH M4"
+      },
+      {
+        "text": "M57",
+        "page": 15,
+        "source": "ocr",
+        "context": "E CLE M92、M85 、M37 、M57\nRF RIESE LH M42 M44"
+      },
+      {
+        "text": "M42",
+        "page": 15,
+        "source": "ocr",
+        "context": "37 、M57\nRF RIESE LH M42 M44, 、M64 、M66\n版一六“"
+      },
+      {
+        "text": "M44",
+        "page": 15,
+        "source": "ocr",
+        "context": "M57\nRF RIESE LH M42 M44, 、M64 、M66\n版一六“徐家碾寺"
+      },
+      {
+        "text": "M64",
+        "page": 15,
+        "source": "ocr",
+        "context": " RIESE LH M42 M44, 、M64 、M66\n版一六“徐家碾寺洼文化墓莫 "
+      },
+      {
+        "text": "M66",
+        "page": 15,
+        "source": "ocr",
+        "context": "E LH M42 M44, 、M64 、M66\n版一六“徐家碾寺洼文化墓莫 MS1, "
+      },
+      {
+        "text": "M52",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n版一六“徐家碾寺洼文化墓莫 MS1, M52, M88. M89\n图版一七“”徐家碾"
+      },
+      {
+        "text": "M88",
+        "page": 15,
+        "source": "ocr",
+        "context": "徐家碾寺洼文化墓莫 MS1, M52, M88. M89\n图版一七“”徐家碾寺洼文化草"
+      },
+      {
+        "text": "M89",
+        "page": 15,
+        "source": "ocr",
+        "context": "文化墓莫 MS1, M52, M88. M89\n图版一七“”徐家碾寺洼文化草草 M10"
+      },
+      {
+        "text": "M10",
+        "page": 15,
+        "source": "ocr",
+        "context": "M89\n图版一七“”徐家碾寺洼文化草草 M10, M47, M55, M96\n\n图版一"
+      },
+      {
+        "text": "M47",
+        "page": 15,
+        "source": "ocr",
+        "context": "版一七“”徐家碾寺洼文化草草 M10, M47, M55, M96\n\n图版一九“”徐家"
+      },
+      {
+        "text": "M55",
+        "page": 15,
+        "source": "ocr",
+        "context": "徐家碾寺洼文化草草 M10, M47, M55, M96\n\n图版一九“”徐家碾寺洼文化"
+      },
+      {
+        "text": "M96",
+        "page": 15,
+        "source": "ocr",
+        "context": "文化草草 M10, M47, M55, M96\n\n图版一九“”徐家碾寺洼文化甘苦 M7"
+      },
+      {
+        "text": "M72",
+        "page": 15,
+        "source": "ocr",
+        "context": "96\n\n图版一九“”徐家碾寺洼文化甘苦 M72、M77、M45\n图版二 徐家醋寺洼文化"
+      },
+      {
+        "text": "M77",
+        "page": 15,
+        "source": "ocr",
+        "context": "图版一九“”徐家碾寺洼文化甘苦 M72、M77、M45\n图版二 徐家醋寺洼文化莫非袋足"
+      },
+      {
+        "text": "M45",
+        "page": 15,
+        "source": "ocr",
+        "context": "“”徐家碾寺洼文化甘苦 M72、M77、M45\n图版二 徐家醋寺洼文化莫非袋足隐遍〈A"
+      },
+      {
+        "text": "M84",
+        "page": 15,
+        "source": "ocr",
+        "context": "”徐家研寺洼文化幕旨彩陶马鞭形口陶负\n\nM84\nM43\n\nM61\n\n图版一D”徐家碾寺"
+      },
+      {
+        "text": "M43",
+        "page": 15,
+        "source": "ocr",
+        "context": "寺洼文化幕旨彩陶马鞭形口陶负\n\nM84\nM43\n\nM61\n\n图版一D”徐家碾寺洼文化墓"
+      },
+      {
+        "text": "M61",
+        "page": 15,
+        "source": "ocr",
+        "context": "旨彩陶马鞭形口陶负\n\nM84\nM43\n\nM61\n\n图版一D”徐家碾寺洼文化墓藉 MS6"
+      },
+      {
+        "text": "M9",
+        "page": 15,
+        "source": "ocr",
+        "context": "图版一D”徐家碾寺洼文化墓藉 MS6, M9, M31, MS\n"
+      },
+      {
+        "text": "M31",
+        "page": 15,
+        "source": "ocr",
+        "context": "”徐家碾寺洼文化墓藉 MS6, M9, M31, MS\n"
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "人骨",
+        "page": 10,
+        "source": "ocr",
+        "context": "研究……\n附录二”甘肃庄浪徐家碾寺洼文化人骨研究…\n附录三”甘肃庄浪徐家不寺注文化幕"
+      },
+      {
+        "text": "漆皮",
+        "page": 14,
+        "source": "ocr",
+        "context": " +\n\n徐家碾寺注文化幕音出土的铜器和红漆皮和碎片\n\nRATE EE ACE TE "
+      }
+    ],
+    "陶器": [
+      {
+        "text": "刀",
+        "page": 12,
+        "source": "ocr",
+        "context": " + (93)\n寺尘敬意出土的铀兵器及铜刀和锅铃 ……              "
+      },
+      {
+        "text": "纺轮",
+        "page": 12,
+        "source": "ocr",
+        "context": "     = (95)\n寺洼蔓草出土的产纺轮和和骨纺轮 ee        … (9"
+      },
+      {
+        "text": "纺轮",
+        "page": 12,
+        "source": "ocr",
+        "context": "= (95)\n寺洼蔓草出土的产纺轮和和骨纺轮 ee        … (97)\n\n寺"
+      },
+      {
+        "text": "陶杯",
+        "page": 14,
+        "source": "ocr",
+        "context": "文化医匡出土的彩陶双大耳陶负和单圆座五连陶杯\nBRIBE ARI HR\nRRIF A"
+      },
+      {
+        "text": "杯",
+        "page": 15,
+        "source": "ocr",
+        "context": "家碾寺洼文化莫莫出土的双连责和单圆座五连杯\n图版二六“”徐家研寺洼文化幕旨彩陶马鞭"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "铜刀",
+        "page": 12,
+        "source": "ocr",
+        "context": "  + (93)\n寺尘敬意出土的铀兵器及铜刀和锅铃 ……              "
+      },
+      {
+        "text": "铃",
+        "page": 12,
+        "source": "ocr",
+        "context": "(93)\n寺尘敬意出土的铀兵器及铜刀和锅铃 ……                ="
+      },
+      {
+        "text": "铃",
+        "page": 12,
+        "source": "ocr",
+        "context": "部放置骨管珠项链《M65: 34) 及钢铃和钢戈\n出土位置图0  ( 102)\nP"
+      },
+      {
+        "text": "戈",
+        "page": 12,
+        "source": "ocr",
+        "context": "骨管珠项链《M65: 34) 及钢铃和钢戈\n出土位置图0  ( 102)\nPUEM"
+      },
+      {
+        "text": "泡",
+        "page": 12,
+        "source": "ocr",
+        "context": "人脸部骨管珠项链〈M69: 21) 和钢泡出土位置图\n\n(103)\n\n"
+      },
+      {
+        "text": "饰",
+        "page": 13,
+        "source": "ocr",
+        "context": "RETS, GIADA\n寺洼墓葬出土的耳饰和铀泡…\nFERRY LMF SAS\nF"
+      },
+      {
+        "text": "泡",
+        "page": 13,
+        "source": "ocr",
+        "context": "S, GIADA\n寺洼墓葬出土的耳饰和铀泡…\nFERRY LMF SAS\nFAME"
+      },
+      {
+        "text": "杯",
+        "page": 14,
+        "source": "ocr",
+        "context": "化医匡出土的彩陶双大耳陶负和单圆座五连陶杯\nBRIBE ARI HR\nRRIF A"
+      },
+      {
+        "text": "杯",
+        "page": 15,
+        "source": "ocr",
+        "context": "家碾寺洼文化莫莫出土的双连责和单圆座五连杯\n图版二六“”徐家研寺洼文化幕旨彩陶马鞭"
+      }
+    ],
+    "骨器": [
+      {
+        "text": "骨管",
+        "page": 12,
+        "source": "ocr",
+        "context": ")\n\n寺洼墓葬 MI3 和 M31 放置骨管珠项链的出土位置图           "
+      },
+      {
+        "text": "骨管",
+        "page": 12,
+        "source": "ocr",
+        "context": "1)\nPU IE MOS 蔓主人脸部放置骨管珠项链《M65: 34) 及钢铃和钢戈\n"
+      },
+      {
+        "text": "骨管",
+        "page": 12,
+        "source": "ocr",
+        "context": "02)\nPUEMIE M69 蔓主人脸部骨管珠项链〈M69: 21) 和钢泡出土位置"
+      }
+    ],
+    "纹饰": [
+      {
+        "text": "彩陶",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n\n彩版目录\n\n徐家醋寺洼文化墓莫出土的彩陶马鞍形口陶负\n\n徐家研寺洼文化莫昔出土的"
+      },
+      {
+        "text": "彩陶",
+        "page": 14,
+        "source": "ocr",
+        "context": "和马圾形口陶铅\n徐家缚寺洼文化医匡出土的彩陶双大耳陶负和单圆座五连陶杯\nBRIBE "
+      },
+      {
+        "text": "彩陶",
+        "page": 15,
+        "source": "ocr",
+        "context": "座五连杯\n图版二六“”徐家研寺洼文化幕旨彩陶马鞭形口陶负\n\nM84\nM43\n\nM61"
+      }
+    ]
+  }
+}

@@ -1,0 +1,516 @@
+{
+  "name": "北京大葆台汉墓",
+  "file": "北京大葆台汉墓.pdf",
+  "era": "西汉",
+  "culture": "广阳顷王墓",
+  "processed_pages": 14,
+  "total_entities": 79,
+  "entity_stats": {
+    "遗址名称": 17,
+    "年代": 6,
+    "遗存类型": 8,
+    "葬具": 14,
+    "陶器": 8,
+    "铜器": 19,
+    "玉器": 2,
+    "漆器": 3,
+    "铁器": 1,
+    "材质": 1
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "大葆台",
+        "page": 3,
+        "source": "ocr",
+        "context": "封面设计: 仇德\n\nBa\n\nee\n\n北京大葆台汉墓\nKRG WH RA\n*\n\n文物出版"
+      },
+      {
+        "text": "汉墓",
+        "page": 3,
+        "source": "ocr",
+        "context": "计: 仇德\n\nBa\n\nee\n\n北京大葆台汉墓\nKRG WH RA\n*\n\n文物出版社出"
+      },
+      {
+        "text": "大葆台",
+        "page": 7,
+        "source": "ocr",
+        "context": "        se (101)\n\n四,大葆台汉墓考古新收获.se sse sse ("
+      },
+      {
+        "text": "汉墓",
+        "page": 7,
+        "source": "ocr",
+        "context": "     se (101)\n\n四,大葆台汉墓考古新收获.se sse sse (10"
+      },
+      {
+        "text": "大葆台",
+        "page": 7,
+        "source": "ocr",
+        "context": "104)\n录 .ee (106)\n\n一.大葆台汉摹白膏泥中的粘土矿物分析。…。eese"
+      },
+      {
+        "text": "大葆台",
+        "page": 7,
+        "source": "ocr",
+        "context": "sesssesessse sse\n\n二,大葆台莫莫木结构及棺樟木材的鉴定…\n\n三,大葆"
+      },
+      {
+        "text": "大葆台",
+        "page": 7,
+        "source": "ocr",
+        "context": "葆台莫莫木结构及棺樟木材的鉴定…\n\n三,大葆台一号汉墓随莫的动物骨通分析…\n\n四,大和"
+      },
+      {
+        "text": "汉墓",
+        "page": 7,
+        "source": "ocr",
+        "context": "结构及棺樟木材的鉴定…\n\n三,大葆台一号汉墓随莫的动物骨通分析…\n\n四,大和葆台汉幕"
+      },
+      {
+        "text": "汉墓",
+        "page": 7,
+        "source": "ocr",
+        "context": "汉幕人骨的性别年龄鉴定…\n\n五.大人葆台汉墓陶器表釉 X 光实验报告\n\n六,大葆台汉"
+      },
+      {
+        "text": "大葆台",
+        "page": 7,
+        "source": "ocr",
+        "context": "葆台汉墓陶器表釉 X 光实验报告\n\n六,大葆台汉莫陶片化学成分分析报告\n\n七.大佛台汉"
+      },
+      {
+        "text": "汉墓",
+        "page": 7,
+        "source": "ocr",
+        "context": "台汉莫陶片化学成分分析报告\n\n七.大佛台汉墓陶片矿物成分分析报告\n\n八大葆台汉墓出土"
+      },
+      {
+        "text": "大葆台",
+        "page": 7,
+        "source": "ocr",
+        "context": "七.大佛台汉墓陶片矿物成分分析报告\n\n八大葆台汉墓出土兽骨名称鉴定…         "
+      },
+      {
+        "text": "汉墓",
+        "page": 7,
+        "source": "ocr",
+        "context": "佛台汉墓陶片矿物成分分析报告\n\n八大葆台汉墓出土兽骨名称鉴定…           "
+      },
+      {
+        "text": "大葆台",
+        "page": 7,
+        "source": "ocr",
+        "context": "           (124)\n-〇.大葆台汉莫铁器金相检查报告ee\n\n一一.汉代的"
+      },
+      {
+        "text": "大葆台",
+        "page": 9,
+        "source": "ocr",
+        "context": "号车东侧车开出土情况\n一号墓出土的器物\n大葆台一,二号幕外景 (右为一号幕, 由南向北"
+      },
+      {
+        "text": "马王堆",
+        "page": 11,
+        "source": "ocr",
+        "context": "号墓漆纱切\n\n的花纹\n漆纱冠残片\n\n面与马王堆汉莫组带结构\n\n-号墓组带(853)\n\n"
+      },
+      {
+        "text": "大葆台",
+        "page": 14,
+        "source": "ocr",
+        "context": " 射线衍射分析图\n颗粒分析累积曲线图…\n大葆台汉摹出土纂组结构漆\n大人葆台汉募出土冠继"
+      }
+    ],
+    "年代": [
+      {
+        "text": "元",
+        "page": 3,
+        "source": "ocr",
+        "context": "8-X/K + 89 平装定价: 19 元\nISBN 7-5010-0239-8/"
+      },
+      {
+        "text": "元",
+        "page": 3,
+        "source": "ocr",
+        "context": "239-8/K 。90 精装定价:23 元\n"
+      },
+      {
+        "text": "金",
+        "page": 7,
+        "source": "ocr",
+        "context": "    (124)\n-〇.大葆台汉莫铁器金相检查报告ee\n\n一一.汉代的组及其工艺"
+      },
+      {
+        "text": "金",
+        "page": 8,
+        "source": "ocr",
+        "context": ".封士出土器物简表\n\n八.封士扰士中出土金代文物统计表-\n九.资洞内出土文物及盗墓"
+      },
+      {
+        "text": "清",
+        "page": 9,
+        "source": "ocr",
+        "context": "西南向东北)\n一号墓室全景(由南向北)\n清理后的一号摹室全景(由东向西)\n一号幕封"
+      },
+      {
+        "text": "金",
+        "page": 10,
+        "source": "ocr",
+        "context": "土的残漆板花纹摹本\n\n-号幕出土的牙基和金稍饰片\n\n"
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "木炭",
+        "page": 5,
+        "source": "ocr",
+        "context": "墓道\n(三) 墓室\n.热木.铺地板及其下木炭和白襄泥、\n.摹坑四周壁板及其外木炭\n\n"
+      },
+      {
+        "text": "木炭",
+        "page": 5,
+        "source": "ocr",
+        "context": "其下木炭和白襄泥、\n.摹坑四周壁板及其外木炭\n\noo DuwmwFowmwb 一\n\n"
+      },
+      {
+        "text": "人骨",
+        "page": 7,
+        "source": "ocr",
+        "context": "随莫的动物骨通分析…\n\n四,大和葆台汉幕人骨的性别年龄鉴定…\n\n五.大人葆台汉墓陶器"
+      },
+      {
+        "text": "陶片",
+        "page": 7,
+        "source": "ocr",
+        "context": "器表釉 X 光实验报告\n\n六,大葆台汉莫陶片化学成分分析报告\n\n七.大佛台汉墓陶片矿"
+      },
+      {
+        "text": "陶片",
+        "page": 7,
+        "source": "ocr",
+        "context": "莫陶片化学成分分析报告\n\n七.大佛台汉墓陶片矿物成分分析报告\n\n八大葆台汉墓出土兽骨"
+      },
+      {
+        "text": "兽骨",
+        "page": 7,
+        "source": "ocr",
+        "context": "陶片矿物成分分析报告\n\n八大葆台汉墓出土兽骨名称鉴定…               "
+      },
+      {
+        "text": "竹简",
+        "page": 9,
+        "source": "ocr",
+        "context": "段黄肠题凑\n一号莫黄肠木致全情况及出土的竹简\n-号幕出土黄肠木上的加工痕迹\n一号墓前"
+      },
+      {
+        "text": "织物",
+        "page": 10,
+        "source": "ocr",
+        "context": "滑板痕, 编号及丝绳\n\n一号幕棺板上的丝织物及铜钱\nHE: i a A\n\n一号幕出土"
+      }
+    ],
+    "葬具": [
+      {
+        "text": "棺",
+        "page": 7,
+        "source": "ocr",
+        "context": "sse sse\n\n二,大葆台莫莫木结构及棺樟木材的鉴定…\n\n三,大葆台一号汉墓随莫"
+      },
+      {
+        "text": "棺",
+        "page": 10,
+        "source": "ocr",
+        "context": "情况\n\n一号墓后室形制\n\n一号募内樟及外棺盖板\n\n一号募樟板的滑板痕, 编号及丝绳"
+      },
+      {
+        "text": "棺",
+        "page": 10,
+        "source": "ocr",
+        "context": "号募樟板的滑板痕, 编号及丝绳\n\n一号幕棺板上的丝织物及铜钱\nHE: i a A\n"
+      },
+      {
+        "text": "棺",
+        "page": 12,
+        "source": "ocr",
+        "context": "幕后室横剖面图(C 一D )\n一号幕幕室棺樟桦卯搭扣结构示意图…\n一号莫外樟盖板和"
+      },
+      {
+        "text": "棺",
+        "page": 12,
+        "source": "ocr",
+        "context": "樟平、剖面\n一号墓外樟结构复原\n一号幕外棺盖板出土位置平面图\n\n"
+      },
+      {
+        "text": "棺",
+        "page": 13,
+        "source": "ocr",
+        "context": "一号幕外棺底板出土位置了\n一号莫中棺盖板出土位置\n"
+      },
+      {
+        "text": "棺",
+        "page": 13,
+        "source": "ocr",
+        "context": "一号幕外棺底板出土位置了\n一号莫中棺盖板出土位置\n一号幕中棺底板出土位置3\n"
+      },
+      {
+        "text": "棺",
+        "page": 13,
+        "source": "ocr",
+        "context": "位置了\n一号莫中棺盖板出土位置\n一号幕中棺底板出土位置3\n一号墓内棺盖板出土位\n一"
+      },
+      {
+        "text": "棺",
+        "page": 13,
+        "source": "ocr",
+        "context": "位置\n一号幕中棺底板出土位置3\n一号墓内棺盖板出土位\n一号幕内棺底板出土位置平面图"
+      },
+      {
+        "text": "棺",
+        "page": 13,
+        "source": "ocr",
+        "context": "土位置3\n一号墓内棺盖板出土位\n一号幕内棺底板出土位置平面图\n一号莫外棺平、剖面复"
+      },
+      {
+        "text": "棺",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n一号幕内棺底板出土位置平面图\n一号莫外棺平、剖面复原图\n一号幕中棺平、 剖面复原"
+      },
+      {
+        "text": "棺",
+        "page": 13,
+        "source": "ocr",
+        "context": "面图\n一号莫外棺平、剖面复原图\n一号幕中棺平、 剖面复原图\n-号墓内棺平、剖面复原"
+      },
+      {
+        "text": "棺",
+        "page": 13,
+        "source": "ocr",
+        "context": "图\n一号幕中棺平、 剖面复原图\n-号墓内棺平、剖面复原图\n一号幕内棺复原图\n-号墓"
+      },
+      {
+        "text": "棺",
+        "page": 13,
+        "source": "ocr",
+        "context": "原图\n-号墓内棺平、剖面复原图\n一号幕内棺复原图\n-号墓幕室随莫器物分布\n\n图四三"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "陶盆",
+        "page": 10,
+        "source": "ocr",
+        "context": "铜钱\nHE: i a A\n\n一号幕出土的陶盆和陶魁\n\n一号募出土的陶盘和陶耳环\n\nS"
+      },
+      {
+        "text": "陶盘",
+        "page": 10,
+        "source": "ocr",
+        "context": "\n一号幕出土的陶盆和陶魁\n\n一号募出土的陶盘和陶耳环\n\nSE HH SB A le "
+      },
+      {
+        "text": "环",
+        "page": 10,
+        "source": "ocr",
+        "context": "土的陶盆和陶魁\n\n一号募出土的陶盘和陶耳环\n\nSE HH SB A le i BL"
+      },
+      {
+        "text": "盆",
+        "page": 11,
+        "source": "ocr",
+        "context": "土的\n\nDl ii. 贫和釉陶过\n陶久和盆形器\n\n铀刷. 铜环和铜虎等\n\n人像玉饰"
+      },
+      {
+        "text": "环",
+        "page": 11,
+        "source": "ocr",
+        "context": " 贫和釉陶过\n陶久和盆形器\n\n铀刷. 铜环和铜虎等\n\n人像玉饰.玉片和玉耳塞等\n\n"
+      },
+      {
+        "text": "豆",
+        "page": 11,
+        "source": "ocr",
+        "context": "土情况\n\n车载出土情况\n出土情况\n\n铜车豆\n\n一二号莫出土的铁贤.铜环和铜帆\n\n一"
+      },
+      {
+        "text": "环",
+        "page": 11,
+        "source": "ocr",
+        "context": "情况\n\n铜车豆\n\n一二号莫出土的铁贤.铜环和铜帆\n\n一二号幕出\n一`二号墓出:\n\n"
+      },
+      {
+        "text": "陶盆",
+        "page": 14,
+        "source": "ocr",
+        "context": "二号幕遗物分布图\n二号幕出土的陶器*\n\n陶盆形器拓片…\n二号基出土的铜器。\n玉器拓片"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "盆",
+        "page": 10,
+        "source": "ocr",
+        "context": "钱\nHE: i a A\n\n一号幕出土的陶盆和陶魁\n\n一号募出土的陶盘和陶耳环\n\nS"
+      },
+      {
+        "text": "盘",
+        "page": 10,
+        "source": "ocr",
+        "context": "一号幕出土的陶盆和陶魁\n\n一号募出土的陶盘和陶耳环\n\nSE HH SB A le "
+      },
+      {
+        "text": "环",
+        "page": 10,
+        "source": "ocr",
+        "context": "土的陶盆和陶魁\n\n一号募出土的陶盘和陶耳环\n\nSE HH SB A le i BL"
+      },
+      {
+        "text": "铜镜",
+        "page": 10,
+        "source": "ocr",
+        "context": "\n\n一号幕出土的铜龙头枕\n\n一号幕出土的铜镜\n\n一号墓出土的铜镜, 铜豹等铜器\n\n一"
+      },
+      {
+        "text": "铜镜",
+        "page": 10,
+        "source": "ocr",
+        "context": "头枕\n\n一号幕出土的铜镜\n\n一号墓出土的铜镜, 铜豹等铜器\n\n一号墓出土的铜铀, 铁"
+      },
+      {
+        "text": "饰",
+        "page": 10,
+        "source": "ocr",
+        "context": "一二号莫出土的玉石器\n一`二号募出土的玉饰片及针刻年号摹本\n出土的玉匣片和玛责饰件"
+      },
+      {
+        "text": "饰",
+        "page": 10,
+        "source": "ocr",
+        "context": "玉饰片及针刻年号摹本\n出土的玉匣片和玛责饰件\n\n土的玛瑙珠和铜饰件等\n\n一号幕出土"
+      },
+      {
+        "text": "铜饰",
+        "page": 10,
+        "source": "ocr",
+        "context": "\n出土的玉匣片和玛责饰件\n\n土的玛瑙珠和铜饰件等\n\n一号幕出土的木.角器及铜饰件\n\n"
+      },
+      {
+        "text": "铜饰",
+        "page": 10,
+        "source": "ocr",
+        "context": "瑙珠和铜饰件等\n\n一号幕出土的木.角器及铜饰件\n\n-号墓出土的珠理片和铜八棱兵器等\n"
+      },
+      {
+        "text": "饰",
+        "page": 10,
+        "source": "ocr",
+        "context": "残漆板花纹摹本\n\n-号幕出土的牙基和金稍饰片\n\n"
+      },
+      {
+        "text": "盆",
+        "page": 11,
+        "source": "ocr",
+        "context": "土的\n\nDl ii. 贫和釉陶过\n陶久和盆形器\n\n铀刷. 铜环和铜虎等\n\n人像玉饰"
+      },
+      {
+        "text": "铜环",
+        "page": 11,
+        "source": "ocr",
+        "context": ". 贫和釉陶过\n陶久和盆形器\n\n铀刷. 铜环和铜虎等\n\n人像玉饰.玉片和玉耳塞等\n\n"
+      },
+      {
+        "text": "饰",
+        "page": 11,
+        "source": "ocr",
+        "context": "盆形器\n\n铀刷. 铜环和铜虎等\n\n人像玉饰.玉片和玉耳塞等\n\n铜钱\n\n的一.二号车"
+      },
+      {
+        "text": "豆",
+        "page": 11,
+        "source": "ocr",
+        "context": "土情况\n\n车载出土情况\n出土情况\n\n铜车豆\n\n一二号莫出土的铁贤.铜环和铜帆\n\n一"
+      },
+      {
+        "text": "铜环",
+        "page": 11,
+        "source": "ocr",
+        "context": "土情况\n\n铜车豆\n\n一二号莫出土的铁贤.铜环和铜帆\n\n一二号幕出\n一`二号墓出:\n\n"
+      },
+      {
+        "text": "泡",
+        "page": 11,
+        "source": "ocr",
+        "context": "\n\n二号墓出土的车马器件\n\n上的马衔.钢泡和节约等\n"
+      },
+      {
+        "text": "铜镜",
+        "page": 13,
+        "source": "ocr",
+        "context": "\n\n图四三\n图四四\n图四五\n图四六 亚式铜镜拓片…\n图四七”亚式铜镜拓片…\n图四八_"
+      },
+      {
+        "text": "铜镜",
+        "page": 13,
+        "source": "ocr",
+        "context": "五\n图四六 亚式铜镜拓片…\n图四七”亚式铜镜拓片…\n图四八_铁器\n四九 铁器\n图五〇"
+      },
+      {
+        "text": "盆",
+        "page": 14,
+        "source": "ocr",
+        "context": "号幕遗物分布图\n二号幕出土的陶器*\n\n陶盆形器拓片…\n二号基出土的铜器。\n玉器拓片"
+      }
+    ],
+    "玉器": [
+      {
+        "text": "玉饰",
+        "page": 10,
+        "source": "ocr",
+        "context": "\n一二号莫出土的玉石器\n一`二号募出土的玉饰片及针刻年号摹本\n出土的玉匣片和玛责饰件"
+      },
+      {
+        "text": "玉饰",
+        "page": 11,
+        "source": "ocr",
+        "context": "和盆形器\n\n铀刷. 铜环和铜虎等\n\n人像玉饰.玉片和玉耳塞等\n\n铜钱\n\n的一.二号车"
+      }
+    ],
+    "漆器": [
+      {
+        "text": "漆器",
+        "page": 10,
+        "source": "ocr",
+        "context": "-号墓出土的珠理片和铜八棱兵器等\n一号墓漆器上的“黄能桥神\"四字\n\n-号幕出土漆器上"
+      },
+      {
+        "text": "漆器",
+        "page": 10,
+        "source": "ocr",
+        "context": "墓漆器上的“黄能桥神\"四字\n\n-号幕出土漆器上的云龙纹\n\n一号幕出土的残漆板花纹摹本"
+      },
+      {
+        "text": "漆器",
+        "page": 11,
+        "source": "ocr",
+        "context": "ARATB\n\nRRAR\n\nBS\n\n一号墓漆器上\n一号墓出土的\n一号墓漆纱切\n\n的花纹"
+      }
+    ],
+    "铁器": [
+      {
+        "text": "铁戟",
+        "page": 10,
+        "source": "ocr",
+        "context": "镜, 铜豹等铜器\n\n一号墓出土的铜铀, 铁戟等器物\n\n-号幕出土的铁工具\n一号幕出土"
+      }
+    ],
+    "材质": [
+      {
+        "text": "釉陶",
+        "page": 11,
+        "source": "ocr",
+        "context": "号车\n一号墓出土的\n\nDl ii. 贫和釉陶过\n陶久和盆形器\n\n铀刷. 铜环和铜虎等"
+      }
+    ]
+  }
+}

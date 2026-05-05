@@ -1,14 +1,13 @@
-# 大数据文件（不上传GitHub）
-pdf_raw/
-reports_md/
-/logs/
-
-# 根目录下的output和app（docs/下的副本用于部署，会被跟踪）
-/output/
+# 根目录下的app和scripts（docs/下的副本已用于部署）
 /app/
 /scripts/
 /ontology/
 /kg/
+
+# 日志和临时文件
+/logs/
+*.tmp
+*.log
 
 # Python缓存
 __pycache__/

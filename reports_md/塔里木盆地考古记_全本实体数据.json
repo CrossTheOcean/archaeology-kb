@@ -1,0 +1,1316 @@
+{
+  "name": "塔里木盆地考古记",
+  "file": "塔里木盆地考古记.pdf",
+  "processed_pages": 290,
+  "total_pages": 329,
+  "total_entities": 211,
+  "entity_stats": {
+    "年代": 38,
+    "测量数据": 14,
+    "遗迹编号": 24,
+    "铜器": 57,
+    "纹饰": 22,
+    "遗址名称": 11,
+    "材质": 9,
+    "遗存类型": 14,
+    "探方编号": 1,
+    "陶器": 17,
+    "木器": 2,
+    "石器": 1,
+    "玉器": 1
+  },
+  "entities": {
+    "年代": [
+      {
+        "text": "明",
+        "page": 3,
+        "source": "ocr",
+        "context": "58 年 4日第一-次闭掉       明本 ; 787X 1092 1/16\n\n"
+      },
+      {
+        "text": "明",
+        "page": 135,
+        "source": "ocr",
+        "context": "e) AK WERK WS eee 站者明基能。 Ba\nSeg MAo HE | "
+      },
+      {
+        "text": "明",
+        "page": 238,
+        "source": "ocr",
+        "context": "和h，\n\n站\n\nHl 李明过借粮契残纸 ”图2 ERR AM\n图3"
+      },
+      {
+        "text": "元",
+        "page": 271,
+        "source": "ocr",
+        "context": "图15、16 开元通赛 ”图17、18 eH 图19 AB"
+      },
+      {
+        "text": "元",
+        "page": 271,
+        "source": "ocr",
+        "context": "1，突参施钢钱 22 AGM 23 景税元赛 图24 Se\n国25 Reee 图2"
+      },
+      {
+        "text": "元",
+        "page": 272,
+        "source": "ocr",
+        "context": "图27 ”元符通赛 23 ROM ”图29 ARER"
+      },
+      {
+        "text": "明",
+        "page": 298,
+        "source": "ocr",
+        "context": "w tk Z\n\n—\n—_——_\n\n—\n\n明屋十址工作\n\n"
+      },
+      {
+        "text": "明",
+        "page": 326,
+        "source": "text",
+        "context": "查\n            1.锡科沁之明屋\n            2.霍拉山废"
+      },
+      {
+        "text": "明",
+        "page": 326,
+        "source": "text",
+        "context": "格沟口刻石\n        (二)克子尔明屋之工作\n        (三)往返拜城"
+      },
+      {
+        "text": "明",
+        "page": 326,
+        "source": "text",
+        "context": "  (三)阿克苏河畔之古址\n贰  遗物说明\n    第一部分  绘画\n      "
+      },
+      {
+        "text": "明",
+        "page": 326,
+        "source": "text",
+        "context": "画\n            (1)克子尔明屋佛洞壁画残片\n            "
+      },
+      {
+        "text": "明",
+        "page": 326,
+        "source": "text",
+        "context": "人像头部\n            八  明王及护法神将头部\n           "
+      },
+      {
+        "text": "唐",
+        "page": 327,
+        "source": "text",
+        "context": "            三  唐铜钱\n            四  宋元"
+      },
+      {
+        "text": "宋",
+        "page": 327,
+        "source": "text",
+        "context": " 唐铜钱\n            四  宋元铜钱\n        (二)无孔铜钱及"
+      },
+      {
+        "text": "元",
+        "page": 327,
+        "source": "text",
+        "context": "唐铜钱\n            四  宋元铜钱\n        (二)无孔铜钱及银"
+      },
+      {
+        "text": "明",
+        "page": 327,
+        "source": "text",
+        "context": "        图版叁玖  图36-42明王及护法神将头部\n        图版叁"
+      },
+      {
+        "text": "唐",
+        "page": 327,
+        "source": "text",
+        "context": "四部分  织品\n    图版陆拾  图1唐绢  附织纹放大  图2舍利袋\n    "
+      },
+      {
+        "text": "明",
+        "page": 327,
+        "source": "text",
+        "context": "印本\n        图版柒壹  图1李明达借粮契残纸\n        图版柒壹 "
+      },
+      {
+        "text": "唐",
+        "page": 328,
+        "source": "text",
+        "context": "3、14龟兹小铜钱\n        三、唐铜钱\n            图版壹零叁"
+      },
+      {
+        "text": "元",
+        "page": 328,
+        "source": "text",
+        "context": "      图版壹零叁  图15、16开元通宝\n            图版壹零叁"
+      },
+      {
+        "text": "元",
+        "page": 328,
+        "source": "text",
+        "context": "      图版壹零叁  图17、18干元重宝\n            图版壹零叁"
+      },
+      {
+        "text": "元",
+        "page": 328,
+        "source": "text",
+        "context": "        图版壹零叁  图19大历元宝\n            图版壹零叁 "
+      },
+      {
+        "text": "宋",
+        "page": 328,
+        "source": "text",
+        "context": " 图21突骑施铜钱\n        四、宋元铜钱\n            图版壹零"
+      },
+      {
+        "text": "元",
+        "page": 328,
+        "source": "text",
+        "context": "图21突骑施铜钱\n        四、宋元铜钱\n            图版壹零叁"
+      },
+      {
+        "text": "元",
+        "page": 328,
+        "source": "text",
+        "context": "        图版壹零叁  图23景祐元宝\n            图版壹零叁 "
+      },
+      {
+        "text": "宋",
+        "page": 328,
+        "source": "text",
+        "context": "         图版壹零叁  图24皇宋通宝\n            图版壹零叁"
+      },
+      {
+        "text": "元",
+        "page": 328,
+        "source": "text",
+        "context": "          图版壹零叁  图26元丰通宝\n            图版壹零"
+      },
+      {
+        "text": "元",
+        "page": 328,
+        "source": "text",
+        "context": "          图版壹零肆  图27元符通宝\n            图版壹零"
+      },
+      {
+        "text": "宋",
+        "page": 328,
+        "source": "text",
+        "context": "         图版壹零肆  图28圣宋元宝\n            图版壹零肆"
+      },
+      {
+        "text": "元",
+        "page": 328,
+        "source": "text",
+        "context": "        图版壹零肆  图28圣宋元宝\n            图版壹零肆 "
+      },
+      {
+        "text": "明",
+        "page": 328,
+        "source": "text",
+        "context": "108-115彩绘红陶片\n插图壹  焉耆明屋古址及工作情形\n插图贰  库木土拉佛洞"
+      },
+      {
+        "text": "明",
+        "page": 328,
+        "source": "text",
+        "context": ".博者克拉格沟岩石刻辞\n插图陆  克子尔明屋佛洞之一、二、三及佛洞对面确尔达格山景"
+      },
+      {
+        "text": "明",
+        "page": 328,
+        "source": "text",
+        "context": "    6.奇盘山之山景\n附图壹  焉耆明屋古址图\n附图贰  焉耆明屋工作大殿图\n"
+      },
+      {
+        "text": "明",
+        "page": 328,
+        "source": "text",
+        "context": "附图壹  焉耆明屋古址图\n附图贰  焉耆明屋工作大殿图\n附图叁  焉耆霍拉山古址图"
+      },
+      {
+        "text": "明",
+        "page": 329,
+        "source": "text",
+        "context": "  库车苏巴什古城图\n附图拾陆  克子尔明屋佛洞分布图\n附图拾柒  克子尔明屋苏格"
+      },
+      {
+        "text": "明",
+        "page": 329,
+        "source": "text",
+        "context": "克子尔明屋佛洞分布图\n附图拾柒  克子尔明屋苏格特沟西上下层佛洞排列图\n附图拾捌\n"
+      },
+      {
+        "text": "明",
+        "page": 329,
+        "source": "text",
+        "context": "排列图\n附图拾捌\n    1、2.克子尔明屋苏格特沟西上层佛洞平面及剖面图\n   "
+      },
+      {
+        "text": "明",
+        "page": 329,
+        "source": "text",
+        "context": "上层佛洞平面及剖面图\n    3.克子尔明屋佛洞平面图\n附图拾玖\n    1.巴楚"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": "2m",
+        "page": 9,
+        "source": "ocr",
+        "context": "\n(EB =)\n(Eimie\" ~)\n(2me\" ~)\n\nmM Re Re\nHHO "
+      },
+      {
+        "text": " 2\nm",
+        "page": 19,
+        "source": "ocr",
+        "context": "as Xie\nme SS Hol tic 2\nme Riedie BH\nBe FX Ho"
+      },
+      {
+        "text": "2m",
+        "page": 61,
+        "source": "ocr",
+        "context": "H SACLE CARAS S\nAexE2me SELLE” SRSA CARRRE"
+      },
+      {
+        "text": " 1 m",
+        "page": 76,
+        "source": "ocr",
+        "context": " 4H URS’ AAMAS Ms KO 1 me KM +h OBR Eee MEK "
+      },
+      {
+        "text": " 0 m",
+        "page": 100,
+        "source": "ocr",
+        "context": " |\n1O-+ IK? Me Be me 0 mR okt BRR BER | ERS "
+      },
+      {
+        "text": " 1 m",
+        "page": 110,
+        "source": "ocr",
+        "context": "ARE ERa KER RNERERCE 1 mee pow HERZ O-\nWx. I"
+      },
+      {
+        "text": " 2m",
+        "page": 145,
+        "source": "ocr",
+        "context": "RL RMS’ S WAAKRES\n4° 2m SNS KEXSRRR BR EORT"
+      },
+      {
+        "text": " 4        m",
+        "page": 152,
+        "source": "ocr",
+        "context": "ar              1] | 4        ms | a3\ney        EKA"
+      },
+      {
+        "text": " 18\n\nm",
+        "page": 154,
+        "source": "ocr",
+        "context": " .\n9 8\n\n|\n\n19 190\n20 18\n\nmapa.\nECREes\n\nAXES\n\ne"
+      },
+      {
+        "text": " 9 cm",
+        "page": 217,
+        "source": "ocr",
+        "context": "WK th A\n\n6   Q 7 4 6 9 cm   7\n\n图1一8 ®@®S#EKSB"
+      },
+      {
+        "text": "94\n\nm",
+        "page": 240,
+        "source": "ocr",
+        "context": "te + ps\n\ntt   Aaa\n\n\"94\n\nmere  og\n\na a\nioe ham"
+      },
+      {
+        "text": " 51m",
+        "page": 295,
+        "source": "ocr",
+        "context": " st Fea\n\n10\n\nFoe eng 51m                    "
+      },
+      {
+        "text": "\n\n80 米",
+        "page": 306,
+        "source": "ocr",
+        "context": "R\n\nEt\n\naR BA\nBid\n\n土壤\n\n80 米\n\n40              60"
+      },
+      {
+        "text": "\n\n30米",
+        "page": 310,
+        "source": "ocr",
+        "context": "            ww ww\n\n3\n\n30米\n\nSh OS Bw\n\n哈拉木登普城\n\n"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "D2",
+        "page": 13,
+        "source": "ocr",
+        "context": " etter eter teeeees(D2)\n1 1 PRAGA eee ctee"
+      },
+      {
+        "text": "G2",
+        "page": 16,
+        "source": "ocr",
+        "context": "oa K G2 WO ie              "
+      },
+      {
+        "text": "G2",
+        "page": 37,
+        "source": "ocr",
+        "context": " OT Re 1 ee NA  “fo G2 iin FE fe 0 IR Re? "
+      },
+      {
+        "text": "M1",
+        "page": 46,
+        "source": "ocr",
+        "context": "SK ARE Nt RS” 光臣长并” M1]. ICS ei SRE Se REV"
+      },
+      {
+        "text": "S2a",
+        "page": 51,
+        "source": "ocr",
+        "context": "SO QVRASTENSRRE Oks\nS2a* Qe Rik Bea SK” | B"
+      },
+      {
+        "text": "S2",
+        "page": 54,
+        "source": "ocr",
+        "context": "a ERS\napogee” [BEAK S2| [ey |S QDS aR Be R"
+      },
+      {
+        "text": "G5",
+        "page": 65,
+        "source": "ocr",
+        "context": "Ho Bh He G5 eR 1 ite           "
+      },
+      {
+        "text": "S45",
+        "page": 89,
+        "source": "ocr",
+        "context": " DRX <BERBHRER BE H S45 | RS* RES\nmaw” RO R"
+      },
+      {
+        "text": "L117",
+        "page": 93,
+        "source": "ocr",
+        "context": "’\n\nCll) Se WRR Sax\n\nL117 SBMRic (MURS Re 党 )"
+      },
+      {
+        "text": "D2",
+        "page": 102,
+        "source": "ocr",
+        "context": "SRMIAHSREER’ WRAEME D2. TERS’ RRARRMAKREME"
+      },
+      {
+        "text": "M2",
+        "page": 104,
+        "source": "ocr",
+        "context": "A” KR <& (BRAD ES)\n\nM2 CSE MR* MRS eel dC]"
+      },
+      {
+        "text": "M2",
+        "page": 106,
+        "source": "ocr",
+        "context": "ES HEBRRRA RERSN |S\nM2 MQM LT. Bete HEIL] "
+      },
+      {
+        "text": "M4",
+        "page": 115,
+        "source": "ocr",
+        "context": "Rt\n\nBeek...     ,vv\nM4 MOAR Re KS TE RIE I"
+      },
+      {
+        "text": "D4",
+        "page": 119,
+        "source": "ocr",
+        "context": " VK BR I RX. RIL VR D4 P| Zee\nPew wig ibs "
+      },
+      {
+        "text": "G2",
+        "page": 121,
+        "source": "ocr",
+        "context": "l AMMAR RR ERE MRSS\nG2“ 50 Fa wh A Be RX <"
+      },
+      {
+        "text": "M2",
+        "page": 131,
+        "source": "ocr",
+        "context": "Asia @XCXIX 转\n<1) ° M2 RT EL th BES OKT AS"
+      },
+      {
+        "text": "M1",
+        "page": 139,
+        "source": "ocr",
+        "context": "11 «HIER RMS EO\npoo M1 [HKS HES SER AT ASP"
+      },
+      {
+        "text": "M1",
+        "page": 140,
+        "source": "ocr",
+        "context": "BS BY] EK EEA RW BS M1 KS Eth STK R\n\nUG fe"
+      },
+      {
+        "text": "Y0",
+        "page": 144,
+        "source": "ocr",
+        "context": " Innermost Asia BRM Y0.053c )° RBRRE\nDw ee"
+      },
+      {
+        "text": "G2",
+        "page": 145,
+        "source": "ocr",
+        "context": "RRRESR’ Bs el RA\nso G2 PRM MM XK BS KR SED"
+      },
+      {
+        "text": "D4",
+        "page": 146,
+        "source": "ocr",
+        "context": "R'ORNEE BS CRA RAR’ D4\nTeel WE Be eRe GSRY"
+      },
+      {
+        "text": "S44",
+        "page": 151,
+        "source": "ocr",
+        "context": "eH) 8° 5) See we em\nS44        Ha og       "
+      },
+      {
+        "text": "S8",
+        "page": 152,
+        "source": "ocr",
+        "context": " a3\ney        EKA < S8 Nir             HW]"
+      },
+      {
+        "text": "M1",
+        "page": 160,
+        "source": "ocr",
+        "context": " eR ARR -GR IR” CRA M1 R CHER OER Het ER E"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "饰",
+        "page": 19,
+        "source": "ocr",
+        "context": " 88 87 70\nR\n115 107 饰 矢\n\n4, §il\nI\nig)\nHr\n"
+      },
+      {
+        "text": "饰",
+        "page": 286,
+        "source": "ocr",
+        "context": "29 KB   图 32—34 ”人面形饰件\n图 40一42 Axe   图 30"
+      },
+      {
+        "text": "饰",
+        "page": 286,
+        "source": "ocr",
+        "context": "0,31,35—39, 4346 ”匠面饰件\n\n46\n\ni\n\n"
+      },
+      {
+        "text": "盆",
+        "page": 325,
+        "source": "text",
+        "context": "古报告集 考古学专刊 丁种第三号 塔里木盆地考古记\n作者=黄文弼著 中国科学院考古"
+      },
+      {
+        "text": "戈",
+        "page": 326,
+        "source": "text",
+        "context": "之遗迹\n            2.达摩戈一带古址\n            3.克"
+      },
+      {
+        "text": "盘",
+        "page": 326,
+        "source": "text",
+        "context": "                (3)奇盘庄佛洞与萌木克之石城\n        ("
+      },
+      {
+        "text": "饰",
+        "page": 326,
+        "source": "text",
+        "context": "\n            一四  各种纹饰范\n    第三部分  木陶残件\n   "
+      },
+      {
+        "text": "饰",
+        "page": 326,
+        "source": "text",
+        "context": "\n            二  木雕建筑饰件\n            三  木器残"
+      },
+      {
+        "text": "饰",
+        "page": 326,
+        "source": "text",
+        "context": "八  罗织残片\n        九  衣饰残片\n    第五部分  汉文及民族古文"
+      },
+      {
+        "text": "铜饰",
+        "page": 327,
+        "source": "text",
+        "context": "押、铜章\n            三  铜饰具\n        (二)石饰件\n   "
+      },
+      {
+        "text": "饰",
+        "page": 327,
+        "source": "text",
+        "context": " 三  铜饰具\n        (二)石饰件\n            四  发饰\n"
+      },
+      {
+        "text": "饰",
+        "page": 327,
+        "source": "text",
+        "context": "石饰件\n            四  发饰\n            五  耳饰及玩"
+      },
+      {
+        "text": "饰",
+        "page": 327,
+        "source": "text",
+        "context": " 发饰\n            五  耳饰及玩具\n        (三)石、骨、玻"
+      },
+      {
+        "text": "饰",
+        "page": 327,
+        "source": "text",
+        "context": "具\n        (三)石、骨、玻璃等饰件\n            六  帽饰及"
+      },
+      {
+        "text": "饰",
+        "page": 327,
+        "source": "text",
+        "context": "等饰件\n            六  帽饰及佩饰\n            七  耳"
+      },
+      {
+        "text": "饰",
+        "page": 327,
+        "source": "text",
+        "context": "\n            六  帽饰及佩饰\n            七  耳饰\n "
+      },
+      {
+        "text": "饰",
+        "page": 327,
+        "source": "text",
+        "context": "及佩饰\n            七  耳饰\n            八  项饰\n "
+      },
+      {
+        "text": "饰",
+        "page": 327,
+        "source": "text",
+        "context": " 耳饰\n            八  项饰\n            九  帽缨\n "
+      },
+      {
+        "text": "饰",
+        "page": 327,
+        "source": "text",
+        "context": "陶器\n            五  陶器饰件\n            六  陶器残"
+      },
+      {
+        "text": "盆",
+        "page": 327,
+        "source": "text",
+        "context": "      六  陶器残片\n附  塔里木盆地出土器物分布表\n第一部分  绘画\n  "
+      },
+      {
+        "text": "饰",
+        "page": 327,
+        "source": "text",
+        "context": "\n        图版肆肆  图5髑髅像饰件范\n        图版肆伍  图6人"
+      },
+      {
+        "text": "饰",
+        "page": 327,
+        "source": "text",
+        "context": "  图版肆陆、肆柒  图12-17各种纹饰范\n第三部分  木陶残件\n    (一)"
+      },
+      {
+        "text": "盘",
+        "page": 327,
+        "source": "text",
+        "context": "      图版肆玖  图9、10木雕灯盘\n        图版肆玖  图11、1"
+      },
+      {
+        "text": "钵",
+        "page": 327,
+        "source": "text",
+        "context": "    图版肆玖  图11、12木雕圆底钵残件\n        图版肆玖  图13"
+      },
+      {
+        "text": "环",
+        "page": 327,
+        "source": "text",
+        "context": "    图版伍陆  图6-9彩绘三角联珠环纹陶片\n        图版伍柒  图1"
+      },
+      {
+        "text": "饰",
+        "page": 327,
+        "source": "text",
+        "context": "丝织残片\n    图版陆叁  图9袋状衣饰残片\n    图版陆叁  图10丝织衣饰"
+      },
+      {
+        "text": "饰",
+        "page": 327,
+        "source": "text",
+        "context": "饰残片\n    图版陆叁  图10丝织衣饰残片\n    图版陆肆、陆伍  图11-"
+      },
+      {
+        "text": "饰",
+        "page": 327,
+        "source": "text",
+        "context": "  图版陆肆、陆伍  图11-20丝织衣饰残片\n    图版陆陆  图21毛织残片"
+      },
+      {
+        "text": "饰",
+        "page": 327,
+        "source": "text",
+        "context": "片\n    图版陆玖  图31提花黄绸衣饰残片  附织纹放大\n    图版柒拾  "
+      },
+      {
+        "text": "饰",
+        "page": 327,
+        "source": "text",
+        "context": "   图版柒拾  图32-34红绸格纹衣饰残片\n第五部分  汉文及民族古文字\n  "
+      },
+      {
+        "text": "瓶",
+        "page": 328,
+        "source": "text",
+        "context": "       图版玖玖  图11石室刻插瓶及花草图案\n        图版玖玖-壹"
+      },
+      {
+        "text": "饰",
+        "page": 328,
+        "source": "text",
+        "context": "        图版壹壹零  图25铜佩饰\n        图版壹壹零  图26-"
+      },
+      {
+        "text": "铜饰",
+        "page": 328,
+        "source": "text",
+        "context": "       图版壹壹零  图26-28铜饰\n        图版壹壹零  图29、"
+      },
+      {
+        "text": "铜环",
+        "page": 328,
+        "source": "text",
+        "context": "       图版壹壹零  图29、30铜环\n    (二)石饰件\n        "
+      },
+      {
+        "text": "饰",
+        "page": 328,
+        "source": "text",
+        "context": "零  图29、30铜环\n    (二)石饰件\n        图版壹壹壹  图31"
+      },
+      {
+        "text": "饰",
+        "page": 328,
+        "source": "text",
+        "context": "      图版壹壹壹  图31-50发饰\n        图版壹壹壹  图51-"
+      },
+      {
+        "text": "饰",
+        "page": 328,
+        "source": "text",
+        "context": "      图版壹壹壹  图51-55耳饰及玩具\n    (三)石骨玻璃等饰件\n "
+      },
+      {
+        "text": "饰",
+        "page": 328,
+        "source": "text",
+        "context": "55耳饰及玩具\n    (三)石骨玻璃等饰件\n        图版壹壹贰  图56"
+      },
+      {
+        "text": "饰",
+        "page": 328,
+        "source": "text",
+        "context": "\n        图版壹壹贰  图56帽饰  着色\n        图版壹壹贰  "
+      },
+      {
+        "text": "饰",
+        "page": 328,
+        "source": "text",
+        "context": "\n        图版壹壹贰  图57佩饰  着色\n        图版壹壹贰  "
+      },
+      {
+        "text": "饰",
+        "page": 328,
+        "source": "text",
+        "context": "      图版壹壹贰  图58-67耳饰  着色\n        图版壹壹贰  "
+      },
+      {
+        "text": "饰",
+        "page": 328,
+        "source": "text",
+        "context": "      图版壹壹贰  图68-81项饰  着色\n        图版壹壹贰  "
+      },
+      {
+        "text": "镞",
+        "page": 328,
+        "source": "text",
+        "context": "       图版壹壹叁  图1打制石矢镞\n        图版壹壹叁  图2石燕"
+      },
+      {
+        "text": "饰",
+        "page": 328,
+        "source": "text",
+        "context": "       图版壹壹叁  图2石燕化石饰品\n        图版壹壹叁  图3象"
+      },
+      {
+        "text": "饰",
+        "page": 328,
+        "source": "text",
+        "context": "\n        图版壹壹叁  图3象牙饰品\n        图版壹壹叁  图4磨"
+      },
+      {
+        "text": "斧",
+        "page": 328,
+        "source": "text",
+        "context": "        图版壹壹叁  图4磨制玉斧\n        图版壹壹叁  图5磨制"
+      },
+      {
+        "text": "刀",
+        "page": 328,
+        "source": "text",
+        "context": "        图版壹壹叁  图5磨制石刀\n        图版壹壹叁  图6陶纺"
+      },
+      {
+        "text": "罐",
+        "page": 328,
+        "source": "text",
+        "context": "\n        图版壹壹肆  图7单耳罐\n        图版壹壹肆  图8残陶"
+      },
+      {
+        "text": "罐",
+        "page": 328,
+        "source": "text",
+        "context": "\n        图版壹壹肆  图8残陶罐\n        图版壹壹肆  图9兽形"
+      },
+      {
+        "text": "饰",
+        "page": 328,
+        "source": "text",
+        "context": "     图版壹壹伍  图11-24兽形饰件\n        图版壹壹陆  图25"
+      },
+      {
+        "text": "饰",
+        "page": 328,
+        "source": "text",
+        "context": "    图版壹壹陆  图32-34人面形饰件\n        图版壹壹陆  图40"
+      },
+      {
+        "text": "饰",
+        "page": 328,
+        "source": "text",
+        "context": "图30、31、35-39、43-46兽面饰件\n        图版壹壹柒  图47"
+      },
+      {
+        "text": "瓶",
+        "page": 328,
+        "source": "text",
+        "context": "     图版壹壹柒  图47、48单耳瓶\n        图版壹壹柒  图49-"
+      },
+      {
+        "text": "钵",
+        "page": 328,
+        "source": "text",
+        "context": "      图版壹壹捌  图57  漏底钵\n        图版壹壹捌  图58-"
+      },
+      {
+        "text": "镞",
+        "page": 328,
+        "source": "text",
+        "context": "        图版壹壹玖  图87骨矢镞\n        图版壹壹玖  圆88贝"
+      },
+      {
+        "text": "饰",
+        "page": 328,
+        "source": "text",
+        "context": "\n        图版壹壹玖  圆88贝饰\n        图版壹贰零  图89-"
+      },
+      {
+        "text": "盘",
+        "page": 328,
+        "source": "text",
+        "context": "叶城山中不尔项佛洞之石刻\n    6.奇盘山之山景\n附图壹  焉耆明屋古址图\n附图"
+      }
+    ],
+    "纹饰": [
+      {
+        "text": "彩绘",
+        "page": 221,
+        "source": "ocr",
+        "context": "lal WK th be\n\n1 “彩绘带蔷陶器 B25 Petree Be-9"
+      },
+      {
+        "text": "彩绘",
+        "page": 326,
+        "source": "text",
+        "context": "木画残件\n            六  彩绘木盖\n            七  彩绘"
+      },
+      {
+        "text": "彩绘",
+        "page": 326,
+        "source": "text",
+        "context": "彩绘木盖\n            七  彩绘木器残件\n            八  "
+      },
+      {
+        "text": "彩绘",
+        "page": 326,
+        "source": "text",
+        "context": " 八  木器残件\n        (三)彩绘陶器及残片\n            九 "
+      },
+      {
+        "text": "彩绘",
+        "page": 326,
+        "source": "text",
+        "context": "器及残片\n            九  彩绘陶器\n            一○  彩"
+      },
+      {
+        "text": "彩绘",
+        "page": 326,
+        "source": "text",
+        "context": "绘陶器\n            一○  彩绘陶器残片\n    第四部分  织品\n  "
+      },
+      {
+        "text": "彩绘",
+        "page": 327,
+        "source": "text",
+        "context": "件\n        图版伍壹  图1-8彩绘圆木盖\n        图版伍贰  图1"
+      },
+      {
+        "text": "彩绘",
+        "page": 327,
+        "source": "text",
+        "context": "盖\n        图版伍贰  图1-8彩绘圆木盖摹本及剖面\n        图版伍"
+      },
+      {
+        "text": "彩绘",
+        "page": 327,
+        "source": "text",
+        "context": "及剖面\n        图版伍叁  图9彩绘方木盖\n        图版伍叁  图1"
+      },
+      {
+        "text": "彩绘",
+        "page": 327,
+        "source": "text",
+        "context": "        图版伍叁  图10-18彩绘方木板\n        图版伍肆  图9"
+      },
+      {
+        "text": "彩绘",
+        "page": 327,
+        "source": "text",
+        "context": "\n        图版伍肆  图9-18彩绘方木盖及木板摹本及剖面\n        "
+      },
+      {
+        "text": "彩绘",
+        "page": 327,
+        "source": "text",
+        "context": "木板\n        图版伍伍  图21彩绘残木桶\n        图版伍伍  图2"
+      },
+      {
+        "text": "彩绘",
+        "page": 327,
+        "source": "text",
+        "context": "伍  图26、27木提吊\n    (三)彩绘陶器及残片\n        图版伍陆  "
+      },
+      {
+        "text": "彩绘",
+        "page": 327,
+        "source": "text",
+        "context": "及残片\n        图版伍陆  图1彩绘带盖陶器\n        图版伍陆  图"
+      },
+      {
+        "text": "彩绘",
+        "page": 327,
+        "source": "text",
+        "context": "器\n        图版伍陆  图2-5彩绘花枝鳞纹陶片\n        图版伍陆 "
+      },
+      {
+        "text": "彩绘",
+        "page": 327,
+        "source": "text",
+        "context": "片\n        图版伍陆  图6-9彩绘三角联珠环纹陶片\n        图版伍"
+      },
+      {
+        "text": "彩绘",
+        "page": 327,
+        "source": "text",
+        "context": "        图版伍柒  图10、11彩绘蓝地联珠纹陶片\n        图版伍柒"
+      },
+      {
+        "text": "彩绘",
+        "page": 327,
+        "source": "text",
+        "context": "陶片\n        图版伍柒  图12彩绘黑地菱纹花蕊陶片\n        图版伍"
+      },
+      {
+        "text": "彩绘",
+        "page": 327,
+        "source": "text",
+        "context": "        图版伍柒  图13、14彩绘黑地菱纹加草穗陶片\n        图版"
+      },
+      {
+        "text": "彩绘",
+        "page": 327,
+        "source": "text",
+        "context": "        图版伍柒  图16-20彩绘陶片\n        图版伍柒  图21"
+      },
+      {
+        "text": "鱼纹",
+        "page": 327,
+        "source": "text",
+        "context": "\n    图版陆柒、陆捌  图22绛地双鱼纹锦残片  着色\n    图版陆柒、陆捌 "
+      },
+      {
+        "text": "彩绘",
+        "page": 328,
+        "source": "text",
+        "context": "     图版壹贰零  图108-115彩绘红陶片\n插图壹  焉耆明屋古址及工作情形"
+      }
+    ],
+    "遗址名称": [
+      {
+        "text": "高昌",
+        "page": 276,
+        "source": "ocr",
+        "context": "al ee ah\n\n图47一51 高昌银钱 852,53 桃仁形铜钱 《在两行"
+      },
+      {
+        "text": "塔里木",
+        "page": 294,
+        "source": "ocr",
+        "context": " <<\n\nae\n\nLs\n\ni mee\n\n塔里木僵地考察路线圈\n\ni GC\n\n:    "
+      },
+      {
+        "text": "塔里木",
+        "page": 325,
+        "source": "text",
+        "context": "田野考古报告集 考古学专刊 丁种第三号 塔里木盆地考古记\n作者=黄文弼著 中国科学院考"
+      },
+      {
+        "text": "壁画",
+        "page": 326,
+        "source": "text",
+        "context": "第一部分  绘画\n        (一)壁画\n            (1)克子尔明"
+      },
+      {
+        "text": "壁画",
+        "page": 326,
+        "source": "text",
+        "context": "          (1)克子尔明屋佛洞壁画残片\n                一"
+      },
+      {
+        "text": "壁画",
+        "page": 326,
+        "source": "text",
+        "context": "           (2)库木土拉佛洞壁画残片\n                一"
+      },
+      {
+        "text": "六朝",
+        "page": 326,
+        "source": "text",
+        "context": "铜钱\n            一  汉及六朝铜钱\n            二  龟兹"
+      },
+      {
+        "text": "塔里木",
+        "page": 327,
+        "source": "text",
+        "context": "         六  陶器残片\n附  塔里木盆地出土器物分布表\n第一部分  绘画\n "
+      },
+      {
+        "text": "壁画",
+        "page": 327,
+        "source": "text",
+        "context": "分布表\n第一部分  绘画\n    (一)壁画\n        图版壹  图1释迦佛趺"
+      },
+      {
+        "text": "六朝",
+        "page": 328,
+        "source": "text",
+        "context": "(一)有孔铜钱\n        一、汉及六朝铜钱\n            图版壹零贰"
+      },
+      {
+        "text": "高昌",
+        "page": 328,
+        "source": "text",
+        "context": "       图版壹零捌  图47-51高昌银钱\n        图版壹零捌  图5"
+      }
+    ],
+    "材质": [
+      {
+        "text": "红陶",
+        "page": 287,
+        "source": "ocr",
+        "context": "\n、   BRR 国\n49—52 ”印敏红陶上   5356 JB\n=   2 BA"
+      },
+      {
+        "text": "红陶",
+        "page": 289,
+        "source": "ocr",
+        "context": "图 70一86\n\n剔纹红陶请 “图837\n\nRR\n\nzl 88\n"
+      },
+      {
+        "text": "红陶",
+        "page": 290,
+        "source": "ocr",
+        "context": "     115\n\n图89一107“易纹红陶片 图108一115 PAPAL\n"
+      },
+      {
+        "text": "红陶",
+        "page": 328,
+        "source": "text",
+        "context": "     图版壹壹柒  图49-52印纹红陶片\n        图版壹壹柒  图53"
+      },
+      {
+        "text": "红陶",
+        "page": 328,
+        "source": "text",
+        "context": "   图版壹壹柒  图53-56压纹刻纹红陶片\n        图版壹壹捌  图57"
+      },
+      {
+        "text": "红陶",
+        "page": 328,
+        "source": "text",
+        "context": "  图版壹壹捌  图58-69印纹及刻纹红陶片\n        图版壹壹玖  图70"
+      },
+      {
+        "text": "红陶",
+        "page": 328,
+        "source": "text",
+        "context": "     图版壹壹玖  图70-86剔纹红陶片\n        图版壹壹玖  图87"
+      },
+      {
+        "text": "红陶",
+        "page": 328,
+        "source": "text",
+        "context": "    图版壹贰零  图89-107剔纹红陶片\n        图版壹贰零  图10"
+      },
+      {
+        "text": "红陶",
+        "page": 328,
+        "source": "text",
+        "context": "   图版壹贰零  图108-115彩绘红陶片\n插图壹  焉耆明屋古址及工作情形\n插"
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "陶片",
+        "page": 290,
+        "source": "ocr",
+        "context": "    115\n\n图89一107“易纹红陶片 图108一115 PAPAL\n"
+      },
+      {
+        "text": "陶片",
+        "page": 327,
+        "source": "text",
+        "context": "    图版伍陆  图2-5彩绘花枝鳞纹陶片\n        图版伍陆  图6-9彩"
+      },
+      {
+        "text": "陶片",
+        "page": 327,
+        "source": "text",
+        "context": "  图版伍陆  图6-9彩绘三角联珠环纹陶片\n        图版伍柒  图10、1"
+      },
+      {
+        "text": "陶片",
+        "page": 327,
+        "source": "text",
+        "context": " 图版伍柒  图10、11彩绘蓝地联珠纹陶片\n        图版伍柒  图12彩绘"
+      },
+      {
+        "text": "陶片",
+        "page": 327,
+        "source": "text",
+        "context": "   图版伍柒  图12彩绘黑地菱纹花蕊陶片\n        图版伍柒  图13、1"
+      },
+      {
+        "text": "陶片",
+        "page": 327,
+        "source": "text",
+        "context": "版伍柒  图13、14彩绘黑地菱纹加草穗陶片\n        图版伍柒  图15蓝地"
+      },
+      {
+        "text": "陶片",
+        "page": 327,
+        "source": "text",
+        "context": "      图版伍柒  图15蓝地绘鳞纹陶片\n        图版伍柒  图16-2"
+      },
+      {
+        "text": "陶片",
+        "page": 327,
+        "source": "text",
+        "context": "      图版伍柒  图16-20彩绘陶片\n        图版伍柒  图21陶器"
+      },
+      {
+        "text": "陶片",
+        "page": 328,
+        "source": "text",
+        "context": "    图版壹壹柒  图49-52印纹红陶片\n        图版壹壹柒  图53-"
+      },
+      {
+        "text": "陶片",
+        "page": 328,
+        "source": "text",
+        "context": "  图版壹壹柒  图53-56压纹刻纹红陶片\n        图版壹壹捌  图57 "
+      },
+      {
+        "text": "陶片",
+        "page": 328,
+        "source": "text",
+        "context": " 图版壹壹捌  图58-69印纹及刻纹红陶片\n        图版壹壹玖  图70-"
+      },
+      {
+        "text": "陶片",
+        "page": 328,
+        "source": "text",
+        "context": "    图版壹壹玖  图70-86剔纹红陶片\n        图版壹壹玖  图87骨"
+      },
+      {
+        "text": "陶片",
+        "page": 328,
+        "source": "text",
+        "context": "   图版壹贰零  图89-107剔纹红陶片\n        图版壹贰零  图108"
+      },
+      {
+        "text": "陶片",
+        "page": 328,
+        "source": "text",
+        "context": "  图版壹贰零  图108-115彩绘红陶片\n插图壹  焉耆明屋古址及工作情形\n插图"
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T7",
+        "page": 324,
+        "source": "ocr",
+        "context": "A Ma Ly\none        NT7     已]             "
+      }
+    ],
+    "陶器": [
+      {
+        "text": "盆",
+        "page": 325,
+        "source": "text",
+        "context": "古报告集 考古学专刊 丁种第三号 塔里木盆地考古记\n作者=黄文弼著 中国科学院考古"
+      },
+      {
+        "text": "盘",
+        "page": 326,
+        "source": "text",
+        "context": "                (3)奇盘庄佛洞与萌木克之石城\n        ("
+      },
+      {
+        "text": "纺轮",
+        "page": 327,
+        "source": "text",
+        "context": "磨制石器\n            三  纺轮\n        (二)陶器及陶器残片\n"
+      },
+      {
+        "text": "盆",
+        "page": 327,
+        "source": "text",
+        "context": "      六  陶器残片\n附  塔里木盆地出土器物分布表\n第一部分  绘画\n  "
+      },
+      {
+        "text": "盘",
+        "page": 327,
+        "source": "text",
+        "context": "      图版肆玖  图9、10木雕灯盘\n        图版肆玖  图11、1"
+      },
+      {
+        "text": "钵",
+        "page": 327,
+        "source": "text",
+        "context": "    图版肆玖  图11、12木雕圆底钵残件\n        图版肆玖  图13"
+      },
+      {
+        "text": "碗",
+        "page": 327,
+        "source": "text",
+        "context": "       图版伍伍  图22、23木碗\n        图版伍伍  图24、2"
+      },
+      {
+        "text": "环",
+        "page": 327,
+        "source": "text",
+        "context": "    图版伍陆  图6-9彩绘三角联珠环纹陶片\n        图版伍柒  图1"
+      },
+      {
+        "text": "瓶",
+        "page": 328,
+        "source": "text",
+        "context": "       图版玖玖  图11石室刻插瓶及花草图案\n        图版玖玖-壹"
+      },
+      {
+        "text": "环",
+        "page": 328,
+        "source": "text",
+        "context": "      图版壹壹零  图29、30铜环\n    (二)石饰件\n        "
+      },
+      {
+        "text": "刀",
+        "page": 328,
+        "source": "text",
+        "context": "        图版壹壹叁  图5磨制石刀\n        图版壹壹叁  图6陶纺"
+      },
+      {
+        "text": "陶纺轮",
+        "page": 328,
+        "source": "text",
+        "context": "石刀\n        图版壹壹叁  图6陶纺轮\n    (二)陶器及陶器残片\n    "
+      },
+      {
+        "text": "罐",
+        "page": 328,
+        "source": "text",
+        "context": "\n        图版壹壹肆  图7单耳罐\n        图版壹壹肆  图8残陶"
+      },
+      {
+        "text": "陶罐",
+        "page": 328,
+        "source": "text",
+        "context": "罐\n        图版壹壹肆  图8残陶罐\n        图版壹壹肆  图9兽形"
+      },
+      {
+        "text": "瓶",
+        "page": 328,
+        "source": "text",
+        "context": "     图版壹壹柒  图47、48单耳瓶\n        图版壹壹柒  图49-"
+      },
+      {
+        "text": "钵",
+        "page": 328,
+        "source": "text",
+        "context": "      图版壹壹捌  图57  漏底钵\n        图版壹壹捌  图58-"
+      },
+      {
+        "text": "盘",
+        "page": 328,
+        "source": "text",
+        "context": "叶城山中不尔项佛洞之石刻\n    6.奇盘山之山景\n附图壹  焉耆明屋古址图\n附图"
+      }
+    ],
+    "木器": [
+      {
+        "text": "木盆",
+        "page": 325,
+        "source": "text",
+        "context": "考古报告集 考古学专刊 丁种第三号 塔里木盆地考古记\n作者=黄文弼著 中国科学院考古"
+      },
+      {
+        "text": "木盆",
+        "page": 327,
+        "source": "text",
+        "context": "       六  陶器残片\n附  塔里木盆地出土器物分布表\n第一部分  绘画\n  "
+      }
+    ],
+    "石器": [
+      {
+        "text": "石刀",
+        "page": 328,
+        "source": "text",
+        "context": "\n        图版壹壹叁  图5磨制石刀\n        图版壹壹叁  图6陶纺"
+      }
+    ],
+    "玉器": [
+      {
+        "text": "玉斧",
+        "page": 328,
+        "source": "text",
+        "context": "\n        图版壹壹叁  图4磨制玉斧\n        图版壹壹叁  图5磨制"
+      }
+    ]
+  }
+}

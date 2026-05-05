@@ -1,0 +1,147 @@
+{
+  "name": "青海柳湾",
+  "file": "青海柳湾.pdf",
+  "era": "新石器",
+  "culture": "马家窑-齐家",
+  "processed_pages": 15,
+  "total_entities": 19,
+  "entity_stats": {
+    "遗址名称": 7,
+    "遗迹类型": 3,
+    "陶器": 1,
+    "铜器": 3,
+    "测量数据": 1,
+    "遗迹编号": 3,
+    "探方编号": 1
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "柳湾",
+        "page": 2,
+        "source": "ocr",
+        "context": "第二十八号\n\nBe HAS |\n\n一乐都柳湾原始社会墓地一\n\n青海省文物管理处考吉隐"
+      },
+      {
+        "text": "柳湾",
+        "page": 4,
+        "source": "ocr",
+        "context": "极其丰富的古代文化遗存。\n\n青海省乐都县柳湾慕地是一处原始社会晚期墓地，也是目前我国"
+      },
+      {
+        "text": "柳湾",
+        "page": 4,
+        "source": "ocr",
+        "context": "说是近年来我国考古工作中的重要成果。\n\n柳湾位于汪水中游北岸，西距乐都县城十七公里 "
+      },
+      {
+        "text": "柳湾",
+        "page": 4,
+        "source": "ocr",
+        "context": "、半山、马厂诸类型和齐家文化、\n\n图一，柳湾莫地位置图\n"
+      },
+      {
+        "text": "柳湾",
+        "page": 6,
+        "source": "ocr",
+        "context": "、西三个\n幕区。东边的台地编为东区 〈原柳湾坪第一坪台，即墓葬坑位分幅图轴等) ，西"
+      },
+      {
+        "text": "柳湾",
+        "page": 6,
+        "source": "ocr",
+        "context": "从一号至一千五百号〈图二-一六) 。\n\n柳湾的发掘工作，各级党政领导都极为重视。中共"
+      },
+      {
+        "text": "柳湾",
+        "page": 6,
+        "source": "ocr",
+        "context": "工作，闻时，还得到乐都县委、高让\n公社、柳湾大队以及广大干部.社员的大力支持与帮助,"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "墓葬",
+        "page": 4,
+        "source": "ocr",
+        "context": "中最大的\n一处氏族公共幕地。这个幕地不仅墓葬数量多，出土遗物也十分丰富。它的发现与发"
+      },
+      {
+        "text": "墓葬",
+        "page": 6,
+        "source": "ocr",
+        "context": "报告包括1974年至1978年发据的全部墓葬材料，共一千五百座，计半山类型二百\n五十"
+      },
+      {
+        "text": "墓葬",
+        "page": 6,
+        "source": "ocr",
+        "context": "边的台地编为东区 〈原柳湾坪第一坪台，即墓葬坑位分幅图轴等) ，西边的台\n地编为西区"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "环",
+        "page": 4,
+        "source": "ocr",
+        "context": "和黄河。泪水流域土地肥沃，水量充足，自然环境优美，为古代人们劳动、生息的好场\n所。"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "环",
+        "page": 4,
+        "source": "ocr",
+        "context": "和黄河。泪水流域土地肥沃，水量充足，自然环境优美，为古代人们劳动、生息的好场\n所。"
+      },
+      {
+        "text": "饰",
+        "page": 6,
+        "source": "ocr",
+        "context": "化五座。出土各种\n生产工具、生活用具、装饰品等文化遗物共三万余件。        "
+      },
+      {
+        "text": "饰",
+        "page": 10,
+        "source": "ocr",
+        "context": "seseseeeeeee\n(=)   纹饰与符号 OOo COO OOS ORS "
+      }
+    ],
+    "测量数据": [
+      {
+        "text": "\n\n25m",
+        "page": 7,
+        "source": "ocr",
+        "context": "s\nBe,   本\nate  asd\nA\n\n25m\n\nBAL CE)\n\nFAV 2. PE"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "S00",
+        "page": 10,
+        "source": "ocr",
+        "context": "6 088 008 0S 00 C00 S00 808 FEE8\n\n®\n—     Z"
+      },
+      {
+        "text": "F133",
+        "page": 13,
+        "source": "ocr",
+        "context": "2605% TE\nD, J 26 BY F133. 5 2E iy By coe cee"
+      },
+      {
+        "text": "F326",
+        "page": 14,
+        "source": "ocr",
+        "context": " see ee\nD, J 2E FEY F326 HE TB FR] coe ccc c"
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T4",
+        "page": 14,
+        "source": "ocr",
+        "context": "one 71)\n…( 72 )\nee(7T4)\n(75 )\n\n(76 )\n“(77 "
+      }
+    ]
+  }
+}

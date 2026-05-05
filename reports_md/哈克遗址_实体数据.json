@@ -1,0 +1,1566 @@
+{
+  "name": "哈克遗址",
+  "file": "哈克遗址.pdf",
+  "era": "新石器-青铜",
+  "culture": "呼伦贝尔",
+  "processed_pages": 15,
+  "total_entities": 252,
+  "entity_stats": {
+    "遗址名称": 62,
+    "年代": 19,
+    "遗迹类型": 18,
+    "陶器": 10,
+    "铜器": 14,
+    "遗存类型": 10,
+    "层位关系": 6,
+    "探方编号": 79,
+    "遗迹编号": 7,
+    "石器": 6,
+    "玉器": 2,
+    "测量数据": 10,
+    "地层": 8,
+    "骨器": 1
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "呼伦贝尔",
+        "page": 2,
+        "source": "ocr",
+        "context": "内蒙古自治区文物考古研究所\n内蒙古自治区呼伦贝尔民族博物亿\n内蒙古自治区呼伦贝尔市海拉尔"
+      },
+      {
+        "text": "呼伦贝尔",
+        "page": 2,
+        "source": "ocr",
+        "context": "古自治区呼伦贝尔民族博物亿\n内蒙古自治区呼伦贝尔市海拉尔博物馆\n\n编著\n\nKR hh t"
+      },
+      {
+        "text": "哈克",
+        "page": 3,
+        "source": "ocr",
+        "context": "奇\n\n图书在版编及【CIP)} 数据\n\n哈克遗址: 2003~2008 年考古发所报"
+      },
+      {
+        "text": "呼伦贝尔",
+        "page": 3,
+        "source": "ocr",
+        "context": "人新石器时代文化一文化\n遗址一发所报告一呼伦贝尔市 WV. DK878. 05\n电国版本"
+      },
+      {
+        "text": "呼伦贝尔",
+        "page": 3,
+        "source": "ocr",
+        "context": "治区文物考古研究所  es\n内蒙古自治区呼伦贝尔民族博物馆\n内蒙古自治区呼伦贝尔市海拉尔"
+      },
+      {
+        "text": "呼伦贝尔",
+        "page": 3,
+        "source": "ocr",
+        "context": "古自治区呼伦贝尔民族博物馆\n内蒙古自治区呼伦贝尔市海拉尔博物馆\n文物出版补出版发行\n《北"
+      },
+      {
+        "text": "呼伦贝尔",
+        "page": 5,
+        "source": "ocr",
+        "context": "内容简介\n\n本书是内蒙古呼伦贝尔哈克遗址的发掘和研究报告。报告集 200"
+      },
+      {
+        "text": "哈克",
+        "page": 5,
+        "source": "ocr",
+        "context": "内容简介\n\n本书是内蒙古呼伦贝尔哈克遗址的发掘和研究报告。报告集 2003一"
+      },
+      {
+        "text": "哈克",
+        "page": 5,
+        "source": "ocr",
+        "context": "资料\n及多学科研究成果，全面系统地阑述了哈克遗址的地质地理背景，发据清理的房址、灰\n"
+      },
+      {
+        "text": "哈克",
+        "page": 5,
+        "source": "ocr",
+        "context": "汉代前后、隋\n唐时期及其之后的文化遗存。哈克遗址是呼伦贝尔草原地区难得的一处新石器时"
+      },
+      {
+        "text": "呼伦贝尔",
+        "page": 5,
+        "source": "ocr",
+        "context": "隋\n唐时期及其之后的文化遗存。哈克遗址是呼伦贝尔草原地区难得的一处新石器时代先民\n及古代"
+      },
+      {
+        "text": "呼伦贝尔",
+        "page": 5,
+        "source": "ocr",
+        "context": "早期文化和古代游牧民族的形\n成发展，以及呼伦贝尔地区与周边地区的文化关系具有重要的学术价"
+      },
+      {
+        "text": "呼伦贝尔",
+        "page": 6,
+        "source": "ocr",
+        "context": "序\n\nLilt\n|\n\n内蒙古呼伦贝尔哈克遗址的正式发据和研究，揭示出北方草原"
+      },
+      {
+        "text": "哈克",
+        "page": 6,
+        "source": "ocr",
+        "context": "序\n\nLilt\n|\n\n内蒙古呼伦贝尔哈克遗址的正式发据和研究，揭示出北方草原地区"
+      },
+      {
+        "text": "呼伦贝尔",
+        "page": 6,
+        "source": "ocr",
+        "context": "究所、内蒙古自治区文物考古研究所、内蒙古呼伦贝尔民\n族博物馆和海拉尔博物馆等单位合作，在"
+      },
+      {
+        "text": "哈克",
+        "page": 6,
+        "source": "ocr",
+        "context": "物馆等单位合作，在刘景芝领队的带领下，对哈克遗址进行了考古发掘。发气工\n作对地层进行"
+      },
+      {
+        "text": "哈克",
+        "page": 6,
+        "source": "ocr",
+        "context": "物的分析和研究，并配合年代测定\n等，确定哈克遗址从新石器时代开始就是一处相对稳定并具"
+      },
+      {
+        "text": "哈克",
+        "page": 6,
+        "source": "ocr",
+        "context": "区人类赖\n以生存的独特自然生态环境。\n\n哈克考古报告的出版凝聚了方方面面工作人员的辛"
+      },
+      {
+        "text": "呼伦贝尔",
+        "page": 6,
+        "source": "ocr",
+        "context": "、发气和研究工作。2003 年她开始在\n呼伦贝尔地区作细石器的调查、发掘与研究，调查和发"
+      },
+      {
+        "text": "哈克",
+        "page": 6,
+        "source": "ocr",
+        "context": "作细石器的调查、发掘与研究，调查和发据了哈克与辉河水坝细石器遗址。在经费十分\n紧缺的"
+      },
+      {
+        "text": "呼伦贝尔",
+        "page": 6,
+        "source": "ocr",
+        "context": "遗址。在经费十分\n紧缺的情况下，还调查了呼伦贝尔新巴尔虎左旗的呼和诺尔细石器遗址，并在新"
+      },
+      {
+        "text": "呼伦贝尔",
+        "page": 6,
+        "source": "ocr",
+        "context": "努力，这些工作不可能较好地得以完成。\n\n呼伦贝尔早在 20 世纪 20 年代就发现了著名"
+      },
+      {
+        "text": "哈克",
+        "page": 7,
+        "source": "ocr",
+        "context": "                    哈克遗址 (2003一2008 年发据报告)"
+      },
+      {
+        "text": "呼伦贝尔",
+        "page": 7,
+        "source": "ocr",
+        "context": "003一2008 年发据报告)\n\n下，在呼伦贝尔已发现新石器时代细石器遗址 240 多处"
+      },
+      {
+        "text": "呼伦贝尔",
+        "page": 7,
+        "source": "ocr",
+        "context": "发掘与研究应该全面规划并加\n以实施。\n\n呼伦贝尔草原的早期文化对于这一地区民族文化的兴起"
+      },
+      {
+        "text": "呼伦贝尔",
+        "page": 7,
+        "source": "ocr",
+        "context": "华文化的影响和作用是丝毫不能低估的。加之呼伦贝尔特殊的地理位置，使得这一地区与蒙古\n国和"
+      },
+      {
+        "text": "哈克",
+        "page": 7,
+        "source": "ocr",
+        "context": "研\n究工作应该加强并给予应有的重视。\n\n哈克遗址是 1985 年调查发现的，到 19"
+      },
+      {
+        "text": "哈克",
+        "page": 7,
+        "source": "ocr",
+        "context": "人员和工作单位，致以考古老兵的敬意。\n\n哈克遗址的发据和研究，提高了有关草原文明时期"
+      },
+      {
+        "text": "哈克",
+        "page": 7,
+        "source": "ocr",
+        "context": "代文\n明不可或缺的重要内容。值得庆幸的是哈克遗址博物馆已经在哈克遗址落成，并同时在此"
+      },
+      {
+        "text": "哈克",
+        "page": 7,
+        "source": "ocr",
+        "context": "要内容。值得庆幸的是哈克遗址博物馆已经在哈克遗址落成，并同时在此设立了细石\n器和玉器"
+      },
+      {
+        "text": "呼伦贝尔",
+        "page": 7,
+        "source": "ocr",
+        "context": "同时在此设立了细石\n器和玉器研究基地。愿呼伦贝尔细石器传统文化的研究再结硕果。\n\name"
+      },
+      {
+        "text": "呼伦贝尔",
+        "page": 8,
+        "source": "ocr",
+        "context": "典籍你会发现，我国古代的游牧民族几乎都在呼伦贝尔这片广变的土地上留下过历史的\n印记，鲜卑"
+      },
+      {
+        "text": "呼伦贝尔",
+        "page": 8,
+        "source": "ocr",
+        "context": "，创造出辉煌灿烂的民族文化。历史如此垂青呼伦贝尔，呼\n伦贝尔更应铭记历史、激活历史。\n\n"
+      },
+      {
+        "text": "呼伦贝尔",
+        "page": 8,
+        "source": "ocr",
+        "context": "史、激活历史。\n\n啥克遗址的发现将人类在呼伦贝尔活动的时间猛然推进到石器时代，成为呼伦贝"
+      },
+      {
+        "text": "呼伦贝尔",
+        "page": 8,
+        "source": "ocr",
+        "context": "伦贝尔活动的时间猛然推进到石器时代，成为呼伦贝尔人灵魂的根系。\n哈克遗址是 1985 年"
+      },
+      {
+        "text": "哈克",
+        "page": 8,
+        "source": "ocr",
+        "context": "到石器时代，成为呼伦贝尔人灵魂的根系。\n哈克遗址是 1985 年在第二次全国文物普查"
+      },
+      {
+        "text": "哈克",
+        "page": 8,
+        "source": "ocr",
+        "context": "第二次全国文物普查中被发现的，从那时起，哈克这个小小的村镇就成了呼伦贝\n尔人和考古工"
+      },
+      {
+        "text": "呼伦贝尔",
+        "page": 8,
+        "source": "ocr",
+        "context": "尔人和考古工作者关注的地方。这些年来，经呼伦贝尔民族博物馆、海拉尔文物管理所以及中国社会"
+      },
+      {
+        "text": "哈克",
+        "page": 8,
+        "source": "ocr",
+        "context": "所石器考\n古专家刘景芝的多次指导发所，使哈克遗址研究取得了重大成果。调查报告在 20"
+      },
+      {
+        "text": "哈克",
+        "page": 8,
+        "source": "ocr",
+        "context": "\n\n经济的大发展必然需要有文化的助推.《哈克遗址一一2003一2008 年考古发掘报"
+      },
+      {
+        "text": "呼伦贝尔",
+        "page": 8,
+        "source": "ocr",
+        "context": "008 年考古发掘报告》的正式出版，\n是呼伦贝尔文化建设的又一重大成果，对于弘扬海拉尔悠"
+      },
+      {
+        "text": "哈克",
+        "page": 8,
+        "source": "ocr",
+        "context": "古研究所，感谢刘景芝老师，感谢所有致力于哈克遗址研究的专家、\n学者，为我们找到了史前"
+      },
+      {
+        "text": "哈克",
+        "page": 8,
+        "source": "ocr",
+        "context": "遗址研究的专家、\n学者，为我们找到了史前哈克人的居住遗址，解开了史前的千古之认，为呼"
+      },
+      {
+        "text": "呼伦贝尔",
+        "page": 8,
+        "source": "ocr",
+        "context": "克人的居住遗址，解开了史前的千古之认，为呼伦贝尔人追寻到距今 7700\n年前的根和魂。\n"
+      },
+      {
+        "text": "呼伦贝尔",
+        "page": 8,
+        "source": "ocr",
+        "context": "。\n\n在本书出版发行之际，我们谭代表中共呼伦贝尔市海拉尔区委员会、呼伦贝尔市海拉尔区人民"
+      },
+      {
+        "text": "呼伦贝尔",
+        "page": 8,
+        "source": "ocr",
+        "context": "我们谭代表中共呼伦贝尔市海拉尔区委员会、呼伦贝尔市海拉尔区人民政\n府，向为研究险克文化给"
+      },
+      {
+        "text": "呼伦贝尔",
+        "page": 8,
+        "source": "ocr",
+        "context": ". WERK Kid: FA HR\n中共呼伦贝尔市市长助理、海拉尔区委副书记、区长， F"
+      },
+      {
+        "text": "呼伦贝尔",
+        "page": 9,
+        "source": "ocr",
+        "context": "第一章 “呼伦贝尔的自然环境和历\n第一节 自然环境 …\n第"
+      },
+      {
+        "text": "哈克",
+        "page": 9,
+        "source": "ocr",
+        "context": "              an\n二 ”哈克遗址第二地,              "
+      },
+      {
+        "text": "哈克",
+        "page": 9,
+        "source": "ocr",
+        "context": "             (12)\n三“哈克遗址第三                "
+      },
+      {
+        "text": "哈克",
+        "page": 10,
+        "source": "ocr",
+        "context": "哈克遗址一一2003一2008 年考古发据报"
+      },
+      {
+        "text": "哈克",
+        "page": 12,
+        "source": "ocr",
+        "context": "…\n文化分期\n\n(一) BA\n\n(二) 哈克新石器时代文化遗存发现的意义\n\n(三) "
+      },
+      {
+        "text": "呼伦贝尔",
+        "page": 12,
+        "source": "ocr",
+        "context": "伊敏河一海拉尔河流域考古学文化分期\n\n二呼伦贝尔细石器传统文化研究的目的与意义 …\n附录"
+      },
+      {
+        "text": "哈克",
+        "page": 12,
+        "source": "ocr",
+        "context": "传统文化研究的目的与意义 …\n附录 1 哈克遗址大事记\n附录 2 ”再论哈克文化一一"
+      },
+      {
+        "text": "哈克",
+        "page": 12,
+        "source": "ocr",
+        "context": "录 1 哈克遗址大事记\n附录 2 ”再论哈克文化一一哈克遗址与周边各遗址出土石链形制"
+      },
+      {
+        "text": "哈克",
+        "page": 12,
+        "source": "ocr",
+        "context": "遗址大事记\n附录 2 ”再论哈克文化一一哈克遗址与周边各遗址出土石链形制的比较研究\n"
+      },
+      {
+        "text": "哈克",
+        "page": 12,
+        "source": "ocr",
+        "context": "遗址出土石链形制的比较研究\n附录 3 ”哈克遗址出土玉饰检测报告\n附录 4 哈克遗址"
+      },
+      {
+        "text": "哈克",
+        "page": 12,
+        "source": "ocr",
+        "context": " ”哈克遗址出土玉饰检测报告\n附录 4 哈克遗址出土和征集金属器的鉴定报告\nAbst"
+      },
+      {
+        "text": "呼伦贝尔",
+        "page": 13,
+        "source": "ocr",
+        "context": "\nUP AE TART TRUS EA\n呼伦贝尔海拉尔河等流域细石器遗址分布示意图\n哈克"
+      },
+      {
+        "text": "哈克",
+        "page": 13,
+        "source": "ocr",
+        "context": "贝尔海拉尔河等流域细石器遗址分布示意图\n哈克遗址位置示意网\n哈克遗址地形和分布示意图"
+      },
+      {
+        "text": "哈克",
+        "page": 13,
+        "source": "ocr",
+        "context": "石器遗址分布示意图\n哈克遗址位置示意网\n哈克遗址地形和分布示意图\n哈克遗址第一地点 "
+      },
+      {
+        "text": "哈克",
+        "page": 13,
+        "source": "ocr",
+        "context": "址位置示意网\n哈克遗址地形和分布示意图\n哈克遗址第一地点 2003一2008 年发据"
+      }
+    ],
+    "年代": [
+      {
+        "text": "新石器时代",
+        "page": 3,
+        "source": "ocr",
+        "context": "048-4\n\n工. OB TO Ul 人新石器时代文化一文化\n遗址一发所报告一呼伦贝尔市 "
+      },
+      {
+        "text": "元",
+        "page": 3,
+        "source": "ocr",
+        "context": "010-3048-4 定价，198.00元\n"
+      },
+      {
+        "text": "清",
+        "page": 5,
+        "source": "ocr",
+        "context": "系统地阑述了哈克遗址的地质地理背景，发据清理的房址、灰\n坑、昨堆、莫菲和祭礼遗迹，"
+      },
+      {
+        "text": "隋",
+        "page": 5,
+        "source": "ocr",
+        "context": "0一7000 年。遗址还包含有汉代前后、隋\n唐时期及其之后的文化遗存。哈克遗址是呼"
+      },
+      {
+        "text": "唐",
+        "page": 5,
+        "source": "ocr",
+        "context": "7000 年。遗址还包含有汉代前后、隋\n唐时期及其之后的文化遗存。哈克遗址是呼伦贝"
+      },
+      {
+        "text": "新石器时代",
+        "page": 5,
+        "source": "ocr",
+        "context": "存。哈克遗址是呼伦贝尔草原地区难得的一处新石器时代先民\n及古代游牧民族的聚落遗址。该遗址对"
+      },
+      {
+        "text": "清",
+        "page": 6,
+        "source": "ocr",
+        "context": "采用严谨的科学发掘方法，首次在遗址中发据清理出房址、幕莫、灰坑\n是堆和球礼遗迹等，"
+      },
+      {
+        "text": "新石器时代",
+        "page": 6,
+        "source": "ocr",
+        "context": "研究，并配合年代测定\n等，确定哈克遗址从新石器时代开始就是一处相对稳定并具有一定规模的聚落"
+      },
+      {
+        "text": "元",
+        "page": 6,
+        "source": "ocr",
+        "context": "后;， 第三阶段遗存的年代应大约相当于公元 8一10 世纪前后。第四，通\n过对曹磊"
+      },
+      {
+        "text": "旧石器时代",
+        "page": 6,
+        "source": "ocr",
+        "context": "现了著名的扎责诺尔人头骨，它的时代应该在旧石器时代之未\n和新石器时代之初。1962 年以来"
+      },
+      {
+        "text": "新石器时代",
+        "page": 6,
+        "source": "ocr",
+        "context": "人头骨，它的时代应该在旧石器时代之未\n和新石器时代之初。1962 年以来，在海拉尔松山不仅"
+      },
+      {
+        "text": "旧石器时代",
+        "page": 6,
+        "source": "ocr",
+        "context": "还在扎珊诺\n尔矿区更菇山一带首次发现属于旧石器时代晚期的遗址。与此同时，在地方文物考古工作"
+      },
+      {
+        "text": "新石器时代",
+        "page": 7,
+        "source": "ocr",
+        "context": "8 年发据报告)\n\n下，在呼伦贝尔已发现新石器时代细石器遗址 240 多处。特殊的地理环境"
+      },
+      {
+        "text": "春秋",
+        "page": 7,
+        "source": "ocr",
+        "context": "能见天日。从发现到正式发掘已过了二十多个春秋，令人欣慰的是哈\n克遗址的报告即将付梓，"
+      },
+      {
+        "text": "明",
+        "page": 7,
+        "source": "ocr",
+        "context": "\n哈克遗址的发据和研究，提高了有关草原文明时期考古学研究的学术水平，成为弘扬中华古"
+      },
+      {
+        "text": "明",
+        "page": 7,
+        "source": "ocr",
+        "context": "古学研究的学术水平，成为弘扬中华古代文\n明不可或缺的重要内容。值得庆幸的是哈克遗址"
+      },
+      {
+        "text": "金",
+        "page": 8,
+        "source": "ocr",
+        "context": "土地上留下过历史的\n印记，鲜卑、蒙古和后金更是以此为基地，创造出辉煌灿烂的民族文化"
+      },
+      {
+        "text": "新石器时代",
+        "page": 12,
+        "source": "ocr",
+        "context": "文化分期\n\n(一) BA\n\n(二) 哈克新石器时代文化遗存发现的意义\n\n(三) 伊敏河一海"
+      },
+      {
+        "text": "金",
+        "page": 12,
+        "source": "ocr",
+        "context": "饰检测报告\n附录 4 哈克遗址出土和征集金属器的鉴定报告\nAbstract\n\n"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "房址",
+        "page": 5,
+        "source": "ocr",
+        "context": "阑述了哈克遗址的地质地理背景，发据清理的房址、灰\n坑、昨堆、莫菲和祭礼遗迹，以及细石"
+      },
+      {
+        "text": "房址",
+        "page": 6,
+        "source": "ocr",
+        "context": "谨的科学发掘方法，首次在遗址中发据清理出房址、幕莫、灰坑\n是堆和球礼遗迹等，为了解这"
+      },
+      {
+        "text": "灰坑",
+        "page": 6,
+        "source": "ocr",
+        "context": "方法，首次在遗址中发据清理出房址、幕莫、灰坑\n是堆和球礼遗迹等，为了解这处细石器遗址"
+      },
+      {
+        "text": "房址",
+        "page": 9,
+        "source": "ocr",
+        "context": " 04T9 地层堆积\nieee eee\n房址\n\nII 1L\n\nHOE\n\n|\n\n>} "
+      },
+      {
+        "text": "房址",
+        "page": 13,
+        "source": "ocr",
+        "context": "08T5-T6 扩方后及所出遗迹平面图\n房址 04.08T5-T6F1 平面、断面图"
+      },
+      {
+        "text": "房址",
+        "page": 13,
+        "source": "ocr",
+        "context": "04.08T5-T6F1 平面、断面图\n房址 04 .08T5-T6F1 出土部分遗"
+      },
+      {
+        "text": "灰坑",
+        "page": 13,
+        "source": "ocr",
+        "context": "4 .08T1-T2 及所出遗迹平面图\n灰坑 03T1-T2HI 平面、\n灰坑 03"
+      },
+      {
+        "text": "灰坑",
+        "page": 13,
+        "source": "ocr",
+        "context": "面图\n灰坑 03T1-T2HI 平面、\n灰坑 03T1-T2H2 平面、\n灰坑 04"
+      },
+      {
+        "text": "灰坑",
+        "page": 13,
+        "source": "ocr",
+        "context": "面、\n灰坑 03T1-T2H2 平面、\n灰坑 04T1-T2H3 平面、痢视图\n灰坑"
+      },
+      {
+        "text": "灰坑",
+        "page": 13,
+        "source": "ocr",
+        "context": "灰坑 04T1-T2H3 平面、痢视图\n灰坑 04T1-T2H4 平面、剖视图 …\n"
+      },
+      {
+        "text": "灰坑",
+        "page": 13,
+        "source": "ocr",
+        "context": " …\n探方 04T3 及所出遗迹平面几\n灰坑 04T5H6 平面、剖视图\n灰坑 04"
+      },
+      {
+        "text": "灰坑",
+        "page": 13,
+        "source": "ocr",
+        "context": "面几\n灰坑 04T5H6 平面、剖视图\n灰坑 04T6H7 平面、剖视图…\n灰坑 0"
+      },
+      {
+        "text": "灰坑",
+        "page": 13,
+        "source": "ocr",
+        "context": "图\n灰坑 04T6H7 平面、剖视图…\n灰坑 08T5-T6H8 平面、章视图 …\n"
+      },
+      {
+        "text": "灰坑",
+        "page": 13,
+        "source": "ocr",
+        "context": " 08T5-T6H8 平面、章视图 …\n灰坑 08T5-T6H9 平面、剖视图 …\n"
+      },
+      {
+        "text": "灰坑",
+        "page": 13,
+        "source": "ocr",
+        "context": " 08T5-T6H9 平面、剖视图 …\n灰坑 08T5-T6H10 平面、剖视图\nI"
+      },
+      {
+        "text": "灰坑",
+        "page": 13,
+        "source": "ocr",
+        "context": "S 08T5-T6H11 平面、剖视图\n灰坑 08T5-T6H12 平面、剖视图\n灰"
+      },
+      {
+        "text": "灰坑",
+        "page": 13,
+        "source": "ocr",
+        "context": "坑 08T5-T6H12 平面、剖视图\n灰坑 08T5-T6H13 平面、衣视图\n灰"
+      },
+      {
+        "text": "灰坑",
+        "page": 13,
+        "source": "ocr",
+        "context": "坑 08T5-T6H13 平面、衣视图\n灰坑 08T5-T6H14 平面、剖视周\n\n"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "环",
+        "page": 5,
+        "source": "ocr",
+        "context": "事考古学、历史学、人类学、动\n物考古学、环境地质学等学科的研究和教学人员，以及从事"
+      },
+      {
+        "text": "球",
+        "page": 6,
+        "source": "ocr",
+        "context": "遗址中发据清理出房址、幕莫、灰坑\n是堆和球礼遗迹等，为了解这处细石器遗址的文化内涵"
+      },
+      {
+        "text": "环",
+        "page": 6,
+        "source": "ocr",
+        "context": "示了这一地区人类赖\n以生存的独特自然生态环境。\n\n哈克考古报告的出版凝聚了方方面面"
+      },
+      {
+        "text": "钵",
+        "page": 6,
+        "source": "ocr",
+        "context": "遗址，并在新巴尔虎左旗发现了一\n处新的铜钵庙细石器遗址。没有她的坚持和努力，这些工"
+      },
+      {
+        "text": "环",
+        "page": 7,
+        "source": "ocr",
+        "context": "时代细石器遗址 240 多处。特殊的地理环境使得这里的细石器传统文化\n延续的时间很"
+      },
+      {
+        "text": "环",
+        "page": 9,
+        "source": "ocr",
+        "context": "第一章 “呼伦贝尔的自然环境和历\n第一节 自然环境 …\n第二节 ”"
+      },
+      {
+        "text": "环",
+        "page": 9,
+        "source": "ocr",
+        "context": " “呼伦贝尔的自然环境和历\n第一节 自然环境 …\n第二节 ”历史沿革 …\n\n第二章"
+      },
+      {
+        "text": "环",
+        "page": 11,
+        "source": "ocr",
+        "context": "H\n\n一“样品的采集\n\n孢粉分析所揭示的环境信息 oo\n\n(一) 第7 层的古植被"
+      },
+      {
+        "text": "刀",
+        "page": 15,
+        "source": "ocr",
+        "context": "       … (91)\n第7层出土奸刀 (04T3@:898)        "
+      },
+      {
+        "text": "刀",
+        "page": 15,
+        "source": "ocr",
+        "context": "   … (112)\n第 6 层出土青铜刀 (04T5-T6XG:658)    "
+      }
+    ],
+    "铜器": [
+      {
+        "text": "环",
+        "page": 5,
+        "source": "ocr",
+        "context": "事考古学、历史学、人类学、动\n物考古学、环境地质学等学科的研究和教学人员，以及从事"
+      },
+      {
+        "text": "环",
+        "page": 6,
+        "source": "ocr",
+        "context": "示了这一地区人类赖\n以生存的独特自然生态环境。\n\n哈克考古报告的出版凝聚了方方面面"
+      },
+      {
+        "text": "铜钵",
+        "page": 6,
+        "source": "ocr",
+        "context": "器遗址，并在新巴尔虎左旗发现了一\n处新的铜钵庙细石器遗址。没有她的坚持和努力，这些工"
+      },
+      {
+        "text": "环",
+        "page": 7,
+        "source": "ocr",
+        "context": "时代细石器遗址 240 多处。特殊的地理环境使得这里的细石器传统文化\n延续的时间很"
+      },
+      {
+        "text": "环",
+        "page": 9,
+        "source": "ocr",
+        "context": "第一章 “呼伦贝尔的自然环境和历\n第一节 自然环境 …\n第二节 ”"
+      },
+      {
+        "text": "环",
+        "page": 9,
+        "source": "ocr",
+        "context": " “呼伦贝尔的自然环境和历\n第一节 自然环境 …\n第二节 ”历史沿革 …\n\n第二章"
+      },
+      {
+        "text": "环",
+        "page": 11,
+        "source": "ocr",
+        "context": "H\n\n一“样品的采集\n\n孢粉分析所揭示的环境信息 oo\n\n(一) 第7 层的古植被"
+      },
+      {
+        "text": "饰",
+        "page": 12,
+        "source": "ocr",
+        "context": "制的比较研究\n附录 3 ”哈克遗址出土玉饰检测报告\n附录 4 哈克遗址出土和征集金"
+      },
+      {
+        "text": "刀",
+        "page": 15,
+        "source": "ocr",
+        "context": "       … (91)\n第7层出土奸刀 (04T3@:898)        "
+      },
+      {
+        "text": "饰",
+        "page": 15,
+        "source": "ocr",
+        "context": "IE 04.07T5-T6XM3 出土玉饰 (07T5-T6XM3:33)\n第 ?"
+      },
+      {
+        "text": "饰",
+        "page": 15,
+        "source": "ocr",
+        "context": "6XM3:33)\n第 ?7 层出土穿孔装饰品\n第7 层出土石穿孔装饰品 (04T5"
+      },
+      {
+        "text": "饰",
+        "page": 15,
+        "source": "ocr",
+        "context": " 层出土穿孔装饰品\n第7 层出土石穿孔装饰品 (04T5-T6〇:101)\n\n++"
+      },
+      {
+        "text": "饰",
+        "page": 15,
+        "source": "ocr",
+        "context": "      (110)\n第 6 层出土牙饰、骨已                 "
+      },
+      {
+        "text": "铜刀",
+        "page": 15,
+        "source": "ocr",
+        "context": "    … (112)\n第 6 层出土青铜刀 (04T5-T6XG:658)    "
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "人骨",
+        "page": 5,
+        "source": "ocr",
+        "context": "器、玉器和青铜器等文化遗物，\n同时进行了人骨遗瞬、动物遗人通研究，抱粉分析和年代测定"
+      },
+      {
+        "text": "陶片",
+        "page": 5,
+        "source": "ocr",
+        "context": "究，抱粉分析和年代测定等。经过从遗址出土陶片中\n提取炭进行测年，得知遗址最早年代为距"
+      },
+      {
+        "text": "陶片",
+        "page": 6,
+        "source": "ocr",
+        "context": "一步划分为三个时期， 对出土的以细石器、陶片、\n骨角器和动物骨噩为主的大量文化遗物，"
+      },
+      {
+        "text": "陶片",
+        "page": 6,
+        "source": "ocr",
+        "context": "复原。第三，通过对遗址中不同文化层出\n土陶片的分类和研究，结合测年结果将遗址分为三个"
+      },
+      {
+        "text": "人骨",
+        "page": 6,
+        "source": "ocr",
+        "context": "0 世纪前后。第四，通\n过对曹磊以及出土人骨的研究，不仅了解了这一地区早期人类的埋莫"
+      },
+      {
+        "text": "陶片",
+        "page": 15,
+        "source": "ocr",
+        "context": "       7\n\n第7层出土 Aa 类陶片…                   "
+      },
+      {
+        "text": "陶片",
+        "page": 15,
+        "source": "ocr",
+        "context": "  + (75)\n第7 层出土 Aa 类陶片                    "
+      },
+      {
+        "text": "陶片",
+        "page": 15,
+        "source": "ocr",
+        "context": "    (78)\n第7 层出土 Ab 类陶片…                   "
+      },
+      {
+        "text": "陶片",
+        "page": 15,
+        "source": "ocr",
+        "context": "      … (83)\n第7层出土B类陶片…                   "
+      },
+      {
+        "text": "陶片",
+        "page": 15,
+        "source": "ocr",
+        "context": "    ++ (109)\n第 6 层出土陶片                    "
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "堆积",
+        "page": 6,
+        "source": "ocr",
+        "context": "究，完成了考古报告专刊。首先，通过对文化堆积、文化遗迹和遗物的分析和研究，并配合年代"
+      },
+      {
+        "text": "堆积",
+        "page": 9,
+        "source": "ocr",
+        "context": ")\n\n第三节 发掘概述、\n第三章 ”地层堆积与遗迹\n探方 03 .04.08T1-T"
+      },
+      {
+        "text": "堆积",
+        "page": 9,
+        "source": "ocr",
+        "context": "探方 03 .04.08T1-T2 地层堆积 -\n探方 04T3 地层堆积\n探方 0"
+      },
+      {
+        "text": "堆积",
+        "page": 9,
+        "source": "ocr",
+        "context": "T2 地层堆积 -\n探方 04T3 地层堆积\n探方 04T4 地层堆积 ……\n探方 "
+      },
+      {
+        "text": "堆积",
+        "page": 9,
+        "source": "ocr",
+        "context": "04T3 地层堆积\n探方 04T4 地层堆积 ……\n探方 04 .07.08T5-T"
+      },
+      {
+        "text": "堆积",
+        "page": 9,
+        "source": "ocr",
+        "context": "8T5-T6 地层\n探方 04T9 地层堆积\nieee eee\n房址\n\nII 1L\n"
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T1",
+        "page": 9,
+        "source": "ocr",
+        "context": "地层堆积与遗迹\n探方 03 .04.08T1-T2 地层堆积 -\n探方 04T3 地"
+      },
+      {
+        "text": "T2",
+        "page": 9,
+        "source": "ocr",
+        "context": "积与遗迹\n探方 03 .04.08T1-T2 地层堆积 -\n探方 04T3 地层堆积"
+      },
+      {
+        "text": "T3",
+        "page": 9,
+        "source": "ocr",
+        "context": "08T1-T2 地层堆积 -\n探方 04T3 地层堆积\n探方 04T4 地层堆积 …"
+      },
+      {
+        "text": "T4",
+        "page": 9,
+        "source": "ocr",
+        "context": "-\n探方 04T3 地层堆积\n探方 04T4 地层堆积 ……\n探方 04 .07.0"
+      },
+      {
+        "text": "T5",
+        "page": 9,
+        "source": "ocr",
+        "context": "地层堆积 ……\n探方 04 .07.08T5-T6 地层\n探方 04T9 地层堆积\n"
+      },
+      {
+        "text": "T6",
+        "page": 9,
+        "source": "ocr",
+        "context": "积 ……\n探方 04 .07.08T5-T6 地层\n探方 04T9 地层堆积\niee"
+      },
+      {
+        "text": "T9",
+        "page": 9,
+        "source": "ocr",
+        "context": ".07.08T5-T6 地层\n探方 04T9 地层堆积\nieee eee\n房址\n\nI"
+      },
+      {
+        "text": "T2",
+        "page": 13,
+        "source": "ocr",
+        "context": "08 年发据范围平面图\n探方 04TI-T2 (9米X2.5米) HAT\n探方04T"
+      },
+      {
+        "text": "T3",
+        "page": 13,
+        "source": "ocr",
+        "context": "2 (9米X2.5米) HAT\n探方04T3 (4 米X4米) 地层剖面图…\n探方 "
+      },
+      {
+        "text": "T4",
+        "page": 13,
+        "source": "ocr",
+        "context": "4 米X4米) 地层剖面图…\n探方 04T4 (4 米X4米) 地层剖面图\n探方 0"
+      },
+      {
+        "text": "T5",
+        "page": 13,
+        "source": "ocr",
+        "context": "(4 米X4米) 地层剖面图\n探方 08T5-T6 扩方后 (11 米X11 米) "
+      },
+      {
+        "text": "T6",
+        "page": 13,
+        "source": "ocr",
+        "context": "米X4米) 地层剖面图\n探方 08T5-T6 扩方后 (11 米X11 米) HO "
+      },
+      {
+        "text": "T9",
+        "page": 13,
+        "source": "ocr",
+        "context": "1 米X11 米) HO PA\n探方04T9 (4 米X4 米) 地层剖面图……\nP"
+      },
+      {
+        "text": "T5",
+        "page": 13,
+        "source": "ocr",
+        "context": " 地层剖面图……\nPRAT 04 .08T5-T6 扩方后及所出遗迹平面图\n房址 0"
+      },
+      {
+        "text": "T6",
+        "page": 13,
+        "source": "ocr",
+        "context": "剖面图……\nPRAT 04 .08T5-T6 扩方后及所出遗迹平面图\n房址 04.0"
+      },
+      {
+        "text": "T5",
+        "page": 13,
+        "source": "ocr",
+        "context": "扩方后及所出遗迹平面图\n房址 04.08T5-T6F1 平面、断面图\n房址 04 ."
+      },
+      {
+        "text": "T6F",
+        "page": 13,
+        "source": "ocr",
+        "context": "及所出遗迹平面图\n房址 04.08T5-T6F1 平面、断面图\n房址 04 .08T5"
+      },
+      {
+        "text": "T5",
+        "page": 13,
+        "source": "ocr",
+        "context": "6F1 平面、断面图\n房址 04 .08T5-T6F1 出土部分遗物分布周\n探方 0"
+      },
+      {
+        "text": "T6F",
+        "page": 13,
+        "source": "ocr",
+        "context": " 平面、断面图\n房址 04 .08T5-T6F1 出土部分遗物分布周\n探方 03.04"
+      },
+      {
+        "text": "T1",
+        "page": 13,
+        "source": "ocr",
+        "context": "部分遗物分布周\n探方 03.04 .08T1-T2 及所出遗迹平面图\n灰坑 03T1"
+      },
+      {
+        "text": "T2",
+        "page": 13,
+        "source": "ocr",
+        "context": "物分布周\n探方 03.04 .08T1-T2 及所出遗迹平面图\n灰坑 03T1-T2"
+      },
+      {
+        "text": "T1",
+        "page": 13,
+        "source": "ocr",
+        "context": "T1-T2 及所出遗迹平面图\n灰坑 03T1-T2HI 平面、\n灰坑 03T1-T2"
+      },
+      {
+        "text": "T2H",
+        "page": 13,
+        "source": "ocr",
+        "context": "T2 及所出遗迹平面图\n灰坑 03T1-T2HI 平面、\n灰坑 03T1-T2H2 平"
+      },
+      {
+        "text": "T1",
+        "page": 13,
+        "source": "ocr",
+        "context": " 03T1-T2HI 平面、\n灰坑 03T1-T2H2 平面、\n灰坑 04T1-T2"
+      },
+      {
+        "text": "T2H",
+        "page": 13,
+        "source": "ocr",
+        "context": "T1-T2HI 平面、\n灰坑 03T1-T2H2 平面、\n灰坑 04T1-T2H3 平"
+      },
+      {
+        "text": "T1",
+        "page": 13,
+        "source": "ocr",
+        "context": " 03T1-T2H2 平面、\n灰坑 04T1-T2H3 平面、痢视图\n灰坑 04T1"
+      },
+      {
+        "text": "T2H",
+        "page": 13,
+        "source": "ocr",
+        "context": "T1-T2H2 平面、\n灰坑 04T1-T2H3 平面、痢视图\n灰坑 04T1-T2H"
+      },
+      {
+        "text": "T1",
+        "page": 13,
+        "source": "ocr",
+        "context": "T1-T2H3 平面、痢视图\n灰坑 04T1-T2H4 平面、剖视图 …\n探方 04"
+      },
+      {
+        "text": "T2H",
+        "page": 13,
+        "source": "ocr",
+        "context": "T2H3 平面、痢视图\n灰坑 04T1-T2H4 平面、剖视图 …\n探方 04T3 及"
+      },
+      {
+        "text": "T3",
+        "page": 13,
+        "source": "ocr",
+        "context": "-T2H4 平面、剖视图 …\n探方 04T3 及所出遗迹平面几\n灰坑 04T5H6 "
+      },
+      {
+        "text": "T5H",
+        "page": 13,
+        "source": "ocr",
+        "context": " 04T3 及所出遗迹平面几\n灰坑 04T5H6 平面、剖视图\n灰坑 04T6H7 平"
+      },
+      {
+        "text": "T6H",
+        "page": 13,
+        "source": "ocr",
+        "context": " 04T5H6 平面、剖视图\n灰坑 04T6H7 平面、剖视图…\n灰坑 08T5-T6"
+      },
+      {
+        "text": "T5",
+        "page": 13,
+        "source": "ocr",
+        "context": "04T6H7 平面、剖视图…\n灰坑 08T5-T6H8 平面、章视图 …\n灰坑 08"
+      },
+      {
+        "text": "T6H",
+        "page": 13,
+        "source": "ocr",
+        "context": "6H7 平面、剖视图…\n灰坑 08T5-T6H8 平面、章视图 …\n灰坑 08T5-T"
+      },
+      {
+        "text": "T5",
+        "page": 13,
+        "source": "ocr",
+        "context": "-T6H8 平面、章视图 …\n灰坑 08T5-T6H9 平面、剖视图 …\n灰坑 08"
+      },
+      {
+        "text": "T6H",
+        "page": 13,
+        "source": "ocr",
+        "context": "H8 平面、章视图 …\n灰坑 08T5-T6H9 平面、剖视图 …\n灰坑 08T5-T"
+      },
+      {
+        "text": "T5",
+        "page": 13,
+        "source": "ocr",
+        "context": "-T6H9 平面、剖视图 …\n灰坑 08T5-T6H10 平面、剖视图\nIRS 08"
+      },
+      {
+        "text": "T6H",
+        "page": 13,
+        "source": "ocr",
+        "context": "H9 平面、剖视图 …\n灰坑 08T5-T6H10 平面、剖视图\nIRS 08T5-T"
+      },
+      {
+        "text": "T5",
+        "page": 13,
+        "source": "ocr",
+        "context": "-T6H10 平面、剖视图\nIRS 08T5-T6H11 平面、剖视图\n灰坑 08T"
+      },
+      {
+        "text": "T6H",
+        "page": 13,
+        "source": "ocr",
+        "context": "H10 平面、剖视图\nIRS 08T5-T6H11 平面、剖视图\n灰坑 08T5-T6"
+      },
+      {
+        "text": "T5",
+        "page": 13,
+        "source": "ocr",
+        "context": "5-T6H11 平面、剖视图\n灰坑 08T5-T6H12 平面、剖视图\n灰坑 08T"
+      },
+      {
+        "text": "T6H",
+        "page": 13,
+        "source": "ocr",
+        "context": "6H11 平面、剖视图\n灰坑 08T5-T6H12 平面、剖视图\n灰坑 08T5-T6"
+      },
+      {
+        "text": "T5",
+        "page": 13,
+        "source": "ocr",
+        "context": "5-T6H12 平面、剖视图\n灰坑 08T5-T6H13 平面、衣视图\n灰坑 08T"
+      },
+      {
+        "text": "T6H",
+        "page": 13,
+        "source": "ocr",
+        "context": "6H12 平面、剖视图\n灰坑 08T5-T6H13 平面、衣视图\n灰坑 08T5-T6"
+      },
+      {
+        "text": "T5",
+        "page": 13,
+        "source": "ocr",
+        "context": "5-T6H13 平面、衣视图\n灰坑 08T5-T6H14 平面、剖视周\n\nBe BH"
+      },
+      {
+        "text": "T6H",
+        "page": 13,
+        "source": "ocr",
+        "context": "6H13 平面、衣视图\n灰坑 08T5-T6H14 平面、剖视周\n\nBe BH Be\n"
+      },
+      {
+        "text": "T4",
+        "page": 14,
+        "source": "ocr",
+        "context": "器…\n六 第7层出土细石器\n\n探方 04T4 第 5 层及所出遗迹平面\n探方 04T"
+      },
+      {
+        "text": "T8",
+        "page": 14,
+        "source": "ocr",
+        "context": "4 第 5 层及所出遗迹平面\n探方 04T8 第 4 层及所出遗迹平面|\nHEHE "
+      },
+      {
+        "text": "T3B",
+        "page": 14,
+        "source": "ocr",
+        "context": " 4 层及所出遗迹平面|\nHEHE 04T3BD1 平面、章视图 ，\n探方 04T4 "
+      },
+      {
+        "text": "T4",
+        "page": 14,
+        "source": "ocr",
+        "context": "T3BD1 平面、章视图 ，\n探方 04T4 及所出遗迹平面图\n蚌堆 04T4BD2"
+      },
+      {
+        "text": "T4B",
+        "page": 14,
+        "source": "ocr",
+        "context": " 04T4 及所出遗迹平面图\n蚌堆 04T4BD2 平面图\n祭礼遗迹 04T1-T2J"
+      },
+      {
+        "text": "T1",
+        "page": 14,
+        "source": "ocr",
+        "context": " 04T4BD2 平面图\n祭礼遗迹 04T1-T2JS] 平面、剖视|\n祭礼遗迹 0"
+      },
+      {
+        "text": "T2J",
+        "page": 14,
+        "source": "ocr",
+        "context": "T4BD2 平面图\n祭礼遗迹 04T1-T2JS] 平面、剖视|\n祭礼遗迹 04T1-"
+      },
+      {
+        "text": "T1",
+        "page": 14,
+        "source": "ocr",
+        "context": "T2JS] 平面、剖视|\n祭礼遗迹 04T1-T2JS2 平面、剖视医\nSRL 08"
+      },
+      {
+        "text": "T2J",
+        "page": 14,
+        "source": "ocr",
+        "context": "S] 平面、剖视|\n祭礼遗迹 04T1-T2JS2 平面、剖视医\nSRL 08T5-T"
+      },
+      {
+        "text": "T5",
+        "page": 14,
+        "source": "ocr",
+        "context": "-T2JS2 平面、剖视医\nSRL 08T5-T6DJS3 平面、痢视图\nHLH 0"
+      },
+      {
+        "text": "T6D",
+        "page": 14,
+        "source": "ocr",
+        "context": "JS2 平面、剖视医\nSRL 08T5-T6DJS3 平面、痢视图\nHLH 03.07"
+      },
+      {
+        "text": "T1",
+        "page": 14,
+        "source": "ocr",
+        "context": "JS3 平面、痢视图\nHLH 03.07T1-T2MI 平面、剖视图\nSEH 04,"
+      },
+      {
+        "text": "T2M",
+        "page": 14,
+        "source": "ocr",
+        "context": " 平面、痢视图\nHLH 03.07T1-T2MI 平面、剖视图\nSEH 04,07T5"
+      },
+      {
+        "text": "T5",
+        "page": 14,
+        "source": "ocr",
+        "context": "2MI 平面、剖视图\nSEH 04,07T5-T6M2 平面、剖视图 …\nSEH 0"
+      },
+      {
+        "text": "T6M",
+        "page": 14,
+        "source": "ocr",
+        "context": " 平面、剖视图\nSEH 04,07T5-T6M2 平面、剖视图 …\nSEH 04.07"
+      },
+      {
+        "text": "T5",
+        "page": 14,
+        "source": "ocr",
+        "context": "2 平面、剖视图 …\nSEH 04.07T5-T6XM3 平面、剖视\n探方 04T9"
+      },
+      {
+        "text": "T6X",
+        "page": 14,
+        "source": "ocr",
+        "context": "面、剖视图 …\nSEH 04.07T5-T6XM3 平面、剖视\n探方 04T9 及所出"
+      },
+      {
+        "text": "T9",
+        "page": 14,
+        "source": "ocr",
+        "context": "T5-T6XM3 平面、剖视\n探方 04T9 及所出遗迹平面图\n第 7 层出土细石核"
+      },
+      {
+        "text": "T3I",
+        "page": 14,
+        "source": "ocr",
+        "context": "叶，\n\n第 7 ALM AMMA (04T3IO:713) -\n\n第7 et LAG "
+      },
+      {
+        "text": "T2D",
+        "page": 14,
+        "source": "ocr",
+        "context": "H A\n第7层出土多用石器 (OATL-T2D: 1486)\n第 7 层出土穿孔石器 "
+      },
+      {
+        "text": "T5",
+        "page": 14,
+        "source": "ocr",
+        "context": "486)\n第 7 层出土穿孔石器 (04T5-T6F1:128) ，\n\n"
+      },
+      {
+        "text": "T6F",
+        "page": 14,
+        "source": "ocr",
+        "context": ")\n第 7 层出土穿孔石器 (04T5-T6F1:128) ，\n\n"
+      },
+      {
+        "text": "T3",
+        "page": 15,
+        "source": "ocr",
+        "context": "  … (91)\n第7层出土奸刀 (04T3@:898)              "
+      },
+      {
+        "text": "T5",
+        "page": 15,
+        "source": "ocr",
+        "context": "  + (92)\n\nWEIE 04.07T5-T6XM3 出土玉饰 (07T5-T6"
+      },
+      {
+        "text": "T6X",
+        "page": 15,
+        "source": "ocr",
+        "context": " (92)\n\nWEIE 04.07T5-T6XM3 出土玉饰 (07T5-T6XM3:"
+      },
+      {
+        "text": "T5",
+        "page": 15,
+        "source": "ocr",
+        "context": ".07T5-T6XM3 出土玉饰 (07T5-T6XM3:33)\n第 ?7 层出土穿"
+      },
+      {
+        "text": "T6X",
+        "page": 15,
+        "source": "ocr",
+        "context": "T5-T6XM3 出土玉饰 (07T5-T6XM3:33)\n第 ?7 层出土穿孔装饰品"
+      },
+      {
+        "text": "T5",
+        "page": 15,
+        "source": "ocr",
+        "context": "装饰品\n第7 层出土石穿孔装饰品 (04T5-T6〇:101)\n\n++ (92)\n+"
+      },
+      {
+        "text": "T6",
+        "page": 15,
+        "source": "ocr",
+        "context": "\n第7 层出土石穿孔装饰品 (04T5-T6〇:101)\n\n++ (92)\n+ (9"
+      },
+      {
+        "text": "T5",
+        "page": 15,
+        "source": "ocr",
+        "context": "(112)\n第 6 层出土青铜刀 (04T5-T6XG:658)          "
+      },
+      {
+        "text": "T6X",
+        "page": 15,
+        "source": "ocr",
+        "context": "2)\n第 6 层出土青铜刀 (04T5-T6XG:658)              "
+      },
+      {
+        "text": "T1",
+        "page": 15,
+        "source": "ocr",
+        "context": "(113)\n第 6 层出土铁鱼钩 (04T1-T2G):779)          "
+      },
+      {
+        "text": "T2G",
+        "page": 15,
+        "source": "ocr",
+        "context": "3)\n第 6 层出土铁鱼钩 (04T1-T2G):779)              "
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "T2",
+        "page": 9,
+        "source": "ocr",
+        "context": "积与遗迹\n探方 03 .04.08T1-T2 地层堆积 -\n探方 04T3 地层堆积"
+      },
+      {
+        "text": "T6",
+        "page": 9,
+        "source": "ocr",
+        "context": "积 ……\n探方 04 .07.08T5-T6 地层\n探方 04T9 地层堆积\niee"
+      },
+      {
+        "text": "G71",
+        "page": 11,
+        "source": "ocr",
+        "context": ")\n* (169)\n+ (169)\n* G71)\n+ (172)\n+ (172)\n+ "
+      },
+      {
+        "text": "T2",
+        "page": 13,
+        "source": "ocr",
+        "context": "08 年发据范围平面图\n探方 04TI-T2 (9米X2.5米) HAT\n探方04T"
+      },
+      {
+        "text": "T6",
+        "page": 13,
+        "source": "ocr",
+        "context": "米X4米) 地层剖面图\n探方 08T5-T6 扩方后 (11 米X11 米) HO "
+      },
+      {
+        "text": "T6",
+        "page": 13,
+        "source": "ocr",
+        "context": "剖面图……\nPRAT 04 .08T5-T6 扩方后及所出遗迹平面图\n房址 04.0"
+      },
+      {
+        "text": "T2",
+        "page": 13,
+        "source": "ocr",
+        "context": "物分布周\n探方 03.04 .08T1-T2 及所出遗迹平面图\n灰坑 03T1-T2"
+      }
+    ],
+    "石器": [
+      {
+        "text": "石片",
+        "page": 10,
+        "source": "ocr",
+        "context": "       ， (114)\n\n(二) 石片 …                  "
+      },
+      {
+        "text": "石核",
+        "page": 14,
+        "source": "ocr",
+        "context": "T9 及所出遗迹平面图\n第 7 层出土细石核\n\naz\n\na\n\n第7 Fel eB 1"
+      },
+      {
+        "text": "石锤",
+        "page": 14,
+        "source": "ocr",
+        "context": "第7 et LAG RE\n第 7 层出土石锤、石砧\n7 AMEE\n第 7 FAM a"
+      },
+      {
+        "text": "石锤",
+        "page": 15,
+        "source": "ocr",
+        "context": "     … (106)\n第 6 层出土石锤、石砧                 "
+      },
+      {
+        "text": "石核",
+        "page": 15,
+        "source": "ocr",
+        "context": "   + (115)\n第 5 层出土预制石核初期台面剥片、石条、预制石核中期台面剥片"
+      },
+      {
+        "text": "石核",
+        "page": 15,
+        "source": "ocr",
+        "context": " 层出土预制石核初期台面剥片、石条、预制石核中期台面剥片            … "
+      }
+    ],
+    "玉器": [
+      {
+        "text": "玉饰",
+        "page": 12,
+        "source": "ocr",
+        "context": "形制的比较研究\n附录 3 ”哈克遗址出土玉饰检测报告\n附录 4 哈克遗址出土和征集金"
+      },
+      {
+        "text": "玉饰",
+        "page": 15,
+        "source": "ocr",
+        "context": "EIE 04.07T5-T6XM3 出土玉饰 (07T5-T6XM3:33)\n第 ?"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": "9米",
+        "page": 13,
+        "source": "ocr",
+        "context": "发据范围平面图\n探方 04TI-T2 (9米X2.5米) HAT\n探方04T3 (4"
+      },
+      {
+        "text": "2.5米",
+        "page": 13,
+        "source": "ocr",
+        "context": "围平面图\n探方 04TI-T2 (9米X2.5米) HAT\n探方04T3 (4 米X4米"
+      },
+      {
+        "text": "4 米",
+        "page": 13,
+        "source": "ocr",
+        "context": "米X2.5米) HAT\n探方04T3 (4 米X4米) 地层剖面图…\n探方 04T4 "
+      },
+      {
+        "text": "4米",
+        "page": 13,
+        "source": "ocr",
+        "context": "5米) HAT\n探方04T3 (4 米X4米) 地层剖面图…\n探方 04T4 (4 "
+      },
+      {
+        "text": "4 米",
+        "page": 13,
+        "source": "ocr",
+        "context": "4米) 地层剖面图…\n探方 04T4 (4 米X4米) 地层剖面图\n探方 08T5-T"
+      },
+      {
+        "text": "4米",
+        "page": 13,
+        "source": "ocr",
+        "context": "地层剖面图…\n探方 04T4 (4 米X4米) 地层剖面图\n探方 08T5-T6 扩"
+      },
+      {
+        "text": "11 米",
+        "page": 13,
+        "source": "ocr",
+        "context": "剖面图\n探方 08T5-T6 扩方后 (11 米X11 米) HO PA\n探方04T9 "
+      },
+      {
+        "text": "11 米",
+        "page": 13,
+        "source": "ocr",
+        "context": "方 08T5-T6 扩方后 (11 米X11 米) HO PA\n探方04T9 (4 米X"
+      },
+      {
+        "text": "4 米",
+        "page": 13,
+        "source": "ocr",
+        "context": "11 米) HO PA\n探方04T9 (4 米X4 米) 地层剖面图……\nPRAT 0"
+      },
+      {
+        "text": "4 米",
+        "page": 13,
+        "source": "ocr",
+        "context": ") HO PA\n探方04T9 (4 米X4 米) 地层剖面图……\nPRAT 04 .0"
+      }
+    ],
+    "地层": [
+      {
+        "text": "第7层",
+        "page": 14,
+        "source": "ocr",
+        "context": "iy Ba Za eI TS TS\n\n:第7层出土弧刃端天器、平刃端刮器…\n\n[第7层"
+      },
+      {
+        "text": "第7层",
+        "page": 14,
+        "source": "ocr",
+        "context": "第7层出土弧刃端天器、平刃端刮器…\n\n[第7层出土边刮器…\n六 第7层出土细石器\n\n探"
+      },
+      {
+        "text": "第7层",
+        "page": 14,
+        "source": "ocr",
+        "context": "刃端刮器…\n\n[第7层出土边刮器…\n六 第7层出土细石器\n\n探方 04T4 第 5 层"
+      },
+      {
+        "text": "第7层",
+        "page": 14,
+        "source": "ocr",
+        "context": "EE\n第 7 FAM aS. HH A\n第7层出土多用石器 (OATL-T2D: 14"
+      },
+      {
+        "text": "第7层",
+        "page": 15,
+        "source": "ocr",
+        "context": "                 7\n\n第7层出土 Aa 类陶片…          "
+      },
+      {
+        "text": "第7层",
+        "page": 15,
+        "source": "ocr",
+        "context": "             … (83)\n第7层出土B类陶片…             "
+      },
+      {
+        "text": "第7层",
+        "page": 15,
+        "source": "ocr",
+        "context": "             + (84)\n第7层出土了类陶               "
+      },
+      {
+        "text": "第7层",
+        "page": 15,
+        "source": "ocr",
+        "context": "             … (91)\n第7层出土奸刀 (04T3@:898)    "
+      }
+    ],
+    "骨器": [
+      {
+        "text": "骨针",
+        "page": 15,
+        "source": "ocr",
+        "context": "       ++ (86)\n7 层出土骨针…-                  "
+      }
+    ]
+  }
+}

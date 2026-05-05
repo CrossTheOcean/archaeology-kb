@@ -1,0 +1,744 @@
+{
+  "name": "南宋官窑",
+  "file": "南宋官窑.pdf",
+  "era": "南宋",
+  "culture": "官窑遗址",
+  "processed_pages": 15,
+  "total_entities": 118,
+  "entity_stats": {
+    "遗址名称": 15,
+    "遗迹编号": 35,
+    "年代": 31,
+    "铜器": 1,
+    "测量数据": 3,
+    "层位关系": 7,
+    "探方编号": 25,
+    "遗迹类型": 1
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "南宋",
+        "page": 4,
+        "source": "ocr",
+        "context": "As 简介\n\n浙江省杭州市南郊乌旬山意的南宋官窗遗站是专为南来官延用痪而生产的宫密场"
+      },
+      {
+        "text": "南宋",
+        "page": 4,
+        "source": "ocr",
+        "context": "手工业作坊的规模.结构及产品特征.展地出南宋官穿\n吸取的元业方制容工艺的先进技术,是"
+      },
+      {
+        "text": "南宋",
+        "page": 4,
+        "source": "ocr",
+        "context": "s Lie Le - RRIR ”中国一南宋 ON.K878. 05\n\n中国版本图书"
+      },
+      {
+        "text": "南宋",
+        "page": 8,
+        "source": "ocr",
+        "context": "TASTE BE a GB evs\n南宋官窗瓷器露蔓、器府\nMASE BE RS"
+      },
+      {
+        "text": "南宋",
+        "page": 8,
+        "source": "ocr",
+        "context": "器露蔓、器府\nMASE BE RSME\n南宋官富资器纹久残片\nPEAS Ey BEB"
+      },
+      {
+        "text": "南宋",
+        "page": 8,
+        "source": "ocr",
+        "context": " RE\n其他窗系次器 …\n南泉官窗工具\n南宋官窗工具及窗具 ，\nIAT ST WIE"
+      },
+      {
+        "text": "南宋",
+        "page": 9,
+        "source": "ocr",
+        "context": "R TURE BE BEART\nOC) 南宋官容资炉\n—- BREA BP\n BRE"
+      },
+      {
+        "text": "南宋",
+        "page": 9,
+        "source": "ocr",
+        "context": " ERR\n\\ BRERA IRR\n-九，南宋官帘网器器益\n"
+      },
+      {
+        "text": "南宋",
+        "page": 10,
+        "source": "ocr",
+        "context": "RT AER a 89 ath\n\n-四“南宋    旋回天上\n-六 fe     v"
+      },
+      {
+        "text": "南宋",
+        "page": 12,
+        "source": "ocr",
+        "context": "察资料 。\n\n乌龟山窜址的发现及确认其为南宋郊坛下官窗，始于本世纪 20 年代; 釉"
+      },
+      {
+        "text": "南宋",
+        "page": 12,
+        "source": "ocr",
+        "context": "编写了有关著作，但由于未进行科学发据，对南宋\n密罕容场是一处还是几处? 窗场的范围、"
+      },
+      {
+        "text": "南宋",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n及\n\n三、调查与发气概况\n\n鉴于乌龟山南宋官窗窗址自发现以来曾遭到多次不同程度的破"
+      },
+      {
+        "text": "南宋",
+        "page": 13,
+        "source": "ocr",
+        "context": "的试据中，发现了\n探沟TI 第 3 层有南宋时期的建筑遗迹，为全面地进行发掘提供了依"
+      },
+      {
+        "text": "南宋",
+        "page": 13,
+        "source": "ocr",
+        "context": "年 1 月底结束。1988\n年冬，为配合南宋官窗博物馆的建设工程，又对作坊遗迹进行了"
+      },
+      {
+        "text": "南宋",
+        "page": 14,
+        "source": "ocr",
+        "context": "如筑的地基\n境十，莽土来源于东侧山坡上的南宋官窒窜炉的废品堆积区。由于取土地段不同形"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "K878",
+        "page": 4,
+        "source": "ocr",
+        "context": "Le - RRIR ”中国一南宋 ON.K878. 05\n\n中国版本图书馆 CIP 数据"
+      },
+      {
+        "text": "G1",
+        "page": 5,
+        "source": "ocr",
+        "context": "(19)\n- (9)\n+ (48)\n… G1)\n* LD\n6 (55)\n\n+ (64"
+      },
+      {
+        "text": "F2",
+        "page": 7,
+        "source": "ocr",
+        "context": " hh BR fal EA -\nFl, F2 (无明时期建筑) Pat\nFl1 第3"
+      },
+      {
+        "text": "Y2",
+        "page": 7,
+        "source": "ocr",
+        "context": "t\nFl1 第3 生性侧平、削面图 …\nY2 ed AU HL Fe ala UI\n"
+      },
+      {
+        "text": "F3",
+        "page": 7,
+        "source": "ocr",
+        "context": "图\n\n浏面图\n‘OF. a ifted\nF3 yy SE His      Palo"
+      },
+      {
+        "text": "G1",
+        "page": 7,
+        "source": "ocr",
+        "context": "mY. Fee\nRT. flail -\nG1 VT. fall\nYo. Mail\n\n"
+      },
+      {
+        "text": "Y2",
+        "page": 9,
+        "source": "ocr",
+        "context": "图版目录\n\nBREE EP (Y2) 遗迹 Ga py TL Ite\n\n彩"
+      },
+      {
+        "text": "F3",
+        "page": 9,
+        "source": "ocr",
+        "context": " UAE TY Be (eh ALE)\nF3 全景及局部\nWY FS 全景及局部\ni"
+      },
+      {
+        "text": "Y2",
+        "page": 9,
+        "source": "ocr",
+        "context": "L eR HR 9 TT\nNA RFE Y2 保存现状及复原异型\nJu REE RE"
+      },
+      {
+        "text": "Y1",
+        "page": 13,
+        "source": "ocr",
+        "context": "断面. 在与窜炉走向垂直相交的方向及与\nY1 之间的山坡上，开控探沟二条.编号了T6"
+      },
+      {
+        "text": "T7",
+        "page": 13,
+        "source": "ocr",
+        "context": "之间的山坡上，开控探沟二条.编号了T6、T7， 以便全面了解窒炉结构及两座窗炉周围的"
+      },
+      {
+        "text": "Y1",
+        "page": 13,
+        "source": "ocr",
+        "context": "了解密炉两侧的废品堆积情况, 又分别在 Y1 附近开控探沟四条 (T8、T9、T10"
+      },
+      {
+        "text": "T8",
+        "page": 13,
+        "source": "ocr",
+        "context": ", 又分别在 Y1 附近开控探沟四条 (T8、T9、T10、\nT19), 在Y2西侧"
+      },
+      {
+        "text": "T9",
+        "page": 13,
+        "source": "ocr",
+        "context": "分别在 Y1 附近开控探沟四条 (T8、T9、T10、\nT19), 在Y2西侧山坡上"
+      },
+      {
+        "text": "T10",
+        "page": 13,
+        "source": "ocr",
+        "context": " Y1 附近开控探沟四条 (T8、T9、T10、\nT19), 在Y2西侧山坡上开控探沟"
+      },
+      {
+        "text": "T19",
+        "page": 13,
+        "source": "ocr",
+        "context": "近开控探沟四条 (T8、T9、T10、\nT19), 在Y2西侧山坡上开控探沟二条 〈T"
+      },
+      {
+        "text": "T17",
+        "page": 13,
+        "source": "ocr",
+        "context": "9), 在Y2西侧山坡上开控探沟二条 〈T17、T18)。 在山香平地可发掘范围内，开"
+      },
+      {
+        "text": "T18",
+        "page": 13,
+        "source": "ocr",
+        "context": "在Y2西侧山坡上开控探沟二条 〈T17、T18)。 在山香平地可发掘范围内，开控正南北"
+      },
+      {
+        "text": "T2",
+        "page": 13,
+        "source": "ocr",
+        "context": "掘范围内，开控正南北\n方向的探方十个 (T2-一T5、T11一Ti6)。1988 年"
+      },
+      {
+        "text": "T20",
+        "page": 13,
+        "source": "ocr",
+        "context": "冬的补充发掘中,在西南角又开挖探方四\n(T20-T23). 对可能保存下来的遗迹进行了"
+      },
+      {
+        "text": "T23",
+        "page": 13,
+        "source": "ocr",
+        "context": "发掘中,在西南角又开挖探方四\n(T20-T23). 对可能保存下来的遗迹进行了全面的发"
+      },
+      {
+        "text": "T2",
+        "page": 14,
+        "source": "ocr",
+        "context": "。 作坊和遗迹土要暴露在85 LL W T2 Ts, TlI—T13, T15,\nT"
+      },
+      {
+        "text": "T13",
+        "page": 14,
+        "source": "ocr",
+        "context": "在85 LL W T2 Ts, TlI—T13, T15,\nT20 了23之内。从各探"
+      },
+      {
+        "text": "T15",
+        "page": 14,
+        "source": "ocr",
+        "context": "L W T2 Ts, TlI—T13, T15,\nT20 了23之内。从各探方的发据情"
+      },
+      {
+        "text": "T20",
+        "page": 14,
+        "source": "ocr",
+        "context": "2 Ts, TlI—T13, T15,\nT20 了23之内。从各探方的发据情况看.地层"
+      },
+      {
+        "text": "T12",
+        "page": 14,
+        "source": "ocr",
+        "context": "AL BRD. MLL TS, 15, T12 东壁为例介绍如下〈图四) 。\n\nW  "
+      },
+      {
+        "text": "T3",
+        "page": 14,
+        "source": "ocr",
+        "context": " ne\noO\n\nPA cy iDEA (T3, TS, 112 RHE)\n\n第1民，"
+      },
+      {
+        "text": "T12",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n\n发现的建筑遗迹主要分布于T2一T5、T12、T13、T15 ZA. AAR, RH"
+      },
+      {
+        "text": "T13",
+        "page": 14,
+        "source": "ocr",
+        "context": "的建筑遗迹主要分布于T2一T5、T12、T13、T15 ZA. AAR, RHE AB"
+      },
+      {
+        "text": "T15",
+        "page": 14,
+        "source": "ocr",
+        "context": "迹主要分布于T2一T5、T12、T13、T15 ZA. AAR, RHE ABE\n的前"
+      },
+      {
+        "text": "F1",
+        "page": 14,
+        "source": "ocr",
+        "context": "米, 由北\n向南依次编号为85 [ 驳 F1、F2。由于距地去较浅，除柱础坑全部保作"
+      },
+      {
+        "text": "F2",
+        "page": 14,
+        "source": "ocr",
+        "context": "由北\n向南依次编号为85 [ 驳 F1、F2。由于距地去较浅，除柱础坑全部保作外，地"
+      },
+      {
+        "text": "F1",
+        "page": 14,
+        "source": "ocr",
+        "context": "PT\n了地面层。从往础坑的分布情况可知，F1 和 F2 均为二并间房，大小相同， i"
+      },
+      {
+        "text": "F2",
+        "page": 14,
+        "source": "ocr",
+        "context": "面层。从往础坑的分布情况可知，F1 和 F2 均为二并间房，大小相同， iT RA "
+      },
+      {
+        "text": "F2",
+        "page": 15,
+        "source": "ocr",
+        "context": "Md Ft, F2 《克明时期建筑) FR Colo. H"
+      }
+    ],
+    "年代": [
+      {
+        "text": "宋",
+        "page": 4,
+        "source": "ocr",
+        "context": "s 简介\n\n浙江省杭州市南郊乌旬山意的南宋官窗遗站是专为南来官延用痪而生产的宫密场"
+      },
+      {
+        "text": "宋",
+        "page": 4,
+        "source": "ocr",
+        "context": "279 年)。\n\n南抄官穿的发握,拐示了宋代窒窗制次手工业作坊的规模.结构及产品特"
+      },
+      {
+        "text": "宋",
+        "page": 4,
+        "source": "ocr",
+        "context": "工业作坊的规模.结构及产品特征.展地出南宋官穿\n吸取的元业方制容工艺的先进技术,是"
+      },
+      {
+        "text": "元",
+        "page": 4,
+        "source": "ocr",
+        "context": ".结构及产品特征.展地出南宋官穿\n吸取的元业方制容工艺的先进技术,是中国资窗考古的"
+      },
+      {
+        "text": "宋",
+        "page": 4,
+        "source": "ocr",
+        "context": " Lie Le - RRIR ”中国一南宋 ON.K878. 05\n\n中国版本图书"
+      },
+      {
+        "text": "元",
+        "page": 4,
+        "source": "ocr",
+        "context": "1000 册\n国内定价: 60. 00 元\n"
+      },
+      {
+        "text": "明",
+        "page": 7,
+        "source": "ocr",
+        "context": "R fal EA -\nFl, F2 (无明时期建筑) Pat\nFl1 第3 生性侧"
+      },
+      {
+        "text": "宋",
+        "page": 8,
+        "source": "ocr",
+        "context": "TASTE BE a GB evs\n南宋官窗瓷器露蔓、器府\nMASE BE RS"
+      },
+      {
+        "text": "宋",
+        "page": 8,
+        "source": "ocr",
+        "context": "露蔓、器府\nMASE BE RSME\n南宋官富资器纹久残片\nPEAS Ey BEB"
+      },
+      {
+        "text": "宋",
+        "page": 8,
+        "source": "ocr",
+        "context": "RE\n其他窗系次器 …\n南泉官窗工具\n南宋官窗工具及窗具 ，\nIAT ST WIE"
+      },
+      {
+        "text": "宋",
+        "page": 9,
+        "source": "ocr",
+        "context": " TURE BE BEART\nOC) 南宋官容资炉\n—- BREA BP\n BRE"
+      },
+      {
+        "text": "宋",
+        "page": 9,
+        "source": "ocr",
+        "context": "ERR\n\\ BRERA IRR\n-九，南宋官帘网器器益\n"
+      },
+      {
+        "text": "宋",
+        "page": 10,
+        "source": "ocr",
+        "context": "T AER a 89 ath\n\n-四“南宋    旋回天上\n-六 fe     v"
+      },
+      {
+        "text": "元",
+        "page": 11,
+        "source": "ocr",
+        "context": "图一)。山上人\n:的自然条件良好。和但间元代以后，册于杭州城不断地向\nROA HR"
+      },
+      {
+        "text": "宋",
+        "page": 12,
+        "source": "ocr",
+        "context": ":“青器窜在雄武营山上再坛左右\"。在一些宋人笔记中也多有记载，其中记载最详\n备的为"
+      },
+      {
+        "text": "元",
+        "page": 12,
+        "source": "ocr",
+        "context": "人笔记中也多有记载，其中记载最详\n备的为元陶宗仪苦《南村缀耕录》 (中华书局，19"
+      },
+      {
+        "text": "宋",
+        "page": 12,
+        "source": "ocr",
+        "context": "窗址地点、官窖瓷器的特征等, 尤其以转录宋代文献内容居多。\n全于官窗窗址究竟在何处"
+      },
+      {
+        "text": "宋",
+        "page": 12,
+        "source": "ocr",
+        "context": "资料 。\n\n乌龟山窜址的发现及确认其为南宋郊坛下官窗，始于本世纪 20 年代; 釉"
+      },
+      {
+        "text": "宋",
+        "page": 12,
+        "source": "ocr",
+        "context": "写了有关著作，但由于未进行科学发据，对南宋\n密罕容场是一处还是几处? 窗场的范围、"
+      },
+      {
+        "text": "清",
+        "page": 12,
+        "source": "ocr",
+        "context": "结构、作坊布局、生产设备与产品种类等仍不清楚。\n1956 年, 浙江省文管会曾在窗"
+      },
+      {
+        "text": "清",
+        "page": 12,
+        "source": "ocr",
+        "context": "文管会曾在窗址的南部进行首次局部发气, 清理龙窗窗炉一座, 编号Y1, 并\n发据了"
+      },
+      {
+        "text": "宋",
+        "page": 12,
+        "source": "ocr",
+        "context": "及\n\n三、调查与发气概况\n\n鉴于乌龟山南宋官窗窗址自发现以来曾遭到多次不同程度的破"
+      },
+      {
+        "text": "清",
+        "page": 12,
+        "source": "ocr",
+        "context": "度的破坏，为了全面揭示这座历\n史名窗，弄清它的历史并对密场遗迹进行妥善保护，使历史"
+      },
+      {
+        "text": "宋",
+        "page": 13,
+        "source": "ocr",
+        "context": "试据中，发现了\n探沟TI 第 3 层有南宋时期的建筑遗迹，为全面地进行发掘提供了依"
+      },
+      {
+        "text": "宋",
+        "page": 13,
+        "source": "ocr",
+        "context": " 1 月底结束。1988\n年冬，为配合南宋官窗博物馆的建设工程，又对作坊遗迹进行了"
+      },
+      {
+        "text": "金",
+        "page": 13,
+        "source": "ocr",
+        "context": "加发掘者\n育中国社会科学院考古研究所李德金、[关甲节| 、薪忠义、俞永炳、包强，浙"
+      },
+      {
+        "text": "元",
+        "page": 13,
+        "source": "ocr",
+        "context": "、包强，浙江省文物考古研\n究所朱伯谦、陈元看、朱琼华、胡继很. SUN ATE M"
+      },
+      {
+        "text": "宋",
+        "page": 14,
+        "source": "ocr",
+        "context": "址”地层堆积情况\n\n--、作坊区地层\n\n宋宜客的作坊簿迹分布在怠龟出生姚花香之问的"
+      },
+      {
+        "text": "宋",
+        "page": 14,
+        "source": "ocr",
+        "context": "基堆积中有大其小石块、窒砖、烧土块和\n举宋官穿的网片、吉烧坯、窗只及其他窗系的资族"
+      },
+      {
+        "text": "宋",
+        "page": 14,
+        "source": "ocr",
+        "context": "筑的地基\n境十，莽土来源于东侧山坡上的南宋官窒窜炉的废品堆积区。由于取土地段不同形"
+      },
+      {
+        "text": "明",
+        "page": 15,
+        "source": "ocr",
+        "context": "Md Ft, F2 《克明时期建筑) FR Colo. Hemi)"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "饰",
+        "page": 8,
+        "source": "ocr",
+        "context": "AT ST WIE TODA :47 纹饰及铭文拓本\nWAH A A\nHRW RA"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": " 76 米",
+        "page": 11,
+        "source": "ocr",
+        "context": "METER\n南北宽 200K. 海拔商度 76 米的小山正《图一)。山上人\n:的自然条件良"
+      },
+      {
+        "text": "60 厘米",
+        "page": 14,
+        "source": "ocr",
+        "context": "U EER 20- 70, J 20 -60 厘米。层面除被大基近、\n现代蔓打破外，发现一"
+      },
+      {
+        "text": " 10 米",
+        "page": 14,
+        "source": "ocr",
+        "context": "16 度，处在同一条中轴线上上，前后姐距 10 米, 由北\n向南依次编号为85 [ 驳 F"
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "堆积",
+        "page": 12,
+        "source": "ocr",
+        "context": ", 编号Y1, 并\n发据了窗旁的部分网片堆积. 但发掘报告未发表, 仅在《三十年米浙"
+      },
+      {
+        "text": "堆积",
+        "page": 13,
+        "source": "ocr",
+        "context": "周围的\n其他迹象。 为了解密炉两侧的废品堆积情况, 又分别在 Y1 附近开控探沟四条"
+      },
+      {
+        "text": "堆积",
+        "page": 14,
+        "source": "ocr",
+        "context": "址”地层堆积情况\n\n--、作坊区地层\n\n宋宜客的作坊"
+      },
+      {
+        "text": "打破",
+        "page": 14,
+        "source": "ocr",
+        "context": " -60 厘米。层面除被大基近、\n现代蔓打破外，发现一组比较完鉴的建筑基址。地基堆积"
+      },
+      {
+        "text": "堆积",
+        "page": 14,
+        "source": "ocr",
+        "context": "打破外，发现一组比较完鉴的建筑基址。地基堆积中有大其小石块、窒砖、烧土块和\n举宋官穿"
+      },
+      {
+        "text": "堆积",
+        "page": 14,
+        "source": "ocr",
+        "context": "的网片、吉烧坯、窗只及其他窗系的资族。从堆积物观察，该层为有意如筑的地基\n境十，莽土"
+      },
+      {
+        "text": "堆积",
+        "page": 14,
+        "source": "ocr",
+        "context": "莽土来源于东侧山坡上的南宋官窒窜炉的废品堆积区。由于取土地段不同形成地层\nLG Bh"
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T6",
+        "page": 13,
+        "source": "ocr",
+        "context": "Y1 之间的山坡上，开控探沟二条.编号了T6、T7， 以便全面了解窒炉结构及两座窗炉"
+      },
+      {
+        "text": "T7",
+        "page": 13,
+        "source": "ocr",
+        "context": "之间的山坡上，开控探沟二条.编号了T6、T7， 以便全面了解窒炉结构及两座窗炉周围的"
+      },
+      {
+        "text": "T8",
+        "page": 13,
+        "source": "ocr",
+        "context": ", 又分别在 Y1 附近开控探沟四条 (T8、T9、T10、\nT19), 在Y2西侧"
+      },
+      {
+        "text": "T9",
+        "page": 13,
+        "source": "ocr",
+        "context": "分别在 Y1 附近开控探沟四条 (T8、T9、T10、\nT19), 在Y2西侧山坡上"
+      },
+      {
+        "text": "T10",
+        "page": 13,
+        "source": "ocr",
+        "context": " Y1 附近开控探沟四条 (T8、T9、T10、\nT19), 在Y2西侧山坡上开控探沟"
+      },
+      {
+        "text": "T19",
+        "page": 13,
+        "source": "ocr",
+        "context": "近开控探沟四条 (T8、T9、T10、\nT19), 在Y2西侧山坡上开控探沟二条 〈T"
+      },
+      {
+        "text": "T17",
+        "page": 13,
+        "source": "ocr",
+        "context": "9), 在Y2西侧山坡上开控探沟二条 〈T17、T18)。 在山香平地可发掘范围内，开"
+      },
+      {
+        "text": "T18",
+        "page": 13,
+        "source": "ocr",
+        "context": "在Y2西侧山坡上开控探沟二条 〈T17、T18)。 在山香平地可发掘范围内，开控正南北"
+      },
+      {
+        "text": "T2",
+        "page": 13,
+        "source": "ocr",
+        "context": "掘范围内，开控正南北\n方向的探方十个 (T2-一T5、T11一Ti6)。1988 年"
+      },
+      {
+        "text": "T5",
+        "page": 13,
+        "source": "ocr",
+        "context": "，开控正南北\n方向的探方十个 (T2-一T5、T11一Ti6)。1988 年冬的补充"
+      },
+      {
+        "text": "T11",
+        "page": 13,
+        "source": "ocr",
+        "context": "正南北\n方向的探方十个 (T2-一T5、T11一Ti6)。1988 年冬的补充发掘中,"
+      },
+      {
+        "text": "T20",
+        "page": 13,
+        "source": "ocr",
+        "context": "冬的补充发掘中,在西南角又开挖探方四\n(T20-T23). 对可能保存下来的遗迹进行了"
+      },
+      {
+        "text": "T23",
+        "page": 13,
+        "source": "ocr",
+        "context": "发掘中,在西南角又开挖探方四\n(T20-T23). 对可能保存下来的遗迹进行了全面的发"
+      },
+      {
+        "text": "T2",
+        "page": 14,
+        "source": "ocr",
+        "context": "85 年试所的Ti 包括在这次发据的探方T2\n之内),. 具揭露面积约 1000 站"
+      },
+      {
+        "text": "T2",
+        "page": 14,
+        "source": "ocr",
+        "context": "。 作坊和遗迹土要暴露在85 LL W T2 Ts, TlI—T13, T15,\nT"
+      },
+      {
+        "text": "T13",
+        "page": 14,
+        "source": "ocr",
+        "context": "在85 LL W T2 Ts, TlI—T13, T15,\nT20 了23之内。从各探"
+      },
+      {
+        "text": "T15",
+        "page": 14,
+        "source": "ocr",
+        "context": "L W T2 Ts, TlI—T13, T15,\nT20 了23之内。从各探方的发据情"
+      },
+      {
+        "text": "T20",
+        "page": 14,
+        "source": "ocr",
+        "context": "2 Ts, TlI—T13, T15,\nT20 了23之内。从各探方的发据情况看.地层"
+      },
+      {
+        "text": "T12",
+        "page": 14,
+        "source": "ocr",
+        "context": "AL BRD. MLL TS, 15, T12 东壁为例介绍如下〈图四) 。\n\nW  "
+      },
+      {
+        "text": "T3",
+        "page": 14,
+        "source": "ocr",
+        "context": " ne\noO\n\nPA cy iDEA (T3, TS, 112 RHE)\n\n第1民，"
+      },
+      {
+        "text": "T2",
+        "page": 14,
+        "source": "ocr",
+        "context": " RSET.\n\n发现的建筑遗迹主要分布于T2一T5、T12、T13、T15 ZA. "
+      },
+      {
+        "text": "T5",
+        "page": 14,
+        "source": "ocr",
+        "context": "ET.\n\n发现的建筑遗迹主要分布于T2一T5、T12、T13、T15 ZA. AAR"
+      },
+      {
+        "text": "T12",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n\n发现的建筑遗迹主要分布于T2一T5、T12、T13、T15 ZA. AAR, RH"
+      },
+      {
+        "text": "T13",
+        "page": 14,
+        "source": "ocr",
+        "context": "的建筑遗迹主要分布于T2一T5、T12、T13、T15 ZA. AAR, RHE AB"
+      },
+      {
+        "text": "T15",
+        "page": 14,
+        "source": "ocr",
+        "context": "迹主要分布于T2一T5、T12、T13、T15 ZA. AAR, RHE ABE\n的前"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "基址",
+        "page": 14,
+        "source": "ocr",
+        "context": "、\n现代蔓打破外，发现一组比较完鉴的建筑基址。地基堆积中有大其小石块、窒砖、烧土块和"
+      }
+    ]
+  }
+}

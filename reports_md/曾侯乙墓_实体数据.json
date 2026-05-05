@@ -1,0 +1,2268 @@
+{
+  "name": "曾侯乙墓",
+  "file": "曾侯乙墓.pdf",
+  "era": "战国",
+  "culture": "曾国",
+  "processed_pages": 15,
+  "total_entities": 369,
+  "entity_stats": {
+    "年代": 46,
+    "遗迹类型": 5,
+    "陶器": 74,
+    "铜器": 165,
+    "葬具": 21,
+    "漆器": 1,
+    "遗址名称": 32,
+    "金器": 3,
+    "遗存类型": 7,
+    "地层": 8,
+    "纹饰": 1,
+    "玉器": 2,
+    "测量数据": 3,
+    "层位关系": 1
+  },
+  "entities": {
+    "年代": [
+      {
+        "text": "元",
+        "page": 2,
+        "source": "text",
+        "context": "•42 平装上下册定价I\n13 . 00元\nISBN 7-5010 - 0274 "
+      },
+      {
+        "text": "元",
+        "page": 2,
+        "source": "text",
+        "context": "101 精装上下册定价•\n86 . 00元\n. \n, \nTOMB OF MARQU"
+      },
+      {
+        "text": "金",
+        "page": 4,
+        "source": "text",
+        "context": "...………-\n〈飞175\n一〉重量和合金成份，.. ••• .川.. ••• •"
+      },
+      {
+        "text": "金",
+        "page": 5,
+        "source": "text",
+        "context": ".. \n川.. ( \n石、\n钢、\n玉、\n金、\n第六节\n慕\n乙\n侯\n曾\n4 \n一\n〈"
+      },
+      {
+        "text": "东周",
+        "page": 6,
+        "source": "text",
+        "context": "..川.. (\n年\n第二节\n465 \n为东周考古学研究提供了新的实例........"
+      },
+      {
+        "text": "金",
+        "page": 6,
+        "source": "text",
+        "context": "侯\n曾\n6 \nfiilia \n390 \n金质器皿\"… .. \n390 \n一\n、\n3"
+      },
+      {
+        "text": "金",
+        "page": 6,
+        "source": "text",
+        "context": "•••. \n390 \n三〉器\n399 \n金锚... ....川…\n铜带钩……….."
+      },
+      {
+        "text": "金",
+        "page": 6,
+        "source": "text",
+        "context": "钩……….. \n399 \n玉、\n(~ )金带钩…... ••• ..…… \n399"
+      },
+      {
+        "text": "金",
+        "page": 6,
+        "source": "text",
+        "context": "….. ( \n〈一二〕玉刚卵\"…\n附s\n金、\n-\n- 、\n( 三〉玉、\n422 \n"
+      },
+      {
+        "text": "金",
+        "page": 7,
+        "source": "text",
+        "context": "••• 1.. ...… ( 399 \n金带钩含金比数司经.. .••• ••• "
+      },
+      {
+        "text": "金",
+        "page": 7,
+        "source": "text",
+        "context": "1.. ...… ( 399 \n金带钩含金比数司经.. .••• ••• ...."
+      },
+      {
+        "text": "金",
+        "page": 7,
+        "source": "text",
+        "context": ". .••• ••• ••• ••• \n金主麻织品数最、\n表四九\n438 \n尖齿形"
+      },
+      {
+        "text": "金",
+        "page": 7,
+        "source": "text",
+        "context": ".…·川·\n表四二\n386 \ni揭届匕含金比盘表.. \n川.. \n…. \n1 \"…"
+      },
+      {
+        "text": "金",
+        "page": 7,
+        "source": "text",
+        "context": "…\n.川….. \n川.. .川.. (\n金器盖、\n表四五\n部分金锚尺寸、\n表四六\n"
+      },
+      {
+        "text": "金",
+        "page": 7,
+        "source": "text",
+        "context": ". .川.. (\n金器盖、\n表四五\n部分金锚尺寸、\n表四六\n带钩尺寸表…·…川.."
+      },
+      {
+        "text": "金",
+        "page": 7,
+        "source": "text",
+        "context": "川.. \n表三九\n曾侯乙编钟的化学成分及金相组织分析·川………… .. \n附录五\n"
+      },
+      {
+        "text": "金",
+        "page": 8,
+        "source": "text",
+        "context": "636 \n附录一一\n曾侯乙基部分管铜器卫金属弹挠的化学成分检测……........"
+      },
+      {
+        "text": "金",
+        "page": 12,
+        "source": "text",
+        "context": "( \n因二五九\n451 \n纺锤形器1丘t金属弹萤...….川，.-.….. … ."
+      },
+      {
+        "text": "金",
+        "page": 12,
+        "source": "text",
+        "context": " \n竹器…….. \n囱二囚。\n391 \n金盏E . 2……….. \n图二四一\n39"
+      },
+      {
+        "text": "金",
+        "page": 12,
+        "source": "text",
+        "context": ". 2……….. \n图二四一\n392 \n金带钩与铜带钩...••• .川....."
+      },
+      {
+        "text": "金",
+        "page": 12,
+        "source": "text",
+        "context": "•• .川..... ..... . \n金杯、\n图二四二\n393 \n金漏匕、\n图二"
+      },
+      {
+        "text": "金",
+        "page": 12,
+        "source": "text",
+        "context": ".. . \n金杯、\n图二四二\n393 \n金漏匕、\n图二四三\n402 \n金器盏..."
+      },
+      {
+        "text": "金",
+        "page": 12,
+        "source": "text",
+        "context": "393 \n金漏匕、\n图二四三\n402 \n金器盏... ••• • \n壁花纹拓片. "
+      },
+      {
+        "text": "金",
+        "page": 12,
+        "source": "text",
+        "context": "•••• \n图二四五\n411 \n军是、\n金缕玉璜与透.Jt玉琐花纹拓片......"
+      },
+      {
+        "text": "明",
+        "page": 14,
+        "source": "text",
+        "context": "2月，在背灰色土层中又发现一层大石板，\n明显可见是人工铺砌的，石板下还有质地更纯的"
+      },
+      {
+        "text": "明",
+        "page": 14,
+        "source": "text",
+        "context": "军的协助下，进行了仔细的勘察与钻\n探，探明为一大型岩坑竖穴木梓基。\n3月25 日，"
+      },
+      {
+        "text": "清",
+        "page": 14,
+        "source": "text",
+        "context": "具丰富的托板上，钉上了方向牌，以免到室内清理时，弄不清\n方向。\n第三步，\n5月21"
+      },
+      {
+        "text": "清",
+        "page": 14,
+        "source": "text",
+        "context": "上，钉上了方向牌，以免到室内清理时，弄不清\n方向。\n第三步，\n5月21 日-5 月"
+      },
+      {
+        "text": "清",
+        "page": 14,
+        "source": "text",
+        "context": "的东北角，故中室的北部，己塞满淤泥。基坑清理中最艰巨的就\n是清理和取出这些淤泥，工"
+      },
+      {
+        "text": "清",
+        "page": 14,
+        "source": "text",
+        "context": "部，己塞满淤泥。基坑清理中最艰巨的就\n是清理和取出这些淤泥，工作人员为此付出了艰辛"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "text",
+        "context": "• \n4 \n2吉侯乙基\n第四步，清理和取出各室的遗物。\n由于遗物质地的不阂"
+      },
+      {
+        "text": "金",
+        "page": 15,
+        "source": "text",
+        "context": "取出z 而消除淤\n泥、摄影、绘图以及取出金属质、石JIi遗物，叉;需要尽快排除职水"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "text",
+        "context": "29 日开始至6月14 日基本结束。东室清理中最大的难题是如\n何取起基主棺.$先初"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "text",
+        "context": "\n动倒钩，爬L'ê挂钩上的定向检钉，不弄清这些特殊构件p 编钟和挂钩就卸不下来，硬"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "text",
+        "context": "就卸不下来，硬拆\n将使遗物遭到破坏。中窒清理叉-jl售点是遗物品种最多〈礼器、乐器"
+      },
+      {
+        "text": "明",
+        "page": 15,
+        "source": "text",
+        "context": "荔坑中的甲凹片和盘\n托出，在总的图上只注明这一大堆甲宵片的总位置.因为我们技术力量"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "text",
+        "context": "掠，是运至室内以后，组成专门班子单独进行清理的@情理\n前，对基主榕内情况进行了分析"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "text",
+        "context": "了分析，估计到会有哪些葬仪，制定了详细的清理方案，从6 月\n11 日起至6 月14"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "text",
+        "context": "陪葬馆从6 月]9 日起至6 月25 日清理完毕。\n各个室主要遗物取完后，我们把剩"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "text",
+        "context": "\n直到6月28 日才全部做完。至此，因野清理工作基本结束.\n在整个清理过程巾，湖北"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "text",
+        "context": "完。至此，因野清理工作基本结束.\n在整个清理过程巾，湖北电影制片广，湖北电视台，中"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "text",
+        "context": "决定，要保留毡坑现场和榕室，所以当我们弄清了底板铺置情况以\n后，只对底极以下的情况"
+      },
+      {
+        "text": "秦",
+        "page": 15,
+        "source": "text",
+        "context": "那商彬任组长，襄阳\n地区和随县有关负责人秦志维、程运铁及武汉空军后勤部副部长刘梦池"
+      },
+      {
+        "text": "明",
+        "page": 15,
+        "source": "text",
+        "context": "局局\n长〉、王家世〈当地驻军负责人〉、吴明久〈阳县有关负责人〉、张桓〈袭阳地委宣传"
+      },
+      {
+        "text": "金",
+        "page": 15,
+        "source": "text",
+        "context": "部长〉、待最文〈阳县县委立传部部长}、彭金意(武汉大学历史系副主任〉、谭维\n四〈湖"
+      },
+      {
+        "text": "元",
+        "page": 15,
+        "source": "text",
+        "context": "树、\n;豆医、陈振裕、吴捕、王振行、潘炳元、舒之梅、自\n绍芝、陈善惩、李苓、黄鼠春"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "墓葬",
+        "page": 3,
+        "source": "text",
+        "context": "饱经过·川……..川\"…\n第二节\n3 \n墓葬的提现……\n3 \n发掘经过……….. \n"
+      },
+      {
+        "text": "墓葬",
+        "page": 3,
+        "source": "text",
+        "context": "....…... ....….. ( \n墓葬形制\n第二章\n坑...••• ••• •"
+      },
+      {
+        "text": "墓葬",
+        "page": 13,
+        "source": "text",
+        "context": "第一节\n占\n一\n一曰\n墓葬的地理位置与环境\n序\n第→章\n• \n曾侯"
+      },
+      {
+        "text": "墓葬",
+        "page": 14,
+        "source": "text",
+        "context": "\n第一王军\nJ-l: \n宫\n3 \n第二节墓葬的发现与发掘经过\n一、墓葬的发现\n197"
+      },
+      {
+        "text": "墓葬",
+        "page": 14,
+        "source": "text",
+        "context": "\n3 \n第二节墓葬的发现与发掘经过\n一、墓葬的发现\n1977年9 月，中国人民解放军"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "环",
+        "page": 3,
+        "source": "text",
+        "context": ".... ••• ( \n基养的地理位置与环境…...\n~ \n录\n目\n序\n>\n1 \n"
+      },
+      {
+        "text": "鼎",
+        "page": 4,
+        "source": "text",
+        "context": "\n文……·\n一\n-、食器类…川\n·\n一〉鼎...••• • \n' . 〈二3 高，"
+      },
+      {
+        "text": "盘",
+        "page": 4,
+        "source": "text",
+        "context": ".… .. \n川.\". 1 \n〈四〉炉\n盘... ••• ..… ..川.. ••"
+      },
+      {
+        "text": "豆",
+        "page": 4,
+        "source": "text",
+        "context": "\n〈六〉童·川川..••• • \n〈七〉豆... ••• \n〈八〉鼎形器…·….，"
+      },
+      {
+        "text": "鼎",
+        "page": 4,
+        "source": "text",
+        "context": " • \n〈七〉豆... ••• \n〈八〉鼎形器…·….，.. ，. 巾·尸. ，."
+      },
+      {
+        "text": "壶",
+        "page": 4,
+        "source": "text",
+        "context": ". ..川\"…...….川• \n〉联禁大壶... ••• •.•• \n〈三〉提键聋"
+      },
+      {
+        "text": "尊",
+        "page": 4,
+        "source": "text",
+        "context": "\n街. . . ••• ••• \n〈五〉尊\n盘……\n〈六}罐…......••• "
+      },
+      {
+        "text": "盘",
+        "page": 4,
+        "source": "text",
+        "context": ". . . ••• ••• \n〈五〉尊\n盘……\n〈六}罐…......••• .-"
+      },
+      {
+        "text": "罐",
+        "page": 4,
+        "source": "text",
+        "context": "•• ••• \n〈五〉尊\n盘……\n〈六}罐…......••• .-.. \n( 七"
+      },
+      {
+        "text": "鼎",
+        "page": 4,
+        "source": "text",
+        "context": "器类...••• \n235 \n〈一〉小口鼎...••• ••• ••• ..… \n"
+      },
+      {
+        "text": "鼎",
+        "page": 4,
+        "source": "text",
+        "context": "••• ..… \n235 \n〈二)(i\n鼎…….\n238 \n〈三〉盟\n衍.. .."
+      },
+      {
+        "text": "盘",
+        "page": 4,
+        "source": "text",
+        "context": "圆\n鉴... ••• \n240 \n〈五〉盘...••• ••• ••• ••• ."
+      },
+      {
+        "text": "刀",
+        "page": 4,
+        "source": "text",
+        "context": "••• ••• \n250 \n〈九〉口IJ刀·川.. •• \n250 \n〈一0 ) "
+      },
+      {
+        "text": "刀",
+        "page": 4,
+        "source": "text",
+        "context": ". •• \n250 \n〈一0 ) 玉首钢刀...•••• \n252 \n(-一〉木柄"
+      },
+      {
+        "text": "豆",
+        "page": 5,
+        "source": "text",
+        "context": " ••• ••• • \n360 \n〈三〉豆\"…..… ..••• ••• ••• "
+      },
+      {
+        "text": "杯",
+        "page": 5,
+        "source": "text",
+        "context": "...…….. ( 367 \n< 四> 杯...川….. \n川.. ...…. ."
+      },
+      {
+        "text": "杯",
+        "page": 5,
+        "source": "text",
+        "context": ".川..….••• ( 369 \n〈五〉杯形器… .. .....…… .. \n3"
+      },
+      {
+        "text": "罐",
+        "page": 6,
+        "source": "text",
+        "context": "• ...… \n435 \n〈二〉带盖三足罐....-.. .… \n435 \n〈三)"
+      },
+      {
+        "text": "罐",
+        "page": 6,
+        "source": "text",
+        "context": "..-.. .… \n435 \n〈三)三足罐........ •• \n435 \n丝麻"
+      },
+      {
+        "text": "杯",
+        "page": 6,
+        "source": "text",
+        "context": "390 \n〈一〉盏...•••• \n二〉杯…·…….. \n390 \n盏... ••"
+      },
+      {
+        "text": "环",
+        "page": 6,
+        "source": "text",
+        "context": "…· \n( 一〉玉、\n>\n408 \n水晶环…….'..• \n〈二〉玉、\n409 \n"
+      },
+      {
+        "text": "鼎",
+        "page": 7,
+        "source": "text",
+        "context": "~量表…...\n茸茸袭… … 川…\"…\n鼎形器尺寸、\n一\n-\n一\n也\n表\n214 "
+      },
+      {
+        "text": "刀",
+        "page": 7,
+        "source": "text",
+        "context": "\n一\n表\n238 \nftì景表……\n铜削刀尺寸、\n表三四\n261 \n铜较头尺寸表…"
+      },
+      {
+        "text": "盘",
+        "page": 7,
+        "source": "text",
+        "context": "·川·\n表四二\n386 \ni揭届匕含金比盘表.. \n川.. \n…. \n1 \"….."
+      },
+      {
+        "text": "环",
+        "page": 7,
+        "source": "text",
+        "context": "\n编钟阶J备、\n南OWt出土位置与爬虎套环标音对照表…...••• \n一\n二\n表\n"
+      },
+      {
+        "text": "环",
+        "page": 7,
+        "source": "text",
+        "context": "\n二\n表\n130 \n南钟出土位置与双杆套环标音对照表……............."
+      },
+      {
+        "text": "鼎",
+        "page": 7,
+        "source": "text",
+        "context": "....…· \n表二三\n194 \n理量和鼎实情况表... ••• .… \n<\n表二"
+      },
+      {
+        "text": "鼎",
+        "page": 7,
+        "source": "text",
+        "context": " \n来服大平底~IlI)'{寸、\n重量和鼎实情况表…… .. \n表二丑\n>\n197"
+      },
+      {
+        "text": "鼎",
+        "page": 7,
+        "source": "text",
+        "context": " \n重量表...••• •• \nI 式盖鼎尺寸、\n表二六\n204 \nI 式盖鼎所属"
+      },
+      {
+        "text": "鼎",
+        "page": 7,
+        "source": "text",
+        "context": "式盖鼎尺寸、\n表二六\n204 \nI 式盖鼎所属鼎钩尺寸、\n茸茸表……. . .••"
+      },
+      {
+        "text": "鼎",
+        "page": 7,
+        "source": "text",
+        "context": "尺寸、\n表二六\n204 \nI 式盖鼎所属鼎钩尺寸、\n茸茸表……. . .••• •"
+      },
+      {
+        "text": "盘",
+        "page": 7,
+        "source": "text",
+        "context": " ••• .-. \n表二七\n207 \n蓝盘2是… . ..•.• ..… .. \n"
+      },
+      {
+        "text": "尊",
+        "page": 8,
+        "source": "text",
+        "context": "•• \n645 \n附录一四\n曾侯乙葛青铜尊盘铸造工艺的!鉴定...••• ••• "
+      },
+      {
+        "text": "盘",
+        "page": 8,
+        "source": "text",
+        "context": "• \n645 \n附录一四\n曾侯乙葛青铜尊盘铸造工艺的!鉴定...••• ••• \n"
+      },
+      {
+        "text": "尊",
+        "page": 10,
+        "source": "text",
+        "context": "Hl铭文拓Jt .\n图一二六\n228 \n尊C . 38\n国一二七\n230 \n在C "
+      },
+      {
+        "text": "盘",
+        "page": 10,
+        "source": "text",
+        "context": "在C . 38\n图一二八\n232 \n2宇盘之盘C . 38铭文与罐C . 229花"
+      },
+      {
+        "text": "盘",
+        "page": 10,
+        "source": "text",
+        "context": " . 38\n图一二八\n232 \n2宇盘之盘C . 38铭文与罐C . 229花纹拓"
+      },
+      {
+        "text": "罐",
+        "page": 10,
+        "source": "text",
+        "context": "\n232 \n2宇盘之盘C . 38铭文与罐C . 229花纹拓片… ….. . •"
+      },
+      {
+        "text": "罐",
+        "page": 10,
+        "source": "text",
+        "context": "•• ••• ( \n图一二九\n233 \n罐C . 229 . ..... .…\n图"
+      },
+      {
+        "text": "盘",
+        "page": 10,
+        "source": "text",
+        "context": " ... ••• \n固一三八\n242 \n盘与凰……\n回-三九\n2d3 \n盘与阻铭文"
+      },
+      {
+        "text": "盘",
+        "page": 10,
+        "source": "text",
+        "context": "42 \n盘与凰……\n回-三九\n2d3 \n盘与阻铭文拓片……\n图一四O\n2H \n漏铲"
+      },
+      {
+        "text": "刀",
+        "page": 10,
+        "source": "text",
+        "context": ". 168:&其花纹、\n图一四四\n凿与削刀. . .••• ..…… …... •"
+      },
+      {
+        "text": "鼎",
+        "page": 10,
+        "source": "text",
+        "context": "纹拓片…...• \n困八九\n190 \n大鼎C . 96 .......… \n图丸。"
+      },
+      {
+        "text": "鼎",
+        "page": 10,
+        "source": "text",
+        "context": "\n191 \n拙铭文拓片……\n192 \n大鼎C . 97 ……... ••• ..."
+      },
+      {
+        "text": "鼎",
+        "page": 10,
+        "source": "text",
+        "context": ";钩C.155'…… .. \n193 \n鼎钩铭文拓片….. \n图九四\n194 \n来"
+      },
+      {
+        "text": "鼎",
+        "page": 10,
+        "source": "text",
+        "context": "片….. \n图九四\n194 \n来腰大平底鼎C . 89…·\n固九五\n195 \n式盖"
+      },
+      {
+        "text": "鼎",
+        "page": 10,
+        "source": "text",
+        "context": "C . 89…·\n固九五\n195 \n式盖鼎C . 98 (附拥钩〉… …...••"
+      },
+      {
+        "text": "鼎",
+        "page": 10,
+        "source": "text",
+        "context": "• ••• \n图九六\n196 \nI 式盖鼎C . 98铭文拓片...••• ..…"
+      },
+      {
+        "text": "鼎",
+        "page": 10,
+        "source": "text",
+        "context": " l 03…·川…\n困九八\n199 \n盏鼎铭文拓片…...• \n图九九\n200 \n"
+      },
+      {
+        "text": "鼎",
+        "page": 10,
+        "source": "text",
+        "context": ".... \n回一00\n201 \nW 式盖鼎C . 235 .........\n图一"
+      },
+      {
+        "text": "盘",
+        "page": 10,
+        "source": "text",
+        "context": "• ••• ( \n图一0四\n206 \n炉盘C . 197 …. . . ••• ."
+      },
+      {
+        "text": "盘",
+        "page": 10,
+        "source": "text",
+        "context": "••• .-. \n图一C九\n212 \n哉盘豆与盖豆...••• ••• .川\" 川"
+      },
+      {
+        "text": "豆",
+        "page": 10,
+        "source": "text",
+        "context": "•• .-. \n图一C九\n212 \n哉盘豆与盖豆...••• ••• .川\" 川."
+      },
+      {
+        "text": "豆",
+        "page": 10,
+        "source": "text",
+        "context": ".-. \n图一C九\n212 \n哉盘豆与盖豆...••• ••• .川\" 川.. ."
+      },
+      {
+        "text": "豆",
+        "page": 10,
+        "source": "text",
+        "context": "•• ••• ( \n图一一0\n213 \n豆铭文拓片...••• ....…. \n团"
+      },
+      {
+        "text": "鼎",
+        "page": 10,
+        "source": "text",
+        "context": "• ....…. \n团一一一\n214 \n鼎形器与盒...••• ..… \n阁一一二"
+      },
+      {
+        "text": "尊",
+        "page": 10,
+        "source": "text",
+        "context": " ••• \n固一一五\n218 \nE \n大尊1Ji N.5…… .. \n固一一六\n2"
+      },
+      {
+        "text": "尊",
+        "page": 10,
+        "source": "text",
+        "context": ".5…… .. \n固一一六\n219 \n大尊1Ir与联禁大程铭文拓片·川.. •••"
+      },
+      {
+        "text": "壶",
+        "page": 10,
+        "source": "text",
+        "context": "C.135 \nC . 133 、\n联禁大壶C . 132 、\n固一一八\n221 \n"
+      },
+      {
+        "text": "壶",
+        "page": 10,
+        "source": "text",
+        "context": ". 132 、\n固一一八\n221 \n提链壶C . 182……\n团一一九\n222 \n"
+      },
+      {
+        "text": "壶",
+        "page": 10,
+        "source": "text",
+        "context": ". 182……\n团一一九\n222 \n提链壶C . 182花纹与铭文拓片'…·川……"
+      },
+      {
+        "text": "豆",
+        "page": 12,
+        "source": "text",
+        "context": "盒W. 0 . 2\n图二二四\nf雷\n无盖豆….. \n盖豆E . 19 \"…..川…"
+      },
+      {
+        "text": "豆",
+        "page": 12,
+        "source": "text",
+        "context": " 2\n图二二四\nf雷\n无盖豆….. \n盖豆E . 19 \"…..川….. ••• "
+      },
+      {
+        "text": "豆",
+        "page": 12,
+        "source": "text",
+        "context": " ( \n回二二六\n图二二七\n插\n( \n盏豆E . 1l 8……\n370 \n图二二八"
+      },
+      {
+        "text": "杯",
+        "page": 12,
+        "source": "text",
+        "context": " 8……\n370 \n图二二八\n371 \n杯... ••• ..…· \n杯~~器与碗"
+      },
+      {
+        "text": "杯",
+        "page": 12,
+        "source": "text",
+        "context": "371 \n杯... ••• ..…· \n杯~~器与碗形穿孔器...••• \n图二二"
+      },
+      {
+        "text": "碗",
+        "page": 12,
+        "source": "text",
+        "context": "杯... ••• ..…· \n杯~~器与碗形穿孔器...••• \n图二二九\n373"
+      },
+      {
+        "text": "杯",
+        "page": 12,
+        "source": "text",
+        "context": "• .川..... ..... . \n金杯、\n图二四二\n393 \n金漏匕、\n图二四"
+      },
+      {
+        "text": "环",
+        "page": 12,
+        "source": "text",
+        "context": "王挂饰、\n图二四九\n图二三九\n图二四四\n环、\n图二四六\n428 \n王梳与王.片… "
+      },
+      {
+        "text": "环",
+        "page": 13,
+        "source": "text",
+        "context": "第一节\n占\n一\n一曰\n墓葬的地理位置与环境\n序\n第→章\n• \n曾侯乙基位于湖北省"
+      },
+      {
+        "text": "环",
+        "page": 14,
+        "source": "text",
+        "context": "山傍71<，居高脑\n下，视野开阔，\n自然环桂良好〈图-s\n固版一〉。\n东困彼之西，"
+      },
+      {
+        "text": "盘",
+        "page": 15,
+        "source": "text",
+        "context": "做法是，做一个大箱子，把荔坑中的甲凹片和盘\n托出，在总的图上只注明这一大堆甲宵片的"
+      },
+      {
+        "text": "豆",
+        "page": 15,
+        "source": "text",
+        "context": "湖北省博物\n馆的扬艇、梁柱、陈恒树、\n;豆医、陈振裕、吴捕、王振行、潘炳元、舒之梅"
+      },
+      {
+        "text": "豆",
+        "page": 15,
+        "source": "text",
+        "context": "光霞、后德俊、杨权喜、黄文新、朱俊英、哩豆军、\n"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "环",
+        "page": 3,
+        "source": "text",
+        "context": ".... ••• ( \n基养的地理位置与环境…...\n~ \n录\n目\n序\n>\n1 \n"
+      },
+      {
+        "text": "饰",
+        "page": 3,
+        "source": "text",
+        "context": "••• \n-\n-、\n( 一〉结\n26 \n饰……\n28 \n陪葬棺.&.殉狗棺...."
+      },
+      {
+        "text": "饰",
+        "page": 3,
+        "source": "text",
+        "context": " ...… \n-\n一、\n一\n二\n20 \n饰…川\n{二〉纹\n50 \n51 \n发掘组织"
+      },
+      {
+        "text": "饰",
+        "page": 3,
+        "source": "text",
+        "context": "..\n-\n~ 、\n一\n-\n一\n〈二〉纹\n饰·……'....Ift …....,.."
+      },
+      {
+        "text": "钟",
+        "page": 4,
+        "source": "text",
+        "context": "打击乐器....,. ••• \n一〉编\n钟………\n〈二〉编\n串串……·\n55 \n5"
+      },
+      {
+        "text": "饰",
+        "page": 4,
+        "source": "text",
+        "context": "••• ••• ••• ( \n〈三〉纹\n饰... ••• .川. .•.• •.•"
+      },
+      {
+        "text": "鼎",
+        "page": 4,
+        "source": "text",
+        "context": "\n文……·\n一\n-、食器类…川\n·\n一〉鼎...••• • \n' . 〈二3 高，"
+      },
+      {
+        "text": "盘",
+        "page": 4,
+        "source": "text",
+        "context": ".… .. \n川.\". 1 \n〈四〉炉\n盘... ••• ..… ..川.. ••"
+      },
+      {
+        "text": "豆",
+        "page": 4,
+        "source": "text",
+        "context": "\n〈六〉童·川川..••• • \n〈七〉豆... ••• \n〈八〉鼎形器…·….，"
+      },
+      {
+        "text": "鼎",
+        "page": 4,
+        "source": "text",
+        "context": " • \n〈七〉豆... ••• \n〈八〉鼎形器…·….，.. ，. 巾·尸. ，."
+      },
+      {
+        "text": "壶",
+        "page": 4,
+        "source": "text",
+        "context": ". ..川\"…...….川• \n〉联禁大壶... ••• •.•• \n〈三〉提键聋"
+      },
+      {
+        "text": "尊",
+        "page": 4,
+        "source": "text",
+        "context": "\n街. . . ••• ••• \n〈五〉尊\n盘……\n〈六}罐…......••• "
+      },
+      {
+        "text": "盘",
+        "page": 4,
+        "source": "text",
+        "context": ". . . ••• ••• \n〈五〉尊\n盘……\n〈六}罐…......••• .-"
+      },
+      {
+        "text": "罐",
+        "page": 4,
+        "source": "text",
+        "context": "•• ••• \n〈五〉尊\n盘……\n〈六}罐…......••• .-.. \n( 七"
+      },
+      {
+        "text": "鼎",
+        "page": 4,
+        "source": "text",
+        "context": "器类...••• \n235 \n〈一〉小口鼎...••• ••• ••• ..… \n"
+      },
+      {
+        "text": "鼎",
+        "page": 4,
+        "source": "text",
+        "context": "••• ..… \n235 \n〈二)(i\n鼎…….\n238 \n〈三〉盟\n衍.. .."
+      },
+      {
+        "text": "盘",
+        "page": 4,
+        "source": "text",
+        "context": "圆\n鉴... ••• \n240 \n〈五〉盘...••• ••• ••• ••• ."
+      },
+      {
+        "text": "刀",
+        "page": 4,
+        "source": "text",
+        "context": "••• ••• \n250 \n〈九〉口IJ刀·川.. •• \n250 \n〈一0 ) "
+      },
+      {
+        "text": "刀",
+        "page": 4,
+        "source": "text",
+        "context": ". •• \n250 \n〈一0 ) 玉首钢刀...•••• \n252 \n(-一〉木柄"
+      },
+      {
+        "text": "铜凿",
+        "page": 4,
+        "source": "text",
+        "context": "...•••• \n252 \n(-一〉木柄铜凿……\n252 \n第三节\n兵器、车舆、车鸟"
+      },
+      {
+        "text": "豆",
+        "page": 5,
+        "source": "text",
+        "context": " ••• ••• • \n360 \n〈三〉豆\"…..… ..••• ••• ••• "
+      },
+      {
+        "text": "杯",
+        "page": 5,
+        "source": "text",
+        "context": "...…….. ( 367 \n< 四> 杯...川….. \n川.. ...…. ."
+      },
+      {
+        "text": "杯",
+        "page": 5,
+        "source": "text",
+        "context": ".川..….••• ( 369 \n〈五〉杯形器… .. .....…… .. \n3"
+      },
+      {
+        "text": "戈",
+        "page": 5,
+        "source": "text",
+        "context": "第六节\n慕\n乙\n侯\n曾\n4 \n一\n〈一〉戈....川…川川.. \n一\n一一\n253"
+      },
+      {
+        "text": "饰",
+        "page": 5,
+        "source": "text",
+        "context": "\n锦i……\n331 \n〈八〉鸟\n〈九〉鸟饰形器·川……..••• ••• ••• "
+      },
+      {
+        "text": "饰",
+        "page": 6,
+        "source": "text",
+        "context": "••• • \n-L \n，、、\n431 \n饰……..\n一〉角\n431 \n〉角(骨〉珠"
+      },
+      {
+        "text": "罐",
+        "page": 6,
+        "source": "text",
+        "context": "• ...… \n435 \n〈二〉带盖三足罐....-.. .… \n435 \n〈三)"
+      },
+      {
+        "text": "罐",
+        "page": 6,
+        "source": "text",
+        "context": "..-.. .… \n435 \n〈三)三足罐........ •• \n435 \n丝麻"
+      },
+      {
+        "text": "饰",
+        "page": 6,
+        "source": "text",
+        "context": "7 \n器……\"…·\n439 \n〈一〉铜附饰.. .…\n.川…...….川….. \n"
+      },
+      {
+        "text": "饰",
+        "page": 6,
+        "source": "text",
+        "context": ". \n川.. ( 439 \n〈二〉铅锦附饰〈器〉…...• \n442 \n器...."
+      },
+      {
+        "text": "杯",
+        "page": 6,
+        "source": "text",
+        "context": "390 \n〈一〉盏...•••• \n二〉杯…·…….. \n390 \n盏... ••"
+      },
+      {
+        "text": "铜带钩",
+        "page": 6,
+        "source": "text",
+        "context": "器\n399 \n金锚... ....川…\n铜带钩……….. \n399 \n玉、\n(~ )金"
+      },
+      {
+        "text": "带钩",
+        "page": 6,
+        "source": "text",
+        "context": "……….. \n399 \n玉、\n(~ )金带钩…... ••• ..…… \n399 \n"
+      },
+      {
+        "text": "铜带钩",
+        "page": 6,
+        "source": "text",
+        "context": "\n400 \n〈二〉玉带钧…·…\"\n〈三)铜带钩....,.... \n( 401 ) \n"
+      },
+      {
+        "text": "饰",
+        "page": 6,
+        "source": "text",
+        "context": "\n( 401 ) \n402 ) \n石等质饰物……·\n玉、\n一-\n一、\n406 \n("
+      },
+      {
+        "text": "环",
+        "page": 6,
+        "source": "text",
+        "context": "…· \n( 一〉玉、\n>\n408 \n水晶环…….'..• \n〈二〉玉、\n409 \n"
+      },
+      {
+        "text": "饰",
+        "page": 6,
+        "source": "text",
+        "context": "七〉王、\n418 \n〈八〉十六节龙风玉挂饰……...••• ••• .…....."
+      },
+      {
+        "text": "饰",
+        "page": 6,
+        "source": "text",
+        "context": "\n( 三〉玉、\n422 \n423 \n石串饰…...••• ...…….. •• \n"
+      },
+      {
+        "text": "鼎",
+        "page": 7,
+        "source": "text",
+        "context": "~量表…...\n茸茸袭… … 川…\"…\n鼎形器尺寸、\n一\n-\n一\n也\n表\n214 "
+      },
+      {
+        "text": "刀",
+        "page": 7,
+        "source": "text",
+        "context": "\n一\n表\n238 \nftì景表……\n铜削刀尺寸、\n表三四\n261 \n铜较头尺寸表…"
+      },
+      {
+        "text": "饰",
+        "page": 7,
+        "source": "text",
+        "context": "( \n表四一\n302 ) \n323 \n马饰分式件数统计表. .. ••• ..…."
+      },
+      {
+        "text": "带钩",
+        "page": 7,
+        "source": "text",
+        "context": "•• 1.. ...… ( 399 \n金带钩含金比数司经.. .••• ••• .."
+      },
+      {
+        "text": "饰",
+        "page": 7,
+        "source": "text",
+        "context": "织品数最、\n表四九\n438 \n尖齿形铜附饰尺寸在…… .. . ••• .… \n4"
+      },
+      {
+        "text": "饰",
+        "page": 7,
+        "source": "text",
+        "context": "••• .… \n441 \n长方J形彭铜附饰尺寸袭...川…... 1\"… \n.. "
+      },
+      {
+        "text": "饰",
+        "page": 7,
+        "source": "text",
+        "context": ".. ( \n表五一\n441 \n折~形钢附饰尺寸表. ....t ,.. \n表五二\n"
+      },
+      {
+        "text": "饰",
+        "page": 7,
+        "source": "text",
+        "context": ",.. \n表五二\n442 \n不规则形铜附饰尺寸褒·川\"……...••• •• \n表"
+      },
+      {
+        "text": "钟",
+        "page": 7,
+        "source": "text",
+        "context": "铭文释文与考罪罪\"…..……·\n曾侯乙~钟、\n附录二\n532 \n曾侯乙革木炭的鉴定"
+      },
+      {
+        "text": "铜戈",
+        "page": 7,
+        "source": "text",
+        "context": " •• \n附录囚\n铜篮尺寸、\n252 \n铜戈头尺寸表…...….. . 1ft'.."
+      },
+      {
+        "text": "矛",
+        "page": 7,
+        "source": "text",
+        "context": ". 1ft'.. \n表三五\n284 \n钢矛头尺寸我……………...••• \n表三七"
+      },
+      {
+        "text": "盘",
+        "page": 7,
+        "source": "text",
+        "context": "·川·\n表四二\n386 \ni揭届匕含金比盘表.. \n川.. \n…. \n1 \"….."
+      },
+      {
+        "text": "带钩",
+        "page": 7,
+        "source": "text",
+        "context": "器盖、\n表四五\n部分金锚尺寸、\n表四六\n带钩尺寸表…·…川.. \n表四八\n表五O\n4"
+      },
+      {
+        "text": "饰",
+        "page": 7,
+        "source": "text",
+        "context": " \n表四八\n表五O\n441 \n扇}彭铜附饰尺寸表…·\n表五三\n585 \n618 \n"
+      },
+      {
+        "text": "钟",
+        "page": 7,
+        "source": "text",
+        "context": "憔标本尺寸褒·川.. \n表三九\n曾侯乙编钟的化学成分及金相组织分析·川………… ."
+      },
+      {
+        "text": "钟",
+        "page": 7,
+        "source": "text",
+        "context": "• \n九\n表\n117 \n编争Hf阳、\n雨钟音响对照农……...\n表一0\n124 \n"
+      },
+      {
+        "text": "钟",
+        "page": 7,
+        "source": "text",
+        "context": " ...……… <\n表一二\n129 \n编钟阶J备、\n南OWt出土位置与爬虎套环标音"
+      },
+      {
+        "text": "环",
+        "page": 7,
+        "source": "text",
+        "context": "\n编钟阶J备、\n南OWt出土位置与爬虎套环标音对照表…...••• \n一\n二\n表\n"
+      },
+      {
+        "text": "钟",
+        "page": 7,
+        "source": "text",
+        "context": "...••• \n一\n二\n表\n130 \n南钟出土位置与双杆套环标音对照表……...."
+      },
+      {
+        "text": "环",
+        "page": 7,
+        "source": "text",
+        "context": "\n二\n表\n130 \n南钟出土位置与双杆套环标音对照表……............."
+      },
+      {
+        "text": "钟",
+        "page": 7,
+        "source": "text",
+        "context": " ••• ( \n表一五\n131 \n中层雨钟与框架钩标音对照袭…... ...川·\n"
+      },
+      {
+        "text": "鼎",
+        "page": 7,
+        "source": "text",
+        "context": "....…· \n表二三\n194 \n理量和鼎实情况表... ••• .… \n<\n表二"
+      },
+      {
+        "text": "鼎",
+        "page": 7,
+        "source": "text",
+        "context": " \n来服大平底~IlI)'{寸、\n重量和鼎实情况表…… .. \n表二丑\n>\n197"
+      },
+      {
+        "text": "鼎",
+        "page": 7,
+        "source": "text",
+        "context": " \n重量表...••• •• \nI 式盖鼎尺寸、\n表二六\n204 \nI 式盖鼎所属"
+      },
+      {
+        "text": "鼎",
+        "page": 7,
+        "source": "text",
+        "context": "式盖鼎尺寸、\n表二六\n204 \nI 式盖鼎所属鼎钩尺寸、\n茸茸表……. . .••"
+      },
+      {
+        "text": "鼎",
+        "page": 7,
+        "source": "text",
+        "context": "尺寸、\n表二六\n204 \nI 式盖鼎所属鼎钩尺寸、\n茸茸表……. . .••• •"
+      },
+      {
+        "text": "盘",
+        "page": 7,
+        "source": "text",
+        "context": " ••• .-. \n表二七\n207 \n蓝盘2是… . ..•.• ..… .. \n"
+      },
+      {
+        "text": "钟",
+        "page": 8,
+        "source": "text",
+        "context": "'t •• \n624 \n附录八\n曾侯乙编钟的振动模式….. \n630 \n附录九\n曾"
+      },
+      {
+        "text": "饰",
+        "page": 8,
+        "source": "text",
+        "context": "附录一二\n1身位·乙滥1-t铜器组:铜纹饰钝镰泣的研究…·川川.. ••• ..."
+      },
+      {
+        "text": "铜尊",
+        "page": 8,
+        "source": "text",
+        "context": "••• \n645 \n附录一四\n曾侯乙葛青铜尊盘铸造工艺的!鉴定...••• ••• "
+      },
+      {
+        "text": "盘",
+        "page": 8,
+        "source": "text",
+        "context": "• \n645 \n附录一四\n曾侯乙葛青铜尊盘铸造工艺的!鉴定...••• ••• \n"
+      },
+      {
+        "text": "钟",
+        "page": 9,
+        "source": "text",
+        "context": "13 \n)jt \n吕\n图\n报\n>\n钮钟〈上. 1. 3 ) …· \n图五六\n1"
+      },
+      {
+        "text": "钟",
+        "page": 9,
+        "source": "text",
+        "context": ". 3 ) …· \n图五六\n106 \n编钟悬挂示意图…... ••• \n图五七\n1"
+      },
+      {
+        "text": "钟",
+        "page": 9,
+        "source": "text",
+        "context": "••• •• \n回三六(C)\n72 \n编钟主E架情况川…\n图三七\n>\n76 \n编争"
+      },
+      {
+        "text": "钟",
+        "page": 9,
+        "source": "text",
+        "context": "••• ••• ( \n困三八\nr7 \n编钟架下层铜人柱川\"… ..…… . . •"
+      },
+      {
+        "text": "钟",
+        "page": 9,
+        "source": "text",
+        "context": "....... ( \n圈三九\n79 \n编钟架固立柱…… ... ••• ..…… "
+      },
+      {
+        "text": "钟",
+        "page": 9,
+        "source": "text",
+        "context": " ••• ..…… \n81 \n82 \n编钟架棋梁装套示意图……... ••• ••"
+      },
+      {
+        "text": "钟",
+        "page": 9,
+        "source": "text",
+        "context": "• ••• ••• ••• ••• \n编钟架横梁花纹阁…... ••• ••• •"
+      },
+      {
+        "text": "钟",
+        "page": 9,
+        "source": "text",
+        "context": ".. ••• ••• •• \n83 \n编钟架中层钢人柱…...••• ••• • "
+      },
+      {
+        "text": "钟",
+        "page": 9,
+        "source": "text",
+        "context": "..••• ••• • \n>\n85 \n憾钟(下. 2 . 6)铭文拓片…...\n8"
+      },
+      {
+        "text": "钟",
+        "page": 9,
+        "source": "text",
+        "context": "2 . 6)铭文拓片…...\n87 \n编钟各部位名称图.. .••• \n图四五\n8"
+      },
+      {
+        "text": "钟",
+        "page": 9,
+        "source": "text",
+        "context": " 式雨钊1花纹拓片……\n100 \nE式雨钟花纹拓片…… m ……………. ...."
+      },
+      {
+        "text": "钟",
+        "page": 9,
+        "source": "text",
+        "context": " .. \n固五O\n( 101 \nE 式商钟缸中两侧花纹拓片...••• ••• •"
+      },
+      {
+        "text": "钟",
+        "page": 9,
+        "source": "text",
+        "context": "••• ••• • \n102 \nE 式南钟饪中两侧花纹拓片….....….. ••"
+      },
+      {
+        "text": "钟",
+        "page": 9,
+        "source": "text",
+        "context": ".. •• \n图五二\n103 \nE 式雨钟缸中两侧./t.纹拓片…...\n回五三\n"
+      },
+      {
+        "text": "钟",
+        "page": 9,
+        "source": "text",
+        "context": "三五\n图四0\n阁囚一\n回四二\n84 \n编钟商架中层辙梁原有使用痕迹...••• •"
+      },
+      {
+        "text": "钟",
+        "page": 9,
+        "source": "text",
+        "context": "•• ••• \n剧四三\n图四四\nI 式需钟(下. 1 . 1 ) ••••••••"
+      },
+      {
+        "text": "钟",
+        "page": 9,
+        "source": "text",
+        "context": "阻四六\n回四七\n阁四九\n因五一\nE 式雨钟缸中两侧花纹拓片·….. \n困五四\n回五"
+      },
+      {
+        "text": "尊",
+        "page": 10,
+        "source": "text",
+        "context": "Hl铭文拓Jt .\n图一二六\n228 \n尊C . 38\n国一二七\n230 \n在C "
+      },
+      {
+        "text": "盘",
+        "page": 10,
+        "source": "text",
+        "context": "在C . 38\n图一二八\n232 \n2宇盘之盘C . 38铭文与罐C . 229花"
+      },
+      {
+        "text": "盘",
+        "page": 10,
+        "source": "text",
+        "context": " . 38\n图一二八\n232 \n2宇盘之盘C . 38铭文与罐C . 229花纹拓"
+      },
+      {
+        "text": "罐",
+        "page": 10,
+        "source": "text",
+        "context": "\n232 \n2宇盘之盘C . 38铭文与罐C . 229花纹拓片… ….. . •"
+      },
+      {
+        "text": "罐",
+        "page": 10,
+        "source": "text",
+        "context": "•• ••• ( \n图一二九\n233 \n罐C . 229 . ..... .…\n图"
+      },
+      {
+        "text": "盘",
+        "page": 10,
+        "source": "text",
+        "context": " ... ••• \n固一三八\n242 \n盘与凰……\n回-三九\n2d3 \n盘与阻铭文"
+      },
+      {
+        "text": "盘",
+        "page": 10,
+        "source": "text",
+        "context": "42 \n盘与凰……\n回-三九\n2d3 \n盘与阻铭文拓片……\n图一四O\n2H \n漏铲"
+      },
+      {
+        "text": "凿",
+        "page": 10,
+        "source": "text",
+        "context": "冀C . 168:&其花纹、\n图一四四\n凿与削刀. . .••• ..…… ….."
+      },
+      {
+        "text": "刀",
+        "page": 10,
+        "source": "text",
+        "context": ". 168:&其花纹、\n图一四四\n凿与削刀. . .••• ..…… …... •"
+      },
+      {
+        "text": "戈",
+        "page": 10,
+        "source": "text",
+        "context": ".....…. \n阁一囚，匕\n251 \n戈N .\n回一四八\n253 \n218 …."
+      },
+      {
+        "text": "戈",
+        "page": 10,
+        "source": "text",
+        "context": "\n253 \n218 …... ... \n戈. . . ••• \n255 \n戈铭文拓"
+      },
+      {
+        "text": "戈",
+        "page": 10,
+        "source": "text",
+        "context": ". \n戈. . . ••• \n255 \n戈铭文拓片...……...• \n圈一五O\n"
+      },
+      {
+        "text": "戈",
+        "page": 10,
+        "source": "text",
+        "context": "..……...• \n圈一五O\n256 \n戈铭文拓片... ••• ••• ••• "
+      },
+      {
+        "text": "戈",
+        "page": 10,
+        "source": "text",
+        "context": "•• ..… … \n图一五一\n257 \n戈铭文拓片.. .••• ••• ••• "
+      },
+      {
+        "text": "戈",
+        "page": 10,
+        "source": "text",
+        "context": "• ••• .川…川.. ( 258 \n戈川.. \n图一五二\n回一五三\n圈一二二\n"
+      },
+      {
+        "text": "鼎",
+        "page": 10,
+        "source": "text",
+        "context": "纹拓片…...• \n困八九\n190 \n大鼎C . 96 .......… \n图丸。"
+      },
+      {
+        "text": "鼎",
+        "page": 10,
+        "source": "text",
+        "context": "\n191 \n拙铭文拓片……\n192 \n大鼎C . 97 ……... ••• ..."
+      },
+      {
+        "text": "鼎",
+        "page": 10,
+        "source": "text",
+        "context": ";钩C.155'…… .. \n193 \n鼎钩铭文拓片….. \n图九四\n194 \n来"
+      },
+      {
+        "text": "鼎",
+        "page": 10,
+        "source": "text",
+        "context": "片….. \n图九四\n194 \n来腰大平底鼎C . 89…·\n固九五\n195 \n式盖"
+      },
+      {
+        "text": "鼎",
+        "page": 10,
+        "source": "text",
+        "context": "C . 89…·\n固九五\n195 \n式盖鼎C . 98 (附拥钩〉… …...••"
+      },
+      {
+        "text": "鼎",
+        "page": 10,
+        "source": "text",
+        "context": "• ••• \n图九六\n196 \nI 式盖鼎C . 98铭文拓片...••• ..…"
+      },
+      {
+        "text": "鼎",
+        "page": 10,
+        "source": "text",
+        "context": " l 03…·川…\n困九八\n199 \n盏鼎铭文拓片…...• \n图九九\n200 \n"
+      },
+      {
+        "text": "鼎",
+        "page": 10,
+        "source": "text",
+        "context": ".... \n回一00\n201 \nW 式盖鼎C . 235 .........\n图一"
+      },
+      {
+        "text": "盘",
+        "page": 10,
+        "source": "text",
+        "context": "• ••• ( \n图一0四\n206 \n炉盘C . 197 …. . . ••• ."
+      },
+      {
+        "text": "盘",
+        "page": 10,
+        "source": "text",
+        "context": "••• .-. \n图一C九\n212 \n哉盘豆与盖豆...••• ••• .川\" 川"
+      },
+      {
+        "text": "豆",
+        "page": 10,
+        "source": "text",
+        "context": "•• .-. \n图一C九\n212 \n哉盘豆与盖豆...••• ••• .川\" 川."
+      },
+      {
+        "text": "豆",
+        "page": 10,
+        "source": "text",
+        "context": ".-. \n图一C九\n212 \n哉盘豆与盖豆...••• ••• .川\" 川.. ."
+      },
+      {
+        "text": "豆",
+        "page": 10,
+        "source": "text",
+        "context": "•• ••• ( \n图一一0\n213 \n豆铭文拓片...••• ....…. \n团"
+      },
+      {
+        "text": "鼎",
+        "page": 10,
+        "source": "text",
+        "context": "• ....…. \n团一一一\n214 \n鼎形器与盒...••• ..… \n阁一一二"
+      },
+      {
+        "text": "尊",
+        "page": 10,
+        "source": "text",
+        "context": " ••• \n固一一五\n218 \nE \n大尊1Ji N.5…… .. \n固一一六\n2"
+      },
+      {
+        "text": "尊",
+        "page": 10,
+        "source": "text",
+        "context": ".5…… .. \n固一一六\n219 \n大尊1Ir与联禁大程铭文拓片·川.. •••"
+      },
+      {
+        "text": "壶",
+        "page": 10,
+        "source": "text",
+        "context": "C.135 \nC . 133 、\n联禁大壶C . 132 、\n固一一八\n221 \n"
+      },
+      {
+        "text": "壶",
+        "page": 10,
+        "source": "text",
+        "context": ". 132 、\n固一一八\n221 \n提链壶C . 182……\n团一一九\n222 \n"
+      },
+      {
+        "text": "壶",
+        "page": 10,
+        "source": "text",
+        "context": ". 182……\n团一一九\n222 \n提链壶C . 182花纹与铭文拓片'…·川……"
+      },
+      {
+        "text": "矛",
+        "page": 11,
+        "source": "text",
+        "context": "...••• ••• \n283 \n短杆粗矛E . 123 .......…川.. "
+      },
+      {
+        "text": "矛",
+        "page": 11,
+        "source": "text",
+        "context": " ••• ..……… \n288 \n长杆细矛..….川.. \n川.. ..川\"….."
+      },
+      {
+        "text": "镜",
+        "page": 11,
+        "source": "text",
+        "context": ".……· \n297 \n双翼形、圆锥形、方镜形曾在………………… m ………\n299"
+      },
+      {
+        "text": "矛",
+        "page": 11,
+        "source": "text",
+        "context": ".……\n317 >\n图一九五\n多梭形与微矛形车售花纹拓片……\n318 \n图一九六\n"
+      },
+      {
+        "text": "矛",
+        "page": 11,
+        "source": "text",
+        "context": "••• \n322 ) \n剧一九九\n.iW矛:$.鲁….. . 1 f t • • "
+      },
+      {
+        "text": "矛",
+        "page": 11,
+        "source": "text",
+        "context": "• 1-1… \n324 \n图二00\n斗符矛辛苦N . 142 : 2花纹拓片\n32"
+      },
+      {
+        "text": "饰",
+        "page": 11,
+        "source": "text",
+        "context": "•• ••• ( 327 \n图二O二\n马饰与马饰形器……·\n329 \n图二O三\n马"
+      },
+      {
+        "text": "饰",
+        "page": 11,
+        "source": "text",
+        "context": "••• ( 327 \n图二O二\n马饰与马饰形器……·\n329 \n图二O三\n马饰花纹"
+      },
+      {
+        "text": "饰",
+        "page": 11,
+        "source": "text",
+        "context": "与马饰形器……·\n329 \n图二O三\n马饰花纹拓片……川... ••• ••• \n"
+      },
+      {
+        "text": "饰",
+        "page": 12,
+        "source": "text",
+        "context": "9 \n录\n自\n图\n插\n>\n440 \n铜附饰...••• ...…... •. \n图"
+      },
+      {
+        "text": "饰",
+        "page": 12,
+        "source": "text",
+        "context": "... •. \n图二五四\n4盈4\n铅锡附饰·….. \n图二五五\n446 \n铅锡附饰"
+      },
+      {
+        "text": "饰",
+        "page": 12,
+        "source": "text",
+        "context": "饰·….. \n图二五五\n446 \n铅锡附饰…………\n图二五六\n449 \n骨'镶E "
+      },
+      {
+        "text": "钟",
+        "page": 12,
+        "source": "text",
+        "context": ". (\n国二六O\n附录二=\n561 \n编钟0 . 65 . 下. 1. 1 铭文拓"
+      },
+      {
+        "text": "钟",
+        "page": 12,
+        "source": "text",
+        "context": "\n图三\n564 \n娃铭文拓片川...\n编钟0 . 65 . 下.1. 2架、\n图四"
+      },
+      {
+        "text": "钟",
+        "page": 12,
+        "source": "text",
+        "context": "...川川..••• .….. ( \n编钟C . 6 5 . 下. 1 . 3架、"
+      },
+      {
+        "text": "钟",
+        "page": 12,
+        "source": "text",
+        "context": "\n567 \n挂铭文拓片... •• \n编钟0 . 65 . 下. 2 . 6架、\n"
+      },
+      {
+        "text": "钟",
+        "page": 12,
+        "source": "text",
+        "context": "••• ••• ••• ••• ( \n编钟0 . 65 .下. 2 . 9- 10"
+      },
+      {
+        "text": "钟",
+        "page": 12,
+        "source": "text",
+        "context": ".….. I. t ..……. ( \n编钟0.65 . 中. 1. 3-5架、\n一"
+      },
+      {
+        "text": "钟",
+        "page": 12,
+        "source": "text",
+        "context": "••• ••• ••• ••• ( \n编钟0 . 65 . 中. 1 . 6-8架"
+      },
+      {
+        "text": "钟",
+        "page": 12,
+        "source": "text",
+        "context": "••• ••• .., 1\" \n( \n编钟0 . 65 . 中.1. 9-11架、"
+      },
+      {
+        "text": "钟",
+        "page": 12,
+        "source": "text",
+        "context": "四\n一\n图\n573 \n挂铭文拓片……\n编钟0 . 65 . 中. 2 . ~-6架"
+      },
+      {
+        "text": "钟",
+        "page": 12,
+        "source": "text",
+        "context": "\n图\n574 \n挂铭文拓片- .……\n编钟0.65 . 中. 2 .7-9架、\n."
+      },
+      {
+        "text": "钟",
+        "page": 12,
+        "source": "text",
+        "context": "••• ••• ••• ••• ( \n编钟0 . 65 . 中. 2 . 10-1"
+      },
+      {
+        "text": "钟",
+        "page": 12,
+        "source": "text",
+        "context": ".. ••• ••• .….. ( \n编钟0 . 65 . 中.3.4-6架、\n一"
+      },
+      {
+        "text": "钟",
+        "page": 12,
+        "source": "text",
+        "context": "•• ••• ••• ...… ( \n编钟0 . 65 . 中. 3 . 7- 9"
+      },
+      {
+        "text": "豆",
+        "page": 12,
+        "source": "text",
+        "context": "盒W. 0 . 2\n图二二四\nf雷\n无盖豆….. \n盖豆E . 19 \"…..川…"
+      },
+      {
+        "text": "豆",
+        "page": 12,
+        "source": "text",
+        "context": " 2\n图二二四\nf雷\n无盖豆….. \n盖豆E . 19 \"…..川….. ••• "
+      },
+      {
+        "text": "豆",
+        "page": 12,
+        "source": "text",
+        "context": " ( \n回二二六\n图二二七\n插\n( \n盏豆E . 1l 8……\n370 \n图二二八"
+      },
+      {
+        "text": "杯",
+        "page": 12,
+        "source": "text",
+        "context": " 8……\n370 \n图二二八\n371 \n杯... ••• ..…· \n杯~~器与碗"
+      },
+      {
+        "text": "杯",
+        "page": 12,
+        "source": "text",
+        "context": "371 \n杯... ••• ..…· \n杯~~器与碗形穿孔器...••• \n图二二"
+      },
+      {
+        "text": "带钩",
+        "page": 12,
+        "source": "text",
+        "context": " 2……….. \n图二四一\n392 \n金带钩与铜带钩...••• .川..... ."
+      },
+      {
+        "text": "铜带钩",
+        "page": 12,
+        "source": "text",
+        "context": "…….. \n图二四一\n392 \n金带钩与铜带钩...••• .川..... ....."
+      },
+      {
+        "text": "杯",
+        "page": 12,
+        "source": "text",
+        "context": "• .川..... ..... . \n金杯、\n图二四二\n393 \n金漏匕、\n图二四"
+      },
+      {
+        "text": "饰",
+        "page": 12,
+        "source": "text",
+        "context": "••• ••• ••• •• \n龙凤王挂饰、\n图二四九\n图二三九\n图二四四\n环、\n"
+      },
+      {
+        "text": "环",
+        "page": 12,
+        "source": "text",
+        "context": "王挂饰、\n图二四九\n图二三九\n图二四四\n环、\n图二四六\n428 \n王梳与王.片… "
+      },
+      {
+        "text": "环",
+        "page": 13,
+        "source": "text",
+        "context": "第一节\n占\n一\n一曰\n墓葬的地理位置与环境\n序\n第→章\n• \n曾侯乙基位于湖北省"
+      },
+      {
+        "text": "环",
+        "page": 14,
+        "source": "text",
+        "context": "山傍71<，居高脑\n下，视野开阔，\n自然环桂良好〈图-s\n固版一〉。\n东困彼之西，"
+      },
+      {
+        "text": "矛",
+        "page": 15,
+        "source": "text",
+        "context": "Ii遗物，叉;需要尽快排除职水。两者互有矛盾，处\n理不当，就会欲速则不达。要做到既"
+      },
+      {
+        "text": "泡",
+        "page": 15,
+        "source": "text",
+        "context": "难以保护的添木质决迪物，不断洒\n水业用温泡沫盟料和塑料吕n虫.i!re护。到·不同"
+      },
+      {
+        "text": "钟",
+        "page": 15,
+        "source": "text",
+        "context": "7 日结束。其中难度最大的是取出全套\n编钟、编费和一些大型脊铜器。编钟挂钩中有些特"
+      },
+      {
+        "text": "钟",
+        "page": 15,
+        "source": "text",
+        "context": "取出全套\n编钟、编费和一些大型脊铜器。编钟挂钩中有些特殊构件，如中层框架挂钩插~上"
+      },
+      {
+        "text": "钟",
+        "page": 15,
+        "source": "text",
+        "context": "钩上的定向检钉，不弄清这些特殊构件p 编钟和挂钩就卸不下来，硬拆\n将使遗物遭到破坏"
+      },
+      {
+        "text": "盘",
+        "page": 15,
+        "source": "text",
+        "context": "做法是，做一个大箱子，把荔坑中的甲凹片和盘\n托出，在总的图上只注明这一大堆甲宵片的"
+      },
+      {
+        "text": "豆",
+        "page": 15,
+        "source": "text",
+        "context": "湖北省博物\n馆的扬艇、梁柱、陈恒树、\n;豆医、陈振裕、吴捕、王振行、潘炳元、舒之梅"
+      },
+      {
+        "text": "豆",
+        "page": 15,
+        "source": "text",
+        "context": "光霞、后德俊、杨权喜、黄文新、朱俊英、哩豆军、\n"
+      }
+    ],
+    "葬具": [
+      {
+        "text": "棺",
+        "page": 3,
+        "source": "text",
+        "context": "6 \n基主掠……...\n第三节\n19 \n棺.................\n外\n"
+      },
+      {
+        "text": "棺",
+        "page": 3,
+        "source": "text",
+        "context": " \n构\"…·\n一\n、\n〈一〉结\n25 \n棺......... .川…..••• ."
+      },
+      {
+        "text": "棺",
+        "page": 3,
+        "source": "text",
+        "context": "( 一〉结\n26 \n饰……\n28 \n陪葬棺.&.殉狗棺........…… \n第四"
+      },
+      {
+        "text": "棺",
+        "page": 3,
+        "source": "text",
+        "context": "26 \n饰……\n28 \n陪葬棺.&.殉狗棺........…… \n第四节\n45 \n"
+      },
+      {
+        "text": "棺",
+        "page": 3,
+        "source": "text",
+        "context": "......…… \n第四节\n45 \n陪葬棺...•••••• \n45 \n形… ……"
+      },
+      {
+        "text": "棺",
+        "page": 4,
+        "source": "text",
+        "context": ". \n2 \nt雪\nf走\n乙\n3在\n殉狗棺'ft ••• ••• \n-\n- 、\n黯"
+      },
+      {
+        "text": "棺",
+        "page": 8,
+        "source": "text",
+        "context": "回… 川. ..\n22 \n圄一四\n基主外棺壁板花纹阁… ...,..…. ••• "
+      },
+      {
+        "text": "棺",
+        "page": 8,
+        "source": "text",
+        "context": "••• ••• \n24 \n图一五\n在主外棺足挡花纹固……\n·\n25 \n图一六\n斟主"
+      },
+      {
+        "text": "棺",
+        "page": 8,
+        "source": "text",
+        "context": "••• ••• \n30 \n图一九\n在主内棺足挡花纹分组部位示意图…………·\n33 "
+      },
+      {
+        "text": "棺",
+        "page": 8,
+        "source": "text",
+        "context": "• ••••• \n36 \n因二二\n在主内棺东俱i壁板花纹固……\n39 \n图二三\n陪"
+      },
+      {
+        "text": "棺",
+        "page": 9,
+        "source": "text",
+        "context": " ... \n固三二(8)\n64 \n基主内棺盖上器物分布阁……...••• •• \n"
+      },
+      {
+        "text": "棺",
+        "page": 9,
+        "source": "text",
+        "context": "...••• •• \n回三三\n>\n基主内棺第一层器物分布图.. \n….川...…."
+      },
+      {
+        "text": "棺",
+        "page": 9,
+        "source": "text",
+        "context": "……川.. ••• • \n国二八\n基主内棺第二层器物分布图… ... ••• ••"
+      },
+      {
+        "text": "棺",
+        "page": 14,
+        "source": "text",
+        "context": "，四~*面相同.东宝水面上浮起八\n具陪葬棺，西室水面上浮起两具陪葬棺。这些粮或1J"
+      },
+      {
+        "text": "棺",
+        "page": 14,
+        "source": "text",
+        "context": "浮起八\n具陪葬棺，西室水面上浮起两具陪葬棺。这些粮或1Jl1倾，或{部翻，有的盖身"
+      },
+      {
+        "text": "棺",
+        "page": 14,
+        "source": "text",
+        "context": "，仅有\n少数正宜。利用水的浮jJ取水面的棺，这对文物的安全是非常有利的。我们的作法"
+      },
+      {
+        "text": "棺",
+        "page": 14,
+        "source": "text",
+        "context": "搁系好，这样用吊车起吊时就非常安稳。\n当棺一出水面，我们还在每具丰富的托板上，钉上"
+      },
+      {
+        "text": "棺",
+        "page": 15,
+        "source": "text",
+        "context": "束。东室清理中最大的难题是如\n何取起基主棺.$先初步估算，基主内外棺总重4吨左右，"
+      },
+      {
+        "text": "棺",
+        "page": 15,
+        "source": "text",
+        "context": "如\n何取起基主棺.$先初步估算，基主内外棺总重4吨左右，故做了一个能辑茧5吨的平板"
+      },
+      {
+        "text": "棺",
+        "page": 15,
+        "source": "text",
+        "context": "复原工作。\n西室情理主要为吊取十三具陪葬棺，除浮于水商的两具榕已先行取出外，其余粮"
+      },
+      {
+        "text": "棺",
+        "page": 15,
+        "source": "text",
+        "context": "~\nFf\n言\n.\n，\n饨\nU\nW\n基主内棺和一些陪葬掠，是运至室内以后，组成专门班"
+      }
+    ],
+    "漆器": [
+      {
+        "text": "漆器",
+        "page": 5,
+        "source": "text",
+        "context": "•• ...…· \n〈五〉竹\n387 \n漆器特JE --\n一-\n- 、\n387 \n3"
+      }
+    ],
+    "遗址名称": [
+      {
+        "text": "东周",
+        "page": 6,
+        "source": "text",
+        "context": "..川.. (\n年\n第二节\n465 \n为东周考古学研究提供了新的实例........"
+      },
+      {
+        "text": "曾侯乙",
+        "page": 7,
+        "source": "text",
+        "context": "•• •• \n表五四\n442 \n录\n附\n曾侯乙基竹简f将罪文与考牵将非...川.. \n"
+      },
+      {
+        "text": "曾侯乙",
+        "page": 7,
+        "source": "text",
+        "context": "7 \n屠铭文释文与考罪罪\"…..……·\n曾侯乙~钟、\n附录二\n532 \n曾侯乙革木炭的"
+      },
+      {
+        "text": "曾侯乙",
+        "page": 7,
+        "source": "text",
+        "context": "……·\n曾侯乙~钟、\n附录二\n532 \n曾侯乙革木炭的鉴定...…·………\n附录三\n5"
+      },
+      {
+        "text": "曾侯乙",
+        "page": 7,
+        "source": "text",
+        "context": "鉴定...…·………\n附录三\n583 \n曾侯乙辜人骨研究……川... ••• •• \n"
+      },
+      {
+        "text": "曾侯乙",
+        "page": 7,
+        "source": "text",
+        "context": "\n各式简憔标本尺寸褒·川.. \n表三九\n曾侯乙编钟的化学成分及金相组织分析·川…………"
+      },
+      {
+        "text": "曾侯乙",
+        "page": 8,
+        "source": "text",
+        "context": "•• ...…… ( 621 \n附录七\n曾侯乙编~II结构的探讨. . .••• ••"
+      },
+      {
+        "text": "曾侯乙",
+        "page": 8,
+        "source": "text",
+        "context": ".t I't •• \n624 \n附录八\n曾侯乙编钟的振动模式….. \n630 \n附录九"
+      },
+      {
+        "text": "曾侯乙",
+        "page": 8,
+        "source": "text",
+        "context": "钟的振动模式….. \n630 \n附录九\n曾侯乙编磐磐块的岩相分析鉴定报告... .……"
+      },
+      {
+        "text": "曾侯乙",
+        "page": 8,
+        "source": "text",
+        "context": ".………川….. \n633 \n附录一0\n曾侯乙基出土青铜器的无损检测……….. \n63"
+      },
+      {
+        "text": "曾侯乙",
+        "page": 8,
+        "source": "text",
+        "context": "损检测……….. \n636 \n附录一一\n曾侯乙基部分管铜器卫金属弹挠的化学成分检测……"
+      },
+      {
+        "text": "曾侯乙",
+        "page": 8,
+        "source": "text",
+        "context": "....... { 640 \n附录一三\n曾侯乙基í~铜器所用低熔点鲜料化学成分的检测\""
+      },
+      {
+        "text": "曾侯乙",
+        "page": 8,
+        "source": "text",
+        "context": " ••• ••• \n645 \n附录一四\n曾侯乙葛青铜尊盘铸造工艺的!鉴定...••• "
+      },
+      {
+        "text": "曾侯乙",
+        "page": 8,
+        "source": "text",
+        "context": ".••• ••• \n646 \n附录一五\n曾侯乙基背铜器表面花纹内填克物试析.. \n川."
+      },
+      {
+        "text": "曾侯乙",
+        "page": 8,
+        "source": "text",
+        "context": "!在寇川…·川..\n651 \n附录一八\n曾侯乙基出土鱼骨的鉴定川·川......….."
+      },
+      {
+        "text": "曾侯乙",
+        "page": 8,
+        "source": "text",
+        "context": ". ..•••• \n655 \n附录二O\n曾侯乙基山土皮革的鉴定…………·川…\n656 "
+      },
+      {
+        "text": "曾侯乙",
+        "page": 8,
+        "source": "text",
+        "context": "鉴定…………·川…\n656 \n附录二一\n曾侯乙基部分玉器、料器的鉴定...••• ••"
+      },
+      {
+        "text": "曾侯乙",
+        "page": 8,
+        "source": "text",
+        "context": "荔位置图.. . ••• \n1 \n图二\n曾侯乙基附近地形图.. .,.. \n2 \n>\n"
+      },
+      {
+        "text": "曾侯乙",
+        "page": 8,
+        "source": "text",
+        "context": "••••••••••• \n8 >\n图五\n曾侯乙基平、剖面回. ....t ..…. •"
+      },
+      {
+        "text": "曾侯乙",
+        "page": 13,
+        "source": "text",
+        "context": "墓葬的地理位置与环境\n序\n第→章\n• \n曾侯乙基位于湖北省随县城关锁商北郊擂鼓墩附近。"
+      },
+      {
+        "text": "擂鼓墩",
+        "page": 13,
+        "source": "text",
+        "context": "• \n曾侯乙基位于湖北省随县城关锁商北郊擂鼓墩附近。原编号为随县擂鼓墩一号基\n〈图一〉"
+      },
+      {
+        "text": "擂鼓墩",
+        "page": 13,
+        "source": "text",
+        "context": "随县城关锁商北郊擂鼓墩附近。原编号为随县擂鼓墩一号基\n〈图一〉。\n~t \n~侯乙;;;"
+      },
+      {
+        "text": "曾侯乙",
+        "page": 13,
+        "source": "text",
+        "context": "• \n黄i{ !t\na \n指簸埋k• \n曾侯乙摹一-\n(M 1 ) \n9 \n_ \n上嗨"
+      },
+      {
+        "text": "曾侯乙",
+        "page": 14,
+        "source": "text",
+        "context": "2 \n曾侯乙基\n随县~(今随州市)1) 在湖北的中北"
+      },
+      {
+        "text": "随州",
+        "page": 14,
+        "source": "text",
+        "context": "2 \n曾侯乙基\n随县~(今随州市)1) 在湖北的中北部，长江之北，汉水"
+      },
+      {
+        "text": "曾侯乙",
+        "page": 14,
+        "source": "text",
+        "context": "众称为东团敏，高出河旁\n平地约20余米，曾侯乙基即座落在这里。墓的东面相距约700米有"
+      },
+      {
+        "text": "擂鼓墩",
+        "page": 14,
+        "source": "text",
+        "context": "西团拔，1981年\n7月P 在这里去掘了擂鼓墩二号事〈困二)\n，韭在《文物)) 198"
+      },
+      {
+        "text": "曾侯乙",
+        "page": 14,
+        "source": "text",
+        "context": "5年第1期上发表了简报。\n50 \n阁二\n曾侯乙塞附近地形图\n1 )隧丢缘~..\n198"
+      },
+      {
+        "text": "随州",
+        "page": 14,
+        "source": "text",
+        "context": "州市.\n1982年回务院决定级铺穗罢并入随州市.\n第一王军\nJ-l: \n宫\n3 \n第"
+      },
+      {
+        "text": "岗上",
+        "page": 14,
+        "source": "text",
+        "context": "进行土地平整，在东\n团披红色砂翁的UI 岗上，发现一片青灰色土，疑为古莓，当HlIl"
+      },
+      {
+        "text": "曾侯乙",
+        "page": 15,
+        "source": "text",
+        "context": "棒拆除，木梓以外的木\n炭也就没有取出.\n曾侯乙葛的'/).掘，\n自始至终得到各级政府的"
+      },
+      {
+        "text": "擂鼓墩",
+        "page": 15,
+        "source": "text",
+        "context": "化局及有关单位负责同志组成的\"湖北省随县擂鼓墩古墓发\n摇领导小组n 具体领导下进行的."
+      }
+    ],
+    "金器": [
+      {
+        "text": "金带",
+        "page": 6,
+        "source": "text",
+        "context": "钩……….. \n399 \n玉、\n(~ )金带钩…... ••• ..…… \n399 "
+      },
+      {
+        "text": "金带",
+        "page": 7,
+        "source": "text",
+        "context": "••• 1.. ...… ( 399 \n金带钩含金比数司经.. .••• ••• ."
+      },
+      {
+        "text": "金带",
+        "page": 12,
+        "source": "text",
+        "context": ". 2……….. \n图二四一\n392 \n金带钩与铜带钩...••• .川..... "
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "竹简",
+        "page": 7,
+        "source": "text",
+        "context": "• \n表五四\n442 \n录\n附\n曾侯乙基竹简f将罪文与考牵将非...川.. \n川.."
+      },
+      {
+        "text": "木炭",
+        "page": 7,
+        "source": "text",
+        "context": "曾侯乙~钟、\n附录二\n532 \n曾侯乙革木炭的鉴定...…·………\n附录三\n583 "
+      },
+      {
+        "text": "人骨",
+        "page": 7,
+        "source": "text",
+        "context": ".…·………\n附录三\n583 \n曾侯乙辜人骨研究……川... ••• •• \n附录囚"
+      },
+      {
+        "text": "人骨",
+        "page": 8,
+        "source": "text",
+        "context": "46 \n图二四\nW . C . l结构、人骨架与花纹固... ••• .……川川…."
+      },
+      {
+        "text": "人骨",
+        "page": 8,
+        "source": "text",
+        "context": "47 \n图二五\nW . C . 8结构、人骨架与花纹图…...••• ••• ..,"
+      },
+      {
+        "text": "木炭",
+        "page": 14,
+        "source": "text",
+        "context": "艰巨的是取营膏泥，这种泥粘性大，底下又有木炭，稍不留心，便会连木炭\n一起粘走。又不宜"
+      },
+      {
+        "text": "木炭",
+        "page": 14,
+        "source": "text",
+        "context": "泥粘性大，底下又有木炭，稍不留心，便会连木炭\n一起粘走。又不宜用大锹铲，只有用手铲一"
+      }
+    ],
+    "地层": [
+      {
+        "text": "第一层",
+        "page": 9,
+        "source": "text",
+        "context": "..t.f... \n回三一\n61 \n东室第一层器物分布图… ... ••• ••• •"
+      },
+      {
+        "text": "第二层",
+        "page": 9,
+        "source": "text",
+        "context": "..t • \n随三二(A)\n62 \n东室第二层器物分布固... ••• ..t ..t"
+      },
+      {
+        "text": "第一层",
+        "page": 9,
+        "source": "text",
+        "context": "..••• •• \n回三三\n>\n基主内棺第一层器物分布图.. \n….川...…...…"
+      },
+      {
+        "text": "第三层",
+        "page": 9,
+        "source": "text",
+        "context": "\n图三四(A)\n65 \n66 \n基主内楠第三层器物分布图.....t ... ... "
+      },
+      {
+        "text": "第一层",
+        "page": 9,
+        "source": "text",
+        "context": "三四(C)\n67 \n68 \n70 \n北室第一层器物分布阁… 'ft •••• \n图三六"
+      },
+      {
+        "text": "第二层",
+        "page": 9,
+        "source": "text",
+        "context": " 'ft •••• \n图三六(A)\n北室第二层器物分布图... ••• ..t \n图三"
+      },
+      {
+        "text": "第三层",
+        "page": 9,
+        "source": "text",
+        "context": "..t \n图三六( B) \n71 \n北室第三层器物分布圄'f t ••• .….. •"
+      },
+      {
+        "text": "第二层",
+        "page": 9,
+        "source": "text",
+        "context": "…川.. ••• • \n国二八\n基主内棺第二层器物分布图… ... ••• ••• \n"
+      }
+    ],
+    "纹饰": [
+      {
+        "text": "编织纹",
+        "page": 9,
+        "source": "text",
+        "context": ". C . 2 、\n回三O\n58 \n竹府编织纹样..t.f... \n回三一\n61 \n东"
+      }
+    ],
+    "玉器": [
+      {
+        "text": "玉璜",
+        "page": 12,
+        "source": "text",
+        "context": "•• \n图二四五\n411 \n军是、\n金缕玉璜与透.Jt玉琐花纹拓片.......……"
+      },
+      {
+        "text": "玉佩",
+        "page": 12,
+        "source": "text",
+        "context": " \n佩花纹拓片…·\n图二四八\n419 \n玉佩与玉剑...... ••• ••• ••"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": "700米",
+        "page": 14,
+        "source": "text",
+        "context": "米，曾侯乙基即座落在这里。墓的东面相距约700米有激71<自北往南流过，往\n南约2 . "
+      },
+      {
+        "text": "00米",
+        "page": 14,
+        "source": "text",
+        "context": "〈图-s\n固版一〉。\n东困彼之西，相距]00米左右，还有一个比它赂小的山包，辟众称为西"
+      },
+      {
+        "text": " 5米",
+        "page": 15,
+        "source": "text",
+        "context": "。\n各个室的深度，均在3 . 3至3 . 5米之阔，在这么深的梓室里，遗物有高有矮，在"
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "叠压",
+        "page": 15,
+        "source": "text",
+        "context": "北室中最大的难点基甲I~l 片一大\n;堆叠压在一起，如果分居一片片*取的话，不只很费"
+      }
+    ]
+  }
+}

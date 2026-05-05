@@ -1,0 +1,5525 @@
+{
+  "name": "南宋官窑",
+  "file": "南宋官窑.pdf",
+  "processed_pages": 143,
+  "total_pages": 156,
+  "total_entities": 912,
+  "entity_stats": {
+    "遗址名称": 32,
+    "遗迹编号": 195,
+    "年代": 96,
+    "铜器": 69,
+    "测量数据": 207,
+    "层位关系": 22,
+    "探方编号": 203,
+    "地层": 2,
+    "陶器": 52,
+    "土样特征": 2,
+    "遗存类型": 2,
+    "纹饰": 16,
+    "建筑结构": 13,
+    "材质": 1
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "南宋",
+        "page": 4,
+        "source": "ocr",
+        "context": " 容 简介\n\n浙江告杭州市南部乌龟山苯的南宋官窗址站是得为南来官延用罕而生产的窗窗场"
+      },
+      {
+        "text": "南宋",
+        "page": 4,
+        "source": "ocr",
+        "context": "i Dee 下.官密-:发掘报告 中国一南宋 R.K878.05\n中国版本图书馆Cl"
+      },
+      {
+        "text": "南宋",
+        "page": 8,
+        "source": "ocr",
+        "context": "               (50)\n南宋官密工具“               "
+      },
+      {
+        "text": "南宋",
+        "page": 8,
+        "source": "ocr",
+        "context": "67)\n(59)\n(60)\n(62)\n\n南宋官窗热娆只\n"
+      },
+      {
+        "text": "南宋",
+        "page": 9,
+        "source": "ocr",
+        "context": " Se Se\n四FS5 全景及局部\n三”南宋官窗遗迹\nA WAG Rom\n-南宋官窗"
+      },
+      {
+        "text": "南宋",
+        "page": 9,
+        "source": "ocr",
+        "context": "三”南宋官窗遗迹\nA WAG Rom\n-南宋官窗 Y2 Faye Tet ie Be"
+      },
+      {
+        "text": "南宋",
+        "page": 12,
+        "source": "ocr",
+        "context": "编写了有关著作，但由于未进行科学发据，对南宋\nPREM Wi BLS? 窗场的范轩、"
+      },
+      {
+        "text": "南宋",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n及\n\n三、调查与发据概况\n\n鉴于乌龟山南宋官窗容址自发现以来曾遭到多次不同程度的破"
+      },
+      {
+        "text": "南宋",
+        "page": 13,
+        "source": "ocr",
+        "context": "据中，发现了了\nPREY TS 3 层用南宋时期的建筑遗迹，为全面地进行发据提供了依"
+      },
+      {
+        "text": "南宋",
+        "page": 13,
+        "source": "ocr",
+        "context": "年 1 月底结束。1988\n年冬，为配合南宋官窗博物馆的建设工程，又对作坊遗迹进行了"
+      },
+      {
+        "text": "南宋",
+        "page": 14,
+        "source": "ocr",
+        "context": "如筑的地基\n填凸，坡士来源于东侧山坡上的南宋官穿窗炉的废品堆积区。由于取土地段不同。"
+      },
+      {
+        "text": "南宋",
+        "page": 16,
+        "source": "ocr",
+        "context": "解剖和清理的结果表明，第 3 层夫包含有南宋\n\n官窗的资片、素烧还、究砖降块、窖具等"
+      },
+      {
+        "text": "南宋",
+        "page": 16,
+        "source": "ocr",
+        "context": "足帮窗炉烧造一段时间后建造的，不是乌龟山南宋官窖初期的作坊遗迹。\n\n二、窜炉地层\n\n"
+      },
+      {
+        "text": "南宋",
+        "page": 17,
+        "source": "ocr",
+        "context": " 厚 30一60 WK, MRE. 内含南宋官窗资片、窗具、石块及部明时期龙\nAR,"
+      },
+      {
+        "text": "南宋",
+        "page": 27,
+        "source": "ocr",
+        "context": "作坊及堆积中发现的攻钵形制多样， 反映出南宋\n窒窗内烧制器物的造型丰富。由于旦钵发现"
+      },
+      {
+        "text": "南宋",
+        "page": 29,
+        "source": "ocr",
+        "context": "EE 遗物\n\n南宋宜容遗址内共出上 3 万余件网器碎片及大"
+      },
+      {
+        "text": "南宋",
+        "page": 52,
+        "source": "ocr",
+        "context": "    4        2H\n\n图三五南宋官窗资中路羡\n1全THE 599 2AM"
+      },
+      {
+        "text": "南宋",
+        "page": 55,
+        "source": "ocr",
+        "context": "钉垫饼，\n一株小花〈图版四九，3) 、\n南宋官窜青资主要以釉色、碎裂纹及造型取胜，器"
+      },
+      {
+        "text": "南宋",
+        "page": 58,
+        "source": "ocr",
+        "context": "泉窗、景德镇容、定窗等窜系.时代有北订、南宋、元代的。现将时代在南宋以前的可复原\n的"
+      },
+      {
+        "text": "南宋",
+        "page": 58,
+        "source": "ocr",
+        "context": "系.时代有北订、南宋、元代的。现将时代在南宋以前的可复原\n的器物特征介绍如下，\n\nR"
+      },
+      {
+        "text": "南宋",
+        "page": 64,
+        "source": "ocr",
+        "context": "1 HIE. GFE\n\n54\n\n图四四 南宋官窜 1 型范工\n纹饰及馈文折本\n\n"
+      },
+      {
+        "text": "南宋",
+        "page": 75,
+        "source": "ocr",
+        "context": "\n了民窗。因此乌多出官窗   的时间应在南宋初年，即绍兴八年建都临安后。\n\nRUE "
+      },
+      {
+        "text": "南宋",
+        "page": 75,
+        "source": "ocr",
+        "context": "。这类硫的制作工艺、造型和纠划花的风格与南宋家窗明显不同。和而与邱代龙\nACRES "
+      },
+      {
+        "text": "南宋",
+        "page": 76,
+        "source": "ocr",
+        "context": "乌龟山南宋官窒骸取了全国先进的青资生产工艺。前期冯"
+      },
+      {
+        "text": "南宋",
+        "page": 76,
+        "source": "ocr",
+        "context": "的时\n项产品， 多数为厚胎薄番青次, 是南宋官窗前期使用的窜。Y1 在偏南处，窗长仅"
+      },
+      {
+        "text": "南宋",
+        "page": 76,
+        "source": "ocr",
+        "context": "是为了烧\n涛抬友釉谋品仙建造的使用年代在南宋后期。 同时在窗内和穿旁废品堆积层中出上"
+      },
+      {
+        "text": "南宋",
+        "page": 85,
+        "source": "ocr",
+        "context": "附表四”南宋官窗瓷片测试标本外貌观察统计表\n\nWE]"
+      },
+      {
+        "text": "南宋",
+        "page": 88,
+        "source": "ocr",
+        "context": "附表五”南宋官窗瓷片测试标本脸釉的化学成分统计表\n\n"
+      },
+      {
+        "text": "南宋",
+        "page": 99,
+        "source": "ocr",
+        "context": "2) im ALCP Me A aE\n\n南宋宫客遗址保护建筑\n"
+      },
+      {
+        "text": "南宋",
+        "page": 100,
+        "source": "ocr",
+        "context": "AL                3 南宋官窗博物馆全开国际学术讨论会\n\nwt\na"
+      },
+      {
+        "text": "南宋",
+        "page": 137,
+        "source": "ocr",
+        "context": "141 | 7. EB T2加B:24\n南宋官窜资器纹饰残片\n"
+      },
+      {
+        "text": "南宋",
+        "page": 144,
+        "source": "ocr",
+        "context": "       5M Ti2DAssi\n\n南宋官窜工具\n"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "K878",
+        "page": 4,
+        "source": "ocr",
+        "context": " 下.官密-:发掘报告 中国一南宋 R.K878.05\n中国版本图书馆ClbP 数据核字"
+      },
+      {
+        "text": "F2",
+        "page": 7,
+        "source": "ocr",
+        "context": "在FI、F2 (元明时期建筑) 下面世\n六 Fl 第"
+      },
+      {
+        "text": "F3",
+        "page": 9,
+        "source": "ocr",
+        "context": "\nSeu AT wen Cre LED\nF3 全景及局部\n二 Fa Se Se\n四F"
+      },
+      {
+        "text": "Y2",
+        "page": 9,
+        "source": "ocr",
+        "context": "窗遗迹\nA WAG Rom\n-南宋官窗 Y2 Faye Tet ie Be 9 BT"
+      },
+      {
+        "text": "Y2",
+        "page": 9,
+        "source": "ocr",
+        "context": "e Be 9 BT\nA DR ETRE Y2 保存现状及复原慌型\n\nXE RP\nMA"
+      },
+      {
+        "text": "Y2",
+        "page": 11,
+        "source": "ocr",
+        "context": " 米的战壕      将一座窗\n\n如 《Y2) 哉断成三段，10 多年前在西南面山漳"
+      },
+      {
+        "text": "T7",
+        "page": 13,
+        "source": "ocr",
+        "context": " 之间的山坡上、开挖探沟二条,编号T6、T7， 以便全面了解窖炉结构及两座窗炉周围的"
+      },
+      {
+        "text": "Y1",
+        "page": 13,
+        "source": "ocr",
+        "context": "了解密炉两侧的废品堆积情况, 又分别在 Y1 附近开控探沟四条 (T8、T9、T10"
+      },
+      {
+        "text": "T8",
+        "page": 13,
+        "source": "ocr",
+        "context": ", 又分别在 Y1 附近开控探沟四条 (T8、T9、T10、\n9), 存Y2西侧山坡"
+      },
+      {
+        "text": "T9",
+        "page": 13,
+        "source": "ocr",
+        "context": "分别在 Y1 附近开控探沟四条 (T8、T9、T10、\n9), 存Y2西侧山坡上开控"
+      },
+      {
+        "text": "T10",
+        "page": 13,
+        "source": "ocr",
+        "context": " Y1 附近开控探沟四条 (T8、T9、T10、\n9), 存Y2西侧山坡上开控探沟二条"
+      },
+      {
+        "text": "T17",
+        "page": 13,
+        "source": "ocr",
+        "context": "9), 存Y2西侧山坡上开控探沟二条 (T17、T18)。 在山香平地可发掘范围内, "
+      },
+      {
+        "text": "T18",
+        "page": 13,
+        "source": "ocr",
+        "context": "存Y2西侧山坡上开控探沟二条 (T17、T18)。 在山香平地可发掘范围内, 开控正南"
+      },
+      {
+        "text": "T2",
+        "page": 14,
+        "source": "ocr",
+        "context": "半方米。 作坊短迹主要暴露在85L W T2 T5、T1l一T13、I15、\nT20"
+      },
+      {
+        "text": "T5",
+        "page": 14,
+        "source": "ocr",
+        "context": "。 作坊短迹主要暴露在85L W T2 T5、T1l一T13、I15、\nT20 了2"
+      },
+      {
+        "text": "T20",
+        "page": 14,
+        "source": "ocr",
+        "context": " T2 T5、T1l一T13、I15、\nT20 了23之内。从各探方的发据情况看.地层"
+      },
+      {
+        "text": "T5",
+        "page": 14,
+        "source": "ocr",
+        "context": "由第1 层又分为A、吕两小层。现以T3、T5、Ti2 东壁为例介绍如下〈图四) 。\n"
+      },
+      {
+        "text": "T12",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n图四 SMA eR (73, TS, T12 RAED\n\nTA, SA, B Bit"
+      },
+      {
+        "text": "T13",
+        "page": 14,
+        "source": "ocr",
+        "context": "的建筑遗迹主要分布二T2一T5、TI2、T13、T15 之内    组以上并、过道相连"
+      },
+      {
+        "text": "T15",
+        "page": 14,
+        "source": "ocr",
+        "context": "迹主要分布二T2一T5、TI2、T13、T15 之内    组以上并、过道相连\n的前后"
+      },
+      {
+        "text": "F2",
+        "page": 14,
+        "source": "ocr",
+        "context": "北\n向南依次编号为85 [ 双 FI1、F2。由于距地去较浅，除柱础坑全部保作外，地"
+      },
+      {
+        "text": "F2",
+        "page": 14,
+        "source": "ocr",
+        "context": "AD SF ATER Of. FL 和 F2 OW Ha. ARIEL, GTP 1"
+      },
+      {
+        "text": "F2",
+        "page": 15,
+        "source": "ocr",
+        "context": "Mii Ft. F2 《开明时期建筑) 平面图 (1 10."
+      },
+      {
+        "text": "F2",
+        "page": 16,
+        "source": "ocr",
+        "context": "s0i AKG CTAB,\n在FI 和 F2 之加有有互相过接的过道。 过过\n让对耳"
+      },
+      {
+        "text": "F295",
+        "page": 16,
+        "source": "ocr",
+        "context": "AD RARE. EAR LA INA\nF295 E2 的东西本侧. 接近山坡部分。 咎"
+      },
+      {
+        "text": "S312",
+        "page": 16,
+        "source": "ocr",
+        "context": "HEROS Se. EIS\n教性建筑。\nS312. AERIS. GRIPE. EARE"
+      },
+      {
+        "text": "F4",
+        "page": 16,
+        "source": "ocr",
+        "context": "挖。仅对部分建筑遗迹作了必要的解前，对 F4 以东的室外\n地面进行了清理，了解第 3"
+      },
+      {
+        "text": "Y1",
+        "page": 16,
+        "source": "ocr",
+        "context": "基的缓坟上，共有上龙窗容炉“座,编号为 Y1、Y2，相距 60 余米。本次发据\n了Y"
+      },
+      {
+        "text": "Y2",
+        "page": 16,
+        "source": "ocr",
+        "context": "坟上，共有上龙窗容炉“座,编号为 Y1、Y2，相距 60 余米。本次发据\n了Y2 及"
+      },
+      {
+        "text": "Y2",
+        "page": 16,
+        "source": "ocr",
+        "context": "余米。本次发据\n了Y2 及其周团。 在 Y2 发据前, 为摘清容址中容坊的数其、 规"
+      },
+      {
+        "text": "Y2",
+        "page": 17,
+        "source": "ocr",
+        "context": "Wt Y2 ae eos\n\n先在近代战壕中发现的 "
+      },
+      {
+        "text": "Y2",
+        "page": 17,
+        "source": "ocr",
+        "context": " ae eos\n\n先在近代战壕中发现的 Y2 Say A. TROP TOY AR "
+      },
+      {
+        "text": "T6",
+        "page": 17,
+        "source": "ocr",
+        "context": "RIY 2 条, 间距 11. 6 米\nT6、T7. 清理完Y2 后, 为寻找容侧通"
+      },
+      {
+        "text": "T7",
+        "page": 17,
+        "source": "ocr",
+        "context": " 2 条, 间距 11. 6 米\nT6、T7. 清理完Y2 后, 为寻找容侧通道及其"
+      },
+      {
+        "text": "Y2",
+        "page": 17,
+        "source": "ocr",
+        "context": " 后, 为寻找容侧通道及其他遗迹, 在 Y2 火膛及窗尾的西侧, 开过       "
+      },
+      {
+        "text": "T18",
+        "page": 17,
+        "source": "ocr",
+        "context": " 、\n南北向探沟 2 条,编号为T17、T18。 以上其计发据面积 350 平方米。各"
+      },
+      {
+        "text": "Y2",
+        "page": 17,
+        "source": "ocr",
+        "context": " 层为元明层,第 3 层为瞄宋层，现以 Y2 南壁地层为例，将各层博\n况分述如下《〈"
+      },
+      {
+        "text": "M4",
+        "page": 17,
+        "source": "ocr",
+        "context": "有夫妻合非双穴昔 4 座，编号 MI一\nM4。M1、M2 中出士清“顺治通宝”钢钱及"
+      },
+      {
+        "text": "M1",
+        "page": 17,
+        "source": "ocr",
+        "context": "合非双穴昔 4 座，编号 MI一\nM4。M1、M2 中出士清“顺治通宝”钢钱及有“养"
+      },
+      {
+        "text": "M2",
+        "page": 17,
+        "source": "ocr",
+        "context": "穴昔 4 座，编号 MI一\nM4。M1、M2 中出士清“顺治通宝”钢钱及有“养老”锁"
+      },
+      {
+        "text": "M3",
+        "page": 17,
+        "source": "ocr",
+        "context": "钢钱及有“养老”锁银牌一块 CORD, M3、M4 出土\nSOP BR” GA 2 "
+      },
+      {
+        "text": "M4",
+        "page": 17,
+        "source": "ocr",
+        "context": "有“养老”锁银牌一块 CORD, M3、M4 出土\nSOP BR” GA 2 BC "
+      },
+      {
+        "text": "M5",
+        "page": 17,
+        "source": "ocr",
+        "context": "RH. AMERICAS SE. 其中 M5 是长方形坚穴土坑墓, CRI\n部出土小"
+      },
+      {
+        "text": "M6",
+        "page": 17,
+        "source": "ocr",
+        "context": "内有“大定通宝”铜钱 -枚及稻谷若干; M6 亦为长方形紧穴十坑\naE. 打破第 3"
+      },
+      {
+        "text": "F4",
+        "page": 18,
+        "source": "ocr",
+        "context": "\n共发现 3 处，由北向南依次编号F3、F4、F5。\n\nF3 位于T1 T3228."
+      },
+      {
+        "text": "F5",
+        "page": 18,
+        "source": "ocr",
+        "context": "现 3 处，由北向南依次编号F3、F4、F5。\n\nF3 位于T1 T3228. 系一"
+      },
+      {
+        "text": "F3",
+        "page": 18,
+        "source": "ocr",
+        "context": "，由北向南依次编号F3、F4、F5。\n\nF3 位于T1 T3228. 系一座朝东南坐"
+      },
+      {
+        "text": "T3228",
+        "page": 18,
+        "source": "ocr",
+        "context": "号F3、F4、F5。\n\nF3 位于T1 T3228. 系一座朝东南坐西北的三开间平房,方向"
+      },
+      {
+        "text": "F3",
+        "page": 18,
+        "source": "ocr",
+        "context": "。根据已发现的建筑遗迹、遗\n物, 推测 F3 是四周立柱、以瓦盖顶的工棚式建筑。屋前"
+      },
+      {
+        "text": "F3",
+        "page": 18,
+        "source": "ocr",
+        "context": " BA, 发现-处镀铠坑遗迹; 在紧挨 F3 南墙外的地面上, 发现一座大型练泥池。"
+      },
+      {
+        "text": "F3",
+        "page": 18,
+        "source": "ocr",
+        "context": "上, 发现一座大型练泥池。 由\n此推斯 F3 呈一座制坯成型的工房。\n\nF4 位于 "
+      },
+      {
+        "text": "F4",
+        "page": 18,
+        "source": "ocr",
+        "context": "此推斯 F3 呈一座制坯成型的工房。\n\nF4 位于 F3 的南面，在探方T5 ZA,"
+      },
+      {
+        "text": "F3",
+        "page": 18,
+        "source": "ocr",
+        "context": " 呈一座制坯成型的工房。\n\nF4 位于 F3 的南面，在探方T5 ZA, SPS 分"
+      },
+      {
+        "text": "F3",
+        "page": 18,
+        "source": "ocr",
+        "context": "与F3 相同,推测建\n筑规模和结构亦与 F3 相似, 唯进深可能略大于 F3, 约6"
+      },
+      {
+        "text": "F3",
+        "page": 18,
+        "source": "ocr",
+        "context": "构亦与 F3 相似, 唯进深可能略大于 F3, 约6.5 米, 也应是一座三开间的工"
+      },
+      {
+        "text": "F4",
+        "page": 18,
+        "source": "ocr",
+        "context": "\nSt 〈图九; 图版三，1)。\n\n在 F4 前机部位，有一条与其走向一致的小浅沟，"
+      },
+      {
+        "text": "G2",
+        "page": 18,
+        "source": "ocr",
+        "context": "脚处, 有一条在山岩中开当面成的排水沟 G2。 在F4房\n后，有由F3 屋后延伸过来"
+      },
+      {
+        "text": "G1",
+        "page": 18,
+        "source": "ocr",
+        "context": "房\n后，有由F3 屋后延伸过来的排水沟 G1。\n\n在F4 地面上发现大量已上独或未上"
+      },
+      {
+        "text": "F4",
+        "page": 18,
+        "source": "ocr",
+        "context": "面上发现大量已上独或未上釉的素烧坯片, F4 AR AMES 1 处、釉料缸 2\nJ"
+      },
+      {
+        "text": "F4",
+        "page": 18,
+        "source": "ocr",
+        "context": "a 为修坯、上釉的工房。\n\nFo 位于 F4 的东南方,分布于T12.T13、T20"
+      },
+      {
+        "text": "T13",
+        "page": 18,
+        "source": "ocr",
+        "context": "o 位于 F4 的东南方,分布于T12.T13、T20.T21 等探方内,亦朝东南坐西"
+      },
+      {
+        "text": "T20",
+        "page": 18,
+        "source": "ocr",
+        "context": " F4 的东南方,分布于T12.T13、T20.T21 等探方内,亦朝东南坐西北,面向"
+      },
+      {
+        "text": "T21",
+        "page": 18,
+        "source": "ocr",
+        "context": "的东南方,分布于T12.T13、T20.T21 等探方内,亦朝东南坐西北,面向窗\n"
+      },
+      {
+        "text": "F4",
+        "page": 20,
+        "source": "ocr",
+        "context": "榴下小浅沟相连,应是散水沟。房基北侧与\nF4 屋前地面连接处,有砖铺的向水(图版四,"
+      },
+      {
+        "text": "T3",
+        "page": 22,
+        "source": "ocr",
+        "context": "(>) 练泥池\n\n位于 T3 中部偏南，F3 南墙外 2.5 米处，"
+      },
+      {
+        "text": "F3",
+        "page": 22,
+        "source": "ocr",
+        "context": "(>) 练泥池\n\n位于 T3 中部偏南，F3 南墙外 2.5 米处，西距排水沟 3 "
+      },
+      {
+        "text": "F3",
+        "page": 23,
+        "source": "ocr",
+        "context": "小坑\n系埋木轴坑 CAML H. 3)。F3 ARSE 导\n外有练泥池，应是作制坯成"
+      },
+      {
+        "text": "F4",
+        "page": 23,
+        "source": "ocr",
+        "context": "有练泥池，应是作制坯成型用。\n\nFMT F4 南间的中部，其上部\n被一晚期莫非打破，"
+      },
+      {
+        "text": "F4",
+        "page": 23,
+        "source": "ocr",
+        "context": "。不远处有釉料缸及素烧坯堆等遗迹，推测 F4 ES AB\n\n(四) 釉料缸\n\nFPL"
+      },
+      {
+        "text": "F4",
+        "page": 23,
+        "source": "ocr",
+        "context": " 釉料缸\n\nFPL 2 只, 并列置于 F4 南间的前部, PEL SESSA 1 "
+      },
+      {
+        "text": "F4",
+        "page": 23,
+        "source": "ocr",
+        "context": "堆的分布范围较多,在练泥池南、素烧炉前、F4 内外均有发现。 以 F4 内的一处最\n"
+      },
+      {
+        "text": "F4",
+        "page": 23,
+        "source": "ocr",
+        "context": "南、素烧炉前、F4 内外均有发现。 以 F4 内的一处最\n为集中，范围也较大。该堆积"
+      },
+      {
+        "text": "F3",
+        "page": 24,
+        "source": "ocr",
+        "context": " PS. HU\n(六) 素烧炉\n\nfl F3 与F4 之间的室外空地上,其东北\n约2"
+      },
+      {
+        "text": "F3",
+        "page": 24,
+        "source": "ocr",
+        "context": "dee\n堆, 上部均遭破坏, 仪见低于 F3、F4 地面的火\nAe, 平面略旦马蹄形"
+      },
+      {
+        "text": "F4",
+        "page": 24,
+        "source": "ocr",
+        "context": "\n堆, 上部均遭破坏, 仪见低于 F3、F4 地面的火\nAe, 平面略旦马蹄形, 方"
+      },
+      {
+        "text": "F4",
+        "page": 24,
+        "source": "ocr",
+        "context": "\nAe, 平面略旦马蹄形, 方向七F3、F4 BR GE\n长 80、火腹宽 67, "
+      },
+      {
+        "text": "S10",
+        "page": 24,
+        "source": "ocr",
+        "context": "L. S 米直径范围内,有有\nPRGA S10 厘米的烧士层，分布形状与火膀- -\n致"
+      },
+      {
+        "text": "T21",
+        "page": 24,
+        "source": "ocr",
+        "context": "ee. TE\n(上) HERE\nfii T21 APS By 2 米处,编号为K1- "
+      },
+      {
+        "text": "T3",
+        "page": 24,
+        "source": "ocr",
+        "context": "》排水沟\n\n们于鉴个工场区的两侧由脚边，T3、T5、TI15、T22、T23 与 T"
+      },
+      {
+        "text": "T5",
+        "page": 24,
+        "source": "ocr",
+        "context": "沟\n\n们于鉴个工场区的两侧由脚边，T3、T5、TI15、T22、T23 与 T4、T"
+      },
+      {
+        "text": "T22",
+        "page": 24,
+        "source": "ocr",
+        "context": "场区的两侧由脚边，T3、T5、TI15、T22、T23 与 T4、T11、T20 等探"
+      },
+      {
+        "text": "T23",
+        "page": 24,
+        "source": "ocr",
+        "context": "侧由脚边，T3、T5、TI15、T22、T23 与 T4、T11、T20 等探方肉，\n"
+      },
+      {
+        "text": "T4",
+        "page": 24,
+        "source": "ocr",
+        "context": "3、T5、TI15、T22、T23 与 T4、T11、T20 等探方肉，\n编导为 G"
+      },
+      {
+        "text": "T11",
+        "page": 24,
+        "source": "ocr",
+        "context": "5、TI15、T22、T23 与 T4、T11、T20 等探方肉，\n编导为 G1、G2"
+      },
+      {
+        "text": "T20",
+        "page": 24,
+        "source": "ocr",
+        "context": "15、T22、T23 与 T4、T11、T20 等探方肉，\n编导为 G1、G2。\n\nG"
+      },
+      {
+        "text": "G1",
+        "page": 24,
+        "source": "ocr",
+        "context": "4、T11、T20 等探方肉，\n编导为 G1、G2。\n\nGIA F3 的房后向西南方"
+      },
+      {
+        "text": "G2",
+        "page": 24,
+        "source": "ocr",
+        "context": "11、T20 等探方肉，\n编导为 G1、G2。\n\nGIA F3 的房后向西南方延伸，"
+      },
+      {
+        "text": "F3",
+        "page": 24,
+        "source": "ocr",
+        "context": "方肉，\n编导为 G1、G2。\n\nGIA F3 的房后向西南方延伸，与 F3、F4 中"
+      },
+      {
+        "text": "F3",
+        "page": 24,
+        "source": "ocr",
+        "context": "\nGIA F3 的房后向西南方延伸，与 F3、F4 中向 --致，系收个工场区的西面"
+      },
+      {
+        "text": "F4",
+        "page": 24,
+        "source": "ocr",
+        "context": "A F3 的房后向西南方延伸，与 F3、F4 中向 --致，系收个工场区的西面排水沟"
+      },
+      {
+        "text": "F2",
+        "page": 24,
+        "source": "ocr",
+        "context": ", 沟深入咎十北端部分被第 2 层F1、F2 ye\nFy SH Ly 2 层的右砌墙"
+      },
+      {
+        "text": "F3",
+        "page": 24,
+        "source": "ocr",
+        "context": " RIL AR\nCais 图版六，2)。F3、F4 BECERRA BRA, BK "
+      },
+      {
+        "text": "F4",
+        "page": 24,
+        "source": "ocr",
+        "context": "L AR\nCais 图版六，2)。F3、F4 BECERRA BRA, BK RHE"
+      },
+      {
+        "text": "G2",
+        "page": 24,
+        "source": "ocr",
+        "context": ". Pa LEO i\n片，窗其为主。\n\nG2 在工场东侧山脚边, 白和东北流向西南,"
+      },
+      {
+        "text": "F3",
+        "page": 24,
+        "source": "ocr",
+        "context": "米处必排水沟南段西侧-一段.皆残存墙基。F3 前检的挡士墙为南\n14\n\nONS oe"
+      },
+      {
+        "text": "G2",
+        "page": 25,
+        "source": "ocr",
+        "context": "近 2 米处的了20 探方内, 局部被 G2 BRL\nCL >. RETREAT P"
+      },
+      {
+        "text": "Y2",
+        "page": 27,
+        "source": "ocr",
+        "context": "将窗炉结构、用材、砌筑方法等介绍如下。\nY2 窗炉建于乌龟山两坡. 自西南向东北、自"
+      },
+      {
+        "text": "Y2",
+        "page": 27,
+        "source": "ocr",
+        "context": "槐形砖发现于窗头火胜及窗顶地塌部位。\n\nY2 窗炉结构，分别由火膝、窗室、出姻室 3"
+      },
+      {
+        "text": "T12",
+        "page": 29,
+        "source": "ocr",
+        "context": "片，足较 1 式狠小，足壁稍外撤。垫烧。T12@A : 39, AI, BLL\n\n上 "
+      },
+      {
+        "text": "T1727",
+        "page": 30,
+        "source": "ocr",
+        "context": "。\n\n2式 MO, BORE. KH. T1727, RS. HH. RAW. HAR e"
+      },
+      {
+        "text": "T14",
+        "page": 30,
+        "source": "ocr",
+        "context": " HA, NUL. RRA. MBE, T14@) : 95，尖展。浅灰色胎，质细较硬"
+      },
+      {
+        "text": "G1",
+        "page": 32,
+        "source": "ocr",
+        "context": "UT. SNR. 足断面时椭圆形。垫烧。G1 ， 4，灰色胎，质较细硬，黄\nCR, "
+      },
+      {
+        "text": "T5",
+        "page": 33,
+        "source": "ocr",
+        "context": "〇,3)。\n\n1H A, WM, 平底，T5@A : 56, RS. RRA, RE"
+      },
+      {
+        "text": "T14",
+        "page": 36,
+        "source": "ocr",
+        "context": ",直上腹下弧收,内图底,，喇只形高圈足、T14@@ + 161， 黄灰色厚胎, 质\n细"
+      },
+      {
+        "text": "G4",
+        "page": 37,
+        "source": "ocr",
+        "context": "上\nTBR. IMR. eH, Ee, G4, Bel, R25 OK 〈图二三，3"
+      },
+      {
+        "text": "T2",
+        "page": 37,
+        "source": "ocr",
+        "context": " MLAB T PAU PIR. 参照 T2 采 92 复原。 从烧。 RIB, a"
+      },
+      {
+        "text": "T2192",
+        "page": 37,
+        "source": "ocr",
+        "context": " BS MOK CIS. 5; MA, T2192, SS, MATE\nJME. THE."
+      },
+      {
+        "text": "T14",
+        "page": 37,
+        "source": "ocr",
+        "context": "型 AC, HT. 深直朋，半底稍内四 T14@ : 104, ER. RL, A,\n"
+      },
+      {
+        "text": "T14",
+        "page": 37,
+        "source": "ocr",
+        "context": "厘米(图二四, 1; 图版一九, 7)。T14\n\nBoe Rea\nLAUMTSSA+6"
+      },
+      {
+        "text": "G1",
+        "page": 38,
+        "source": "ocr",
+        "context": "厘米《图一四，2; 图版一九，\n2), G1 58，形制、胎质基本同 TUG: + "
+      },
+      {
+        "text": "T14",
+        "page": 40,
+        "source": "ocr",
+        "context": "GB)B : 29，为腹足残片， 参照 T14\nDs 33 腹部残片《图版一C)，3)"
+      },
+      {
+        "text": "T1",
+        "page": 41,
+        "source": "ocr",
+        "context": "颈, BIN, TIER, 大国足外撤。T1@@ + 10, 参照T14加:166\n"
+      },
+      {
+        "text": "G7",
+        "page": 42,
+        "source": "ocr",
+        "context": "WEAR. AE. RSI, R94, G7, BR\nCHA, 6s 图版 AN. "
+      },
+      {
+        "text": "T14",
+        "page": 42,
+        "source": "ocr",
+        "context": "厘米《图二九，1; 图版. -二，2)。T14\n本160,口颈部残片。 圆导，斜弧雇。"
+      },
+      {
+        "text": "T15",
+        "page": 43,
+        "source": "ocr",
+        "context": "ALHOTRA.      ，足壁较直。T15 采: 5, RRA. 粉青色厚釉，\n足"
+      },
+      {
+        "text": "T16",
+        "page": 43,
+        "source": "ocr",
+        "context": "型瓶的口颈部残片数量极多,形制稍有差异。T16@ + 25. RR. 翻沿\nORE, "
+      },
+      {
+        "text": "T14",
+        "page": 44,
+        "source": "ocr",
+        "context": "34\n\nERA TID\n4.1 1K T14@) + 160\n\nTORK\n\n图二九 "
+      },
+      {
+        "text": "T2",
+        "page": 45,
+        "source": "ocr",
+        "context": "R. WM. rte, iA, HM. T2@B+ 87, RK\n色胎。粉青色厚釉，"
+      },
+      {
+        "text": "T2",
+        "page": 47,
+        "source": "ocr",
+        "context": " (PA     3: OM. 4). T2@A+ 54 (图版二七，3)、T14@"
+      },
+      {
+        "text": "T14",
+        "page": 47,
+        "source": "ocr",
+        "context": ". T2@A+ 54 (图版二七，3)、T14@ : 248\ncal    43 图版"
+      },
+      {
+        "text": "F3",
+        "page": 47,
+        "source": "ocr",
+        "context": "图版 :七，2) 为模制花式这腹部残片。F3 : :1 WR RMR UE\n5 图版"
+      },
+      {
+        "text": "T14",
+        "page": 47,
+        "source": "ocr",
+        "context": "米〈图三三，7; 图版二八，  7), T14® + 137, FEA\nWh. 9, "
+      },
+      {
+        "text": "T2",
+        "page": 47,
+        "source": "ocr",
+        "context": ". 9, RRA 厘米 (隐二三，6)，T2@    1, FAL. PLE, UR"
+      },
+      {
+        "text": "Y2",
+        "page": 49,
+        "source": "ocr",
+        "context": "5 厘米〈图三四，2; 图版二九，1)。Y2 : 1， 形制与T14@@ ，148 "
+      },
+      {
+        "text": "D4",
+        "page": 51,
+        "source": "ocr",
+        "context": "，灰青\nrd, ss 鸭\nTe PT, D4)\n1式 dee PE. The\n\nHa"
+      },
+      {
+        "text": "M2",
+        "page": 51,
+        "source": "ocr",
+        "context": "AG 18. 5、\nWAG 15.5, M2. a4 MK (HAA. 2: 彩版五"
+      },
+      {
+        "text": "S74",
+        "page": 52,
+        "source": "ocr",
+        "context": "2AMZAT +20 AMS RTRs S74 eG S\nMOTO. 2).\n\nRN型"
+      },
+      {
+        "text": "T2",
+        "page": 54,
+        "source": "ocr",
+        "context": "RS EK. BR\n(UA BILG. T2        #1, 26 SEMA "
+      },
+      {
+        "text": "G17",
+        "page": 54,
+        "source": "ocr",
+        "context": "RS | 赤\n(ake 27h. 0. G17, SEARIRAT. OM A — R"
+      },
+      {
+        "text": "T2",
+        "page": 54,
+        "source": "ocr",
+        "context": "FEC RAP, BASE, LLM, T2 K+ 53.  BRUM LLG\n润的"
+      },
+      {
+        "text": "S136",
+        "page": 55,
+        "source": "ocr",
+        "context": "图 :七\n1 RATIZA S136\n1\n\nREBEL RR\n\nWAM LA"
+      },
+      {
+        "text": "T228",
+        "page": 55,
+        "source": "ocr",
+        "context": "UR. BREEDS (HRA. 5)。T228 : 24, OIG. ERR ESA."
+      },
+      {
+        "text": "T18",
+        "page": 55,
+        "source": "ocr",
+        "context": "E (图三八，4; 图版三七, 1). T18 + 12. Je\nPRIN. ERAT"
+      },
+      {
+        "text": "T2",
+        "page": 57,
+        "source": "ocr",
+        "context": "HE :193 6. HEE SIEM T2 采 OS MME 了. TENE TI"
+      },
+      {
+        "text": "T3",
+        "page": 58,
+        "source": "ocr",
+        "context": "I. 仿越窗系 1 件，龙泉窖系3 件。T3@A : 13，越窗系。花口. 从\n加懈"
+      },
+      {
+        "text": "T22",
+        "page": 60,
+        "source": "ocr",
+        "context": " 3. MERE TAB: 62\nAB T22 Bs 63.\n\n5. HABREHAL"
+      },
+      {
+        "text": "T162",
+        "page": 64,
+        "source": "ocr",
+        "context": "四;图版四\n\nEM 象棋范模，2 件. T162\nAUER A RAE. 土黄色素胎, "
+      },
+      {
+        "text": "T2",
+        "page": 64,
+        "source": "ocr",
+        "context": "RASA PMG TR. AREAS. T2 K+ 68. ES, Bla,\nHe."
+      },
+      {
+        "text": "L148",
+        "page": 65,
+        "source": "ocr",
+        "context": "AR. VID. BHD. 大于\ni, L148 34.      2.\n，      "
+      },
+      {
+        "text": "Y2s",
+        "page": 65,
+        "source": "ocr",
+        "context": "RE        .\n2式 REM. Y2s ii. RDSIIR TL. RESE"
+      },
+      {
+        "text": "T2118",
+        "page": 65,
+        "source": "ocr",
+        "context": " 22.4 BK.\n\nOAD BEE. T2118. RAS. EAR. IML, EAE"
+      },
+      {
+        "text": "T2a",
+        "page": 65,
+        "source": "ocr",
+        "context": "ERKE FEMUR Be MAME. T2a\nWAG HT. Bet   FE. I"
+      },
+      {
+        "text": "Y22",
+        "page": 65,
+        "source": "ocr",
+        "context": "据形状不同可分为二式。\nLt MEE. Y22\n\n19. YR. PL. AL YMA"
+      },
+      {
+        "text": "Y2",
+        "page": 66,
+        "source": "ocr",
+        "context": "on KET:   255 7. KM Y2 © 18\nSOW MENCM 1142"
+      },
+      {
+        "text": "T17",
+        "page": 68,
+        "source": "ocr",
+        "context": "的不同可分一式、\n\n1 式 AMES. T17@ : 68. RENE, 圈顶切亨成等"
+      },
+      {
+        "text": "T16",
+        "page": 68,
+        "source": "ocr",
+        "context": "BS 厘米\n《图四七7; 图版汪一1)。T16@@ :21 TISDBs 3 相似，底"
+      },
+      {
+        "text": "T18a",
+        "page": 69,
+        "source": "ocr",
+        "context": "Kk TI,     48D 1 sO T18a: 80\n\nKAMA TSB? REM "
+      },
+      {
+        "text": "T2",
+        "page": 70,
+        "source": "ocr",
+        "context": " OK CUA. 6; 图版五二，5)。T2\nfee OC BAG 2 OK ae."
+      },
+      {
+        "text": "T2228",
+        "page": 71,
+        "source": "ocr",
+        "context": "米 laden\nist RIEMYL. T2228: 9                 "
+      },
+      {
+        "text": "T14",
+        "page": 73,
+        "source": "ocr",
+        "context": "掌握窗守内火候用.利用残破坯片钻孔而成.T14\n1: 255，瓷杆中部残段，八角形，中"
+      },
+      {
+        "text": "Y2",
+        "page": 73,
+        "source": "ocr",
+        "context": "、残高 3. 7 厘米《图四五， 6)。Y2\n3: 18，器腹残片，局平长方形，中钻"
+      },
+      {
+        "text": "F3",
+        "page": 76,
+        "source": "ocr",
+        "context": "FRG. AFC EPL SOS 。\n\nF3 aS FPA) SY AA RT, S"
+      },
+      {
+        "text": "Y2",
+        "page": 76,
+        "source": "ocr",
+        "context": "G BD. RA ECB SE. 其中 Y2 在偏北处，窗体长，堆税层中的时\n项产品"
+      },
+      {
+        "text": "Y1",
+        "page": 76,
+        "source": "ocr",
+        "context": "厚胎薄番青次, 是南宋官窗前期使用的窜。Y1 在偏南处，窗长仅 23.5米。 此\n容"
+      },
+      {
+        "text": "Y1",
+        "page": 76,
+        "source": "ocr",
+        "context": "成温度和气氧，可烧高档精细的青罕。所以 Y1 应该是为了烧\n涛抬友釉谋品仙建造的使用"
+      },
+      {
+        "text": "S69",
+        "page": 77,
+        "source": "ocr",
+        "context": "] [22] |2/eus| [39 [S69 [az|ize| | 38| | | "
+      },
+      {
+        "text": "T18",
+        "page": 77,
+        "source": "ocr",
+        "context": "t [a    2|| |   272\nT18       238| ; | [32]"
+      },
+      {
+        "text": "T17",
+        "page": 81,
+        "source": "ocr",
+        "context": " 87 | 76 | 2     83\nT17| 2B    Li     7 | a"
+      },
+      {
+        "text": "Y2",
+        "page": 81,
+        "source": "ocr",
+        "context": "   1  2  6  1     了\nY2|因   R      4  4    "
+      },
+      {
+        "text": "F3",
+        "page": 81,
+        "source": "ocr",
+        "context": "            2     2\nF3    Ea   1          "
+      },
+      {
+        "text": "F5",
+        "page": 81,
+        "source": "ocr",
+        "context": "4  8\nRK   了       7\nF5    Ea              "
+      },
+      {
+        "text": "F3",
+        "page": 83,
+        "source": "ocr",
+        "context": "   is  104  2b  a\n' F3       1|21|    加   "
+      },
+      {
+        "text": "G12",
+        "page": 88,
+        "source": "ocr",
+        "context": "     a0. 66 |\n“     G12 13,70 12.94 O06 436"
+      },
+      {
+        "text": "S31",
+        "page": 88,
+        "source": "ocr",
+        "context": "     99 60\nET    Jo S31 088 116 G17 O17 0.2"
+      },
+      {
+        "text": "G17",
+        "page": 88,
+        "source": "ocr",
+        "context": "T    Jo S31 088 116 G17 O17 0.20 O10      1"
+      },
+      {
+        "text": "G1",
+        "page": 88,
+        "source": "ocr",
+        "context": "esta 2h 6m    2 409 G1 275 Lis 0.07 0.02  "
+      },
+      {
+        "text": "S17",
+        "page": 89,
+        "source": "ocr",
+        "context": "1 0.09 0.07 0.98 OM S17 O92 0.29 0.01    7."
+      },
+      {
+        "text": "S16",
+        "page": 89,
+        "source": "ocr",
+        "context": "\n\n5885 2240 O27 O49 S16 0.22 7.04 O78 0.23 "
+      },
+      {
+        "text": "S110",
+        "page": 89,
+        "source": "ocr",
+        "context": "    6.58    100.03\n\nS110 17.44 0.096 0.18 10"
+      },
+      {
+        "text": "S80",
+        "page": 89,
+        "source": "ocr",
+        "context": "|s906 15.18 9.14 06 S80 0.08 125 008 O18 Ol"
+      },
+      {
+        "text": "Y2",
+        "page": 93,
+        "source": "ocr",
+        "context": "彩版一 (下)\n\nPEEP (Y2) 遗迹 (由南向北摄)\n"
+      },
+      {
+        "text": "Y2",
+        "page": 94,
+        "source": "ocr",
+        "context": "彩版二〈I)\n\nHRESEH (Y2) 遗进 (由北向南摄)\n"
+      },
+      {
+        "text": "T1426",
+        "page": 98,
+        "source": "ocr",
+        "context": "1. MMM T1426) 2. THs\n\nSOM T1@s31"
+      },
+      {
+        "text": "T1",
+        "page": 98,
+        "source": "ocr",
+        "context": " T1426) 2. THs\n\nSOM T1@s31 1 MMMM T14 Ds 2"
+      },
+      {
+        "text": "T14",
+        "page": 98,
+        "source": "ocr",
+        "context": "\n\nSOM T1@s31 1 MMMM T14 Ds 282\n"
+      },
+      {
+        "text": "F5",
+        "page": 104,
+        "source": "ocr",
+        "context": "最\n\noh\n\nF\n5\n全\n#\n有\n\n2.F5 地面及艇水\n"
+      },
+      {
+        "text": "Y2",
+        "page": 107,
+        "source": "ocr",
+        "context": "2. Y2 mre\n\n3.F5东南角及其外侧\nES"
+      },
+      {
+        "text": "T2",
+        "page": 113,
+        "source": "ocr",
+        "context": " 50      4.11 TSDA\n\nT2@B:s1       6.0mm Ti"
+      },
+      {
+        "text": "G1:2",
+        "page": 123,
+        "source": "ocr",
+        "context": " 1型3式 TI6四:25 1. mm G1:2\n\n一2一\n\n51M 2式 Tiara "
+      },
+      {
+        "text": "T2",
+        "page": 124,
+        "source": "ocr",
+        "context": "图版二四 ( XXIV)\n\n1\n\n1. T2@B:23\n2T14四:135\n3.T4"
+      },
+      {
+        "text": "F321",
+        "page": 127,
+        "source": "ocr",
+        "context": "HY\n4 8S BAR\n\n5. RMR F321\n二 REEZRA T14世:124\n\n"
+      },
+      {
+        "text": "T22",
+        "page": 128,
+        "source": "ocr",
+        "context": "4.09 Tiaesita\n\n5. = T22 B93\n\n6. TIBAs)\n\n于\n"
+      },
+      {
+        "text": "G1:9",
+        "page": 131,
+        "source": "ocr",
+        "context": "图版三一 〈 XXXI)\n\nLome G1:9\n\nte\n\n2, WH 1k T3国A:"
+      },
+      {
+        "text": "T14",
+        "page": 136,
+        "source": "ocr",
+        "context": ", Tie @:12\n\n4. thee T14@: 195          5. A"
+      },
+      {
+        "text": "T4257",
+        "page": 137,
+        "source": "ocr",
+        "context": " Tin 2 Asa  2. Meee T4257\n\n和\n\n‘mee Tis ice\n\n5"
+      },
+      {
+        "text": "T4204",
+        "page": 139,
+        "source": "ocr",
+        "context": "亮众食六    2 Be4\n\nmeee T4204\n\nmeee T22 B63\n\n"
+      },
+      {
+        "text": "T22",
+        "page": 139,
+        "source": "ocr",
+        "context": "4\n\nmeee T4204\n\nmeee T22 B63\n\n"
+      },
+      {
+        "text": "T3",
+        "page": 142,
+        "source": "ocr",
+        "context": " Asa          3. VM T3@B:3\n"
+      },
+      {
+        "text": "T14d:169",
+        "page": 144,
+        "source": "ocr",
+        "context": "四四 (XLIV )\n\nS\n\nLAER T14d:169           4.揪器 Tia "
+      },
+      {
+        "text": "T2k",
+        "page": 144,
+        "source": "ocr",
+        "context": " aie TS: 108\n\nS\n\n3. T2k 68           5M Ti2"
+      },
+      {
+        "text": "T2",
+        "page": 148,
+        "source": "ocr",
+        "context": "i6@:30\n\n5 T22B   6. T2@B:a5 7. T2B:103  8."
+      },
+      {
+        "text": "T15",
+        "page": 151,
+        "source": "ocr",
+        "context": "图版五一 (LI)\n\nMM 3 RRM T15 PB:3         2. SRM"
+      },
+      {
+        "text": "G1:12",
+        "page": 151,
+        "source": "ocr",
+        "context": "       6. VET BREIL G1:12\n\n"
+      },
+      {
+        "text": "T2",
+        "page": 154,
+        "source": "ocr",
+        "context": "图版五四 (LIV )\n\n6一4型2式 T2@B:83、T14因:215、T5轩:1"
+      },
+      {
+        "text": "T14",
+        "page": 155,
+        "source": "ocr",
+        "context": "34\n\n87\n\n6. 7, WM 2e T14 22218. T2aB:98\n"
+      }
+    ],
+    "年代": [
+      {
+        "text": "宋",
+        "page": 4,
+        "source": "ocr",
+        "context": "容 简介\n\n浙江告杭州市南部乌龟山苯的南宋官窗址站是得为南来官延用罕而生产的窗窗场"
+      },
+      {
+        "text": "宋",
+        "page": 4,
+        "source": "ocr",
+        "context": " Dee 下.官密-:发掘报告 中国一南宋 R.K878.05\n中国版本图书馆Cl"
+      },
+      {
+        "text": "元",
+        "page": 4,
+        "source": "ocr",
+        "context": "000 AF\n国内定价; 60, 00 元\n"
+      },
+      {
+        "text": "元",
+        "page": 7,
+        "source": "ocr",
+        "context": "在FI、F2 (元明时期建筑) 下面世\n六 Fl 第3 S"
+      },
+      {
+        "text": "明",
+        "page": 7,
+        "source": "ocr",
+        "context": "在FI、F2 (元明时期建筑) 下面世\n六 Fl 第3 St"
+      },
+      {
+        "text": "宋",
+        "page": 8,
+        "source": "ocr",
+        "context": "              (50)\n南宋官密工具“               "
+      },
+      {
+        "text": "宋",
+        "page": 8,
+        "source": "ocr",
+        "context": "7)\n(59)\n(60)\n(62)\n\n南宋官窗热娆只\n"
+      },
+      {
+        "text": "宋",
+        "page": 9,
+        "source": "ocr",
+        "context": "Se Se\n四FS5 全景及局部\n三”南宋官窗遗迹\nA WAG Rom\n-南宋官窗"
+      },
+      {
+        "text": "宋",
+        "page": 9,
+        "source": "ocr",
+        "context": "”南宋官窗遗迹\nA WAG Rom\n-南宋官窗 Y2 Faye Tet ie Be"
+      },
+      {
+        "text": "宋",
+        "page": 12,
+        "source": "ocr",
+        "context": ":“青器窗在雄武营山上陆坛左右”，在一些宋人笔记中也多有记载，其中记载最详\n苦《南"
+      },
+      {
+        "text": "宋",
+        "page": 12,
+        "source": "ocr",
+        "context": "写了有关著作，但由于未进行科学发据，对南宋\nPREM Wi BLS? 窗场的范轩、"
+      },
+      {
+        "text": "清",
+        "page": 12,
+        "source": "ocr",
+        "context": "结构、作坊布局、生产设备与产品种类等仍不清楚。\n1956 年, 浙江省文管会曾在容"
+      },
+      {
+        "text": "清",
+        "page": 12,
+        "source": "ocr",
+        "context": "文管会曾在容址的南部进行首次局部发据, 清理龙窗窗妨一座， 编号Yil, 并\n发气"
+      },
+      {
+        "text": "宋",
+        "page": 12,
+        "source": "ocr",
+        "context": "及\n\n三、调查与发据概况\n\n鉴于乌龟山南宋官窗容址自发现以来曾遭到多次不同程度的破"
+      },
+      {
+        "text": "清",
+        "page": 12,
+        "source": "ocr",
+        "context": "度的破坏，为了全面揭示这座历\n史名窗，弄清它的历史并对窗场遗迹进行妥善保护，使历史"
+      },
+      {
+        "text": "宋",
+        "page": 13,
+        "source": "ocr",
+        "context": "中，发现了了\nPREY TS 3 层用南宋时期的建筑遗迹，为全面地进行发据提供了依"
+      },
+      {
+        "text": "宋",
+        "page": 13,
+        "source": "ocr",
+        "context": " 1 月底结束。1988\n年冬，为配合南宋官窗博物馆的建设工程，又对作坊遗迹进行了"
+      },
+      {
+        "text": "金",
+        "page": 13,
+        "source": "ocr",
+        "context": "加发气者\n有中国社会科学院考古研究所李德金           义、俞永炳、包强，"
+      },
+      {
+        "text": "元",
+        "page": 13,
+        "source": "ocr",
+        "context": "、包强，浙江省文物考古研\n究所朱伯谦、陈元请、朱琼华、胡继很.杭州市园林文物局姚桂"
+      },
+      {
+        "text": "宋",
+        "page": 14,
+        "source": "ocr",
+        "context": "筑的地基\n填凸，坡士来源于东侧山坡上的南宋官穿窗炉的废品堆积区。由于取土地段不同。"
+      },
+      {
+        "text": "明",
+        "page": 15,
+        "source": "ocr",
+        "context": "Mii Ft. F2 《开明时期建筑) 平面图 (1 10. tai"
+      },
+      {
+        "text": "明",
+        "page": 16,
+        "source": "ocr",
+        "context": "之加有有互相过接的过道。 过过\n让对耳房明间,长8、宽二米,部分路而残人\nHAIM"
+      },
+      {
+        "text": "明",
+        "page": 16,
+        "source": "ocr",
+        "context": "SUE AER.\n在房基的二上中。出土有明代青花上片，故推测该建筑的年代可能在明代"
+      },
+      {
+        "text": "明",
+        "page": 16,
+        "source": "ocr",
+        "context": "有明代青花上片，故推测该建筑的年代可能在明代。该处距明代\nA Sie SRIF. "
+      },
+      {
+        "text": "明",
+        "page": 16,
+        "source": "ocr",
+        "context": "片，故推测该建筑的年代可能在明代。该处距明代\nA Sie SRIF. EEA RO"
+      },
+      {
+        "text": "清",
+        "page": 16,
+        "source": "ocr",
+        "context": "的解前，对 F4 以东的室外\n地面进行了清理，了解第 3 层内包含物情况。解剖和清"
+      },
+      {
+        "text": "清",
+        "page": 16,
+        "source": "ocr",
+        "context": "清理，了解第 3 层内包含物情况。解剖和清理的结果表明，第 3 层夫包含有南宋\n\n"
+      },
+      {
+        "text": "明",
+        "page": 16,
+        "source": "ocr",
+        "context": " 3 层内包含物情况。解剖和清理的结果表明，第 3 层夫包含有南宋\n\n官窗的资片、"
+      },
+      {
+        "text": "宋",
+        "page": 16,
+        "source": "ocr",
+        "context": "剖和清理的结果表明，第 3 层夫包含有南宋\n\n官窗的资片、素烧还、究砖降块、窖具等"
+      },
+      {
+        "text": "明",
+        "page": 16,
+        "source": "ocr",
+        "context": "窖具等遗物。这些遗物压在作坊遗迹之下，表明作坊遗迹\n足帮窗炉烧造一段时间后建造的，"
+      },
+      {
+        "text": "宋",
+        "page": 16,
+        "source": "ocr",
+        "context": "帮窗炉烧造一段时间后建造的，不是乌龟山南宋官窖初期的作坊遗迹。\n\n二、窜炉地层\n\n"
+      },
+      {
+        "text": "清",
+        "page": 16,
+        "source": "ocr",
+        "context": "2 及其周团。 在 Y2 发据前, 为摘清容址中容坊的数其、 规模, 方位、 范围"
+      },
+      {
+        "text": "清",
+        "page": 17,
+        "source": "ocr",
+        "context": ", 间距 11. 6 米\nT6、T7. 清理完Y2 后, 为寻找容侧通道及其他遗迹"
+      },
+      {
+        "text": "元",
+        "page": 17,
+        "source": "ocr",
+        "context": "不同，又\n分别编为A 及B层。第2 层为元明层,第 3 层为瞄宋层，现以 Y2 南"
+      },
+      {
+        "text": "明",
+        "page": 17,
+        "source": "ocr",
+        "context": "同，又\n分别编为A 及B层。第2 层为元明层,第 3 层为瞄宋层，现以 Y2 南壁"
+      },
+      {
+        "text": "宋",
+        "page": 17,
+        "source": "ocr",
+        "context": "及B层。第2 层为元明层,第 3 层为瞄宋层，现以 Y2 南壁地层为例，将各层博\n"
+      },
+      {
+        "text": "清",
+        "page": 17,
+        "source": "ocr",
+        "context": "AS, BUSI MRE.\n在此层共发现清代小幕 18 座，绝大部分无随磊品、其中"
+      },
+      {
+        "text": "清",
+        "page": 17,
+        "source": "ocr",
+        "context": "，编号 MI一\nM4。M1、M2 中出士清“顺治通宝”钢钱及有“养老”锁银牌一块 "
+      },
+      {
+        "text": "宋",
+        "page": 17,
+        "source": "ocr",
+        "context": "厚 30一60 WK, MRE. 内含南宋官窗资片、窗具、石块及部明时期龙\nAR,"
+      },
+      {
+        "text": "明",
+        "page": 17,
+        "source": "ocr",
+        "context": "RE. 内含南宋官窗资片、窗具、石块及部明时期龙\nAR, AMMEN RH. AM"
+      },
+      {
+        "text": "明",
+        "page": 18,
+        "source": "ocr",
+        "context": "显长方形，通面益 10. 45 米，其中明间稍大，面阔 3. 55 米，两侧暗间\n"
+      },
+      {
+        "text": "金",
+        "page": 18,
+        "source": "ocr",
+        "context": " 图版二,1 )。室内地面由红烧土、\n紫金十、黄惕色沙土铺垫而成，地表平整。房基地"
+      },
+      {
+        "text": "清",
+        "page": 18,
+        "source": "ocr",
+        "context": "留“部分柱础右，整座房基的结构和布局不甚清楚。 柱础石的形状、大小与F3 相同,推"
+      },
+      {
+        "text": "明",
+        "page": 20,
+        "source": "ocr",
+        "context": "仅在东南侧-小部分保存, 骸内分间结构不明,从面泣情况推测可能系二开间房屋。房基\n"
+      },
+      {
+        "text": "明",
+        "page": 20,
+        "source": "ocr",
+        "context": "处,有砖铺的向水(图版四,2),呈网底状明浅沟,与F4 屋侧散水沟相通。房基\n南仙"
+      },
+      {
+        "text": "金",
+        "page": 22,
+        "source": "ocr",
+        "context": " RSE PA, LBW RRA\n片、紫金土块的黄色粘土. PRN RS Li. "
+      },
+      {
+        "text": "金",
+        "page": 23,
+        "source": "ocr",
+        "context": " BK\n(TE -二)。坑鸡用黄帖土、紫金十、碎苇石堆砌\n夯实， 坚实牢固, 厚 "
+      },
+      {
+        "text": "清",
+        "page": 23,
+        "source": "ocr",
+        "context": "LIEBE 17\n厚米，因要保他遗迹，未清到底及进行解剖从\nVR MAP AES "
+      },
+      {
+        "text": "金",
+        "page": 24,
+        "source": "ocr",
+        "context": "B IL. THE\n积为较纯净的小块状紫金士,系原先坑内的堆积残留,推测该坑为堆放"
+      },
+      {
+        "text": "明",
+        "page": 24,
+        "source": "ocr",
+        "context": "，系收个工场区的西面排水沟。该沟\n为向口明沟, 沟口开于第 3 层去面, 沟深入咎"
+      },
+      {
+        "text": "金",
+        "page": 25,
+        "source": "ocr",
+        "context": "“段路面有收用砖块铺垫的迹象。路基用\n紫金土炎黄色砂有土作成，夯筑坚实， 路面中心"
+      },
+      {
+        "text": "明",
+        "page": 27,
+        "source": "ocr",
+        "context": " 厘米，4 号门被晚期蓝葛\n打玻，宽度不明。门着均遭破坏，推测为外高内低的斜坡门道"
+      },
+      {
+        "text": "明",
+        "page": 27,
+        "source": "ocr",
+        "context": "1)。\n\n窗项,已雪塌无存。投业孔情况不明，从窗内倒场堆积的攀形砖及保存最高的窗整"
+      },
+      {
+        "text": "宋",
+        "page": 27,
+        "source": "ocr",
+        "context": "坊及堆积中发现的攻钵形制多样， 反映出南宋\n窒窗内烧制器物的造型丰富。由于旦钵发现"
+      },
+      {
+        "text": "明",
+        "page": 27,
+        "source": "ocr",
+        "context": "于旦钵发现数量少，其排列放置位置等情况不明。\n\n出烟室“位于窗炉的尾部，山坡的高处"
+      },
+      {
+        "text": "宋",
+        "page": 29,
+        "source": "ocr",
+        "context": "EE 遗物\n\n南宋宜容遗址内共出上 3 万余件网器碎片及大"
+      },
+      {
+        "text": "宋",
+        "page": 29,
+        "source": "ocr",
+        "context": "RS GES GPA AED. 有一批在宋代 --般民窗中少见或不见的仿古器形,如"
+      },
+      {
+        "text": "清",
+        "page": 30,
+        "source": "ocr",
+        "context": "无光泽。腹壁外刻莲准纹，因釉层厚已模糊不清，器表手感四凸不平.口径 11.8、足\n"
+      },
+      {
+        "text": "明",
+        "page": 37,
+        "source": "ocr",
+        "context": "泽较强，外底满釉。支烧，支烧痕在内底，表明此类杯又可作小品\nRA CMA) CAE"
+      },
+      {
+        "text": "明",
+        "page": 38,
+        "source": "ocr",
+        "context": "RETA Bek, oe\n洋瘤。腹辟留有明显的轮能痕。口径 23. RG 13 厘"
+      },
+      {
+        "text": "清",
+        "page": 47,
+        "source": "ocr",
+        "context": "现其他形制的口、腹、底残片，因整体尼制不清，难以复原。如 TI\neH (PA   "
+      },
+      {
+        "text": "宋",
+        "page": 52,
+        "source": "ocr",
+        "context": "   4        2H\n\n图三五南宋官窗资中路羡\n1全THE 599 2AM"
+      },
+      {
+        "text": "宋",
+        "page": 55,
+        "source": "ocr",
+        "context": "垫饼，\n一株小花〈图版四九，3) 、\n南宋官窜青资主要以釉色、碎裂纹及造型取胜，器"
+      },
+      {
+        "text": "宋",
+        "page": 58,
+        "source": "ocr",
+        "context": "窗、景德镇容、定窗等窜系.时代有北订、南宋、元代的。现将时代在南宋以前的可复原\n的"
+      },
+      {
+        "text": "元",
+        "page": 58,
+        "source": "ocr",
+        "context": "景德镇容、定窗等窜系.时代有北订、南宋、元代的。现将时代在南宋以前的可复原\n的器物"
+      },
+      {
+        "text": "宋",
+        "page": 58,
+        "source": "ocr",
+        "context": ".时代有北订、南宋、元代的。现将时代在南宋以前的可复原\n的器物特征介绍如下，\n\nR"
+      },
+      {
+        "text": "清",
+        "page": 58,
+        "source": "ocr",
+        "context": "折枝梅花，盖辟刻划菊花辩 34 个，刻线清晰。顶径 3.8、 沿径5. 2、\n高1"
+      },
+      {
+        "text": "清",
+        "page": 61,
+        "source": "ocr",
+        "context": "的器形推测为工具, 但具体名称、用途尚不清楚。 现\n将各类工上其特征分述如下。\n\n"
+      },
+      {
+        "text": "明",
+        "page": 61,
+        "source": "ocr",
+        "context": "制时脱落，攻灶于\n旁，桩头处有一小坑，说明柱头是后接的。两短刀正中各有一圆孔，孔径"
+      },
+      {
+        "text": "宋",
+        "page": 64,
+        "source": "ocr",
+        "context": " HIE. GFE\n\n54\n\n图四四 南宋官窜 1 型范工\n纹饰及馈文折本\n\n"
+      },
+      {
+        "text": "元",
+        "page": 68,
+        "source": "ocr",
+        "context": "大”\n“地”\",“玄”、“黄\"、“花\"“元”等楷书文字的《图四六 3: 赂版四八，"
+      },
+      {
+        "text": "明",
+        "page": 74,
+        "source": "ocr",
+        "context": "等错综揽杂的现象 (附表二), 由此也证明类型的排比是符合产品发展规律的, 是可千"
+      },
+      {
+        "text": "明",
+        "page": 74,
+        "source": "ocr",
+        "context": "符合产品发展规律的, 是可千的;\n问时说明乌鱼山容窗先后生产厚胎薄秋和萍胎厚釉两类"
+      },
+      {
+        "text": "金",
+        "page": 75,
+        "source": "ocr",
+        "context": "法做十。胎料中加紫金上是为了提高名和铁的含量。铝含其的增尚可"
+      },
+      {
+        "text": "清",
+        "page": 75,
+        "source": "ocr",
+        "context": "可提高胎的抗变形能尹, 能\n做轻马优美的清胎资: SARL EY. MEGA, R"
+      },
+      {
+        "text": "明",
+        "page": 75,
+        "source": "ocr",
+        "context": "容刻伦碗的残片，灰胎，施冰黄色釉，釉层透明有浮光，内壁刻划逢纹和花草纹。其中\nAG"
+      },
+      {
+        "text": "宋",
+        "page": 75,
+        "source": "ocr",
+        "context": "了民窗。因此乌多出官窗   的时间应在南宋初年，即绍兴八年建都临安后。\n\nRUE "
+      },
+      {
+        "text": "宋",
+        "page": 75,
+        "source": "ocr",
+        "context": " OR A. LONER. MIE 在北宋中晚期，\nURL PRR. HR CRU"
+      },
+      {
+        "text": "元",
+        "page": 75,
+        "source": "ocr",
+        "context": "56 年存发揪 YL 时.在窗内发现部分元代次器，\n这次在YI 扒积居中所布的二条"
+      },
+      {
+        "text": "宋",
+        "page": 75,
+        "source": "ocr",
+        "context": "这类硫的制作工艺、造型和纠划花的风格与南宋家窗明显不同。和而与邱代龙\nACRES "
+      },
+      {
+        "text": "明",
+        "page": 75,
+        "source": "ocr",
+        "context": "的制作工艺、造型和纠划花的风格与南宋家窗明显不同。和而与邱代龙\nACRES AVE"
+      },
+      {
+        "text": "清",
+        "page": 75,
+        "source": "ocr",
+        "context": "5月。\n\n2 河南省文物贱究也: 《室个清凉训涩窗外的亩碍与试据》， (文物》 1"
+      },
+      {
+        "text": "宋",
+        "page": 76,
+        "source": "ocr",
+        "context": "乌龟山南宋官窒骸取了全国先进的青资生产工艺。前期冯"
+      },
+      {
+        "text": "宋",
+        "page": 76,
+        "source": "ocr",
+        "context": "时\n项产品， 多数为厚胎薄番青次, 是南宋官窗前期使用的窜。Y1 在偏南处，窗长仅"
+      },
+      {
+        "text": "宋",
+        "page": 76,
+        "source": "ocr",
+        "context": "为了烧\n涛抬友釉谋品仙建造的使用年代在南宋后期。 同时在窗内和穿旁废品堆积层中出上"
+      },
+      {
+        "text": "元",
+        "page": 76,
+        "source": "ocr",
+        "context": "。 同时在窗内和穿旁废品堆积层中出上部分元\n代粗风，说只在元代还使用了 “段时间。"
+      },
+      {
+        "text": "元",
+        "page": 76,
+        "source": "ocr",
+        "context": "旁废品堆积层中出上部分元\n代粗风，说只在元代还使用了 “段时间。\n\n鸟绝山官窗遗迹"
+      },
+      {
+        "text": "宋",
+        "page": 85,
+        "source": "ocr",
+        "context": "附表四”南宋官窗瓷片测试标本外貌观察统计表\n\nWE]"
+      },
+      {
+        "text": "宋",
+        "page": 88,
+        "source": "ocr",
+        "context": "附表五”南宋官窗瓷片测试标本脸釉的化学成分统计表\n\n"
+      },
+      {
+        "text": "清",
+        "page": 90,
+        "source": "ocr",
+        "context": "i\n中国科:\n\n部器物的修气、照相、遗迹清绘、器物绘图等技术工作\n攻占研究    "
+      },
+      {
+        "text": "金",
+        "page": 90,
+        "source": "ocr",
+        "context": "       其中器物修复卉七振江、白荣金、出看华、王洛\nis ra       "
+      },
+      {
+        "text": "宋",
+        "page": 92,
+        "source": "ocr",
+        "context": " “Da Song Guo Zhe” 大宋\niff. i. e. Zhe Prov"
+      },
+      {
+        "text": "宋",
+        "page": 99,
+        "source": "ocr",
+        "context": ") im ALCP Me A aE\n\n南宋宫客遗址保护建筑\n"
+      },
+      {
+        "text": "宋",
+        "page": 100,
+        "source": "ocr",
+        "context": "L                3 南宋官窗博物馆全开国际学术讨论会\n\nwt\na"
+      },
+      {
+        "text": "宋",
+        "page": 137,
+        "source": "ocr",
+        "context": "41 | 7. EB T2加B:24\n南宋官窜资器纹饰残片\n"
+      },
+      {
+        "text": "宋",
+        "page": 144,
+        "source": "ocr",
+        "context": "      5M Ti2DAssi\n\n南宋官窜工具\n"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "饰",
+        "page": 10,
+        "source": "ocr",
+        "context": "\n瓷器\n\n4\ni\n全       瓷器纹饰残片\n:上      全窜瓷器纹希残片\n"
+      },
+      {
+        "text": "钵",
+        "page": 18,
+        "source": "ocr",
+        "context": "其余三面墙基皆被破坏，仅有零星小石块、敬钵片等残迹。宗内分间处亦被破坏，不见\n隔墙"
+      },
+      {
+        "text": "钵",
+        "page": 22,
+        "source": "ocr",
+        "context": "R ns 辆厂二，2)。池口部和池莒用苗钵底片及石块公砌，池底则铺石块和青灰色残\n"
+      },
+      {
+        "text": "盘",
+        "page": 23,
+        "source": "ocr",
+        "context": "入土中很深的木轴，木\n轴的顶端装于嵌入轮盘中心的轴顶院内，使轮盘\n能快速的旋转, "
+      },
+      {
+        "text": "盘",
+        "page": 23,
+        "source": "ocr",
+        "context": "轴的顶端装于嵌入轮盘中心的轴顶院内，使轮盘\n能快速的旋转, 轮盘上放坏泥或资坯,转"
+      },
+      {
+        "text": "盘",
+        "page": 23,
+        "source": "ocr",
+        "context": "心的轴顶院内，使轮盘\n能快速的旋转, 轮盘上放坏泥或资坯,转动轮盘，\n就可拉坯成型"
+      },
+      {
+        "text": "盘",
+        "page": 23,
+        "source": "ocr",
+        "context": "快速的旋转, 轮盘上放坏泥或资坯,转动轮盘，\n就可拉坯成型或进行修坏、刮釉等工序,"
+      },
+      {
+        "text": "盘",
+        "page": 23,
+        "source": "ocr",
+        "context": ", a a\n木轴已腐从无存，只遗留下装轮盘基座的坑洞和\nABIL. HEPELAH"
+      },
+      {
+        "text": "豆",
+        "page": 23,
+        "source": "ocr",
+        "context": "口直径 35 厘米 残深仅 5 厘米。孔豆用红色精\n上筑成，厚 10 厘米。不远处"
+      },
+      {
+        "text": "钵",
+        "page": 27,
+        "source": "ocr",
+        "context": "为外高内低的斜坡门道。各门砍处均有残破匣钵或容\n其铺垫，其中 4 号门南侧窗墙与其"
+      },
+      {
+        "text": "环",
+        "page": 27,
+        "source": "ocr",
+        "context": "度之高。\n\n容室底部有铺底匣铂,已大部破环无存,仅发现堆星完整昔钵 5 只.其中窗"
+      },
+      {
+        "text": "钵",
+        "page": 27,
+        "source": "ocr",
+        "context": "底匣铂,已大部破环无存,仅发现堆星完整昔钵 5 只.其中窗尾西侧的1 只，\n尚放置"
+      },
+      {
+        "text": "钵",
+        "page": 27,
+        "source": "ocr",
+        "context": "弄”的宽度，以利火焰流通。窗\n内发现的匣钵最大直径 42 厘米, 最小直径仅 10"
+      },
+      {
+        "text": "钵",
+        "page": 27,
+        "source": "ocr",
+        "context": "和四底 2 种。但在作坊及堆积中发现的攻钵形制多样， 反映出南宋\n窒窗内烧制器物的"
+      },
+      {
+        "text": "钵",
+        "page": 27,
+        "source": "ocr",
+        "context": "出南宋\n窒窗内烧制器物的造型丰富。由于旦钵发现数量少，其排列放置位置等情况不明。\n"
+      },
+      {
+        "text": "饰",
+        "page": 29,
+        "source": "ocr",
+        "context": "过整理，对这批\n址物的形制、胎生特征、纹饰及烧造上艺等有了较全面的认识，报导如下。"
+      },
+      {
+        "text": "盘",
+        "page": 29,
+        "source": "ocr",
+        "context": "此器物的造型特征, 除出土基最多的碗、 盘、\nSi BRS GES GPA AED"
+      },
+      {
+        "text": "壶",
+        "page": 29,
+        "source": "ocr",
+        "context": "炉和散炉，秆、玉式版及其他形制特殊的频、壶类，各式的器\nWER CR).\n\nAPE"
+      },
+      {
+        "text": "饰",
+        "page": 29,
+        "source": "ocr",
+        "context": "、黄褐、土黄色居多 (附表二) 。\n\n装饰除仿占器外，以造迄、向色取胜，纹饰简单，"
+      },
+      {
+        "text": "饰",
+        "page": 29,
+        "source": "ocr",
+        "context": "\n\n装饰除仿占器外，以造迄、向色取胜，纹饰简单，题材少。装饰方法有堆贴、夭印、铂\n"
+      },
+      {
+        "text": "饰",
+        "page": 29,
+        "source": "ocr",
+        "context": "，以造迄、向色取胜，纹饰简单，题材少。装饰方法有堆贴、夭印、铂\n\n制作工艺以轮制为"
+      },
+      {
+        "text": "盘",
+        "page": 29,
+        "source": "ocr",
+        "context": "，有的器形系参照传此\n间复原，计人了琉、盘、三足盘、矶、旨、洗、盒、杯、钵、丛、花"
+      },
+      {
+        "text": "盘",
+        "page": 29,
+        "source": "ocr",
+        "context": "形系参照传此\n间复原，计人了琉、盘、三足盘、矶、旨、洗、盒、杯、钵、丛、花盆, S"
+      },
+      {
+        "text": "杯",
+        "page": 29,
+        "source": "ocr",
+        "context": "，计人了琉、盘、三足盘、矶、旨、洗、盒、杯、钵、丛、花盆, Se a\nATE, A"
+      },
+      {
+        "text": "钵",
+        "page": 29,
+        "source": "ocr",
+        "context": "人了琉、盘、三足盘、矶、旨、洗、盒、杯、钵、丛、花盆, Se a\nATE, Ai,"
+      },
+      {
+        "text": "盆",
+        "page": 29,
+        "source": "ocr",
+        "context": "、三足盘、矶、旨、洗、盒、杯、钵、丛、花盆, Se a\nATE, Ai, ae. "
+      },
+      {
+        "text": "盘",
+        "page": 31,
+        "source": "ocr",
+        "context": " 7 EIR TIDE 92\n\n《2)》盘”可分四型。造型、大小皆不同，用途也不同"
+      },
+      {
+        "text": "盘",
+        "page": 31,
+        "source": "ocr",
+        "context": "、大小皆不同，用途也不同，距有饮食用的菜盘、调料盘，也\n有陈设用的果盘等。\n\n1 "
+      },
+      {
+        "text": "盘",
+        "page": 31,
+        "source": "ocr",
+        "context": "不同，用途也不同，距有饮食用的菜盘、调料盘，也\n有陈设用的果盘等。\n\n1 MORO"
+      },
+      {
+        "text": "盘",
+        "page": 31,
+        "source": "ocr",
+        "context": "有饮食用的菜盘、调料盘，也\n有陈设用的果盘等。\n\n1 MORO, A. HM, K"
+      },
+      {
+        "text": "盘",
+        "page": 32,
+        "source": "ocr",
+        "context": "2砷米〈图 -八，6)。\n\n(3) 三足盘”可分一型\n\n12 REIT. DU. "
+      },
+      {
+        "text": "泡",
+        "page": 34,
+        "source": "ocr",
+        "context": "面光润，有大裂纹及少\n让棕眼，珊层内有气泡，口沿下内外皆有一圈刮釉，刮痕旦灰白色，"
+      },
+      {
+        "text": "杯",
+        "page": 37,
+        "source": "ocr",
+        "context": "，外底满釉。支烧，支烧痕在内底，表明此类杯又可作小品\nRA CMA) CAE. O"
+      },
+      {
+        "text": "钵",
+        "page": 37,
+        "source": "ocr",
+        "context": "，8;， 图版一八，2) 。\n\n(9) 钵 可分三型。\n\n1型 WILE RE. "
+      },
+      {
+        "text": "钵",
+        "page": 38,
+        "source": "ocr",
+        "context": "托。底径 9.2、最大腹径 12. 5、钵残高 4. 4、带热具残通高 6. 4 "
+      },
+      {
+        "text": "泡",
+        "page": 38,
+        "source": "ocr",
+        "context": "Sp A Ee EAR EE. 釉层中气泡密集，有大冰虱纹。 外壁近底处堆贴粗绳纹"
+      },
+      {
+        "text": "泡",
+        "page": 38,
+        "source": "ocr",
+        "context": "\n\nC12) 坛”皆为残片, 口沿与现代泡菜坛相似。     : 26，重口，外为"
+      },
+      {
+        "text": "饰",
+        "page": 39,
+        "source": "ocr",
+        "context": "UTE. 肩腹部划阴弦纹两道, 肩、足贴饰短诽棱。口径 14.4、腹径 15. 6"
+      },
+      {
+        "text": "泡",
+        "page": 40,
+        "source": "ocr",
+        "context": "深灰色厚胎, AIL, RS. AR\n气泡密集，釉面光洋，有了碎独纹。底有支钉痕，"
+      },
+      {
+        "text": "饰",
+        "page": 40,
+        "source": "ocr",
+        "context": "腹残片上灾有耳弦纹，应是二三道为一组的纹饰。复原口径 12.7?、底径 12、残高"
+      },
+      {
+        "text": "环",
+        "page": 41,
+        "source": "ocr",
+        "context": " (图版一七， 1、2) 复原出龙首形双环耳。浅灰色胎， 质细较硬。黄褐色薄禾，光"
+      },
+      {
+        "text": "饰",
+        "page": 42,
+        "source": "ocr",
+        "context": "满釉、 ROR, 手制粘接. 堆贴剔对纹饰 INS,\nFRAT. MK Ck. 7"
+      },
+      {
+        "text": "瓶",
+        "page": 43,
+        "source": "ocr",
+        "context": "二，6) 。\n\n除上>    外，! 型瓶的口颈部残片数量极多,形制稍有差异。T1"
+      },
+      {
+        "text": "泡",
+        "page": 49,
+        "source": "ocr",
+        "context": " FRR LNA, AR. RIE. 气泡多，内外\n满釉。支烧，盖项内有 5 PR"
+      },
+      {
+        "text": "泡",
+        "page": 51,
+        "source": "ocr",
+        "context": "Cah. Pil, aA 3, RY\n\n泡，卷沿边内有 “RASA. EE 2 厘"
+      },
+      {
+        "text": "盘",
+        "page": 51,
+        "source": "ocr",
+        "context": "厘米《图 SIM. 7: 周版\n面刻划叶盘。高弧项， 钮稍残。灰色胎，灰青\nrd,"
+      },
+      {
+        "text": "饰",
+        "page": 51,
+        "source": "ocr",
+        "context": "生烧。士商色厚胎，质软。轮制垫烧。外壁贴饰模印凸膝的效龙纹。顶径 14, HE\n1"
+      },
+      {
+        "text": "饰",
+        "page": 51,
+        "source": "ocr",
+        "context": "LL\n扇长条上刻纹，作竹杆状，每两组璧上饰有相间的一对凸贿多龙纹。口径 14. 4"
+      },
+      {
+        "text": "盘",
+        "page": 54,
+        "source": "ocr",
+        "context": ". TRIBE 8 PTE + 1 亦为盘底圆号. 盘内底用纤细的线杀\n象.线条们"
+      },
+      {
+        "text": "盘",
+        "page": 54,
+        "source": "ocr",
+        "context": "E 8 PTE + 1 亦为盘底圆号. 盘内底用纤细的线杀\n象.线条们彻，表更的此"
+      },
+      {
+        "text": "饰",
+        "page": 54,
+        "source": "ocr",
+        "context": " 8; 彩版四，1)。\n\n(8) 其他纹饰”大部分是仿十器物上的纹饰以刻划模印技法"
+      },
+      {
+        "text": "饰",
+        "page": 54,
+        "source": "ocr",
+        "context": "(8) 其他纹饰”大部分是仿十器物上的纹饰以刻划模印技法为主，也有用堆贴担塑技\ni"
+      },
+      {
+        "text": "饰",
+        "page": 57,
+        "source": "ocr",
+        "context": ". APS. Bk HES\n动物形象的纹饰。\n\n(3) 其他类; 有凸纺纹、门路纹"
+      },
+      {
+        "text": "环",
+        "page": 57,
+        "source": "ocr",
+        "context": "弦纹，有仿古的八卦纹、云雷纹、回形纹、重环纹、\nFEL, GRAAL. RATER"
+      },
+      {
+        "text": "盘",
+        "page": 61,
+        "source": "ocr",
+        "context": "R, RE. BL. 平底。外形似浅租，盘内竖一线轴形圆柱。\n杜顶耐平整，项径 4"
+      },
+      {
+        "text": "盘",
+        "page": 61,
+        "source": "ocr",
+        "context": "米，顶面下稍内收。柱径 3 厘米，略高出盘口，柱周一团 凹档。浅\n次色厚胎，质坚硬"
+      },
+      {
+        "text": "盘",
+        "page": 61,
+        "source": "ocr",
+        "context": "ER RTA. ABH\n流釉。轮制垫烧。盘口径 8. 1.底径 7. 7A 2. "
+      },
+      {
+        "text": "刀",
+        "page": 61,
+        "source": "ocr",
+        "context": "，桩头处有一小坑，说明柱头是后接的。两短刀正中各有一圆孔，孔径 0. 4 BOK."
+      },
+      {
+        "text": "饰",
+        "page": 64,
+        "source": "ocr",
+        "context": "和粗糙, AAC. 纹饰上下分成三段, 中间以\n砧道弦纹相隔. "
+      },
+      {
+        "text": "杯",
+        "page": 64,
+        "source": "ocr",
+        "context": "FE. TSP + 106. 似倒轻的简杯。平顶，直腹，凹底，\nWUE, AMES"
+      },
+      {
+        "text": "饰",
+        "page": 64,
+        "source": "ocr",
+        "context": "54\n\n图四四 南宋官窜 1 型范工\n纹饰及馈文折本\n\n"
+      },
+      {
+        "text": "盘",
+        "page": 68,
+        "source": "ocr",
+        "context": "80,，直口方唇，直折腹、小平底富内凹。盘沿切前成 5 枚四棱肩锥\n形支钉。紫其色"
+      },
+      {
+        "text": "盘",
+        "page": 71,
+        "source": "ocr",
+        "context": ",\n吕分为一式。\n不规攻圆形，系用小泥条盘成。 白色资十胎、质细，手制。\n463."
+      },
+      {
+        "text": "钵",
+        "page": 72,
+        "source": "ocr",
+        "context": "下   © THE + 218、拟倒扣的钵白。平面， 下腹，内弧腹，足底平。深灰色"
+      },
+      {
+        "text": "瓶",
+        "page": 74,
+        "source": "ocr",
+        "context": "部分租器物图由. 将殖、委、标、洗、炉、瓶等踢物分成几卉儿式，人在\nBATTER "
+      },
+      {
+        "text": "盘",
+        "page": 74,
+        "source": "ocr",
+        "context": ". 1 AVL, 2、3 式的演变是: 盘身由大变小,由深变浅; 联\nLUTE. "
+      },
+      {
+        "text": "钵",
+        "page": 76,
+        "source": "ocr",
+        "context": "艺都是承袭北林伺窗的。 DE RR\n底区钵和龙窑则是选用南方传统的制资设备，\n\nP"
+      },
+      {
+        "text": "饰",
+        "page": 137,
+        "source": "ocr",
+        "context": ". EB T2加B:24\n南宋官窜资器纹饰残片\n"
+      },
+      {
+        "text": "盘",
+        "page": 140,
+        "source": "ocr",
+        "context": "图版四O (XL)\n\n1.越容系盘 T14四:242\n\nmm RMm Ti"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": " 200 米",
+        "page": 11,
+        "source": "ocr",
+        "context": "能出是--床东西长 300 98. UL 200 米， 海拔高度 76 Rule Cc. e"
+      },
+      {
+        "text": " 845 厘米",
+        "page": 14,
+        "source": "ocr",
+        "context": "   SLACBE EWEEK. OR. 845 厘米。 SRA, BBR,\nTRH SG. "
+      },
+      {
+        "text": " 10 米",
+        "page": 14,
+        "source": "ocr",
+        "context": "216 度，处在同一条中轴线上,前后姐距 10 米,由北\n向南依次编号为85 [ 双 FI"
+      },
+      {
+        "text": "7.6米",
+        "page": 16,
+        "source": "ocr",
+        "context": "7.6米，其中阴间面阅 站米，两侧暗问各面阔\n\n"
+      },
+      {
+        "text": " 6 米",
+        "page": 17,
+        "source": "ocr",
+        "context": "OF DGRIY 2 条, 间距 11. 6 米\nT6、T7. 清理完Y2 后, 为寻找"
+      },
+      {
+        "text": "115 厘米",
+        "page": 17,
+        "source": "ocr",
+        "context": " WK. oS,\n\nAMZ: 厚 60一115 厘米，是筑战壕时翻控出的本红色粘士层，内含较"
+      },
+      {
+        "text": "30 厘米",
+        "page": 17,
+        "source": "ocr",
+        "context": "R RR A Ri\nARE.\n\n厚13一30 厘米, FARE, LO. SAMARAS,"
+      },
+      {
+        "text": " 18 米",
+        "page": 18,
+        "source": "ocr",
+        "context": "向 137 度。面向Y2, 相\nFREY 18 米。房基平面显长方形，通面益 10. 45"
+      },
+      {
+        "text": " 45 米",
+        "page": 18,
+        "source": "ocr",
+        "context": "8 米。房基平面显长方形，通面益 10. 45 米，其中明间稍大，面阔 3. 55 米，两"
+      },
+      {
+        "text": " 55 米",
+        "page": 18,
+        "source": "ocr",
+        "context": "0. 45 米，其中明间稍大，面阔 3. 55 米，两侧暗间\n各宽 3. 45 米， BE"
+      },
+      {
+        "text": " 45 米",
+        "page": 18,
+        "source": "ocr",
+        "context": "阔 3. 55 米，两侧暗间\n各宽 3. 45 米， BEDS 5. 05 米，总面积达 "
+      },
+      {
+        "text": " 05 米",
+        "page": 18,
+        "source": "ocr",
+        "context": "\n各宽 3. 45 米， BEDS 5. 05 米，总面积达 53 平方米〈图八; 图版二"
+      },
+      {
+        "text": "长 32 厘米",
+        "page": 18,
+        "source": "ocr",
+        "context": "… 类系经过加工的小方石，比较规整, 边长 32 厘米左右，另一类是较平整的自然\n右块，形状不"
+      },
+      {
+        "text": "6.5 米",
+        "page": 18,
+        "source": "ocr",
+        "context": "3 相似, 唯进深可能略大于 F3, 约6.5 米, 也应是一座三开间的工棚式建\nSt 〈"
+      },
+      {
+        "text": " 20 厘米",
+        "page": 18,
+        "source": "ocr",
+        "context": "机部位，有一条与其走向一致的小浅沟，深仅 20 厘米左右，常房 -侧的沟壁局\n部用石块急砌，"
+      },
+      {
+        "text": " 55 米",
+        "page": 20,
+        "source": "ocr",
+        "context": "SU TTP] 9. 35 HED 8. 55 米,总面积达 80\n平方米(图;图    "
+      },
+      {
+        "text": " 3 厘米",
+        "page": 20,
+        "source": "ocr",
+        "context": "井砖,砖的规属分别有长 28、宽 8\\厚 3 厘米和长 29,8\n12.7% 3 厘米的长"
+      },
+      {
+        "text": " 3 厘米",
+        "page": 20,
+        "source": "ocr",
+        "context": "\\厚 3 厘米和长 29,8\n12.7% 3 厘米的长方砖及边长 29、厚 3 厘米的方砖"
+      },
+      {
+        "text": " 3 厘米",
+        "page": 20,
+        "source": "ocr",
+        "context": ".7% 3 厘米的长方砖及边长 29、厚 3 厘米的方砖 3 种。 由于扰乱.破坏严重,墙"
+      },
+      {
+        "text": " 35 厘米",
+        "page": 20,
+        "source": "ocr",
+        "context": "测可能系二开间房屋。房基\n高出房外地面约 35 厘米,后檐下有小浅沟与F4 前榴下小浅沟相连"
+      },
+      {
+        "text": " 2.5 米",
+        "page": 22,
+        "source": "ocr",
+        "context": "池\n\n位于 T3 中部偏南，F3 南墙外 2.5 米处，西距排水沟 3 米，编号为 Cl。\n"
+      },
+      {
+        "text": " 3 米",
+        "page": 22,
+        "source": "ocr",
+        "context": "，F3 南墙外 2.5 米处，西距排水沟 3 米，编号为 Cl。\n\nCl 为大型浅圆坑,"
+      },
+      {
+        "text": " 21 厘米",
+        "page": 23,
+        "source": "ocr",
+        "context": "金十、碎苇石堆砌\n夯实， 坚实牢固, 厚 21 厘米. 坑底平整, 中心有\n-直径 9 BO"
+      },
+      {
+        "text": "直径 35 厘米",
+        "page": 23,
+        "source": "ocr",
+        "context": "一晚期莫非打破，仅留一个装木轴的圆孔，口直径 35 厘米 残深仅 5 厘米。孔豆用红色精\n上筑成"
+      },
+      {
+        "text": " 5 厘米",
+        "page": 23,
+        "source": "ocr",
+        "context": "装木轴的圆孔，口直径 35 厘米 残深仅 5 厘米。孔豆用红色精\n上筑成，厚 10 厘米。"
+      },
+      {
+        "text": " 10 厘米",
+        "page": 23,
+        "source": "ocr",
+        "context": "深仅 5 厘米。孔豆用红色精\n上筑成，厚 10 厘米。不远处有釉料缸及素烧坯堆等遗迹，推测 "
+      },
+      {
+        "text": " 1 米",
+        "page": 23,
+        "source": "ocr",
+        "context": " F4 南间的前部, PEL SESSA 1 米, 两缸间距 45 BOK. 缸\n的下咱"
+      },
+      {
+        "text": "深 40 厘米",
+        "page": 23,
+        "source": "ocr",
+        "context": "径 80, SHEL ELA 96, 残深 40 厘米。内底尚存大基黄白色纯净的细泥料.2 号"
+      },
+      {
+        "text": " 80\n厘米",
+        "page": 23,
+        "source": "ocr",
+        "context": "大基黄白色纯净的细泥料.2 号缸直径亦为 80\n厘米。缸内亦存有同伴泥料。经化验，残存泥料是"
+      },
+      {
+        "text": " 2.5 米",
+        "page": 23,
+        "source": "ocr",
+        "context": "为集中，范围也较大。该堆积位士釉料缸北面 2.5 米处，其北 3 米处即为素烧炉遗迹。该堆\n"
+      },
+      {
+        "text": " 3 米",
+        "page": 23,
+        "source": "ocr",
+        "context": "该堆积位士釉料缸北面 2.5 米处，其北 3 米处即为素烧炉遗迹。该堆\n积范围略呈长方形"
+      },
+      {
+        "text": "宽 0.9 米",
+        "page": 23,
+        "source": "ocr",
+        "context": "迹。该堆\n积范围略呈长方形,长约1.2、宽 0.9 米〈图版六,1)。堆积为经过低温烘烤的坏体"
+      },
+      {
+        "text": "2米",
+        "page": 24,
+        "source": "ocr",
+        "context": "3 与F4 之间的室外空地上,其东北\n约2米      了地.南面迎3 米处即是 F"
+      },
+      {
+        "text": "3 米",
+        "page": 24,
+        "source": "ocr",
+        "context": ",其东北\n约2米      了地.南面迎3 米处即是 Fd dee\n堆, 上部均遭破坏"
+      },
+      {
+        "text": "深 16 厘米",
+        "page": 24,
+        "source": "ocr",
+        "context": "长 80、火腹宽 67, LW 28、残深 16 厘米〈图\nly ARAN     BEER "
+      },
+      {
+        "text": " 3 厘米",
+        "page": 24,
+        "source": "ocr",
+        "context": "ARAN     BEER ESE DR 3 厘米. 火\nINCE RL ATE Be b"
+      },
+      {
+        "text": "10 厘米",
+        "page": 24,
+        "source": "ocr",
+        "context": ". S 米直径范围内,有有\nPRGA S10 厘米的烧士层，分布形状与火膀- -\n致，略昌"
+      },
+      {
+        "text": " 2 米",
+        "page": 24,
+        "source": "ocr",
+        "context": " HERE\nfii T21 APS By 2 米处,编号为K1- 坑口已遭玻坏,坑打破第"
+      },
+      {
+        "text": " 50 米",
+        "page": 24,
+        "source": "ocr",
+        "context": " 2 层的右砌墙基填压。 揭露部分全长近 50 米，沟口宽 0.7一0.8、底宽0.6米\n"
+      },
+      {
+        "text": "宽0.6米",
+        "page": 24,
+        "source": "ocr",
+        "context": "近 50 米，沟口宽 0.7一0.8、底宽0.6米\nWAGs CHE 0. 5、南端深 0"
+      },
+      {
+        "text": "3米",
+        "page": 24,
+        "source": "ocr",
+        "context": "寺墙\n\nTY SOME PFS 前方 .3米处必排水沟南段西侧-一段.皆残存墙基。F"
+      },
+      {
+        "text": " 2 米",
+        "page": 25,
+        "source": "ocr",
+        "context": "aE TARR EA PPS 东南前方近 2 米处的了20 探方内, 局部被 G2 BR"
+      },
+      {
+        "text": " 37.5\n米",
+        "page": 27,
+        "source": "ocr",
+        "context": "而上延伸, 方向 235 度。斜坡长度为 37.5\n米，宽 1. 34一1.8 米， 高差7."
+      },
+      {
+        "text": "1.8 米",
+        "page": 27,
+        "source": "ocr",
+        "context": "坡长度为 37.5\n米，宽 1. 34一1.8 米， 高差7.2 米〈图一六 图版八，1)"
+      },
+      {
+        "text": "7.2 米",
+        "page": 27,
+        "source": "ocr",
+        "context": "\n米，宽 1. 34一1.8 米， 高差7.2 米〈图一六 图版八，1)。窗炉前段比较平缓"
+      },
+      {
+        "text": "10 厘米",
+        "page": 27,
+        "source": "ocr",
+        "context": "最后平整窗室地面\n并铺垫 ~层厚达 5一10 厘米的石英砂。建窗用材主要是土坯砖块,有素面"
+      },
+      {
+        "text": " 10 厘米",
+        "page": 27,
+        "source": "ocr",
+        "context": " 10 WOK. 长 33、宽 13、厚 10 厘米。攀形砖的规格有两种 长 19、宽\n1]"
+      },
+      {
+        "text": " 10 厘米",
+        "page": 27,
+        "source": "ocr",
+        "context": "规格有两种 长 19、宽\n1]4.5、厚 10 厘米长 20、宽 14.5、厚 10 厘米。"
+      },
+      {
+        "text": " 10 厘米",
+        "page": 27,
+        "source": "ocr",
+        "context": "厚 10 厘米长 20、宽 14.5、厚 10 厘米。槐形砖发现于窗头火胜及窗顶地塌部位。\n"
+      },
+      {
+        "text": "宽 1.34 米",
+        "page": 27,
+        "source": "ocr",
+        "context": "最低处。平面呈半圆形，火膀后部有隔墙，墙宽 1.34 米，\n南北半径约 0. 45 米,。增用长"
+      },
+      {
+        "text": " 45 米",
+        "page": 27,
+        "source": "ocr",
+        "context": "，墙宽 1.34 米，\n南北半径约 0. 45 米,。增用长方形单砖东西向模排错缝琶砌，两"
+      },
+      {
+        "text": " 40 米",
+        "page": 27,
+        "source": "ocr",
+        "context": "西部，东侧弧墙已\n残，后墙残存高度 0. 40 米，墙厚 0. 13 米。火膛顶部及妨栅、"
+      },
+      {
+        "text": " 13 米",
+        "page": 27,
+        "source": "ocr",
+        "context": "后墙残存高度 0. 40 米，墙厚 0. 13 米。火膛顶部及妨栅、火门、通风口、出灰道等"
+      },
+      {
+        "text": "65 厘米",
+        "page": 27,
+        "source": "ocr",
+        "context": "长方形砖及栅形夸砌建，残存高度为 13一65 厘米，厚 13 厘米。墙艾大部分用\nRDC "
+      },
+      {
+        "text": " 13 厘米",
+        "page": 27,
+        "source": "ocr",
+        "context": "夸砌建，残存高度为 13一65 厘米，厚 13 厘米。墙艾大部分用\nRDC AGRA A E"
+      },
+      {
+        "text": "宽 50 厘米",
+        "page": 27,
+        "source": "ocr",
+        "context": "窗门宽度自窗\n藉往后依顺序为; 1 号门宽 50 厘米，2 号门宽 63 厘米，3 号门宽 4"
+      },
+      {
+        "text": "宽 63 厘米",
+        "page": 27,
+        "source": "ocr",
+        "context": "序为; 1 号门宽 50 厘米，2 号门宽 63 厘米，3 号门宽 49 厘米，4 号门被晚期"
+      },
+      {
+        "text": "宽 49 厘米",
+        "page": 27,
+        "source": "ocr",
+        "context": " 厘米，2 号门宽 63 厘米，3 号门宽 49 厘米，4 号门被晚期蓝葛\n打玻，宽度不明。门"
+      },
+      {
+        "text": " 60\n厘米",
+        "page": 27,
+        "source": "ocr",
+        "context": "从窗内倒场堆积的攀形砖及保存最高的窗整自 60\n厘米处开始往上向内弧收的迹象观察，窗顶应是拱"
+      },
+      {
+        "text": " 70 米",
+        "page": 27,
+        "source": "ocr",
+        "context": "察，窗顶应是拱券式项，其高度估计在 1. 70 米左右。\n\nTR. AAV. ARTE, "
+      },
+      {
+        "text": " 10 厘米",
+        "page": 27,
+        "source": "ocr",
+        "context": "粒，从局部剖面观察, 底部红烧十层厚度在 10 厘米以上, Pe RIS ARE.\n以反映窗"
+      },
+      {
+        "text": " 10 厘米",
+        "page": 27,
+        "source": "ocr",
+        "context": "尾西侧的1 只，\n尚放置在原位，距西窗辟 10 厘米，是窗内的“火路”或“火弄”的宽度，以利"
+      },
+      {
+        "text": "直径 42 厘米",
+        "page": 27,
+        "source": "ocr",
+        "context": "宽度，以利火焰流通。窗\n内发现的匣钵最大直径 42 厘米, 最小直径仅 10 厘米左右,一般为 "
+      },
+      {
+        "text": " 10 厘米",
+        "page": 27,
+        "source": "ocr",
+        "context": "的匣钵最大直径 42 厘米, 最小直径仅 10 厘米左右,一般为 20 厘米, 高度 8一1"
+      },
+      {
+        "text": " 20 厘米",
+        "page": 27,
+        "source": "ocr",
+        "context": "米, 最小直径仅 10 厘米左右,一般为 20 厘米, 高度 8一10 厘米。\n缘为沿形，仅"
+      },
+      {
+        "text": "10 厘米",
+        "page": 27,
+        "source": "ocr",
+        "context": "米左右,一般为 20 厘米, 高度 8一10 厘米。\n缘为沿形，仅有直口平底和四底 2 种"
+      },
+      {
+        "text": "2 米",
+        "page": 27,
+        "source": "ocr",
+        "context": "火柱北侧为出烟\n室， 东西长 1.8 -2 米，南北宽 0. 55 米,，残高0. 3"
+      },
+      {
+        "text": " 55 米",
+        "page": 27,
+        "source": "ocr",
+        "context": " 东西长 1.8 -2 米，南北宽 0. 55 米,，残高0. 3 米 (图版七,2)。 "
+      },
+      {
+        "text": " 3 米",
+        "page": 27,
+        "source": "ocr",
+        "context": " 米，南北宽 0. 55 米,，残高0. 3 米 (图版七,2)。 BAY WAAL B"
+      },
+      {
+        "text": "25 厘米",
+        "page": 30,
+        "source": "ocr",
+        "context": " AK. MER. RR. B46, R25 厘米〈图一七，2)。\n\n3 TEMRACBL"
+      },
+      {
+        "text": "高4.5厘米",
+        "page": 30,
+        "source": "ocr",
+        "context": "D AE EB. or\n径14、足径4、高4.5厘米〈图一七， 3;， 图版九，1) 。\n\n"
+      },
+      {
+        "text": " 4 厘米",
+        "page": 30,
+        "source": "ocr",
+        "context": ". 口径 12. 3、足径 4、高 4. 4 厘米 〈图\n一七，5; MOL, 2),\n\n"
+      },
+      {
+        "text": "高 5.2 厘米",
+        "page": 30,
+        "source": "ocr",
+        "context": "色“铁足\"，口\n径站.6、是径 3.6、高 5.2 厘米〈图一七，6， 图版九，3)。\n\n下型 "
+      },
+      {
+        "text": "高4.8厘米",
+        "page": 30,
+        "source": "ocr",
+        "context": "手感四凸不平.口径 11.8、足\n入3、高4.8厘米〈图- -七，7; 图版九，4)。\n\n2"
+      },
+      {
+        "text": "高4 厘米",
+        "page": 31,
+        "source": "ocr",
+        "context": "钉痕。口径 17. 6、足径 10.8、高4 厘米〈图一作，1; 图版一D，1)。\n\noc"
+      },
+      {
+        "text": "27\n米",
+        "page": 31,
+        "source": "ocr",
+        "context": "5 TRE. OB 13, BRO, B27\n米〈力一个，2; 图版一口，2) 。\n\n3"
+      },
+      {
+        "text": "高 3 厘米",
+        "page": 32,
+        "source": "ocr",
+        "context": ". IGE. 口径 19 IRE 14 高 3 厘米(图一九,4;图版一二,3)。\n\nSX "
+      },
+      {
+        "text": "                    10厘米",
+        "page": 33,
+        "source": "ocr",
+        "context": "9                    10厘米\n\nI WR RSA\nLIMTIG :8"
+      },
+      {
+        "text": " 6 厘米",
+        "page": 33,
+        "source": "ocr",
+        "context": "底径 11、失高 1. 4、\n通高 2. 6 厘米〈图一九，3; 图版一二，2)。\n\n(4"
+      },
+      {
+        "text": "高1.8 厘米",
+        "page": 33,
+        "source": "ocr",
+        "context": "有碎裂纹。 口径9. 5、底径 6.5、高1.8 厘米 CTO, 1) 图版一三，1)。\n\nF"
+      },
+      {
+        "text": "高1.6 厘米",
+        "page": 33,
+        "source": "ocr",
+        "context": "釉层磨损。口径 8.8、.底径 6.2 高1.6 厘米(图二〇,3)。\n\n1H A, WM, "
+      },
+      {
+        "text": "高 1.6 厘米",
+        "page": 33,
+        "source": "ocr",
+        "context": "SY\nAK. 口径8.7、足径 5.2、高 1.6 厘米〈图二〇，5; 图版一三，5) 。\n\n("
+      },
+      {
+        "text": "高2.5 厘米",
+        "page": 33,
+        "source": "ocr",
+        "context": "，呈花浴状。口径 6.5、足\n径4.2、高2.5 厘米(图二一，1; 图版一三，4)\n\n2X "
+      },
+      {
+        "text": "残高 3 厘米",
+        "page": 33,
+        "source": "ocr",
+        "context": "he. RKC, RACH. 口径 3、残高 3 厘米〈图二一，2) 。\n\n18 MO, AM"
+      },
+      {
+        "text": "高 2 厘米",
+        "page": 33,
+        "source": "ocr",
+        "context": "胎。 灰青色薄釉。\n口径?7、底径 5、高 2 厘米〈图二一，3， 图版    6).\n\nT"
+      },
+      {
+        "text": "3厘米",
+        "page": 34,
+        "source": "ocr",
+        "context": "3厘米    3.     5尾米\n\nLb  "
+      },
+      {
+        "text": " 1 厘米",
+        "page": 34,
+        "source": "ocr",
+        "context": "A TION. 17\n\n底部胎厚达 1. 1 厘米。土黄色薄币，釉层大部分脱落.口径 4."
+      },
+      {
+        "text": "高 3.5\n厘米",
+        "page": 34,
+        "source": "ocr",
+        "context": "落.口径 4.8、腹径 5.4、底径2、高 3.5\n厘米〈图二--，4; 图版一人人，3)。\n\n"
+      },
+      {
+        "text": " 25 厘米",
+        "page": 34,
+        "source": "ocr",
+        "context": "紧\nJRE WER TE 0. 1一0. 25 厘米，质较细松，有气孔。灰青色厚釉，策面光润"
+      },
+      {
+        "text": "高 3.8 厘米",
+        "page": 34,
+        "source": "ocr",
+        "context": "BOE\" &. 口径 14、足径 10、高 3.8 厘米〈图二二，2; 图版一四，2) 。\n\n2"
+      },
+      {
+        "text": " 25\n厘米",
+        "page": 35,
+        "source": "ocr",
+        "context": "差, BURCH, 釉厚 0. 1一0. 25\n厘米，器形制作规整匀称。口入 44、足径 3"
+      },
+      {
+        "text": "高 10.4 厘米",
+        "page": 35,
+        "source": "ocr",
+        "context": "作规整匀称。口入 44、足径 37.4、高 10.4 厘米〈图二二，4: 图版- -五，1) 。\n"
+      },
+      {
+        "text": " 2 厘米",
+        "page": 35,
+        "source": "ocr",
+        "context": "OS 16 BEB 12. 5,高 5. 2 厘米(图二二,5图版-五,2)\n\nTR WO"
+      },
+      {
+        "text": "高5厘米",
+        "page": 35,
+        "source": "ocr",
+        "context": "E. 19% 16.8, RE 14, 高5厘米(图二一，\n6: MW, 3). HAT"
+      },
+      {
+        "text": " 2 厘米",
+        "page": 35,
+        "source": "ocr",
+        "context": "RA, GE 9、足径 3.2、高 3. 2 厘米 (图二一，5; 图版一六，1)。\n\n2"
+      },
+      {
+        "text": "3.4厘米",
+        "page": 35,
+        "source": "ocr",
+        "context": "应是带盖热烧。口径 9.5、 BB,\n商3.4厘米 (图一，6;， 图版一六，2) 。\n\n"
+      },
+      {
+        "text": "高3.2\n厘米",
+        "page": 36,
+        "source": "ocr",
+        "context": "BGR. Oe 7.2, RB. RA 高3.2\n厘米《图二一，7; 图版一六，3) 。\n\nT"
+      },
+      {
+        "text": "高3.2 厘米",
+        "page": 36,
+        "source": "ocr",
+        "context": "无秋。 口径 13、足径 12. 6、\n高3.2 厘米(图二一，8; 图版一六，5) 。\n\nO"
+      },
+      {
+        "text": " 8 厘米",
+        "page": 36,
+        "source": "ocr",
+        "context": "，和有面有裂纹，光泽强， 外底有宽 0. 8 厘米的卒轿一周。制作\n\n26\n\n"
+      },
+      {
+        "text": "通高 6.5 厘米",
+        "page": 37,
+        "source": "ocr",
+        "context": "We, MAB 65.4，足岗 2、残通高 6.5 厘米〈图二三，14 色版一七，5)。另二件外"
+      },
+      {
+        "text": " 6 厘米",
+        "page": 37,
+        "source": "ocr",
+        "context": ". OR 7, RAR 4.2、高 3. 6 厘米〈图二三，8;， 图版一八，2) 。\n\n"
+      },
+      {
+        "text": " 2 厘米",
+        "page": 37,
+        "source": "ocr",
+        "context": "划凸起莲辩纹。 底径7. 5、残高 4. 2 厘米(图二四, 1; 图版一九, 7)。T1"
+      },
+      {
+        "text": " 4 厘米",
+        "page": 38,
+        "source": "ocr",
+        "context": " 6, ARETE, BUS 0.20. 4 厘米。 底部粘接碗\n形热托。底径 9.2、最"
+      },
+      {
+        "text": " 4 厘米",
+        "page": 38,
+        "source": "ocr",
+        "context": "5、钵残高 4. 4、带热具残通高 6. 4 厘米〈图二四，3; 图版\n\nJue 3).\n"
+      },
+      {
+        "text": " 13 厘米",
+        "page": 38,
+        "source": "ocr",
+        "context": "腹辟留有明显的轮能痕。口径 23. RG 13 厘米《图一四，4， 图版一妃，6)。\n\n10"
+      },
+      {
+        "text": " 0.1 厘米",
+        "page": 38,
+        "source": "ocr",
+        "context": "H. ITA. PRR (GRE, NZ 0.1 厘米，质细\nA. BCE. HERE 0. "
+      },
+      {
+        "text": "8 厘米",
+        "page": 38,
+        "source": "ocr",
+        "context": "划凸起双线宽才淤纹。口径 28、残贞生.8 厘米〈图五，3)。\n\nTAL AG, HEN"
+      },
+      {
+        "text": "2.5厘米",
+        "page": 38,
+        "source": "ocr",
+        "context": "BE, BAR. A BDZL, 孔\n径2.5厘米。深基色厚胎、质细硬，胎厚 0.6 厘米"
+      },
+      {
+        "text": " 0.6 厘米",
+        "page": 38,
+        "source": "ocr",
+        "context": "\n径2.5厘米。深基色厚胎、质细硬，胎厚 0.6 厘米。灰青色厚夭，厚度 0. 1一0.8 厘"
+      },
+      {
+        "text": "0.8 厘米",
+        "page": 38,
+        "source": "ocr",
+        "context": ".6 厘米。灰青色厚夭，厚度 0. 1一0.8 厘米不等。\n‘Bit A BB Sp A E"
+      },
+      {
+        "text": " 8 厘米",
+        "page": 38,
+        "source": "ocr",
+        "context": "昨内收、底部残缺。黄色蛛胎，最厚处 0. 8 厘米，质粗硬。灰青色\nWR MAREK. P"
+      },
+      {
+        "text": " 8 厘米",
+        "page": 39,
+        "source": "ocr",
+        "context": "15. 6、残高 8、\n复原通高 11. 8 厘米〈图一六，2;， 图版二DOD，1)。\n"
+      },
+      {
+        "text": "                1m",
+        "page": 40,
+        "source": "ocr",
+        "context": "a                1m\n\nBol\\ BORA Re\nLATA "
+      },
+      {
+        "text": "通高11.6 厘米",
+        "page": 40,
+        "source": "ocr",
+        "context": ". AE 13. 8 BL\n径15.4、通高11.6 厘米《网一六，3; 图版二2，2)。\n\n2式"
+      },
+      {
+        "text": " 3 厘米",
+        "page": 40,
+        "source": "ocr",
+        "context": " HE MB.\n腹外径 16、残高 9. 3 厘米〈力二六，5; 图版 Lk, 8). T"
+      },
+      {
+        "text": " 8 厘米",
+        "page": 40,
+        "source": "ocr",
+        "context": "脱落撒。黄藉色厚胎，胎厚 0. 3一0. 8 厘米，胎项较细硬。 SEAS EAL, BA"
+      },
+      {
+        "text": " 2 厘米",
+        "page": 40,
+        "source": "ocr",
+        "context": "RE. 足根戏痕断面旦瓜子形。残高 1. 2 厘米 〈图二六，4)。\n\na MAP, AO"
+      },
+      {
+        "text": "      5m",
+        "page": 41,
+        "source": "ocr",
+        "context": "*       78      5m\nrt ae       47, Cs\n"
+      },
+      {
+        "text": "高9.5厘米",
+        "page": 41,
+        "source": "ocr",
+        "context": "RET. 口径 14、足径 8. 5、 高9.5厘米〈图二七，2; 图版\n一2。T]12@A"
+      },
+      {
+        "text": " 15 厘米",
+        "page": 41,
+        "source": "ocr",
+        "context": "仅 0.1\n厚米。粉青色厚禾，厚处 0. 15 厘米。 外观为二次上釉，釉面有棕色大裂纹， "
+      },
+      {
+        "text": "高 10.5 厘米",
+        "page": 42,
+        "source": "ocr",
+        "context": "弦纹二道。口径 17、足径 13.5， 高 10.5 厘米《图-一七，5; 图版二一，\nD, T2"
+      },
+      {
+        "text": "残高 3 厘米",
+        "page": 42,
+        "source": "ocr",
+        "context": "色薄釉、，\n币细裂纹。热烧。足径 11、残高 3 厘米 〈图二七，3)。\n\nVAL SEETI"
+      },
+      {
+        "text": "残高 8 厘米",
+        "page": 42,
+        "source": "ocr",
+        "context": "T. U1    最大腹径 14. 5、残高 8 厘米 〈图一七，6; 图版一 “，1)。\n\n"
+      },
+      {
+        "text": "残高3.6 厘米",
+        "page": 42,
+        "source": "ocr",
+        "context": "埋色厚釉。贷启部残镶有钱孔UL径 10、残高3.6 厘米〈图二七，4; 图版. 七，3)。\n\n于"
+      },
+      {
+        "text": "\n1 厘米",
+        "page": 42,
+        "source": "ocr",
+        "context": "有癌饼形矮足。深藉色厚胎,厚 0. 5一\n1 厘米，质细纯,其黄色摩币， 从烧,， 内外满"
+      },
+      {
+        "text": " 2 厘米",
+        "page": 42,
+        "source": "ocr",
+        "context": " 118 18、颈径 6,4、残高 3. 2 厘米\nCATAL 0.\n\n7) 灯载可分二型"
+      },
+      {
+        "text": " 23.5 厘米",
+        "page": 42,
+        "source": "ocr",
+        "context": "RRS. 2, RB 20.9. MUM 23.5 厘米《图二九，1; 图版. -二，2)。T1"
+      },
+      {
+        "text": "残高15 厘米",
+        "page": 42,
+        "source": "ocr",
+        "context": "雇。灰色胎，质较细软。米黄色釉。口季6、残高15 厘米\nCI Aue 4s 图版二三，2)。\n"
+      },
+      {
+        "text": "\n\n1厘米",
+        "page": 43,
+        "source": "ocr",
+        "context": "一\n\n1厘米\n\n图一人 RUM. A Te\nLAME"
+      },
+      {
+        "text": " 2 厘米",
+        "page": 43,
+        "source": "ocr",
+        "context": "SERS 个支钉痕。足\n径7、残高 8. 2 厘米〈图一九，2; MTA. 5). TR@"
+      },
+      {
+        "text": "残高 5.4 厘米",
+        "page": 43,
+        "source": "ocr",
+        "context": "\n绿色薄釉，光渗强，有裂纹。口径7.1、残高 5.4 厘米〈图二九，5， 图版二四，1) 。\n\n3"
+      },
+      {
+        "text": "        3m",
+        "page": 45,
+        "source": "ocr",
+        "context": "2. a      SMR 3,0        3m\n“一一一5      一-一一\n\nRE"
+      },
+      {
+        "text": "残高\n18.2 厘米",
+        "page": 45,
+        "source": "ocr",
+        "context": "RAOHE, MMAMBR, B44, 残高\n18.2 厘米〈图三D，1，图版二三，4)。\n\nNAL"
+      },
+      {
+        "text": " 22 厘米",
+        "page": 47,
+        "source": "ocr",
+        "context": "、足径7 lO, KR\n\nwpa,\n\n7 22 厘米 人                  "
+      },
+      {
+        "text": "2.8 厘米",
+        "page": 47,
+        "source": "ocr",
+        "context": "M. TH] MRC LL, BR 1一2.8 厘米〈图三二，5)。可能为窗工用器。\n\n(2"
+      },
+      {
+        "text": "残高3.8 厘米",
+        "page": 47,
+        "source": "ocr",
+        "context": "细硬。灰青色厚灿,有\n裂纹.口径4.6、残高3.8 厘米〈    2.4; 图版二八，3) 。\n"
+      },
+      {
+        "text": "残高3.8 厘米",
+        "page": 47,
+        "source": "ocr",
+        "context": "内壁\n浩炎不匀，颈下一周无釉- 喇径4、残高3.8 厘米《     5s 图版二八，2) 。\n\n"
+      },
+      {
+        "text": "残高 14 厘米",
+        "page": 47,
+        "source": "ocr",
+        "context": "L AR EI. Be em 11.4、残高 14 厘米 CBE\n{A. 6), T14G) +"
+      },
+      {
+        "text": "残高4 厘米",
+        "page": 47,
+        "source": "ocr",
+        "context": "S, Kee\n可能与盖合烧。口径 16、残高4 厘米(图三三，1; 图\n\n"
+      },
+      {
+        "text": "通高 5 厘米",
+        "page": 49,
+        "source": "ocr",
+        "context": "AM. 9 10.2. Be\n14.4、通高 5 厘米〈图三四，2; 图版二九，1)。Y2 :"
+      },
+      {
+        "text": "通高 4.5\n厘米",
+        "page": 49,
+        "source": "ocr",
+        "context": ". 口径 11.5、盖径 15. 2、残通高 4.5\n厘米〈甸三四，1;， 图版三〇\n\n39\n"
+      },
+      {
+        "text": "高2.4厘米",
+        "page": 50,
+        "source": "ocr",
+        "context": "ATAR. RS. BRT. 2, i\n高2.4厘米〈图三四，4; R=\n\n3式 MONE."
+      },
+      {
+        "text": " 2 厘米",
+        "page": 51,
+        "source": "ocr",
+        "context": "Y\n\n泡，卷沿边内有 “RASA. EE 2 厘米。\n卡通高8 厘米《图 SIM. 7: "
+      },
+      {
+        "text": "通高8 厘米",
+        "page": 51,
+        "source": "ocr",
+        "context": "内有 “RASA. EE 2 厘米。\n卡通高8 厘米《图 SIM. 7: 周版\n面刻划叶盘。"
+      },
+      {
+        "text": " 2 厘米",
+        "page": 51,
+        "source": "ocr",
+        "context": "AS. 5. HIMES. NS. BL 2 厘米\nCG. 4s 图版二   1d.\n\nW"
+      },
+      {
+        "text": " 8 厘米",
+        "page": 51,
+        "source": "ocr",
+        "context": "烧。盖径 15、顶径 14,4、残商 4 8 厘米〈图二六，1; 彩版四，2， 图版三\n2"
+      },
+      {
+        "text": "高 2 厘米",
+        "page": 52,
+        "source": "ocr",
+        "context": "脱落。轮制。顶径 9. 5、底径 11、高 2 厘米《〈图三六，?7; MR=O, 3).\n"
+      },
+      {
+        "text": " 7.8 厘米",
+        "page": 58,
+        "source": "ocr",
+        "context": "ES, 1174\n18.5, iB 6. 7.8 厘米(图                  "
+      },
+      {
+        "text": "高 3.8 厘米",
+        "page": 58,
+        "source": "ocr",
+        "context": " RISER. MARTE. 6 Bi 高 3.8 厘米〈同四\n\n，1; AML. 3), T2"
+      },
+      {
+        "text": "高1.6厘米",
+        "page": 58,
+        "source": "ocr",
+        "context": "线清晰。顶径 3.8、 沿径5. 2、\n高1.6厘米〈图四一，3， 图版三九，1)。\n\nMo"
+      },
+      {
+        "text": "      5m",
+        "page": 59,
+        "source": "ocr",
+        "context": "A LA GLa\n1\n\nlowe 5 0      5m\n图四，， Ye Ab ae RE RE"
+      },
+      {
+        "text": "残高 8 厘米",
+        "page": 61,
+        "source": "ocr",
+        "context": "E [区任意刻写，轮制热烧，底径 10、残高 8 厘米(图四二,1、2;图版四 41,2).\n"
+      },
+      {
+        "text": "1 厘米",
+        "page": 61,
+        "source": "ocr",
+        "context": " TREVP RR. FADS 0.5—1 厘米，质细钙。基青色薄釉，施釉不匀，釉面有碎"
+      },
+      {
+        "text": " 2 厘米",
+        "page": 61,
+        "source": "ocr",
+        "context": " 3. 2\\简径 1. 8- 2A 4. 2 厘米(图四二,9;图版四 -.])。\n\n(3"
+      },
+      {
+        "text": " 1 厘米",
+        "page": 61,
+        "source": "ocr",
+        "context": "竖一线轴形圆柱。\n杜顶耐平整，项径 4. 1 厘米，顶面下稍内收。柱径 3 厘米，略高出盘"
+      },
+      {
+        "text": " 3 厘米",
+        "page": 61,
+        "source": "ocr",
+        "context": "项径 4. 1 厘米，顶面下稍内收。柱径 3 厘米，略高出盘口，柱周一团 凹档。浅\n次色厚"
+      },
+      {
+        "text": " 0.8 厘米",
+        "page": 61,
+        "source": "ocr",
+        "context": "\n次色厚胎，质坚硬，含细砂，胎厚 0.7 0.8 厘米，底部烧裂。 ERE ALLERGEN."
+      },
+      {
+        "text": " 3 厘米",
+        "page": 61,
+        "source": "ocr",
+        "context": "盘口径 8. 1.底径 7. 7A 2. 3 厘米(图四二,4;图版四二,1)。\n\n下型 "
+      },
+      {
+        "text": " 5 厘米",
+        "page": 61,
+        "source": "ocr",
+        "context": "。底面长 8. 2、宽 4、最高处 6. 5 厘米〈图四二，\nSs 图版四二，2) 。\n\n"
+      },
+      {
+        "text": " 2 厘米",
+        "page": 61,
+        "source": "ocr",
+        "context": "薄儿有面有大裂纹,内底存积有厚 1一1. 2 厘米\n的士黄色秋料。轮制垫烧。底径 12、残"
+      },
+      {
+        "text": "残高 11 厘米",
+        "page": 61,
+        "source": "ocr",
+        "context": "米\n的士黄色秋料。轮制垫烧。底径 12、残高 11 厘米图四三, 8)。T14G@) ， 202"
+      },
+      {
+        "text": "残高4 厘米",
+        "page": 61,
+        "source": "ocr",
+        "context": "，\n内底亦有有存储的釉料。足径 8.4、残高4 厘米。\n\n(DO 长方形穿孔器 TH2): "
+      },
+      {
+        "text": " 3 厘米",
+        "page": 61,
+        "source": "ocr",
+        "context": ".2、宽4.8、连\n柱宽6.5、高 3. 3 厘米《图四二，7; 图版四四，1)\n\n(6)"
+      },
+      {
+        "text": "          10m",
+        "page": 62,
+        "source": "ocr",
+        "context": "9         ==*      2          10m\n\n图四二   ies 工具\nL WHA"
+      },
+      {
+        "text": "长 14 厘米",
+        "page": 64,
+        "source": "ocr",
+        "context": "动端正，在出十器物中未见。宽 12、残\n长 14 厘米【图四四;图版四\n\nEM 象棋范模，2 "
+      },
+      {
+        "text": " 3 厘米",
+        "page": 64,
+        "source": "ocr",
+        "context": "). 还\n+ Ril. 口径13、高 2 3 厘米〈图四三，3)。T12BA，51，形制基"
+      },
+      {
+        "text": "高 2.8 厘米",
+        "page": 64,
+        "source": "ocr",
+        "context": "，似为“XXX公用”之意。 口径 12、高 2.8 厘米 《图四三，1 、\n2s 图版四四，5)"
+      },
+      {
+        "text": "高7.2 厘米",
+        "page": 65,
+        "source": "ocr",
+        "context": "AR. SEA TR 16.4、底入7、高7.2 厘米 GUTH. 4: 图版四六、2)。\n\n"
+      },
+      {
+        "text": "通高 1.4 厘米",
+        "page": 65,
+        "source": "ocr",
+        "context": " BES\n。真径 3.2. ha 1、残通高 1.4 厘米(图四六, 8), TODA + 17,"
+      },
+      {
+        "text": "通高 1 厘米",
+        "page": 68,
+        "source": "ocr",
+        "context": "径 2.6、饼高 0. 4、残通高 1 厘米【图四六,1: 图版四七 3)。T52A"
+      },
+      {
+        "text": "8 厘米",
+        "page": 68,
+        "source": "ocr",
+        "context": " 6 -8、饼高 0. 9、残通商 L.8 厘米《图四六，7)。类做支做上尚有印“大”\n"
+      },
+      {
+        "text": " 2 厘米",
+        "page": 68,
+        "source": "ocr",
+        "context": "合制, 直径7 7.8、饼高1.1\nWS 2 厘米〈图四六.2; 图版四九，3)。类似的支"
+      },
+      {
+        "text": " 2 厘米",
+        "page": 68,
+        "source": "ocr",
+        "context": "5. 2、饼高 1.8、带往\n通高 6. 2 厘米《图四六，10， 图版四九，2).T15"
+      },
+      {
+        "text": "1.8 厘米",
+        "page": 68,
+        "source": "ocr",
+        "context": "XRG. 真径 12.8、底径6.8、摩1.8 厘米《图四六，9; RRP.\n6 。    "
+      },
+      {
+        "text": "通高 1.7 厘米",
+        "page": 68,
+        "source": "ocr",
+        "context": "i. Tis 5. 2、底径 5. 3、通高 1.7 厘米《图四七2;\nFAMBO. 2).\n\n2"
+      },
+      {
+        "text": " 3 厘米",
+        "page": 68,
+        "source": "ocr",
+        "context": "直径 6.4、底径 3. 2、通高 2. 3 厘米〈图四七，4;， AO.\nDoT    "
+      },
+      {
+        "text": " 2 厘米",
+        "page": 68,
+        "source": "ocr",
+        "context": "TE 7. 6, PE 3.8、高 2. 2 厘米〈网四七，\n5s 疼版五C)，3) 。\n"
+      },
+      {
+        "text": "9厘米",
+        "page": 71,
+        "source": "ocr",
+        "context": ". 质细纯。 直径 6.9,\net 项下9厘米(图版下 31。了   15, RA. "
+      },
+      {
+        "text": "7 厘米",
+        "page": 71,
+        "source": "ocr",
+        "context": " 1486.3. HEB AS    .7 厘米《图四九. 1: 图版五六. 3), T"
+      },
+      {
+        "text": "      7厘米",
+        "page": 71,
+        "source": "ocr",
+        "context": " Wi f& le   IR ER 6.      7厘米〈图版五扩， 29. Tid:\neet."
+      },
+      {
+        "text": "    2 厘米",
+        "page": 71,
+        "source": "ocr",
+        "context": "T.\nWEE 6.4,  mit Ls,    2 厘米《网四九，11; 疼版五四，67\n机型 "
+      },
+      {
+        "text": " 218\n米",
+        "page": 72,
+        "source": "ocr",
+        "context": "S 194\n\n13. WAZ ATLAS 218\n米 WER HH. 3)\n2式 Heid,"
+      },
+      {
+        "text": " 2 厘米",
+        "page": 72,
+        "source": "ocr",
+        "context": "8.5、底径8、胎厚 1.8、高 14. 2 厘米《图四九，\n\n12s 图版下下   © "
+      },
+      {
+        "text": "高 5.8 厘米",
+        "page": 72,
+        "source": "ocr",
+        "context": ". 轮制。 顶径 8.8、足径 9.6、高 5.8 厘米 〈图四九，13; 图版五五，6)。\n6"
+      },
+      {
+        "text": "高 7 厘米",
+        "page": 73,
+        "source": "ocr",
+        "context": "B : 98，线负形，藉色类砂相胎。. 高 7 厘米《图版五五，7)。\n\n(5) 火眼 “又"
+      },
+      {
+        "text": " 7 厘米",
+        "page": 73,
+        "source": "ocr",
+        "context": "。 直径 2. 8一3. 3、残高 3. 7 厘米《图四五， 6)。Y2\n3: 18，器腹"
+      },
+      {
+        "text": "0.9 厘米",
+        "page": 73,
+        "source": "ocr",
+        "context": "器腹残片，局平长方形，中钻 -孔， 孔径0.9 厘米。黑灰色胎，黄绿色釉， 光泽强有\nAB."
+      },
+      {
+        "text": " 1 毫米",
+        "page": 74,
+        "source": "ocr",
+        "context": "AE, LATS. WR. 有的胎厚不到 1 毫米 BR, 处于 1、3 式之间的2 式,"
+      },
+      {
+        "text": " 23.5米",
+        "page": 76,
+        "source": "ocr",
+        "context": "官窗前期使用的窜。Y1 在偏南处，窗长仅 23.5米。 此\n容窗身短，有利于控制窗内的烧成温"
+      },
+      {
+        "text": " 08cm",
+        "page": 85,
+        "source": "ocr",
+        "context": " [0.2 v.50 Bea ae 0. 08cm pe « cre ena\nbeara "
+      },
+      {
+        "text": " 0m",
+        "page": 85,
+        "source": "ocr",
+        "context": "fm Ra oe\n\nDr | REE | 0m  EEN e440. oem heme"
+      },
+      {
+        "text": " 620m",
+        "page": 85,
+        "source": "ocr",
+        "context": "ra ae\nsew ws  man ot 620m Exe mR RA FR HL 0. "
+      },
+      {
+        "text": " 0.     m",
+        "page": 86,
+        "source": "ocr",
+        "context": "          ,\nte   A | 0.     mn              0. 09"
+      },
+      {
+        "text": " 28m",
+        "page": 86,
+        "source": "ocr",
+        "context": "N33\nbsiwreorn, SM |S 28m beme. sete\nbaa     "
+      },
+      {
+        "text": " 2m",
+        "page": 86,
+        "source": "ocr",
+        "context": "    |\nSa | SEMI | 08 2m pera. sess\npas     "
+      },
+      {
+        "text": " 08cm",
+        "page": 87,
+        "source": "ocr",
+        "context": " 0.sem eee OE cay 0. 08cm HH A. RURTE NIRA os"
+      },
+      {
+        "text": "          2m",
+        "page": 88,
+        "source": "ocr",
+        "context": " | 99. 528\nTR ta5.40          2m 008 251 1H O18 0.01"
+      },
+      {
+        "text": " 6m",
+        "page": 88,
+        "source": "ocr",
+        "context": "100.155\n\nBo [esta 2h 6m    2 409 G1 275 Lis"
+      },
+      {
+        "text": "2 m",
+        "page": 107,
+        "source": "ocr",
+        "context": "2. Y2 mre\n\n3.F5东南角及其外侧\nEST "
+      },
+      {
+        "text": "       6.0m",
+        "page": 113,
+        "source": "ocr",
+        "context": "  4.11 TSDA\n\nT2@B:s1       6.0mm Ti2@An\n"
+      },
+      {
+        "text": "2\n\nm",
+        "page": 115,
+        "source": "ocr",
+        "context": "2.1T型3式 TsDA:2\n\nme Tue\n\n"
+      },
+      {
+        "text": "\n\n3.1m",
+        "page": 122,
+        "source": "ocr",
+        "context": "( XXII )\n\nDA\n\n3.1m T5回A\n\n2 KM Tess\n"
+      },
+      {
+        "text": " 1. m",
+        "page": 123,
+        "source": "ocr",
+        "context": "团:160 3 1型3式 TI6四:25 1. mm G1:2\n\n一2一\n\n51M 2式 "
+      },
+      {
+        "text": "243 m",
+        "page": 137,
+        "source": "ocr",
+        "context": "s ice\n\n5. fate TI40:243 mee T5DB:141 | 7. EB "
+      },
+      {
+        "text": "4\n\nm",
+        "page": 139,
+        "source": "ocr",
+        "context": "IX )\n\n城宿亮众食六    2 Be4\n\nmeee T4204\n\nmeee T22 "
+      },
+      {
+        "text": "4204\n\nm",
+        "page": 139,
+        "source": "ocr",
+        "context": "众食六    2 Be4\n\nmeee T4204\n\nmeee T22 B63\n\n"
+      },
+      {
+        "text": "242\n\nm",
+        "page": 140,
+        "source": "ocr",
+        "context": "O (XL)\n\n1.越容系盘 T14四:242\n\nmm RMm Tia es 24!\n\nRO"
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "堆积",
+        "page": 12,
+        "source": "ocr",
+        "context": " 编号Yil, 并\n发气了窗旁的部分窗片堆积。 但发掘报告未发表, 仅在《三十年来浙"
+      },
+      {
+        "text": "堆积",
+        "page": 13,
+        "source": "ocr",
+        "context": "周围的\n其他迹象。 为了解密炉两侧的废品堆积情况, 又分别在 Y1 附近开控探沟四条"
+      },
+      {
+        "text": "堆积",
+        "page": 14,
+        "source": "ocr",
+        "context": "或”地层堆积情况\n\n~~. fei RAW\n\n的作坊"
+      },
+      {
+        "text": "堆积",
+        "page": 14,
+        "source": "ocr",
+        "context": " 了23之内。从各探方的发据情况看.地层堆积基本相同, 自地表至作坊层共有三个地层，"
+      },
+      {
+        "text": "打破",
+        "page": 14,
+        "source": "ocr",
+        "context": "60 EDK, IRB ARCH\n现代拿打破外，发现一组比较完鉴的建筑革址。地基堆税"
+      },
+      {
+        "text": "堆积",
+        "page": 14,
+        "source": "ocr",
+        "context": "的帘片，索烧坯、窜内及其他窍系的资片。从堆积物观察，该层为有意如筑的地基\n填凸，坡士"
+      },
+      {
+        "text": "堆积",
+        "page": 14,
+        "source": "ocr",
+        "context": "坡士来源于东侧山坡上的南宋官穿窗炉的废品堆积区。由于取土地段不同。形成地层\n下色不同"
+      },
+      {
+        "text": "打破",
+        "page": 17,
+        "source": "ocr",
+        "context": "干; M6 亦为长方形紧穴十坑\naE. 打破第 3 层及生十层。 在昔底腰部出七灰黄"
+      },
+      {
+        "text": "堆积",
+        "page": 18,
+        "source": "ocr",
+        "context": "隔墙痕迹。在梧压于房基上的第 2 层底，堆积有较多布纹瓦片。根据已发现的建筑遗迹、遗"
+      },
+      {
+        "text": "打破",
+        "page": 18,
+        "source": "ocr",
+        "context": "墓及F2 的柱础坑、 第 2 层的扰乱坑打破,， 房基齐到严重的破坏。仅在南侧残\n留"
+      },
+      {
+        "text": "堆积",
+        "page": 23,
+        "source": "ocr",
+        "context": "验为还泥由.上述池内堆积应是该池废弃后遗贸, 池底坯料则应是该池"
+      },
+      {
+        "text": "生土",
+        "page": 23,
+        "source": "ocr",
+        "context": "的前部，坑口开上室内活动\n呐，坑底深入至生土，坑口直径 58，深 41 BK\n(TE"
+      },
+      {
+        "text": "打破",
+        "page": 23,
+        "source": "ocr",
+        "context": " F4 南间的中部，其上部\n被一晚期莫非打破，仅留一个装木轴的圆孔，口直径 35 厘"
+      },
+      {
+        "text": "堆积",
+        "page": 23,
+        "source": "ocr",
+        "context": "F4 内的一处最\n为集中，范围也较大。该堆积位士釉料缸北面 2.5 米处，其北 3 "
+      },
+      {
+        "text": "堆积",
+        "page": 23,
+        "source": "ocr",
+        "context": "约1.2、宽 0.9 米〈图版六,1)。堆积为经过低温烘烤的坏体碎片，部\n\n = P"
+      },
+      {
+        "text": "堆积",
+        "page": 24,
+        "source": "ocr",
+        "context": "Rt     发现人其散布上地面的素烧还堆积,故\n推定该遗迹为低温烘烤坏件的素烧炉。"
+      },
+      {
+        "text": "打破",
+        "page": 24,
+        "source": "ocr",
+        "context": "2 米处,编号为K1- 坑口已遭玻坏,坑打破第 3 层。平面星长方\n形,长1.62、"
+      },
+      {
+        "text": "堆积",
+        "page": 24,
+        "source": "ocr",
+        "context": "\n积为较纯净的小块状紫金士,系原先坑内的堆积残留,推测该坑为堆放原料的堆料坑。\n\n("
+      },
+      {
+        "text": "堆积",
+        "page": 27,
+        "source": "ocr",
+        "context": ",已雪塌无存。投业孔情况不明，从窗内倒场堆积的攀形砖及保存最高的窗整自 60\n厘米处"
+      },
+      {
+        "text": "堆积",
+        "page": 27,
+        "source": "ocr",
+        "context": "，仅有直口平底和四底 2 种。但在作坊及堆积中发现的攻钵形制多样， 反映出南宋\n窒窗"
+      },
+      {
+        "text": "生土",
+        "page": 75,
+        "source": "ocr",
+        "context": " 一提的是，在探方、探沟的最下层，即鉴贴生土居而 dc. ta Ace\n期越容刻伦碗"
+      },
+      {
+        "text": "堆积",
+        "page": 76,
+        "source": "ocr",
+        "context": "用年代在南宋后期。 同时在窗内和穿旁废品堆积层中出上部分元\n代粗风，说只在元代还使用"
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T6",
+        "page": 13,
+        "source": "ocr",
+        "context": "\nYI 之间的山坡上、开挖探沟二条,编号T6、T7， 以便全面了解窖炉结构及两座窗炉"
+      },
+      {
+        "text": "T7",
+        "page": 13,
+        "source": "ocr",
+        "context": " 之间的山坡上、开挖探沟二条,编号T6、T7， 以便全面了解窖炉结构及两座窗炉周围的"
+      },
+      {
+        "text": "T8",
+        "page": 13,
+        "source": "ocr",
+        "context": ", 又分别在 Y1 附近开控探沟四条 (T8、T9、T10、\n9), 存Y2西侧山坡"
+      },
+      {
+        "text": "T9",
+        "page": 13,
+        "source": "ocr",
+        "context": "分别在 Y1 附近开控探沟四条 (T8、T9、T10、\n9), 存Y2西侧山坡上开控"
+      },
+      {
+        "text": "T10",
+        "page": 13,
+        "source": "ocr",
+        "context": " Y1 附近开控探沟四条 (T8、T9、T10、\n9), 存Y2西侧山坡上开控探沟二条"
+      },
+      {
+        "text": "T17",
+        "page": 13,
+        "source": "ocr",
+        "context": "9), 存Y2西侧山坡上开控探沟二条 (T17、T18)。 在山香平地可发掘范围内, "
+      },
+      {
+        "text": "T18",
+        "page": 13,
+        "source": "ocr",
+        "context": "存Y2西侧山坡上开控探沟二条 (T17、T18)。 在山香平地可发掘范围内, 开控正南"
+      },
+      {
+        "text": "T2",
+        "page": 13,
+        "source": "ocr",
+        "context": "范围内, 开控正南北\nHBR ATT (T2一T5、TLI一T16)。1988 年冬"
+      },
+      {
+        "text": "T5",
+        "page": 13,
+        "source": "ocr",
+        "context": ", 开控正南北\nHBR ATT (T2一T5、TLI一T16)。1988 年冬的补充"
+      },
+      {
+        "text": "T16",
+        "page": 13,
+        "source": "ocr",
+        "context": "\nHBR ATT (T2一T5、TLI一T16)。1988 年冬的补充发据中, 在西南"
+      },
+      {
+        "text": "T2",
+        "page": 14,
+        "source": "ocr",
+        "context": "85 年试据的Tl 包括在这次发气的探方T2\nLAD), 具揭坑面息约 1000 半"
+      },
+      {
+        "text": "T2",
+        "page": 14,
+        "source": "ocr",
+        "context": "半方米。 作坊短迹主要暴露在85L W T2 T5、T1l一T13、I15、\nT20"
+      },
+      {
+        "text": "T5",
+        "page": 14,
+        "source": "ocr",
+        "context": "。 作坊短迹主要暴露在85L W T2 T5、T1l一T13、I15、\nT20 了2"
+      },
+      {
+        "text": "T1",
+        "page": 14,
+        "source": "ocr",
+        "context": "坊短迹主要暴露在85L W T2 T5、T1l一T13、I15、\nT20 了23之内"
+      },
+      {
+        "text": "T13",
+        "page": 14,
+        "source": "ocr",
+        "context": "要暴露在85L W T2 T5、T1l一T13、I15、\nT20 了23之内。从各探方"
+      },
+      {
+        "text": "T20",
+        "page": 14,
+        "source": "ocr",
+        "context": " T2 T5、T1l一T13、I15、\nT20 了23之内。从各探方的发据情况看.地层"
+      },
+      {
+        "text": "T3",
+        "page": 14,
+        "source": "ocr",
+        "context": "，\n其由第1 层又分为A、吕两小层。现以T3、T5、Ti2 东壁为例介绍如下〈图四)"
+      },
+      {
+        "text": "T5",
+        "page": 14,
+        "source": "ocr",
+        "context": "由第1 层又分为A、吕两小层。现以T3、T5、Ti2 东壁为例介绍如下〈图四) 。\n"
+      },
+      {
+        "text": "T12",
+        "page": 14,
+        "source": "ocr",
+        "context": "\n图四 SMA eR (73, TS, T12 RAED\n\nTA, SA, B Bit"
+      },
+      {
+        "text": "T2",
+        "page": 14,
+        "source": "ocr",
+        "context": "筑的建筑填十\n\n发现的建筑遗迹主要分布二T2一T5、TI2、T13、T15 之内  "
+      },
+      {
+        "text": "T5",
+        "page": 14,
+        "source": "ocr",
+        "context": "筑填十\n\n发现的建筑遗迹主要分布二T2一T5、TI2、T13、T15 之内    组"
+      },
+      {
+        "text": "T13",
+        "page": 14,
+        "source": "ocr",
+        "context": "的建筑遗迹主要分布二T2一T5、TI2、T13、T15 之内    组以上并、过道相连"
+      },
+      {
+        "text": "T15",
+        "page": 14,
+        "source": "ocr",
+        "context": "迹主要分布二T2一T5、TI2、T13、T15 之内    组以上并、过道相连\n的前后"
+      },
+      {
+        "text": "T6",
+        "page": 17,
+        "source": "ocr",
+        "context": "RIY 2 条, 间距 11. 6 米\nT6、T7. 清理完Y2 后, 为寻找容侧通"
+      },
+      {
+        "text": "T7",
+        "page": 17,
+        "source": "ocr",
+        "context": " 2 条, 间距 11. 6 米\nT6、T7. 清理完Y2 后, 为寻找容侧通道及其"
+      },
+      {
+        "text": "T17",
+        "page": 17,
+        "source": "ocr",
+        "context": "     、\n南北向探沟 2 条,编号为T17、T18。 以上其计发据面积 350 平"
+      },
+      {
+        "text": "T18",
+        "page": 17,
+        "source": "ocr",
+        "context": " 、\n南北向探沟 2 条,编号为T17、T18。 以上其计发据面积 350 平方米。各"
+      },
+      {
+        "text": "T1",
+        "page": 18,
+        "source": "ocr",
+        "context": "依次编号F3、F4、F5。\n\nF3 位于T1 T3228. 系一座朝东南坐西北的三开"
+      },
+      {
+        "text": "T3228",
+        "page": 18,
+        "source": "ocr",
+        "context": "号F3、F4、F5。\n\nF3 位于T1 T3228. 系一座朝东南坐西北的三开间平房,方向"
+      },
+      {
+        "text": "T5",
+        "page": 18,
+        "source": "ocr",
+        "context": "房。\n\nF4 位于 F3 的南面，在探方T5 ZA, SPS 分布于同一条直线 上，"
+      },
+      {
+        "text": "T12",
+        "page": 18,
+        "source": "ocr",
+        "context": "。\n\nFo 位于 F4 的东南方,分布于T12.T13、T20.T21 等探方内,亦朝"
+      },
+      {
+        "text": "T13",
+        "page": 18,
+        "source": "ocr",
+        "context": "o 位于 F4 的东南方,分布于T12.T13、T20.T21 等探方内,亦朝东南坐西"
+      },
+      {
+        "text": "T20",
+        "page": 18,
+        "source": "ocr",
+        "context": " F4 的东南方,分布于T12.T13、T20.T21 等探方内,亦朝东南坐西北,面向"
+      },
+      {
+        "text": "T21",
+        "page": 18,
+        "source": "ocr",
+        "context": "的东南方,分布于T12.T13、T20.T21 等探方内,亦朝东南坐西北,面向窗\n"
+      },
+      {
+        "text": "T3",
+        "page": 22,
+        "source": "ocr",
+        "context": "(>) 练泥池\n\n位于 T3 中部偏南，F3 南墙外 2.5 米处，"
+      },
+      {
+        "text": "T21",
+        "page": 24,
+        "source": "ocr",
+        "context": "ee. TE\n(上) HERE\nfii T21 APS By 2 米处,编号为K1- "
+      },
+      {
+        "text": "T3",
+        "page": 24,
+        "source": "ocr",
+        "context": "》排水沟\n\n们于鉴个工场区的两侧由脚边，T3、T5、TI15、T22、T23 与 T"
+      },
+      {
+        "text": "T5",
+        "page": 24,
+        "source": "ocr",
+        "context": "沟\n\n们于鉴个工场区的两侧由脚边，T3、T5、TI15、T22、T23 与 T4、T"
+      },
+      {
+        "text": "T22",
+        "page": 24,
+        "source": "ocr",
+        "context": "场区的两侧由脚边，T3、T5、TI15、T22、T23 与 T4、T11、T20 等探"
+      },
+      {
+        "text": "T23",
+        "page": 24,
+        "source": "ocr",
+        "context": "侧由脚边，T3、T5、TI15、T22、T23 与 T4、T11、T20 等探方肉，\n"
+      },
+      {
+        "text": "T4",
+        "page": 24,
+        "source": "ocr",
+        "context": "3、T5、TI15、T22、T23 与 T4、T11、T20 等探方肉，\n编导为 G"
+      },
+      {
+        "text": "T11",
+        "page": 24,
+        "source": "ocr",
+        "context": "5、TI15、T22、T23 与 T4、T11、T20 等探方肉，\n编导为 G1、G2"
+      },
+      {
+        "text": "T20",
+        "page": 24,
+        "source": "ocr",
+        "context": "15、T22、T23 与 T4、T11、T20 等探方肉，\n编导为 G1、G2。\n\nG"
+      },
+      {
+        "text": "T12G",
+        "page": 29,
+        "source": "ocr",
+        "context": "BURR. 图足较高, 足壁外撤。支烧。T12GA + 37, 内、外底径均较大。厚\nH"
+      },
+      {
+        "text": "T12",
+        "page": 29,
+        "source": "ocr",
+        "context": "片，足较 1 式狠小，足壁稍外撤。垫烧。T12@A : 39, AI, BLL\n\n上 "
+      },
+      {
+        "text": "T2Q",
+        "page": 30,
+        "source": "ocr",
+        "context": " TI@A+ 39  3. 1 B3X T2QB: 26  4 MLA TING + "
+      },
+      {
+        "text": "T2O",
+        "page": 30,
+        "source": "ocr",
+        "context": "CBL. LER), “RA” HY. T2OBs 26, BR. PAIK. MO,"
+      },
+      {
+        "text": "T1727",
+        "page": 30,
+        "source": "ocr",
+        "context": "。\n\n2式 MO, BORE. KH. T1727, RS. HH. RAW. HAR e"
+      },
+      {
+        "text": "T14",
+        "page": 30,
+        "source": "ocr",
+        "context": " HA, NUL. RRA. MBE, T14@) : 95，尖展。浅灰色胎，质细较硬"
+      },
+      {
+        "text": "T17",
+        "page": 32,
+        "source": "ocr",
+        "context": "X 弧腹,大平底，足断面星半图形。热烧。T17图 : 88，深类色胎，质细较硬。米黄\n"
+      },
+      {
+        "text": "T20B",
+        "page": 33,
+        "source": "ocr",
+        "context": "\n站型了5全人1056  5. KAY T20B 31\n\n了型 平折沿，浅腹，距足断面旺"
+      },
+      {
+        "text": "T14G",
+        "page": 33,
+        "source": "ocr",
+        "context": "，浅腹，距足断面旺圆形。轮模合制，支烧。T14G@) : 119, pi. RAM,\n大"
+      },
+      {
+        "text": "T1D",
+        "page": 33,
+        "source": "ocr",
+        "context": "0, GUS. Bie, WA. 平底。T1DB : 13，内人壁有楼，应为花瓣状腹。"
+      },
+      {
+        "text": "T5",
+        "page": 33,
+        "source": "ocr",
+        "context": "〇,3)。\n\n1H A, WM, 平底，T5@A : 56, RS. RRA, RE"
+      },
+      {
+        "text": "T2D",
+        "page": 33,
+        "source": "ocr",
+        "context": "\n\nNl PAC, SA, MERA. T2DB: 31, SE, BREAKS RE"
+      },
+      {
+        "text": "T12Q",
+        "page": 33,
+        "source": "ocr",
+        "context": "\n18 MO, AM. PR. XH. T12QA:17, E.R. 灰色厚胎。 灰青色"
+      },
+      {
+        "text": "T2Q",
+        "page": 33,
+        "source": "ocr",
+        "context": "TA BO, UM, Pik. Bh. T2QB : 22, BR, HI. EB. "
+      },
+      {
+        "text": "T2O",
+        "page": 34,
+        "source": "ocr",
+        "context": "LMM TIAEAT 17 4. NR T2OR: 22\nSUMARIO +4 GUM"
+      },
+      {
+        "text": "T2",
+        "page": 35,
+        "source": "ocr",
+        "context": "R TS ISS GEMZAR TSUAT2 6. WM TIA + 106\n\n3式"
+      },
+      {
+        "text": "T15",
+        "page": 36,
+        "source": "ocr",
+        "context": "图二三 WORE\nCHI] 人工型T15全:4 31型TI7图:3 4. EAU"
+      },
+      {
+        "text": "T14",
+        "page": 36,
+        "source": "ocr",
+        "context": ",直上腹下弧收,内图底,，喇只形高圈足、T14@@ + 161， 黄灰色厚胎, 质\n细"
+      },
+      {
+        "text": "T2",
+        "page": 37,
+        "source": "ocr",
+        "context": " MLAB T PAU PIR. 参照 T2 采 92 复原。 从烧。 RIB, a"
+      },
+      {
+        "text": "T2192",
+        "page": 37,
+        "source": "ocr",
+        "context": " BS MOK CIS. 5; MA, T2192, SS, MATE\nJME. THE."
+      },
+      {
+        "text": "T14",
+        "page": 37,
+        "source": "ocr",
+        "context": "型 AC, HT. 深直朋，半底稍内四 T14@ : 104, ER. RL, A,\n"
+      },
+      {
+        "text": "T14",
+        "page": 37,
+        "source": "ocr",
+        "context": "厘米(图二四, 1; 图版一九, 7)。T14\n\nBoe Rea\nLAUMTSSA+6"
+      },
+      {
+        "text": "T2D",
+        "page": 38,
+        "source": "ocr",
+        "context": "\n\n下型 LBP. A. ABRAM. T2DB: 11, AAR. FP, ERA,"
+      },
+      {
+        "text": "T4",
+        "page": 38,
+        "source": "ocr",
+        "context": " EP =\n\nTE De. FRA. nT4> =X,\n\nUt Fy. A. TH "
+      },
+      {
+        "text": "T5G",
+        "page": 38,
+        "source": "ocr",
+        "context": ")。\n\nTAL AG, HEN. 弧腹。T5G@A : 85. RL RRB. PAA"
+      },
+      {
+        "text": "T2G",
+        "page": 40,
+        "source": "ocr",
+        "context": ", AO, A, RAM. 平底，足足。T2GB)B : 29，为腹足残片， 参照 T"
+      },
+      {
+        "text": "T14",
+        "page": 40,
+        "source": "ocr",
+        "context": "GB)B : 29，为腹足残片， 参照 T14\nDs 33 腹部残片《图版一C)，3)"
+      },
+      {
+        "text": "T2O",
+        "page": 41,
+        "source": "ocr",
+        "context": "Cs\n\nRot ARR RRP\n\nLEMT2OB: 29° 2型1]式T4GCB;3 "
+      },
+      {
+        "text": "T4G",
+        "page": 41,
+        "source": "ocr",
+        "context": "\n\nLEMT2OB: 29° 2型1]式T4GCB;3 RH M2NTR. 3 4. "
+      },
+      {
+        "text": "T4G",
+        "page": 41,
+        "source": "ocr",
+        "context": ", 可分二式。\n\n1X PRO. 束颈。T4GB : 3, ARAM AOE, 颈腹部"
+      },
+      {
+        "text": "T12",
+        "page": 41,
+        "source": "ocr",
+        "context": "3, ARAM AOE, 颈腹部参照残片T12@A + 30 及Gl\n3 (图版一七，"
+      },
+      {
+        "text": "T1",
+        "page": 41,
+        "source": "ocr",
+        "context": "颈, BIN, TIER, 大国足外撤。T1@@ + 10, 参照T14加:166\n"
+      },
+      {
+        "text": "T14",
+        "page": 41,
+        "source": "ocr",
+        "context": " 大国足外撤。T1@@ + 10, 参照T14加:166\n残片 (图版二一，3) 形制"
+      },
+      {
+        "text": "T2R",
+        "page": 42,
+        "source": "ocr",
+        "context": "厘米《图-一七，5; 图版二一，\nD, T2R: 3. BBR. WRSAKAR, E"
+      },
+      {
+        "text": "T14",
+        "page": 42,
+        "source": "ocr",
+        "context": "厘米《图二九，1; 图版. -二，2)。T14\n本160,口颈部残片。 圆导，斜弧雇。"
+      },
+      {
+        "text": "T15",
+        "page": 43,
+        "source": "ocr",
+        "context": "ALHOTRA.      ，足壁较直。T15 采: 5, RRA. 粉青色厚釉，\n足"
+      },
+      {
+        "text": "T16",
+        "page": 43,
+        "source": "ocr",
+        "context": "型瓶的口颈部残片数量极多,形制稍有差异。T16@ + 25. RR. 翻沿\nORE, "
+      },
+      {
+        "text": "T2G",
+        "page": 43,
+        "source": "ocr",
+        "context": "(PATIL, 6: 图版二二,1) 。T2GDA + 50, WRB. HAL. B"
+      },
+      {
+        "text": "T14",
+        "page": 44,
+        "source": "ocr",
+        "context": "34\n\nERA TID\n4.1 1K T14@) + 160\n\nTORK\n\n图二九 "
+      },
+      {
+        "text": "T2O",
+        "page": 45,
+        "source": "ocr",
+        "context": "\nLAMGI:2 2RAT 2 awe T2OBe 87\nMTDIOE. ARB (E"
+      },
+      {
+        "text": "T2",
+        "page": 45,
+        "source": "ocr",
+        "context": "R. WM. rte, iA, HM. T2@B+ 87, RK\n色胎。粉青色厚釉，"
+      },
+      {
+        "text": "T3",
+        "page": 45,
+        "source": "ocr",
+        "context": "四，4)、121 (图版一\n四，3) 与T3@B: 18 (OMIM. 7. THU"
+      },
+      {
+        "text": "T2G",
+        "page": 45,
+        "source": "ocr",
+        "context": ". THUD, 26 (图版二四，8)、T2GB : 27 〈图版一四，\n6) ASR"
+      },
+      {
+        "text": "T2",
+        "page": 47,
+        "source": "ocr",
+        "context": " (PA     3: OM. 4). T2@A+ 54 (图版二七，3)、T14@"
+      },
+      {
+        "text": "T14",
+        "page": 47,
+        "source": "ocr",
+        "context": ". T2@A+ 54 (图版二七，3)、T14@ : 248\ncal    43 图版"
+      },
+      {
+        "text": "T2O",
+        "page": 47,
+        "source": "ocr",
+        "context": "TR SO, Gil. OA, MM, T2OB: 93, KEM, RE, CLS."
+      },
+      {
+        "text": "T14G",
+        "page": 47,
+        "source": "ocr",
+        "context": "k RIE. PHI. RE. 广圆肩。T14GD ，113，深灰色薄胎，质细硬。灰青色"
+      },
+      {
+        "text": "T14",
+        "page": 47,
+        "source": "ocr",
+        "context": "米〈图三三，7; 图版二八，  7), T14® + 137, FEA\nWh. 9, "
+      },
+      {
+        "text": "T2",
+        "page": 47,
+        "source": "ocr",
+        "context": ". 9, RRA 厘米 (隐二三，6)，T2@    1, FAL. PLE, UR"
+      },
+      {
+        "text": "T14G",
+        "page": 47,
+        "source": "ocr",
+        "context": "高 14 厘米 CBE\n{A. 6), T14G) + 130, Biille] TID"
+      },
+      {
+        "text": "T2D",
+        "page": 49,
+        "source": "ocr",
+        "context": "AB TI® + 196\n8 IEEE T2DA + 41   9 MEG TRZA "
+      },
+      {
+        "text": "T14",
+        "page": 49,
+        "source": "ocr",
+        "context": " 图版二九，1)。Y2 : 1， 形制与T14@@ ，148 相似，盖顶心为\n集叶蒂形"
+      },
+      {
+        "text": "T2C",
+        "page": 50,
+        "source": "ocr",
+        "context": "6 OK CA, 6; 图版二九，3)。T2CDR : 7, 项\nFR, SO. PU"
+      },
+      {
+        "text": "T4B",
+        "page": 51,
+        "source": "ocr",
+        "context": "; 图版二四， 1,\n\n工型 情轩图形。T4BB : 7. RAS. BAN. ANE"
+      },
+      {
+        "text": "T2D",
+        "page": 53,
+        "source": "ocr",
+        "context": "MUETSSB: 1d 7. ¥ MU T2DA + 36\n"
+      },
+      {
+        "text": "T2",
+        "page": 54,
+        "source": "ocr",
+        "context": "RS EK. BR\n(UA BILG. T2        #1, 26 SEMA "
+      },
+      {
+        "text": "T2",
+        "page": 54,
+        "source": "ocr",
+        "context": "FEC RAP, BASE, LLM, T2 K+ 53.  BRUM LLG\n润的"
+      },
+      {
+        "text": "T14",
+        "page": 55,
+        "source": "ocr",
+        "context": "口沿残片, 印有云雷纹〈图版三七,6)。T14全， 243. EI\nFUR. BREE"
+      },
+      {
+        "text": "T228",
+        "page": 55,
+        "source": "ocr",
+        "context": "UR. BREEDS (HRA. 5)。T228 : 24, OIG. ERR ESA."
+      },
+      {
+        "text": "T18",
+        "page": 55,
+        "source": "ocr",
+        "context": "E (图三八，4; 图版三七, 1). T18 + 12. Je\nPRIN. ERAT"
+      },
+      {
+        "text": "T18G",
+        "page": 55,
+        "source": "ocr",
+        "context": "3), TBO\nTDR IY, SAS T18Gs + 12 fila] 《图版一六，2"
+      },
+      {
+        "text": "T2",
+        "page": 57,
+        "source": "ocr",
+        "context": "HE :193 6. HEE SIEM T2 采 OS MME 了. TENE TI"
+      },
+      {
+        "text": "T3",
+        "page": 58,
+        "source": "ocr",
+        "context": "I. 仿越窗系 1 件，龙泉窖系3 件。T3@A : 13，越窗系。花口. 从\n加懈"
+      },
+      {
+        "text": "T3G",
+        "page": 58,
+        "source": "ocr",
+        "context": "         +104 胎釉纹侯与 T3G)A : 13 ATL. PRAM, H"
+      },
+      {
+        "text": "T1I",
+        "page": 58,
+        "source": "ocr",
+        "context": ", HAE CHRIA, 2, 3). T1I7@ + 80 HRA ARE\nSeek"
+      },
+      {
+        "text": "T2O",
+        "page": 58,
+        "source": "ocr",
+        "context": "厘米〈同四\n\n，1; AML. 3), T2OB: 62. HRA. RR. MH. "
+      },
+      {
+        "text": "T2D",
+        "page": 59,
+        "source": "ocr",
+        "context": "e Ab ae RE RE\n\nETRE T2DB 4 65   3 RMR M T2D"
+      },
+      {
+        "text": "T2D",
+        "page": 59,
+        "source": "ocr",
+        "context": "T2DB 4 65   3 RMR M T2DB + 58\nPiso 62825 RA"
+      },
+      {
+        "text": "T22B",
+        "page": 60,
+        "source": "ocr",
+        "context": "IR -. 22 PHARM. 2). T22B+ 63. ER. ES. TA. dR"
+      },
+      {
+        "text": "T22",
+        "page": 60,
+        "source": "ocr",
+        "context": " 3. MERE TAB: 62\nAB T22 Bs 63.\n\n5. HABREHAL"
+      },
+      {
+        "text": "T2D",
+        "page": 61,
+        "source": "ocr",
+        "context": "能为修坏用具，分二型。\n\n1 MIB. T2D8 : 30. eR, RE. BL. "
+      },
+      {
+        "text": "T14G",
+        "page": 61,
+        "source": "ocr",
+        "context": " 12、残高 11 厘米图四三, 8)。T14G@) ， 202, 残存底部图足，\n内底"
+      },
+      {
+        "text": "T2D",
+        "page": 62,
+        "source": "ocr",
+        "context": "OA + 3\n\n4. CSBEBERE T2DB + 90S\nTs HR PALB T"
+      },
+      {
+        "text": "T14D",
+        "page": 62,
+        "source": "ocr",
+        "context": "DB + 90S\nTs HR PALB T14D + 169     vn 12a Sh"
+      },
+      {
+        "text": "T162",
+        "page": 64,
+        "source": "ocr",
+        "context": "四;图版四\n\nEM 象棋范模，2 件. T162\nAUER A RAE. 土黄色素胎, "
+      },
+      {
+        "text": "T12B",
+        "page": 64,
+        "source": "ocr",
+        "context": "径13、高 2 3 厘米〈图四三，3)。T12BA，51，形制基本同上， 沿面斜平，\n内"
+      },
+      {
+        "text": "T2",
+        "page": 64,
+        "source": "ocr",
+        "context": "RASA PMG TR. AREAS. T2 K+ 68. ES, Bla,\nHe."
+      },
+      {
+        "text": "T2118",
+        "page": 65,
+        "source": "ocr",
+        "context": " 22.4 BK.\n\nOAD BEE. T2118. RAS. EAR. IML, EAE"
+      },
+      {
+        "text": "T2",
+        "page": 65,
+        "source": "ocr",
+        "context": "ERKE FEMUR Be MAME. T2a\nWAG HT. Bet   FE. "
+      },
+      {
+        "text": "T52A",
+        "page": 68,
+        "source": "ocr",
+        "context": "1 厘米【图四六,1: 图版四七 3)。T52A 3: 16. 为5 支订史饼形，\nAE"
+      },
+      {
+        "text": "T154D",
+        "page": 68,
+        "source": "ocr",
+        "context": " 厘米《图四六，10， 图版四九，2).T154DB : +. 7 钉支饼，饼面半整、 边"
+      },
+      {
+        "text": "T2D",
+        "page": 68,
+        "source": "ocr",
+        "context": "A 9 ATE. 但支订排列形式不同: T2DB + 69 为中心- .枚, 周边\n8"
+      },
+      {
+        "text": "T2E",
+        "page": 68,
+        "source": "ocr",
+        "context": "69 为中心- .枚, 周边\n8 Ms T2E有:70 为内圈 3 He. SHE 6"
+      },
+      {
+        "text": "T17",
+        "page": 68,
+        "source": "ocr",
+        "context": "的不同可分一式、\n\n1 式 AMES. T17@ : 68. RENE, 圈顶切亨成等"
+      },
+      {
+        "text": "T17",
+        "page": 68,
+        "source": "ocr",
+        "context": "FAMBO. 2).\n\n2k 弧辟较深。T17瑟:71，黑灰色夹细砂瓷十胎。顶径6、底"
+      },
+      {
+        "text": "T18",
+        "page": 68,
+        "source": "ocr",
+        "context": "其外形的不同，可分三式。\n\n1式 稚形，T18电:80,，直口方唇，直折腹、小平底富内"
+      },
+      {
+        "text": "T15B",
+        "page": 68,
+        "source": "ocr",
+        "context": "6: BRO, 5),\n\n3 式 饼形.T15BB， 3, OU FH. MUL. ML"
+      },
+      {
+        "text": "T16",
+        "page": 68,
+        "source": "ocr",
+        "context": "BS 厘米\n《图四七7; 图版汪一1)。T16@@ :21 TISDBs 3 相似，底"
+      },
+      {
+        "text": "T18",
+        "page": 69,
+        "source": "ocr",
+        "context": "Kk TI,     48D 1 sO T18a: 80\n\nKAMA TSB? REM"
+      },
+      {
+        "text": "T2",
+        "page": 70,
+        "source": "ocr",
+        "context": " OK CUA. 6; 图版五二，5)。T2\nfee OC BAG 2 OK ae."
+      },
+      {
+        "text": "T17D",
+        "page": 70,
+        "source": "ocr",
+        "context": "\n2 式 (Rie. AU. Mik. T17D + 20    Sf. Ai PARM"
+      },
+      {
+        "text": "T2228",
+        "page": 71,
+        "source": "ocr",
+        "context": "米 laden\nist RIEMYL. T2228: 9                 "
+      },
+      {
+        "text": "T2D",
+        "page": 71,
+        "source": "ocr",
+        "context": "RDHIR. Fill, 3K\n2). T2DB + 46. HEME. RE DHL"
+      },
+      {
+        "text": "T2D",
+        "page": 72,
+        "source": "ocr",
+        "context": "TL    5   Lt. Wt 2A T2DBs 83   12. WA 2K TS"
+      },
+      {
+        "text": "T2O",
+        "page": 73,
+        "source": "ocr",
+        "context": "T2OB : 98，线负形，藉色类砂相胎。. "
+      },
+      {
+        "text": "T14",
+        "page": 73,
+        "source": "ocr",
+        "context": "掌握窗守内火候用.利用残破坯片钻孔而成.T14\n1: 255，瓷杆中部残段，八角形，中"
+      },
+      {
+        "text": "T10",
+        "page": 75,
+        "source": "ocr",
+        "context": "YI 扒积居中所布的二条探海中《148一T10) 也有鹤是的发现。这类牢资仅见碗 -种"
+      },
+      {
+        "text": "T18",
+        "page": 77,
+        "source": "ocr",
+        "context": "t [a    2|| |   272\nT18       238| ; | [32]"
+      },
+      {
+        "text": "T17",
+        "page": 81,
+        "source": "ocr",
+        "context": " 87 | 76 | 2     83\nT17| 2B    Li     7 | a"
+      },
+      {
+        "text": "T1L",
+        "page": 85,
+        "source": "ocr",
+        "context": "4 0 o8em isR 4a\n\nSLWT1L4Q)                 "
+      },
+      {
+        "text": "T16",
+        "page": 86,
+        "source": "ocr",
+        "context": "AI        we eee\nSLWT16@  BED mr 0. 3一0. Se"
+      },
+      {
+        "text": "T22",
+        "page": 86,
+        "source": "ocr",
+        "context": "ts     Pr a ren\nPSLWT22-A                  "
+      },
+      {
+        "text": "T1426",
+        "page": 98,
+        "source": "ocr",
+        "context": "1. MMM T1426) 2. THs\n\nSOM T1@s31"
+      },
+      {
+        "text": "T1",
+        "page": 98,
+        "source": "ocr",
+        "context": " T1426) 2. THs\n\nSOM T1@s31 1 MMMM T14 Ds 2"
+      },
+      {
+        "text": "T14",
+        "page": 98,
+        "source": "ocr",
+        "context": "\n\nSOM T1@s31 1 MMMM T14 Ds 282\n"
+      },
+      {
+        "text": "T2",
+        "page": 113,
+        "source": "ocr",
+        "context": " 50      4.11 TSDA\n\nT2@B:s1       6.0mm Ti"
+      },
+      {
+        "text": "T1",
+        "page": 117,
+        "source": "ocr",
+        "context": "4一6.工型本“TI7国:3、T1轩:161、T5国:114\n\n"
+      },
+      {
+        "text": "T5",
+        "page": 117,
+        "source": "ocr",
+        "context": ".工型本“TI7国:3、T1轩:161、T5国:114\n\n"
+      },
+      {
+        "text": "T14",
+        "page": 119,
+        "source": "ocr",
+        "context": "ate THO        5 MM T14二:165\n\n6 Tab Bs)    "
+      },
+      {
+        "text": "T5",
+        "page": 122,
+        "source": "ocr",
+        "context": "( XXII )\n\nDA\n\n3.1m T5回A\n\n2 KM Tess\n"
+      },
+      {
+        "text": "T1",
+        "page": 123,
+        "source": "ocr",
+        "context": "T型3式 TI2轩A:B 2191 K T1团:160 3 1型3式 TI6四:25"
+      },
+      {
+        "text": "T15",
+        "page": 123,
+        "source": "ocr",
+        "context": "iara          人1型3趟 T15采:5\n\n7型 T2A:s0\n\n"
+      },
+      {
+        "text": "T2A",
+        "page": 123,
+        "source": "ocr",
+        "context": "   人1型3趟 T15采:5\n\n7型 T2A:s0\n\n"
+      },
+      {
+        "text": "T2",
+        "page": 124,
+        "source": "ocr",
+        "context": "图版二四 ( XXIV)\n\n1\n\n1. T2@B:23\n2T14四:135\n3.T4"
+      },
+      {
+        "text": "T14",
+        "page": 124,
+        "source": "ocr",
+        "context": "IV)\n\n1\n\n1. T2@B:23\n2T14四:135\n3.T4因:121\n\n“SS"
+      },
+      {
+        "text": "T4",
+        "page": 124,
+        "source": "ocr",
+        "context": "T2@B:23\n2T14四:135\n3.T4因:121\n\n“SS\nBr\n3\n\n9.T"
+      },
+      {
+        "text": "T14",
+        "page": 124,
+        "source": "ocr",
+        "context": "4因:121\n\n“SS\nBr\n3\n\n9.T14因:136\n\n责\n\nRESRAT\n"
+      },
+      {
+        "text": "T14",
+        "page": 127,
+        "source": "ocr",
+        "context": ". RMR F321\n二 REEZRA T14世:124\n\n7, MORE\nTapAs"
+      },
+      {
+        "text": "T22",
+        "page": 128,
+        "source": "ocr",
+        "context": "4.09 Tiaesita\n\n5. = T22 B93\n\n6. TIBAs)\n\n于\n"
+      },
+      {
+        "text": "T2D",
+        "page": 130,
+        "source": "ocr",
+        "context": " RA THD ASS:\n\nVitam T2DA:36\n\n"
+      },
+      {
+        "text": "T3",
+        "page": 131,
+        "source": "ocr",
+        "context": " G1:9\n\nte\n\n2, WH 1k T3国A:2  3. 1M 3 TS@:10"
+      },
+      {
+        "text": "T2D",
+        "page": 135,
+        "source": "ocr",
+        "context": "         2.3. ee = =T2DB:8:1.2\n\n4. Mme T2采:"
+      },
+      {
+        "text": "T2",
+        "page": 135,
+        "source": "ocr",
+        "context": "=T2DB:8:1.2\n\n4. Mme T2采:53:1.2 eM) 5.6. th"
+      },
+      {
+        "text": "T2",
+        "page": 135,
+        "source": "ocr",
+        "context": "3:1.2 eM) 5.6. thee T2采:53:1.2 OAM 7.8, 风鸟"
+      },
+      {
+        "text": "T14",
+        "page": 136,
+        "source": "ocr",
+        "context": ", Tie @:12\n\n4. thee T14@: 195          5. A"
+      },
+      {
+        "text": "T5",
+        "page": 136,
+        "source": "ocr",
+        "context": "95          5. Aste T5因A;145\n\na\n\n"
+      },
+      {
+        "text": "T4257",
+        "page": 137,
+        "source": "ocr",
+        "context": " Tin 2 Asa  2. Meee T4257\n\n和\n\n‘mee Tis ice\n\n5"
+      },
+      {
+        "text": "T5D",
+        "page": 137,
+        "source": "ocr",
+        "context": ". fate TI40:243 mee T5DB:141 | 7. EB T2加B:2"
+      },
+      {
+        "text": "T2",
+        "page": 137,
+        "source": "ocr",
+        "context": "ee T5DB:141 | 7. EB T2加B:24\n南宋官窜资器纹饰残片\n"
+      },
+      {
+        "text": "T2",
+        "page": 138,
+        "source": "ocr",
+        "context": " eM TI7团;80\n\n2 越诊硫”了T2互\n\nA:104内台\n\nmee T22A"
+      },
+      {
+        "text": "T22A",
+        "page": 138,
+        "source": "ocr",
+        "context": "”了T2互\n\nA:104内台\n\nmee T22A: asm\n\ntwee\n\n-\n\n站\n\n5"
+      },
+      {
+        "text": "T4204",
+        "page": 139,
+        "source": "ocr",
+        "context": "亮众食六    2 Be4\n\nmeee T4204\n\nmeee T22 B63\n\n"
+      },
+      {
+        "text": "T22",
+        "page": 139,
+        "source": "ocr",
+        "context": "4\n\nmeee T4204\n\nmeee T22 B63\n\n"
+      },
+      {
+        "text": "T14",
+        "page": 140,
+        "source": "ocr",
+        "context": "图版四O (XL)\n\n1.越容系盘 T14四:242\n\nmm RMm Tia es"
+      },
+      {
+        "text": "T22B",
+        "page": 141,
+        "source": "ocr",
+        "context": "II)\n\nLok TSDAcR YIM T22Bea, ney Tre esi\n\n研体 "
+      },
+      {
+        "text": "T2D",
+        "page": 142,
+        "source": "ocr",
+        "context": "图版四二 (〈(XLI)\n\n1 Mew T2DB:90\n\n2. eM TS Asa  "
+      },
+      {
+        "text": "T3",
+        "page": 142,
+        "source": "ocr",
+        "context": " Asa          3. VM T3@B:3\n"
+      },
+      {
+        "text": "T5",
+        "page": 143,
+        "source": "ocr",
+        "context": "9\n\n图版四三 (XLI)\n\n1 TM T5四A:47\n\n6 ©\n\n3. MAM T"
+      },
+      {
+        "text": "T14",
+        "page": 144,
+        "source": "ocr",
+        "context": "四四 (XLIV )\n\nS\n\nLAER T14d:169           4.揪器"
+      },
+      {
+        "text": "T2",
+        "page": 144,
+        "source": "ocr",
+        "context": " aie TS: 108\n\nS\n\n3. T2k 68           5M Ti"
+      },
+      {
+        "text": "T2D",
+        "page": 147,
+        "source": "ocr",
+        "context": "图版四七 〈(XLVI\n\n1型1式 T2DB:60     1%\n\n1型3式 Ts"
+      },
+      {
+        "text": "T2",
+        "page": 148,
+        "source": "ocr",
+        "context": "   =\n           4\n1.T2司B     Tie 2:3  1.T2"
+      },
+      {
+        "text": "T2D",
+        "page": 148,
+        "source": "ocr",
+        "context": "T2司B     Tie 2:3  1.T2DB:99 © 4, Ti6@:30\n\n5"
+      },
+      {
+        "text": "T22B",
+        "page": 148,
+        "source": "ocr",
+        "context": ":99 © 4, Ti6@:30\n\n5 T22B   6. T2@B:a5 7. T2B"
+      },
+      {
+        "text": "T2",
+        "page": 148,
+        "source": "ocr",
+        "context": "i6@:30\n\n5 T22B   6. T2@B:a5 7. T2B:103  8."
+      },
+      {
+        "text": "T2B",
+        "page": 148,
+        "source": "ocr",
+        "context": "22B   6. T2@B:a5 7. T2B:103  8. T 14205\n"
+      },
+      {
+        "text": "T15",
+        "page": 151,
+        "source": "ocr",
+        "context": "图版五一 (LI)\n\nMM 3 RRM T15 PB:3         2. SRM"
+      },
+      {
+        "text": "T3D",
+        "page": 151,
+        "source": "ocr",
+        "context": "             4. BME T3DB:15\n\n二=\n\nVM IMM Tad"
+      },
+      {
+        "text": "T5D",
+        "page": 152,
+        "source": "ocr",
+        "context": "rte TS PBs\n\nSVM aXe T5DA:30\n"
+      },
+      {
+        "text": "T52A",
+        "page": 153,
+        "source": "ocr",
+        "context": "图版五三 (LM)\n\n二 T52A  Ti4B:253 。 35.3式 T"
+      },
+      {
+        "text": "T2Q",
+        "page": 153,
+        "source": "ocr",
+        "context": "A  Ti4B:253 。 35.3式 T2QB:96, T3DA:6, Tsav:1"
+      },
+      {
+        "text": "T3D",
+        "page": 153,
+        "source": "ocr",
+        "context": "53 。 35.3式 T2QB:96, T3DA:6, Tsav:129\n\n61k +"
+      },
+      {
+        "text": "T2",
+        "page": 154,
+        "source": "ocr",
+        "context": "图版五四 (LIV )\n\n6一4型2式 T2@B:83、T14因:215、T5轩:1"
+      },
+      {
+        "text": "T14",
+        "page": 154,
+        "source": "ocr",
+        "context": "V )\n\n6一4型2式 T2@B:83、T14因:215、T5轩:132\n\n南  窜热"
+      },
+      {
+        "text": "T5",
+        "page": 154,
+        "source": "ocr",
+        "context": "2式 T2@B:83、T14因:215、T5轩:132\n\n南  窜热烧具\n"
+      },
+      {
+        "text": "T2D",
+        "page": 155,
+        "source": "ocr",
+        "context": "1-3. WH 1 Ti4@:220, T2DA:99, T2B=46\n\n40M 1K"
+      },
+      {
+        "text": "T2B",
+        "page": 155,
+        "source": "ocr",
+        "context": " Ti4@:220, T2DA:99, T2B=46\n\n40M 1K Ti7D:98 "
+      },
+      {
+        "text": "T5",
+        "page": 155,
+        "source": "ocr",
+        "context": " 1K Ti7D:98 5,mM 2H T5团:134\n\n87\n\n6. 7, WM "
+      },
+      {
+        "text": "T14",
+        "page": 155,
+        "source": "ocr",
+        "context": "34\n\n87\n\n6. 7, WM 2e T14 22218. T2aB:98\n"
+      },
+      {
+        "text": "T2",
+        "page": 155,
+        "source": "ocr",
+        "context": "7, WM 2e T14 22218. T2aB:98\n"
+      }
+    ],
+    "地层": [
+      {
+        "text": "第1层",
+        "page": 17,
+        "source": "ocr",
+        "context": "例，将各层博\n况分述如下《〈图七?。\n\n第1层, 厚 85一139 WK. oS,\n\n"
+      },
+      {
+        "text": "第2层",
+        "page": 17,
+        "source": "ocr",
+        "context": " Ea, AYR OT A RES.\n\n第2层: 厚 30一60 WK, MRE. 内"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "碗",
+        "page": 17,
+        "source": "ocr",
+        "context": " WER TT A. 4\n越穿产品相似，碗内刻划第纹和化草纹。\n\n"
+      },
+      {
+        "text": "钵",
+        "page": 18,
+        "source": "ocr",
+        "context": "其余三面墙基皆被破坏，仅有零星小石块、敬钵片等残迹。宗内分间处亦被破坏，不见\n隔墙"
+      },
+      {
+        "text": "钵",
+        "page": 22,
+        "source": "ocr",
+        "context": "R ns 辆厂二，2)。池口部和池莒用苗钵底片及石块公砌，池底则铺石块和青灰色残\n"
+      },
+      {
+        "text": "盘",
+        "page": 23,
+        "source": "ocr",
+        "context": "入土中很深的木轴，木\n轴的顶端装于嵌入轮盘中心的轴顶院内，使轮盘\n能快速的旋转, "
+      },
+      {
+        "text": "盘",
+        "page": 23,
+        "source": "ocr",
+        "context": "轴的顶端装于嵌入轮盘中心的轴顶院内，使轮盘\n能快速的旋转, 轮盘上放坏泥或资坯,转"
+      },
+      {
+        "text": "盘",
+        "page": 23,
+        "source": "ocr",
+        "context": "心的轴顶院内，使轮盘\n能快速的旋转, 轮盘上放坏泥或资坯,转动轮盘，\n就可拉坯成型"
+      },
+      {
+        "text": "盘",
+        "page": 23,
+        "source": "ocr",
+        "context": "快速的旋转, 轮盘上放坏泥或资坯,转动轮盘，\n就可拉坯成型或进行修坏、刮釉等工序,"
+      },
+      {
+        "text": "盘",
+        "page": 23,
+        "source": "ocr",
+        "context": ", a a\n木轴已腐从无存，只遗留下装轮盘基座的坑洞和\nABIL. HEPELAH"
+      },
+      {
+        "text": "豆",
+        "page": 23,
+        "source": "ocr",
+        "context": "口直径 35 厘米 残深仅 5 厘米。孔豆用红色精\n上筑成，厚 10 厘米。不远处"
+      },
+      {
+        "text": "钵",
+        "page": 27,
+        "source": "ocr",
+        "context": "为外高内低的斜坡门道。各门砍处均有残破匣钵或容\n其铺垫，其中 4 号门南侧窗墙与其"
+      },
+      {
+        "text": "环",
+        "page": 27,
+        "source": "ocr",
+        "context": "度之高。\n\n容室底部有铺底匣铂,已大部破环无存,仅发现堆星完整昔钵 5 只.其中窗"
+      },
+      {
+        "text": "钵",
+        "page": 27,
+        "source": "ocr",
+        "context": "底匣铂,已大部破环无存,仅发现堆星完整昔钵 5 只.其中窗尾西侧的1 只，\n尚放置"
+      },
+      {
+        "text": "钵",
+        "page": 27,
+        "source": "ocr",
+        "context": "弄”的宽度，以利火焰流通。窗\n内发现的匣钵最大直径 42 厘米, 最小直径仅 10"
+      },
+      {
+        "text": "钵",
+        "page": 27,
+        "source": "ocr",
+        "context": "和四底 2 种。但在作坊及堆积中发现的攻钵形制多样， 反映出南宋\n窒窗内烧制器物的"
+      },
+      {
+        "text": "钵",
+        "page": 27,
+        "source": "ocr",
+        "context": "出南宋\n窒窗内烧制器物的造型丰富。由于旦钵发现数量少，其排列放置位置等情况不明。\n"
+      },
+      {
+        "text": "碗",
+        "page": 29,
+        "source": "ocr",
+        "context": ", 这此器物的造型特征, 除出土基最多的碗、 盘、\nSi BRS GES GPA "
+      },
+      {
+        "text": "盘",
+        "page": 29,
+        "source": "ocr",
+        "context": "此器物的造型特征, 除出土基最多的碗、 盘、\nSi BRS GES GPA AED"
+      },
+      {
+        "text": "壶",
+        "page": 29,
+        "source": "ocr",
+        "context": "炉和散炉，秆、玉式版及其他形制特殊的频、壶类，各式的器\nWER CR).\n\nAPE"
+      },
+      {
+        "text": "盘",
+        "page": 29,
+        "source": "ocr",
+        "context": "，有的器形系参照传此\n间复原，计人了琉、盘、三足盘、矶、旨、洗、盒、杯、钵、丛、花"
+      },
+      {
+        "text": "盘",
+        "page": 29,
+        "source": "ocr",
+        "context": "形系参照传此\n间复原，计人了琉、盘、三足盘、矶、旨、洗、盒、杯、钵、丛、花盆, S"
+      },
+      {
+        "text": "杯",
+        "page": 29,
+        "source": "ocr",
+        "context": "，计人了琉、盘、三足盘、矶、旨、洗、盒、杯、钵、丛、花盆, Se a\nATE, A"
+      },
+      {
+        "text": "钵",
+        "page": 29,
+        "source": "ocr",
+        "context": "人了琉、盘、三足盘、矶、旨、洗、盒、杯、钵、丛、花盆, Se a\nATE, Ai,"
+      },
+      {
+        "text": "盆",
+        "page": 29,
+        "source": "ocr",
+        "context": "、三足盘、矶、旨、洗、盒、杯、钵、丛、花盆, Se a\nATE, Ai, ae. "
+      },
+      {
+        "text": "盘",
+        "page": 31,
+        "source": "ocr",
+        "context": " 7 EIR TIDE 92\n\n《2)》盘”可分四型。造型、大小皆不同，用途也不同"
+      },
+      {
+        "text": "盘",
+        "page": 31,
+        "source": "ocr",
+        "context": "、大小皆不同，用途也不同，距有饮食用的菜盘、调料盘，也\n有陈设用的果盘等。\n\n1 "
+      },
+      {
+        "text": "盘",
+        "page": 31,
+        "source": "ocr",
+        "context": "不同，用途也不同，距有饮食用的菜盘、调料盘，也\n有陈设用的果盘等。\n\n1 MORO"
+      },
+      {
+        "text": "盘",
+        "page": 31,
+        "source": "ocr",
+        "context": "有饮食用的菜盘、调料盘，也\n有陈设用的果盘等。\n\n1 MORO, A. HM, K"
+      },
+      {
+        "text": "盘",
+        "page": 32,
+        "source": "ocr",
+        "context": "2砷米〈图 -八，6)。\n\n(3) 三足盘”可分一型\n\n12 REIT. DU. "
+      },
+      {
+        "text": "杯",
+        "page": 37,
+        "source": "ocr",
+        "context": "，外底满釉。支烧，支烧痕在内底，表明此类杯又可作小品\nRA CMA) CAE. O"
+      },
+      {
+        "text": "钵",
+        "page": 37,
+        "source": "ocr",
+        "context": "，8;， 图版一八，2) 。\n\n(9) 钵 可分三型。\n\n1型 WILE RE. "
+      },
+      {
+        "text": "碗",
+        "page": 38,
+        "source": "ocr",
+        "context": "BUS 0.20. 4 厘米。 底部粘接碗\n形热托。底径 9.2、最大腹径 12."
+      },
+      {
+        "text": "钵",
+        "page": 38,
+        "source": "ocr",
+        "context": "托。底径 9.2、最大腹径 12. 5、钵残高 4. 4、带热具残通高 6. 4 "
+      },
+      {
+        "text": "环",
+        "page": 41,
+        "source": "ocr",
+        "context": " (图版一七， 1、2) 复原出龙首形双环耳。浅灰色胎， 质细较硬。黄褐色薄禾，光"
+      },
+      {
+        "text": "瓶",
+        "page": 43,
+        "source": "ocr",
+        "context": "二，6) 。\n\n除上>    外，! 型瓶的口颈部残片数量极多,形制稍有差异。T1"
+      },
+      {
+        "text": "盘",
+        "page": 51,
+        "source": "ocr",
+        "context": "厘米《图 SIM. 7: 周版\n面刻划叶盘。高弧项， 钮稍残。灰色胎，灰青\nrd,"
+      },
+      {
+        "text": "盘",
+        "page": 54,
+        "source": "ocr",
+        "context": ". TRIBE 8 PTE + 1 亦为盘底圆号. 盘内底用纤细的线杀\n象.线条们"
+      },
+      {
+        "text": "盘",
+        "page": 54,
+        "source": "ocr",
+        "context": "E 8 PTE + 1 亦为盘底圆号. 盘内底用纤细的线杀\n象.线条们彻，表更的此"
+      },
+      {
+        "text": "环",
+        "page": 57,
+        "source": "ocr",
+        "context": "弦纹，有仿古的八卦纹、云雷纹、回形纹、重环纹、\nFEL, GRAAL. RATER"
+      },
+      {
+        "text": "盘",
+        "page": 61,
+        "source": "ocr",
+        "context": "R, RE. BL. 平底。外形似浅租，盘内竖一线轴形圆柱。\n杜顶耐平整，项径 4"
+      },
+      {
+        "text": "盘",
+        "page": 61,
+        "source": "ocr",
+        "context": "米，顶面下稍内收。柱径 3 厘米，略高出盘口，柱周一团 凹档。浅\n次色厚胎，质坚硬"
+      },
+      {
+        "text": "盘",
+        "page": 61,
+        "source": "ocr",
+        "context": "ER RTA. ABH\n流釉。轮制垫烧。盘口径 8. 1.底径 7. 7A 2. "
+      },
+      {
+        "text": "刀",
+        "page": 61,
+        "source": "ocr",
+        "context": "，桩头处有一小坑，说明柱头是后接的。两短刀正中各有一圆孔，孔径 0. 4 BOK."
+      },
+      {
+        "text": "杯",
+        "page": 64,
+        "source": "ocr",
+        "context": "FE. TSP + 106. 似倒轻的简杯。平顶，直腹，凹底，\nWUE, AMES"
+      },
+      {
+        "text": "盘",
+        "page": 68,
+        "source": "ocr",
+        "context": "80,，直口方唇，直折腹、小平底富内凹。盘沿切前成 5 枚四棱肩锥\n形支钉。紫其色"
+      },
+      {
+        "text": "盘",
+        "page": 71,
+        "source": "ocr",
+        "context": ",\n吕分为一式。\n不规攻圆形，系用小泥条盘成。 白色资十胎、质细，手制。\n463."
+      },
+      {
+        "text": "钵",
+        "page": 72,
+        "source": "ocr",
+        "context": "下   © THE + 218、拟倒扣的钵白。平面， 下腹，内弧腹，足底平。深灰色"
+      },
+      {
+        "text": "瓶",
+        "page": 74,
+        "source": "ocr",
+        "context": "部分租器物图由. 将殖、委、标、洗、炉、瓶等踢物分成几卉儿式，人在\nBATTER "
+      },
+      {
+        "text": "盘",
+        "page": 74,
+        "source": "ocr",
+        "context": ". 1 AVL, 2、3 式的演变是: 盘身由大变小,由深变浅; 联\nLUTE. "
+      },
+      {
+        "text": "碗",
+        "page": 75,
+        "source": "ocr",
+        "context": "土居而 dc. ta Ace\n期越容刻伦碗的残片，灰胎，施冰黄色釉，釉层透明有浮光"
+      },
+      {
+        "text": "碗",
+        "page": 75,
+        "source": "ocr",
+        "context": "一T10) 也有鹤是的发现。这类牢资仅见碗 -种、\nSARC. BURG WM. "
+      },
+      {
+        "text": "钵",
+        "page": 76,
+        "source": "ocr",
+        "context": "艺都是承袭北林伺窗的。 DE RR\n底区钵和龙窑则是选用南方传统的制资设备，\n\nP"
+      },
+      {
+        "text": "盘",
+        "page": 140,
+        "source": "ocr",
+        "context": "图版四O (XL)\n\n1.越容系盘 T14四:242\n\nmm RMm Ti"
+      }
+    ],
+    "土样特征": [
+      {
+        "text": "红烧土",
+        "page": 17,
+        "source": "ocr",
+        "context": "筑战壕时翻控出的本红色粘士层，内含较多的红烧土、容传\nWk, HA. WRAP RA "
+      },
+      {
+        "text": "红烧土",
+        "page": 18,
+        "source": "ocr",
+        "context": "方米〈图八; 图版二,1 )。室内地面由红烧土、\n紫金十、黄惕色沙土铺垫而成，地表平整"
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "红烧土",
+        "page": 17,
+        "source": "ocr",
+        "context": "筑战壕时翻控出的本红色粘士层，内含较多的红烧土、容传\nWk, HA. WRAP RA "
+      },
+      {
+        "text": "红烧土",
+        "page": 18,
+        "source": "ocr",
+        "context": "方米〈图八; 图版二,1 )。室内地面由红烧土、\n紫金十、黄惕色沙土铺垫而成，地表平整"
+      }
+    ],
+    "纹饰": [
+      {
+        "text": "布纹",
+        "page": 18,
+        "source": "ocr",
+        "context": "在梧压于房基上的第 2 层底，堆积有较多布纹瓦片。根据已发现的建筑遗迹、遗\n物, 推"
+      },
+      {
+        "text": "素面",
+        "page": 27,
+        "source": "ocr",
+        "context": "厘米的石英砂。建窗用材主要是土坯砖块,有素面长方形和槐形 2 种，\nHi] PUT "
+      },
+      {
+        "text": "绳纹",
+        "page": 38,
+        "source": "ocr",
+        "context": "气泡密集，有大冰虱纹。 外壁近底处堆贴粗绳纹一周。足\n#6 16.2, RO 6.4"
+      },
+      {
+        "text": "弦纹",
+        "page": 39,
+        "source": "ocr",
+        "context": "制作规\nWE, SAUTE. 肩腹部划阴弦纹两道, 肩、足贴饰短诽棱。口径 14.4"
+      },
+      {
+        "text": "弦纹",
+        "page": 40,
+        "source": "ocr",
+        "context": "钉痕，为支烧。蹄足底无釉。下腹贴二道细凸弦纹，\n上腹残片上灾有耳弦纹，应是二三道为一"
+      },
+      {
+        "text": "弦纹",
+        "page": 40,
+        "source": "ocr",
+        "context": "。下腹贴二道细凸弦纹，\n上腹残片上灾有耳弦纹，应是二三道为一组的纹饰。复原口径 12"
+      },
+      {
+        "text": "弦纹",
+        "page": 41,
+        "source": "ocr",
+        "context": "龙首形耳残片，口沿商绞平。 颈部有二道凸弦纹〈图版一\n七，1)。\n\n2 式”笋口, "
+      },
+      {
+        "text": "弦纹",
+        "page": 42,
+        "source": "ocr",
+        "context": "热烧。腊上部刻划弦纹二道。口径 17、足径 13.5， 高 "
+      },
+      {
+        "text": "云雷纹",
+        "page": 55,
+        "source": "ocr",
+        "context": ". TSOBE 1, 党口沿残片, 印有云雷纹〈图版三七,6)。T14全， 243. "
+      },
+      {
+        "text": "弦纹",
+        "page": 57,
+        "source": "ocr",
+        "context": "\n(3) 其他类; 有凸纺纹、门路纹、弧弦纹，有仿古的八卦纹、云雷纹、回形纹、重环纹"
+      },
+      {
+        "text": "云雷纹",
+        "page": 57,
+        "source": "ocr",
+        "context": "凸纺纹、门路纹、弧弦纹，有仿古的八卦纹、云雷纹、回形纹、重环纹、\nFEL, GRAAL"
+      },
+      {
+        "text": "弦纹",
+        "page": 58,
+        "source": "ocr",
+        "context": "h Arts\n图痕。内辟口没下划有一圈阴弦纹，其下刻划牡丹花叶纹， TOR REM "
+      },
+      {
+        "text": "弦纹",
+        "page": 64,
+        "source": "ocr",
+        "context": "AC. 纹饰上下分成三段, 中间以\n砧道弦纹相隔. 上下二段刻交纹及风纹,中段\nRV"
+      },
+      {
+        "text": "弦纹",
+        "page": 64,
+        "source": "ocr",
+        "context": "器身。 PL ATT\n购，樟内刻有两道凸弦纹。土黄色生坏，质细软，轮制- 平面直径分"
+      },
+      {
+        "text": "弦纹",
+        "page": 65,
+        "source": "ocr",
+        "context": "Re. LOE. $0. 洪部外卷有一道弦纹,口径 22, 底\nFELL LO ND"
+      },
+      {
+        "text": "鸟纹",
+        "page": 135,
+        "source": "ocr",
+        "context": "2采:53:1.2 OAM 7.8, 风鸟纹 Te QBi5:1,2\n\n"
+      }
+    ],
+    "建筑结构": [
+      {
+        "text": "墙基",
+        "page": 18,
+        "source": "ocr",
+        "context": "块，共有柱石8块。北侧边墙\n尚保存一段残墙基，残高 0. 28K, RADAR, A"
+      },
+      {
+        "text": "墙基",
+        "page": 18,
+        "source": "ocr",
+        "context": " LATER 〈图版二，\n2)。其余三面墙基皆被破坏，仅有零星小石块、敬钵片等残迹。"
+      },
+      {
+        "text": "墙基",
+        "page": 18,
+        "source": "ocr",
+        "context": "盖顶的工棚式建筑。屋前，残价一段挡山土的墙基, 尽后有排\n水沟G1 (图版二，3)。"
+      },
+      {
+        "text": "散水",
+        "page": 18,
+        "source": "ocr",
+        "context": "\n部用石块急砌，应是为排除房检滴水而建的散水沟。沟的东面有大片平整铺沙地面，推测可\n"
+      },
+      {
+        "text": "墙基",
+        "page": 20,
+        "source": "ocr",
+        "context": "米的方砖 3 种。 由于扰乱.破坏严重,墙基多处被打\n断 ,地面地砖亦大部分无存。 "
+      },
+      {
+        "text": "墙基",
+        "page": 20,
+        "source": "ocr",
+        "context": "多处被打\n断 ,地面地砖亦大部分无存。 墙基保存最高处在东南角,有 7 层砖,最低处"
+      },
+      {
+        "text": "散水",
+        "page": 20,
+        "source": "ocr",
+        "context": "下有小浅沟与F4 前榴下小浅沟相连,应是散水沟。房基北侧与\nF4 屋前地面连接处,有"
+      },
+      {
+        "text": "散水",
+        "page": 20,
+        "source": "ocr",
+        "context": "版四,2),呈网底状明浅沟,与F4 屋侧散水沟相通。房基\n南仙局部也残存有了砖铺散水"
+      },
+      {
+        "text": "散水",
+        "page": 20,
+        "source": "ocr",
+        "context": "散水沟相通。房基\n南仙局部也残存有了砖铺散水。 AS RE. 根据残存建筑遗迹判断 "
+      },
+      {
+        "text": "墙基",
+        "page": 24,
+        "source": "ocr",
+        "context": "2 ye\nFy SH Ly 2 层的右砌墙基填压。 揭露部分全长近 50 米，沟口宽"
+      },
+      {
+        "text": "墙基",
+        "page": 24,
+        "source": "ocr",
+        "context": " .3米处必排水沟南段西侧-一段.皆残存墙基。F3 前检的挡士墙为南\n14\n\nONS"
+      },
+      {
+        "text": "门道",
+        "page": 27,
+        "source": "ocr",
+        "context": "不明。门着均遭破坏，推测为外高内低的斜坡门道。各门砍处均有残破匣钵或容\n其铺垫，其中"
+      },
+      {
+        "text": "门道",
+        "page": 27,
+        "source": "ocr",
+        "context": "M RMT E 90 度直角，形成曲尺形门道〈图版七，1)。\n\n窗项,已雪塌无存。投"
+      }
+    ],
+    "材质": [
+      {
+        "text": "青瓷",
+        "page": 23,
+        "source": "ocr",
+        "context": "。缸内亦存有同伴泥料。经化验，残存泥料是青瓷釉料，故确定为盛和的舟料拭亿。\n\nCH)"
+      }
+    ]
+  }
+}

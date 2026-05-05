@@ -1,0 +1,327 @@
+{
+  "name": "昌都卡若",
+  "file": "昌都卡若.pdf",
+  "era": "新石器",
+  "culture": "卡若文化",
+  "processed_pages": 14,
+  "total_entities": 46,
+  "entity_stats": {
+    "遗址名称": 6,
+    "年代": 1,
+    "层位关系": 1,
+    "陶器": 5,
+    "铜器": 6,
+    "探方编号": 3,
+    "遗迹编号": 9,
+    "地层": 2,
+    "纹饰": 2,
+    "遗迹类型": 1,
+    "建筑结构": 1,
+    "石器": 4,
+    "测量数据": 5
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "卡若",
+        "page": 6,
+        "source": "ocr",
+        "context": "卡若遗址的发掘，充分证明了藏族人民是勤劳、勇"
+      },
+      {
+        "text": "卡若",
+        "page": 8,
+        "source": "ocr",
+        "context": "nee cee cee cee one\n卡若文化的社会经济情况及族属的初步探讨 on"
+      },
+      {
+        "text": "卡若",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n彩版四 PE STE ie\n\n图版一 卡若遗址工地发据情况\n\nAvg [AAG ("
+      },
+      {
+        "text": "卡若",
+        "page": 15,
+        "source": "ocr",
+        "context": "第一章“自然环境和工作概况\n\n卡若遗址位于西藏自治区昌都县城东南约12公里"
+      },
+      {
+        "text": "卡若",
+        "page": 15,
+        "source": "ocr",
+        "context": "址即位于第二级台地上，东\n靠澜论江，南临卡若水，北依子隆拉山，西约1公里处为卡若村:"
+      },
+      {
+        "text": "卡若",
+        "page": 15,
+        "source": "ocr",
+        "context": "南临卡若水，北依子隆拉山，西约1公里处为卡若村:) 〈图一 彩版一) 。\n遗引海拔高"
+      }
+    ],
+    "年代": [
+      {
+        "text": "明",
+        "page": 6,
+        "source": "ocr",
+        "context": "卡若遗址的发掘，充分证明了藏族人民是勤劳、勇敢、智慧的人民。下\n"
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "堆积",
+        "page": 7,
+        "source": "ocr",
+        "context": "和工作概况 ee\n\nBT Tt | 文化堆积\n\nHake REM TE\n\n二、房犀的"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "环",
+        "page": 7,
+        "source": "ocr",
+        "context": "第一章“” 自然环境和工作概况 ee\n\nBT Tt | 文"
+      },
+      {
+        "text": "刀",
+        "page": 13,
+        "source": "ocr",
+        "context": " ORI\nAR. Fie ORI)\n\n石刀《〈磨制石器)\n\nAd). WRB. H"
+      },
+      {
+        "text": "陶纺轮",
+        "page": 13,
+        "source": "ocr",
+        "context": "EAR. EUR\n陶器底部的布纹、陶饼、陶纺轮\npy tl\n\ni i\n\nal\n\ni\n\n"
+      },
+      {
+        "text": "环",
+        "page": 15,
+        "source": "ocr",
+        "context": "第一章“自然环境和工作概况\n\n卡若遗址位于西藏自治区昌"
+      },
+      {
+        "text": "刀",
+        "page": 15,
+        "source": "ocr",
+        "context": "藏族人民筑城进行抵抗，以后城堡虽被攻克并刀\nBe, (ALARA CPR, THA"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "环",
+        "page": 7,
+        "source": "ocr",
+        "context": "第一章“” 自然环境和工作概况 ee\n\nBT Tt | 文"
+      },
+      {
+        "text": "矛",
+        "page": 10,
+        "source": "ocr",
+        "context": "A TARR) ee (79)\n图五三“矛、镀、刻刮器: AT. FG (打制石器"
+      },
+      {
+        "text": "饰",
+        "page": 11,
+        "source": "ocr",
+        "context": " saeeae see cae\n\n刻划纹饰、附所玲纹 eee eee ene ce"
+      },
+      {
+        "text": "刀",
+        "page": 13,
+        "source": "ocr",
+        "context": " ORI\nAR. Fie ORI)\n\n石刀《〈磨制石器)\n\nAd). WRB. H"
+      },
+      {
+        "text": "环",
+        "page": 15,
+        "source": "ocr",
+        "context": "第一章“自然环境和工作概况\n\n卡若遗址位于西藏自治区昌"
+      },
+      {
+        "text": "刀",
+        "page": 15,
+        "source": "ocr",
+        "context": "藏族人民筑城进行抵抗，以后城堡虽被攻克并刀\nBe, (ALARA CPR, THA"
+      }
+    ],
+    "探方编号": [
+      {
+        "text": "T45",
+        "page": 9,
+        "source": "ocr",
+        "context": "i102东壁北段剖面图 多ee\n\n图六 T45一T103西壁襄面图\n\n图一一\n图一二\n"
+      },
+      {
+        "text": "T103",
+        "page": 9,
+        "source": "ocr",
+        "context": "东壁北段剖面图 多ee\n\n图六 T45一T103西壁襄面图\n\n图一一\n图一二\n图一三\n图"
+      },
+      {
+        "text": "T30",
+        "page": 12,
+        "source": "ocr",
+        "context": "0、F12遗迹\n\n图版一CQ Fl12、T30遗迹\n\n图版一一 Fl12二次利用后的房"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "F206",
+        "page": 9,
+        "source": "ocr",
+        "context": "10)\n\n. (12)\nFEL /\\. F206 40 FEARS Ee] ove en"
+      },
+      {
+        "text": "F26",
+        "page": 9,
+        "source": "ocr",
+        "context": "s cen nee nnees\n图万  F26 EY PE HE EE eles ce"
+      },
+      {
+        "text": "F172",
+        "page": 9,
+        "source": "ocr",
+        "context": " eee coe con cce ee\nF172, Ell [Bi] Roce cee "
+      },
+      {
+        "text": "F475",
+        "page": 9,
+        "source": "ocr",
+        "context": "、痢面图 one coe cen ee\nF475 BEHE ERR] coe cee e"
+      },
+      {
+        "text": "F19",
+        "page": 12,
+        "source": "ocr",
+        "context": "vg [AAG (TALL) 和房屋 (F19) 遗迹\n图版三 Fl14、F17遗迹\n"
+      },
+      {
+        "text": "F173",
+        "page": 12,
+        "source": "ocr",
+        "context": "Fl14、F17遗迹\n\n图版四 Fa, F173 uh\n\n图版五 石墙人Q3) Ae e"
+      },
+      {
+        "text": "F6",
+        "page": 12,
+        "source": "ocr",
+        "context": "版一二 F5遗迹\n\n图版一三 _F20、F6 、F14的柱洞遗迹\n图版一四 tkhk"
+      },
+      {
+        "text": "F20",
+        "page": 12,
+        "source": "ocr",
+        "context": "版一六 圆形台面 (MI2) 和房屋 (F20) 遗迹\n图版一七”圆形台面 (MII一"
+      },
+      {
+        "text": "L2",
+        "page": 12,
+        "source": "ocr",
+        "context": "II一3\n\n图版一八_红烧士块及道路 〈L2)\n\n图版一九 lol] CQU1) F"
+      }
+    ],
+    "地层": [
+      {
+        "text": "第三层",
+        "page": 9,
+        "source": "ocr",
+        "context": "cee cee one wee one\n第三层建筑遗迹分布图 ee\n第四层建筑遗迹分布"
+      },
+      {
+        "text": "第四层",
+        "page": 9,
+        "source": "ocr",
+        "context": "e one\n第三层建筑遗迹分布图 ee\n第四层建筑遗迹分布图 ee\n\n图五 “Ti10"
+      }
+    ],
+    "纹饰": [
+      {
+        "text": "划纹",
+        "page": 11,
+        "source": "ocr",
+        "context": "an saeeae see cae\n\n刻划纹饰、附所玲纹 eee eee ene c"
+      },
+      {
+        "text": "布纹",
+        "page": 13,
+        "source": "ocr",
+        "context": " HE. REAR. EUR\n陶器底部的布纹、陶饼、陶纺轮\npy tl\n\ni i\n\n"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "灶址",
+        "page": 12,
+        "source": "ocr",
+        "context": " tkhk (Z)\n\n图版一五 F12内灶址\n\n图版一六 圆形台面 (MI2) 和房"
+      }
+    ],
+    "建筑结构": [
+      {
+        "text": "柱洞",
+        "page": 12,
+        "source": "ocr",
+        "context": "\n\n图版一三 _F20、F6 、F14的柱洞遗迹\n图版一四 tkhk (Z)\n\n图版"
+      }
+    ],
+    "石器": [
+      {
+        "text": "石核",
+        "page": 13,
+        "source": "ocr",
+        "context": " RK. SIBBR. RUB. a\n细石核、乔前器〈细石器)\n\n细五核、乔前器、细"
+      },
+      {
+        "text": "石片",
+        "page": 13,
+        "source": "ocr",
+        "context": "、乔前器〈细石器)\n\n细五核、乔前器、细石片〈细石器)\nAIMISS. GR. AN"
+      },
+      {
+        "text": "石片",
+        "page": 13,
+        "source": "ocr",
+        "context": ". TR. BE\n尖状器、石镀、刻器、细石片、刮前器〈细石器)\n细石叶\n\nAb. A"
+      },
+      {
+        "text": "石刀",
+        "page": 13,
+        "source": "ocr",
+        "context": "h ORI\nAR. Fie ORI)\n\n石刀《〈磨制石器)\n\nAd). WRB. H"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": "3100米",
+        "page": 15,
+        "source": "ocr",
+        "context": ":) 〈图一 彩版一) 。\n遗引海拔高度3100米，面积约 10000 平方米。近年来，吕"
+      },
+      {
+        "text": "3米",
+        "page": 15,
+        "source": "ocr",
+        "context": "在800秒公方以上，流 速超过\n每秒2一3米。由于第四纪的构造运动，此地地貌主要表现"
+      },
+      {
+        "text": "4580米",
+        "page": 15,
+        "source": "ocr",
+        "context": "出与深峡相间，如昌\n都以东的甲不拉山高达4580米，达乌拉山高达4400米，西南的南错拉山"
+      },
+      {
+        "text": "4400米",
+        "page": 15,
+        "source": "ocr",
+        "context": "东的甲不拉山高达4580米，达乌拉山高达4400米，西南的南错拉山高达4398尖。河\n谷两"
+      },
+      {
+        "text": "4000米",
+        "page": 15,
+        "source": "ocr",
+        "context": "较之西边的怒计上游湿润，青称栽增剖度可达4000米。开阔的河\n谷和出的阳坡蒸发量较大，气候"
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "name": "西安半坡",
+  "file": "西安半坡.pdf",
+  "era": "新石器",
+  "culture": "仰韶文化",
+  "processed_pages": 13,
+  "total_entities": 34,
+  "entity_stats": {
+    "年代": 8,
+    "陶器": 3,
+    "铜器": 4,
+    "遗存类型": 1,
+    "发掘区": 2,
+    "层位关系": 3,
+    "遗迹类型": 7,
+    "建筑结构": 4,
+    "遗迹编号": 1,
+    "纹饰": 1
+  },
+  "entities": {
+    "年代": [
+      {
+        "text": "元",
+        "page": 5,
+        "source": "ocr",
+        "context": "350\nEAR: 《〈精) 22.00 元 (7B) 19,00 元\n\n人mree"
+      },
+      {
+        "text": "元",
+        "page": 5,
+        "source": "ocr",
+        "context": " 22.00 元 (7B) 19,00 元\n\n人mreernortry te we"
+      },
+      {
+        "text": "隋",
+        "page": 8,
+        "source": "ocr",
+        "context": ") 陶器的纹角ee (141)\nCU) 隋器的特征和分期 pe (-143 )\n\n"
+      },
+      {
+        "text": "仰韶文化",
+        "page": 9,
+        "source": "ocr",
+        "context": "reseruas (229)\n站、有关人仰韶文化的楼个问题 ( 230)\nHR ERED"
+      },
+      {
+        "text": "隋",
+        "page": 10,
+        "source": "ocr",
+        "context": "6)\n一七”第1号大长方形房址居住而下的隋入Ne (18)\nTFL PRA ATE"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "ocr",
+        "context": "=)\n\n大围法与 11 号圆形房子发掘与清理时的工作情况\n遗址全景模型\n\nSHIL"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "ocr",
+        "context": "第41 号方形房子木桂,木柱的炭化中中及清理时情况\nlL 号方形房子烧士直堆积情况"
+      },
+      {
+        "text": "清",
+        "page": 15,
+        "source": "ocr",
+        "context": "形房子烧士直堆积情况\n\n第 工号方形房子清理后的遗嘛全景\n\n第 1 号方形房子居住"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "鼎",
+        "page": 6,
+        "source": "ocr",
+        "context": "机关的问题。\n衫告附朱了人骨和耻骨的研究鼎告,以供丰站研究参考。\n"
+      },
+      {
+        "text": "杯",
+        "page": 12,
+        "source": "ocr",
+        "context": "112)\nBg BUS BE CTL 、杯、焉类Te (115)\nBOE BY A"
+      },
+      {
+        "text": "环",
+        "page": 14,
+        "source": "ocr",
+        "context": "6) ee (190)\n装饰品     环孵《一Je (192)\n半角部(《一7 "
+      }
+    ],
+    "铜器": [
+      {
+        "text": "鼎",
+        "page": 6,
+        "source": "ocr",
+        "context": "机关的问题。\n衫告附朱了人骨和耻骨的研究鼎告,以供丰站研究参考。\n"
+      },
+      {
+        "text": "杯",
+        "page": 12,
+        "source": "ocr",
+        "context": "112)\nBg BUS BE CTL 、杯、焉类Te (115)\nBOE BY A"
+      },
+      {
+        "text": "饰",
+        "page": 14,
+        "source": "ocr",
+        "context": "CP.4.736) ee (190)\n装饰品     环孵《一Je (192)\n半"
+      },
+      {
+        "text": "环",
+        "page": 14,
+        "source": "ocr",
+        "context": "6) ee (190)\n装饰品     环孵《一Je (192)\n半角部(《一7 "
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "人骨",
+        "page": 6,
+        "source": "ocr",
+        "context": "民的人种以及共他机关的问题。\n衫告附朱了人骨和耻骨的研究鼎告,以供丰站研究参考。\n"
+      }
+    ],
+    "发掘区": [
+      {
+        "text": "第五区",
+        "page": 7,
+        "source": "ocr",
+        "context": "seeeeseassees ( 48)\n第五区”文化堆积的形成-ee ( 52 )\n第"
+      },
+      {
+        "text": "第三区",
+        "page": 8,
+        "source": "ocr",
+        "context": "上骨角器的岗作方汪.ee (151 》\n第三区。陶器的秽造技术.pre (152 )\n"
+      }
+    ],
+    "层位关系": [
+      {
+        "text": "堆积",
+        "page": 7,
+        "source": "ocr",
+        "context": "eassees ( 48)\n第五区”文化堆积的形成-ee ( 52 )\n第三章 “生"
+      },
+      {
+        "text": "堆积",
+        "page": 15,
+        "source": "ocr",
+        "context": "房子遗嘛全景\n\n第 13 号方形房子上面堆积及门道等得嘛\n\n第 41 号方形羽子遗呆"
+      },
+      {
+        "text": "堆积",
+        "page": 15,
+        "source": "ocr",
+        "context": "中中及清理时情况\nlL 号方形房子烧士直堆积情况\n\n第 工号方形房子清理后的遗嘛全景"
+      }
+    ],
+    "遗迹类型": [
+      {
+        "text": "房址",
+        "page": 10,
+        "source": "ocr",
+        "context": "彰面图. (10)\n一一 第21 跑方形房址平面剖面图pe C11)\n一二 第13 "
+      },
+      {
+        "text": "房址",
+        "page": 10,
+        "source": "ocr",
+        "context": "s (12)\n== BS 41 点长方形房址平面.剖面图 (14)\n—TG ”第41"
+      },
+      {
+        "text": "房址",
+        "page": 10,
+        "source": "ocr",
+        "context": " ces (16)\n一七”第1号大长方形房址居住而下的隋入Ne (18)\nTFL P"
+      },
+      {
+        "text": "房址",
+        "page": 10,
+        "source": "ocr",
+        "context": "s (19)\nOFF SS 24 号方形房址平面图(居住面保存情况) pp ( 20"
+      },
+      {
+        "text": "房址",
+        "page": 10,
+        "source": "ocr",
+        "context": "p ( 20>\n二OZ ，第24 号方形房址平面嵩(下部柱澜 ee (21)\nFF "
+      },
+      {
+        "text": "房址",
+        "page": 10,
+        "source": "ocr",
+        "context": "原图 ep (27)\n=   第6号贺形房址平面,齐面国 pp 《 28 )\n二有八"
+      },
+      {
+        "text": "房址",
+        "page": 11,
+        "source": "ocr",
+        "context": "户子复原图pe (31)\n第 2 号赂形房址平面.前面图 pp ( 32)\nEd: "
+      }
+    ],
+    "建筑结构": [
+      {
+        "text": "居住面",
+        "page": 10,
+        "source": "ocr",
+        "context": "\nOFF SS 24 号方形房址平面图(居住面保存情况) pp ( 20>\n二OZ ，"
+      },
+      {
+        "text": "门道",
+        "page": 15,
+        "source": "ocr",
+        "context": "方形房子泪呈全最\n\n第 21 号方形房子门道,四坎及灶坑的情况\n\n第 13 屿方形房"
+      },
+      {
+        "text": "门道",
+        "page": 15,
+        "source": "ocr",
+        "context": "嘛全景\n\n第 13 号方形房子上面堆积及门道等得嘛\n\n第 41 号方形羽子遗呆全景\n"
+      },
+      {
+        "text": "居住面",
+        "page": 15,
+        "source": "ocr",
+        "context": "子清理后的遗嘛全景\n\n第 1 号方形房子居住面以下发气情形\n\n第 1 BATE BT "
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "P4736",
+        "page": 12,
+        "source": "ocr",
+        "context": "(116)\nAY HSS BS BE (P4736) GE HIER on (117)\nP"
+      }
+    ],
+    "纹饰": [
+      {
+        "text": "彩陶",
+        "page": 15,
+        "source": "ocr",
+        "context": "\nae\nKix\n\nll jk A 多\n\n彩陶贫\n\nBee ek 1 Bia AE\n\n"
+      }
+    ]
+  }
+}

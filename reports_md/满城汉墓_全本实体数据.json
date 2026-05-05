@@ -1,0 +1,1412 @@
+{
+  "name": "满城汉墓",
+  "file": "满城汉墓.pdf",
+  "processed_pages": 303,
+  "total_pages": 314,
+  "total_entities": 227,
+  "entity_stats": {
+    "遗址名称": 3,
+    "年代": 43,
+    "陶器": 43,
+    "铜器": 83,
+    "纹饰": 12,
+    "葬具": 2,
+    "玉器": 3,
+    "铁器": 13,
+    "遗存类型": 3,
+    "遗迹编号": 14,
+    "测量数据": 4,
+    "银器": 1,
+    "金器": 3
+  },
+  "entities": {
+    "遗址名称": [
+      {
+        "text": "满城",
+        "page": 3,
+        "source": "ocr",
+        "context": "封面设计 仇德虎\n责任编辑 Ow\n\n满城汉划发据报告\n《上、下册》\n\n国社会科学"
+      },
+      {
+        "text": "满城",
+        "page": 314,
+        "source": "text",
+        "context": "ral Information]\n书名=满城汉墓发掘报告  （下册）\n作者=\n页数="
+      },
+      {
+        "text": "汉墓",
+        "page": 314,
+        "source": "text",
+        "context": "l Information]\n书名=满城汉墓发掘报告  （下册）\n作者=\n页数=30"
+      }
+    ],
+    "年代": [
+      {
+        "text": "元",
+        "page": 3,
+        "source": "ocr",
+        "context": "Nb, 11068» 700 定价，50元\n"
+      },
+      {
+        "text": "金",
+        "page": 4,
+        "source": "ocr",
+        "context": "\n6 BSC HAE\n\nHE a\n\n铜错金博山炉\n\n急羊尊灯\n\nHae\n\nHa A"
+      },
+      {
+        "text": "金",
+        "page": 4,
+        "source": "ocr",
+        "context": "Hae\n\nHa A\n\n铁已益和铁长刀\n\n金医针\n\n1 WE\n\nEA. EAMEAY"
+      },
+      {
+        "text": "金",
+        "page": 4,
+        "source": "ocr",
+        "context": "T\nAR AE PH BG\n\n铀鹏\n\n错金铁尺\n\n彩绘陶贫\n\nFESR\n\n人型 1"
+      },
+      {
+        "text": "金",
+        "page": 9,
+        "source": "ocr",
+        "context": "n Hi\net\nPUN Tih\nco 人金饼\n一五口中、捷室钢钱出十稍况\n一天一 "
+      },
+      {
+        "text": "金",
+        "page": 10,
+        "source": "ocr",
+        "context": "E\n\nABA. sb ie RAGE\n错金铁尺\n\n错金附件\n\nPEARS PRAT"
+      },
+      {
+        "text": "金",
+        "page": 10,
+        "source": "ocr",
+        "context": ". sb ie RAGE\n错金铁尺\n\n错金附件\n\nPEARS PRAT ANE P"
+      },
+      {
+        "text": "金",
+        "page": 12,
+        "source": "ocr",
+        "context": "RR ABS HT He ALL\n和\n错金书刀X SPER EAR A Be SN"
+      },
+      {
+        "text": "金",
+        "page": 12,
+        "source": "ocr",
+        "context": "E\nHae BID eal ay\n钢剑的金相组织\n铁匆、铁馆和铁刀等的金相组织\n2"
+      },
+      {
+        "text": "金",
+        "page": 12,
+        "source": "ocr",
+        "context": "y\n钢剑的金相组织\n铁匆、铁馆和铁刀等的金相组织\n2 PRR LAT. BOTT "
+      },
+      {
+        "text": "金",
+        "page": 12,
+        "source": "ocr",
+        "context": "T. BOTT bad En TEA” 金丝的金相组织\n二六三”詹刀环次缠金肯、“"
+      },
+      {
+        "text": "金",
+        "page": 12,
+        "source": "ocr",
+        "context": "BOTT bad En TEA” 金丝的金相组织\n二六三”詹刀环次缠金肯、“玉衣”"
+      },
+      {
+        "text": "金",
+        "page": 12,
+        "source": "ocr",
+        "context": "A” 金丝的金相组织\n二六三”詹刀环次缠金肯、“玉衣”金丝和对照样品的X 射线德震"
+      },
+      {
+        "text": "金",
+        "page": 12,
+        "source": "ocr",
+        "context": "相组织\n二六三”詹刀环次缠金肯、“玉衣”金丝和对照样品的X 射线德震要\n一全落“斑"
+      },
+      {
+        "text": "金",
+        "page": 22,
+        "source": "ocr",
+        "context": "彩版九 CIX“)\n\n铜错金博山妨 (1 : 5\n\n"
+      },
+      {
+        "text": "金",
+        "page": 27,
+        "source": "ocr",
+        "context": "彩版一四 ( XIV’)\n\n金医针 (1: 4447, 12 4446"
+      },
+      {
+        "text": "金",
+        "page": 55,
+        "source": "ocr",
+        "context": "梢床上 “SER” RRS\n\n和一号革“金缕玉衣”出土情况\n\n"
+      },
+      {
+        "text": "金",
+        "page": 56,
+        "source": "ocr",
+        "context": "修复后的一号墓“金缕玉衣”\n\n"
+      },
+      {
+        "text": "金",
+        "page": 73,
+        "source": "ocr",
+        "context": "FA =O (XXX)\n\n铜错金博山炉 〈1 5182)\n\n"
+      },
+      {
+        "text": "金",
+        "page": 118,
+        "source": "ocr",
+        "context": "                2.轮形金侯 (1 : 4992, 154353)"
+      },
+      {
+        "text": "金",
+        "page": 170,
+        "source": "ocr",
+        "context": "4, Vai C1: 2192)\n所示屋金恨工艺(放大)\n"
+      },
+      {
+        "text": "金",
+        "page": 209,
+        "source": "ocr",
+        "context": "1,二号蔓“人金缓玉农”出土情况\n\nvv\nose)\n\n3"
+      },
+      {
+        "text": "金",
+        "page": 232,
+        "source": "ocr",
+        "context": "丝织品及粘附\n席子残迹〈局部放大)\n\n错金铁尺 (2 : 3065)\n\n2, 修复"
+      },
+      {
+        "text": "金",
+        "page": 233,
+        "source": "ocr",
+        "context": "图版一九DCCXC)\n\n1.错金附件修复前情形 〈2 : 3125、2 "
+      },
+      {
+        "text": "金",
+        "page": 233,
+        "source": "ocr",
+        "context": " 3125、2 : 3066)\n\n2,错金附件X 光进视频片《2 23125, 2"
+      },
+      {
+        "text": "金",
+        "page": 277,
+        "source": "ocr",
+        "context": "图版二三四CCCXXXIV)\n\n1.金饼 (2 ; 3015)\n\n2.Q4) "
+      },
+      {
+        "text": "金",
+        "page": 287,
+        "source": "ocr",
+        "context": "r一mr\n\n一\n\n1.编级“玉衣”的各种金丝\n\n里面金丝编结方法之一\n\n3，“玉衣"
+      },
+      {
+        "text": "金",
+        "page": 287,
+        "source": "ocr",
+        "context": "一\n\n1.编级“玉衣”的各种金丝\n\n里面金丝编结方法之一\n\n3，“玉衣”\n\n表面金"
+      },
+      {
+        "text": "金",
+        "page": 287,
+        "source": "ocr",
+        "context": "金丝编结方法之一\n\n3，“玉衣”\n\n表面金丝打结情况\n\n“EK\n\n2.\n"
+      },
+      {
+        "text": "明",
+        "page": 296,
+        "source": "ocr",
+        "context": "010) 2 AIEEE\n共晶组成的亚共明白口必   1             "
+      },
+      {
+        "text": "金",
+        "page": 298,
+        "source": "ocr",
+        "context": "剑 (1 4249) 断面的分太组织，非金属\n夹杂物比较集中在高而屋”x180\n\n"
+      },
+      {
+        "text": "金",
+        "page": 299,
+        "source": "ocr",
+        "context": "RMTEM AVE x 100\n\n3.铺金书刀〈1 : SLOT) TIARA A"
+      },
+      {
+        "text": "金",
+        "page": 299,
+        "source": "ocr",
+        "context": "氏体.\n识色块状是届氏体，深色条状是 非金赂赤杂物 x700\n\n1.铺多书了(1 "
+      },
+      {
+        "text": "金",
+        "page": 302,
+        "source": "ocr",
+        "context": "图版二五九(CCLIX)\n\n1, 鲁金书刀 (1 ; 5197》 PM AIR"
+      },
+      {
+        "text": "金",
+        "page": 302,
+        "source": "ocr",
+        "context": "                2. 异金书刀〈1 ; 5197) 夹杂物的电于反"
+      },
+      {
+        "text": "金",
+        "page": 305,
+        "source": "ocr",
+        "context": "I)\n\n1. C1 ; 5113) 上人金片金相组织 x600\n\n2.971 (1"
+      },
+      {
+        "text": "金",
+        "page": 305,
+        "source": "ocr",
+        "context": "\n\n1. C1 ; 5113) 上人金片金相组织 x600\n\n2.971 (1 3"
+      },
+      {
+        "text": "金",
+        "page": 305,
+        "source": "ocr",
+        "context": "2.971 (1 35242) 环首上纺金片金相组织 x440\n\n3. “RR” "
+      },
+      {
+        "text": "金",
+        "page": 305,
+        "source": "ocr",
+        "context": "971 (1 35242) 环首上纺金片金相组织 x440\n\n3. “RR” (1"
+      },
+      {
+        "text": "金",
+        "page": 305,
+        "source": "ocr",
+        "context": "\n3. “RR” (1 ; 8173) 金丝\n金相组织及外形轮廓 x 440\n\n"
+      },
+      {
+        "text": "金",
+        "page": 305,
+        "source": "ocr",
+        "context": " “RR” (1 ; 8173) 金丝\n金相组织及外形轮廓 x 440\n\n"
+      },
+      {
+        "text": "金",
+        "page": 306,
+        "source": "ocr",
+        "context": "1,47) (1 : 5242) 环首强金片的X 射线德理相\n\n2. “HR” ("
+      },
+      {
+        "text": "金",
+        "page": 306,
+        "source": "ocr",
+        "context": "\n\n2. “HR” (1 25173) 金丝的X HRT\n\nSRP CPHL AS"
+      }
+    ],
+    "陶器": [
+      {
+        "text": "尊",
+        "page": 4,
+        "source": "ocr",
+        "context": "AE\n\nHE a\n\n铜错金博山炉\n\n急羊尊灯\n\nHae\n\nHa A\n\n铁已益和铁长"
+      },
+      {
+        "text": "刀",
+        "page": 4,
+        "source": "ocr",
+        "context": "灯\n\nHae\n\nHa A\n\n铁已益和铁长刀\n\n金医针\n\n1 WE\n\nEA. EAM"
+      },
+      {
+        "text": "陶盘",
+        "page": 7,
+        "source": "ocr",
+        "context": "\nFALE By Bay 2 hi\n彩绘陶盘的纹饰\n彩绘陷稚的纹饰\n\n(iy he\n"
+      },
+      {
+        "text": "环",
+        "page": 7,
+        "source": "ocr",
+        "context": "y TAG Bsa ky\na\n\n玉壁和玉环\n\naR. EP A i\nAU 36 T"
+      },
+      {
+        "text": "环",
+        "page": 8,
+        "source": "ocr",
+        "context": " FE Hal 4\n长方形活轴铁车器和钢环\n钢销首、铀环及其它\nHAIRS\n\n‘H"
+      },
+      {
+        "text": "环",
+        "page": 8,
+        "source": "ocr",
+        "context": " 4\n长方形活轴铁车器和钢环\n钢销首、铀环及其它\nHAIRS\n\n‘HTD TAL "
+      },
+      {
+        "text": "盆",
+        "page": 9,
+        "source": "ocr",
+        "context": "NA TAR\n一上-- Hi\n一七二，钢盆，钢钵和钢盐\n一[2 Ra. Sa AE"
+      },
+      {
+        "text": "钵",
+        "page": 9,
+        "source": "ocr",
+        "context": "TAR\n一上-- Hi\n一七二，钢盆，钢钵和钢盐\n一[2 Ra. Sa AE\n一L"
+      },
+      {
+        "text": "环",
+        "page": 10,
+        "source": "ocr",
+        "context": "\nHal be Ansa Be\n钢水徐街环杯\n\n$9\n\nPSI. a AHR\nPI"
+      },
+      {
+        "text": "杯",
+        "page": 10,
+        "source": "ocr",
+        "context": "Hal be Ansa Be\n钢水徐街环杯\n\n$9\n\nPSI. a AHR\nPID"
+      },
+      {
+        "text": "陶盆",
+        "page": 10,
+        "source": "ocr",
+        "context": "OES Bla\n\nFEES Wd\n\n彩绘陶盆\n\nVg HP kg a Fg Ss\n\n"
+      },
+      {
+        "text": "环",
+        "page": 11,
+        "source": "ocr",
+        "context": " A IE BK aS\n\n普首形铜饰、铜环及其它\n\n钢当点\n\nmas\n\n钢当卢\n\n"
+      },
+      {
+        "text": "刀",
+        "page": 12,
+        "source": "ocr",
+        "context": " ABS HT He ALL\n和\n错金书刀X SPER EAR A Be SNIP"
+      },
+      {
+        "text": "刀",
+        "page": 12,
+        "source": "ocr",
+        "context": "l ay\n钢剑的金相组织\n铁匆、铁馆和铁刀等的金相组织\n2 PRR LAT. BO"
+      },
+      {
+        "text": "刀",
+        "page": 12,
+        "source": "ocr",
+        "context": "n TEA” 金丝的金相组织\n二六三”詹刀环次缠金肯、“玉衣”金丝和对照样品的X "
+      },
+      {
+        "text": "环",
+        "page": 12,
+        "source": "ocr",
+        "context": " TEA” 金丝的金相组织\n二六三”詹刀环次缠金肯、“玉衣”金丝和对照样品的X 射"
+      },
+      {
+        "text": "环",
+        "page": 59,
+        "source": "ocr",
+        "context": "       2.一号幕梢上大、人小钢档环\n\n3. 一号莫载板车上铜轮\n\n4.— "
+      },
+      {
+        "text": "杯",
+        "page": 71,
+        "source": "ocr",
+        "context": "\n2. Hi — ABB EA\n梢圆形铜杯〈1 > 4286)\n\n3. 饰第二种图"
+      },
+      {
+        "text": "杯",
+        "page": 84,
+        "source": "ocr",
+        "context": "E MMA C1: 4292)\n\n2.钢杯形器 〈 1 : 4295)\n\n3.钢铃"
+      },
+      {
+        "text": "刀",
+        "page": 110,
+        "source": "ocr",
+        "context": "图版六七CLXVII)\n\n3.铁长刀 (1 5104) HMB MR\n\nLE"
+      },
+      {
+        "text": "刀",
+        "page": 110,
+        "source": "ocr",
+        "context": ") C1: 5104) 之正面\n2.铁长刀 (1: 5104) 2A\n\n"
+      },
+      {
+        "text": "刀",
+        "page": 111,
+        "source": "ocr",
+        "context": "版六八CLLXVIII)\n\n2. 0型铁刀《前)》 CLS 5108)    4."
+      },
+      {
+        "text": "刀",
+        "page": 111,
+        "source": "ocr",
+        "context": " CM) 《1 75236)\n\n忆工型快刀《市) 《1 5187)      4."
+      },
+      {
+        "text": "盘",
+        "page": 135,
+        "source": "ocr",
+        "context": "图版九二(XCII)\n\nLT型果绘风盘花纹〈1 : 3242)\n\n2.0 型彩"
+      },
+      {
+        "text": "盘",
+        "page": 135,
+        "source": "ocr",
+        "context": "〈1 : 3242)\n\n2.0 型彩绘隐盘花纹〈1 : 3245)\n\n"
+      },
+      {
+        "text": "环",
+        "page": 174,
+        "source": "ocr",
+        "context": "长方形钢冒 〈 1 ; 2292) 、钢环形钉 《1 ; 2289) 、 钢带环管"
+      },
+      {
+        "text": "环",
+        "page": 174,
+        "source": "ocr",
+        "context": "钢环形钉 《1 ; 2289) 、 钢带环管〈 1 ; 2193), MARE E"
+      },
+      {
+        "text": "环",
+        "page": 176,
+        "source": "ocr",
+        "context": "〈 1 ; 2345)\n\n2. TV型钢环《1 ; 2010)\n\n3.钢环 TY\n"
+      },
+      {
+        "text": "环",
+        "page": 176,
+        "source": "ocr",
+        "context": "TV型钢环《1 ; 2010)\n\n3.钢环 TY\nC1: 2042)\n(左)、\n\n"
+      },
+      {
+        "text": "杯",
+        "page": 195,
+        "source": "ocr",
+        "context": "图版一五二(CLII)\n\n2.料耳杯《〈《1 ;5122)\n\n"
+      },
+      {
+        "text": "杯",
+        "page": 216,
+        "source": "ocr",
+        "context": "图版一七三(CCLXXII)\n\n1,钢耳杯 (2 ;3028)\n\n2.钢区 (2 "
+      },
+      {
+        "text": "刀",
+        "page": 237,
+        "source": "ocr",
+        "context": "图版一九四(CCXCIV)\n\n3. 两刀分开后X ea\n1. 刀册正面     "
+      },
+      {
+        "text": "刀",
+        "page": 237,
+        "source": "ocr",
+        "context": "V)\n\n3. 两刀分开后X ea\n1. 刀册正面                 "
+      },
+      {
+        "text": "刀",
+        "page": 299,
+        "source": "ocr",
+        "context": "TEM AVE x 100\n\n3.铺金书刀〈1 : SLOT) TIARA AC "
+      },
+      {
+        "text": "球",
+        "page": 300,
+        "source": "ocr",
+        "context": ") AMO Me Ae,\n出氏体和少量铁球体及无起员氏体 ~ 250\n\n3.刘胜很"
+      },
+      {
+        "text": "刀",
+        "page": 302,
+        "source": "ocr",
+        "context": "图版二五九(CCLIX)\n\n1, 鲁金书刀 (1 ; 5197》 PM AIR S"
+      },
+      {
+        "text": "刀",
+        "page": 302,
+        "source": "ocr",
+        "context": "              2. 异金书刀〈1 ; 5197) 夹杂物的电于反射相"
+      },
+      {
+        "text": "环",
+        "page": 305,
+        "source": "ocr",
+        "context": "00\n\n2.971 (1 35242) 环首上纺金片金相组织 x440\n\n3. “"
+      },
+      {
+        "text": "环",
+        "page": 306,
+        "source": "ocr",
+        "context": ")\n\n1,47) (1 : 5242) 环首强金片的X 射线德理相\n\n2. “HR"
+      },
+      {
+        "text": "球",
+        "page": 309,
+        "source": "ocr",
+        "context": "ee MLE,            和球形集体) 。x 了\n一端玉化成妊准环，在"
+      },
+      {
+        "text": "环",
+        "page": 309,
+        "source": "ocr",
+        "context": " 和球形集体) 。x 了\n一端玉化成妊准环，在其外方还出现一条晨石\nRew CAR"
+      },
+      {
+        "text": "环",
+        "page": 310,
+        "source": "ocr",
+        "context": "RI,\n部保存很好，边部和尖庄交代成纤维环。 x 66\n\n3 SF MMR LOE"
+      },
+      {
+        "text": "豆",
+        "page": 312,
+        "source": "ocr",
+        "context": "00x\n\n3,朴衬”杆切面25 x 。 豆切面80 x 梓切而200x\n"
+      }
+    ],
+    "铜器": [
+      {
+        "text": "尊",
+        "page": 4,
+        "source": "ocr",
+        "context": "AE\n\nHE a\n\n铜错金博山炉\n\n急羊尊灯\n\nHae\n\nHa A\n\n铁已益和铁长"
+      },
+      {
+        "text": "刀",
+        "page": 4,
+        "source": "ocr",
+        "context": "灯\n\nHae\n\nHa A\n\n铁已益和铁长刀\n\n金医针\n\n1 WE\n\nEA. EAM"
+      },
+      {
+        "text": "铜饰",
+        "page": 6,
+        "source": "ocr",
+        "context": "足\n\nEG WA ak AE I\n对普形铜饰\n\n钢饰\n\nATi\n\n铜零件\n\n钢人\n\n"
+      },
+      {
+        "text": "饰",
+        "page": 6,
+        "source": "ocr",
+        "context": " WA ak AE I\n对普形铜饰\n\n钢饰\n\nATi\n\n铜零件\n\n钢人\n\n铀人和铜"
+      },
+      {
+        "text": "饰",
+        "page": 6,
+        "source": "ocr",
+        "context": "炉\n\n工型、工型铁暖炉\n\n工型铁剑及其玉饰\nFREI AULK RB\nKK\n"
+      },
+      {
+        "text": "盘",
+        "page": 7,
+        "source": "ocr",
+        "context": "FALE By Bay 2 hi\n彩绘陶盘的纹饰\n彩绘陷稚的纹饰\n\n(iy he\n"
+      },
+      {
+        "text": "饰",
+        "page": 7,
+        "source": "ocr",
+        "context": "E By Bay 2 hi\n彩绘陶盘的纹饰\n彩绘陷稚的纹饰\n\n(iy he\n\nsy"
+      },
+      {
+        "text": "饰",
+        "page": 7,
+        "source": "ocr",
+        "context": " 2 hi\n彩绘陶盘的纹饰\n彩绘陷稚的纹饰\n\n(iy he\n\nsy TAG Bsa"
+      },
+      {
+        "text": "环",
+        "page": 7,
+        "source": "ocr",
+        "context": "y TAG Bsa ky\na\n\n玉壁和玉环\n\naR. EP A i\nAU 36 T"
+      },
+      {
+        "text": "环",
+        "page": 8,
+        "source": "ocr",
+        "context": " FE Hal 4\n长方形活轴铁车器和钢环\n钢销首、铀环及其它\nHAIRS\n\n‘H"
+      },
+      {
+        "text": "环",
+        "page": 8,
+        "source": "ocr",
+        "context": " 4\n长方形活轴铁车器和钢环\n钢销首、铀环及其它\nHAIRS\n\n‘HTD TAL "
+      },
+      {
+        "text": "盆",
+        "page": 9,
+        "source": "ocr",
+        "context": "NA TAR\n一上-- Hi\n一七二，钢盆，钢钵和钢盐\n一[2 Ra. Sa AE"
+      },
+      {
+        "text": "钵",
+        "page": 9,
+        "source": "ocr",
+        "context": "TAR\n一上-- Hi\n一七二，钢盆，钢钵和钢盐\n一[2 Ra. Sa AE\n一L"
+      },
+      {
+        "text": "环",
+        "page": 10,
+        "source": "ocr",
+        "context": "\nHal be Ansa Be\n钢水徐街环杯\n\n$9\n\nPSI. a AHR\nPI"
+      },
+      {
+        "text": "杯",
+        "page": 10,
+        "source": "ocr",
+        "context": "Hal be Ansa Be\n钢水徐街环杯\n\n$9\n\nPSI. a AHR\nPID"
+      },
+      {
+        "text": "盆",
+        "page": 10,
+        "source": "ocr",
+        "context": "ES Bla\n\nFEES Wd\n\n彩绘陶盆\n\nVg HP kg a Fg Ss\n\n"
+      },
+      {
+        "text": "铜饰",
+        "page": 11,
+        "source": "ocr",
+        "context": "E li A IE BK aS\n\n普首形铜饰、铜环及其它\n\n钢当点\n\nmas\n\n钢当"
+      },
+      {
+        "text": "铜环",
+        "page": 11,
+        "source": "ocr",
+        "context": "i A IE BK aS\n\n普首形铜饰、铜环及其它\n\n钢当点\n\nmas\n\n钢当卢\n\n"
+      },
+      {
+        "text": "饰",
+        "page": 11,
+        "source": "ocr",
+        "context": "\n\n钢当点\n\nmas\n\n钢当卢\n\n钢管络饰、钢节约和钢、铁带扣\n\nBO. RA A"
+      },
+      {
+        "text": "刀",
+        "page": 12,
+        "source": "ocr",
+        "context": " ABS HT He ALL\n和\n错金书刀X SPER EAR A Be SNIP"
+      },
+      {
+        "text": "刀",
+        "page": 12,
+        "source": "ocr",
+        "context": "l ay\n钢剑的金相组织\n铁匆、铁馆和铁刀等的金相组织\n2 PRR LAT. BO"
+      },
+      {
+        "text": "刀",
+        "page": 12,
+        "source": "ocr",
+        "context": "n TEA” 金丝的金相组织\n二六三”詹刀环次缠金肯、“玉衣”金丝和对照样品的X "
+      },
+      {
+        "text": "环",
+        "page": 12,
+        "source": "ocr",
+        "context": " TEA” 金丝的金相组织\n二六三”詹刀环次缠金肯、“玉衣”金丝和对照样品的X 射"
+      },
+      {
+        "text": "饰",
+        "page": 12,
+        "source": "ocr",
+        "context": "射线德震要\n一全落“斑衣? 的玉片和白玉饰片的显微照片\nee ie eee 的琅片"
+      },
+      {
+        "text": "饰",
+        "page": 30,
+        "source": "ocr",
+        "context": "彩版一七 〈XVIIT)\n\n铜园饰 (1 : 1068) 、工型铜车等 C"
+      },
+      {
+        "text": "环",
+        "page": 59,
+        "source": "ocr",
+        "context": "       2.一号幕梢上大、人小钢档环\n\n3. 一号莫载板车上铜轮\n\n4.— "
+      },
+      {
+        "text": "钟",
+        "page": 64,
+        "source": "ocr",
+        "context": "图版二一(XXD\n\n1.钢钟《1 ;4108)\n\n2.钢链子查 (1"
+      },
+      {
+        "text": "铜杯",
+        "page": 71,
+        "source": "ocr",
+        "context": "\n\n2. Hi — ABB EA\n梢圆形铜杯〈1 > 4286)\n\n3. 饰第二种图"
+      },
+      {
+        "text": "饰",
+        "page": 71,
+        "source": "ocr",
+        "context": "梢圆形铜杯〈1 > 4286)\n\n3. 饰第二种图案花纹的\nMMM C1: 428"
+      },
+      {
+        "text": "杯",
+        "page": 84,
+        "source": "ocr",
+        "context": "E MMA C1: 4292)\n\n2.钢杯形器 〈 1 : 4295)\n\n3.钢铃"
+      },
+      {
+        "text": "铃",
+        "page": 84,
+        "source": "ocr",
+        "context": "杯形器 〈 1 : 4295)\n\n3.钢铃 (1 ; 1152)\n\n"
+      },
+      {
+        "text": "带钩",
+        "page": 86,
+        "source": "ocr",
+        "context": "\n1,钢镇 (1 :5224)\n\n2.钢带钩(1 ; 5040)\n"
+      },
+      {
+        "text": "饰",
+        "page": 93,
+        "source": "ocr",
+        "context": "RR FLO (L)\n\n1.了型仪仗顶钢饰 (1 : 4090)         "
+      },
+      {
+        "text": "饰",
+        "page": 99,
+        "source": "ocr",
+        "context": "图版五六(LVD)\n\n1, I型对章形钢饰 (1 : 5034)\n\n2.了型对间形"
+      },
+      {
+        "text": "饰",
+        "page": 101,
+        "source": "ocr",
+        "context": "图版五八LVIII)\n\n1, 普首形钢饰 (1 ; 4262)\n\n2. HIE "
+      },
+      {
+        "text": "饰",
+        "page": 101,
+        "source": "ocr",
+        "context": "R (1 : 4144)\n\n4.。龙形钢饰 (1 : 2121)\n"
+      },
+      {
+        "text": "刀",
+        "page": 110,
+        "source": "ocr",
+        "context": "图版六七CLXVII)\n\n3.铁长刀 (1 5104) HMB MR\n\nLE"
+      },
+      {
+        "text": "刀",
+        "page": 110,
+        "source": "ocr",
+        "context": ") C1: 5104) 之正面\n2.铁长刀 (1: 5104) 2A\n\n"
+      },
+      {
+        "text": "刀",
+        "page": 111,
+        "source": "ocr",
+        "context": "版六八CLLXVIII)\n\n2. 0型铁刀《前)》 CLS 5108)    4."
+      },
+      {
+        "text": "刀",
+        "page": 111,
+        "source": "ocr",
+        "context": " CM) 《1 75236)\n\n忆工型快刀《市) 《1 5187)      4."
+      },
+      {
+        "text": "饰",
+        "page": 119,
+        "source": "ocr",
+        "context": "6、\n1 ; 4391) (中) 、银盾饰 (1 : 5120) CA)\n\nTS)"
+      },
+      {
+        "text": "盘",
+        "page": 135,
+        "source": "ocr",
+        "context": "图版九二(XCII)\n\nLT型果绘风盘花纹〈1 : 3242)\n\n2.0 型彩"
+      },
+      {
+        "text": "盘",
+        "page": 135,
+        "source": "ocr",
+        "context": "〈1 : 3242)\n\n2.0 型彩绘隐盘花纹〈1 : 3245)\n\n"
+      },
+      {
+        "text": "带钩",
+        "page": 144,
+        "source": "ocr",
+        "context": "图版一D一(CD)\n\n1. 玉带钩 (1 3 5049、1 ; 5200、"
+      },
+      {
+        "text": "饰",
+        "page": 146,
+        "source": "ocr",
+        "context": "图版一D三(CIID\n\n1. 玛瑞珠串饰 (1 ; 5130)\n\n2. KM C"
+      },
+      {
+        "text": "饰",
+        "page": 151,
+        "source": "ocr",
+        "context": " 1 ER (1 ; 5027) 案栏钢饰\n\n2.了型钢器足51 ; 4358)\n"
+      },
+      {
+        "text": "饰",
+        "page": 167,
+        "source": "ocr",
+        "context": "图版一二四(CXXIV)\n\n1.铜贸饰 (1 : 1068)\n\n2. ARNG"
+      },
+      {
+        "text": "饰",
+        "page": 169,
+        "source": "ocr",
+        "context": "六(CCXXYVI)\n\n1. 工型铜物人饰 (1 ; 2035)\n\n2. [型情物"
+      },
+      {
+        "text": "饰",
+        "page": 169,
+        "source": "ocr",
+        "context": " (1 ; 2035)\n\n2. [型情物饰 (1 ; 2082)\n\n3. MSH "
+      },
+      {
+        "text": "饰",
+        "page": 169,
+        "source": "ocr",
+        "context": "H (1 ; 2226)\n\n4.V型钢鸭饰 (1 : 1147) Ce).\nTY型"
+      },
+      {
+        "text": "饰",
+        "page": 169,
+        "source": "ocr",
+        "context": "1 : 1147) Ce).\nTY型钢多饰 1; 1039) 《〈右)\n\n"
+      },
+      {
+        "text": "饰",
+        "page": 170,
+        "source": "ocr",
+        "context": "二七(CXXYVID)\n\n1,长简形钢车饰 (1 ; 2195)\n\n3. Vai "
+      },
+      {
+        "text": "饰",
+        "page": 171,
+        "source": "ocr",
+        "context": "一二八(CXXVII)\n\n1.衡未红首钢饰 (1 : 2081) 《〈左) 、钢冒"
+      },
+      {
+        "text": "饰",
+        "page": 173,
+        "source": "ocr",
+        "context": "\n\n1.49 (1: 2072)\n铜柱形饰 (1 ; 2119)\n\n2,钢转饰〈 "
+      },
+      {
+        "text": "饰",
+        "page": 173,
+        "source": "ocr",
+        "context": "柱形饰 (1 ; 2119)\n\n2,钢转饰〈 1 ; 2238)\n\n3. MPI "
+      },
+      {
+        "text": "环",
+        "page": 174,
+        "source": "ocr",
+        "context": "长方形钢冒 〈 1 ; 2292) 、钢环形钉 《1 ; 2289) 、 钢带环管"
+      },
+      {
+        "text": "环",
+        "page": 174,
+        "source": "ocr",
+        "context": "钢环形钉 《1 ; 2289) 、 钢带环管〈 1 ; 2193), MARE E"
+      },
+      {
+        "text": "饰",
+        "page": 175,
+        "source": "ocr",
+        "context": "拉手〈1: 2320)\n\n2,普而形钢车饰 TI型(1; 1128, 152246"
+      },
+      {
+        "text": "环",
+        "page": 176,
+        "source": "ocr",
+        "context": "〈 1 ; 2345)\n\n2. TV型钢环《1 ; 2010)\n\n3.钢环 TY\n"
+      },
+      {
+        "text": "环",
+        "page": 176,
+        "source": "ocr",
+        "context": "TV型钢环《1 ; 2010)\n\n3.钢环 TY\nC1: 2042)\n(左)、\n\n"
+      },
+      {
+        "text": "泡",
+        "page": 186,
+        "source": "ocr",
+        "context": " Dw C1; 2110)\n2. V型钢泡〈1 ; 1017,\n\n1 ; 229%"
+      },
+      {
+        "text": "泡",
+        "page": 186,
+        "source": "ocr",
+        "context": "29%、1 ; 2155)\n3. 由型钢泡〈1 : 2128)\n4. VRS (1"
+      },
+      {
+        "text": "饰",
+        "page": 187,
+        "source": "ocr",
+        "context": "56、1 ; 2136) 5.卫型钢管络饰〈《 1 ; 2130) 5, VAAL"
+      },
+      {
+        "text": "泡",
+        "page": 187,
+        "source": "ocr",
+        "context": "管络你 (1 : 2316) 8.用型岗泡 (1 : 2123) 小 嘲型钢泡\n\n"
+      },
+      {
+        "text": "泡",
+        "page": 187,
+        "source": "ocr",
+        "context": "型岗泡 (1 : 2123) 小 嘲型钢泡\n\n113:1149) 10.钢由杀 ("
+      },
+      {
+        "text": "杯",
+        "page": 195,
+        "source": "ocr",
+        "context": "图版一五二(CLII)\n\n2.料耳杯《〈《1 ;5122)\n\n"
+      },
+      {
+        "text": "杯",
+        "page": 216,
+        "source": "ocr",
+        "context": "图版一七三(CCLXXII)\n\n1,钢耳杯 (2 ;3028)\n\n2.钢区 (2 "
+      },
+      {
+        "text": "饰",
+        "page": 228,
+        "source": "ocr",
+        "context": "         有\n3. 如型钢仪仗项饰 《2 ; 3010)\n5.T型3式钢例"
+      },
+      {
+        "text": "刀",
+        "page": 237,
+        "source": "ocr",
+        "context": "图版一九四(CCXCIV)\n\n3. 两刀分开后X ea\n1. 刀册正面     "
+      },
+      {
+        "text": "刀",
+        "page": 237,
+        "source": "ocr",
+        "context": "V)\n\n3. 两刀分开后X ea\n1. 刀册正面                 "
+      },
+      {
+        "text": "饰",
+        "page": 258,
+        "source": "ocr",
+        "context": "\nLe MRR (2 : 4079) 钢饰件\n\nLy\n\n2, WME (2. 31"
+      },
+      {
+        "text": "铜饰",
+        "page": 259,
+        "source": "ocr",
+        "context": "铜肇带\n\nPEE (2 : 4024) 铜饰带\n\n4 SON AEX 射线透视照片\n"
+      },
+      {
+        "text": "饰",
+        "page": 260,
+        "source": "ocr",
+        "context": "O\n\n2. EM (2 54040) 钢饰\n"
+      },
+      {
+        "text": "饰",
+        "page": 271,
+        "source": "ocr",
+        "context": "R (2 ; 1168)\n\n1.善首形钢饰 (2 : 1399) (上) 、\nWM"
+      },
+      {
+        "text": "刀",
+        "page": 299,
+        "source": "ocr",
+        "context": "TEM AVE x 100\n\n3.铺金书刀〈1 : SLOT) TIARA AC "
+      },
+      {
+        "text": "刀",
+        "page": 302,
+        "source": "ocr",
+        "context": "图版二五九(CCLIX)\n\n1, 鲁金书刀 (1 ; 5197》 PM AIR S"
+      },
+      {
+        "text": "刀",
+        "page": 302,
+        "source": "ocr",
+        "context": "              2. 异金书刀〈1 ; 5197) 夹杂物的电于反射相"
+      },
+      {
+        "text": "环",
+        "page": 305,
+        "source": "ocr",
+        "context": "00\n\n2.971 (1 35242) 环首上纺金片金相组织 x440\n\n3. “"
+      },
+      {
+        "text": "环",
+        "page": 306,
+        "source": "ocr",
+        "context": ")\n\n1,47) (1 : 5242) 环首强金片的X 射线德理相\n\n2. “HR"
+      },
+      {
+        "text": "环",
+        "page": 309,
+        "source": "ocr",
+        "context": " 和球形集体) 。x 了\n一端玉化成妊准环，在其外方还出现一条晨石\nRew CAR"
+      },
+      {
+        "text": "环",
+        "page": 310,
+        "source": "ocr",
+        "context": "RI,\n部保存很好，边部和尖庄交代成纤维环。 x 66\n\n3 SF MMR LOE"
+      },
+      {
+        "text": "钟",
+        "page": 311,
+        "source": "ocr",
+        "context": "              现鲜石的“砂钟构造\",在四个象限里，各分布\nSOR H"
+      },
+      {
+        "text": "豆",
+        "page": 312,
+        "source": "ocr",
+        "context": "00x\n\n3,朴衬”杆切面25 x 。 豆切面80 x 梓切而200x\n"
+      }
+    ],
+    "纹饰": [
+      {
+        "text": "彩绘",
+        "page": 4,
+        "source": "ocr",
+        "context": "AE PH BG\n\n铀鹏\n\n错金铁尺\n\n彩绘陶贫\n\nFESR\n\n人型 1式铜当卢\n"
+      },
+      {
+        "text": "彩绘",
+        "page": 7,
+        "source": "ocr",
+        "context": " 0\nFALE By Bay 2 hi\n彩绘陶盘的纹饰\n彩绘陷稚的纹饰\n\n(iy h"
+      },
+      {
+        "text": "彩绘",
+        "page": 7,
+        "source": "ocr",
+        "context": "By Bay 2 hi\n彩绘陶盘的纹饰\n彩绘陷稚的纹饰\n\n(iy he\n\nsy TA"
+      },
+      {
+        "text": "彩绘",
+        "page": 10,
+        "source": "ocr",
+        "context": "\nFOES Bla\n\nFEES Wd\n\n彩绘陶盆\n\nVg HP kg a Fg Ss"
+      },
+      {
+        "text": "彩绘",
+        "page": 41,
+        "source": "ocr",
+        "context": "彩版二八 C(XXVIIT)\n\n彩绘陶人很 (2 ;: 2480)\n\n"
+      },
+      {
+        "text": "彩绘",
+        "page": 131,
+        "source": "ocr",
+        "context": "图版八八LXXXVIII)\n\n1, 工型彩绘陶估花纹《1 ; 3184)\n\n2. 1"
+      },
+      {
+        "text": "彩绘",
+        "page": 132,
+        "source": "ocr",
+        "context": "图版人败九CLXXXIX)\n\n1.了型彩绘陶改花纹 〈1 ; 3234)\n\n2.了"
+      },
+      {
+        "text": "彩绘",
+        "page": 132,
+        "source": "ocr",
+        "context": "改花纹 〈1 ; 3234)\n\n2.了型彩绘网禾花纹〈1 ; 3256)\n\n"
+      },
+      {
+        "text": "彩绘",
+        "page": 134,
+        "source": "ocr",
+        "context": "图版九一 (XCI)\n\n1,了型彩绘隐约花纹 〈1 : 3183)\n\n2.T"
+      },
+      {
+        "text": "彩绘",
+        "page": 134,
+        "source": "ocr",
+        "context": "约花纹 〈1 : 3183)\n\n2.T型彩绘陶禾花纹 〈1 : 3198)\n\n"
+      },
+      {
+        "text": "彩绘",
+        "page": 135,
+        "source": "ocr",
+        "context": "盘花纹〈1 : 3242)\n\n2.0 型彩绘隐盘花纹〈1 : 3245)\n\n"
+      },
+      {
+        "text": "彩绘",
+        "page": 249,
+        "source": "ocr",
+        "context": "图版二DO六(CCYD)\n\n1. 下型彩绘陶盒(2 ; 2458)\n\n2. WM "
+      }
+    ],
+    "葬具": [
+      {
+        "text": "棺",
+        "page": 4,
+        "source": "ocr",
+        "context": "AM DR “CRER”\nI 型铀铺首和棺壁钢铺首\nFLY Sk Raa\n\nSR "
+      },
+      {
+        "text": "棺",
+        "page": 16,
+        "source": "ocr",
+        "context": " 型铜铺首 “1 : 5167，左) 、棺壁铜铺首 cL: 5148。右)\n"
+      }
+    ],
+    "玉器": [
+      {
+        "text": "玉饰",
+        "page": 6,
+        "source": "ocr",
+        "context": "暖炉\n\n工型、工型铁暖炉\n\n工型铁剑及其玉饰\nFREI AULK RB\nKK\n"
+      },
+      {
+        "text": "玉环",
+        "page": 7,
+        "source": "ocr",
+        "context": "sy TAG Bsa ky\na\n\n玉壁和玉环\n\naR. EP A i\nAU 36 T"
+      },
+      {
+        "text": "玉饰",
+        "page": 12,
+        "source": "ocr",
+        "context": " 射线德震要\n一全落“斑衣? 的玉片和白玉饰片的显微照片\nee ie eee 的琅片"
+      }
+    ],
+    "铁器": [
+      {
+        "text": "铁剑",
+        "page": 6,
+        "source": "ocr",
+        "context": "\n工型铁暖炉\n\n工型、工型铁暖炉\n\n工型铁剑及其玉饰\nFREI AULK RB\nKK"
+      },
+      {
+        "text": "铁铠甲",
+        "page": 11,
+        "source": "ocr",
+        "context": "e. Ree Bats IK\n\n修复前的铁铠甲\n\n铁铠中右袖打开过程\n"
+      },
+      {
+        "text": "铁刀",
+        "page": 12,
+        "source": "ocr",
+        "context": "al ay\n钢剑的金相组织\n铁匆、铁馆和铁刀等的金相组织\n2 PRR LAT. BO"
+      },
+      {
+        "text": "铁刀",
+        "page": 111,
+        "source": "ocr",
+        "context": "图版六八CLLXVIII)\n\n2. 0型铁刀《前)》 CLS 5108)    4."
+      },
+      {
+        "text": "铁铠甲",
+        "page": 114,
+        "source": "ocr",
+        "context": "图版七一ICXXD\n\n出土时的铁铠甲(1: 5117)\n\n"
+      },
+      {
+        "text": "铁灯",
+        "page": 234,
+        "source": "ocr",
+        "context": "eR HE (2 ; 4116)\n\n3.铁灯 (2 : 4098)\n\n"
+      },
+      {
+        "text": "铁铲",
+        "page": 239,
+        "source": "ocr",
+        "context": "\n\n图版一九六(CXCYVD)\n\n3. 铁铲 (2 : 001)\n"
+      },
+      {
+        "text": "铁铠甲",
+        "page": 288,
+        "source": "ocr",
+        "context": "图版二四五(CCXLYV )\n\n修复前的铁铠甲\n"
+      },
+      {
+        "text": "铁铠甲",
+        "page": 289,
+        "source": "ocr",
+        "context": "7 、8 、9 ，第十三、十四、十五层\n铁铠甲右柚打开过程\n"
+      },
+      {
+        "text": "铁铠甲",
+        "page": 290,
+        "source": "ocr",
+        "context": "          4. AB AR\n\n铁铠甲复原模型\n\n2. 侧而\n\n3. 背面\n\n"
+      },
+      {
+        "text": "铁铠甲",
+        "page": 291,
+        "source": "ocr",
+        "context": "图版二四八(CCXLVII)\n\n铁铠甲的局部\n\n1. AMER Ce).\nHA"
+      },
+      {
+        "text": "铁铠甲",
+        "page": 293,
+        "source": "ocr",
+        "context": "图版二五DCCCL)\n\n铁铠甲的局部\n\n1, SEM Cb). WR "
+      },
+      {
+        "text": "铁铠甲",
+        "page": 294,
+        "source": "ocr",
+        "context": "图版二五一(CCLI)\n\n铁铠甲的局部\n\n1,右肋接袖部位正面 (上) "
+      }
+    ],
+    "遗存类型": [
+      {
+        "text": "织物",
+        "page": 11,
+        "source": "ocr",
+        "context": "平后形状\n\n窦结“玉家”上衣玉片上粘贴的织物痕迹和裤简开口接色处铁条锁边痕迹\n刘胜“"
+      },
+      {
+        "text": "织物",
+        "page": 284,
+        "source": "ocr",
+        "context": "      2.8 HE” LEE\n贴的织物痕连                  "
+      },
+      {
+        "text": "织物",
+        "page": 284,
+        "source": "ocr",
+        "context": "                  贴的织物痕连\n\n4.灾缩 “\"玉家”罪简开口接翅"
+      }
+    ],
+    "遗迹编号": [
+      {
+        "text": "M4",
+        "page": 72,
+        "source": "ocr",
+        "context": "BHAT C12 4364)\n3, 0 M4 (1: 5065)\n4. MMA] C"
+      },
+      {
+        "text": "S092",
+        "page": 105,
+        "source": "ocr",
+        "context": "二(LXIT)\n\n| ARB (1 © S092)\n"
+      },
+      {
+        "text": "S111",
+        "page": 108,
+        "source": "ocr",
+        "context": "        3. 1 RM (1: S111)\n                  "
+      },
+      {
+        "text": "M1",
+        "page": 121,
+        "source": "ocr",
+        "context": "                 2. M1 4s Mae (1 : 3204)\n3"
+      },
+      {
+        "text": "S401",
+        "page": 136,
+        "source": "ocr",
+        "context": " 3398)\n\n3. 1 ME C1: S401)                   "
+      },
+      {
+        "text": "S171",
+        "page": 147,
+        "source": "ocr",
+        "context": "1: 5191\n\n6. RED C1: S171)\n6. REP (1: 5170)\n"
+      },
+      {
+        "text": "S184",
+        "page": 149,
+        "source": "ocr",
+        "context": "图版一D六(CVI)\n\n1a C1: S184)\n\n2. ARE C1 3001, 1"
+      },
+      {
+        "text": "M1",
+        "page": 152,
+        "source": "ocr",
+        "context": "AL76)\nWREARE th\n\n2. M1 MER C1: 4178)\nWREWK"
+      },
+      {
+        "text": "M2",
+        "page": 172,
+        "source": "ocr",
+        "context": "C1: 2313)\n\n3. ES OM M2 XK C1: 2209)\nIm 2 C"
+      },
+      {
+        "text": "M4",
+        "page": 217,
+        "source": "ocr",
+        "context": "一七四(CCLXXIV )\n\n1, 1 M4] (2 ; 8041)\n\n2. 出型钢"
+      },
+      {
+        "text": "Q4",
+        "page": 277,
+        "source": "ocr",
+        "context": "\n1.金饼 (2 ; 3015)\n\n2.Q4) (2 : 4071)\n\n3 “Pie"
+      },
+      {
+        "text": "S117",
+        "page": 297,
+        "source": "ocr",
+        "context": "   os\ns   %\n\n6. CL: S117) ROAR, PAN\nRee, Kea"
+      },
+      {
+        "text": "L2",
+        "page": 310,
+        "source": "ocr",
+        "context": "图版二六七(CCCLXVII)\n\nL2 B+ 在受热六作用的草闪五的横切面上，"
+      },
+      {
+        "text": "M25",
+        "page": 313,
+        "source": "ocr",
+        "context": "O (CCLXX)\n\n图版二七\n\n1. M25 * ea nmiad x 4) 200"
+      }
+    ],
+    "测量数据": [
+      {
+        "text": "                         2.44m",
+        "page": 82,
+        "source": "ocr",
+        "context": "X)\n\n1, WM C1 ; 4325)                         2.44m& (1 2 4273)\n\n"
+      },
+      {
+        "text": " 1 m",
+        "page": 168,
+        "source": "ocr",
+        "context": "弓形铁支架(1 :; 2007)\n\n2. 1 mse (1 : 2028)\n\n3. De"
+      },
+      {
+        "text": "\n3.4m",
+        "page": 215,
+        "source": "ocr",
+        "context": "22)\n2. bk (2 : 3002)\n3.4m (2 : 3036)\n\n5. Nama"
+      },
+      {
+        "text": " 10m",
+        "page": 300,
+        "source": "ocr",
+        "context": " MRC Mit aK oY\nSe 《1 10m) IRMOTERER, ©      "
+      }
+    ],
+    "银器": [
+      {
+        "text": "银带",
+        "page": 119,
+        "source": "ocr",
+        "context": "@ MG (1 ; 5220，上) 、\n银带屠 (1 ; 4356，下)\n\n"
+      }
+    ],
+    "金器": [
+      {
+        "text": "金片",
+        "page": 305,
+        "source": "ocr",
+        "context": "I)\n\n1. C1 ; 5113) 上人金片金相组织 x600\n\n2.971 (1 "
+      },
+      {
+        "text": "金片",
+        "page": 305,
+        "source": "ocr",
+        "context": "2.971 (1 35242) 环首上纺金片金相组织 x440\n\n3. “RR” ("
+      },
+      {
+        "text": "金片",
+        "page": 306,
+        "source": "ocr",
+        "context": "1,47) (1 : 5242) 环首强金片的X 射线德理相\n\n2. “HR” (1"
+      }
+    ]
+  }
+}
